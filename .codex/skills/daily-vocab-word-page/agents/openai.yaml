@@ -1,4 +1,4 @@
 interface:
   display_name: "Daily Vocab Word Page"
   short_description: "Prepare payloads and render quiet word pages"
-  default_prompt: "Use $daily-vocab-word-page to gather word-page content and return a template-ready JSON payload by default. Render files only when requested."
+  default_prompt: "Use $daily-vocab-word-page to gather word-page content and return a template-ready JSON payload by default. Keep pronunciation compact as respelling + UK/US IPA, include CEFR and Zipf metadata, and render files only when requested."

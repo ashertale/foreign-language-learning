@@ -9,9 +9,11 @@
     "WORD_SLUG": "serendipity",
     "WORD_LOWER": "serendipity",
     "PART_OF_SPEECH": "noun",
-    "IPA": "UK /ˌser.ənˈdɪp.ə.ti/ · US /ˌser.ənˈdɪp.ə.t̬i/",
+    "IPA": "ser-uhn-DIP-uh-tee · UK /ˌser.ənˈdɪp.ə.ti/ · US /ˌser.ənˈdɪp.ə.t̬i/",
     "THESIS": "不是單純的「幸運」，而是在你有探索眼光時，偶然把有價值的東西送到面前。",
     "LEARNING_POSITION": "把它記成「chance + prepared attention + valuable find」：偶然出現，但你也要看得出它有價值。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.74",
     "CORE_IDEA": "<code>serendipity</code> 是「意外」和「敏銳判斷」相遇：你沒有刻意尋找那件事，卻在碰見它時認出它的價值。",
     "CONCEPT_FOCUS": "偶然發現有趣、有用或珍貴的東西；重點是「沒在找，卻找到」。",
     "TONE_REGISTER": "帶一點文學感、研究感與驚喜感，比 luck 更有「發現」與「價值」的方向。",
@@ -100,6 +102,12 @@
       "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/serendipity",
       "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",

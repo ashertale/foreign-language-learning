@@ -3,8 +3,8 @@
 Use this sequence unless the user asks for a different learning flow. It reflects the current `prototypes/ephemeral.html` and `prototypes/liminal.html` structure.
 
 1. Topbar: brand/title linking to page top, plus a small `單字庫` link back to `index.html`.
-2. Hero: `Word NN / partOfSpeech`, word, IPA/pronunciation, listen button, concise thesis in Traditional Chinese.
-3. Learning Position: short aside that frames the word as a memorable formula.
+2. Hero: `Word NN / partOfSpeech`, word, compact pronunciation (`respelling · UK /.../ · US /.../`), listen button, concise thesis in Traditional Chinese.
+3. Learning Position: short aside that frames the word as a memorable formula, plus compact CEFR and Zipf frequency metadata.
 4. Reading Path: sticky left navigation for core sections.
 5. Core Idea: one strong sentence that captures the word's conceptual center.
 6. Cue Grid: 3 compact tiles: concept focus, tone/register, use warning.
@@ -50,6 +50,7 @@ When the user requests multiple new words without specifying exact targets:
 For each new word page, confirm at least these source categories before writing source-sensitive content:
 
 - Dictionary and pronunciation: definition, part of speech, IPA, basic usage.
+- Level and frequency: CEFR label for learning difficulty and Zipf frequency as a two-decimal numeric value.
 - Etymology/history: origin language, historical formation, coined story, or semantic development.
 - Common/modern usage: practical domains such as work, engineering, product, science, social media, literature, or everyday speech.
 

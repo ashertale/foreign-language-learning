@@ -9,9 +9,11 @@
     "WORD_SLUG": "liminal",
     "WORD_LOWER": "liminal",
     "PART_OF_SPEECH": "adjective",
-    "IPA": "UK /ˈlɪm.ɪ.nəl/ · US /ˈlɪm.ən.əl/",
+    "IPA": "LIM-ih-nuhl · UK /ˈlɪm.ɪ.nəl/ · US /ˈlɪm.ən.əl/",
     "THESIS": "不是「中間」這麼平面，而是站在門檻上：已經離開舊狀態，還沒真正抵達新狀態。",
     "LEARNING_POSITION": "把它記成「threshold + transition」：門已經開了，但你還站在門框之間。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.24",
     "CORE_IDEA": "<code>liminal</code> 描述一種「在門檻上」的狀態：你正在穿越，不再完全屬於原本那邊，也還沒有完全成為下一邊。",
     "CONCEPT_FOCUS": "邊界、過渡、半完成。重點不只是位置在中間，而是狀態正在改變。",
     "TONE_REGISTER": "偏正式、文學、心理學與文化研究語境；也常出現在空間感、成長、儀式與網路美學中。",
@@ -99,6 +101,12 @@
       "label": "Oxford Learner's",
       "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/liminal",
       "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",

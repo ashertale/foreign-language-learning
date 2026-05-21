@@ -12,6 +12,8 @@
     "IPA": "",
     "THESIS": "",
     "LEARNING_POSITION": "",
+    "CEFR_LEVEL": "",
+    "ZIPF_FREQUENCY": "",
     "CORE_IDEA": "",
     "CONCEPT_FOCUS": "",
     "TONE_REGISTER": "",
@@ -74,6 +76,12 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
+      "label": "",
+      "url": "",
+      "usedFor": ""
+    },
+    {
+      "category": "level-frequency",
       "label": "",
       "url": "",
       "usedFor": ""

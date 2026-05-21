@@ -14,6 +14,45 @@ PROTOTYPES = ROOT / "prototypes"
 WORD_INDEX = PROTOTYPES / "word-index.js"
 PLACEHOLDER_RE = re.compile(r"{{([A-Z0-9_]+)}}")
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+IPA_FORMAT_RE = re.compile(r"^[^·\n]+ · UK /[^/\n]+/ · US /[^/\n]+/$")
+CEFR_RE = re.compile(r"^(A1|A2|B1|B2|C1|C2)$")
+ZIPF_RE = re.compile(r"^\d(?:\.\d{2})$")
+CJK_RE = re.compile(r"[\u4e00-\u9fff]")
+CHINESE_PLACEHOLDER_KEYS = {
+    "THESIS",
+    "LEARNING_POSITION",
+    "CORE_IDEA",
+    "CONCEPT_FOCUS",
+    "TONE_REGISTER",
+    "USE_WARNING",
+    "SHORT_DEFINITION",
+    "CONFUSION_NOTE",
+    "FLOW_1",
+    "FLOW_2",
+    "FLOW_3",
+    "ORIGIN_PARAGRAPH",
+    "ORIGIN_MEMORY",
+    "MEMORY_HOOK",
+    "MEMORY_EXPLANATION",
+    "DAILY_USAGE",
+    "PROFESSIONAL_USAGE",
+    "DOMAIN_USAGE",
+    "COLLOCATION_NOTE",
+    "COLLOCATION_NOTE_1",
+    "COLLOCATION_NOTE_2",
+    "COLLOCATION_NOTE_3",
+    "NEIGHBOR_SELF_USE",
+    "NEIGHBOR_1_MEANING",
+    "NEIGHBOR_1_USE",
+    "MODERN_USE_1",
+    "MODERN_USE_2",
+    "DICTIONARY_SOURCE_NOTE",
+    "ETYMOLOGY_SOURCE_NOTE",
+    "MODERN_SOURCE_NOTE",
+    "CHECK_MEANING",
+    "CHECK_ORIGIN",
+    "CHECK_SENTENCE",
+}
 
 
 class RenderError(Exception):
@@ -73,6 +112,29 @@ def validate_placeholders(payload: dict[str, Any], template: str) -> dict[str, s
     for key in sorted(actual):
         replacements[key] = require_string(replacements_raw[key], f"templatePlaceholders.{key}")
     return replacements
+
+
+def validate_content_contract(replacements: dict[str, str]) -> None:
+    ipa = replacements["IPA"]
+    forbidden_ipa_labels = ["Respelling", "UK IPA", "US IPA"]
+    for label in forbidden_ipa_labels:
+        if label in ipa:
+            raise RenderError(f'templatePlaceholders.IPA must not include "{label}"')
+    if not IPA_FORMAT_RE.fullmatch(ipa):
+        raise RenderError('templatePlaceholders.IPA must look like "ih-FEM-er-uhl · UK /.../ · US /.../"')
+
+    if not CEFR_RE.fullmatch(replacements["CEFR_LEVEL"]):
+        raise RenderError("templatePlaceholders.CEFR_LEVEL must be one of A1, A2, B1, B2, C1, or C2")
+    if not ZIPF_RE.fullmatch(replacements["ZIPF_FREQUENCY"]):
+        raise RenderError("templatePlaceholders.ZIPF_FREQUENCY must be a one-digit Zipf value with two decimals")
+
+    word_code = f"<code>{replacements['WORD_LOWER']}</code>"
+    if word_code not in replacements["CORE_IDEA"]:
+        raise RenderError(f"templatePlaceholders.CORE_IDEA must include {word_code}")
+
+    for key in sorted(CHINESE_PLACEHOLDER_KEYS):
+        if not CJK_RE.search(replacements[key]):
+            raise RenderError(f"templatePlaceholders.{key} must contain Traditional Chinese learning text")
 
 
 def validate_target(payload: dict[str, Any], replacements: dict[str, str]) -> tuple[str, Path]:
@@ -236,6 +298,7 @@ def render_word_page(payload_path: Path, dry_run: bool) -> list[str]:
     payload = load_payload(payload_path)
     template = read_text(TEMPLATE)
     replacements = validate_placeholders(payload, template)
+    validate_content_contract(replacements)
     slug, output_path = validate_target(payload, replacements)
     entry = validate_index_entry(payload, slug)
 
@@ -277,6 +340,7 @@ def main() -> int:
         print(message)
     if not args.dry_run:
         print("next: uv run python scripts\\sync_word_numbers.py")
+        print("then: uv run python scripts\\validate_word_pages.py")
         print("then: uv run python scripts\\sync_word_numbers.py --check")
     return 0
 

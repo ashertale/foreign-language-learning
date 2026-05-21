@@ -9,9 +9,11 @@
     "WORD_SLUG": "lucid",
     "WORD_LOWER": "lucid",
     "PART_OF_SPEECH": "adjective",
-    "IPA": "UK /ˈluː.sɪd/ · US /ˈluː.sɪd/",
+    "IPA": "LOO-sid · UK /ˈluː.sɪd/ · US /ˈluː.sɪd/",
     "THESIS": "不是只有「清楚」，而是像開燈一樣，讓混亂的想法變得有秩序、可理解。",
     "LEARNING_POSITION": "把它記成「light + order + understanding」：不是資訊變少，而是結構被照亮。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "3.27",
     "CORE_IDEA": "<code>lucid</code> 描述一種被光照過的清楚：想法、文字或人的意識不只是沒有模糊，而是能被順著理解。",
     "CONCEPT_FOCUS": "清楚、明白、有條理，讓讀者或聽者能快速抓住意思與邏輯。",
     "TONE_REGISTER": "正式但不冷硬；常見於寫作、說明、醫療狀態、夢境與分析性討論。",
@@ -102,6 +104,12 @@
       "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/us/dictionary/english/lucid",
       "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",

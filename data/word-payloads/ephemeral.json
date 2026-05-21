@@ -9,10 +9,12 @@
     "WORD_SLUG": "ephemeral",
     "WORD_LOWER": "ephemeral",
     "PART_OF_SPEECH": "adjective",
-    "IPA": "UK /ɪˈfem.ər.əl/ · US /əˈfem.ɚ.əl/",
+    "IPA": "ih-FEM-er-uhl · UK /ɪˈfem.ər.əl/ · US /əˈfem.ɚ.əl/",
     "THESIS": "不是單純的「短暫」，而是短到讓你意識到時間正在流走。",
     "LEARNING_POSITION": "把它記成「短暫 + 美感 + 消逝」。比 temporary 更詩性，也更有脆弱感。",
-    "CORE_IDEA": "有些事物因為不會久留，反而逼你在當下看見它的重量。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.99",
+    "CORE_IDEA": "<code>ephemeral</code> 描述那些不會久留的事物；正因為它們短暫，反而逼你在當下看見它們的重量。",
     "CONCEPT_FOCUS": "存在時間很短，而且短暫本身就是它的意義。",
     "TONE_REGISTER": "常帶有詩意、脆弱、珍惜感，適合描述自然現象、情緒與靈感。",
     "USE_WARNING": "如果只是暫時借用，用 temporary；如果短暫帶來美感或無常感，用 ephemeral。",
@@ -100,6 +102,12 @@
       "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/ephemeral",
       "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",

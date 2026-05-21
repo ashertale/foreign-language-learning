@@ -9,9 +9,11 @@
     "WORD_SLUG": "salient",
     "WORD_LOWER": "salient",
     "PART_OF_SPEECH": "adjective",
-    "IPA": "UK /ˈseɪ.li.ənt/ · US /ˈseɪl.jənt/",
+    "IPA": "SAY-lee-uhnt · UK /ˈseɪ.li.ənt/ · US /ˈseɪl.jənt/",
     "THESIS": "不是單純的「重要」，而是從一堆資訊裡跳出來、值得你優先看見的重點。",
     "LEARNING_POSITION": "把它記成「attention + significance + leap out」：重要到會從背景中凸出來。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "3.12",
     "CORE_IDEA": "<code>salient</code> 描述一個資訊、特徵或問題「突出到值得注意」：它不只是存在，而是正在要求你把注意力轉過去。",
     "CONCEPT_FOCUS": "在眾多背景資訊中最醒目、最有意義、最需要被優先處理的部分。",
     "TONE_REGISTER": "正式、分析感強；常見於報告、研究、會議摘要、法規、設計討論與工程判斷。",
@@ -102,6 +104,12 @@
       "label": "Britannica Dictionary",
       "url": "https://www.britannica.com/dictionary/salient",
       "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",

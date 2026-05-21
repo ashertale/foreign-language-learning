@@ -9,9 +9,11 @@
     "WORD_SLUG": "meticulous",
     "WORD_LOWER": "meticulous",
     "PART_OF_SPEECH": "adjective",
-    "IPA": "UK /məˈtɪk.jə.ləs/ · US /məˈtɪk.jə.ləs/",
+    "IPA": "muh-TIK-yuh-lus · UK /məˈtɪk.jə.ləs/ · US /məˈtɪk.jə.ləs/",
     "THESIS": "不是「龜毛」，而是把錯誤最可能躲藏的細節逐一照亮。",
     "LEARNING_POSITION": "把它記成「care + every detail + error prevention」：慢不是重點，精準才是重點。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.24",
     "CORE_IDEA": "<code>meticulous</code> 描述一種高解析度的注意力：每個小地方都被看見，因為任何小地方都可能改變結果。",
     "CONCEPT_FOCUS": "非常細心、嚴謹，願意逐項檢查細節，而不是只看大方向。",
     "TONE_REGISTER": "多半正面，尤其在研究、工程、紀錄、審計、醫療與設計品質中很有價值。",
@@ -46,7 +48,7 @@
     "NEIGHBOR_1_USE": "比 meticulous 普通，不一定表示逐項細查",
     "MODERN_USE_1": "在現代職場裡，<code>meticulous</code> 常出現在品質、合規、資料治理、工程設計與研究方法。它不是叫每件事都慢慢做，而是提醒你：有些工作一旦出錯，修復成本遠高於事前檢查成本。",
     "MODERN_USE_2": "用在履歷或自我描述時要具體，不要只寫 <code>I am meticulous</code>。更自然的做法是把它放進成果：<code>meticulous test documentation</code>、<code>meticulous failure analysis</code>、<code>meticulous release notes</code>。",
-    "DICTIONARY_SOURCE_NOTE": "「giving or showing careful attention to every detail」與商務用法參考 Cambridge Dictionary。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與商務用法參考 Cambridge Dictionary；核心義是對每個細節都展現小心注意。",
     "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/meticulous",
     "DICTIONARY_LABEL": "Cambridge Dictionary",
     "ETYMOLOGY_SOURCE_NOTE": "Latin <code>meticulosus</code>、<code>metus</code> 與早期「fearful, timid」義參考 Online Etymology Dictionary。",
@@ -99,7 +101,13 @@
       "category": "dictionary-pronunciation",
       "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/meticulous",
-      "usedFor": "definition, pronunciation, and dictionary sense support"
+      "usedFor": "IPA、基本定義與商務用法"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",

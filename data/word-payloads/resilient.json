@@ -9,9 +9,11 @@
     "WORD_SLUG": "resilient",
     "WORD_LOWER": "resilient",
     "PART_OF_SPEECH": "adjective",
-    "IPA": "UK /rɪˈzɪl.i.ənt/ · US /rɪˈzɪl.jənt/",
+    "IPA": "rih-ZIL-yuhnt · UK /rɪˈzɪl.i.ənt/ · US /rɪˈzɪl.jənt/",
     "THESIS": "不是「沒有受傷」，而是受壓後仍能恢復形狀、功能或方向。",
     "LEARNING_POSITION": "把它記成「stress + recovery + adaptive strength」：真正的強，是壓力過後還能回來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.50",
     "CORE_IDEA": "<code>resilient</code> 的核心不是硬撐，而是受衝擊後仍保有恢復、調整、重新站穩的能力。",
     "CONCEPT_FOCUS": "從壓力、彎曲、傷害、變動或失敗中恢復，並回到可運作狀態。",
     "TONE_REGISTER": "正面、成熟、務實；可用在人、材料、系統、經濟、團隊與供應鏈。",
@@ -100,6 +102,12 @@
       "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/resilient",
       "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
     },
     {
       "category": "etymology-history",
