@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Scrutinize",
+    "slug": "scrutinize",
+    "outputPath": "prototypes/scrutinize.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Scrutinize",
+    "WORD_SLUG": "scrutinize",
+    "WORD_LOWER": "scrutinize",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "/ˈskruː.tə.naɪz/",
+    "THESIS": "不是隨便看一眼，而是帶著懷疑與細節意識，把材料逐項翻開來檢查。",
+    "LEARNING_POSITION": "把 scrutinize 記成「inspect under a bright light」：它比 examine 更有放大鏡感。",
+    "CORE_IDEA": "<code>scrutinize</code> means to examine something very carefully, often because accuracy, risk, or hidden detail matters.",
+    "CONCEPT_FOCUS": "高密度檢查，找出一般閱讀或快速檢視會漏掉的細節。",
+    "TONE_REGISTER": "正式、審查感強；常見於 review、audit、evidence、proposal、code、policy。",
+    "USE_WARNING": "不要用 scrutinize 形容輕鬆瀏覽；它暗示檢查者很仔細，甚至帶點懷疑。",
+    "SHORT_DEFINITION": "To examine closely and carefully, especially to find problems, hidden details, or the truth.",
+    "CONFUSION_WORD": "Examine",
+    "CONFUSION_NOTE": "<code>examine</code> 是檢查；<code>scrutinize</code> 更像放大鏡下的嚴格審視。",
+    "FLOW_1": "important material",
+    "FLOW_2": "close inspection",
+    "FLOW_3": "hidden detail found",
+    "ORIGIN_PARAGRAPH": "<code>scrutinize</code> is related to Latin <code>scrutari</code>, to search or examine. One old association points to sorting through small scraps or odds and ends to find what matters.",
+    "ORIGIN_MEMORY": "這個字可以想成在一堆碎片裡翻找：不是掃過表面，而是把角落也打開看。",
+    "MEMORY_HOOK": "To scrutinize is to make the small print nervous.",
+    "MEMORY_EXPLANATION": "當你 scrutinize 一份規格、合約或 log，你不是在挑毛病取樂，而是在保護後續決策不要被藏起來的小細節擊中。",
+    "DAILY_USAGE": "She scrutinized the bill and found a charge that should not have been there.",
+    "PROFESSIONAL_USAGE": "During code review, the team scrutinized the error path because failures were rare but costly.",
+    "DOMAIN_USAGE": "Regulators scrutinize safety claims when public risk is involved.",
+    "COLLOCATION_NOTE": "Scrutinize 常搭配 proposal、claim、evidence、record，語氣比 look at 強很多。",
+    "COLLOCATION_1": "scrutinize the evidence",
+    "REGISTER_1": "legal / analysis",
+    "COLLOCATION_NOTE_1": "指仔細檢查證據是否真的支持結論。",
+    "COLLOCATION_2": "scrutinize a proposal",
+    "REGISTER_2": "business / engineering",
+    "COLLOCATION_NOTE_2": "指對計畫、設計或需求做嚴格審視。",
+    "COLLOCATION_3": "closely scrutinize",
+    "REGISTER_3": "formal",
+    "COLLOCATION_NOTE_3": "常見強調搭配，表示檢查密度非常高。",
+    "NEIGHBOR_SELF": "仔細、嚴格、帶懷疑地檢查",
+    "NEIGHBOR_SELF_USE": "風險高、細節多、需要找出隱藏問題時",
+    "NEIGHBOR_1": "Examine",
+    "NEIGHBOR_1_MEANING": "檢查或研究",
+    "NEIGHBOR_1_USE": "一般檢查即可，不需要強調放大鏡式嚴格審視",
+    "MODERN_USE_1": "Modern English uses <code>scrutinize</code> for documents, claims, spending, decisions, policies, evidence, and code.",
+    "MODERN_USE_2": "In engineering, it is useful when the normal happy path is not enough and the review must focus on assumptions, edge cases, and failure modes.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the sense of close and searching examination.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/scrutinize",
+    "DICTIONARY_LABEL": "Merriam-Webster: scrutinize",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Latin <code>scrutari</code>, to search or examine.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/scrutinize",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: scrutinize",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with evidence, documents, spending, decisions, and claims.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/scrutinize",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 scrutinize 和 examine 的差異。",
+    "CHECK_ORIGIN": "我記得它有 search/examine closely 的字源畫面。",
+    "CHECK_SENTENCE": "我能用它造一句 code review、證據或設計審查情境的英文句子。",
+    "PRACTICE_SENTENCE": "We should <code>scrutinize</code> the recovery path before approving the bootloader change.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/scrutinize",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "scrutinize",
+    "word": "Scrutinize",
+    "partOfSpeech": "verb",
+    "href": "./scrutinize.html",
+    "thesis": "不是隨便看一眼，而是帶著懷疑與細節意識，把材料逐項翻開來檢查。",
+    "tags": [
+      "審視",
+      "細查",
+      "inspect",
+      "examine",
+      "scrutinize evidence",
+      "code review",
+      "audit",
+      "risk",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 scrutinize 和 examine 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有 search/examine closely 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 code review、證據或設計審查情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: scrutinize",
+      "url": "https://www.merriam-webster.com/dictionary/scrutinize",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: scrutinize",
+      "url": "https://www.etymonline.com/word/scrutinize",
+      "usedFor": "Latin scrutari origin and close-search memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/scrutinize",
+      "usedFor": "modern usage around evidence, documents, and claims"
+    }
+  ]
+}

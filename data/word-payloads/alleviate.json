@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Alleviate",
+    "slug": "alleviate",
+    "outputPath": "prototypes/alleviate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Alleviate",
+    "WORD_SLUG": "alleviate",
+    "WORD_LOWER": "alleviate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "/əˈliː.vi.eɪt/",
+    "THESIS": "不是徹底解決，而是把痛苦、壓力、風險或負擔變輕。",
+    "LEARNING_POSITION": "把 alleviate 記成「make the load lighter」：問題可能仍在，但重量先降下來。",
+    "CORE_IDEA": "<code>alleviate</code> means to make suffering, pressure, risk, or difficulty less severe.",
+    "CONCEPT_FOCUS": "降低嚴重程度，而不是保證根除根因。",
+    "TONE_REGISTER": "正式、溫和、常見於醫療、政策、風險、營運、工程 workaround。",
+    "USE_WARNING": "不要把 alleviate 當成 solve；solve 是解決問題，alleviate 是減輕痛感或傷害。",
+    "SHORT_DEFINITION": "To make pain, difficulty, pressure, or a bad condition less severe.",
+    "CONFUSION_WORD": "Solve",
+    "CONFUSION_NOTE": "<code>solve</code> 指解掉問題；<code>alleviate</code> 指讓問題比較不痛、比較可承受。",
+    "FLOW_1": "burden exists",
+    "FLOW_2": "severity reduced",
+    "FLOW_3": "system can breathe",
+    "ORIGIN_PARAGRAPH": "<code>alleviate</code> comes from Latin roots connected with lightening a load. The central image is lifting weight off someone or something.",
+    "ORIGIN_MEMORY": "你可以把它想成把背包裡最重的石頭拿掉一些。路還在，但身體先能走下去。",
+    "MEMORY_HOOK": "Alleviate does not erase the fire; it lowers the heat.",
+    "MEMORY_EXPLANATION": "在工程裡，workaround 常常 alleviates impact。它可能不是 root cause fix，但能先讓客戶、系統或團隊少受傷。",
+    "DAILY_USAGE": "A short walk helped alleviate the stress of a long day.",
+    "PROFESSIONAL_USAGE": "The temporary patch alleviated the crash frequency while the team investigated the root cause.",
+    "DOMAIN_USAGE": "Policy makers may try to alleviate congestion, poverty, or pressure on public services.",
+    "COLLOCATION_NOTE": "Alleviate 常和 pain、stress、pressure、risk、impact 搭配，語氣比 reduce 更帶有解除負擔感。",
+    "COLLOCATION_1": "alleviate pain",
+    "REGISTER_1": "medical / daily",
+    "COLLOCATION_NOTE_1": "指減輕疼痛，不一定完全治癒。",
+    "COLLOCATION_2": "alleviate pressure",
+    "REGISTER_2": "work / systems",
+    "COLLOCATION_NOTE_2": "指降低人、資源或系統承受的壓力。",
+    "COLLOCATION_3": "alleviate the impact",
+    "REGISTER_3": "risk / operations",
+    "COLLOCATION_NOTE_3": "指降低事件造成的影響或損害。",
+    "NEIGHBOR_SELF": "減輕痛苦、壓力或嚴重程度",
+    "NEIGHBOR_SELF_USE": "要強調 relief 或 severity reduction，而不是完整解法時",
+    "NEIGHBOR_1": "Solve",
+    "NEIGHBOR_1_MEANING": "找到解法並移除問題",
+    "NEIGHBOR_1_USE": "當問題本身被解掉，而不是只降低影響時",
+    "MODERN_USE_1": "Modern English uses <code>alleviate</code> in medicine, policy, business, engineering, and daily life for reducing harmful pressure or suffering.",
+    "MODERN_USE_2": "It is a precise word for mitigation work: you can alleviate symptoms or impact while still acknowledging the root cause remains.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the sense of making suffering or difficulty less severe.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/alleviate",
+    "DICTIONARY_LABEL": "Merriam-Webster: alleviate",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Latin lightening or making lighter.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/alleviate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: alleviate",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with pain, pressure, problems, impact, and conditions.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/alleviate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 alleviate 和 solve 的差異。",
+    "CHECK_ORIGIN": "我記得它有 make the load lighter 的字源畫面。",
+    "CHECK_SENTENCE": "我能用它造一句風險、壓力、醫療或 workaround 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The retry logic helped <code>alleviate</code> the impact of intermittent network failures.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/alleviate",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "alleviate",
+    "word": "Alleviate",
+    "partOfSpeech": "verb",
+    "href": "./alleviate.html",
+    "thesis": "不是徹底解決，而是把痛苦、壓力、風險或負擔變輕。",
+    "tags": [
+      "減輕",
+      "紓解",
+      "relieve",
+      "solve",
+      "alleviate pressure",
+      "alleviate impact",
+      "risk",
+      "workaround",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 alleviate 和 solve 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有 make the load lighter 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句風險、壓力、醫療或 workaround 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: alleviate",
+      "url": "https://www.merriam-webster.com/dictionary/alleviate",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: alleviate",
+      "url": "https://www.etymonline.com/word/alleviate",
+      "usedFor": "Latin lightening origin and load memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/alleviate",
+      "usedFor": "modern usage around pain, pressure, and impact"
+    }
+  ]
+}

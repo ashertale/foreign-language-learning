@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Deliberate",
+    "slug": "deliberate",
+    "outputPath": "prototypes/deliberate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Deliberate",
+    "WORD_SLUG": "deliberate",
+    "WORD_LOWER": "deliberate",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/dɪˈlɪb.ər.ət/",
+    "THESIS": "不是慢吞吞，而是經過衡量、知道自己為什麼這樣做的有意識選擇。",
+    "LEARNING_POSITION": "把 deliberate 記成「weighed before action」：它可以形容小心，也可以形容刻意。",
+    "CORE_IDEA": "<code>deliberate</code> describes an action or choice made consciously, carefully, and with intention.",
+    "CONCEPT_FOCUS": "做之前有衡量，做的時候有目的，不是反射、意外或隨便。",
+    "TONE_REGISTER": "日常到正式都能用；在工程、設計、管理和法律語境中常見。",
+    "USE_WARNING": "形容詞 <code>deliberate</code> 讀 /dɪˈlɪb.ər.ət/；動詞 <code>deliberate</code> 讀 /dɪˈlɪb.ə.reɪt/，意思是審議。",
+    "SHORT_DEFINITION": "Done intentionally and often carefully, after thought rather than by accident or impulse.",
+    "CONFUSION_WORD": "Careful",
+    "CONFUSION_NOTE": "<code>careful</code> 強調避免錯誤；<code>deliberate</code> 強調有意識、有目的、有衡量。",
+    "FLOW_1": "pause and weigh",
+    "FLOW_2": "choose with intent",
+    "FLOW_3": "act knowingly",
+    "ORIGIN_PARAGRAPH": "<code>deliberate</code> comes from Latin <code>deliberare</code>, connected with weighing well. The old image is putting options on a scale before acting.",
+    "ORIGIN_MEMORY": "這個字可以用天秤記：不是拖延，而是把成本、風險、目的放上去量過。",
+    "MEMORY_HOOK": "A deliberate change has fingerprints.",
+    "MEMORY_EXPLANATION": "如果一個改動是 deliberate，你應該能指出它為什麼存在、服務哪個目標、接受哪個取捨。它不是碰巧變成那樣。",
+    "DAILY_USAGE": "She took a deliberate breath before answering, choosing her words carefully.",
+    "PROFESSIONAL_USAGE": "The team made a deliberate trade-off: slower boot time in exchange for safer recovery.",
+    "DOMAIN_USAGE": "In design, deliberate friction can slow users down when a destructive action needs confirmation.",
+    "COLLOCATION_NOTE": "Deliberate 常搭配 choice、effort、attempt、trade-off，表示不是偶然。",
+    "COLLOCATION_1": "deliberate choice",
+    "REGISTER_1": "general / professional",
+    "COLLOCATION_NOTE_1": "指做法背後有明確意圖與衡量。",
+    "COLLOCATION_2": "deliberate effort",
+    "REGISTER_2": "learning / work",
+    "COLLOCATION_NOTE_2": "指有目標、有方法地投入，而不是只是花時間。",
+    "COLLOCATION_3": "deliberate trade-off",
+    "REGISTER_3": "engineering / product",
+    "COLLOCATION_NOTE_3": "指明知兩邊不能兼得，仍根據優先順序做選擇。",
+    "NEIGHBOR_SELF": "有意識、經衡量、帶目的的",
+    "NEIGHBOR_SELF_USE": "要強調某行動不是偶然或衝動時",
+    "NEIGHBOR_1": "Careful",
+    "NEIGHBOR_1_MEANING": "小心、避免錯誤",
+    "NEIGHBOR_1_USE": "當重點是謹慎程度，而不是意圖或選擇過程",
+    "MODERN_USE_1": "Modern English uses <code>deliberate</code> for choices, attempts, practice, movements, and trade-offs that are conscious rather than accidental.",
+    "MODERN_USE_2": "In engineering, it is a useful word for documenting intent: a deliberate constraint, delay, or simplification should have a reason.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the senses of intentional, careful, and considered.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/deliberate",
+    "DICTIONARY_LABEL": "Merriam-Webster: deliberate",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Latin <code>deliberare</code> and the image of weighing well.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/deliberate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: deliberate",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with choices, actions, attempts, and measured movement.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/deliberate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 deliberate 和 careful 的差異。",
+    "CHECK_ORIGIN": "我記得它有 weighing options before action 的畫面。",
+    "CHECK_SENTENCE": "我能用它造一句設計取捨、學習或工程決策情境的英文句子。",
+    "PRACTICE_SENTENCE": "The delay was a <code>deliberate</code> choice to let the sensor stabilize before sampling.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/deliberate",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "deliberate",
+    "word": "Deliberate",
+    "partOfSpeech": "adjective",
+    "href": "./deliberate.html",
+    "thesis": "不是慢吞吞，而是經過衡量、知道自己為什麼這樣做的有意識選擇。",
+    "tags": [
+      "刻意",
+      "審慎",
+      "intentional",
+      "careful",
+      "deliberate choice",
+      "trade-off",
+      "design",
+      "decision making",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 deliberate 和 careful 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有 weighing options before action 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句設計取捨、學習或工程決策情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: deliberate",
+      "url": "https://www.merriam-webster.com/dictionary/deliberate",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: deliberate",
+      "url": "https://www.etymonline.com/word/deliberate",
+      "usedFor": "Latin deliberare origin and weighing memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/deliberate",
+      "usedFor": "modern usage around choices, actions, and trade-offs"
+    }
+  ]
+}

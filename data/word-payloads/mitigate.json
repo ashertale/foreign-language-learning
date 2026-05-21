@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Mitigate",
+    "slug": "mitigate",
+    "outputPath": "prototypes/mitigate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Mitigate",
+    "WORD_SLUG": "mitigate",
+    "WORD_LOWER": "mitigate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "/MIT-i-gayt/ · UK /ˈmɪt.ɪ.ɡeɪt/ · US /ˈmɪt̬.ə.ɡeɪt/",
+    "THESIS": "不是把問題消滅，而是降低它的傷害、嚴重性或發生後的代價。",
+    "LEARNING_POSITION": "用在風險、損害、影響、資安、工程缺陷與專案管理；它是面對不能完全避免的壞事時的控制語言。",
+    "CORE_IDEA": "To mitigate is to make something bad less severe. It is risk control, not magic removal.",
+    "CONCEPT_FOCUS": "重點是 reduce severity：問題可能還在，但傷害、機率、範圍或後果被壓低。",
+    "TONE_REGISTER": "正式、專業，常見於 risk management、law、engineering、environment、medicine。語氣冷靜，像在處理損害邊界。",
+    "USE_WARNING": "不要把 mitigate 用成 solve。Solve 是解決；mitigate 是減輕。若根因仍在，就只能說 mitigated, not fixed。",
+    "SHORT_DEFINITION": "To make something harmful, unpleasant, severe, or bad less serious.",
+    "CONFUSION_WORD": "solve",
+    "CONFUSION_NOTE": "Solve 表示問題被解掉；mitigate 表示損害被降低，但風險或原因可能仍存在。",
+    "FLOW_1": "harm exists",
+    "FLOW_2": "control action",
+    "FLOW_3": "lower impact",
+    "ORIGIN_PARAGRAPH": "Mitigate comes from Latin <code>mitigare</code>, to soften or make gentle, from <code>mitis</code>, gentle or soft, plus a root related to doing or driving action.",
+    "ORIGIN_MEMORY": "把 mitigate 想成把尖銳的邊磨鈍：東西還在，但不再那麼割手。",
+    "MEMORY_HOOK": "Mitigate does not erase the fire; it reduces the burn.",
+    "MEMORY_EXPLANATION": "在風險語言裡，這很重要。你可能無法完全避免斷電、網路抖動或人為操作錯誤，但可以降低它造成的損害。",
+    "DAILY_USAGE": "We brought extra water to mitigate the heat during the hike.",
+    "PROFESSIONAL_USAGE": "The firmware added a watchdog reset to mitigate the impact of a rare communication deadlock.",
+    "DOMAIN_USAGE": "Security teams mitigate risk with layered controls, logging, and limited permissions.",
+    "COLLOCATION_NOTE": "Mitigate 常接 risk、damage、impact、effects，語域偏正式且適合風險管理。",
+    "COLLOCATION_1": "mitigate risk",
+    "REGISTER_1": "business / engineering",
+    "COLLOCATION_NOTE_1": "最常見，用於降低風險機率或風險後果。",
+    "COLLOCATION_2": "mitigate the impact",
+    "REGISTER_2": "professional / analytical",
+    "COLLOCATION_NOTE_2": "表示事情可能仍會發生，但衝擊範圍被降低。",
+    "COLLOCATION_3": "mitigating circumstances",
+    "REGISTER_3": "legal / formal",
+    "COLLOCATION_NOTE_3": "法律語境，表示可減輕責任或懲罰的情況，但不是完全免責。",
+    "NEIGHBOR_SELF": "降低壞事的嚴重性或傷害",
+    "NEIGHBOR_SELF_USE": "談風險、損害、衝擊、資安、工程缺陷、法律責任。",
+    "NEIGHBOR_1": "prevent",
+    "NEIGHBOR_1_MEANING": "阻止事情發生",
+    "NEIGHBOR_1_USE": "當目標是讓事件根本不要出現，而不是降低其後果時。",
+    "MODERN_USE_1": "在工程文件裡，mitigation 通常不是最終修復，而是風險控制。這能幫你誠實區分 workaround、guardrail 和 root-cause fix。",
+    "MODERN_USE_2": "在資安與可靠度語境中，mitigate 常和 layered defense、monitoring、rollback、rate limiting 等措施一起出現。",
+    "DICTIONARY_SOURCE_NOTE": "Cambridge Dictionary gives IPA and defines mitigate as making something harmful, unpleasant, or bad less serious.",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+    "DICTIONARY_LABEL": "Cambridge Dictionary: mitigate",
+    "ETYMOLOGY_SOURCE_NOTE": "Online Etymology Dictionary traces mitigate to Latin softening and making mild or gentle.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/mitigate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: mitigate",
+    "MODERN_SOURCE_NOTE": "Cambridge Business English examples include mitigating damage, risk, effects, and impact.",
+    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+    "MODERN_SOURCE_LABEL": "Cambridge examples: mitigate",
+    "CHECK_MEANING": "說出 mitigate 和 solve 的差異",
+    "CHECK_ORIGIN": "記得它有「使變柔和、減輕尖銳傷害」的字源畫面",
+    "CHECK_SENTENCE": "用它造一句風險、工程或資安情境的英文句子",
+    "PRACTICE_SENTENCE": "This patch does not fully fix _____, but it mitigates _____ by _____.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+    "REFERENCE_LABEL": "Open Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "mitigate",
+    "word": "Mitigate",
+    "partOfSpeech": "verb",
+    "href": "./mitigate.html",
+    "thesis": "不是把問題消滅，而是降低它的傷害、嚴重性或發生後的代價。",
+    "tags": [
+      "減輕",
+      "風險控制",
+      "reduce severity",
+      "risk",
+      "mitigate risk",
+      "mitigate impact",
+      "workaround",
+      "security",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 mitigate 和 solve 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有「使變柔和、減輕傷害」的字源畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句風險、工程或資安情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: mitigate",
+      "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+      "usedFor": "IPA, definition, business collocations"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: mitigate",
+      "url": "https://www.etymonline.com/word/mitigate",
+      "usedFor": "Latin softening and mildness origin"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Cambridge examples: mitigate",
+      "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+      "usedFor": "risk, damage, effects, and impact usage"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Impeccable",
+    "slug": "impeccable",
+    "outputPath": "prototypes/impeccable.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Impeccable",
+    "WORD_SLUG": "impeccable",
+    "WORD_LOWER": "impeccable",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/ɪmˈpek.ə.bəl/",
+    "THESIS": "不是普通的好，而是乾淨到幾乎找不到錯、瑕疵或失禮之處。",
+    "LEARNING_POSITION": "把 impeccable 記成「faultless to the eye」：品質、品味、行為或紀錄都可以被稱讚到近乎無瑕。",
+    "CORE_IDEA": "<code>impeccable</code> means so careful, correct, or polished that no fault is apparent.",
+    "CONCEPT_FOCUS": "接近無瑕的品質，尤其是在細節、表現、禮儀或判斷上。",
+    "TONE_REGISTER": "正式、稱讚感強；常見於 taste、manners、record、logic、execution。",
+    "USE_WARNING": "不要把 impeccable 當成 good；它比 good 強很多，適合真的值得高度讚賞的品質。",
+    "SHORT_DEFINITION": "Without noticeable fault, error, or flaw; extremely correct, careful, or refined.",
+    "CONFUSION_WORD": "Perfect",
+    "CONFUSION_NOTE": "<code>perfect</code> 可指絕對完美；<code>impeccable</code> 常指表現、品味或細節上無可挑剔。",
+    "FLOW_1": "high standard",
+    "FLOW_2": "details hold up",
+    "FLOW_3": "no fault found",
+    "ORIGIN_PARAGRAPH": "<code>impeccable</code> comes from Latin roots meaning not able to sin or fault, connected with <code>peccare</code>, to sin or make a mistake.",
+    "ORIGIN_MEMORY": "字源有點戲劇性：不是只是好，而是好到像「找不到罪」。現代用法已經柔和成無可挑剔、近乎無瑕。",
+    "MEMORY_HOOK": "Impeccable is quality that survives inspection without flinching.",
+    "MEMORY_EXPLANATION": "想像一份報告、焊點、穿搭或推理被仔細看過，仍沒有露出明顯破綻。這就是 impeccable 的稱讚力道。",
+    "DAILY_USAGE": "Her timing was impeccable; she called exactly when the team needed a decision.",
+    "PROFESSIONAL_USAGE": "The release notes were impeccable, with every limitation, fix, and migration step clearly documented.",
+    "DOMAIN_USAGE": "In customer-facing work, impeccable manners can turn a difficult situation into a calm one.",
+    "COLLOCATION_NOTE": "Impeccable 常和 timing、record、taste、manners、logic 搭配，稱讚細節品質。",
+    "COLLOCATION_1": "impeccable timing",
+    "REGISTER_1": "general / praise",
+    "COLLOCATION_NOTE_1": "指時機抓得極準，幾乎無可挑剔。",
+    "COLLOCATION_2": "impeccable record",
+    "REGISTER_2": "professional",
+    "COLLOCATION_NOTE_2": "指紀錄乾淨，沒有明顯錯誤或污點。",
+    "COLLOCATION_3": "impeccable taste",
+    "REGISTER_3": "style / culture",
+    "COLLOCATION_NOTE_3": "指品味高度成熟、細節精準。",
+    "NEIGHBOR_SELF": "無可挑剔、近乎無瑕",
+    "NEIGHBOR_SELF_USE": "稱讚表現、品味、紀錄或細節真的經得起看時",
+    "NEIGHBOR_1": "Perfect",
+    "NEIGHBOR_1_MEANING": "完全完美，沒有缺陷",
+    "NEIGHBOR_1_USE": "要強調理想狀態或數學式完美，而不是社交或品質上的無可挑剔",
+    "MODERN_USE_1": "Modern English uses <code>impeccable</code> to praise timing, manners, taste, credentials, records, logic, and execution.",
+    "MODERN_USE_2": "The word carries polish: it does not merely say something works; it says careful inspection still finds no obvious flaw.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the sense of faultless or free from flaw.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/impeccable",
+    "DICTIONARY_LABEL": "Merriam-Webster: impeccable",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Latin <code>peccare</code>, to sin or make a mistake, with a negative prefix.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/impeccable",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: impeccable",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with timing, manners, record, taste, and performance.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/impeccable",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 impeccable 和 perfect 的差異。",
+    "CHECK_ORIGIN": "我記得它和 Latin <code>peccare</code>，to sin or make a mistake，有關。",
+    "CHECK_SENTENCE": "我能用它造一句品質、文件、紀錄或時機情境的英文句子。",
+    "PRACTICE_SENTENCE": "Her bug report was <code>impeccable</code>: clear steps, exact logs, and no missing conditions.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/impeccable",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "impeccable",
+    "word": "Impeccable",
+    "partOfSpeech": "adjective",
+    "href": "./impeccable.html",
+    "thesis": "不是普通的好，而是乾淨到幾乎找不到錯、瑕疵或失禮之處。",
+    "tags": [
+      "無瑕",
+      "無可挑剔",
+      "faultless",
+      "perfect",
+      "impeccable timing",
+      "impeccable record",
+      "quality",
+      "writing",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 impeccable 和 perfect 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和 Latin peccare，犯錯或犯罪，有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句品質、文件、紀錄或時機情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: impeccable",
+      "url": "https://www.merriam-webster.com/dictionary/impeccable",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: impeccable",
+      "url": "https://www.etymonline.com/word/impeccable",
+      "usedFor": "Latin peccare origin and faultless memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/impeccable",
+      "usedFor": "modern usage around timing, manners, records, and taste"
+    }
+  ]
+}

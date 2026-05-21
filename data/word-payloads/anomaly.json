@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Anomaly",
+    "slug": "anomaly",
+    "outputPath": "prototypes/anomaly.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Anomaly",
+    "WORD_SLUG": "anomaly",
+    "WORD_LOWER": "anomaly",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "/əˈnɑː.mə.li/",
+    "THESIS": "不是普通的「異常」，而是偏離預期模式到值得你停下來追問原因的訊號。",
+    "LEARNING_POSITION": "把 anomaly 記成「pattern breaker」：它的重點不是怪，而是和正常樣本不一致。",
+    "CORE_IDEA": "<code>anomaly</code> is a meaningful departure from an expected pattern. It asks: why does this case not fit the rest?",
+    "CONCEPT_FOCUS": "一個資料點、事件或行為和已知規律不合，因此需要被辨識、解釋或排除。",
+    "TONE_REGISTER": "正式、分析感強；常見於科學、資料、測試、品質、資安與工程報告。",
+    "USE_WARNING": "若只是一般錯誤，用 error；若重點是「偏離正常模式」，用 <code>anomaly</code>。",
+    "SHORT_DEFINITION": "A thing, event, or result that differs from what is normal, expected, or consistent with the surrounding pattern.",
+    "CONFUSION_WORD": "Error",
+    "CONFUSION_NOTE": "<code>error</code> 強調錯；<code>anomaly</code> 先強調不合模式，可能是錯誤，也可能是新現象。",
+    "FLOW_1": "expected pattern",
+    "FLOW_2": "one point deviates",
+    "FLOW_3": "investigate why",
+    "ORIGIN_PARAGRAPH": "<code>anomaly</code> comes from Greek <code>anomalos</code>, meaning uneven or irregular. The old image is a surface that should be level but suddenly becomes uneven.",
+    "ORIGIN_MEMORY": "字源裡的「uneven」很適合記這個字：不是每個凸起都等於災難，但每個不平整處都值得看一眼。",
+    "MEMORY_HOOK": "An anomaly is the one waveform that refuses to line up with the others.",
+    "MEMORY_EXPLANATION": "想像一排整齊的訊號，只有一條突然抖了一下。它不一定立刻告訴你答案，但它告訴你：這裡有東西不屬於原本的模式。",
+    "DAILY_USAGE": "If a shop is usually quiet on Monday but suddenly full, that crowd is an anomaly worth noticing.",
+    "PROFESSIONAL_USAGE": "In firmware testing, a timing anomaly may appear only under a narrow temperature or power condition.",
+    "DOMAIN_USAGE": "In data analysis, anomaly detection looks for observations that deviate strongly from the expected distribution.",
+    "COLLOCATION_NOTE": "Anomaly 常和 detection、data、pattern、result 這類分析字搭配；後面的辨析處理它和 error 的界線。",
+    "COLLOCATION_1": "detect an anomaly",
+    "REGISTER_1": "data / testing",
+    "COLLOCATION_NOTE_1": "強調從大量樣本中找出偏離正常行為的事件或資料點。",
+    "COLLOCATION_2": "statistical anomaly",
+    "REGISTER_2": "research / analytics",
+    "COLLOCATION_NOTE_2": "指統計上看起來不尋常的結果，可能需要更多資料確認。",
+    "COLLOCATION_3": "anomalous behavior",
+    "REGISTER_3": "security / systems",
+    "COLLOCATION_NOTE_3": "形容系統、使用者或設備行為偏離平常模式。",
+    "NEIGHBOR_SELF": "偏離預期模式，先要求解釋",
+    "NEIGHBOR_SELF_USE": "資料、測試、系統或事件和背景規律不合時",
+    "NEIGHBOR_1": "Error",
+    "NEIGHBOR_1_MEANING": "已判定不正確或失敗",
+    "NEIGHBOR_1_USE": "當你已經知道結果是錯的，而不是只知道它不尋常",
+    "MODERN_USE_1": "Modern English uses <code>anomaly</code> in science, finance, cybersecurity, manufacturing, and engineering whenever a case does not match the expected model.",
+    "MODERN_USE_2": "The word is useful because it keeps investigation open: an anomaly can reveal a bug, a sensor issue, a rare condition, or a new pattern the model has not learned yet.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the sense of something different from normal or expected, plus noun use and pronunciation.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/anomaly",
+    "DICTIONARY_LABEL": "Merriam-Webster: anomaly",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes trace the word to Greek <code>anomalos</code>, centered on unevenness or irregularity.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/anomaly",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: anomaly",
+    "MODERN_SOURCE_NOTE": "Modern dictionary examples support usage around unusual facts, deviations, and exceptional cases.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/anomaly",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 anomaly 和 error 的差異。",
+    "CHECK_ORIGIN": "我記得它的字源畫面是 uneven or irregular。",
+    "CHECK_SENTENCE": "我能用它造一句測試、資料或系統觀察情境的英文句子。",
+    "PRACTICE_SENTENCE": "The only <code>anomaly</code> in the log is a voltage dip that appears before the reset.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/anomaly",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "anomaly",
+    "word": "Anomaly",
+    "partOfSpeech": "noun",
+    "href": "./anomaly.html",
+    "thesis": "不是普通的「異常」，而是偏離預期模式到值得你停下來追問原因的訊號。",
+    "tags": [
+      "異常",
+      "偏離",
+      "pattern",
+      "deviation",
+      "anomaly detection",
+      "testing",
+      "debugging",
+      "data",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 anomaly 和 error 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 uneven or irregular 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句測試、資料或系統觀察情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: anomaly",
+      "url": "https://www.merriam-webster.com/dictionary/anomaly",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: anomaly",
+      "url": "https://www.etymonline.com/word/anomaly",
+      "usedFor": "Greek anomalos origin and unevenness memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/anomaly",
+      "usedFor": "modern examples around unusual facts and deviations"
+    }
+  ]
+}

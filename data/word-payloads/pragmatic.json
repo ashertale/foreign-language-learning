@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Pragmatic",
+    "slug": "pragmatic",
+    "outputPath": "prototypes/pragmatic.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Pragmatic",
+    "WORD_SLUG": "pragmatic",
+    "WORD_LOWER": "pragmatic",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/prag-MAT-ik/ · UK /præɡˈmæt.ɪk/ · US /præɡˈmæt̬.ɪk/",
+    "THESIS": "不是「沒有理想」，而是在真實限制裡找出能推動事情前進的做法。",
+    "LEARNING_POSITION": "用在決策、工程取捨、商務談判與問題解法；它稱讚一種看清現況、願意調整手段的實作感。",
+    "CORE_IDEA": "A pragmatic choice does not worship theory or emotion. It asks: under the current constraints, what action is most likely to work?",
+    "CONCEPT_FOCUS": "重點是 action under real conditions：不是最漂亮的答案，而是當下可落地、可驗證、可推進的答案。",
+    "TONE_REGISTER": "中性偏正面，常見於 business、engineering、policy、project review。若語境刻薄，也可能暗示「不浪漫」或「太功利」。",
+    "USE_WARNING": "不要把 pragmatic 用成 simply practical 的同義字。Pragmatic 通常帶有「在限制與現實中調整原則」的判斷感。",
+    "SHORT_DEFINITION": "Practical and sensible in a way that fits the actual situation, rather than obeying fixed theory or ideal plans.",
+    "CONFUSION_WORD": "practical",
+    "CONFUSION_NOTE": "Practical 偏「可用、實用」；pragmatic 更像一種決策態度：看清條件後，選擇最能運作的路。",
+    "FLOW_1": "real constraint",
+    "FLOW_2": "workable choice",
+    "FLOW_3": "forward motion",
+    "ORIGIN_PARAGRAPH": "Pragmatic traces back through Latin and Greek to Greek <code>pragma</code>, meaning a deed, matter, affair, or thing done. The root picture is not abstract beauty, but an action already in the world.",
+    "ORIGIN_MEMORY": "把 pragmatic 想成「事情已經在桌上了」：不是空談原則，而是面對這件事、這些條件、這個時間點，做出能動的選擇。",
+    "MEMORY_HOOK": "Pragmatic is the engineer who asks, \"What can ship safely this week?\"",
+    "MEMORY_EXPLANATION": "這個鉤子不等於放棄品質，而是把品質放進現實條件中衡量：時間、人力、風險、可測性、後續維護。",
+    "DAILY_USAGE": "I wanted the perfect plan, but we took a pragmatic route and solved the urgent part first.",
+    "PROFESSIONAL_USAGE": "The team made a pragmatic trade-off: keep the stable driver path and isolate the risky optimization behind a flag.",
+    "DOMAIN_USAGE": "A pragmatic policy accepts that people behave under incentives, not under tidy diagrams.",
+    "COLLOCATION_NOTE": "Pragmatic 常和 approach、decision、solution 連用，語氣像是在稱讚一種清醒的現實感。",
+    "COLLOCATION_1": "a pragmatic approach",
+    "REGISTER_1": "common / professional",
+    "COLLOCATION_NOTE_1": "最常用，表示處理問題時不拘泥理論，而是看情況找能運作的方法。",
+    "COLLOCATION_2": "a pragmatic decision",
+    "REGISTER_2": "business / project",
+    "COLLOCATION_NOTE_2": "常用於時間、成本、風險互相拉扯時做出的可行選擇。",
+    "COLLOCATION_3": "for pragmatic reasons",
+    "REGISTER_3": "formal / explanatory",
+    "COLLOCATION_NOTE_3": "用來說明某選擇不是因為偏好，而是因為限制、資源或現況要求。",
+    "NEIGHBOR_SELF": "在現實限制中選擇可行手段",
+    "NEIGHBOR_SELF_USE": "描述決策、策略、工程取捨、管理方法。",
+    "NEIGHBOR_1": "idealistic",
+    "NEIGHBOR_1_MEANING": "依照理想、原則或願景行動，即使短期不一定可行",
+    "NEIGHBOR_1_USE": "當你要強調價值、願景、道德原則或長期目標時。",
+    "MODERN_USE_1": "在產品與工程語境中，pragmatic 常用來描述「不完美但可部署、可回滾、可觀測」的解法。",
+    "MODERN_USE_2": "在政治或商務語境中，它常表示願意談判、調整、接受現實成本；語氣可正可負，取決於說話者是否欣賞這種取捨。",
+    "DICTIONARY_SOURCE_NOTE": "Cambridge Dictionary gives the pronunciation and defines the word around solving problems sensibly according to real conditions.",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+    "DICTIONARY_LABEL": "Cambridge Dictionary: pragmatic",
+    "ETYMOLOGY_SOURCE_NOTE": "Online Etymology Dictionary traces it through Latin and Greek to <code>pragma</code>, a deed, matter, or thing done.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/pragmatic",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: pragmatic",
+    "MODERN_SOURCE_NOTE": "Cambridge corpus examples show usage in business, research, notation, and practical reasoning contexts.",
+    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+    "MODERN_SOURCE_LABEL": "Cambridge examples: pragmatic",
+    "CHECK_MEANING": "說出 pragmatic 和 practical 的差異",
+    "CHECK_ORIGIN": "記得它和 Greek pragma「事情、行動、已完成之事」有關",
+    "CHECK_SENTENCE": "用它造一句工程、決策或專案取捨情境的英文句子",
+    "PRACTICE_SENTENCE": "A pragmatic solution would be to _____ first, then revisit _____ after we have data.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+    "REFERENCE_LABEL": "Open Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "pragmatic",
+    "word": "Pragmatic",
+    "partOfSpeech": "adjective",
+    "href": "./pragmatic.html",
+    "thesis": "不是「沒有理想」，而是在真實限制裡找出能推動事情前進的做法。",
+    "tags": [
+      "務實",
+      "現實感",
+      "practical judgment",
+      "trade-off",
+      "pragmatic approach",
+      "pragmatic decision",
+      "engineering",
+      "project management",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 pragmatic 和 practical 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和 Greek pragma「事情、行動」有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句工程、決策或專案取捨情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: pragmatic",
+      "url": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+      "usedFor": "IPA, definition, common usage frame"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: pragmatic",
+      "url": "https://www.etymonline.com/word/pragmatic",
+      "usedFor": "Greek pragma and action/matter origin"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Cambridge examples: pragmatic",
+      "url": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+      "usedFor": "business and practical reasoning usage"
+    }
+  ]
+}

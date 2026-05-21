@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Discern",
+    "slug": "discern",
+    "outputPath": "prototypes/discern.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Discern",
+    "WORD_SLUG": "discern",
+    "WORD_LOWER": "discern",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "/dɪˈsɝːn/",
+    "THESIS": "不是單純看見，而是在模糊、雜訊或相似選項中分辨出真正差異。",
+    "LEARNING_POSITION": "把 discern 記成「separate clearly」：眼睛看到只是開始，判斷能分開才是核心。",
+    "CORE_IDEA": "<code>discern</code> means to perceive, recognize, or distinguish something that is not immediately obvious.",
+    "CONCEPT_FOCUS": "在混雜資訊中辨認出形狀、差異、意圖或重要訊號。",
+    "TONE_REGISTER": "正式、思考感強；常見於分析、判斷、觀察、評論與專業寫作。",
+    "USE_WARNING": "不要把 discern 當成 see；see 是感官看見，discern 是理解並分辨。",
+    "SHORT_DEFINITION": "To recognize or distinguish something with attention, especially when it is faint, hidden, subtle, or mixed with other things.",
+    "CONFUSION_WORD": "See",
+    "CONFUSION_NOTE": "<code>see</code> 是看見；<code>discern</code> 是從看見的東西裡辨出意義或差異。",
+    "FLOW_1": "mixed signals",
+    "FLOW_2": "careful attention",
+    "FLOW_3": "true difference appears",
+    "ORIGIN_PARAGRAPH": "<code>discern</code> comes from Latin <code>discernere</code>, to separate or distinguish. The old picture is sorting things apart so the difference becomes visible.",
+    "ORIGIN_MEMORY": "這個字的力量在「分開」。你不是把更多資訊塞進眼睛，而是把混在一起的東西切出邊界。",
+    "MEMORY_HOOK": "To discern is to turn noise into edges.",
+    "MEMORY_EXPLANATION": "在示波器、log、需求訪談或人際語氣裡，discern 是找到那條細線：哪個訊號是真的，哪個只是背景噪音。",
+    "DAILY_USAGE": "It was hard to discern whether she was tired, annoyed, or simply quiet.",
+    "PROFESSIONAL_USAGE": "The engineer tried to discern a pattern in failures that looked random at first.",
+    "DOMAIN_USAGE": "In design review, discernment means noticing which differences affect users and which are cosmetic.",
+    "COLLOCATION_NOTE": "Discern 常和 pattern、difference、meaning、truth 搭配，表示從不明顯處辨出東西。",
+    "COLLOCATION_1": "discern a pattern",
+    "REGISTER_1": "analysis / debugging",
+    "COLLOCATION_NOTE_1": "指在看似零散的事件裡辨認出重複結構。",
+    "COLLOCATION_2": "discern the difference",
+    "REGISTER_2": "general / formal",
+    "COLLOCATION_NOTE_2": "指分辨兩個相似東西之間真正重要的差別。",
+    "COLLOCATION_3": "hard to discern",
+    "REGISTER_3": "observation",
+    "COLLOCATION_NOTE_3": "指資訊很淡、很吵或很接近，所以難以判斷。",
+    "NEIGHBOR_SELF": "在不明顯處辨認差異或意義",
+    "NEIGHBOR_SELF_USE": "訊號微弱、選項相似、模式藏在雜訊裡時",
+    "NEIGHBOR_1": "See",
+    "NEIGHBOR_1_MEANING": "用感官看見或注意到",
+    "NEIGHBOR_1_USE": "只需要說視覺或直接注意到，不強調判斷",
+    "MODERN_USE_1": "Modern English uses <code>discern</code> for patterns, motives, differences, meanings, and signals that require attention to recognize.",
+    "MODERN_USE_2": "In engineering and product work, it is useful when the data is visible but the interpretation is not yet obvious.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support senses of detecting, recognizing, and distinguishing something not obvious.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/discern",
+    "DICTIONARY_LABEL": "Merriam-Webster: discern",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes trace the word to Latin <code>discernere</code>, to separate or distinguish.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/discern",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: discern",
+    "MODERN_SOURCE_NOTE": "Modern examples support usage with patterns, differences, motives, and meaning.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/discern",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 discern 和 see 的差異。",
+    "CHECK_ORIGIN": "我記得它來自 separate or distinguish 的字源畫面。",
+    "CHECK_SENTENCE": "我能用它造一句 debug、觀察或判斷情境的英文句子。",
+    "PRACTICE_SENTENCE": "After plotting the timestamps, we could <code>discern</code> a pattern in the failures.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/discern",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "discern",
+    "word": "Discern",
+    "partOfSpeech": "verb",
+    "href": "./discern.html",
+    "thesis": "不是單純看見，而是在模糊、雜訊或相似選項中分辨出真正差異。",
+    "tags": [
+      "辨別",
+      "洞察",
+      "distinguish",
+      "see",
+      "discern a pattern",
+      "discern the difference",
+      "analysis",
+      "debugging",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 discern 和 see 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 separate or distinguish 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 debug、觀察或判斷情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: discern",
+      "url": "https://www.merriam-webster.com/dictionary/discern",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: discern",
+      "url": "https://www.etymonline.com/word/discern",
+      "usedFor": "Latin discernere origin and separation memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/discern",
+      "usedFor": "modern usage around patterns, differences, and motives"
+    }
+  ]
+}

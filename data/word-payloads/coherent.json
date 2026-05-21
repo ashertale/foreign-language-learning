@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Coherent",
+    "slug": "coherent",
+    "outputPath": "prototypes/coherent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Coherent",
+    "WORD_SLUG": "coherent",
+    "WORD_LOWER": "coherent",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/koʊˈhɪr.ənt/",
+    "THESIS": "不是只把話講清楚，而是讓各部分彼此接得上，形成一個站得住的整體。",
+    "LEARNING_POSITION": "把 coherent 記成「sticks together」：句子、理由、設計或系統零件不是散的，而是黏成可理解的整體。",
+    "CORE_IDEA": "<code>coherent</code> means logically connected, consistent, and understandable as a whole.",
+    "CONCEPT_FOCUS": "局部之間有連結，整體沒有互相打架，因此讀者或使用者能跟得上。",
+    "TONE_REGISTER": "寫作、論證、設計、系統架構與溝通都常用；比 clear 更強調整體一致性。",
+    "USE_WARNING": "不要把 coherent 只翻成 clear；清楚可以是單句清楚，coherent 要求整體結構接得起來。",
+    "SHORT_DEFINITION": "Clear, logical, and internally connected enough to be understood as a unified whole.",
+    "CONFUSION_WORD": "Clear",
+    "CONFUSION_NOTE": "<code>clear</code> 重點是容易懂；<code>coherent</code> 多了各部分互相連貫、沒有矛盾的要求。",
+    "FLOW_1": "parts connect",
+    "FLOW_2": "logic holds",
+    "FLOW_3": "whole makes sense",
+    "ORIGIN_PARAGRAPH": "<code>coherent</code> comes from Latin <code>cohaerere</code>, to stick together. The word history gives it a physical image: ideas that adhere to one another.",
+    "ORIGIN_MEMORY": "把它想成一份設計文件裡的段落彼此有黏性：前一段提出問題，下一段回答問題，最後形成一條能走的路。",
+    "MEMORY_HOOK": "A coherent explanation has glue between its sentences.",
+    "MEMORY_EXPLANATION": "如果每句話單獨看都對，但放在一起像散落零件，那還不夠 coherent。這個字要你看整體結構是否有黏住。",
+    "DAILY_USAGE": "After resting, he could finally give a coherent account of what happened.",
+    "PROFESSIONAL_USAGE": "A coherent design review connects user needs, constraints, trade-offs, and implementation choices.",
+    "DOMAIN_USAGE": "In systems thinking, a coherent architecture has components whose responsibilities fit together without hidden contradictions.",
+    "COLLOCATION_NOTE": "Coherent 常搭配 explanation、argument、plan、strategy，強調整體連貫。",
+    "COLLOCATION_1": "coherent explanation",
+    "REGISTER_1": "communication / teaching",
+    "COLLOCATION_NOTE_1": "指說明不只清楚，還有順序、因果與連結。",
+    "COLLOCATION_2": "coherent argument",
+    "REGISTER_2": "writing / review",
+    "COLLOCATION_NOTE_2": "指論證裡的理由互相支援，沒有明顯矛盾。",
+    "COLLOCATION_3": "coherent strategy",
+    "REGISTER_3": "business / product",
+    "COLLOCATION_NOTE_3": "指行動方向和資源配置能組成同一套邏輯。",
+    "NEIGHBOR_SELF": "各部分互相連接，整體可理解且一致",
+    "NEIGHBOR_SELF_USE": "說明、文件、設計或策略需要看整體是否接得上時",
+    "NEIGHBOR_1": "Clear",
+    "NEIGHBOR_1_MEANING": "容易理解、沒有遮蔽",
+    "NEIGHBOR_1_USE": "當重點是單一句子或訊息是否好懂，而不是整體連貫性",
+    "MODERN_USE_1": "Modern English uses <code>coherent</code> for speech, writing, arguments, plans, theories, and systems.",
+    "MODERN_USE_2": "In engineering communication, it is a precise compliment: a coherent report makes the evidence, conclusion, and proposed fix belong to the same story.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the senses of logical connection, consistency, and understandability.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/coherent",
+    "DICTIONARY_LABEL": "Merriam-Webster: coherent",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes trace the word to Latin <code>cohaerere</code>, to stick together.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/coherent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: coherent",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with speech, arguments, ideas, plans, and theories.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/coherent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 coherent 和 clear 的差異。",
+    "CHECK_ORIGIN": "我記得它來自 to stick together 的畫面。",
+    "CHECK_SENTENCE": "我能用它造一句文件、設計或論證情境的英文句子。",
+    "PRACTICE_SENTENCE": "The report became <code>coherent</code> after we linked each symptom to a specific timing condition.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/coherent",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "coherent",
+    "word": "Coherent",
+    "partOfSpeech": "adjective",
+    "href": "./coherent.html",
+    "thesis": "不是只把話講清楚，而是讓各部分彼此接得上，形成一個站得住的整體。",
+    "tags": [
+      "連貫",
+      "一致",
+      "clear",
+      "logical",
+      "coherent explanation",
+      "coherent argument",
+      "writing",
+      "architecture",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 coherent 和 clear 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 to stick together 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句文件、設計或論證情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: coherent",
+      "url": "https://www.merriam-webster.com/dictionary/coherent",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: coherent",
+      "url": "https://www.etymonline.com/word/coherent",
+      "usedFor": "Latin cohaerere origin and stick-together memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/coherent",
+      "usedFor": "modern usage around speech, ideas, arguments, and plans"
+    }
+  ]
+}

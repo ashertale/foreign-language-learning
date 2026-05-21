@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Peripheral",
+    "slug": "peripheral",
+    "outputPath": "prototypes/peripheral.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Peripheral",
+    "WORD_SLUG": "peripheral",
+    "WORD_LOWER": "peripheral",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/pəˈrɪf.ər.əl/",
+    "THESIS": "不是完全無關，而是在邊緣、外圍或非核心位置，對主線只有間接關係。",
+    "LEARNING_POSITION": "把 peripheral 記成「around the edge」：它可以是電腦周邊，也可以是議題邊緣。",
+    "CORE_IDEA": "<code>peripheral</code> describes something located at the edge or only indirectly connected to the central matter.",
+    "CONCEPT_FOCUS": "在中心之外，可能有用，但不是主軸、核心原因或主要任務。",
+    "TONE_REGISTER": "正式到日常皆可；工程硬體、醫學、視覺、討論範圍與專案優先級都常用。",
+    "USE_WARNING": "不要把 peripheral 當成 irrelevant；peripheral 可能相關，只是位置在外圍或優先級較低。",
+    "SHORT_DEFINITION": "At the outer edge of something, or related only indirectly to the main issue.",
+    "CONFUSION_WORD": "Irrelevant",
+    "CONFUSION_NOTE": "<code>irrelevant</code> 是無關；<code>peripheral</code> 是在邊緣，仍可能有關但不是中心。",
+    "FLOW_1": "center exists",
+    "FLOW_2": "edge item connects",
+    "FLOW_3": "priority stays lower",
+    "ORIGIN_PARAGRAPH": "<code>peripheral</code> is related to <code>periphery</code>, from Greek roots for carrying or moving around. The core image is a boundary or outer circle.",
+    "ORIGIN_MEMORY": "想像一張地圖：核心在中間，peripheral 的東西在外圈。它不是不存在，而是不該搶走中心位置。",
+    "MEMORY_HOOK": "Peripheral issues are orbiting the problem, not sitting at its core.",
+    "MEMORY_EXPLANATION": "開會時很多事都聽起來有關，但不是每件都該進主線。peripheral 幫你把外圈事物禮貌地放回外圈。",
+    "DAILY_USAGE": "The color of the notebook is peripheral; the paper quality matters more.",
+    "PROFESSIONAL_USAGE": "During triage, the team separated the core boot failure from peripheral UI issues.",
+    "DOMAIN_USAGE": "In computing, a peripheral device is outside the main computer but connected to it, such as a keyboard or printer.",
+    "COLLOCATION_NOTE": "Peripheral 常和 issue、device、vision、role 搭配，表示外圍或次要關係。",
+    "COLLOCATION_1": "peripheral issue",
+    "REGISTER_1": "meetings / project work",
+    "COLLOCATION_NOTE_1": "指與主題有關但不是目前核心問題的事項。",
+    "COLLOCATION_2": "peripheral device",
+    "REGISTER_2": "computing",
+    "COLLOCATION_NOTE_2": "指連到主機的外部設備，例如鍵盤、滑鼠、印表機。",
+    "COLLOCATION_3": "peripheral vision",
+    "REGISTER_3": "biology / daily",
+    "COLLOCATION_NOTE_3": "指視野邊緣看到的東西，不是直接注視的中心。",
+    "NEIGHBOR_SELF": "在外圍、邊緣或非核心處",
+    "NEIGHBOR_SELF_USE": "要承認有關，但降低其優先級或中心性時",
+    "NEIGHBOR_1": "Irrelevant",
+    "NEIGHBOR_1_MEANING": "與主題無關",
+    "NEIGHBOR_1_USE": "當某事不應納入討論或判斷時",
+    "MODERN_USE_1": "Modern English uses <code>peripheral</code> for computer devices, vision, anatomy, politics, and issues outside the main topic.",
+    "MODERN_USE_2": "In technical discussion, it is a clean prioritization word: peripheral issues are not ignored, but they should not distort the central diagnosis.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support senses of outer edge, periphery, and indirect relation to the main subject.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/peripheral",
+    "DICTIONARY_LABEL": "Merriam-Webster: peripheral",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to periphery and Greek roots around carrying or moving.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/peripheral",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: peripheral",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with devices, vision, nervous system, issues, and roles.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/peripheral",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 peripheral 和 irrelevant 的差異。",
+    "CHECK_ORIGIN": "我記得它的核心畫面是 around the edge。",
+    "CHECK_SENTENCE": "我能用它造一句優先級、硬體周邊或視野情境的英文句子。",
+    "PRACTICE_SENTENCE": "The UI glitch is <code>peripheral</code>; the core issue is that the device sometimes fails to boot.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/peripheral",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "peripheral",
+    "word": "Peripheral",
+    "partOfSpeech": "adjective",
+    "href": "./peripheral.html",
+    "thesis": "不是完全無關，而是在邊緣、外圍或非核心位置，對主線只有間接關係。",
+    "tags": [
+      "外圍",
+      "邊緣",
+      "non-core",
+      "irrelevant",
+      "peripheral issue",
+      "peripheral device",
+      "prioritization",
+      "computing",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 peripheral 和 irrelevant 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它的核心畫面是 around the edge"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句優先級、硬體周邊或視野情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: peripheral",
+      "url": "https://www.merriam-webster.com/dictionary/peripheral",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: peripheral",
+      "url": "https://www.etymonline.com/word/peripheral",
+      "usedFor": "periphery origin and edge memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/peripheral",
+      "usedFor": "modern usage around devices, vision, and indirect relation"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "target": {
+    "word": "Lucid",
+    "slug": "lucid",
+    "outputPath": "prototypes/lucid.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Lucid",
+    "WORD_SLUG": "lucid",
+    "WORD_LOWER": "lucid",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "UK /ˈluː.sɪd/ · US /ˈluː.sɪd/",
+    "THESIS": "不是只有「清楚」，而是像開燈一樣，讓混亂的想法變得有秩序、可理解。",
+    "LEARNING_POSITION": "把它記成「light + order + understanding」：不是資訊變少，而是結構被照亮。",
+    "CORE_IDEA": "<code>lucid</code> 描述一種被光照過的清楚：想法、文字或人的意識不只是沒有模糊，而是能被順著理解。",
+    "CONCEPT_FOCUS": "清楚、明白、有條理，讓讀者或聽者能快速抓住意思與邏輯。",
+    "TONE_REGISTER": "正式但不冷硬；常見於寫作、說明、醫療狀態、夢境與分析性討論。",
+    "USE_WARNING": "若只是「看得懂」，用 clear 就夠；若重點是「清楚且有內在秩序」，用 <code>lucid</code> 更精準。",
+    "SHORT_DEFINITION": "形容說明、文字或想法清楚易懂；也可形容人在某一刻頭腦清醒、能理性思考。",
+    "CONFUSION_WORD": "Clear",
+    "CONFUSION_NOTE": "<code>clear</code> 是泛用的「清楚」；<code>lucid</code> 更像清楚之外還有光線、秩序與邏輯連貫感。",
+    "FLOW_1": "混亂資訊",
+    "FLOW_2": "結構被照亮",
+    "FLOW_3": "容易理解",
+    "ORIGIN_PARAGRAPH": "<code>lucid</code> 來自 Latin <code>lucidus</code>，意思是 light、bright、clear，往前可連到 <code>lucere</code>（to shine）與 <code>lux</code>（light）。早期英文有「明亮、發光」的意思，後來延伸為「意思清楚、思想清明」。",
+    "ORIGIN_MEMORY": "這條路徑很適合記：清楚不是把事情變簡單，而是把暗處照亮。好的 <code>lucid explanation</code> 會讓複雜仍然複雜，但不再混濁。",
+    "MEMORY_HOOK": "<code>lucid</code> 是 debug note 裡那盞小檯燈：照到狀態機、timing、假設與結論，讓下一個人能接著走。",
+    "MEMORY_EXPLANATION": "想像一張雜亂的 schematic 被逐區打光。線沒有變少，但訊號路徑突然看得出來；這就是 <code>lucid</code> 的清楚。",
+    "DAILY_USAGE": "某人把複雜情緒、旅程安排或家庭決策講得條理清楚，可以說 <code>a lucid explanation</code>。",
+    "PROFESSIONAL_USAGE": "一份 <code>lucid design note</code> 不只是列出 facts，而是讓需求、限制、trade-offs 和結論彼此接得起來。",
+    "DOMAIN_USAGE": "<code>lucid dream</code> 指人在夢中知道自己正在做夢；<code>lucid moment</code> 則常指混亂或病弱中短暫清醒的片刻。",
+    "COLLOCATION_NOTE": "這一區是 <code>lucid + noun</code> 的自然搭配；後面的辨析表才處理 <code>clear</code>、<code>coherent</code>、<code>transparent</code> 等鄰近字。",
+    "COLLOCATION_1": "lucid explanation",
+    "REGISTER_1": "教學 / 技術說明",
+    "COLLOCATION_NOTE_1": "指說明清楚、有邏輯，能讓原本卡住的人看懂問題結構。",
+    "COLLOCATION_2": "lucid prose",
+    "REGISTER_2": "寫作 / 評論",
+    "COLLOCATION_NOTE_2": "形容文章不混濁、不堆砌，句子和段落帶著清楚的推進感。",
+    "COLLOCATION_3": "lucid moment",
+    "REGISTER_3": "醫療 / 敘事",
+    "COLLOCATION_NOTE_3": "指一段短暫清醒、能辨認或理性回應的時間，常和 illness、confusion 對比。",
+    "NEIGHBOR_SELF": "清楚、有秩序、能照亮理解",
+    "NEIGHBOR_SELF_USE": "適合說明、文字、思考狀態與夢境意識",
+    "NEIGHBOR_1": "Clear",
+    "NEIGHBOR_1_MEANING": "普通而廣泛的清楚",
+    "NEIGHBOR_1_USE": "最通用；不一定帶有邏輯優雅或照亮感",
+    "MODERN_USE_1": "現代英文裡，<code>lucid</code> 常用來稱讚說明、文章、演講或分析：它暗示資訊被整理得很有秩序，讀者不需要在雜訊裡摸路。這比單純的 <code>clear</code> 更有「思路清明」的味道。",
+    "MODERN_USE_2": "在工程語境中，<code>lucid</code> 很適合描述 design note、postmortem、debug report 或 architecture rationale。它不是說內容很淺，而是說複雜關係被安排到可以理解。",
+    "DICTIONARY_SOURCE_NOTE": "「clearly expressed and easy to understand」以及英美 /ˈluː.sɪd/ 發音參考 Cambridge Dictionary；頁內中文定義已重寫為學習語境。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/us/dictionary/english/lucid",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "Latin <code>lucidus</code>、<code>lucere</code>、<code>lux</code> 與「bright, shining」到「intellectual clarity」的發展參考 Online Etymology Dictionary。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/lucid",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "<code>lucid dream</code>、<code>lucid moment</code>、<code>lucid explanation</code> 與「logical coherence」語感參考 Merriam-Webster；工程例子是頁內延伸。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/lucid",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 lucid 和 clear 的差異。",
+    "CHECK_ORIGIN": "我記得它來自 Latin <code>lux</code> / <code>lucere</code>，和光、照亮有關。",
+    "CHECK_SENTENCE": "我能用它造一句說明、文章或工程文件情境的英文句子。",
+    "PRACTICE_SENTENCE": "The postmortem became much more <code>lucid</code> after we separated symptoms, hypotheses, and confirmed causes.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/lucid",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "lucid",
+    "word": "Lucid",
+    "partOfSpeech": "adjective",
+    "href": "./lucid.html",
+    "thesis": "不是只有「清楚」，而是像開燈一樣，讓混亂的想法變得有秩序、可理解。",
+    "tags": [
+      "清楚",
+      "清晰",
+      "明白",
+      "clear",
+      "coherent",
+      "lucid explanation",
+      "lucid prose",
+      "lucid dream",
+      "lucid moment",
+      "engineering writing",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 lucid 和 clear 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 Latin lux / lucere，和光、照亮有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句說明、文章或工程文件情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/lucid",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/lucid",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/lucid",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

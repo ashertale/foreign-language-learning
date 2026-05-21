@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Nuance",
+    "slug": "nuance",
+    "outputPath": "prototypes/nuance.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Nuance",
+    "WORD_SLUG": "nuance",
+    "WORD_LOWER": "nuance",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "/NOO-ahns/ · UK /ˈnjuː.ɒns/ · US /ˈnuː.ɑːns/",
+    "THESIS": "不是把事情講得更複雜，而是看見那些真的會改變意思的細微差別。",
+    "LEARNING_POSITION": "用在語氣、設計、翻譯、需求、判斷與人際溝通；它提醒你不要把不同的陰影塗成同一種顏色。",
+    "CORE_IDEA": "A nuance is a small difference that matters. It may be subtle, but it changes tone, meaning, interpretation, or response.",
+    "CONCEPT_FOCUS": "重點是 meaningful subtle difference：不是所有小差異都值得說，只有會影響理解或判斷的才叫 nuance。",
+    "TONE_REGISTER": "中性偏知性，常見於 writing、design、translation、policy、people discussion。語氣通常表示觀察細膩。",
+    "USE_WARNING": "不要用 nuance 來合理化模糊。真正的 nuance 會讓判斷更精準，而不是讓結論逃避負責。",
+    "SHORT_DEFINITION": "A very slight difference in meaning, appearance, sound, feeling, or opinion.",
+    "CONFUSION_WORD": "detail",
+    "CONFUSION_NOTE": "Detail 是細節；nuance 是會改變語氣、意思或判斷方向的細微差別。",
+    "FLOW_1": "small difference",
+    "FLOW_2": "changed meaning",
+    "FLOW_3": "better judgment",
+    "ORIGIN_PARAGRAPH": "Nuance entered English from French <code>nuance</code>, a slight difference or shade of color. Etymology connects the image to cloud and shade: colors shifting softly across a cloudy sky.",
+    "ORIGIN_MEMORY": "想像雲層不是一片白，而是一層層灰、藍、銀。Nuance 就是那些不大聲，卻讓整個畫面變準的色階。",
+    "MEMORY_HOOK": "Nuance is the shade that changes the sentence.",
+    "MEMORY_EXPLANATION": "同一句話，換一個 modal verb、換一個語氣、換一個上下文，意思可能從建議變成命令。Nuance 就在這種細微轉向裡。",
+    "DAILY_USAGE": "There is a nuance in her reply: she agreed with the goal, not with the plan.",
+    "PROFESSIONAL_USAGE": "The requirement has an important nuance: the device must recover automatically, not merely report the failure.",
+    "DOMAIN_USAGE": "Good translation preserves nuance, especially when a word carries social distance, politeness, or doubt.",
+    "COLLOCATION_NOTE": "Nuance 常和 capture、understand、subtle、important 搭配，表示你注意到細微但有意義的差別。",
+    "COLLOCATION_1": "a subtle nuance",
+    "REGISTER_1": "common / descriptive",
+    "COLLOCATION_NOTE_1": "強調差異不明顯，但值得辨認。",
+    "COLLOCATION_2": "capture the nuance",
+    "REGISTER_2": "writing / design / translation",
+    "COLLOCATION_NOTE_2": "表示把原本細膩的語氣、含義或層次保留下來。",
+    "COLLOCATION_3": "lose the nuance",
+    "REGISTER_3": "critical / analytical",
+    "COLLOCATION_NOTE_3": "用於批評過度簡化，導致真正重要的差別消失。",
+    "NEIGHBOR_SELF": "會改變解讀的細微差異",
+    "NEIGHBOR_SELF_USE": "談語氣、翻譯、需求、設計判斷、人際暗示。",
+    "NEIGHBOR_1": "subtlety",
+    "NEIGHBOR_1_MEANING": "細膩、不明顯的性質，範圍比 nuance 更廣",
+    "NEIGHBOR_1_USE": "當你要稱讚作品、手法或觀察本身很細膩時。",
+    "MODERN_USE_1": "在網路討論中，nuance 常用來反對二分法：問題不是 A 或 B，而是條件、程度與脈絡會改變答案。",
+    "MODERN_USE_2": "在工程溝通中，nuance 能幫你避免需求誤讀：例如 must、should、may 的差別不是文字裝飾，而是合約與行為邊界。",
+    "DICTIONARY_SOURCE_NOTE": "Cambridge Dictionary gives the IPA and defines nuance as a very slight difference in appearance, meaning, sound, and related areas.",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
+    "DICTIONARY_LABEL": "Cambridge Dictionary: nuance",
+    "ETYMOLOGY_SOURCE_NOTE": "Online Etymology Dictionary connects nuance to French shade of color and older cloud imagery.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/nuance",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: nuance",
+    "MODERN_SOURCE_NOTE": "Cambridge examples include language, expression, and descriptive contexts where small differences affect interpretation.",
+    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
+    "MODERN_SOURCE_LABEL": "Cambridge examples: nuance",
+    "CHECK_MEANING": "說出 nuance 和 detail 的差異",
+    "CHECK_ORIGIN": "記得它和雲、陰影、色階變化的字源畫面有關",
+    "CHECK_SENTENCE": "用它造一句需求、翻譯或人際語氣情境的英文句子",
+    "PRACTICE_SENTENCE": "The nuance is that _____ means _____, while _____ only means _____.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
+    "REFERENCE_LABEL": "Open Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "nuance",
+    "word": "Nuance",
+    "partOfSpeech": "noun",
+    "href": "./nuance.html",
+    "thesis": "不是把事情講得更複雜，而是看見那些真的會改變意思的細微差別。",
+    "tags": [
+      "細微差異",
+      "語氣",
+      "subtle difference",
+      "shade",
+      "capture the nuance",
+      "lose the nuance",
+      "translation",
+      "requirements",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 nuance 和 detail 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和雲、陰影、色階變化的畫面有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句需求、翻譯或人際語氣情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: nuance",
+      "url": "https://dictionary.cambridge.org/dictionary/english/nuance",
+      "usedFor": "IPA, definition, example domains"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: nuance",
+      "url": "https://www.etymonline.com/word/nuance",
+      "usedFor": "French shade and cloud origin"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Cambridge examples: nuance",
+      "url": "https://dictionary.cambridge.org/dictionary/english/nuance",
+      "usedFor": "language and expression usage"
+    }
+  ]
+}

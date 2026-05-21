@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Iterate",
+    "slug": "iterate",
+    "outputPath": "prototypes/iterate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Iterate",
+    "WORD_SLUG": "iterate",
+    "WORD_LOWER": "iterate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "/ˈɪt.ə.reɪt/",
+    "THESIS": "不是盲目重複，而是一次次回到問題，用回饋讓版本更接近目標。",
+    "LEARNING_POSITION": "把 iterate 記成「repeat with learning」：重做本身不值錢，吸收回饋後的下一輪才是重點。",
+    "CORE_IDEA": "<code>iterate</code> means to repeat a process, often with refinement, feedback, or gradual improvement.",
+    "CONCEPT_FOCUS": "重複流程，每一輪都利用前一輪的結果修正方向。",
+    "TONE_REGISTER": "軟體、產品、設計、數學與工程都常見；語氣偏方法論與實作。",
+    "USE_WARNING": "不要把 iterate 當成 repeat 的花俏版本；iterate 應該暗示一輪接一輪的處理或改進。",
+    "SHORT_DEFINITION": "To repeat a process or set of steps, especially to refine, test, or approach a result.",
+    "CONFUSION_WORD": "Repeat",
+    "CONFUSION_NOTE": "<code>repeat</code> 只是再做一次；<code>iterate</code> 通常有一輪一輪、逐步逼近或改進的感覺。",
+    "FLOW_1": "make a version",
+    "FLOW_2": "observe feedback",
+    "FLOW_3": "refine the next round",
+    "ORIGIN_PARAGRAPH": "<code>iterate</code> comes from Latin <code>iterare</code>, to do again, related to <code>iterum</code>, again. The old core is repetition.",
+    "ORIGIN_MEMORY": "現代工程語境把 repetition 加上 learning：不是原地繞圈，而是一圈一圈把誤差縮小。",
+    "MEMORY_HOOK": "To iterate is to repeat with memory.",
+    "MEMORY_EXPLANATION": "如果每次都忘記上一輪學到什麼，那只是 repeat。iterate 會保留觀察、修正假設，讓下一版更好。",
+    "DAILY_USAGE": "She iterated on her study routine until it fit her energy and schedule.",
+    "PROFESSIONAL_USAGE": "The firmware team iterated on the debounce logic after each field test.",
+    "DOMAIN_USAGE": "In numerical methods, an algorithm may iterate until the result converges within a tolerance.",
+    "COLLOCATION_NOTE": "Iterate 常和 design、solution、version、process 搭配，表示一輪一輪改進。",
+    "COLLOCATION_1": "iterate on a design",
+    "REGISTER_1": "product / engineering",
+    "COLLOCATION_NOTE_1": "指根據回饋持續調整設計。",
+    "COLLOCATION_2": "iterate quickly",
+    "REGISTER_2": "startup / product",
+    "COLLOCATION_NOTE_2": "指快速做出版本、收集回饋並修正。",
+    "COLLOCATION_3": "iterative process",
+    "REGISTER_3": "method / engineering",
+    "COLLOCATION_NOTE_3": "指由多輪修正組成的流程。",
+    "NEIGHBOR_SELF": "重複流程並逐步修正",
+    "NEIGHBOR_SELF_USE": "產品、設計、測試、演算法或學習需要一輪一輪靠近目標時",
+    "NEIGHBOR_1": "Repeat",
+    "NEIGHBOR_1_MEANING": "再次做同一件事",
+    "NEIGHBOR_1_USE": "只強調重做，不強調回饋或逐步改善時",
+    "MODERN_USE_1": "Modern English uses <code>iterate</code> in software, product design, math, testing, and learning for repeated refinement.",
+    "MODERN_USE_2": "The word is especially useful when a first version is intentionally imperfect because the plan is to learn from reality and improve.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support senses of saying or doing again and repeated procedural action.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/iterate",
+    "DICTIONARY_LABEL": "Merriam-Webster: iterate",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes trace the word to Latin <code>iterare</code>, to repeat, and <code>iterum</code>, again.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/iterate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: iterate",
+    "MODERN_SOURCE_NOTE": "Modern examples support use in design, development, algorithms, and repeated improvement.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/iterate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 iterate 和 repeat 的差異。",
+    "CHECK_ORIGIN": "我記得它來自 Latin <code>iterare</code>，to do again。",
+    "CHECK_SENTENCE": "我能用它造一句產品、測試、演算法或學習情境的英文句子。",
+    "PRACTICE_SENTENCE": "We will <code>iterate</code> on the sampling interval after reviewing the first field logs.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/iterate",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "iterate",
+    "word": "Iterate",
+    "partOfSpeech": "verb",
+    "href": "./iterate.html",
+    "thesis": "不是盲目重複，而是一次次回到問題，用回饋讓版本更接近目標。",
+    "tags": [
+      "迭代",
+      "重複改進",
+      "repeat",
+      "feedback",
+      "iterate on",
+      "iterative process",
+      "product",
+      "engineering",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 iterate 和 repeat 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 Latin iterare，to do again"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句產品、測試、演算法或學習情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: iterate",
+      "url": "https://www.merriam-webster.com/dictionary/iterate",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: iterate",
+      "url": "https://www.etymonline.com/word/iterate",
+      "usedFor": "Latin iterare origin and repetition memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/iterate",
+      "usedFor": "modern usage around repeated process and refinement"
+    }
+  ]
+}

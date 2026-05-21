@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Tacit",
+    "slug": "tacit",
+    "outputPath": "prototypes/tacit.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Tacit",
+    "WORD_SLUG": "tacit",
+    "WORD_LOWER": "tacit",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/TAS-it/ · UK /ˈtæs.ɪt/ · US /ˈtæs.ɪt/",
+    "THESIS": "不是沒有說話，而是意思已經被沉默、慣例或行為默默承認了。",
+    "LEARNING_POSITION": "用在默契、默許、團隊習慣、組織文化與隱性知識；它描述沒有明講卻被理解的東西。",
+    "CORE_IDEA": "Tacit means understood or accepted without being directly expressed. The agreement lives in silence, context, or behavior.",
+    "CONCEPT_FOCUS": "重點是 unspoken but understood：沒有文字、沒有明確承諾，但大家的行為已經把它當成真的。",
+    "TONE_REGISTER": "偏正式，常見於 tacit agreement、tacit approval、tacit knowledge。語氣可以中性，也可能暗示責任被藏在沉默裡。",
+    "USE_WARNING": "Tacit 不等於 vague。Tacit 的關鍵是「雖未說出，但可從脈絡合理推知」。如果根本沒人理解，就不是 tacit。",
+    "SHORT_DEFINITION": "Understood, accepted, or implied without being stated directly.",
+    "CONFUSION_WORD": "implicit",
+    "CONFUSION_NOTE": "Implicit 可泛指含蓄、隱含；tacit 更強調沉默中的理解、默許或未說出口的共識。",
+    "FLOW_1": "silence",
+    "FLOW_2": "shared context",
+    "FLOW_3": "understood meaning",
+    "ORIGIN_PARAGRAPH": "Tacit comes from Latin <code>tacitus</code>, meaning silent or passed over in silence, from <code>tacere</code>, to be silent. The word keeps that quiet core.",
+    "ORIGIN_MEMORY": "把 tacit 想成會議裡沒人說出口的一句話：大家沒有宣讀規則，但所有人都照那條規則行動。",
+    "MEMORY_HOOK": "Tacit is the rule written in silence.",
+    "MEMORY_EXPLANATION": "一個團隊可能沒有文件說「release 前一定要找某人看過」，但每次都這樣做，這就是 tacit rule 或 tacit practice。",
+    "DAILY_USAGE": "There was a tacit agreement that nobody would mention the old mistake again.",
+    "PROFESSIONAL_USAGE": "The team had tacit knowledge about the board bring-up sequence that never made it into the documentation.",
+    "DOMAIN_USAGE": "A manager's silence can become tacit approval if everyone reasonably reads it as permission.",
+    "COLLOCATION_NOTE": "Tacit 最常搭配 agreement、approval、knowledge，全部都和「未明說但被理解」有關。",
+    "COLLOCATION_1": "tacit agreement",
+    "REGISTER_1": "formal / social",
+    "COLLOCATION_NOTE_1": "沒有簽字或明說，但雙方行為顯示已有共識。",
+    "COLLOCATION_2": "tacit approval",
+    "REGISTER_2": "formal / critical",
+    "COLLOCATION_NOTE_2": "常帶責任意味：你沒阻止，可能等於默許。",
+    "COLLOCATION_3": "tacit knowledge",
+    "REGISTER_3": "professional / organizational",
+    "COLLOCATION_NOTE_3": "指難以明文化、靠經驗與情境傳遞的知識。",
+    "NEIGHBOR_SELF": "沉默中被理解或默許",
+    "NEIGHBOR_SELF_USE": "談默契、默許、隱性規則、組織文化、未寫下的知識。",
+    "NEIGHBOR_1": "explicit",
+    "NEIGHBOR_1_MEANING": "明確說出、寫出或定義",
+    "NEIGHBOR_1_USE": "當你需要避免誤解、建立規範、寫需求或合約時。",
+    "MODERN_USE_1": "在知識管理中，tacit knowledge 是重要概念：工程師知道怎麼判斷異常聲音、訊號形狀或 bring-up 節奏，但未必能立刻寫成文件。",
+    "MODERN_USE_2": "在組織倫理中，tacit approval 常用來指出沉默也可能是一種行動，尤其當有權力的人選擇不表態時。",
+    "DICTIONARY_SOURCE_NOTE": "Cambridge Dictionary gives IPA and defines tacit as understood without being expressed directly.",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/tacit",
+    "DICTIONARY_LABEL": "Cambridge Dictionary: tacit",
+    "ETYMOLOGY_SOURCE_NOTE": "Online Etymology Dictionary traces tacit to Latin <code>tacitus</code> and <code>tacere</code>, silence and not speaking.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/tacit",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: tacit",
+    "MODERN_SOURCE_NOTE": "Cambridge examples show tacit approval, acceptance, agreement, supporters, and knowledge-like contexts.",
+    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/tacit",
+    "MODERN_SOURCE_LABEL": "Cambridge examples: tacit",
+    "CHECK_MEANING": "說出 tacit 和 implicit 的差異",
+    "CHECK_ORIGIN": "記得它來自 Latin tacere「保持沉默」",
+    "CHECK_SENTENCE": "用它造一句團隊默契、默許或隱性知識的英文句子",
+    "PRACTICE_SENTENCE": "The team had a tacit rule that _____, even though no one had written it down.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/tacit",
+    "REFERENCE_LABEL": "Open Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "tacit",
+    "word": "Tacit",
+    "partOfSpeech": "adjective",
+    "href": "./tacit.html",
+    "thesis": "不是沒有說話，而是意思已經被沉默、慣例或行為默默承認了。",
+    "tags": [
+      "默契",
+      "默許",
+      "unspoken",
+      "implicit",
+      "tacit agreement",
+      "tacit approval",
+      "tacit knowledge",
+      "team culture",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 tacit 和 implicit 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 Latin tacere「保持沉默」"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句團隊默契、默許或隱性知識的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: tacit",
+      "url": "https://dictionary.cambridge.org/dictionary/english/tacit",
+      "usedFor": "IPA, definition, common collocations"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: tacit",
+      "url": "https://www.etymonline.com/word/tacit",
+      "usedFor": "Latin tacitus and tacere origin"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Cambridge examples: tacit",
+      "url": "https://dictionary.cambridge.org/dictionary/english/tacit",
+      "usedFor": "approval, agreement, and knowledge usage"
+    }
+  ]
+}

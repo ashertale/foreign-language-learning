@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Heuristic",
+    "slug": "heuristic",
+    "outputPath": "prototypes/heuristic.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Heuristic",
+    "WORD_SLUG": "heuristic",
+    "WORD_LOWER": "heuristic",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "/hjʊˈrɪs.tɪk/",
+    "THESIS": "不是保證正確的公式，而是在複雜問題裡幫你快速找到可行方向的經驗法則。",
+    "LEARNING_POSITION": "把 heuristic 記成「useful shortcut for finding」：它犧牲一點完美，換取前進速度。",
+    "CORE_IDEA": "A <code>heuristic</code> is a practical rule, method, or shortcut that helps you discover a workable answer when exhaustive proof is too slow or costly.",
+    "CONCEPT_FOCUS": "用經驗與判斷快速縮小搜尋空間，不承諾絕對正確。",
+    "TONE_REGISTER": "工程、演算法、UX、心理學、決策分析都常見；語氣理性但承認取捨。",
+    "USE_WARNING": "不要把 heuristic 當成 algorithm 的同義字；algorithm 更像明確程序，heuristic 更像實用指引。",
+    "SHORT_DEFINITION": "A rule of thumb or practical method that helps solve problems or make decisions, especially when a perfect method is impractical.",
+    "CONFUSION_WORD": "Algorithm",
+    "CONFUSION_NOTE": "<code>algorithm</code> 通常是清楚定義的步驟；<code>heuristic</code> 是幫你快一點接近答案的經驗策略。",
+    "FLOW_1": "too many options",
+    "FLOW_2": "apply a rule of thumb",
+    "FLOW_3": "find a workable path",
+    "ORIGIN_PARAGRAPH": "<code>heuristic</code> is related to Greek <code>heuriskein</code>, meaning to find or discover. The famous echo is Eureka: the moment of finding.",
+    "ORIGIN_MEMORY": "字源不是「規則」本身，而是「找到」。所以 heuristic 的精神不是法律條文，而是幫你在霧裡找到路標。",
+    "MEMORY_HOOK": "A heuristic is a flashlight, not the whole map.",
+    "MEMORY_EXPLANATION": "在 debug、設計或決策裡，你常常不能把所有路都走完。heuristic 先照亮最可能有答案的方向，之後還是要用證據驗證。",
+    "DAILY_USAGE": "A simple heuristic for buying tools is to choose the one you can maintain and actually use, not the one with the longest feature list.",
+    "PROFESSIONAL_USAGE": "A debugging heuristic is to reproduce the failure first, then change one variable at a time.",
+    "DOMAIN_USAGE": "In AI and search problems, heuristics guide the system toward promising paths without checking every possibility.",
+    "COLLOCATION_NOTE": "Heuristic 常和 method、rule、shortcut、bias 搭配；它可以是實用策略，也可能造成偏誤。",
+    "COLLOCATION_1": "a useful heuristic",
+    "REGISTER_1": "general / professional",
+    "COLLOCATION_NOTE_1": "指能在真實限制下幫助判斷的經驗法則。",
+    "COLLOCATION_2": "heuristic method",
+    "REGISTER_2": "engineering / math",
+    "COLLOCATION_NOTE_2": "指不一定保證最優，但能有效引導求解的方法。",
+    "COLLOCATION_3": "heuristic bias",
+    "REGISTER_3": "psychology",
+    "COLLOCATION_NOTE_3": "指人腦捷徑帶來的判斷偏誤，例如過度依賴最近看到的例子。",
+    "NEIGHBOR_SELF": "實用捷徑，幫助探索與決策",
+    "NEIGHBOR_SELF_USE": "問題太大、資訊不完整、需要先找到方向時",
+    "NEIGHBOR_1": "Algorithm",
+    "NEIGHBOR_1_MEANING": "明確步驟，通常追求可重複與可證明",
+    "NEIGHBOR_1_USE": "當程序已經定義清楚，輸入輸出規則明確時",
+    "MODERN_USE_1": "Modern English uses <code>heuristic</code> in software, AI, human factors, product design, and cognitive psychology.",
+    "MODERN_USE_2": "The word is especially useful when you want to say a method is practical and guiding, but not mathematically guaranteed or universally correct.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support both noun and adjective senses around problem-solving and discovery by practical methods.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/heuristic",
+    "DICTIONARY_LABEL": "Merriam-Webster: heuristic",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Greek <code>heuriskein</code>, to find or discover.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/heuristic",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: heuristic",
+    "MODERN_SOURCE_NOTE": "Modern examples support usage in learning, problem solving, shortcuts, and cognitive bias.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/heuristic",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 heuristic 和 algorithm 的差異。",
+    "CHECK_ORIGIN": "我記得它和 Greek <code>heuriskein</code>，to find，有關。",
+    "CHECK_SENTENCE": "我能用它造一句 debug、決策或搜尋問題的英文句子。",
+    "PRACTICE_SENTENCE": "A good <code>heuristic</code> is to check the newest change before rewriting the whole driver.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/heuristic",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "heuristic",
+    "word": "Heuristic",
+    "partOfSpeech": "noun",
+    "href": "./heuristic.html",
+    "thesis": "不是保證正確的公式，而是在複雜問題裡幫你快速找到可行方向的經驗法則。",
+    "tags": [
+      "經驗法則",
+      "捷徑",
+      "rule of thumb",
+      "problem solving",
+      "algorithm",
+      "debugging",
+      "AI",
+      "decision making",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 heuristic 和 algorithm 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 Greek heuriskein，to find"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 debug、決策或搜尋問題的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: heuristic",
+      "url": "https://www.merriam-webster.com/dictionary/heuristic",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: heuristic",
+      "url": "https://www.etymonline.com/word/heuristic",
+      "usedFor": "Greek heuriskein origin and discovery memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/heuristic",
+      "usedFor": "modern usage around problem solving and cognitive shortcuts"
+    }
+  ]
+}

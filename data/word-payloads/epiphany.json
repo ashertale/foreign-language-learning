@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Epiphany",
+    "slug": "epiphany",
+    "outputPath": "prototypes/epiphany.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Epiphany",
+    "WORD_SLUG": "epiphany",
+    "WORD_LOWER": "epiphany",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "/ɪˈpɪf.ə.ni/",
+    "THESIS": "不是普通的想法，而是某個意義突然顯現，讓你用新的方式看懂一件事。",
+    "LEARNING_POSITION": "把 epiphany 記成「sudden appearance of meaning」：靈光一現不是隨便想到，而是理解突然浮出水面。",
+    "CORE_IDEA": "An <code>epiphany</code> is a sudden realization or insight, often one that makes a situation feel newly clear.",
+    "CONCEPT_FOCUS": "意義、答案或模式突然顯露，改變你對問題的理解。",
+    "TONE_REGISTER": "文學、日常、反思與創意語境常見；比 idea 更有瞬間開悟感。",
+    "USE_WARNING": "不要把 epiphany 用在每個小想法；它暗示理解有明顯轉折，像燈突然亮起。",
+    "SHORT_DEFINITION": "A sudden and important realization or insight that reveals the meaning of something.",
+    "CONFUSION_WORD": "Idea",
+    "CONFUSION_NOTE": "<code>idea</code> 可以很普通；<code>epiphany</code> 是突然看懂、視角改變的時刻。",
+    "FLOW_1": "confusion persists",
+    "FLOW_2": "meaning appears",
+    "FLOW_3": "understanding shifts",
+    "ORIGIN_PARAGRAPH": "<code>epiphany</code> comes from Greek roots meaning appearance or manifestation. In Christian tradition, Epiphany names a feast of divine manifestation; modern English also uses it for sudden insight.",
+    "ORIGIN_MEMORY": "這裡要分清楚：宗教歷史的 manifestation 是來源背景；你平常說 an epiphany，通常是在說理解突然顯現。",
+    "MEMORY_HOOK": "An epiphany is when the bug stops being random in your mind.",
+    "MEMORY_EXPLANATION": "你看了很多 log 都沒有答案，直到某一行突然把整個模式照亮。那一刻不是多一個資訊，而是整個問題換了形狀。",
+    "DAILY_USAGE": "She had an epiphany about why she kept avoiding the task.",
+    "PROFESSIONAL_USAGE": "The team had an epiphany when they realized every failure followed a warm reboot.",
+    "DOMAIN_USAGE": "In literature, an epiphany often marks the moment a character suddenly understands themselves or the world differently.",
+    "COLLOCATION_NOTE": "Epiphany 常和 have、sudden、moment 搭配，強調理解出現的瞬間。",
+    "COLLOCATION_1": "have an epiphany",
+    "REGISTER_1": "general / reflective",
+    "COLLOCATION_NOTE_1": "最自然搭配，表示突然領悟。",
+    "COLLOCATION_2": "sudden epiphany",
+    "REGISTER_2": "emphatic",
+    "COLLOCATION_NOTE_2": "強調洞見來得很快、轉折明顯。",
+    "COLLOCATION_3": "moment of epiphany",
+    "REGISTER_3": "literary",
+    "COLLOCATION_NOTE_3": "常用在敘事或反思，描述理解顯現的瞬間。",
+    "NEIGHBOR_SELF": "突然顯現的洞見，改變理解",
+    "NEIGHBOR_SELF_USE": "當一個人突然看懂模式、意義或自己真正的問題時",
+    "NEIGHBOR_1": "Idea",
+    "NEIGHBOR_1_MEANING": "想法、點子或概念",
+    "NEIGHBOR_1_USE": "普通想到一個方案，不一定有理解轉折時",
+    "MODERN_USE_1": "Modern English uses <code>epiphany</code> for personal insight, creative realization, debugging breakthroughs, and literary moments of revelation.",
+    "MODERN_USE_2": "The word works best when the insight changes the frame, not merely when someone remembers a fact.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support both the religious manifestation sense and the modern sudden-insight sense.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/epiphany",
+    "DICTIONARY_LABEL": "Merriam-Webster: epiphany",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Greek roots for appearance or manifestation.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/epiphany",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: epiphany",
+    "MODERN_SOURCE_NOTE": "Modern examples support use for sudden realizations and moments of insight.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/epiphany",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 epiphany 和 idea 的差異。",
+    "CHECK_ORIGIN": "我記得它的來源有 manifestation / appearance 的畫面。",
+    "CHECK_SENTENCE": "我能用它造一句學習、debug 或人生反思情境的英文句子。",
+    "PRACTICE_SENTENCE": "The epiphany came when we noticed that every reset happened after the same interrupt.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/epiphany",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "epiphany",
+    "word": "Epiphany",
+    "partOfSpeech": "noun",
+    "href": "./epiphany.html",
+    "thesis": "不是普通的想法，而是某個意義突然顯現，讓你用新的方式看懂一件事。",
+    "tags": [
+      "頓悟",
+      "洞見",
+      "realization",
+      "insight",
+      "have an epiphany",
+      "moment of epiphany",
+      "debugging",
+      "literary",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 epiphany 和 idea 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有 manifestation / appearance 的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句學習、debug 或人生反思情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: epiphany",
+      "url": "https://www.merriam-webster.com/dictionary/epiphany",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: epiphany",
+      "url": "https://www.etymonline.com/word/epiphany",
+      "usedFor": "Greek appearance or manifestation origin and source boundary"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/epiphany",
+      "usedFor": "modern usage around sudden realization and insight"
+    }
+  ]
+}

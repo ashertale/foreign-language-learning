@@ -1,0 +1,118 @@
+{
+  "target": {
+    "word": "Tenacious",
+    "slug": "tenacious",
+    "outputPath": "prototypes/tenacious.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Tenacious",
+    "WORD_SLUG": "tenacious",
+    "WORD_LOWER": "tenacious",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/təˈneɪ.ʃəs/",
+    "THESIS": "不是單純的「努力」，而是抓住重要目標不放，即使壓力、阻力或疲勞出現，也不輕易鬆手。",
+    "LEARNING_POSITION": "把 tenacious 想成「有抓力的堅持」：它可以形容人的毅力、團隊的防守、材料的黏附，也可以形容一個很難甩掉的 bug。",
+    "CORE_IDEA": "Tenacious means holding on with force and purpose: a person keeps pursuing, a grip does not release, or an idea stays alive under pressure.",
+    "CONCEPT_FOCUS": "核心不是速度，而是 hold fast：面對拉扯時仍然抓緊。",
+    "TONE_REGISTER": "多半是正面或敬佩的語氣，但如果抓住的是錯誤想法，也可能帶出固執感。",
+    "USE_WARNING": "不要把 tenacious 當成一般的 hard-working；它強調不鬆手、不放棄、難以分離。",
+    "SHORT_DEFINITION": "Holding firmly, persisting strongly, or clinging in a way that is hard to pull away.",
+    "CONFUSION_WORD": "stubborn",
+    "CONFUSION_NOTE": "Stubborn 常帶有不願改變、拒絕聽勸的負面感；tenacious 更像為了有價值的目標持續抓住。",
+    "FLOW_1": "pressure pulls",
+    "FLOW_2": "the hold stays",
+    "FLOW_3": "the goal remains",
+    "ORIGIN_PARAGRAPH": "Tenacious comes through the Latin family around tenax, meaning holding fast or clinging, from tenere, to hold. The old picture is not someone merely trying hard, but something with a grip that does not easily release.",
+    "ORIGIN_MEMORY": "字源畫面可以抓住 tenere: to hold。Tenacious 就像手指扣住岩壁，力量不在大聲宣告，而在被拉扯時仍維持抓力。",
+    "MEMORY_HOOK": "A tenacious mind has fingers.",
+    "MEMORY_EXPLANATION": "想像一個想法長出手指，緊扣在目標邊緣。這不是盲目衝刺，而是知道什麼值得抓住，然後在壓力裡不急著鬆開。",
+    "DAILY_USAGE": "She was tenacious in learning the language, returning to the same difficult sounds until they finally felt natural.",
+    "PROFESSIONAL_USAGE": "The team took a tenacious approach to debugging, narrowing the fault one measurement at a time.",
+    "DOMAIN_USAGE": "A tenacious adhesive, root system, or memory holds on even when conditions try to pull it apart.",
+    "COLLOCATION_NOTE": "Tenacious 常和 hold、effort、defense、memory、grip 這類帶有「抓住、維持、抵抗」感的名詞搭配。",
+    "COLLOCATION_1": "a tenacious grip",
+    "REGISTER_1": "literal",
+    "COLLOCATION_NOTE_1": "形容實際的抓握、黏附或不容易被拉開的接觸。",
+    "COLLOCATION_2": "tenacious effort",
+    "REGISTER_2": "neutral / positive",
+    "COLLOCATION_NOTE_2": "強調長時間、不放棄的努力，尤其在阻力明顯時。",
+    "COLLOCATION_3": "tenacious defense",
+    "REGISTER_3": "sports / strategy",
+    "COLLOCATION_NOTE_3": "常見於運動、談判或競爭情境，表示防守緊、咬得住、不讓對方輕易突破。",
+    "NEIGHBOR_SELF": "抓住目標、位置或信念，不因壓力輕易鬆手。",
+    "NEIGHBOR_SELF_USE": "稱讚一個人、團隊、系統或材料在拉扯下仍保持抓力。",
+    "NEIGHBOR_1": "Stubborn",
+    "NEIGHBOR_1_MEANING": "拒絕改變或不願聽取理由，重點在僵硬而非有目標的堅持。",
+    "NEIGHBOR_1_USE": "當某人的不讓步看起來不理性、缺少學習或調整時。",
+    "MODERN_USE_1": "In modern English, tenacious often praises athletes, advocates, researchers, engineers, or teams who keep pressure on a problem until it yields.",
+    "MODERN_USE_2": "It also keeps a concrete meaning: a tenacious grip, root, adhesive, or memory is hard to separate from what it holds.",
+    "DICTIONARY_SOURCE_NOTE": "Merriam-Webster lists tenacious as an adjective for persistent pursuit, endurance under challenge, retention, and literal grip or adhesion.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/tenacious",
+    "DICTIONARY_LABEL": "Merriam-Webster: tenacious",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymonline traces tenacious to the Latin family of tenax and tenere, centered on holding fast or clinging.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/tenacious",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: tenacious",
+    "MODERN_SOURCE_NOTE": "Merriam-Webster's usage examples show modern contexts such as advocacy, defense, ambition, spirit, grip, and memory.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/tenacious",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "說出 tenacious 和 stubborn 的差異。",
+    "CHECK_ORIGIN": "記得 tenacious 的核心畫面是 tenere: to hold。",
+    "CHECK_SENTENCE": "用 tenacious 寫一句關於 debug、學習、研究或防守的英文句子。",
+    "PRACTICE_SENTENCE": "The engineer stayed tenacious, testing one assumption after another until the intermittent fault finally appeared.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/tenacious",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "tenacious",
+    "word": "Tenacious",
+    "partOfSpeech": "adjective",
+    "href": "./tenacious.html",
+    "thesis": "不是單純的「努力」，而是抓住重要目標不放，即使壓力、阻力或疲勞出現，也不輕易鬆手。",
+    "tags": [
+      "堅持",
+      "韌性",
+      "hold fast",
+      "persistent",
+      "grip",
+      "tenacious effort",
+      "tenacious defense",
+      "tenacious bug",
+      "debugging",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 tenacious 和 stubborn 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 tenere / to hold 的字源畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 debug、學習或防守情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: tenacious",
+      "url": "https://www.merriam-webster.com/dictionary/tenacious",
+      "usedFor": "part of speech, core senses, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: tenacious",
+      "url": "https://www.etymonline.com/word/tenacious",
+      "usedFor": "Latin tenax / tenere origin and holding-fast memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/tenacious",
+      "usedFor": "modern examples around advocates, defense, ambition, spirit, grip, and memory"
+    }
+  ]
+}

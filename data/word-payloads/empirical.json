@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Empirical",
+    "slug": "empirical",
+    "outputPath": "prototypes/empirical.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Empirical",
+    "WORD_SLUG": "empirical",
+    "WORD_LOWER": "empirical",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/ɪmˈpɪr.ɪ.kəl/",
+    "THESIS": "不是「看起來合理」，而是由觀察、測量或實驗經驗撐起來的判斷。",
+    "LEARNING_POSITION": "把 empirical 記成「show me the measurements」：它要的是可觀察證據，不只是理論漂亮。",
+    "CORE_IDEA": "<code>empirical</code> describes knowledge based on observation, experience, or experiment rather than pure theory.",
+    "CONCEPT_FOCUS": "用實際資料、觀察結果或實驗測量來支持說法。",
+    "TONE_REGISTER": "正式、學術、工程與研究語氣；適合放在 evidence、data、test、study 前面。",
+    "USE_WARNING": "不要把 empirical 當成 subjective；它強調從世界收集到的證據，即使解讀仍可能需要理論。",
+    "SHORT_DEFINITION": "Based on observation, experiment, or practical experience rather than only on reasoning or theory.",
+    "CONFUSION_WORD": "Theoretical",
+    "CONFUSION_NOTE": "<code>theoretical</code> 由概念與推理出發；<code>empirical</code> 由觀察與測量回到判斷。",
+    "FLOW_1": "observe or measure",
+    "FLOW_2": "collect evidence",
+    "FLOW_3": "support a claim",
+    "ORIGIN_PARAGRAPH": "<code>empirical</code> comes through Latin and Greek roots connected with <code>empeiria</code>, experience. The old center is knowledge gained by trying, seeing, and experiencing.",
+    "ORIGIN_MEMORY": "它的核心不是「猜得很有道理」，而是手上真的有觀察紀錄。經驗不是小道消息，而是經過世界測試的材料。",
+    "MEMORY_HOOK": "Empirical means the oscilloscope gets a vote.",
+    "MEMORY_EXPLANATION": "當理論、直覺和測量結果吵架時，empirical evidence 會把儀器畫面、log、統計樣本放到桌上。它讓討論回到可看見的事實。",
+    "DAILY_USAGE": "A person may believe coffee helps them focus, but an empirical check would compare actual sleep, timing, and performance.",
+    "PROFESSIONAL_USAGE": "An empirical fix is backed by repeated tests, not only by a plausible explanation.",
+    "DOMAIN_USAGE": "In research, empirical studies use observation or experiment to test claims about the world.",
+    "COLLOCATION_NOTE": "Empirical 常放在 evidence、data、study、result 前面，形成「靠觀察支撐」的語氣。",
+    "COLLOCATION_1": "empirical evidence",
+    "REGISTER_1": "research / engineering",
+    "COLLOCATION_NOTE_1": "指由觀察、測量或實驗得來的證據。",
+    "COLLOCATION_2": "empirical data",
+    "REGISTER_2": "analytics / testing",
+    "COLLOCATION_NOTE_2": "強調資料不是憑空推導，而是實際收集而來。",
+    "COLLOCATION_3": "empirical study",
+    "REGISTER_3": "academic",
+    "COLLOCATION_NOTE_3": "指以觀察或實驗為基礎的研究。",
+    "NEIGHBOR_SELF": "由觀察、經驗或實驗支持",
+    "NEIGHBOR_SELF_USE": "需要強調 claims are measured or observed 時",
+    "NEIGHBOR_1": "Theoretical",
+    "NEIGHBOR_1_MEANING": "由理論、模型或概念推導",
+    "NEIGHBOR_1_USE": "當重點是概念推理，尚未或不一定經過實測時",
+    "MODERN_USE_1": "Modern English uses <code>empirical</code> heavily in science, engineering, social research, and product experiments to mark claims grounded in observed evidence.",
+    "MODERN_USE_2": "In engineering writing, the word is useful when you want to separate what the design model predicts from what the board, log, sensor, or user test actually shows.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the sense of relying on observation or experience and identify adjective use.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/empirical",
+    "DICTIONARY_LABEL": "Merriam-Webster: empirical",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Greek <code>empeiria</code>, experience.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/empirical",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: empirical",
+    "MODERN_SOURCE_NOTE": "Modern examples support usage with evidence, data, studies, observation, and scientific claims.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/empirical",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 empirical 和 theoretical 的差異。",
+    "CHECK_ORIGIN": "我記得它和 experience、observation 的字源核心有關。",
+    "CHECK_SENTENCE": "我能用它造一句測量、研究或 debug 判斷的英文句子。",
+    "PRACTICE_SENTENCE": "We need <code>empirical</code> evidence before changing the reset sequence.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/empirical",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "empirical",
+    "word": "Empirical",
+    "partOfSpeech": "adjective",
+    "href": "./empirical.html",
+    "thesis": "不是「看起來合理」，而是由觀察、測量或實驗經驗撐起來的判斷。",
+    "tags": [
+      "實證",
+      "觀察",
+      "measurement",
+      "evidence",
+      "empirical data",
+      "empirical evidence",
+      "research",
+      "engineering",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 empirical 和 theoretical 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和 experience、observation 有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句測量、研究或 debug 判斷的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: empirical",
+      "url": "https://www.merriam-webster.com/dictionary/empirical",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: empirical",
+      "url": "https://www.etymonline.com/word/empirical",
+      "usedFor": "Greek empeiria origin and experience-based memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/empirical",
+      "usedFor": "modern usage around evidence, data, and observation"
+    }
+  ]
+}

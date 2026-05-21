@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Resilient",
+    "slug": "resilient",
+    "outputPath": "prototypes/resilient.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Resilient",
+    "WORD_SLUG": "resilient",
+    "WORD_LOWER": "resilient",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "UK /rɪˈzɪl.i.ənt/ · US /rɪˈzɪl.jənt/",
+    "THESIS": "不是「沒有受傷」，而是受壓後仍能恢復形狀、功能或方向。",
+    "LEARNING_POSITION": "把它記成「stress + recovery + adaptive strength」：真正的強，是壓力過後還能回來。",
+    "CORE_IDEA": "<code>resilient</code> 的核心不是硬撐，而是受衝擊後仍保有恢復、調整、重新站穩的能力。",
+    "CONCEPT_FOCUS": "從壓力、彎曲、傷害、變動或失敗中恢復，並回到可運作狀態。",
+    "TONE_REGISTER": "正面、成熟、務實；可用在人、材料、系統、經濟、團隊與供應鏈。",
+    "USE_WARNING": "若只是很強壯，用 strong；若重點是抗衝擊且能恢復，用 <code>resilient</code>。",
+    "SHORT_DEFINITION": "形容人、材料、組織或系統在困難、壓力或形變後，能快速恢復原本狀態或良好狀態。",
+    "CONFUSION_WORD": "Strong",
+    "CONFUSION_NOTE": "<code>strong</code> 偏力量或硬度；<code>resilient</code> 偏恢復力。強的東西可能不彎，resilient 的東西彎了還能回來。",
+    "FLOW_1": "受到衝擊",
+    "FLOW_2": "吸收或變形",
+    "FLOW_3": "恢復運作",
+    "ORIGIN_PARAGRAPH": "<code>resilient</code> 來自 Latin <code>resilire</code>，意思接近「jump back / spring back」。早期用於物體「彈回、回到原位」的性質，後來延伸到人面對困難後能恢復。",
+    "ORIGIN_MEMORY": "這個字源讓它比 strong 更有畫面：不是石頭硬扛，而像彈簧、橡膠或竹子，在壓力過後仍能回到可用的形狀。",
+    "MEMORY_HOOK": "<code>resilient</code> 是被壓下去的彈簧：它承認壓力存在，但不把被壓住當成最後狀態。",
+    "MEMORY_EXPLANATION": "記這個字時，不要想「永遠不壞」。請想「壓力之後還有回復路徑」。對人如此，對系統、組織、材料也如此。",
+    "DAILY_USAGE": "經歷挫折後仍能慢慢調整生活節奏、重新工作與連結他人，可以說是 <code>resilient</code>。",
+    "PROFESSIONAL_USAGE": "一個 <code>resilient system</code> 不只追求不出錯，也設計 fallback、retry、graceful degradation 與可恢復性。",
+    "DOMAIN_USAGE": "橡膠球被壓扁後能回彈，是 <code>resilient material</code> 的直觀例子。",
+    "COLLOCATION_NOTE": "這一區是 <code>resilient + noun</code> 的自然搭配；後面的辨析表才處理 <code>robust</code>、<code>durable</code>、<code>flexible</code> 的概念差異。",
+    "COLLOCATION_1": "resilient system",
+    "REGISTER_1": "工程 / 架構 / SRE",
+    "COLLOCATION_NOTE_1": "強調失敗發生後仍能降級、恢復、繼續服務，而不是假設永遠不會失敗。",
+    "COLLOCATION_2": "resilient team",
+    "REGISTER_2": "管理 / 組織",
+    "COLLOCATION_NOTE_2": "指團隊遇到變動、壓力或失敗後，能整理資訊、修正做法並恢復節奏。",
+    "COLLOCATION_3": "resilient supply chain",
+    "REGISTER_3": "商業 / 製造 / 物流",
+    "COLLOCATION_NOTE_3": "表示供應鏈有替代來源、緩衝與恢復方案，不會因單點問題全面停擺。",
+    "NEIGHBOR_SELF": "受壓後能恢復、調整、重新運作",
+    "NEIGHBOR_SELF_USE": "重點是 recovery，不是完全不受影響",
+    "NEIGHBOR_1": "Robust",
+    "NEIGHBOR_1_MEANING": "強健，不容易因變動或錯誤而壞掉",
+    "NEIGHBOR_1_USE": "偏抗干擾與穩定；不一定強調回彈",
+    "MODERN_USE_1": "現代英文裡，<code>resilient</code> 很常用於心理健康、系統設計、城市規劃、經濟、供應鏈與組織管理。它承認壓力、故障和變動會發生，所以重點放在恢復路徑與適應能力。",
+    "MODERN_USE_2": "在工程語境中，<code>resilient</code> 比「永不失敗」更務實。好的設計會問：錯誤發生時，系統如何隔離、降級、重試、回復，並讓使用者仍能完成最重要的事？",
+    "DICTIONARY_SOURCE_NOTE": "人能從困難中恢復、材料能回到原狀的雙重核心義與 IPA 參考 Cambridge Dictionary。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/resilient",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "Latin <code>resilire</code>、<code>springing back</code> 與從材料到人的比喻延伸，參考 Online Etymology Dictionary。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/resilient",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "和 shock、deformation、misfortune、change 相關的現代定義參考 Merriam-Webster；系統設計例子是工程延伸。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/resilient",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 resilient 和 strong 的差異。",
+    "CHECK_ORIGIN": "我記得它來自「spring back / jump back」的字源畫面。",
+    "CHECK_SENTENCE": "我能用它造一句關於人、系統或材料的英文句子。",
+    "PRACTICE_SENTENCE": "A <code>resilient</code> system keeps the core workflow alive even when one component fails.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/resilient",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "resilient",
+    "word": "Resilient",
+    "partOfSpeech": "adjective",
+    "href": "./resilient.html",
+    "thesis": "不是「沒有受傷」，而是受壓後仍能恢復形狀、功能或方向。",
+    "tags": [
+      "恢復力",
+      "韌性",
+      "spring back",
+      "bounce back",
+      "resilient system",
+      "resilient team",
+      "resilient material",
+      "engineering",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 resilient 和 strong 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 spring back / jump back 的字源畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句人、系統或材料情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/resilient",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/resilient",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/resilient",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

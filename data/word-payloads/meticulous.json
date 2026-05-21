@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Meticulous",
+    "slug": "meticulous",
+    "outputPath": "prototypes/meticulous.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Meticulous",
+    "WORD_SLUG": "meticulous",
+    "WORD_LOWER": "meticulous",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "UK /məˈtɪk.jə.ləs/ · US /məˈtɪk.jə.ləs/",
+    "THESIS": "不是「龜毛」，而是把錯誤最可能躲藏的細節逐一照亮。",
+    "LEARNING_POSITION": "把它記成「care + every detail + error prevention」：慢不是重點，精準才是重點。",
+    "CORE_IDEA": "<code>meticulous</code> 描述一種高解析度的注意力：每個小地方都被看見，因為任何小地方都可能改變結果。",
+    "CONCEPT_FOCUS": "非常細心、嚴謹，願意逐項檢查細節，而不是只看大方向。",
+    "TONE_REGISTER": "多半正面，尤其在研究、工程、紀錄、審計、醫療與設計品質中很有價值。",
+    "USE_WARNING": "若細節追求阻礙決策，可能變成 pedantic 或 fussy；<code>meticulous</code> 通常仍帶有效能與品質感。",
+    "SHORT_DEFINITION": "形容人、工作或方法對每個細節都非常小心、周到、精確。",
+    "CONFUSION_WORD": "Careful",
+    "CONFUSION_NOTE": "<code>careful</code> 是小心；<code>meticulous</code> 更像「小心到每個細節都有被檢查」，語氣更精密。",
+    "FLOW_1": "拆成細節",
+    "FLOW_2": "逐項檢查",
+    "FLOW_3": "降低錯漏",
+    "ORIGIN_PARAGRAPH": "<code>meticulous</code> 早期來自 Latin <code>meticulosus</code>，意思接近「fearful, timid」，和 <code>metus</code>（fear, dread）有關。早期的「膽怯、害怕」義現在已經過時。",
+    "ORIGIN_MEMORY": "現代意思轉向「過度小心、細節周到」。這條字源很適合記憶：恐懼本來會讓人縮手，但在專業工作裡，對錯誤的敬畏可以被轉化成精準檢查。",
+    "MEMORY_HOOK": "<code>meticulous</code> 是上電前最後一次看 schematic：不是害怕工作，而是尊重每個可能冒煙的細節。",
+    "MEMORY_EXPLANATION": "把字源裡的 <code>metus</code> 想成「對錯誤的敬畏」。好的 meticulous 不是拖慢，而是讓重要事情少一點隱藏風險。",
+    "DAILY_USAGE": "出國前逐項確認護照、保險、轉接頭、住宿資料，可以說是 <code>meticulous planning</code>。",
+    "PROFESSIONAL_USAGE": "檢查 pin mapping、register default、timing constraint、版本差異時，<code>meticulous review</code> 能避免很貴的返工。",
+    "DOMAIN_USAGE": "論文、實驗紀錄、法規文件或醫療紀錄若要可信，通常需要 <code>meticulous documentation</code>。",
+    "COLLOCATION_NOTE": "這一區是 <code>meticulous + noun</code> 的自然搭配；後面的辨析表才處理 <code>careful</code>、<code>thorough</code>、<code>pedantic</code> 的語感差異。",
+    "COLLOCATION_1": "meticulous attention to detail",
+    "REGISTER_1": "商務 / 品質 / 招募",
+    "COLLOCATION_NOTE_1": "最常見搭配之一，強調能看見小錯誤、小差異與小風險。",
+    "COLLOCATION_2": "meticulous planning",
+    "REGISTER_2": "專案 / 旅行 / 活動",
+    "COLLOCATION_NOTE_2": "表示事前安排很完整，細節、備案、限制條件都有被考慮。",
+    "COLLOCATION_3": "meticulous records",
+    "REGISTER_3": "行政 / 醫療 / 法務",
+    "COLLOCATION_NOTE_3": "指紀錄細、準、可追溯，適合用在 audit trail 或實驗資料。",
+    "NEIGHBOR_SELF": "非常注意每個細節，通常為了品質與準確",
+    "NEIGHBOR_SELF_USE": "適合高風險、高精度或需要可信紀錄的工作",
+    "NEIGHBOR_1": "Careful",
+    "NEIGHBOR_1_MEANING": "小心，不冒失",
+    "NEIGHBOR_1_USE": "比 meticulous 普通，不一定表示逐項細查",
+    "MODERN_USE_1": "在現代職場裡，<code>meticulous</code> 常出現在品質、合規、資料治理、工程設計與研究方法。它不是叫每件事都慢慢做，而是提醒你：有些工作一旦出錯，修復成本遠高於事前檢查成本。",
+    "MODERN_USE_2": "用在履歷或自我描述時要具體，不要只寫 <code>I am meticulous</code>。更自然的做法是把它放進成果：<code>meticulous test documentation</code>、<code>meticulous failure analysis</code>、<code>meticulous release notes</code>。",
+    "DICTIONARY_SOURCE_NOTE": "「giving or showing careful attention to every detail」與商務用法參考 Cambridge Dictionary。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/meticulous",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "Latin <code>meticulosus</code>、<code>metus</code> 與早期「fearful, timid」義參考 Online Etymology Dictionary。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/meticulous",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代頁內把「對錯誤的敬畏」作為記憶鉤子，屬學習輔助，不是把現代工程語境說成古典字源。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/meticulous",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 meticulous 和 careful 的差異。",
+    "CHECK_ORIGIN": "我記得它和 Latin <code>metus</code>、對錯誤的敬畏有關。",
+    "CHECK_SENTENCE": "我能用它造一句工程、文件或規劃情境的英文句子。",
+    "PRACTICE_SENTENCE": "Her <code>meticulous</code> review caught a timing issue before the firmware release.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/meticulous",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "meticulous",
+    "word": "Meticulous",
+    "partOfSpeech": "adjective",
+    "href": "./meticulous.html",
+    "thesis": "不是「龜毛」，而是把錯誤最可能躲藏的細節逐一照亮。",
+    "tags": [
+      "嚴謹",
+      "一絲不苟",
+      "attention to detail",
+      "careful",
+      "thorough",
+      "meticulous review",
+      "meticulous records",
+      "engineering",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 meticulous 和 careful 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和 Latin metus、對錯誤的敬畏有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句工程、文件或規劃情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/meticulous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/meticulous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/meticulous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

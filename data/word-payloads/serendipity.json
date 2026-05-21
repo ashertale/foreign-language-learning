@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Serendipity",
+    "slug": "serendipity",
+    "outputPath": "prototypes/serendipity.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Serendipity",
+    "WORD_SLUG": "serendipity",
+    "WORD_LOWER": "serendipity",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "UK /ˌser.ənˈdɪp.ə.ti/ · US /ˌser.ənˈdɪp.ə.t̬i/",
+    "THESIS": "不是單純的「幸運」，而是在你有探索眼光時，偶然把有價值的東西送到面前。",
+    "LEARNING_POSITION": "把它記成「chance + prepared attention + valuable find」：偶然出現，但你也要看得出它有價值。",
+    "CORE_IDEA": "<code>serendipity</code> 是「意外」和「敏銳判斷」相遇：你沒有刻意尋找那件事，卻在碰見它時認出它的價值。",
+    "CONCEPT_FOCUS": "偶然發現有趣、有用或珍貴的東西；重點是「沒在找，卻找到」。",
+    "TONE_REGISTER": "帶一點文學感、研究感與驚喜感，比 luck 更有「發現」與「價值」的方向。",
+    "USE_WARNING": "不要把它等同 fate。<code>serendipity</code> 通常是愉快的偶然發現，不是命中注定。",
+    "SHORT_DEFINITION": "名詞，指偶然找到有趣、有價值或令人愉快事物的能力、現象或幸運時刻。",
+    "CONFUSION_WORD": "Luck",
+    "CONFUSION_NOTE": "<code>luck</code> 範圍很大，可能好也可能壞；<code>serendipity</code> 更窄，通常是「意外遇見好東西」。",
+    "FLOW_1": "你在找 A",
+    "FLOW_2": "意外看見 B",
+    "FLOW_3": "B 反而很有價值",
+    "ORIGIN_PARAGRAPH": "<code>serendipity</code> 由 Horace Walpole 在 1754 年的信中創造，靈感來自故事 <cite>The Three Princes of Serendip</cite>。故事中的王子常在旅途中，透過偶然線索與推理能力，發現原本沒有尋找的事物。",
+    "ORIGIN_MEMORY": "<code>Serendip</code> 是 Sri Lanka 的舊稱之一。這段字源有趣的地方在於：它不是把幸運當成純粹天降，而是把「偶然」和「看得懂線索的能力」放在一起。",
+    "MEMORY_HOOK": "<code>serendipity</code> 像 debug 時順手讀到一行 log，結果它剛好指向真正的根因。",
+    "MEMORY_EXPLANATION": "你本來在追另一個現象，卻因為保持觀察力，意外撿到更重要的線索。這不是盲目的幸運，而是「偶然 + 注意力」共同完成的發現。",
+    "DAILY_USAGE": "在陌生巷子迷路，卻碰到一家剛好很喜歡的小書店，這種愉快的偶然就是 <code>serendipity</code>。",
+    "PROFESSIONAL_USAGE": "科學與創作常需要 <code>serendipity</code>：實驗結果不照預期走，卻打開一條更有意思的問題。",
+    "DOMAIN_USAGE": "推薦系統、探索頁、書籤工具若設計得好，可以增加使用者遇見意外好內容的機會。",
+    "COLLOCATION_NOTE": "這一區放的是 <code>serendipity</code> 常見語塊；後面的辨析表才處理它和 <code>luck</code>、<code>coincidence</code>、<code>fate</code> 的邊界。",
+    "COLLOCATION_1": "pure serendipity",
+    "REGISTER_1": "日常 / 敘事",
+    "COLLOCATION_NOTE_1": "強調事情沒有被安排，卻剛好導向愉快或有價值的結果。",
+    "COLLOCATION_2": "a moment of serendipity",
+    "REGISTER_2": "故事 / 回憶",
+    "COLLOCATION_NOTE_2": "適合描寫旅行、相遇、創作或職涯裡突然轉亮的一刻。",
+    "COLLOCATION_3": "serendipitous discovery",
+    "REGISTER_3": "研究 / 科學 / 報導",
+    "COLLOCATION_NOTE_3": "常用於意外發現新材料、新方法、新問題，語氣比 accidental discovery 更正面。",
+    "NEIGHBOR_SELF": "偶然發現有價值或令人愉快的事物",
+    "NEIGHBOR_SELF_USE": "重點是「意外 + 發現 + 正面價值」",
+    "NEIGHBOR_1": "Luck",
+    "NEIGHBOR_1_MEANING": "運氣，好壞皆可",
+    "NEIGHBOR_1_USE": "範圍較大，不一定包含發現或判斷",
+    "MODERN_USE_1": "現代工作裡，<code>serendipity</code> 常被用來談研究、創意、社群與知識系統。它不是叫人完全靠運氣，而是承認：有些好發現來自開放探索、跨領域接觸與偶然線索。",
+    "MODERN_USE_2": "在產品設計裡，若所有內容都被過度最佳化，使用者可能只看見已知偏好的延伸。適度的 <code>serendipity</code> 可以讓探索保持新鮮，但仍需要和準確性、控制感取得平衡。",
+    "DICTIONARY_SOURCE_NOTE": "核心義「by chance finding something interesting or valuable」、不可數名詞與 IPA 參考 Cambridge Dictionary。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/serendipity",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "Walpole、1754 年信件、<cite>The Three Princes of Serendip</cite> 與 Serendip 舊稱線索，參考 Online Etymology Dictionary。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/serendipity",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "和 fate、luck 的差異參考 Merriam-Webster FAQ；頁內產品與 debug 例子是現代應用延伸，不當作字源史實。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/serendipity",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 serendipity 和 luck 的差異。",
+    "CHECK_ORIGIN": "我記得它和 Serendip、Walpole、三位王子的故事有關。",
+    "CHECK_SENTENCE": "我能用它造一句關於旅行、研究或 debug 的英文句子。",
+    "PRACTICE_SENTENCE": "Finding the missing clue in an unrelated log file was pure <code>serendipity</code>.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/serendipity",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "serendipity",
+    "word": "Serendipity",
+    "partOfSpeech": "noun",
+    "href": "./serendipity.html",
+    "thesis": "不是單純的「幸運」，而是在你有探索眼光時，偶然把有價值的東西送到面前。",
+    "tags": [
+      "機緣",
+      "偶然發現",
+      "happy accident",
+      "valuable discovery",
+      "pure serendipity",
+      "serendipitous discovery",
+      "research",
+      "product discovery",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 serendipity 和 luck 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和 Serendip、Walpole、三位王子的故事有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句旅行、研究或 debug 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/serendipity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/serendipity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/serendipity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

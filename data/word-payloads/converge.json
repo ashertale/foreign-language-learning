@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Converge",
+    "slug": "converge",
+    "outputPath": "prototypes/converge.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Converge",
+    "WORD_SLUG": "converge",
+    "WORD_LOWER": "converge",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "/kun-VURJ/ · UK /kənˈvɜːdʒ/ · US /kənˈvɝːdʒ/",
+    "THESIS": "不是只是靠近，而是多條路、想法或數值朝同一個點逐漸收束。",
+    "LEARNING_POSITION": "用在線條、路徑、觀點、證據、數值、系統狀態與團隊共識；它描述分散的東西慢慢走向同一處。",
+    "CORE_IDEA": "To converge is to move toward the same point, result, idea, or value after starting from different places.",
+    "CONCEPT_FOCUS": "重點是 movement toward one point：一開始可以分散，但方向逐漸一致，最後可能相交、聚集或趨近。",
+    "TONE_REGISTER": "中性、分析性，常見於 math、engineering、science、strategy、group discussion。語氣比 meet 更有過程感。",
+    "USE_WARNING": "不要把 converge 和 merge 完全混用。Merge 偏合併成一個；converge 偏朝同一點靠近，未必永久合一。",
+    "SHORT_DEFINITION": "To move toward the same point, meet, become similar, or come together from different directions.",
+    "CONFUSION_WORD": "merge",
+    "CONFUSION_NOTE": "Merge 是合併；converge 是收束到同一方向或同一點。收束後不一定永遠變成一個整體。",
+    "FLOW_1": "different starts",
+    "FLOW_2": "shared direction",
+    "FLOW_3": "one point or result",
+    "ORIGIN_PARAGRAPH": "Converge comes from Late Latin <code>convergere</code>, to incline together, from <code>com-</code> together and <code>vergere</code>, to bend or turn toward.",
+    "ORIGIN_MEMORY": "把 converge 想成幾條線都向中心彎過去。它們不是一開始就在一起，而是在過程中逐漸朝同一點收束。",
+    "MEMORY_HOOK": "Converge is many paths bending toward one point.",
+    "MEMORY_EXPLANATION": "這個畫面也能用在 debug：多個線索一開始看似無關，但 logs、timing、repro steps 最後都指向同一個 root cause。",
+    "DAILY_USAGE": "The streets converge near the old station.",
+    "PROFESSIONAL_USAGE": "The logs, oscilloscope traces, and reproduction steps all converged on the same timing issue.",
+    "DOMAIN_USAGE": "In an iterative algorithm, the values converge when each step moves closer to a stable result.",
+    "COLLOCATION_NOTE": "Converge 常和 on、toward、at 搭配，描述線索、觀點、人群或數值逐漸集中。",
+    "COLLOCATION_1": "converge on a point",
+    "REGISTER_1": "general / spatial",
+    "COLLOCATION_NOTE_1": "描述路線、線條或群體朝某處聚集。",
+    "COLLOCATION_2": "evidence converges",
+    "REGISTER_2": "analytical / research",
+    "COLLOCATION_NOTE_2": "表示多個獨立線索支持同一結論。",
+    "COLLOCATION_3": "values converge",
+    "REGISTER_3": "math / engineering",
+    "COLLOCATION_NOTE_3": "表示數值或迭代結果逐步接近穩定值。",
+    "NEIGHBOR_SELF": "從不同方向逐漸收束到同一點",
+    "NEIGHBOR_SELF_USE": "談路徑、觀點、證據、數值、共識、debug 線索。",
+    "NEIGHBOR_1": "diverge",
+    "NEIGHBOR_1_MEANING": "從共同點或相近狀態分開，走向不同方向",
+    "NEIGHBOR_1_USE": "當線索、觀點、數值或路徑越走越不一樣時。",
+    "MODERN_USE_1": "在軟體與工程 debug 中，converge 很適合描述多個觀察最後指向同一個 root cause。",
+    "MODERN_USE_2": "在數學與演算法裡，converge 描述序列或迭代結果接近某個值；在團隊討論中，則表示意見逐漸趨於一致。",
+    "DICTIONARY_SOURCE_NOTE": "Cambridge Dictionary gives IPA and defines converge as lines, roads, ideas, or opinions moving toward the same point or becoming similar.",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+    "DICTIONARY_LABEL": "Cambridge Dictionary: converge",
+    "ETYMOLOGY_SOURCE_NOTE": "Online Etymology Dictionary traces converge to Late Latin <code>convergere</code>, together plus bend or turn toward.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/converge",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: converge",
+    "MODERN_SOURCE_NOTE": "Cambridge examples cover paths, opinions, groups, economics, and prices or levels becoming similar.",
+    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+    "MODERN_SOURCE_LABEL": "Cambridge examples: converge",
+    "CHECK_MEANING": "說出 converge 和 merge 的差異",
+    "CHECK_ORIGIN": "記得它來自「一起」加上「彎向、轉向」的字源畫面",
+    "CHECK_SENTENCE": "用它造一句 debug、演算法或團隊共識情境的英文句子",
+    "PRACTICE_SENTENCE": "The evidence began to converge when _____, _____, and _____ all pointed to _____.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+    "REFERENCE_LABEL": "Open Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "converge",
+    "word": "Converge",
+    "partOfSpeech": "verb",
+    "href": "./converge.html",
+    "thesis": "不是只是靠近，而是多條路、想法或數值朝同一個點逐漸收束。",
+    "tags": [
+      "收束",
+      "匯合",
+      "come together",
+      "convergence",
+      "converge on",
+      "evidence converges",
+      "algorithm",
+      "debugging",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 converge 和 merge 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自「一起」加上「彎向、轉向」的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 debug、演算法或團隊共識情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: converge",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+      "usedFor": "IPA, definition, path and opinion usage"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: converge",
+      "url": "https://www.etymonline.com/word/converge",
+      "usedFor": "Late Latin convergere origin"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Cambridge examples: converge",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+      "usedFor": "paths, opinions, economics, and values usage"
+    }
+  ]
+}

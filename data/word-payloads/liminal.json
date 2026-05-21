@@ -1,0 +1,116 @@
+{
+  "target": {
+    "word": "Liminal",
+    "slug": "liminal",
+    "outputPath": "prototypes/liminal.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Liminal",
+    "WORD_SLUG": "liminal",
+    "WORD_LOWER": "liminal",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "UK /ˈlɪm.ɪ.nəl/ · US /ˈlɪm.ən.əl/",
+    "THESIS": "不是「中間」這麼平面，而是站在門檻上：已經離開舊狀態，還沒真正抵達新狀態。",
+    "LEARNING_POSITION": "把它記成「threshold + transition」：門已經開了，但你還站在門框之間。",
+    "CORE_IDEA": "<code>liminal</code> 描述一種「在門檻上」的狀態：你正在穿越，不再完全屬於原本那邊，也還沒有完全成為下一邊。",
+    "CONCEPT_FOCUS": "邊界、過渡、半完成。重點不只是位置在中間，而是狀態正在改變。",
+    "TONE_REGISTER": "偏正式、文學、心理學與文化研究語境；也常出現在空間感、成長、儀式與網路美學中。",
+    "USE_WARNING": "若只是模糊不清，用 ambiguous；若只是暫時，用 temporary；若有跨越門檻的過渡感，用 liminal。",
+    "SHORT_DEFINITION": "形容位於兩種狀態、階段、場所或身份之間；也可指接近感知門檻、幾乎剛好能被察覺的刺激。",
+    "CONFUSION_WORD": "Ambiguous",
+    "CONFUSION_NOTE": "<code>ambiguous</code> 是意思不明；<code>liminal</code> 是邊界感很強。它像畢業前夕、凌晨三點的車站、睡與醒之間的那一秒。",
+    "FLOW_1": "舊狀態鬆開",
+    "FLOW_2": "站在門檻",
+    "FLOW_3": "新狀態尚未穩定",
+    "ORIGIN_PARAGRAPH": "<code>liminal</code> 來自 Latin <code>limen</code>，意思是「threshold，門檻」。字面上它不是一般的 middle，而是「門框、界線、跨過去之前的那條邊」。",
+    "ORIGIN_MEMORY": "它早期也和心理、生理感知的門檻有關：某個刺激小到快要感覺不到，但剛好站在能不能被察覺的邊界上。後來這個「門檻」概念被延伸到人生階段、儀式、空間、身份與文化狀態。",
+    "MEMORY_HOOK": "<code>liminal</code> 是站在玄關換鞋的那一刻：外面還黏在身上，家裡也還沒有完全接住你。",
+    "MEMORY_EXPLANATION": "記這個字時，不要只想「between」。請想像一條門檻線：一隻腳在舊世界，一隻腳在新世界。這種半離開、半抵達的張力，就是 <code>liminal</code> 的核心。",
+    "DAILY_USAGE": "搬家前一晚、畢業典禮後、旅行返家途中，都是 <code>liminal</code>：你知道某段生活已經結束，但新的節奏還沒坐穩。",
+    "PROFESSIONAL_USAGE": "空蕩的機場走廊、半夜的便利商店、清晨無人的地下道，常被稱為 <code>liminal spaces</code>，因為它們像只為「經過」而存在。",
+    "DOMAIN_USAGE": "在人類學、心理學或文化研究中，<code>liminal</code> 常描述儀式、成長、身份轉換期間那種尚未定型的過渡狀態。",
+    "COLLOCATION_NOTE": "這一區是 <code>liminal + noun</code> 的自然搭配；後面的辨析表才處理 <code>liminal</code>、<code>transitional</code>、<code>ambiguous</code> 等近義邊界。",
+    "COLLOCATION_1": "liminal space",
+    "REGISTER_1": "建築 / 網路美學 / 文化評論",
+    "COLLOCATION_NOTE_1": "指位於轉換、等待或通行狀態的空間；可寫得學術，也可寫得帶一點詭異和懷舊。",
+    "COLLOCATION_2": "liminal period",
+    "REGISTER_2": "人生階段 / 社會觀察",
+    "COLLOCATION_NOTE_2": "用於畢業後、轉職中、移民初期、關係變化等尚未穩定的新舊交界期。",
+    "COLLOCATION_3": "liminal state",
+    "REGISTER_3": "心理 / 醫療 / 文學",
+    "COLLOCATION_NOTE_3": "常描寫睡醒之間、病中、危機後或身份尚未定名的心理狀態。",
+    "NEIGHBOR_SELF": "在門檻、邊界、過渡狀態中；舊身份與新狀態都尚未完全落定",
+    "NEIGHBOR_SELF_USE": "描述成長、儀式、空間、心理狀態、文化轉換",
+    "NEIGHBOR_1": "Transitional",
+    "NEIGHBOR_1_MEANING": "正在轉換；語氣較中性、功能性，不一定有門檻感或象徵性",
+    "NEIGHBOR_1_USE": "制度、政策、專案、人生階段的過渡安排",
+    "MODERN_USE_1": "在現代英文裡，<code>liminal</code> 很常被用來談「過渡中的人」與「只用來穿越的地方」。所以它不只適合學術文章，也適合寫城市空間、青春期、搬遷、職涯切換、疫情後的生活感。",
+    "MODERN_USE_2": "網路上常見的 <code>liminal space</code> 用法，通常不是嚴格的學術定義，而是借用「門檻、過渡、非日常」來描述空蕩、熟悉又陌生的場景。學習時要記得：網路美學是延伸用法，不要反過來把它當成唯一意思。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、形容詞詞性與 IPA 參考 Oxford Learner's Dictionaries、Cambridge Pronunciation 與 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.oxfordlearnersdictionaries.com/us/definition/english/liminal",
+    "DICTIONARY_LABEL": "Oxford Learner's",
+    "ETYMOLOGY_SOURCE_NOTE": "<code>limen</code>、<code>limin-</code> 與「threshold」的字源線索，參考 Online Etymology Dictionary 與 Merriam-Webster Word History。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/liminal",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "「in-between、transitional」與感知門檻的現代說明參考 Merriam-Webster；網路美學與空間感則在頁內標為延伸用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/liminal",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能用「門檻」解釋 liminal，而不是只翻成「中間」。",
+    "CHECK_ORIGIN": "我記得它來自 Latin <code>limen</code>，和 threshold 有關。",
+    "CHECK_SENTENCE": "我能用它造一句關於人生階段、空間或心理狀態的英文句子。",
+    "PRACTICE_SENTENCE": "After graduation, she lived in a <code>liminal</code> state, no longer a student but not yet settled into her new work life.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/us/pronunciation/english/liminal",
+    "REFERENCE_LABEL": "Cambridge Pronunciation"
+  },
+  "indexEntry": {
+    "id": "liminal",
+    "word": "Liminal",
+    "partOfSpeech": "adjective",
+    "href": "./liminal.html",
+    "thesis": "不是「中間」這麼平面，而是站在門檻上：已經離開舊狀態，還沒真正抵達新狀態。",
+    "tags": [
+      "門檻",
+      "threshold",
+      "transition",
+      "in-between",
+      "liminal space",
+      "人生階段",
+      "心理狀態",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "用「門檻」解釋 liminal，而不是只翻成「中間」"
+      },
+      {
+        "id": "origin",
+        "label": "記得它來自 Latin limen，和 threshold 有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句人生階段、空間或心理狀態的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Oxford Learner's",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/liminal",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/liminal",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/liminal",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

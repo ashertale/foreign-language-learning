@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Ambiguous",
+    "slug": "ambiguous",
+    "outputPath": "prototypes/ambiguous.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Ambiguous",
+    "WORD_SLUG": "ambiguous",
+    "WORD_LOWER": "ambiguous",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/æmˈbɪɡ.ju.əs/",
+    "THESIS": "不是「不清楚」這麼簡單，而是同一句話、訊號或需求可以合理走向兩種以上解讀。",
+    "LEARNING_POSITION": "把 ambiguous 記成「pulled in more than one direction」：問題不是看不見，而是看見後仍可能分岔。",
+    "CORE_IDEA": "<code>ambiguous</code> describes something open to more than one reasonable interpretation.",
+    "CONCEPT_FOCUS": "意義、責任、條件或訊號沒有被釘牢，導致多種解讀同時存在。",
+    "TONE_REGISTER": "正式到日常都能用；在需求、規格、法律、設計、語言學與 debug 報告中特別有用。",
+    "USE_WARNING": "不要把 ambiguous 和 vague 混在一起；vague 是輪廓模糊，ambiguous 是可能有多個明確方向。",
+    "SHORT_DEFINITION": "Able to be understood in more than one way, often because meaning, scope, or intent is not fixed enough.",
+    "CONFUSION_WORD": "Vague",
+    "CONFUSION_NOTE": "<code>vague</code> 是不夠具體；<code>ambiguous</code> 是有兩種以上可能解釋。",
+    "FLOW_1": "one statement",
+    "FLOW_2": "multiple readings",
+    "FLOW_3": "clarify intent",
+    "ORIGIN_PARAGRAPH": "<code>ambiguous</code> comes from Latin elements meaning around and to drive or move. The old picture is meaning being driven in more than one direction.",
+    "ORIGIN_MEMORY": "你可以把它想成一個路牌站在岔路口：它不是完全空白，而是讓兩條路都看起來合理。",
+    "MEMORY_HOOK": "Ambiguous requirements are forks disguised as sentences.",
+    "MEMORY_EXPLANATION": "一句規格如果可以被 firmware、QA、PM 各自解讀成不同實作，它就不是單純寫得短，而是留下了分岔點。",
+    "DAILY_USAGE": "The message was ambiguous, so I could not tell whether the meeting was canceled or just moved.",
+    "PROFESSIONAL_USAGE": "An ambiguous requirement can pass review quietly and become an expensive bug later.",
+    "DOMAIN_USAGE": "In parsing, ambiguous grammar allows the same input to produce more than one valid structure.",
+    "COLLOCATION_NOTE": "Ambiguous 常搭配 statement、requirement、signal、result，指解讀上的分岔。",
+    "COLLOCATION_1": "ambiguous requirement",
+    "REGISTER_1": "engineering / product",
+    "COLLOCATION_NOTE_1": "指規格可以被不同人合理解讀成不同實作。",
+    "COLLOCATION_2": "ambiguous signal",
+    "REGISTER_2": "systems / diagnostics",
+    "COLLOCATION_NOTE_2": "指觀察到的訊號不足以唯一指向某個原因。",
+    "COLLOCATION_3": "ambiguous wording",
+    "REGISTER_3": "writing / legal",
+    "COLLOCATION_NOTE_3": "指文字本身留下多重解釋空間。",
+    "NEIGHBOR_SELF": "同一材料可導向多個合理解讀",
+    "NEIGHBOR_SELF_USE": "句子、規格、訊號或責任界線會分岔時",
+    "NEIGHBOR_1": "Vague",
+    "NEIGHBOR_1_MEANING": "輪廓不清、缺少具體資訊",
+    "NEIGHBOR_1_USE": "當問題是太籠統，而不是可被清楚地往兩邊解讀",
+    "MODERN_USE_1": "Modern English uses <code>ambiguous</code> to diagnose language, requirements, data, laws, images, and behavior that can support more than one interpretation.",
+    "MODERN_USE_2": "In engineering, calling something ambiguous is not just criticism; it is a request to add a condition, threshold, owner, or example.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support the sense of having more than one possible meaning or interpretation.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/ambiguous",
+    "DICTIONARY_LABEL": "Merriam-Webster: ambiguous",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes connect the word to Latin elements for around and driving or moving.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/ambiguous",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: ambiguous",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with wording, statements, evidence, signals, and situations.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/ambiguous",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 ambiguous 和 vague 的差異。",
+    "CHECK_ORIGIN": "我記得它有 meaning driven in multiple directions 的畫面。",
+    "CHECK_SENTENCE": "我能用它造一句需求、訊號或訊息解讀情境的英文句子。",
+    "PRACTICE_SENTENCE": "The reset requirement is <code>ambiguous</code> because it never defines the timeout window.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/ambiguous",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "ambiguous",
+    "word": "Ambiguous",
+    "partOfSpeech": "adjective",
+    "href": "./ambiguous.html",
+    "thesis": "不是「不清楚」這麼簡單，而是同一句話、訊號或需求可以合理走向兩種以上解讀。",
+    "tags": [
+      "模稜兩可",
+      "多重解讀",
+      "unclear",
+      "vague",
+      "requirements",
+      "ambiguous signal",
+      "writing",
+      "debugging",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 ambiguous 和 vague 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有往多個方向被推動的畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句需求、訊號或訊息解讀情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: ambiguous",
+      "url": "https://www.merriam-webster.com/dictionary/ambiguous",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: ambiguous",
+      "url": "https://www.etymonline.com/word/ambiguous",
+      "usedFor": "Latin origin and multiple-directions memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/ambiguous",
+      "usedFor": "modern usage around statements and interpretation"
+    }
+  ]
+}

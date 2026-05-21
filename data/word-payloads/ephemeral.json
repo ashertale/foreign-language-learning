@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Ephemeral",
+    "slug": "ephemeral",
+    "outputPath": "prototypes/ephemeral.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Ephemeral",
+    "WORD_SLUG": "ephemeral",
+    "WORD_LOWER": "ephemeral",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "UK /ɪˈfem.ər.əl/ · US /əˈfem.ɚ.əl/",
+    "THESIS": "不是單純的「短暫」，而是短到讓你意識到時間正在流走。",
+    "LEARNING_POSITION": "把它記成「短暫 + 美感 + 消逝」。比 temporary 更詩性，也更有脆弱感。",
+    "CORE_IDEA": "有些事物因為不會久留，反而逼你在當下看見它的重量。",
+    "CONCEPT_FOCUS": "存在時間很短，而且短暫本身就是它的意義。",
+    "TONE_REGISTER": "常帶有詩意、脆弱、珍惜感，適合描述自然現象、情緒與靈感。",
+    "USE_WARNING": "如果只是暫時借用，用 temporary；如果短暫帶來美感或無常感，用 ephemeral。",
+    "SHORT_DEFINITION": "形容存在時間很短、很快消逝的事物。它常帶有詩意，不只是「短」，還有「稍縱即逝」的感覺。",
+    "CONFUSION_WORD": "Temporary",
+    "CONFUSION_NOTE": "<code>temporary</code> 偏向功能性的暫時；<code>ephemeral</code> 更像晨霧、花期、限時訊息：短暫本身就是它的氣質。",
+    "FLOW_1": "出現",
+    "FLOW_2": "短暫閃耀",
+    "FLOW_3": "消失",
+    "ORIGIN_PARAGRAPH": "<code>ephemeral</code> 來自 Greek <code>ephēmeros</code>，意思接近「只持續一天」。其中 <code>hēmera</code> 是 day。這個字一開始常和壽命極短的生物或現象相連，後來延伸到所有短暫存在的事物。",
+    "ORIGIN_MEMORY": "你可以把它記成「一天之內開場、發光、退場」的生命感。它不是冷冰冰地說某物很短，而是提醒你：有些東西從一開始就帶著結束的影子。",
+    "MEMORY_HOOK": "<code>ephemeral</code> 是早晨玻璃上的霧氣：你看見它時，它已經正在消失。",
+    "MEMORY_EXPLANATION": "這個字的美感在於張力：越短暫，越需要被注意。它常用來描述自然現象、情緒、潮流、數位內容，甚至某個轉瞬即逝的靈感。",
+    "DAILY_USAGE": "夕陽、花火、旅行中的偶遇，都可以是 <code>ephemeral</code>：短暫，但因為短暫而鮮明。",
+    "PROFESSIONAL_USAGE": "限時動態、閱後即焚訊息、即時熱搜，都帶著 <code>ephemeral</code> 的特性：出現很快，退場也很快。",
+    "DOMAIN_USAGE": "臨時容器、短生命週期 token、一次性 build artifact，都可以被描述為 ephemeral resources。",
+    "COLLOCATION_NOTE": "這一區不重複「對立與鄰近概念」：下方是 <code>ephemeral + noun</code> 的自然搭配；後面的辨析表才處理 <code>ephemeral</code>、<code>temporary</code>、<code>transient</code> 之間的概念邊界。",
+    "COLLOCATION_1": "ephemeral beauty",
+    "REGISTER_1": "文學 / 藝評 / 自然書寫",
+    "COLLOCATION_NOTE_1": "適合寫花期、晨霧、夕陽、舞台表演，語感柔和、有審美距離。",
+    "COLLOCATION_2": "ephemeral moment",
+    "REGISTER_2": "敘事 / 日常書寫",
+    "COLLOCATION_NOTE_2": "比 <code>short moment</code> 更有「一閃即逝但值得記住」的味道。",
+    "COLLOCATION_3": "ephemeral content",
+    "REGISTER_3": "數位產品 / 社群平台",
+    "COLLOCATION_NOTE_3": "常用來談限時動態、短生命週期貼文、會自動消失的內容設計。",
+    "NEIGHBOR_SELF": "短暫存在，快速消逝，常帶有詩意或脆弱感",
+    "NEIGHBOR_SELF_USE": "描述自然現象、情緒、潮流、數位內容或短生命週期工程資源。",
+    "NEIGHBOR_1": "Temporary",
+    "NEIGHBOR_1_MEANING": "暫時使用或暫時存在，語氣較中性、功能性",
+    "NEIGHBOR_1_USE": "描述暫時安排、暫時狀態或功能性的短期存在。",
+    "MODERN_USE_1": "在現代生活裡，<code>ephemeral</code> 變得特別常見，因為很多內容被設計成快速出現、快速消失。社群平台的限時內容讓人感覺「現在不看就沒了」，也把注意力變成一種被時間追趕的資源。",
+    "MODERN_USE_2": "在科技語境中，<code>ephemeral</code> 也很實用。像 ephemeral environments、ephemeral ports、ephemeral keys，都暗示這些東西不該被長期依賴；它們的價值在於短生命週期與可替換性。",
+    "DICTIONARY_SOURCE_NOTE": "定義、音標與「lasting for only a short time」的核心義，主要參考 Cambridge Dictionary；例句與近義詞只作語感輔助。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/ephemeral",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "<code>ephēmeros</code>、<code>hēmera</code> 與「lasting a day」的字源線索，交叉參考 Etymonline 與 Merriam-Webster 的 Word History。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/ephemeral",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "蜉蝣、短命植物與短期熱病是詞史常見說明；社群限時內容與工程 ephemeral resources 則屬現代用法延伸，不當作古典字源。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/ephemeral",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 ephemeral 和 temporary 的差異。",
+    "CHECK_ORIGIN": "我記得它和「一天」的字源畫面有關。",
+    "CHECK_SENTENCE": "我能用它造一句跟自然、情緒或數位內容有關的英文句子。",
+    "PRACTICE_SENTENCE": "The moment was <code>ephemeral</code>, but it stayed with me longer than I expected.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/ephemeral",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "ephemeral",
+    "word": "Ephemeral",
+    "partOfSpeech": "adjective",
+    "href": "./ephemeral.html",
+    "thesis": "不是單純的「短暫」，而是短到讓你意識到時間正在流走。",
+    "tags": [
+      "短暫",
+      "詩意",
+      "temporary",
+      "transient",
+      "數位內容",
+      "ephemeral content",
+      "ephemeral message",
+      "engineering",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 ephemeral 和 temporary 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它和「一天」的字源畫面有關"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句自然、情緒或數位內容的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/ephemeral",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/ephemeral",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ephemeral",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

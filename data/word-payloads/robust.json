@@ -1,0 +1,117 @@
+{
+  "target": {
+    "word": "Robust",
+    "slug": "robust",
+    "outputPath": "prototypes/robust.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Robust",
+    "WORD_SLUG": "robust",
+    "WORD_LOWER": "robust",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "/roʊˈbʌst/",
+    "THESIS": "不是單純強壯，而是在變動、壓力與雜訊下仍能可靠運作。",
+    "LEARNING_POSITION": "把 robust 記成「strong under variation」：不是只在理想條件下漂亮，而是在真實條件下撐得住。",
+    "CORE_IDEA": "<code>robust</code> describes something strong, healthy, or reliable enough to perform well despite stress, variation, or imperfect conditions.",
+    "CONCEPT_FOCUS": "面對干擾、邊界條件、環境變化或使用者行為仍維持功能。",
+    "TONE_REGISTER": "工程、統計、產品、醫學與商業都常見；語氣務實且偏正面。",
+    "USE_WARNING": "不要把 robust 當成 perfect；robust 不是不會遇到問題，而是遇到變動時不容易崩。",
+    "SHORT_DEFINITION": "Strong, healthy, or designed to remain effective under difficult, varied, or imperfect conditions.",
+    "CONFUSION_WORD": "Strong",
+    "CONFUSION_NOTE": "<code>strong</code> 是力量大；<code>robust</code> 多了「在真實變動下仍可靠」的意思。",
+    "FLOW_1": "variation appears",
+    "FLOW_2": "system absorbs stress",
+    "FLOW_3": "function continues",
+    "ORIGIN_PARAGRAPH": "<code>robust</code> comes from Latin <code>robustus</code>, strong and hardy, related to <code>robur</code>, oak. The old image is oak-like strength.",
+    "ORIGIN_MEMORY": "橡木的畫面很好記：不是玻璃般完美，而是粗壯、耐受、能在風裡維持形狀。",
+    "MEMORY_HOOK": "A robust design keeps working after the lab conditions disappear.",
+    "MEMORY_EXPLANATION": "真正的 robust 不是 demo 時漂亮，而是在電壓波動、溫度變化、使用者亂按、log 滿掉時，仍保留可預期的行為。",
+    "DAILY_USAGE": "A robust backpack survives daily use, rain, and being thrown under a desk.",
+    "PROFESSIONAL_USAGE": "A robust firmware update flow can recover from power loss without bricking the device.",
+    "DOMAIN_USAGE": "In statistics, robust methods are less distorted by outliers or assumption violations.",
+    "COLLOCATION_NOTE": "Robust 常搭配 system、design、method、evidence，強調在變動下仍可信。",
+    "COLLOCATION_1": "robust design",
+    "REGISTER_1": "engineering / product",
+    "COLLOCATION_NOTE_1": "指設計能處理邊界條件、雜訊和不完美輸入。",
+    "COLLOCATION_2": "robust evidence",
+    "REGISTER_2": "research / policy",
+    "COLLOCATION_NOTE_2": "指證據在不同方法或資料下仍支持同一結論。",
+    "COLLOCATION_3": "robust system",
+    "REGISTER_3": "software / hardware",
+    "COLLOCATION_NOTE_3": "指系統有錯誤處理、恢復能力與穩定行為。",
+    "NEIGHBOR_SELF": "在壓力、變動與不完美條件下仍可靠",
+    "NEIGHBOR_SELF_USE": "描述設計、系統、方法或證據的耐受性",
+    "NEIGHBOR_1": "Strong",
+    "NEIGHBOR_1_MEANING": "力量大或結構堅固",
+    "NEIGHBOR_1_USE": "只需要形容單一面向的強度，而不是變動下的可靠性",
+    "MODERN_USE_1": "Modern English uses <code>robust</code> for systems, designs, markets, evidence, health, flavor, and statistical methods.",
+    "MODERN_USE_2": "In engineering, it is one of the cleanest words for saying a solution survives messy reality, not just the happy path.",
+    "DICTIONARY_SOURCE_NOTE": "Dictionary definitions support senses around strength, health, vigor, and capability under stress.",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/robust",
+    "DICTIONARY_LABEL": "Merriam-Webster: robust",
+    "ETYMOLOGY_SOURCE_NOTE": "Etymology notes trace the word to Latin <code>robustus</code> and <code>robur</code>, oak or strength.",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/robust",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary: robust",
+    "MODERN_SOURCE_NOTE": "Modern examples support use with systems, evidence, methods, health, and performance.",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/robust",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 robust 和 strong 的差異。",
+    "CHECK_ORIGIN": "我記得它和 oak-like strength 的字源畫面有關。",
+    "CHECK_SENTENCE": "我能用它造一句系統、設計或統計方法情境的英文句子。",
+    "PRACTICE_SENTENCE": "The bootloader needs a <code>robust</code> recovery path if power fails during an update.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/robust",
+    "REFERENCE_LABEL": "Open dictionary entry"
+  },
+  "indexEntry": {
+    "id": "robust",
+    "word": "Robust",
+    "partOfSpeech": "adjective",
+    "href": "./robust.html",
+    "thesis": "不是單純強壯，而是在變動、壓力與雜訊下仍能可靠運作。",
+    "tags": [
+      "可靠",
+      "耐受",
+      "strong",
+      "fault tolerance",
+      "robust design",
+      "robust system",
+      "engineering",
+      "statistics",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 robust 和 strong 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得它有 oak-like strength 的字源畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句系統、設計或統計方法情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: robust",
+      "url": "https://www.merriam-webster.com/dictionary/robust",
+      "usedFor": "definition, part of speech, pronunciation support, and usage range"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: robust",
+      "url": "https://www.etymonline.com/word/robust",
+      "usedFor": "Latin robustus and oak-strength memory hook"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/robust",
+      "usedFor": "modern usage around systems, evidence, methods, and strength"
+    }
+  ]
+}
