@@ -14,6 +14,12 @@
   --accent-ink: #405f52;
   --accent-soft: #eef4ef;
   --shadow: 0 12px 28px rgba(37, 48, 45, 0.06);
+  --font-ui: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, "PingFang TC",
+    "Noto Sans TC", "Noto Sans CJK TC", "Microsoft JhengHei UI", "Microsoft JhengHei",
+    sans-serif;
+  --font-display: "Iowan Old Style", "Sitka Display", "Sitka Subheading", "Sitka Text",
+    "Palatino Linotype", Georgia, Cambria, "Times New Roman", "Noto Serif TC",
+    "Noto Serif CJK TC", "Songti TC", serif;
 }
 
 * {
@@ -32,7 +38,7 @@ body {
     linear-gradient(180deg, rgba(245, 246, 241, 0.97), rgba(237, 242, 239, 0.97)),
     repeating-linear-gradient(90deg, rgba(101, 125, 112, 0.045) 0 1px, transparent 1px 28px);
   color: var(--ink);
-  font-family: "Microsoft JhengHei", "PingFang TC", "Noto Sans TC", system-ui, sans-serif;
+  font-family: var(--font-ui);
   line-height: 1.68;
   letter-spacing: 0;
 }
@@ -90,7 +96,7 @@ mark {
 
 .brand {
   color: var(--accent-ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.02rem;
   font-weight: 700;
 }
@@ -147,6 +153,10 @@ mark {
   text-transform: uppercase;
 }
 
+.page-head .kicker {
+  margin-bottom: 8px;
+}
+
 h1,
 h2,
 h3,
@@ -156,21 +166,21 @@ p {
 
 h1 {
   margin: 0;
-  font-family: Georgia, "Times New Roman", "Microsoft JhengHei", serif;
+  font-family: var(--font-display);
   font-size: 4.1rem;
   line-height: 0.98;
 }
 
 h2 {
   margin: 0;
-  font-family: Georgia, "Times New Roman", "Microsoft JhengHei", serif;
+  font-family: var(--font-display);
   font-size: 1.42rem;
   line-height: 1.22;
 }
 
 h3 {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.24rem;
   line-height: 1.2;
 }
@@ -214,7 +224,7 @@ h3 {
   display: block;
   margin-top: 6px;
   color: var(--accent-ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.75rem;
   line-height: 1;
 }
@@ -393,8 +403,8 @@ h3 {
 
 .result-row {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 16px;
+  grid-template-columns: minmax(0, 1fr) minmax(136px, auto) auto;
+  gap: 14px;
   align-items: center;
   padding: 14px 16px;
 }
@@ -426,6 +436,45 @@ h3 {
 .result-match {
   display: inline-block;
   margin-top: 9px;
+}
+
+.result-metrics {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(58px, 1fr));
+  gap: 6px;
+  min-width: 136px;
+  margin: 0;
+}
+
+.result-metric {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 254, 251, 0.82);
+  padding: 7px 8px;
+  text-align: center;
+}
+
+.result-row.is-active .result-metric {
+  background: rgba(255, 254, 251, 0.72);
+}
+
+.result-metric dt {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.result-metric dd {
+  margin: 4px 0 0;
+  color: var(--accent-ink);
+  font-family: var(--font-display);
+  font-size: 1.06rem;
+  font-weight: 700;
+  line-height: 1;
 }
 
 .result-actions {
@@ -472,7 +521,7 @@ h3 {
 
 .table-word {
   color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.08rem;
   font-weight: 700;
 }
@@ -511,6 +560,10 @@ h3 {
 
   .result-actions {
     justify-content: flex-start;
+  }
+
+  .result-metrics {
+    max-width: 168px;
   }
 }
 

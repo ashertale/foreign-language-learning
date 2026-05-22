@@ -15,6 +15,13 @@
   --accent-ink: #405f52;
   --accent-soft: #eef4ef;
   --shadow: 0 14px 34px rgba(37, 48, 45, 0.07);
+  --font-ui: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, "PingFang TC",
+    "Noto Sans TC", "Noto Sans CJK TC", "Microsoft JhengHei UI", "Microsoft JhengHei",
+    sans-serif;
+  --font-display: "Iowan Old Style", "Sitka Display", "Sitka Subheading", "Sitka Text",
+    "Palatino Linotype", Georgia, Cambria, "Times New Roman", "Noto Serif TC",
+    "Noto Serif CJK TC", "Songti TC", serif;
+  --font-mono: ui-monospace, "Cascadia Code", Consolas, monospace;
 }
 
 .word-ephemeral {
@@ -38,7 +45,7 @@ body {
     linear-gradient(180deg, rgba(245, 246, 241, 0.96), rgba(237, 242, 239, 0.96)),
     repeating-linear-gradient(90deg, rgba(101, 125, 112, 0.05) 0 1px, transparent 1px 28px);
   color: var(--ink);
-  font-family: "Microsoft JhengHei", "PingFang TC", "Noto Sans TC", system-ui, sans-serif;
+  font-family: var(--font-ui);
   line-height: 1.72;
   letter-spacing: 0;
 }
@@ -68,7 +75,7 @@ code {
   border-radius: 6px;
   background: rgba(255, 254, 251, 0.72);
   color: var(--accent-ink);
-  font-family: "Cascadia Code", Consolas, monospace;
+  font-family: var(--font-mono);
   font-size: 0.92em;
 }
 
@@ -93,7 +100,7 @@ code {
 
 .brand {
   color: var(--accent-ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.02rem;
   font-weight: 700;
 }
@@ -180,7 +187,7 @@ p {
 
 h1 {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 7rem;
   font-weight: 700;
   line-height: 0.94;
@@ -195,9 +202,11 @@ h1 {
 }
 
 .ipa {
+  min-width: 0;
   color: var(--muted);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.12rem;
+  overflow-wrap: anywhere;
 }
 
 .thesis {
@@ -252,7 +261,7 @@ h1 {
 .lexical-meta dd {
   margin: 2px 0 0;
   color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-display);
   font-size: 1.18rem;
   font-weight: 700;
   line-height: 1.2;
@@ -497,7 +506,7 @@ h1 {
 .quote-line {
   border-left: 4px solid var(--accent);
   color: #38433f;
-  font-family: Georgia, "Times New Roman", "Microsoft JhengHei", serif;
+  font-family: var(--font-display);
   font-size: 1.18rem;
   font-weight: 700;
   line-height: 1.64;
@@ -645,6 +654,11 @@ tr:last-child td {
 
   .thesis {
     font-size: 1.34rem;
+  }
+
+  .pronunciation {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .core-card p {

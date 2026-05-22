@@ -272,6 +272,8 @@ def format_index_entry(entry: dict[str, Any], order: int) -> str:
             f"    partOfSpeech: {js_string(entry['partOfSpeech'])},",
             f"    href: {js_string(entry['href'])},",
             f"    order: {order},",
+            f"    cefr: {js_string(entry['cefr'])},",
+            f"    zipf: {entry['zipf']},",
             f"    thesis: {js_string(entry['thesis'])},",
             f"    tags: {format_string_array(tags, '    ')},",
             f"    checks: {format_checks(checks, '    ')}",
@@ -301,6 +303,8 @@ def render_word_page(payload_path: Path, dry_run: bool) -> list[str]:
     validate_content_contract(replacements)
     slug, output_path = validate_target(payload, replacements)
     entry = validate_index_entry(payload, slug)
+    entry["cefr"] = replacements["CEFR_LEVEL"]
+    entry["zipf"] = replacements["ZIPF_FREQUENCY"]
 
     if output_path.exists():
         raise RenderError(f"output page already exists: {output_path.relative_to(ROOT)}")

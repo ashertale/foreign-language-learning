@@ -81,13 +81,25 @@ def metadata_from_page(path: Path) -> dict[str, str]:
     word = extract_first(r"<h1>(.*?)</h1>", source, path.stem.title())
     part = extract_first(r'<p class="kicker">\s*Word\s+\d+\s*/\s*([^<]+)</p>', source, "unknown")
     thesis = extract_first(r'<p class="thesis">(.*?)</p>', source)
+    lexical_values = re.findall(
+        r'<dl class="lexical-meta" aria-label="詞彙難度與頻率">.*?<dd>(.*?)</dd>.*?<dd>(.*?)</dd>',
+        source,
+        re.DOTALL,
+    )
+    cefr, zipf = lexical_values[0] if lexical_values else ("", "")
     return {
         "id": path.stem,
         "word": word,
         "part": part,
         "href": f"./{path.name}",
+        "cefr": compact_html(cefr),
+        "zipf": compact_html(zipf),
         "thesis": thesis,
     }
+
+
+def compact_html(value: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"<.*?>", "", value)).strip()
 
 
 def minimal_entry(page: Path) -> str:
@@ -99,6 +111,8 @@ def minimal_entry(page: Path) -> str:
         f'    partOfSpeech: "{js_string(meta["part"])}",\n'
         f'    href: "{js_string(meta["href"])}",\n'
         "    order: 0,\n"
+        f'    cefr: "{js_string(meta["cefr"])}",\n'
+        f'    zipf: {meta["zipf"] or "0"},\n'
         f'    thesis: "{js_string(meta["thesis"])}",\n'
         "    tags: [],\n"
         "    checks: []\n"

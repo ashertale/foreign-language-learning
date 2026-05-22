@@ -1,6 +1,7 @@
 (function () {
   const words = Array.isArray(window.WORD_INDEX) ? window.WORD_INDEX : [];
   const backlogKey = "vocab-backlog:v1";
+  const cefrLevels = ["A1", "A2", "B1", "B2", "C1", "C2"];
 
   const elements = {
     totalWords: document.querySelector("#total-words"),
@@ -28,6 +29,27 @@
     return String(value || "").trim().toLowerCase();
   }
 
+  function cefrRank(value) {
+    const level = String(value || "").trim().toUpperCase();
+    const rank = cefrLevels.indexOf(level);
+    return rank >= 0 ? rank : cefrLevels.length;
+  }
+
+  function zipfValue(value) {
+    const number = Number(value);
+    return Number.isFinite(number) ? number : null;
+  }
+
+  function formatZipf(value) {
+    const number = zipfValue(value);
+    return number === null ? "—" : number.toFixed(2);
+  }
+
+  function compareByOrder(a, b) {
+    return a.order - b.order
+      || a.word.localeCompare(b.word, "en", { sensitivity: "base" });
+  }
+
   function generatedWordKeys() {
     return new Set(
       words.map((word) => normalizeText(word.word))
@@ -45,8 +67,6 @@
   function searchableFields(word) {
     return [
       ["word", word.word],
-      ["part of speech", word.partOfSpeech],
-      ["core", word.thesis],
       ...(Array.isArray(word.tags) ? word.tags.map((tag) => ["tag", tag]) : [])
     ];
   }
@@ -75,7 +95,22 @@
         || a.word.localeCompare(b.word, "en", { sensitivity: "base" });
     }
 
-    return a.order - b.order;
+    if (sortMode === "cefr") {
+      return cefrRank(a.cefr) - cefrRank(b.cefr)
+        || (zipfValue(b.zipf) ?? -Infinity) - (zipfValue(a.zipf) ?? -Infinity)
+        || compareByOrder(a, b);
+    }
+
+    if (sortMode === "zipf") {
+      const zipfA = zipfValue(a.zipf);
+      const zipfB = zipfValue(b.zipf);
+      if (zipfA === null && zipfB === null) return compareByOrder(a, b);
+      if (zipfA === null) return 1;
+      if (zipfB === null) return -1;
+      return zipfB - zipfA || compareByOrder(a, b);
+    }
+
+    return compareByOrder(a, b);
   }
 
   function validateWordNumbers() {
@@ -112,6 +147,31 @@
     const mark = document.createElement("mark");
     mark.textContent = value.slice(index, index + query.length);
     parent.append(mark, document.createTextNode(value.slice(index + query.length)));
+  }
+
+  function createMetric(label, value) {
+    const item = document.createElement("div");
+    item.className = "result-metric";
+
+    const term = document.createElement("dt");
+    term.textContent = label;
+
+    const description = document.createElement("dd");
+    description.textContent = value || "—";
+
+    item.append(term, description);
+    return item;
+  }
+
+  function createResultMetrics(word) {
+    const metrics = document.createElement("dl");
+    metrics.className = "result-metrics";
+    metrics.setAttribute("aria-label", "詞彙難度與頻率");
+    metrics.append(
+      createMetric("CEFR", word.cefr),
+      createMetric("ZIPF", formatZipf(word.zipf))
+    );
+    return metrics;
   }
 
   function createResultRow(word, query, index) {
@@ -153,7 +213,7 @@
     open.textContent = "開啟";
     actions.append(open);
 
-    row.append(main, actions);
+    row.append(main, createResultMetrics(word), actions);
     return row;
   }
 

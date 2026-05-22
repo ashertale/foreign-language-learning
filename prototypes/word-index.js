@@ -6,6 +6,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./ephemeral.html",
     order: 1,
+    cefr: "C2",
+    zipf: 2.99,
     thesis: "不是單純的「短暫」，而是短到讓你意識到時間正在流走。",
     tags: [
       "短暫",
@@ -39,6 +41,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./liminal.html",
     order: 2,
+    cefr: "C2",
+    zipf: 2.24,
     thesis: "不是「中間」這麼平面，而是站在門檻上：已經離開舊狀態，還沒真正抵達新狀態。",
     tags: [
       "門檻",
@@ -71,6 +75,8 @@ window.WORD_INDEX = [
     partOfSpeech: "noun",
     href: "./serendipity.html",
     order: 3,
+    cefr: "C2",
+    zipf: 2.74,
     thesis: "不是單純的「幸運」，而是在你有探索眼光時，偶然把有價值的東西送到面前。",
     tags: [
       "機緣",
@@ -104,6 +110,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./meticulous.html",
     order: 4,
+    cefr: "C1",
+    zipf: 3.24,
     thesis: "不是「龜毛」，而是把錯誤最可能躲藏的細節逐一照亮。",
     tags: [
       "嚴謹",
@@ -137,6 +145,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./resilient.html",
     order: 5,
+    cefr: "C1",
+    zipf: 3.50,
     thesis: "不是「沒有受傷」，而是受壓後仍能恢復形狀、功能或方向。",
     tags: [
       "恢復力",
@@ -170,6 +180,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./salient.html",
     order: 6,
+    cefr: "C2",
+    zipf: 3.12,
     thesis: "不是單純的「重要」，而是從一堆資訊裡跳出來、值得你優先看見的重點。",
     tags: [
       "顯著",
@@ -205,6 +217,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./lucid.html",
     order: 7,
+    cefr: "C2",
+    zipf: 3.27,
     thesis: "不是只有「清楚」，而是像開燈一樣，讓混亂的想法變得有秩序、可理解。",
     tags: [
       "清楚",
@@ -240,6 +254,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./tenacious.html",
     order: 8,
+    cefr: "C2",
+    zipf: 3.04,
     thesis: "不是單純的「努力」，而是抓住重要目標不放，即使壓力、阻力或疲勞出現，也不輕易鬆手。",
     tags: [
       "堅持",
@@ -274,6 +290,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./pragmatic.html",
     order: 9,
+    cefr: "C1",
+    zipf: 3.49,
     thesis: "不是「沒有理想」，而是在真實限制裡找出能推動事情前進的做法。",
     tags: [
       "務實",
@@ -307,6 +325,8 @@ window.WORD_INDEX = [
     partOfSpeech: "noun",
     href: "./nuance.html",
     order: 10,
+    cefr: "C1",
+    zipf: 3.09,
     thesis: "不是把事情講得更複雜，而是看見那些真的會改變意思的細微差別。",
     tags: [
       "細微差異",
@@ -340,6 +360,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./tacit.html",
     order: 11,
+    cefr: "C2",
+    zipf: 2.94,
     thesis: "不是沒有說話，而是意思已經被沉默、慣例或行為默默承認了。",
     tags: [
       "默契",
@@ -373,6 +395,8 @@ window.WORD_INDEX = [
     partOfSpeech: "verb",
     href: "./mitigate.html",
     order: 12,
+    cefr: "C1",
+    zipf: 3.54,
     thesis: "不是把問題消滅，而是降低它的傷害、嚴重性或發生後的代價。",
     tags: [
       "減輕",
@@ -406,6 +430,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./cogent.html",
     order: 13,
+    cefr: "C2",
+    zipf: 2.71,
     thesis: "不是單純清楚，而是清楚到能把理由推到一起，讓人覺得站得住腳。",
     tags: [
       "有說服力",
@@ -439,6 +465,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./latent.html",
     order: 14,
+    cefr: "C2",
+    zipf: 3.27,
     thesis: "不是不存在，而是已經在那裡，只是還沒被條件喚醒或顯露。",
     tags: [
       "潛在",
@@ -472,6 +500,8 @@ window.WORD_INDEX = [
     partOfSpeech: "verb",
     href: "./converge.html",
     order: 15,
+    cefr: "C1",
+    zipf: 3.23,
     thesis: "不是只是靠近，而是多條路、想法或數值朝同一個點逐漸收束。",
     tags: [
       "收束",
@@ -505,6 +535,8 @@ window.WORD_INDEX = [
     partOfSpeech: "noun",
     href: "./anomaly.html",
     order: 16,
+    cefr: "C2",
+    zipf: 3.47,
     thesis: "不是普通的「異常」，而是偏離預期模式到值得你停下來追問原因的訊號。",
     tags: [
       "異常",
@@ -538,6 +570,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./empirical.html",
     order: 17,
+    cefr: "C1",
+    zipf: 3.62,
     thesis: "不是「看起來合理」，而是由觀察、測量或實驗經驗撐起來的判斷。",
     tags: [
       "實證",
@@ -571,6 +605,8 @@ window.WORD_INDEX = [
     partOfSpeech: "noun",
     href: "./heuristic.html",
     order: 18,
+    cefr: "C2",
+    zipf: 2.72,
     thesis: "不是保證正確的公式，而是在複雜問題裡幫你快速找到可行方向的經驗法則。",
     tags: [
       "經驗法則",
@@ -604,6 +640,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./ambiguous.html",
     order: 19,
+    cefr: "C1",
+    zipf: 3.57,
     thesis: "不是「不清楚」這麼簡單，而是同一句話、訊號或需求可以合理走向兩種以上解讀。",
     tags: [
       "模稜兩可",
@@ -637,6 +675,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./robust.html",
     order: 20,
+    cefr: "C1",
+    zipf: 3.94,
     thesis: "不是單純強壯，而是在變動、壓力與雜訊下仍能可靠運作。",
     tags: [
       "可靠",
@@ -670,6 +710,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./coherent.html",
     order: 21,
+    cefr: "C1",
+    zipf: 3.63,
     thesis: "不是只把話講清楚，而是讓各部分彼此接得上，形成一個站得住的整體。",
     tags: [
       "連貫",
@@ -703,6 +745,8 @@ window.WORD_INDEX = [
     partOfSpeech: "verb",
     href: "./discern.html",
     order: 22,
+    cefr: "C2",
+    zipf: 3.23,
     thesis: "不是單純看見，而是在模糊、雜訊或相似選項中分辨出真正差異。",
     tags: [
       "辨別",
@@ -736,6 +780,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./deliberate.html",
     order: 23,
+    cefr: "B2",
+    zipf: 3.82,
     thesis: "不是慢吞吞，而是經過衡量、知道自己為什麼這樣做的有意識選擇。",
     tags: [
       "刻意",
@@ -769,6 +815,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./volatile.html",
     order: 24,
+    cefr: "C1",
+    zipf: 3.72,
     thesis: "不是普通的變動，而是容易快速改變、失控、蒸發或爆開的狀態。",
     tags: [
       "易變",
@@ -802,6 +850,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./peripheral.html",
     order: 25,
+    cefr: "C1",
+    zipf: 3.66,
     thesis: "不是完全無關，而是在邊緣、外圍或非核心位置，對主線只有間接關係。",
     tags: [
       "外圍",
@@ -835,6 +885,8 @@ window.WORD_INDEX = [
     partOfSpeech: "verb",
     href: "./scrutinize.html",
     order: 26,
+    cefr: "C2",
+    zipf: 2.76,
     thesis: "不是隨便看一眼，而是帶著懷疑與細節意識，把材料逐項翻開來檢查。",
     tags: [
       "審視",
@@ -868,6 +920,8 @@ window.WORD_INDEX = [
     partOfSpeech: "verb",
     href: "./alleviate.html",
     order: 27,
+    cefr: "C1",
+    zipf: 3.52,
     thesis: "不是徹底解決，而是把痛苦、壓力、風險或負擔變輕。",
     tags: [
       "減輕",
@@ -901,6 +955,8 @@ window.WORD_INDEX = [
     partOfSpeech: "adjective",
     href: "./impeccable.html",
     order: 28,
+    cefr: "C2",
+    zipf: 3.25,
     thesis: "不是普通的好，而是乾淨到幾乎找不到錯、瑕疵或失禮之處。",
     tags: [
       "無瑕",
@@ -934,6 +990,8 @@ window.WORD_INDEX = [
     partOfSpeech: "noun",
     href: "./epiphany.html",
     order: 29,
+    cefr: "C2",
+    zipf: 3.16,
     thesis: "不是普通的想法，而是某個意義突然顯現，讓你用新的方式看懂一件事。",
     tags: [
       "頓悟",
@@ -967,6 +1025,8 @@ window.WORD_INDEX = [
     partOfSpeech: "verb",
     href: "./iterate.html",
     order: 30,
+    cefr: "C2",
+    zipf: 2.51,
     thesis: "不是盲目重複，而是一次次回到問題，用回饋讓版本更接近目標。",
     tags: [
       "迭代",
