@@ -1053,5 +1053,355 @@ window.WORD_INDEX = [
         label: "用它造一句產品、測試、演算法或學習情境的英文句子"
       }
     ]
+  },
+  {
+    id: "calibrate",
+    word: "Calibrate",
+    partOfSpeech: "verb",
+    href: "./calibrate.html",
+    order: 31,
+    cefr: "C1",
+    zipf: 3.24,
+    thesis: "不是普通的「調整」，而是拿標準來對準系統，讓量測、判斷或輸出重新可信。",
+    tags: [
+      "校正",
+      "標定",
+      "standard",
+      "adjust",
+      "sensor calibration",
+      "model calibration",
+      "measurement",
+      "firmware",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 calibrate 和 adjust 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 calibrate 的核心畫面是拿標準校正刻度"
+      },
+      {
+        id: "sentence",
+        label: "用 calibrate 造一句 sensor、model 或 expectation 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "attenuate",
+    word: "Attenuate",
+    partOfSpeech: "verb",
+    href: "./attenuate.html",
+    order: 32,
+    cefr: "C2",
+    zipf: 2.93,
+    thesis: "不是把東西關掉，而是讓強度、影響或傷害變薄、變弱、變不那麼猛烈。",
+    tags: [
+      "衰減",
+      "削弱",
+      "weaken",
+      "reduce",
+      "signal attenuation",
+      "attenuated virus",
+      "risk",
+      "engineering",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 attenuate 和 eliminate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 attenuate 的核心畫面是 make thin"
+      },
+      {
+        id: "sentence",
+        label: "用 attenuate 造一句 signal、noise、risk 或 impact 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "corroborate",
+    word: "Corroborate",
+    partOfSpeech: "verb",
+    href: "./corroborate.html",
+    order: 33,
+    cefr: "C2",
+    zipf: 2.85,
+    thesis: "不是單純同意，而是用第二份證據把原本的說法變得更有支撐力。",
+    tags: [
+      "佐證",
+      "證據",
+      "support",
+      "confirm",
+      "corroborating evidence",
+      "testimony",
+      "RCA",
+      "debugging",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 corroborate 和 confirm 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 corroborate 的字源核心是 strengthen by evidence"
+      },
+      {
+        id: "sentence",
+        label: "用 corroborate 造一句 log、claim 或 hypothesis 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "delineate",
+    word: "Delineate",
+    partOfSpeech: "verb",
+    href: "./delineate.html",
+    order: 34,
+    cefr: "C2",
+    zipf: 2.82,
+    thesis: "不是籠統說明，而是把邊界、形狀或責任線畫清楚，讓混在一起的東西可分辨。",
+    tags: [
+      "界定",
+      "描繪",
+      "boundary",
+      "scope",
+      "draw lines",
+      "delineate responsibilities",
+      "requirements",
+      "architecture",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 delineate 和 describe 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 delineate 的核心畫面是 draw lines"
+      },
+      {
+        id: "sentence",
+        label: "用 delineate 造一句 scope、responsibility 或 boundary 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "reconcile",
+    word: "Reconcile",
+    partOfSpeech: "verb",
+    href: "./reconcile.html",
+    order: 35,
+    cefr: "C1",
+    zipf: 3.55,
+    thesis: "不是假裝衝突不存在，而是把分裂的人、數字或想法帶回能共存的位置。",
+    tags: [
+      "調和",
+      "核對",
+      "make consistent",
+      "resolve differences",
+      "reconcile data",
+      "trade-off",
+      "requirements",
+      "debugging",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 reconcile 和 compromise 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 reconcile 的核心畫面是 bring together again"
+      },
+      {
+        id: "sentence",
+        label: "用 reconcile 造一句 data、requirements 或 differences 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "stringent",
+    word: "Stringent",
+    partOfSpeech: "adjective",
+    href: "./stringent.html",
+    order: 36,
+    cefr: "C1",
+    zipf: 3.11,
+    thesis: "不是普通的嚴格，而是規則或限制收得很緊，幾乎沒有鬆動空間。",
+    tags: [
+      "嚴格",
+      "嚴苛",
+      "strict",
+      "rigorous",
+      "stringent requirements",
+      "quality",
+      "security",
+      "compliance",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 stringent 和 strict 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 stringent 的字源畫面是 bind tight"
+      },
+      {
+        id: "sentence",
+        label: "用 stringent 造一句 requirement、standard 或 control 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "tentative",
+    word: "Tentative",
+    partOfSpeech: "adjective",
+    href: "./tentative.html",
+    order: 37,
+    cefr: "C1",
+    zipf: 3.43,
+    thesis: "不是沒想清楚，而是先把目前版本放在桌上，明確保留被修正的空間。",
+    tags: [
+      "暫定",
+      "試探",
+      "provisional",
+      "uncertain",
+      "tentative plan",
+      "tentative conclusion",
+      "RCA",
+      "project management",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 tentative 和 uncertain 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 tentative 來自 try、test、feel out 的試探畫面"
+      },
+      {
+        id: "sentence",
+        label: "用 tentative 造一句 plan、root cause 或 conclusion 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "pervasive",
+    word: "Pervasive",
+    partOfSpeech: "adjective",
+    href: "./pervasive.html",
+    order: 38,
+    cefr: "C1",
+    zipf: 3.39,
+    thesis: "不是只是常見，而是像氣味或濕氣一樣滲進各處，讓整個系統都感覺得到。",
+    tags: [
+      "普遍",
+      "滲透",
+      "widespread",
+      "common",
+      "pervasive problem",
+      "pervasive influence",
+      "systems",
+      "culture",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 pervasive 和 common 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 pervasive 的核心畫面是 go through every part"
+      },
+      {
+        id: "sentence",
+        label: "用 pervasive 造一句 problem、influence、bias 或 assumption 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "orthogonal",
+    word: "Orthogonal",
+    partOfSpeech: "adjective",
+    href: "./orthogonal.html",
+    order: 39,
+    cefr: "C2",
+    zipf: 2.56,
+    thesis: "不只是「無關」，而是兩個維度彼此垂直、互不混淆，可以分開思考與調整。",
+    tags: [
+      "正交",
+      "獨立維度",
+      "independent",
+      "unrelated",
+      "orthogonal concerns",
+      "vectors",
+      "architecture",
+      "statistics",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 orthogonal 和 unrelated 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 orthogonal 的核心畫面是 right angles"
+      },
+      {
+        id: "sentence",
+        label: "用 orthogonal 造一句 concerns、dimensions 或 architecture 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "granular",
+    word: "Granular",
+    partOfSpeech: "adjective",
+    href: "./granular.html",
+    order: 40,
+    cefr: "C1",
+    zipf: 3.30,
+    thesis: "不是普通的詳細，而是把東西拆到一粒一粒的層級，讓細節可以被看見、比較和操作。",
+    tags: [
+      "細粒度",
+      "細節",
+      "fine-grained",
+      "detailed",
+      "granular data",
+      "granular control",
+      "permissions",
+      "observability",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 granular 和 detailed 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 granular 的核心畫面是 little grains"
+      },
+      {
+        id: "sentence",
+        label: "用 granular 造一句 data、logs、control 或 permissions 情境的英文句子"
+      }
+    ]
   }
 ];

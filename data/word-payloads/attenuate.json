@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Attenuate",
+    "slug": "attenuate",
+    "outputPath": "prototypes/attenuate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Attenuate",
+    "WORD_SLUG": "attenuate",
+    "WORD_LOWER": "attenuate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "uh-TEN-yoo-ayt · UK /əˈten.ju.eɪt/ · US /əˈten.ju.eɪt/",
+    "THESIS": "不是把東西關掉，而是讓強度、影響或傷害變薄、變弱、變不那麼猛烈。",
+    "LEARNING_POSITION": "把 attenuate 記成「make thin」：訊號、聲音、病毒、衝擊或風險還在，但被削弱到比較可控。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.93",
+    "CORE_IDEA": "<code>attenuate</code> 表示削弱、減少強度或讓某物變薄；它保留存在，但降低 force、severity、density 或 impact。",
+    "CONCEPT_FOCUS": "核心不是消滅，而是把厚度、強度或破壞力削薄。",
+    "TONE_REGISTER": "正式且偏技術；常見於訊號、醫學、物理、風險、聲音與抽象影響。",
+    "USE_WARNING": "不要用 attenuate 來表示完全解決；它更像 reduce、weaken、dampen，但語氣更技術、更精準。",
+    "SHORT_DEFINITION": "使數量、力量、嚴重性、密度或影響降低；也可指變薄、變細或變弱。",
+    "CONFUSION_WORD": "Eliminate",
+    "CONFUSION_NOTE": "<code>eliminate</code> 是移除；<code>attenuate</code> 是仍然存在，但強度被削弱。",
+    "FLOW_1": "強訊號或衝擊",
+    "FLOW_2": "被拉薄削弱",
+    "FLOW_3": "影響變可控",
+    "ORIGIN_PARAGRAPH": "<code>attenuate</code> 來自 Latin <code>attenuare</code>，意思是 make thin、lessen、diminish；其中 <code>tenuis</code> 有 thin 的意思。",
+    "ORIGIN_MEMORY": "字源像把一條粗繩拉成細線：東西沒有消失，但厚度、密度和力量都下降了。",
+    "MEMORY_HOOK": "<code>attenuate</code> 是把太粗、太強、太刺耳的東西拉薄。",
+    "MEMORY_EXPLANATION": "想像一個過強的訊號通過衰減器後變低。它不是歸零，而是從會傷人的強度降到系統能承受的範圍。",
+    "DAILY_USAGE": "厚窗簾可以 <code>attenuate</code> 外面的噪音，讓房間安靜一些。",
+    "PROFESSIONAL_USAGE": "在 RF 或 sensor path 裡，工程師可能需要 <code>attenuate</code> a signal，避免前端飽和。",
+    "DOMAIN_USAGE": "醫學裡 <code>attenuated virus</code> 指毒性被削弱的病毒；風險管理裡也可說 attenuate impact。",
+    "COLLOCATION_NOTE": "Attenuate 常搭配 signal、sound、impact、risk、virus，都是把強度或傷害削弱的語境。",
+    "COLLOCATION_1": "attenuate a signal",
+    "REGISTER_1": "工程 / 科學",
+    "COLLOCATION_NOTE_1": "指降低訊號強度，常見於電子、通訊、聲學與量測。",
+    "COLLOCATION_2": "attenuate the impact",
+    "REGISTER_2": "正式 / 風險",
+    "COLLOCATION_NOTE_2": "指讓衝擊變小，不一定完全避免問題。",
+    "COLLOCATION_3": "attenuated virus",
+    "REGISTER_3": "醫學",
+    "COLLOCATION_NOTE_3": "指毒性或活性被削弱的病毒，常見於疫苗或醫學語境。",
+    "NEIGHBOR_SELF": "降低強度、嚴重性或密度，但不表示完全消除",
+    "NEIGHBOR_SELF_USE": "談訊號、噪音、風險、病毒或影響仍在但變弱時",
+    "NEIGHBOR_1": "Mitigate",
+    "NEIGHBOR_1_MEANING": "降低傷害或風險，重點在結果更可承受",
+    "NEIGHBOR_1_USE": "談風險控制、傷害減輕或策略性 workaround 時；不一定有變薄的技術畫面",
+    "MODERN_USE_1": "現代英文裡，<code>attenuate</code> 在工程、醫學、聲學與政策討論中都很自然，尤其適合描述強度被降低但仍存在的狀態。",
+    "MODERN_USE_2": "在 firmware 或硬體系統裡，這個字很適合說明 filtering、gain control、shielding 或 damping：目標是讓訊號或干擾不要太猛烈。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 lessen、weaken、reduce severity，以及 make thin 的技術與一般義。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/attenuate",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，追到 Latin <code>attenuare</code> 與 <code>tenuis</code>，核心是 make thin。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/attenuate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支持它和 sound、impact、virus、light、capability 等削弱語境搭配。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/attenuate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 attenuate 和 eliminate 的差異。",
+    "CHECK_ORIGIN": "我記得 attenuate 的核心畫面是 make thin。",
+    "CHECK_SENTENCE": "我能用 attenuate 造一句 signal、noise、risk 或 impact 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The filter attenuates the noise without removing the useful signal.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/attenuate",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "attenuate",
+    "word": "Attenuate",
+    "partOfSpeech": "verb",
+    "href": "./attenuate.html",
+    "thesis": "不是把東西關掉，而是讓強度、影響或傷害變薄、變弱、變不那麼猛烈。",
+    "tags": [
+      "衰減",
+      "削弱",
+      "weaken",
+      "reduce",
+      "signal attenuation",
+      "attenuated virus",
+      "risk",
+      "engineering",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 attenuate 和 eliminate 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 attenuate 的核心畫面是 make thin"
+      },
+      {
+        "id": "sentence",
+        "label": "用 attenuate 造一句 signal、noise、risk 或 impact 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: attenuate",
+      "url": "https://www.merriam-webster.com/dictionary/attenuate",
+      "usedFor": "基本定義、發音與技術語境"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: attenuate",
+      "url": "https://www.etymonline.com/word/attenuate",
+      "usedFor": "Latin attenuare、tenuis 與 make thin 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/attenuate",
+      "usedFor": "訊號、醫學、聲音與影響削弱的現代用法"
+    }
+  ]
+}

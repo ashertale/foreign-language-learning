@@ -24,12 +24,6 @@
   --font-mono: ui-monospace, "Cascadia Code", Consolas, monospace;
 }
 
-.word-ephemeral {
-  --accent: #596f82;
-  --accent-ink: #3f5a70;
-  --accent-soft: #eef3f6;
-}
-
 * {
   box-sizing: border-box;
 }

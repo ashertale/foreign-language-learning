@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Calibrate",
+    "slug": "calibrate",
+    "outputPath": "prototypes/calibrate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Calibrate",
+    "WORD_SLUG": "calibrate",
+    "WORD_LOWER": "calibrate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "KAL-uh-brayt · UK /ˈkæl.ɪ.breɪt/ · US /ˈkæl.ə.breɪt/",
+    "THESIS": "不是普通的「調整」，而是拿標準來對準系統，讓量測、判斷或輸出重新可信。",
+    "LEARNING_POSITION": "把 calibrate 想成「standard + correction」：不是憑感覺調到順眼，而是找出偏差，再讓工具或判斷回到可靠刻度。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.24",
+    "CORE_IDEA": "<code>calibrate</code> 表示根據標準檢查、修正或精準設定，讓工具、模型、感覺或決策能產生可靠結果。",
+    "CONCEPT_FOCUS": "核心是把一個會漂移的東西重新對準可信標準。",
+    "TONE_REGISTER": "工程、科學、資料、醫療與管理語境都自然；也常延伸到心態、語氣或策略的微調。",
+    "USE_WARNING": "不要把 calibrate 當成任何 adjust；它通常暗示有 reference standard、偏差檢查，以及可驗證的修正。",
+    "SHORT_DEFINITION": "用標準檢查並調整測量工具、模型、程序或判斷，使它更準確或更適合特定用途。",
+    "CONFUSION_WORD": "Adjust",
+    "CONFUSION_NOTE": "<code>adjust</code> 只是改動位置或設定；<code>calibrate</code> 是對照標準後做精準修正。",
+    "FLOW_1": "拿出標準",
+    "FLOW_2": "量出偏差",
+    "FLOW_3": "修正到可信",
+    "ORIGIN_PARAGRAPH": "<code>calibrate</code> 和 <code>caliber</code> 有關，原本連到量測管徑、口徑與刻度的概念。後來它擴展成對儀器、模型或判斷做標準化修正。",
+    "ORIGIN_MEMORY": "可以把它想成工程師拿標準件去校正感測器：真正的重點不是「轉一下旋鈕」，而是讓讀值重新有刻度、有信任。",
+    "MEMORY_HOOK": "<code>calibrate</code> 是把漂掉的世界重新對準刻度。",
+    "MEMORY_EXPLANATION": "想像一支溫度計長期漂移，每次都差 2 度。Calibrate 不是把數字改漂亮，而是找出偏差，讓下一次讀值重新接近真實。",
+    "DAILY_USAGE": "你可以 <code>calibrate</code> 自己的期待：先看真實時間成本，再決定今天能完成多少。",
+    "PROFESSIONAL_USAGE": "Firmware 團隊會 <code>calibrate</code> sensor offset，避免後續演算法把固定偏差誤判成真實訊號。",
+    "DOMAIN_USAGE": "在 AI 或資料模型裡，<code>calibrate a model</code> 表示讓預測信心與實際結果更一致，而不只是提升分數。",
+    "COLLOCATION_NOTE": "Calibrate 常搭配 instrument、sensor、model、expectations、response，重點都是讓輸出對準標準或情境。",
+    "COLLOCATION_1": "calibrate a sensor",
+    "REGISTER_1": "工程 / 量測",
+    "COLLOCATION_NOTE_1": "指用已知標準修正感測器偏差，讓讀值可相信。",
+    "COLLOCATION_2": "calibrate expectations",
+    "REGISTER_2": "管理 / 日常",
+    "COLLOCATION_NOTE_2": "指根據現實限制調整期待，避免過高或過低。",
+    "COLLOCATION_3": "well-calibrated judgment",
+    "REGISTER_3": "分析 / 決策",
+    "COLLOCATION_NOTE_3": "形容判斷不是憑直覺亂猜，而是和證據、經驗與風險比例相稱。",
+    "NEIGHBOR_SELF": "用標準找偏差並精準修正",
+    "NEIGHBOR_SELF_USE": "當工具、模型或判斷需要重新對準可信基準時",
+    "NEIGHBOR_1": "Adjust",
+    "NEIGHBOR_1_MEANING": "一般調整設定、位置或狀態，不一定有外部標準",
+    "NEIGHBOR_1_USE": "只是改變音量、亮度、排程或姿勢，且不強調量測校正時",
+    "MODERN_USE_1": "現代英文裡，<code>calibrate</code> 除了儀器校正，也常用於模型、策略、風險、期待與語氣：意思都是把輸出調到更合適的刻度。",
+    "MODERN_USE_2": "在工程文件裡，calibrate 很適合用來表示「我們知道偏差在哪裡，並用標準流程修正它」，比 tune 或 tweak 更可靠。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Cambridge Dictionary 與 Merriam-Webster；重點是標定刻度、檢查準確性與按標準修正。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/calibrate",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary 與 Merriam-Webster，連到 <code>caliber</code>、刻度與量測標準。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/calibrate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代用法包含儀器、雷達、模型、劑量與抽象判斷的精準調整。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/calibrate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 calibrate 和 adjust 的差異。",
+    "CHECK_ORIGIN": "我記得 calibrate 的核心畫面是拿標準校正刻度。",
+    "CHECK_SENTENCE": "我能用 calibrate 造一句關於 sensor、model 或 expectation 的英文句子。",
+    "PRACTICE_SENTENCE": "We need to <code>calibrate</code> the sensor before trusting the thermal readings.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/calibrate",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "calibrate",
+    "word": "Calibrate",
+    "partOfSpeech": "verb",
+    "href": "./calibrate.html",
+    "thesis": "不是普通的「調整」，而是拿標準來對準系統，讓量測、判斷或輸出重新可信。",
+    "tags": [
+      "校正",
+      "標定",
+      "standard",
+      "adjust",
+      "sensor calibration",
+      "model calibration",
+      "measurement",
+      "firmware",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 calibrate 和 adjust 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 calibrate 的核心畫面是拿標準校正刻度"
+      },
+      {
+        "id": "sentence",
+        "label": "用 calibrate 造一句 sensor、model 或 expectation 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: calibrate",
+      "url": "https://dictionary.cambridge.org/dictionary/english/calibrate",
+      "usedFor": "UK/US IPA、工程與科學定義"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: calibrate",
+      "url": "https://www.etymonline.com/word/calibrate",
+      "usedFor": "caliber、刻度與量測標準的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster: calibrate",
+      "url": "https://www.merriam-webster.com/dictionary/calibrate",
+      "usedFor": "儀器、模型、劑量與抽象調整的現代用法"
+    }
+  ]
+}

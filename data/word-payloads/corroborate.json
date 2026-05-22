@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Corroborate",
+    "slug": "corroborate",
+    "outputPath": "prototypes/corroborate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Corroborate",
+    "WORD_SLUG": "corroborate",
+    "WORD_LOWER": "corroborate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "kuh-ROB-uh-rayt · UK /kəˈrɒb.ə.reɪt/ · US /kəˈrɑː.bə.reɪt/",
+    "THESIS": "不是單純同意，而是用第二份證據把原本的說法變得更有支撐力。",
+    "LEARNING_POSITION": "把 corroborate 想成「evidence adds strength」：某個說法先站起來，新的資料再從旁邊補一根樑。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.85",
+    "CORE_IDEA": "<code>corroborate</code> 表示用額外證據、資料或權威來源支持一個已經提出的說法，使它更可信。",
+    "CONCEPT_FOCUS": "核心是 strengthening by evidence：不是創造結論，而是讓結論更站得住。",
+    "TONE_REGISTER": "正式、調查感強；常見於法律、研究、事故分析、新聞與 RCA。",
+    "USE_WARNING": "不要把 corroborate 當成 agree；人可以 agree without evidence，但 corroborate 一定牽涉支持性證據。",
+    "SHORT_DEFINITION": "用證據或權威資料支持、證實或加強一個說法，使它更確定。",
+    "CONFUSION_WORD": "Confirm",
+    "CONFUSION_NOTE": "<code>confirm</code> 可以表示確認為真；<code>corroborate</code> 特別強調額外證據強化原本已存在的說法。",
+    "FLOW_1": "原本說法",
+    "FLOW_2": "第二份證據",
+    "FLOW_3": "可信度加強",
+    "ORIGIN_PARAGRAPH": "<code>corroborate</code> 來自 Latin <code>corroborare</code>，意思是 strengthen；其中 <code>robur</code> 有 strength 的意思，也和 <code>robust</code> 同源。",
+    "ORIGIN_MEMORY": "字源畫面像給一面牆加上支柱：證據不是只是附和，而是讓結構更強。",
+    "MEMORY_HOOK": "<code>corroborate</code> 是證據幫證據加肌肉。",
+    "MEMORY_EXPLANATION": "想像一個 bug report 有 log，再加上 scope capture 和 reproduction steps。這些資料互相加強，讓原本的懷疑不再只是懷疑。",
+    "DAILY_USAGE": "她的訊息可以 <code>corroborate</code> 他的時間線，讓事情更清楚。",
+    "PROFESSIONAL_USAGE": "在 RCA 裡可以寫：The trace logs <code>corroborate</code> the hypothesis that the reset happens during brownout recovery.",
+    "DOMAIN_USAGE": "在法律或研究裡，witnesses、documents、experiments 都可以 corroborate a claim，但它們必須提供獨立支持。",
+    "COLLOCATION_NOTE": "Corroborate 常搭配 story、claim、evidence、testimony、hypothesis，都是證據互相支撐的語境。",
+    "COLLOCATION_1": "corroborate a claim",
+    "REGISTER_1": "正式 / 研究",
+    "COLLOCATION_NOTE_1": "用資料或其他來源支持某個主張。",
+    "COLLOCATION_2": "corroborate testimony",
+    "REGISTER_2": "法律 / 調查",
+    "COLLOCATION_NOTE_2": "指證據或其他證人讓證詞更可信。",
+    "COLLOCATION_3": "corroborating evidence",
+    "REGISTER_3": "正式 / RCA",
+    "COLLOCATION_NOTE_3": "補強主要結論的輔助證據，不一定單獨決定答案。",
+    "NEIGHBOR_SELF": "用獨立或額外證據加強既有說法",
+    "NEIGHBOR_SELF_USE": "當 log、實驗、證詞或文件讓一個 hypothesis 更可信時",
+    "NEIGHBOR_1": "Verify",
+    "NEIGHBOR_1_MEANING": "檢查事實是否符合，重點是對不對",
+    "NEIGHBOR_1_USE": "當你在核對數值、步驟或事實本身，而不是補強既有說法時",
+    "MODERN_USE_1": "現代英文裡，<code>corroborate</code> 常出現在 investigations、research、journalism、incident reports 與 legal contexts。",
+    "MODERN_USE_2": "在工程 RCA 裡，這個字很好用：一個 log 可能 suggest，第二個 measurement 才 corroborate。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心是用 evidence 或 authority 支持並使事情更確定。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/corroborate",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary；Latin <code>corroborare</code> 連到 strengthen 與 <code>robur</code> strength。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/corroborate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支持 witnesses、documents、camera footage、studies 等提供 corroboration 的用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/corroborate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 corroborate 和 confirm 的差異。",
+    "CHECK_ORIGIN": "我記得 corroborate 的字源核心是 strengthen by evidence。",
+    "CHECK_SENTENCE": "我能用 corroborate 造一句 log、testimony、claim 或 hypothesis 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The oscilloscope capture corroborated what the firmware logs had already suggested.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/corroborate",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "corroborate",
+    "word": "Corroborate",
+    "partOfSpeech": "verb",
+    "href": "./corroborate.html",
+    "thesis": "不是單純同意，而是用第二份證據把原本的說法變得更有支撐力。",
+    "tags": [
+      "佐證",
+      "證據",
+      "support",
+      "confirm",
+      "corroborating evidence",
+      "testimony",
+      "RCA",
+      "debugging",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 corroborate 和 confirm 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 corroborate 的字源核心是 strengthen by evidence"
+      },
+      {
+        "id": "sentence",
+        "label": "用 corroborate 造一句 log、claim 或 hypothesis 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: corroborate",
+      "url": "https://www.merriam-webster.com/dictionary/corroborate",
+      "usedFor": "基本定義、發音與 synonym boundary"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: corroborate",
+      "url": "https://www.etymonline.com/word/corroborate",
+      "usedFor": "Latin corroborare、robur 與 strengthen 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/corroborate",
+      "usedFor": "法律、研究、新聞與證據補強的現代用法"
+    }
+  ]
+}

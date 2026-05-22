@@ -6,6 +6,7 @@
   const elements = {
     totalWords: document.querySelector("#total-words"),
     pendingWords: document.querySelector("#pending-words"),
+    randomWordButton: document.querySelector("#random-word-link"),
     searchInput: document.querySelector("#word-search"),
     sortWords: document.querySelector("#sort-words"),
     clearSearch: document.querySelector("#clear-search"),
@@ -48,6 +49,12 @@
   function compareByOrder(a, b) {
     return a.order - b.order
       || a.word.localeCompare(b.word, "en", { sensitivity: "base" });
+  }
+
+  function pickRandomWord() {
+    if (!words.length) return null;
+    const index = Math.floor(Math.random() * words.length);
+    return words[index] || null;
   }
 
   function generatedWordKeys() {
@@ -220,6 +227,7 @@
   function renderStats() {
     if (elements.totalWords) elements.totalWords.textContent = String(words.length);
     if (elements.pendingWords) elements.pendingWords.textContent = String(pendingBacklogItems().length);
+    if (elements.randomWordButton) elements.randomWordButton.disabled = !words.length;
   }
 
   function updateActiveResult(options = {}) {
@@ -316,6 +324,13 @@
     hasActiveResult = false;
     renderSearch();
   });
+  if (elements.randomWordButton) {
+    elements.randomWordButton.addEventListener("click", () => {
+      const word = pickRandomWord();
+      if (!word) return;
+      window.location.href = word.href;
+    });
+  }
 
   window.addEventListener("pageshow", () => {
     renderStats();

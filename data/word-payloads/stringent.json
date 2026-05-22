@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Stringent",
+    "slug": "stringent",
+    "outputPath": "prototypes/stringent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Stringent",
+    "WORD_SLUG": "stringent",
+    "WORD_LOWER": "stringent",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "STRIN-juhnt · UK /ˈstrɪn.dʒənt/ · US /ˈstrɪn.dʒənt/",
+    "THESIS": "不是普通的嚴格，而是規則或限制收得很緊，幾乎沒有鬆動空間。",
+    "LEARNING_POSITION": "把 stringent 記成「bind tight」：標準、程序、預算或條件像繩子被拉緊，容錯空間很小。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.11",
+    "CORE_IDEA": "<code>stringent</code> 描述規則、標準、限制或條件非常嚴格、緊縮、要求高，通常讓執行者幾乎不能鬆懈。",
+    "CONCEPT_FOCUS": "核心是 tight restriction：不是只是認真，而是限制被拉緊。",
+    "TONE_REGISTER": "正式；常見於 regulations、requirements、procedures、budgets、security standards。",
+    "USE_WARNING": "不要把 stringent 當成 strict 的完全替代；stringent 更有嚴苛限制、標準很難滿足的壓力感。",
+    "SHORT_DEFINITION": "形容規則、程序、標準或限制非常嚴格、精確或嚴苛。",
+    "CONFUSION_WORD": "Strict",
+    "CONFUSION_NOTE": "<code>strict</code> 是遵守規則不放鬆；<code>stringent</code> 多了限制很緊、要求很高、難以通過的感覺。",
+    "FLOW_1": "標準存在",
+    "FLOW_2": "限制拉緊",
+    "FLOW_3": "容錯變小",
+    "ORIGIN_PARAGRAPH": "<code>stringent</code> 來自 Latin <code>stringere</code>，意思是 compress、contract、bind tight。早期有收縮、緊縮的意思，後來延伸到嚴格的規則與程序。",
+    "ORIGIN_MEMORY": "字源像把繩子拉緊：一旦標準 stringent，空間就不再寬鬆，任何偏差都會被看見。",
+    "MEMORY_HOOK": "<code>stringent</code> 是被拉緊的規格線。",
+    "MEMORY_EXPLANATION": "想像一條 spec tolerance 從 ±10% 收到 ±1%。規則沒有變多，但變得更緊，這就是 stringent 的壓力。",
+    "DAILY_USAGE": "申請簽證的文件要求很 <code>stringent</code>，缺一張證明就可能被退件。",
+    "PROFESSIONAL_USAGE": "在 release 流程裡可以說：The release process uses <code>stringent</code> checks before firmware can be signed.",
+    "DOMAIN_USAGE": "資安、醫療、航太與金融常有 stringent regulations，因為小偏差也可能帶來高風險。",
+    "COLLOCATION_NOTE": "Stringent 常搭配 requirements、standards、rules、procedures、controls，語感是高要求與低容錯。",
+    "COLLOCATION_1": "stringent requirements",
+    "REGISTER_1": "工程 / 規格",
+    "COLLOCATION_NOTE_1": "指需求條件很嚴，達成門檻高。",
+    "COLLOCATION_2": "stringent controls",
+    "REGISTER_2": "資安 / 管理",
+    "COLLOCATION_NOTE_2": "指控制措施嚴密，避免風險穿透。",
+    "COLLOCATION_3": "stringent standards",
+    "REGISTER_3": "品質 / 法規",
+    "COLLOCATION_NOTE_3": "指通過標準高，不能只是差不多。",
+    "NEIGHBOR_SELF": "限制很緊、要求很高、容錯很小",
+    "NEIGHBOR_SELF_USE": "談法規、品質、資安、驗證或 release gate 很嚴格時",
+    "NEIGHBOR_1": "Rigorous",
+    "NEIGHBOR_1_MEANING": "嚴謹、徹底，常強調方法完整或訓練艱難",
+    "NEIGHBOR_1_USE": "當重點是方法、訓練或分析很扎實，而不是限制被收緊時",
+    "MODERN_USE_1": "現代英文裡，<code>stringent</code> 常出現在 compliance、quality control、security policy、admission rules 和 budget constraints。",
+    "MODERN_USE_2": "在工程團隊裡，用 stringent 比 strict 更能表達「這不是個人嚴厲，而是系統性高門檻」。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 tight、constricted，以及 rules or standards marked by rigor、strictness、severity。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/stringent",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary；Latin <code>stringere</code> 的核心是 bind tight、compress、draw tight。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/stringent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代用法支持 procedures、requirements、rules、standards、budgets 等限制嚴格的語境。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/stringent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 stringent 和 strict 的差異。",
+    "CHECK_ORIGIN": "我記得 stringent 的字源畫面是 bind tight。",
+    "CHECK_SENTENCE": "我能用 stringent 造一句 requirement、standard 或 security control 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The bootloader update must pass stringent signature checks before it can run.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/stringent",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "stringent",
+    "word": "Stringent",
+    "partOfSpeech": "adjective",
+    "href": "./stringent.html",
+    "thesis": "不是普通的嚴格，而是規則或限制收得很緊，幾乎沒有鬆動空間。",
+    "tags": [
+      "嚴格",
+      "嚴苛",
+      "strict",
+      "rigorous",
+      "stringent requirements",
+      "quality",
+      "security",
+      "compliance",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 stringent 和 strict 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 stringent 的字源畫面是 bind tight"
+      },
+      {
+        "id": "sentence",
+        "label": "用 stringent 造一句 requirement、standard 或 control 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: stringent",
+      "url": "https://www.merriam-webster.com/dictionary/stringent",
+      "usedFor": "基本定義、發音與 strict/rigorous 邊界"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: stringent",
+      "url": "https://www.etymonline.com/word/stringent",
+      "usedFor": "Latin stringere 與 bind tight 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/stringent",
+      "usedFor": "requirements、rules、procedures、budgets 的現代用法"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Pervasive",
+    "slug": "pervasive",
+    "outputPath": "prototypes/pervasive.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Pervasive",
+    "WORD_SLUG": "pervasive",
+    "WORD_LOWER": "pervasive",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "per-VAY-siv · UK /pəˈveɪ.sɪv/ · US /pɚˈveɪ.sɪv/",
+    "THESIS": "不是只是常見，而是像氣味或濕氣一樣滲進各處，讓整個系統都感覺得到。",
+    "LEARNING_POSITION": "把 pervasive 想成「spread through every part」：一個問題、文化、影響或情緒不只出現在幾個點，而是到處滲透。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.39",
+    "CORE_IDEA": "<code>pervasive</code> 描述某種影響、問題、氣味、情緒或模式散布到各個部分，幾乎處處可見或可感。",
+    "CONCEPT_FOCUS": "核心是 everywhere-through：不是數量很多，而是滲透範圍很廣。",
+    "TONE_REGISTER": "正式、分析性；常帶負面，但也能用於中性或正面影響。",
+    "USE_WARNING": "不要把 pervasive 只當成 common；common 是常見，pervasive 是遍布、滲透、難以局部隔離。",
+    "SHORT_DEFINITION": "存在於或散布於某事物的各個部分，讓整體都受到影響。",
+    "CONFUSION_WORD": "Common",
+    "CONFUSION_NOTE": "<code>common</code> 表示經常出現；<code>pervasive</code> 表示分布廣、滲透深，整體都受影響。",
+    "FLOW_1": "一個源頭或模式",
+    "FLOW_2": "穿透各處",
+    "FLOW_3": "整體被影響",
+    "ORIGIN_PARAGRAPH": "<code>pervasive</code> 來自 Latin <code>pervadere</code> 的過去分詞 stem；<code>per</code> 有 through 的方向，<code>vadere</code> 是 to go。",
+    "ORIGIN_MEMORY": "字源畫面就是 go through：某種東西不是停在表面，而是穿過系統的縫隙，讓每個角落都碰到它。",
+    "MEMORY_HOOK": "<code>pervasive</code> 是問題像濕氣一樣穿牆。",
+    "MEMORY_EXPLANATION": "想像一間房子不只是某個角落潮濕，而是每面牆都有濕氣。這種不是局部問題，而是 pervasive problem。",
+    "DAILY_USAGE": "那間老屋有一種 <code>pervasive</code> smell，走到哪個房間都聞得到。",
+    "PROFESSIONAL_USAGE": "在系統分析裡可以寫：The defect was not isolated; it revealed a <code>pervasive</code> assumption in the driver layer.",
+    "DOMAIN_USAGE": "在文化、媒體或科技討論中，pervasive influence 指影響穿透日常行為與制度，而不只是出現頻率高。",
+    "COLLOCATION_NOTE": "Pervasive 常搭配 problem、influence、uncertainty、culture、bias，表示廣泛滲透。",
+    "COLLOCATION_1": "pervasive problem",
+    "REGISTER_1": "正式 / 分析",
+    "COLLOCATION_NOTE_1": "指問題不只局部出現，而是遍布整個系統或組織。",
+    "COLLOCATION_2": "pervasive influence",
+    "REGISTER_2": "社會 / 科技",
+    "COLLOCATION_NOTE_2": "指影響深入多個層面，甚至變得不容易察覺。",
+    "COLLOCATION_3": "pervasive uncertainty",
+    "REGISTER_3": "商務 / 研究",
+    "COLLOCATION_NOTE_3": "指不確定性遍布整個情境，使局部決策也受牽動。",
+    "NEIGHBOR_SELF": "廣泛滲透到各部分，整體都受影響",
+    "NEIGHBOR_SELF_USE": "當問題、文化、氣味、影響或 bias 不是局部，而是到處存在時",
+    "NEIGHBOR_1": "Widespread",
+    "NEIGHBOR_1_MEANING": "分布範圍廣、很多地方都有",
+    "NEIGHBOR_1_USE": "當只要說範圍廣，不需要強調滲透感或整體被浸染時",
+    "MODERN_USE_1": "現代英文裡，<code>pervasive</code> 常用在 pervasive problem、pervasive influence、pervasive bias、pervasive uncertainty。",
+    "MODERN_USE_2": "在工程裡，它很適合指出一個 assumption 或 anti-pattern 已經穿透多個模組，不能只修單點。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心是 existing in or spreading through every part of something。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/pervasive",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary；Latin <code>pervadere</code> 由 per through 加 vadere to go 組成。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/pervasive",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支持 problem、influence、uncertainty、language 與 software/business influence 等語境。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/pervasive",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 pervasive 和 common 的差異。",
+    "CHECK_ORIGIN": "我記得 pervasive 的核心畫面是 go through every part。",
+    "CHECK_SENTENCE": "我能用 pervasive 造一句 problem、influence、bias 或 assumption 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The bug exposed a pervasive assumption that the device clock would never drift.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/pervasive",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "pervasive",
+    "word": "Pervasive",
+    "partOfSpeech": "adjective",
+    "href": "./pervasive.html",
+    "thesis": "不是只是常見，而是像氣味或濕氣一樣滲進各處，讓整個系統都感覺得到。",
+    "tags": [
+      "普遍",
+      "滲透",
+      "widespread",
+      "common",
+      "pervasive problem",
+      "pervasive influence",
+      "systems",
+      "culture",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 pervasive 和 common 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 pervasive 的核心畫面是 go through every part"
+      },
+      {
+        "id": "sentence",
+        "label": "用 pervasive 造一句 problem、influence、bias 或 assumption 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: pervasive",
+      "url": "https://www.merriam-webster.com/dictionary/pervasive",
+      "usedFor": "基本定義、發音與語氣邊界"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: pervasive",
+      "url": "https://www.etymonline.com/word/pervasive",
+      "usedFor": "Latin pervadere 與 go through 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/pervasive",
+      "usedFor": "problem、influence、uncertainty、culture 的現代用法"
+    }
+  ]
+}

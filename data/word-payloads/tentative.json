@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Tentative",
+    "slug": "tentative",
+    "outputPath": "prototypes/tentative.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Tentative",
+    "WORD_SLUG": "tentative",
+    "WORD_LOWER": "tentative",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "TEN-tuh-tiv · UK /ˈten.tə.tɪv/ · US /ˈten.tə.tɪv/",
+    "THESIS": "不是沒想清楚，而是先把目前版本放在桌上，明確保留被修正的空間。",
+    "LEARNING_POSITION": "把 tentative 想成「try, test, not final」：它可以是暫定計畫，也可以是小心、還不完全確定的姿態。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.43",
+    "CORE_IDEA": "<code>tentative</code> 表示暫定、試探性、尚未完全定案，或因不確定而小心翼翼。",
+    "CONCEPT_FOCUS": "核心是 provisional attempt：先試著放出來，但不假裝它已經成熟。",
+    "TONE_REGISTER": "中性到正式；可用於 plan、date、conclusion、offer、smile、step。",
+    "USE_WARNING": "tentative 不一定代表品質差；它常是誠實標示「目前版本仍可能變動」。",
+    "SHORT_DEFINITION": "尚未完全發展或定案、可變動；也可形容態度猶豫或不確定。",
+    "CONFUSION_WORD": "Uncertain",
+    "CONFUSION_NOTE": "<code>uncertain</code> 只說不確定；<code>tentative</code> 常暗示目前先提出一個可測試、可修改的版本。",
+    "FLOW_1": "先提出嘗試",
+    "FLOW_2": "保留變動",
+    "FLOW_3": "等待驗證",
+    "ORIGIN_PARAGRAPH": "<code>tentative</code> 來自 Latin <code>tentare</code>，意思是 to try、to test、to feel out。原始畫面不是混亂，而是試探。",
+    "ORIGIN_MEMORY": "字源像用手先摸一摸水溫：不是拒絕前進，而是在正式跳下去前先測試。",
+    "MEMORY_HOOK": "<code>tentative</code> 是鉛筆寫下的第一版，不是刻在石頭上的結論。",
+    "MEMORY_EXPLANATION": "想像你在 whiteboard 上寫下 tentative plan。你不是沒有計畫，而是誠實地說：這是目前最好的版本，等資料回來再修。",
+    "DAILY_USAGE": "我們先訂一個 <code>tentative date</code>，等大家的行程確認後再固定。",
+    "PROFESSIONAL_USAGE": "Debug 時可以說：The root cause is still <code>tentative</code> until we reproduce the failure on a second board.",
+    "DOMAIN_USAGE": "研究、專案管理與設計討論裡，tentative conclusion 或 tentative schedule 都表示可用但尚未最終確認。",
+    "COLLOCATION_NOTE": "Tentative 常搭配 plan、date、conclusion、agreement、step，重點是暫定或小心試探。",
+    "COLLOCATION_1": "tentative plan",
+    "REGISTER_1": "專案 / 日常",
+    "COLLOCATION_NOTE_1": "表示目前可參考，但仍可能依新資訊調整。",
+    "COLLOCATION_2": "tentative conclusion",
+    "REGISTER_2": "研究 / 分析",
+    "COLLOCATION_NOTE_2": "表示結論有初步證據支持，但還不到 final。",
+    "COLLOCATION_3": "tentative step",
+    "REGISTER_3": "敘事 / 心理",
+    "COLLOCATION_NOTE_3": "形容動作小心、猶豫，像還在試探安全感。",
+    "NEIGHBOR_SELF": "暫定、試探性、可修改，或因不確定而小心",
+    "NEIGHBOR_SELF_USE": "當計畫、結論、日期或行動還未 final，但可以先拿來討論時",
+    "NEIGHBOR_1": "Provisional",
+    "NEIGHBOR_1_MEANING": "臨時有效、暫時安排，偏正式",
+    "NEIGHBOR_1_USE": "當重點是制度上或流程上先暫時採用，而不是試探性或猶豫感時",
+    "MODERN_USE_1": "現代英文裡，<code>tentative</code> 很適合放在工程判斷：tentative root cause、tentative fix、tentative timeline。",
+    "MODERN_USE_2": "它也是一個很誠實的協作字：讓別人知道你不是沒有想法，只是不把尚未驗證的版本包裝成定論。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 not fully worked out、hesitant、uncertain 等主要義。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/tentative",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，追到 Latin <code>tentare</code>，核心是 trying、testing。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/tentative",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代用法支持 tentative plans、dates、offers、smiles、conclusions 等暫定或小心語境。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/tentative",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 tentative 和 uncertain 的差異。",
+    "CHECK_ORIGIN": "我記得 tentative 來自 try、test、feel out 的試探畫面。",
+    "CHECK_SENTENCE": "我能用 tentative 造一句 plan、root cause、date 或 conclusion 情境的英文句子。",
+    "PRACTICE_SENTENCE": "Our tentative conclusion is that the watchdog reset is triggered by a rare timing window.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/tentative",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "tentative",
+    "word": "Tentative",
+    "partOfSpeech": "adjective",
+    "href": "./tentative.html",
+    "thesis": "不是沒想清楚，而是先把目前版本放在桌上，明確保留被修正的空間。",
+    "tags": [
+      "暫定",
+      "試探",
+      "provisional",
+      "uncertain",
+      "tentative plan",
+      "tentative conclusion",
+      "RCA",
+      "project management",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 tentative 和 uncertain 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 tentative 來自 try、test、feel out 的試探畫面"
+      },
+      {
+        "id": "sentence",
+        "label": "用 tentative 造一句 plan、root cause 或 conclusion 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: tentative",
+      "url": "https://www.merriam-webster.com/dictionary/tentative",
+      "usedFor": "基本定義、發音與暫定/猶豫義"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: tentative",
+      "url": "https://www.etymonline.com/word/tentative",
+      "usedFor": "Latin tentare 與 trying/testing 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/tentative",
+      "usedFor": "計畫、日期、結論與猶豫姿態的現代用法"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Reconcile",
+    "slug": "reconcile",
+    "outputPath": "prototypes/reconcile.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Reconcile",
+    "WORD_SLUG": "reconcile",
+    "WORD_LOWER": "reconcile",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "REK-un-syle · UK /ˈrek.ən.saɪl/ · US /ˈrek.ən.saɪl/",
+    "THESIS": "不是假裝衝突不存在，而是把分裂的人、數字或想法帶回能共存的位置。",
+    "LEARNING_POSITION": "把 reconcile 想成「bring together again」：可能是人和人和好，也可能是資料、帳目、需求與現實重新對得上。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.55",
+    "CORE_IDEA": "<code>reconcile</code> 表示恢復和諧、解決差異，或讓看似衝突的事物變得一致、可共存。",
+    "CONCEPT_FOCUS": "核心是把分開或打架的東西重新帶到同一張桌上。",
+    "TONE_REGISTER": "正式到中性；可用在人際、帳務、資料、設計取捨與心理接受。",
+    "USE_WARNING": "不要把 reconcile 誤解成單方面妥協；它更常指找到能消除不一致或重新共存的方式。",
+    "SHORT_DEFINITION": "使人恢復友好，使差異得到解決，或讓兩組事實、數字、想法變得一致。",
+    "CONFUSION_WORD": "Compromise",
+    "CONFUSION_NOTE": "<code>compromise</code> 強調雙方讓步；<code>reconcile</code> 強調衝突被消除或變得可相容。",
+    "FLOW_1": "兩邊衝突",
+    "FLOW_2": "找出相容方式",
+    "FLOW_3": "重新一致",
+    "ORIGIN_PARAGRAPH": "<code>reconcile</code> 來自 Latin <code>reconciliare</code>，意思是 bring together again、make friendly again；<code>re-</code> 帶有 again 的方向。",
+    "ORIGIN_MEMORY": "字源畫面是一張被推開的桌子又被拉回來：不是抹掉裂痕，而是重新讓彼此坐得下。",
+    "MEMORY_HOOK": "<code>reconcile</code> 是把互相打架的事實請回同一個房間。",
+    "MEMORY_EXPLANATION": "想像兩份 log 說的時間不一樣。Reconcile 不是選一份相信，而是找出 timezone、clock drift 或 missing event，讓兩份資料能講同一個故事。",
+    "DAILY_USAGE": "他需要時間 <code>reconcile</code> his hopes with reality，接受計畫必須縮小。",
+    "PROFESSIONAL_USAGE": "團隊可以這樣寫：The team <code>reconciled</code> the customer requirement with the hardware limitation by changing the sampling schedule.",
+    "DOMAIN_USAGE": "Accounting 裡 reconcile accounts 是核對帳目；工程裡 reconcile conflicting data 是讓證據重新接起來。",
+    "COLLOCATION_NOTE": "Reconcile 常搭配 differences、accounts、data、requirements、ideal with reality，都是把不一致拉回相容狀態。",
+    "COLLOCATION_1": "reconcile differences",
+    "REGISTER_1": "人際 / 正式",
+    "COLLOCATION_NOTE_1": "解決分歧，讓兩邊重新能共處或合作。",
+    "COLLOCATION_2": "reconcile the data",
+    "REGISTER_2": "分析 / 工程",
+    "COLLOCATION_NOTE_2": "處理數據或證據間的不一致，找出共同解釋。",
+    "COLLOCATION_3": "reconcile an ideal with reality",
+    "REGISTER_3": "抽象 / 決策",
+    "COLLOCATION_NOTE_3": "把理想和限制放在一起，找出不自欺的做法。",
+    "NEIGHBOR_SELF": "讓衝突的人、事實或想法重新相容",
+    "NEIGHBOR_SELF_USE": "當問題是 differences、accounts、requirements 或 evidence 彼此不一致時",
+    "NEIGHBOR_1": "Resolve",
+    "NEIGHBOR_1_MEANING": "解決問題或做出決定，範圍較廣",
+    "NEIGHBOR_1_USE": "當你只想說問題被解決，不特別強調兩邊重新相容時",
+    "MODERN_USE_1": "現代英文裡，<code>reconcile</code> 很常用在 data reconciliation、account reconciliation、conflicting evidence、personal acceptance 與 trade-off discussion。",
+    "MODERN_USE_2": "在工程溝通裡，它適合描述「兩份看似衝突的證據其實可以被同一個 root cause 解釋」。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 restore to harmony、settle differences、make consistent 等主要義。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/reconcile",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，追到 Latin <code>reconciliare</code>，核心是 bring together again。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/reconcile",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支持人際、事實一致性、ideal with reality 與接受 unpleasant fact 的用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/reconcile",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 reconcile 和 compromise 的差異。",
+    "CHECK_ORIGIN": "我記得 reconcile 的核心畫面是 bring together again。",
+    "CHECK_SENTENCE": "我能用 reconcile 造一句 data、requirements、differences 或 reality 情境的英文句子。",
+    "PRACTICE_SENTENCE": "We reconciled the two logs after noticing that one device had a drifting clock.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/reconcile",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "reconcile",
+    "word": "Reconcile",
+    "partOfSpeech": "verb",
+    "href": "./reconcile.html",
+    "thesis": "不是假裝衝突不存在，而是把分裂的人、數字或想法帶回能共存的位置。",
+    "tags": [
+      "調和",
+      "核對",
+      "make consistent",
+      "resolve differences",
+      "reconcile data",
+      "trade-off",
+      "requirements",
+      "debugging",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 reconcile 和 compromise 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 reconcile 的核心畫面是 bring together again"
+      },
+      {
+        "id": "sentence",
+        "label": "用 reconcile 造一句 data、requirements 或 differences 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: reconcile",
+      "url": "https://www.merriam-webster.com/dictionary/reconcile",
+      "usedFor": "基本定義、發音與主要用法"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: reconcile",
+      "url": "https://www.etymonline.com/word/reconcile",
+      "usedFor": "Latin reconciliare 與 bring together again 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/reconcile",
+      "usedFor": "人際、資料一致性與理想現實調和的現代用法"
+    }
+  ]
+}

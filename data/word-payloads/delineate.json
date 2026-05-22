@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Delineate",
+    "slug": "delineate",
+    "outputPath": "prototypes/delineate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Delineate",
+    "WORD_SLUG": "delineate",
+    "WORD_LOWER": "delineate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "dih-LIN-ee-ayt · UK /dɪˈlɪn.i.eɪt/ · US /dɪˈlɪn.i.eɪt/",
+    "THESIS": "不是籠統說明，而是把邊界、形狀或責任線畫清楚，讓混在一起的東西可分辨。",
+    "LEARNING_POSITION": "把 delineate 記成「draw the line」：你不是只描述，而是用線把輪廓、範圍與差異標出來。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.82",
+    "CORE_IDEA": "<code>delineate</code> 表示清楚描繪、標出邊界或詳細說明，使某個輪廓、責任或概念範圍變得分明。",
+    "CONCEPT_FOCUS": "核心是 line-drawing：把模糊區域切出輪廓。",
+    "TONE_REGISTER": "正式、分析性；常見於規格、法律、研究、設計文件與需求切分。",
+    "USE_WARNING": "不要把 delineate 當成 casual describe；它更強調完整、清楚、有邊界的描述。",
+    "SHORT_DEFINITION": "標明邊界、描繪輪廓，或詳細描述一個事物的結構、範圍與差異。",
+    "CONFUSION_WORD": "Describe",
+    "CONFUSION_NOTE": "<code>describe</code> 是描述；<code>delineate</code> 多了把邊界、輪廓和責任線畫出來的精準感。",
+    "FLOW_1": "模糊範圍",
+    "FLOW_2": "畫出線條",
+    "FLOW_3": "邊界清楚",
+    "ORIGIN_PARAGRAPH": "<code>delineate</code> 來自 Latin <code>delineare</code>，意思是 sketch out 或 draw lines；<code>linea</code> 就是 line 的來源。",
+    "ORIGIN_MEMORY": "字源直接送你一支筆：先有線，才有輪廓；先有輪廓，討論才不會到處流。",
+    "MEMORY_HOOK": "<code>delineate</code> 是在需求迷霧裡畫邊界線。",
+    "MEMORY_EXPLANATION": "想像一張白板上混著 feature、bug、risk 和 nice-to-have。Delineate 就是把它們一塊塊圈出來，讓每一塊知道自己是什麼。",
+    "DAILY_USAGE": "旅行前先 <code>delineate</code> 每個人的責任，可以避免到現場才互相等待。",
+    "PROFESSIONAL_USAGE": "一份好的 interface document 會 <code>delineate</code> ownership between firmware, hardware, and the host application.",
+    "DOMAIN_USAGE": "研究文章會 delineate scope、method、limitations，讓讀者知道結論能延伸到哪裡，不能延伸到哪裡。",
+    "COLLOCATION_NOTE": "Delineate 常搭配 boundaries、roles、scope、responsibilities、differences，都是畫清楚分界的語境。",
+    "COLLOCATION_1": "delineate the scope",
+    "REGISTER_1": "專案 / 規格",
+    "COLLOCATION_NOTE_1": "明確界定工作或研究的範圍，避免默默擴張。",
+    "COLLOCATION_2": "delineate responsibilities",
+    "REGISTER_2": "管理 / 工程",
+    "COLLOCATION_NOTE_2": "把責任線畫清楚，減少模糊交界造成的漏接。",
+    "COLLOCATION_3": "clearly delineated boundaries",
+    "REGISTER_3": "正式 / 分析",
+    "COLLOCATION_NOTE_3": "強調邊界已經被清楚標出，適合法律、設計與系統討論。",
+    "NEIGHBOR_SELF": "清楚標出輪廓、邊界或責任線",
+    "NEIGHBOR_SELF_USE": "當問題在於 scope、ownership 或 conceptual boundary 模糊時",
+    "NEIGHBOR_1": "Define",
+    "NEIGHBOR_1_MEANING": "給出定義或規定意思",
+    "NEIGHBOR_1_USE": "當重點是說明某詞或某規則的正式含義，而不是畫出邊界與輪廓時",
+    "MODERN_USE_1": "現代英文裡，<code>delineate</code> 很常出現在 policy、research、systems、requirements 與 legal writing。",
+    "MODERN_USE_2": "在工程協作中，它是避免混亂的好字：delineate interfaces、failure modes、ownership，常比 simply describe 更有力。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與英美發音參考 Cambridge Dictionary；重點是 describe or mark the edge，以及 American Dictionary 的 mark border / describe completely。",
+    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/delineate",
+    "DICTIONARY_LABEL": "Cambridge Dictionary",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary；Latin <code>delineare</code> 由 de- 加 lineare，核心是 draw lines。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/delineate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支持 themes、frameworks、boundaries、networks、trajectories 等分析性用法。",
+    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/delineate",
+    "MODERN_SOURCE_LABEL": "Cambridge examples",
+    "CHECK_MEANING": "我能說出 delineate 和 describe 的差異。",
+    "CHECK_ORIGIN": "我記得 delineate 的核心畫面是 draw lines。",
+    "CHECK_SENTENCE": "我能用 delineate 造一句 scope、responsibility 或 boundary 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The spec delineates which errors are handled by firmware and which are reported to the host.",
+    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/delineate",
+    "REFERENCE_LABEL": "Cambridge Dictionary"
+  },
+  "indexEntry": {
+    "id": "delineate",
+    "word": "Delineate",
+    "partOfSpeech": "verb",
+    "href": "./delineate.html",
+    "thesis": "不是籠統說明，而是把邊界、形狀或責任線畫清楚，讓混在一起的東西可分辨。",
+    "tags": [
+      "界定",
+      "描繪",
+      "boundary",
+      "scope",
+      "draw lines",
+      "delineate responsibilities",
+      "requirements",
+      "architecture",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 delineate 和 describe 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 delineate 的核心畫面是 draw lines"
+      },
+      {
+        "id": "sentence",
+        "label": "用 delineate 造一句 scope、responsibility 或 boundary 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary: delineate",
+      "url": "https://dictionary.cambridge.org/dictionary/english/delineate",
+      "usedFor": "UK/US IPA、正式語域與基本定義"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: delineate",
+      "url": "https://www.etymonline.com/word/delineate",
+      "usedFor": "Latin delineare、linea 與 draw lines 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Cambridge examples",
+      "url": "https://dictionary.cambridge.org/dictionary/english/delineate",
+      "usedFor": "研究、邊界、框架與完整描述的現代用法"
+    }
+  ]
+}

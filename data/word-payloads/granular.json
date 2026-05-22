@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Granular",
+    "slug": "granular",
+    "outputPath": "prototypes/granular.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Granular",
+    "WORD_SLUG": "granular",
+    "WORD_LOWER": "granular",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "GRAN-yuh-ler · UK /ˈɡræn.jə.lər/ · US /ˈɡræn.jə.lɚ/",
+    "THESIS": "不是普通的詳細，而是把東西拆到一粒一粒的層級，讓細節可以被看見、比較和操作。",
+    "LEARNING_POSITION": "把 granular 想成「grain-sized detail」：不是只說很多細節，而是細到可以分辨每個小單位。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.30",
+    "CORE_IDEA": "<code>granular</code> 原本表示顆粒狀；現代常延伸為細節層級很細、可分解到小單位的。",
+    "CONCEPT_FOCUS": "核心是 fine-grained visibility：能看見小粒度差異。",
+    "TONE_REGISTER": "資料、報告、權限、設定、分析與工程文件常見；比 detailed 更偏系統與資料感。",
+    "USE_WARNING": "不要把 granular 當成 detail 的華麗替代；它通常暗示資料或控制被切到更小單位。",
+    "SHORT_DEFINITION": "由小顆粒構成；延伸為細節非常精細、可拆到小單位的。",
+    "CONFUSION_WORD": "Detailed",
+    "CONFUSION_NOTE": "<code>detailed</code> 是細節多；<code>granular</code> 強調細節被切成小粒度，可分別觀察或控制。",
+    "FLOW_1": "粗略總量",
+    "FLOW_2": "拆成小粒",
+    "FLOW_3": "細節可操作",
+    "ORIGIN_PARAGRAPH": "<code>granular</code> 來自 Late Latin <code>granulum</code>，意思是 little grain；也連到 Latin <code>granum</code>，grain 或 seed。",
+    "ORIGIN_MEMORY": "字源畫面是一把沙：遠看是一片，近看每一粒都不同。Granular 的資訊也是這樣，能從總量切到小單位。",
+    "MEMORY_HOOK": "<code>granular</code> 是把報告放大到看見每一粒資料。",
+    "MEMORY_EXPLANATION": "想像 dashboard 只有總失敗率時很粗；能按 board revision、temperature、firmware build 拆開時，就變 granular。",
+    "DAILY_USAGE": "如果預算只分成食物、交通、娛樂還不夠，你可以記得更 <code>granular</code>，例如早餐、咖啡、捷運、計程車。",
+    "PROFESSIONAL_USAGE": "Debug 時可以說：We need more <code>granular</code> logs to distinguish a timing issue from a power issue.",
+    "DOMAIN_USAGE": "在權限設計中，granular permissions 代表不是只有 admin/user 兩級，而是可針對動作、資源與範圍分開控制。",
+    "COLLOCATION_NOTE": "Granular 常搭配 data、detail、control、permissions、visibility，都是更小粒度的資訊或控制。",
+    "COLLOCATION_1": "granular data",
+    "REGISTER_1": "資料 / 分析",
+    "COLLOCATION_NOTE_1": "指資料可切到較細維度，不只看總和。",
+    "COLLOCATION_2": "granular control",
+    "REGISTER_2": "系統 / 產品",
+    "COLLOCATION_NOTE_2": "表示使用者或系統可以細部調整，而不是只有大開關。",
+    "COLLOCATION_3": "granular permissions",
+    "REGISTER_3": "資安 / 軟體",
+    "COLLOCATION_NOTE_3": "指權限能按資源、動作或角色細分。",
+    "NEIGHBOR_SELF": "細到小單位、可分別觀察或控制",
+    "NEIGHBOR_SELF_USE": "當你要說資料、控制、權限或報告粒度夠細時",
+    "NEIGHBOR_1": "Detailed",
+    "NEIGHBOR_1_MEANING": "包含很多細節，較一般",
+    "NEIGHBOR_1_USE": "只要說內容豐富、描述充分，不需要強調小單位或可操作粒度時",
+    "MODERN_USE_1": "現代英文裡，<code>granular</code> 常出現在 data analytics、security permissions、observability、reporting、product settings。",
+    "MODERN_USE_2": "在工程 debug 中，它提醒我們：沒有足夠 granular 的 log，就很容易把不同 failure modes 混成同一類。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 consisting of granules 與 finely detailed 的延伸義。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/granular",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary；Late Latin <code>granulum</code> 是 little grain。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/granular",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支持 granular account、granular security contract、granular details 等資料與描述粒度用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/granular",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "CHECK_MEANING": "我能說出 granular 和 detailed 的差異。",
+    "CHECK_ORIGIN": "我記得 granular 的核心畫面是 little grains。",
+    "CHECK_SENTENCE": "我能用 granular 造一句 data、logs、control 或 permissions 情境的英文句子。",
+    "PRACTICE_SENTENCE": "More granular logs would show whether the reset depends on temperature, voltage, or firmware build.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/granular",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "granular",
+    "word": "Granular",
+    "partOfSpeech": "adjective",
+    "href": "./granular.html",
+    "thesis": "不是普通的詳細，而是把東西拆到一粒一粒的層級，讓細節可以被看見、比較和操作。",
+    "tags": [
+      "細粒度",
+      "細節",
+      "fine-grained",
+      "detailed",
+      "granular data",
+      "granular control",
+      "permissions",
+      "observability",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 granular 和 detailed 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 granular 的核心畫面是 little grains"
+      },
+      {
+        "id": "sentence",
+        "label": "用 granular 造一句 data、logs、control 或 permissions 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster: granular",
+      "url": "https://www.merriam-webster.com/dictionary/granular",
+      "usedFor": "基本定義、發音與 finely detailed 延伸義"
+    },
+    {
+      "category": "level-frequency",
+      "label": "CEFR study label + wordfreq-style Zipf",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary: granular",
+      "url": "https://www.etymonline.com/word/granular",
+      "usedFor": "Late Latin granulum、granum 與 little grain 的字源脈絡"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster examples",
+      "url": "https://www.merriam-webster.com/dictionary/granular",
+      "usedFor": "資料、報告、權限與控制粒度的現代用法"
+    }
+  ]
+}
