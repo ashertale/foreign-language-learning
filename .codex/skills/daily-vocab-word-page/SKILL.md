@@ -16,6 +16,17 @@ Default to Payload Mode: collect the content that fits the skill directory's `as
 - Use Render Mode when the user asks to "generate", "create", "新增", or "建立" one or more new word pages, even if no headword or payload is provided.
 - Use UI refinement mode only when the request changes layout, CSS, interaction, responsive behavior, pronunciation controls, or active-recall behavior.
 
+## Source Policy
+
+- Keep source selection on a fixed baseline. Do not pick different dictionaries ad hoc for each new word.
+- Dictionary and pronunciation priority: `Cambridge Dictionary` first, `Merriam-Webster` second, then `Oxford Learner's Dictionaries` or `Britannica Dictionary` as tertiary fallback when the higher-priority source is missing, unclear, or does not provide the needed signal.
+- Etymology and history priority: `Online Etymology Dictionary` first, `Merriam-Webster` second.
+- Modern/common-usage priority: `Merriam-Webster` first, `Cambridge Dictionary` second, `Britannica Dictionary` third.
+- Level/frequency policy: Zipf comes from `wordfreq`; CEFR is a repo-calibrated study band, not a per-word external CEFR feed. Record this in `sourceAudit` as `wordfreq Zipf + repo CEFR calibration`.
+- `REFERENCE_LABEL` and `REFERENCE_URL` must mirror the selected dictionary/pronunciation source. Do not point the page reference box at a different site than the dictionary source card.
+- Keep `templatePlaceholders.*SOURCE*`, `REFERENCE_*`, and `sourceAudit` aligned to the actual selected source. Do not mix a Cambridge label with a Merriam URL, or vice versa.
+- For source-policy cleanup across existing payload/page pairs, run `uv run python scripts/normalize_word_sources.py --check` first. Run it without `--check` only when intentionally normalizing both JSON payloads and rendered HTML pages.
+
 ## Payload Mode
 
 1. Confirm the target word(s), learner language, and any source expectations. If the user asks for N new words without naming them, read `prototypes/word-index.js` first and choose N non-duplicate, practical, etymology-rich words with varied concepts or domains.
@@ -25,8 +36,9 @@ Default to Payload Mode: collect the content that fits the skill directory's `as
 5. Prefer plain text values. Use small inline HTML only when the template context benefits from it, such as `<code>` for literal terms; `CORE_IDEA` should include `<code>{word}</code>` for the literal headword. Do not paste large source excerpts.
 6. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, `tags`, and `checks`.
 7. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
-8. Include `sourceAudit` with the dictionary, etymology/history, and modern/common-usage sources used to support source-sensitive claims. Keep source notes short and separated by claim type.
-9. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run `sync_word_numbers.py`, start a server, browser-verify, or parse existing word page HTML in this mode.
+8. Follow the fixed source priority above. Only use a fallback source when the higher-priority source is missing, unclear, or insufficient, and then keep the selected source consistent across `DICTIONARY_*` / `ETYMOLOGY_*` / `MODERN_SOURCE_*`, `REFERENCE_*`, and `sourceAudit`.
+9. Include `sourceAudit` with the dictionary, etymology/history, and modern/common-usage sources used to support source-sensitive claims. Keep source notes short and separated by claim type.
+10. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run `sync_word_numbers.py`, start a server, browser-verify, or parse existing word page HTML in this mode.
 
 ## Render Mode
 
@@ -39,9 +51,10 @@ Default to Payload Mode: collect the content that fits the skill directory's `as
 7. Keep shared UI in `prototypes/word-page.css` and shared interaction in `prototypes/word-page.js`; do not inline CSS/JS unless explicitly asked.
 8. Run `uv run python scripts/sync_word_numbers.py` after rendering so `Word NN` and `word-index.js` stay contiguous. If `uv` is not on PATH in this Windows/mise setup, resolve the installed `uv.exe` path instead of skipping the check.
 9. After editing a word page or index, run `uv run python scripts/sync_word_numbers.py --check`.
-10. After rendering or batch-editing payload/page pairs, run `uv run python scripts/validate_word_pages.py` to catch placeholder drift, old IPA labels, missing CEFR/Zipf metadata, and English-only learning text.
-11. After rendering, do a minimal static contract check: confirm the new page has no unresolved `{{PLACEHOLDER}}`, confirm the hero `Word NN`, and confirm `prototypes/word-index.js` contains the new `id`, `href`, `order`, and `checks`.
-12. Browser verification is not required for Payload Mode or Render Mode when the template, CSS, and JS are unchanged. Verify in a browser only when files or UI behavior changed.
+10. After rendering or batch-editing payload/page pairs, run `uv run python scripts/validate_word_pages.py` to catch placeholder drift, old IPA labels, missing CEFR/Zipf metadata, and source-policy drift between payloads and rendered pages.
+11. When you normalize legacy payloads or adjust source choices, update the corresponding rendered page too; do not stop at the JSON payload alone. Prefer `uv run python scripts/normalize_word_sources.py` for batch source-policy cleanup.
+12. After rendering, do a minimal static contract check: confirm the new page has no unresolved `{{PLACEHOLDER}}`, confirm the hero `Word NN`, and confirm `prototypes/word-index.js` contains the new `id`, `href`, `order`, and `checks`.
+13. Browser verification is not required for Payload Mode or Render Mode when the template, CSS, and JS are unchanged. Verify in a browser only when files or UI behavior changed.
 
 ## UI Refinement Mode
 

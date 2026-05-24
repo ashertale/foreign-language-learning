@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Distill",
+    "slug": "distill",
+    "outputPath": "prototypes/distill.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Distill",
+    "WORD_SLUG": "distill",
+    "WORD_LOWER": "distill",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "dih-STIL · UK /dɪˈstɪl/ · US /dɪˈstɪl/",
+    "THESIS": "不是只是摘要，而是把雜質煉掉，留下真正有用、濃縮而清楚的部分。",
+    "LEARNING_POSITION": "把 distill 記成「boil off the noise」：不是縮短字數而已，而是提煉精華。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.97",
+    "CORE_IDEA": "<code>distill</code> 表示從大量材料、經驗或資料裡把最有價值的部分提煉出來，留下更純、更清楚的版本。",
+    "CONCEPT_FOCUS": "核心不是減少數量，而是提高純度與可用性。",
+    "TONE_REGISTER": "可用於化學，也常見於寫作、研究、策略與產品思考；語感比 summarize 更有提煉過程。",
+    "USE_WARNING": "不要把 distill 當成任何簡化都可以用；它暗示你有篩選、沉澱與煉出精華的過程。",
+    "SHORT_DEFINITION": "表示從大量、混雜或複雜的材料裡提純，煉出最核心、最有用的部分。",
+    "CONFUSION_WORD": "Summarize",
+    "CONFUSION_NOTE": "<code>summarize</code> 是把重點列短；<code>distill</code> 更像把雜質蒸掉，只留下最濃的東西。",
+    "FLOW_1": "材料很多",
+    "FLOW_2": "加熱過濾沉澱",
+    "FLOW_3": "留下精華",
+    "ORIGIN_PARAGRAPH": "<code>distill</code> 來自 late Latin <code>distillare</code>，有「一滴一滴落下」的意思，原本就和蒸餾、提純有關，後來才延伸到想法、經驗與資訊。",
+    "ORIGIN_MEMORY": "字源很適合記憶：不是整桶倒出來，而是一滴一滴把最純的部分收集起來。",
+    "MEMORY_HOOK": "<code>distill</code> 是把一整週的 meeting notes 熬成三句真正能用的結論。",
+    "MEMORY_EXPLANATION": "想像桌上有很多混濁液體，你不能直接喝，也不能整桶帶走。distill 就是花工夫把雜質留在鍋裡，把能用的部分收集起來。",
+    "DAILY_USAGE": "看完一本書後，真正有價值的不只是筆記很多，而是你能不能 <code>distill the main idea</code>。",
+    "PROFESSIONAL_USAGE": "debug retrospective 的重點不是把所有 log 貼上去，而是 <code>distill the pattern</code>，讓團隊知道下次該先看哪裡。",
+    "DOMAIN_USAGE": "在策略、研究與產品討論裡，常會說 distill insights，表示從散亂觀察中煉出可行結論。",
+    "COLLOCATION_NOTE": "Distill 常和 idea、insight、lesson、information、experience 搭配，強調提煉而不是轉錄。",
+    "COLLOCATION_1": "distill insights",
+    "REGISTER_1": "產品 / 研究",
+    "COLLOCATION_NOTE_1": "表示從觀察、實驗或訪談中提煉出真正能用的洞見。",
+    "COLLOCATION_2": "distill a complex idea",
+    "REGISTER_2": "寫作 / 教學",
+    "COLLOCATION_NOTE_2": "表示把複雜內容煉成清楚且不失真的版本。",
+    "COLLOCATION_3": "distill lessons learned",
+    "REGISTER_3": "工程 / 專案",
+    "COLLOCATION_NOTE_3": "表示從 incident 或專案經驗中煉出可重用的教訓。",
+    "NEIGHBOR_SELF": "從混雜材料裡提純、煉出精華",
+    "NEIGHBOR_SELF_USE": "談 ideas、insights、lessons、patterns 或 writing synthesis 時",
+    "NEIGHBOR_1": "Summarize",
+    "NEIGHBOR_1_MEANING": "把內容說短、列要點",
+    "NEIGHBOR_1_USE": "當你只需要縮短或概述，而不特別強調提純過程時",
+    "MODERN_USE_1": "現代英文裡，<code>distill</code> 很常用在 writing、strategy、research、product discovery 與 postmortem，因為它把思考過程說得比 summarize 更精準。",
+    "MODERN_USE_2": "在工程語境中，這個字很適合描述從 noisy telemetry、繁雜 logs 或長討論裡煉出真正可行的 next step。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與蒸餾到抽象提煉的延伸義參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/distill",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到 late Latin <code>distillare</code> 與 drop by drop 的蒸餾畫面。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/distill",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在資訊提煉、觀察整理與抽象總結上的用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/distill",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 distill 和 summarize 的差異。",
+    "CHECK_ORIGIN": "我記得 distill 的字源畫面是一滴一滴蒸餾出較純的部分。",
+    "CHECK_SENTENCE": "我能用它造一句 insight、lesson 或 complex idea 情境的英文句子。",
+    "PRACTICE_SENTENCE": "We need to <code>distill</code> the bug report into the three details that actually change the diagnosis.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/distill",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "distill",
+    "word": "Distill",
+    "partOfSpeech": "verb",
+    "href": "./distill.html",
+    "thesis": "不是只是摘要，而是把雜質煉掉，留下真正有用、濃縮而清楚的部分。",
+    "tags": [
+      "提煉",
+      "精華",
+      "summarize",
+      "insight",
+      "distill insights",
+      "writing",
+      "research",
+      "debugging",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 distill 和 summarize 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 distill 的核心畫面是一滴一滴蒸餾"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 insight、lesson 或 complex idea 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/distill",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/distill",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/distill",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

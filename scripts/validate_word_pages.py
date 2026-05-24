@@ -11,20 +11,18 @@ from render_word_page import (
     ROOT,
     TEMPLATE,
     RenderError,
+    compact_text,
     load_payload,
     read_text,
     validate_content_contract,
     validate_placeholders,
+    validate_source_policy,
     validate_target,
 )
 
 
 PAYLOADS = ROOT / "data" / "word-payloads"
 OLD_IPA_LABELS = ("Respelling", "UK IPA", "US IPA")
-
-
-def compact_text(value: str) -> str:
-    return re.sub(r"\s+", " ", value).strip()
 
 
 def html_errors(path: Path, replacements: dict[str, str]) -> list[str]:
@@ -56,6 +54,33 @@ def html_errors(path: Path, replacements: dict[str, str]) -> list[str]:
         if values != expected:
             errors.append("HTML lexical-meta values must match CEFR_LEVEL and ZIPF_FREQUENCY")
 
+    source_cards = re.findall(
+        r'<article class="source-card">\s*<strong>([^<]+)</strong>\s*<p>.*?</p>\s*<a href="([^"]+)" target="_blank" rel="noreferrer">([^<]+)</a>\s*</article>',
+        source,
+        re.DOTALL,
+    )
+    expected_cards = [
+        ("詞典來源", replacements["DICTIONARY_URL"], replacements["DICTIONARY_LABEL"]),
+        ("字源來源", replacements["ETYMOLOGY_URL"], replacements["ETYMOLOGY_LABEL"]),
+        ("現代用法", replacements["MODERN_SOURCE_URL"], replacements["MODERN_SOURCE_LABEL"]),
+    ]
+    normalized_cards = [(compact_text(title), compact_text(url), compact_text(label)) for title, url, label in source_cards]
+    if normalized_cards != expected_cards:
+        errors.append("HTML source-card links must match DICTIONARY/ETYMOLOGY/MODERN source placeholders")
+
+    reference_match = re.search(
+        r'<a class="reference-link" href="([^"]+)" target="_blank" rel="noreferrer">([^<]+)</a>',
+        source,
+        re.DOTALL,
+    )
+    if not reference_match:
+        errors.append("HTML must include reference-link anchor")
+    else:
+        actual_reference = (compact_text(reference_match.group(1)), compact_text(reference_match.group(2)))
+        expected_reference = (replacements["REFERENCE_URL"], replacements["REFERENCE_LABEL"])
+        if actual_reference != expected_reference:
+            errors.append("HTML reference-link must match REFERENCE_URL and REFERENCE_LABEL")
+
     data_speak_count = source.count(" data-speak=")
     if data_speak_count != 1:
         errors.append(f"expected exactly one data-speak button, found {data_speak_count}")
@@ -73,6 +98,7 @@ def validate_payload_page(payload_path: Path) -> list[str]:
         template = read_text(TEMPLATE)
         replacements = validate_placeholders(payload, template)
         validate_content_contract(replacements)
+        validate_source_policy(payload, replacements)
         slug, output_path = validate_target(payload, replacements)
     except RenderError as exc:
         return [str(exc)]

@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Friction",
+    "slug": "friction",
+    "outputPath": "prototypes/friction.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Friction",
+    "WORD_SLUG": "friction",
+    "WORD_LOWER": "friction",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "FRIK-shuhn · UK /ˈfrɪk.ʃən/ · US /ˈfrɪk.ʃən/",
+    "THESIS": "不是只有物理上的摩擦力，而是任何讓移動、溝通、決策或完成事情變慢、變卡、變痛的阻力。",
+    "LEARNING_POSITION": "把 friction 記成「energy lost in the process」：事情本來能滑過去，但中間有地方在磨。",
+    "CEFR_LEVEL": "B2",
+    "ZIPF_FREQUENCY": "4.16",
+    "CORE_IDEA": "<code>friction</code> 指兩件事在接觸或推進時產生的阻力，可以是物理、流程、溝通、組織或心理層面的卡點。",
+    "CONCEPT_FOCUS": "核心不是完全擋住，而是讓前進變得更費力。",
+    "TONE_REGISTER": "日常、工程、UX、產品與人際互動都很自然；它是一個跨領域的高實用字。",
+    "USE_WARNING": "不要只把 friction 翻成 conflict；很多 friction 不是明顯衝突，而是細小但持續讓流程變重的阻力。",
+    "SHORT_DEFINITION": "指讓移動或推進變得不順的阻力，可以是物理接觸，也可以是流程、人際或系統層面的磨擦。",
+    "CONFUSION_WORD": "Obstacle",
+    "CONFUSION_NOTE": "<code>obstacle</code> 像擋在路上的東西；<code>friction</code> 更像一路都能走，但每一步都被磨掉一些力氣。",
+    "FLOW_1": "本來能前進",
+    "FLOW_2": "中間持續磨損",
+    "FLOW_3": "速度與能量被吃掉",
+    "ORIGIN_PARAGRAPH": "<code>friction</code> 來自 Latin <code>fricare</code>，意思是 to rub。這個「摩擦」畫面後來自然延伸到流程、關係與系統中的阻力。",
+    "ORIGIN_MEMORY": "它的隱喻很好記：只要有接觸與移動，就可能有摩擦；不是牆壁擋住你，而是表面一直在磨你。",
+    "MEMORY_HOOK": "<code>friction</code> 是每一步都只卡一點點，最後卻讓整個流程慢很多。",
+    "MEMORY_EXPLANATION": "想像抽屜本來能滑開，但軌道有點乾、有點歪。它不是完全打不開，只是每一次打開都在消耗你額外的力氣。",
+    "DAILY_USAGE": "付款流程如果要填很多欄位，就會增加購買 <code>friction</code>。",
+    "PROFESSIONAL_USAGE": "跨團隊合作時，ownership 不清、資訊不同步、流程切換太多，都是典型的工程 <code>friction</code>。",
+    "DOMAIN_USAGE": "在物理裡 friction 是接觸面上的阻力；在產品設計裡則常指讓使用者難以前進的微小阻礙。",
+    "COLLOCATION_NOTE": "Friction 常和 reduce、point、source、team、user 搭配，因為大家通常想找出阻力從哪裡來、怎麼降低。",
+    "COLLOCATION_1": "reduce friction",
+    "REGISTER_1": "產品 / 流程",
+    "COLLOCATION_NOTE_1": "表示想讓操作、溝通或決策過程更順，少掉不必要的阻力。",
+    "COLLOCATION_2": "friction point",
+    "REGISTER_2": "UX / 分析",
+    "COLLOCATION_NOTE_2": "指流程裡特別容易卡住或流失的節點。",
+    "COLLOCATION_3": "team friction",
+    "REGISTER_3": "協作 / 管理",
+    "COLLOCATION_NOTE_3": "指團隊之間的磨擦與低效率，不一定是正面衝突。",
+    "NEIGHBOR_SELF": "持續性的阻力，讓前進變費力",
+    "NEIGHBOR_SELF_USE": "談 UX、流程、teamwork、physics 或 adoption 時",
+    "NEIGHBOR_1": "Obstacle",
+    "NEIGHBOR_1_MEANING": "明顯擋在路上的障礙",
+    "NEIGHBOR_1_USE": "當某件事直接阻止前進，而不是一路慢慢磨耗時",
+    "MODERN_USE_1": "現代英文裡，<code>friction</code> 已經不只屬於物理課本；在 product、operations、sales、teamwork 與 learning design 裡都非常常見。",
+    "MODERN_USE_2": "在工程與產品語境中，這個字很有力量，因為它讓你把『不順』說得可診斷：不是一句難用而已，而是能指出哪裡在磨掉速度與心力。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與 resistance 的物理及抽象義參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/friction",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到 Latin <code>fricare</code>，to rub。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/friction",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在 resistance、irritation、workflow 與 user-experience 語境中的延伸用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/friction",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 friction 和 obstacle 的差異。",
+    "CHECK_ORIGIN": "我記得 friction 的核心畫面是 rubbing，而不是被牆直接擋住。",
+    "CHECK_SENTENCE": "我能用它造一句 UX、流程或 teamwork 情境的英文句子。",
+    "PRACTICE_SENTENCE": "Each extra confirmation step adds <code>friction</code> to the update flow.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/friction",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "friction",
+    "word": "Friction",
+    "partOfSpeech": "noun",
+    "href": "./friction.html",
+    "thesis": "不是只有物理上的摩擦力，而是任何讓移動、溝通、決策或完成事情變慢、變卡、變痛的阻力。",
+    "tags": [
+      "摩擦",
+      "阻力",
+      "resistance",
+      "obstacle",
+      "reduce friction",
+      "UX",
+      "teamwork",
+      "physics",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 friction 和 obstacle 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 friction 的核心畫面是 rubbing"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 UX、流程或 teamwork 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/friction",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/friction",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/friction",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -50,7 +50,7 @@
     "MODERN_USE_2": "網路上常見的 <code>liminal space</code> 用法，通常不是嚴格的學術定義，而是借用「門檻、過渡、非日常」來描述空蕩、熟悉又陌生的場景。學習時要記得：網路美學是延伸用法，不要反過來把它當成唯一意思。",
     "DICTIONARY_SOURCE_NOTE": "基本定義、形容詞詞性與 IPA 參考 Oxford Learner's Dictionaries、Cambridge Pronunciation 與 Merriam-Webster。",
     "DICTIONARY_URL": "https://www.oxfordlearnersdictionaries.com/us/definition/english/liminal",
-    "DICTIONARY_LABEL": "Oxford Learner's",
+    "DICTIONARY_LABEL": "Oxford Learner's Dictionaries",
     "ETYMOLOGY_SOURCE_NOTE": "<code>limen</code>、<code>limin-</code> 與「threshold」的字源線索，參考 Online Etymology Dictionary 與 Merriam-Webster Word History。",
     "ETYMOLOGY_URL": "https://www.etymonline.com/word/liminal",
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
@@ -61,8 +61,8 @@
     "CHECK_ORIGIN": "我記得它來自 Latin <code>limen</code>，和 threshold 有關。",
     "CHECK_SENTENCE": "我能用它造一句關於人生階段、空間或心理狀態的英文句子。",
     "PRACTICE_SENTENCE": "After graduation, she lived in a <code>liminal</code> state, no longer a student but not yet settled into her new work life.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/us/pronunciation/english/liminal",
-    "REFERENCE_LABEL": "Cambridge Pronunciation"
+    "REFERENCE_URL": "https://www.oxfordlearnersdictionaries.com/us/definition/english/liminal",
+    "REFERENCE_LABEL": "Oxford Learner's Dictionaries"
   },
   "indexEntry": {
     "id": "liminal",
@@ -98,15 +98,15 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Oxford Learner's",
+      "label": "Oxford Learner's Dictionaries",
       "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/liminal",
       "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",

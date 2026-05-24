@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持它和市場、局勢、物質與情緒等語境搭配。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/volatile",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 volatile 和 variable 的差異。",
     "CHECK_ORIGIN": "我記得它來自 Latin <code>volare</code>，to fly。",
     "CHECK_SENTENCE": "我能用它造一句市場、情緒、化學或工程狀態的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: volatile",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/volatile",
-      "usedFor": "IPA、基本定義與形容詞用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: volatile",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/volatile",
-      "usedFor": "Latin volare 與 to fly 的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/volatile",
-      "usedFor": "markets、situations、substances、emotions 等現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

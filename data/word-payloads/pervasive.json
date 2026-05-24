@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持 problem、influence、uncertainty、language 與 software/business influence 等語境。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/pervasive",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 pervasive 和 common 的差異。",
     "CHECK_ORIGIN": "我記得 pervasive 的核心畫面是 go through every part。",
     "CHECK_SENTENCE": "我能用 pervasive 造一句 problem、influence、bias 或 assumption 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: pervasive",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/pervasive",
-      "usedFor": "基本定義、發音與語氣邊界"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: pervasive",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/pervasive",
-      "usedFor": "Latin pervadere 與 go through 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/pervasive",
-      "usedFor": "problem、influence、uncertainty、culture 的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

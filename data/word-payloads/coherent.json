@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持它和 speech、arguments、ideas、plans、theories 等語境搭配。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/coherent",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 coherent 和 clear 的差異。",
     "CHECK_ORIGIN": "我記得它來自「stick together」的畫面。",
     "CHECK_SENTENCE": "我能用它造一句文件、設計或論證情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: coherent",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/coherent",
-      "usedFor": "IPA、基本定義與形容詞用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: coherent",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/coherent",
-      "usedFor": "Latin cohaerere 與 stick together 的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/coherent",
-      "usedFor": "speech、arguments、ideas、plans、theories 等現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

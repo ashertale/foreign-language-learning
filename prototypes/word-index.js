@@ -1403,5 +1403,355 @@ window.WORD_INDEX = [
         label: "用 granular 造一句 data、logs、control 或 permissions 情境的英文句子"
       }
     ]
+  },
+  {
+    id: "contingent",
+    word: "Contingent",
+    partOfSpeech: "adjective",
+    href: "./contingent.html",
+    order: 41,
+    cefr: "C1",
+    zipf: 3.18,
+    thesis: "不是單純的「有關」，而是事情是否成立、發生或值得做，取決於某個條件是否成立。",
+    tags: [
+      "條件式",
+      "取決於",
+      "conditional",
+      "dependent",
+      "contingent on",
+      "approval",
+      "project management",
+      "legal",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 contingent 和 dependent 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 contingent 的核心畫面是結果懸在條件上"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 approval、validation 或 contract 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "elusive",
+    word: "Elusive",
+    partOfSpeech: "adjective",
+    href: "./elusive.html",
+    order: 42,
+    cefr: "C1",
+    zipf: 3.44,
+    thesis: "不是單純不存在，而是你知道它在那裡，但一想抓清楚、確認或描述，它就又滑掉。",
+    tags: [
+      "難以捉摸",
+      "滑開",
+      "hard to pin down",
+      "vague",
+      "elusive bug",
+      "answer",
+      "debugging",
+      "analysis",
+      "adjective"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 elusive 和 vague 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 elusive 的核心畫面是目標會閃開"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 bug、answer 或 goal 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "distill",
+    word: "Distill",
+    partOfSpeech: "verb",
+    href: "./distill.html",
+    order: 43,
+    cefr: "C2",
+    zipf: 2.97,
+    thesis: "不是只是摘要，而是把雜質煉掉，留下真正有用、濃縮而清楚的部分。",
+    tags: [
+      "提煉",
+      "精華",
+      "summarize",
+      "insight",
+      "distill insights",
+      "writing",
+      "research",
+      "debugging",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 distill 和 summarize 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 distill 的核心畫面是一滴一滴蒸餾"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 insight、lesson 或 complex idea 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "friction",
+    word: "Friction",
+    partOfSpeech: "noun",
+    href: "./friction.html",
+    order: 44,
+    cefr: "B2",
+    zipf: 4.16,
+    thesis: "不是只有物理上的摩擦力，而是任何讓移動、溝通、決策或完成事情變慢、變卡、變痛的阻力。",
+    tags: [
+      "摩擦",
+      "阻力",
+      "resistance",
+      "obstacle",
+      "reduce friction",
+      "UX",
+      "teamwork",
+      "physics",
+      "noun"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 friction 和 obstacle 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 friction 的核心畫面是 rubbing"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 UX、流程或 teamwork 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "inertia",
+    word: "Inertia",
+    partOfSpeech: "noun",
+    href: "./inertia.html",
+    order: 45,
+    cefr: "C1",
+    zipf: 3.58,
+    thesis: "不是懶惰，而是系統、人或組織一旦停在某個狀態，就傾向繼續停在那裡。",
+    tags: [
+      "慣性",
+      "維持原狀",
+      "laziness",
+      "organizational inertia",
+      "system inertia",
+      "change management",
+      "physics",
+      "habits",
+      "noun"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inertia 和 laziness 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 inertia 的重點是 change needs force"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 habit、system 或 organizational change 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "cascade",
+    word: "Cascade",
+    partOfSpeech: "verb",
+    href: "./cascade.html",
+    order: 46,
+    cefr: "C1",
+    zipf: 3.41,
+    thesis: "不是單一變化向外擴散，而是一層推一層，讓影響沿著結構一路往下傳。",
+    tags: [
+      "連鎖",
+      "層層傳遞",
+      "spread",
+      "cascade through",
+      "cascading failure",
+      "distributed systems",
+      "dependencies",
+      "incident",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cascade 和 spread 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 cascade 的核心畫面是瀑布沿層次往下流"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 dependency、failure 或 style change 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "triage",
+    word: "Triage",
+    partOfSpeech: "verb",
+    href: "./triage.html",
+    order: 47,
+    cefr: "C2",
+    zipf: 2.84,
+    thesis: "不是把所有問題一起處理，而是先快速判斷誰最急、誰最重要、誰可以稍後。",
+    tags: [
+      "分級處理",
+      "先分流",
+      "prioritize",
+      "triage incoming bugs",
+      "incident response",
+      "support queue",
+      "SRE",
+      "operations",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 triage 和 prioritize 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 triage 的核心是資源不足下的分級"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 bug、incident 或 ticket queue 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "stagnate",
+    word: "Stagnate",
+    partOfSpeech: "verb",
+    href: "./stagnate.html",
+    order: 48,
+    cefr: "C2",
+    zipf: 2.89,
+    thesis: "不是短暫停一下，而是本來該流動、更新或成長的東西卡住不動，久了還會變質。",
+    tags: [
+      "停滯",
+      "不流動",
+      "pause",
+      "growth stagnates",
+      "career",
+      "learning",
+      "discussion",
+      "economy",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 stagnate 和 pause 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 stagnate 的核心畫面是 standing water"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 growth、career 或 discussion 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "coax",
+    word: "Coax",
+    partOfSpeech: "verb",
+    href: "./coax.html",
+    order: 49,
+    cefr: "C2",
+    zipf: 3.08,
+    thesis: "不是命令或硬推，而是用耐心、細微調整和一點說服，把東西慢慢引出來。",
+    tags: [
+      "哄出",
+      "引導出",
+      "force",
+      "coax out",
+      "gentle persuasion",
+      "debugging",
+      "experiments",
+      "interpersonal",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 coax 和 force 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 coax 的核心是溫和引導，而不是硬推"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句人際、實驗或 debug 情境的英文句子"
+      }
+    ]
+  },
+  {
+    id: "hinge",
+    word: "Hinge",
+    partOfSpeech: "verb",
+    href: "./hinge.html",
+    order: 50,
+    cefr: "C1",
+    zipf: 3.34,
+    thesis: "不是單純有關，而是整件事的成敗、方向或解釋，繫在那個關鍵轉軸上。",
+    tags: [
+      "轉軸",
+      "關鍵支點",
+      "depend on",
+      "hinge on",
+      "timing",
+      "assumption",
+      "argument",
+      "debugging",
+      "verb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 hinge 和 depend 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得 hinge 的核心畫面是門靠鉸鏈開合"
+      },
+      {
+        id: "sentence",
+        label: "用它造一句 timing、assumption 或 user trust 情境的英文句子"
+      }
+    ]
   }
 ];

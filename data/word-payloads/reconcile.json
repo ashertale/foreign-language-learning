@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持人際、事實一致性、ideal with reality 與接受 unpleasant fact 的用法。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/reconcile",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 reconcile 和 compromise 的差異。",
     "CHECK_ORIGIN": "我記得 reconcile 的核心畫面是 bring together again。",
     "CHECK_SENTENCE": "我能用 reconcile 造一句 data、requirements、differences 或 reality 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: reconcile",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/reconcile",
-      "usedFor": "基本定義、發音與主要用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: reconcile",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/reconcile",
-      "usedFor": "Latin reconciliare 與 bring together again 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/reconcile",
-      "usedFor": "人際、資料一致性與理想現實調和的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

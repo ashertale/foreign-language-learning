@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: cogent",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/us/dictionary/english/cogent",
-      "usedFor": "IPA、基本定義與形容詞用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: cogent",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/cogent",
-      "usedFor": "Latin cogere 與 compel、collect、drive together 的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster: cogent",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/cogent",
-      "usedFor": "arguments、explanations、analysis、persuasive reasoning 等現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

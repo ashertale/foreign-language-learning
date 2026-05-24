@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Hinge",
+    "slug": "hinge",
+    "outputPath": "prototypes/hinge.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Hinge",
+    "WORD_SLUG": "hinge",
+    "WORD_LOWER": "hinge",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "hinj · UK /hɪndʒ/ · US /hɪndʒ/",
+    "THESIS": "不是單純有關，而是整件事的成敗、方向或解釋，繫在那個關鍵轉軸上。",
+    "LEARNING_POSITION": "把 hinge 記成「pivot point of the whole structure」：看起來是一個小點，卻決定整體怎麼開合。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.34",
+    "CORE_IDEA": "<code>hinge</code> 表示某件事的結果、有效性或解釋取決於一個關鍵因素，就像門的開合取決於鉸鏈。",
+    "CONCEPT_FOCUS": "核心不是廣義依賴，而是整體圍著某個小而關鍵的支點轉。",
+    "TONE_REGISTER": "日常、分析、論證與工程討論都自然；語氣比 depend on 更有結構感與畫面。",
+    "USE_WARNING": "不要把 hinge 用在隨便的因果關係；它適合那種 truly pivotal 的條件，一變整體就跟著轉。",
+    "SHORT_DEFINITION": "表示整件事的結果或方向關鍵地取決於某個支點般的重要因素；那個因素一變，整體就會跟著轉。",
+    "CONFUSION_WORD": "Depend",
+    "CONFUSION_NOTE": "<code>depend on</code> 很中性；<code>hinge on</code> 更強調那個因素是整體運作的轉軸。",
+    "FLOW_1": "整體架構在那裡",
+    "FLOW_2": "關鍵支點決定方向",
+    "FLOW_3": "整體跟著開合",
+    "ORIGIN_PARAGRAPH": "<code>hinge</code> 原本就是門窗的鉸鏈。這個具體物件後來自然延伸成抽象動詞：整件事的開與關，取決於那個看似小但不可少的轉軸。",
+    "ORIGIN_MEMORY": "它很好記，因為幾乎不用額外想像。只要想門再漂亮，沒有鉸鏈就開不起來，抽象義就跟著出來了。",
+    "MEMORY_HOOK": "<code>hinge</code> 是專案上那個小但關鍵的前提，一鬆動，整個判斷都要重來。",
+    "MEMORY_EXPLANATION": "想像一扇巨大的門，視覺焦點可能不在鉸鏈上，但真正決定能不能轉動的，就是那個小小的金屬支點。",
+    "DAILY_USAGE": "週末行程可能 <code>hinge on</code> whether everyone can leave work on time.",
+    "PROFESSIONAL_USAGE": "root cause 的判斷常常 <code>hinge on</code> one overlooked timing detail；那個細節一改，整個結論都要翻。",
+    "DOMAIN_USAGE": "在論證、談判、架構設計與產品決策裡，hinge on 很適合指出真正的 pivotal variable。",
+    "COLLOCATION_NOTE": "Hinge 幾乎最自然的形式就是 <code>hinge on</code>；你要找的是那個讓整體轉向的支點。",
+    "COLLOCATION_1": "hinge on timing",
+    "REGISTER_1": "工程 / 分析",
+    "COLLOCATION_NOTE_1": "表示結果取決於時間窗或事件順序這個關鍵支點。",
+    "COLLOCATION_2": "hinge on one assumption",
+    "REGISTER_2": "論證 / 決策",
+    "COLLOCATION_NOTE_2": "表示整個推理是否站得住，繫於某個核心假設。",
+    "COLLOCATION_3": "hinge on user trust",
+    "REGISTER_3": "產品 / 商業",
+    "COLLOCATION_NOTE_3": "表示成功與否主要取決於能不能建立那個關鍵條件。",
+    "NEIGHBOR_SELF": "整體圍著一個關鍵支點轉",
+    "NEIGHBOR_SELF_USE": "談 timing、assumptions、trust、approval 或 pivotal variables 時",
+    "NEIGHBOR_1": "Depend",
+    "NEIGHBOR_1_MEANING": "一般性的依賴關係",
+    "NEIGHBOR_1_USE": "當你不需要特別強調那個因素是整體的 pivot point 時",
+    "MODERN_USE_1": "現代英文裡，<code>hinge on</code> 常出現在 argument、negotiation、investigation、design decision 與 product strategy，因為它能精準指出真正的支點在哪裡。",
+    "MODERN_USE_2": "在工程語境中，它很適合說明 diagnosis、workaround 或 release decision：不是很多因素平均重要，而是整體判斷其實繫在某一個細節上。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與 hinge on 的抽象依賴義參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/hinge",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，從門鉸鏈的具體義延伸到抽象 pivot 的用法。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/hinge",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在 hinge on timing、assumption、trust 等語境中的用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/hinge",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 hinge 和 depend 的差異。",
+    "CHECK_ORIGIN": "我記得 hinge 的核心畫面是門靠鉸鏈開合，所以抽象上是 pivot point。",
+    "CHECK_SENTENCE": "我能用它造一句 timing、assumption 或 user trust 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The final diagnosis may <code>hinge</code> on whether the reset happens before or after the interrupt is latched.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/hinge",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "hinge",
+    "word": "Hinge",
+    "partOfSpeech": "verb",
+    "href": "./hinge.html",
+    "thesis": "不是單純有關，而是整件事的成敗、方向或解釋，繫在那個關鍵轉軸上。",
+    "tags": [
+      "轉軸",
+      "關鍵支點",
+      "depend on",
+      "hinge on",
+      "timing",
+      "assumption",
+      "argument",
+      "debugging",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 hinge 和 depend 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 hinge 的核心畫面是門靠鉸鏈開合"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 timing、assumption 或 user trust 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/hinge",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/hinge",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/hinge",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

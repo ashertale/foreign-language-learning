@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句涵蓋路徑、意見、人群、經濟現象，以及價格或數值逐漸變得相近。",
     "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
-    "MODERN_SOURCE_LABEL": "Cambridge examples",
+    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
     "CHECK_MEANING": "我能說出 <code>converge</code> 和 <code>merge</code> 的差異。",
     "CHECK_ORIGIN": "我記得它來自「一起」加上「彎向、轉向」的字源畫面。",
     "CHECK_SENTENCE": "我能用它造一句 debug、演算法或團隊共識情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: converge",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/us/dictionary/english/converge",
-      "usedFor": "IPA、基本定義與動詞用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: converge",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/converge",
-      "usedFor": "Late Latin convergere 與 together、bend toward 的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Cambridge examples: converge",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/us/dictionary/english/converge",
-      "usedFor": "paths、opinions、groups、economics、prices 等現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持 themes、frameworks、boundaries、networks、trajectories 等分析性用法。",
     "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/delineate",
-    "MODERN_SOURCE_LABEL": "Cambridge examples",
+    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
     "CHECK_MEANING": "我能說出 delineate 和 describe 的差異。",
     "CHECK_ORIGIN": "我記得 delineate 的核心畫面是 draw lines。",
     "CHECK_SENTENCE": "我能用 delineate 造一句 scope、responsibility 或 boundary 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: delineate",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/delineate",
-      "usedFor": "UK/US IPA、正式語域與基本定義"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: delineate",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/delineate",
-      "usedFor": "Latin delineare、linea 與 draw lines 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Cambridge examples",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/delineate",
-      "usedFor": "研究、邊界、框架與完整描述的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持 granular account、granular security contract、granular details 等資料與描述粒度用法。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/granular",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 granular 和 detailed 的差異。",
     "CHECK_ORIGIN": "我記得 granular 的核心畫面是 little grains。",
     "CHECK_SENTENCE": "我能用 granular 造一句 data、logs、control 或 permissions 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: granular",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/granular",
-      "usedFor": "基本定義、發音與 finely detailed 延伸義"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: granular",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/granular",
-      "usedFor": "Late Latin granulum、granum 與 little grain 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/granular",
-      "usedFor": "資料、報告、權限與控制粒度的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

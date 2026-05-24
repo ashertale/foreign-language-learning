@@ -101,13 +101,13 @@
       "category": "dictionary-pronunciation",
       "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/meticulous",
-      "usedFor": "IPA、基本定義與商務用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",

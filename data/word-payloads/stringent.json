@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代用法支持 procedures、requirements、rules、standards、budgets 等限制嚴格的語境。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/stringent",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 stringent 和 strict 的差異。",
     "CHECK_ORIGIN": "我記得 stringent 的字源畫面是 bind tight。",
     "CHECK_SENTENCE": "我能用 stringent 造一句 requirement、standard 或 security control 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: stringent",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/stringent",
-      "usedFor": "基本定義、發音與 strict/rigorous 邊界"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: stringent",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/stringent",
-      "usedFor": "Latin stringere 與 bind tight 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/stringent",
-      "usedFor": "requirements、rules、procedures、budgets 的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

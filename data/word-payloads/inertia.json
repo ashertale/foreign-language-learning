@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Inertia",
+    "slug": "inertia",
+    "outputPath": "prototypes/inertia.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Inertia",
+    "WORD_SLUG": "inertia",
+    "WORD_LOWER": "inertia",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "ih-NUR-shuh · UK /ɪˈnɜː.ʃə/ · US /ɪˈnɝː.ʃə/",
+    "THESIS": "不是懶惰，而是系統、人或組織一旦停在某個狀態，就傾向繼續停在那裡。",
+    "LEARNING_POSITION": "把 inertia 記成「state wants to keep itself」：不論是靜止還是既有方向，都會抗拒改變。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.58",
+    "CORE_IDEA": "<code>inertia</code> 指一個物體、系統或習慣對改變現狀的抗拒力；沒有額外作用時，它會傾向維持原本的狀態。",
+    "CONCEPT_FOCUS": "核心不是不作為的道德判斷，而是 change requires force 這件事。",
+    "TONE_REGISTER": "物理、心理、組織與產品演化都常用；語氣比 laziness 更中性、更結構化。",
+    "USE_WARNING": "不要把 inertia 簡化成 lazy；它常描述的是結構慣性，不一定是個人不願意努力。",
+    "SHORT_DEFINITION": "指物體、系統或習慣傾向維持原有狀態；若沒有額外推力，就不容易改變位置、方向或節奏。",
+    "CONFUSION_WORD": "Laziness",
+    "CONFUSION_NOTE": "<code>laziness</code> 帶有個人意願與評價；<code>inertia</code> 更像系統或狀態本身在抗拒改變。",
+    "FLOW_1": "既有狀態",
+    "FLOW_2": "缺少外力推動",
+    "FLOW_3": "繼續維持原樣",
+    "ORIGIN_PARAGRAPH": "<code>inertia</code> 來自 Latin <code>iners</code>，原本有 idle、inactive 的脈絡，後來在物理學裡變成更精確的概念：維持原有狀態的傾向。",
+    "ORIGIN_MEMORY": "這個字很值得從 moral judgment 拉回 system behavior。它不是在罵人，而是在描述 change 本來就需要額外力量。",
+    "MEMORY_HOOK": "<code>inertia</code> 是知道該改，但整個系統還是沿著舊軌道往前滑。",
+    "MEMORY_EXPLANATION": "想像一台很重的推車，不是推不動，而是你需要先克服那個『原本就待在那裡』的力量。很多流程和習慣也是這樣。",
+    "DAILY_USAGE": "假日賴在床上有時不是單純懶，而是起床前的 <code>inertia</code> 太強。",
+    "PROFESSIONAL_USAGE": "legacy process 的 <code>inertia</code> 常讓大家即使知道工具過時，還是繼續用舊方法。",
+    "DOMAIN_USAGE": "物理裡 inertia 是維持靜止或等速運動的傾向；在組織與產品語境中，則常指改變推不動的慣性。",
+    "COLLOCATION_NOTE": "Inertia 常和 organizational、institutional、market、system 搭配，用來描述大東西為什麼不容易轉向。",
+    "COLLOCATION_1": "organizational inertia",
+    "REGISTER_1": "管理 / 組織",
+    "COLLOCATION_NOTE_1": "指組織因流程、習慣或權責結構而難以改變方向。",
+    "COLLOCATION_2": "overcome inertia",
+    "REGISTER_2": "一般 / 專業",
+    "COLLOCATION_NOTE_2": "表示需要額外推力才能從原狀動起來。",
+    "COLLOCATION_3": "system inertia",
+    "REGISTER_3": "工程 / 產品",
+    "COLLOCATION_NOTE_3": "指整個系統對新做法、新工具或新節奏的抗拒。",
+    "NEIGHBOR_SELF": "維持現狀的慣性，需要外力才改變",
+    "NEIGHBOR_SELF_USE": "談 physics、habits、legacy systems 或 organizational change 時",
+    "NEIGHBOR_1": "Laziness",
+    "NEIGHBOR_1_MEANING": "偏向個人不想做的評價",
+    "NEIGHBOR_1_USE": "當你要談的是意願不足，而不是結構慣性時",
+    "MODERN_USE_1": "現代英文裡，<code>inertia</code> 除了物理學，也很常出現在 business、policy、product adoption 與 personal habit change。",
+    "MODERN_USE_2": "在工程語境中，它很適合描述 migration、process reform、tooling change 或 team habit：大家不是不知道要改，而是系統還在拉著原方向前進。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與物理到抽象慣性的義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/inertia",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到 Latin <code>iners</code> 與後來的物理學精確化。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/inertia",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在物理、習慣、組織與變革阻力上的用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/inertia",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 inertia 和 laziness 的差異。",
+    "CHECK_ORIGIN": "我記得 inertia 的重點是 change needs force，而不是單純在責怪人。",
+    "CHECK_SENTENCE": "我能用它造一句 habit、system 或 organizational change 情境的英文句子。",
+    "PRACTICE_SENTENCE": "Tooling <code>inertia</code> kept the team on the old workflow long after the better option was available.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/inertia",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "inertia",
+    "word": "Inertia",
+    "partOfSpeech": "noun",
+    "href": "./inertia.html",
+    "thesis": "不是懶惰，而是系統、人或組織一旦停在某個狀態，就傾向繼續停在那裡。",
+    "tags": [
+      "慣性",
+      "維持原狀",
+      "laziness",
+      "organizational inertia",
+      "system inertia",
+      "change management",
+      "physics",
+      "habits",
+      "noun"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 inertia 和 laziness 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 inertia 的重點是 change needs force"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 habit、system 或 organizational change 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/inertia",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/inertia",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/inertia",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

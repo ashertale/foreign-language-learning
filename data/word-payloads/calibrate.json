@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代用法包含儀器、雷達、模型、劑量與抽象判斷的精準調整。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/calibrate",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 calibrate 和 adjust 的差異。",
     "CHECK_ORIGIN": "我記得 calibrate 的核心畫面是拿標準校正刻度。",
     "CHECK_SENTENCE": "我能用 calibrate 造一句關於 sensor、model 或 expectation 的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: calibrate",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/calibrate",
-      "usedFor": "UK/US IPA、工程與科學定義"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: calibrate",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/calibrate",
-      "usedFor": "caliber、刻度與量測標準的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster: calibrate",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/calibrate",
-      "usedFor": "儀器、模型、劑量與抽象調整的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

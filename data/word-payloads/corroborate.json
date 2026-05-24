@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持 witnesses、documents、camera footage、studies 等提供 corroboration 的用法。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/corroborate",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 corroborate 和 confirm 的差異。",
     "CHECK_ORIGIN": "我記得 corroborate 的字源核心是 strengthen by evidence。",
     "CHECK_SENTENCE": "我能用 corroborate 造一句 log、testimony、claim 或 hypothesis 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: corroborate",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/corroborate",
-      "usedFor": "基本定義、發音與 synonym boundary"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: corroborate",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/corroborate",
-      "usedFor": "Latin corroborare、robur 與 strengthen 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/corroborate",
-      "usedFor": "法律、研究、新聞與證據補強的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

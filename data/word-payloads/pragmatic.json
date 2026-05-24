@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "Cambridge corpus 例句顯示它常用於商務、研究、記號系統與實用推理語境。",
     "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
-    "MODERN_SOURCE_LABEL": "Cambridge examples",
+    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
     "CHECK_MEANING": "我能說出 <code>pragmatic</code> 和 <code>practical</code> 的差異。",
     "CHECK_ORIGIN": "我記得它和 Greek <code>pragma</code>「事情、行動、已完成之事」有關。",
     "CHECK_SENTENCE": "我能用它造一句工程、決策或專案取捨情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: pragmatic",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
-      "usedFor": "IPA、基本定義與形容詞用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: pragmatic",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/pragmatic",
-      "usedFor": "Greek pragma 與 deed、matter、thing done 的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Cambridge examples: pragmatic",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
-      "usedFor": "business、research、practical reasoning 等現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

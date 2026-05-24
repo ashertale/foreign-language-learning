@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持它用於 language、expression 與描述脈絡中會影響解讀的小差異。",
     "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
-    "MODERN_SOURCE_LABEL": "Cambridge examples",
+    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
     "CHECK_MEANING": "我能說出 <code>nuance</code> 和 <code>detail</code> 的差異。",
     "CHECK_ORIGIN": "我記得它和雲、陰影、色階變化的字源畫面有關。",
     "CHECK_SENTENCE": "我能用它造一句需求、翻譯或人際語氣情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: nuance",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/nuance",
-      "usedFor": "IPA、基本定義與名詞用法"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: nuance",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/nuance",
-      "usedFor": "French nuance、shade of color 與雲影畫面的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Cambridge examples: nuance",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/nuance",
-      "usedFor": "language、expression、interpretation 等現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

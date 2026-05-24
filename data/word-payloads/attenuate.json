@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代例句支持它和 sound、impact、virus、light、capability 等削弱語境搭配。",
     "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/attenuate",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster examples",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
     "CHECK_MEANING": "我能說出 attenuate 和 eliminate 的差異。",
     "CHECK_ORIGIN": "我記得 attenuate 的核心畫面是 make thin。",
     "CHECK_SENTENCE": "我能用 attenuate 造一句 signal、noise、risk 或 impact 情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Merriam-Webster: attenuate",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/attenuate",
-      "usedFor": "基本定義、發音與技術語境"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq-style Zipf",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 估計"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: attenuate",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/attenuate",
-      "usedFor": "Latin attenuare、tenuis 與 make thin 的字源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Merriam-Webster examples",
+      "label": "Merriam-Webster",
       "url": "https://www.merriam-webster.com/dictionary/attenuate",
-      "usedFor": "訊號、醫學、聲音與影響削弱的現代用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

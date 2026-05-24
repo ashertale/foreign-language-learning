@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Elusive",
+    "slug": "elusive",
+    "outputPath": "prototypes/elusive.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Elusive",
+    "WORD_SLUG": "elusive",
+    "WORD_LOWER": "elusive",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "ih-LOO-siv · UK /ɪˈluː.sɪv/ · US /ɪˈluː.sɪv/",
+    "THESIS": "不是單純不存在，而是你知道它在那裡，但一想抓清楚、確認或描述，它就又滑掉。",
+    "LEARNING_POSITION": "把 elusive 記成「hard to pin down」：目標不是空白，而是一直在你手邊躲開。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.44",
+    "CORE_IDEA": "<code>elusive</code> 描述某個答案、問題、機會或生物難以被抓住、確認、描述或穩定重現。",
+    "CONCEPT_FOCUS": "核心不是沒有，而是反覆接近卻抓不牢。",
+    "TONE_REGISTER": "文學、分析、研究與 debugging 都自然；有一點滑開、逃逸的語感。",
+    "USE_WARNING": "不要把 elusive 當成 vague；<code>vague</code> 是本身不清楚，<code>elusive</code> 是你很努力追，但它不好抓。",
+    "SHORT_DEFINITION": "形容某個答案、目標或問題看似存在且接近，卻難以抓住、定義、確認或達成。",
+    "CONFUSION_WORD": "Vague",
+    "CONFUSION_NOTE": "<code>vague</code> 偏向訊息本身模糊；<code>elusive</code> 強調目標在逃、難以掌握。",
+    "FLOW_1": "看似有線索",
+    "FLOW_2": "一靠近就滑開",
+    "FLOW_3": "難以抓定或重現",
+    "ORIGIN_PARAGRAPH": "<code>elusive</code> 來自 Latin <code>eludere</code>，有「逃開、戲弄、閃避」的脈絡，所以這個字常帶一種你以為快抓到，結果又被閃過的感覺。",
+    "ORIGIN_MEMORY": "它不是靜止地藏在角落，而像一個會閃身的目標。這也是為什麼它比 hidden 更有動態感。",
+    "MEMORY_HOOK": "<code>elusive</code> 是那個只在客戶現場出現、回到 lab 就不見的 bug。",
+    "MEMORY_EXPLANATION": "想像你在追一條魚，水面偶爾有動靜，你知道它就在附近，但手一伸進去，它就滑走了。",
+    "DAILY_USAGE": "有時候睡意很累人，但真正的好睡眠卻很 <code>elusive</code>。",
+    "PROFESSIONAL_USAGE": "如果 root cause 一直重現不了、log 又不夠完整，問題就會變得 <code>elusive</code>。",
+    "DOMAIN_USAGE": "研究或產品分析也會說 an elusive pattern，表示你感覺趨勢存在，但還抓不到穩定證據。",
+    "COLLOCATION_NOTE": "Elusive 常和 bug、answer、goal、truth、pattern、quality 搭配，都是在追一個不容易固定住的東西。",
+    "COLLOCATION_1": "elusive bug",
+    "REGISTER_1": "工程 / debugging",
+    "COLLOCATION_NOTE_1": "指很難穩定重現、很難定位成因的問題。",
+    "COLLOCATION_2": "remain elusive",
+    "REGISTER_2": "一般 / 正式",
+    "COLLOCATION_NOTE_2": "表示答案、成功或解法至今還是抓不到。",
+    "COLLOCATION_3": "elusive answer",
+    "REGISTER_3": "分析 / 寫作",
+    "COLLOCATION_NOTE_3": "表示看似接近，但始終沒被明確說清楚的答案。",
+    "NEIGHBOR_SELF": "目標存在，但不容易抓住或定義",
+    "NEIGHBOR_SELF_USE": "談 bug、answer、goal、sleep、pattern 這類接近卻抓不牢的東西",
+    "NEIGHBOR_1": "Vague",
+    "NEIGHBOR_1_MEANING": "內容本身模糊、不夠明確",
+    "NEIGHBOR_1_USE": "當重點是訊息說得不清楚，而不是目標難以捕捉時",
+    "MODERN_USE_1": "現代英文裡，<code>elusive</code> 常用來形容答案、成功、平衡、sleep、suspect 或 software defect，很適合說那種一直在邊緣但抓不實的狀態。",
+    "MODERN_USE_2": "在工程語境中，它比 difficult 更精準，因為它把「難」說成一種逃逸感：你不是完全沒線索，而是每次要確認時它又躲掉。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與 difficult to find or capture 的核心語義參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/elusive",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到 Latin <code>eludere</code> 的逃避、戲弄脈絡。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/elusive",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在答案、成功、bug 與抽象目標上的延伸用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/elusive",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 elusive 和 vague 的差異。",
+    "CHECK_ORIGIN": "我記得 elusive 的畫面是目標一直閃開，不是單純藏起來。",
+    "CHECK_SENTENCE": "我能用它造一句 bug、answer 或 goal 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The failure mode is <code>elusive</code> because it disappears as soon as extra logging is enabled.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/elusive",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "elusive",
+    "word": "Elusive",
+    "partOfSpeech": "adjective",
+    "href": "./elusive.html",
+    "thesis": "不是單純不存在，而是你知道它在那裡，但一想抓清楚、確認或描述，它就又滑掉。",
+    "tags": [
+      "難以捉摸",
+      "滑開",
+      "hard to pin down",
+      "vague",
+      "elusive bug",
+      "answer",
+      "debugging",
+      "analysis",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 elusive 和 vague 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 elusive 的核心畫面是目標會閃開"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 bug、answer 或 goal 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/elusive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/elusive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/elusive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Contingent",
+    "slug": "contingent",
+    "outputPath": "prototypes/contingent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Contingent",
+    "WORD_SLUG": "contingent",
+    "WORD_LOWER": "contingent",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "kuhn-TIN-juhnt · UK /kənˈtɪn.dʒənt/ · US /kənˈtɪn.dʒənt/",
+    "THESIS": "不是單純的「有關」，而是事情是否成立、發生或值得做，取決於某個條件是否成立。",
+    "LEARNING_POSITION": "把 contingent 記成「hanging on a condition」：結果還沒落地，它先懸在前提上。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.18",
+    "CORE_IDEA": "<code>contingent</code> 描述一個結果、安排或判斷要不要成立，取決於某個條件、事件或前提有沒有先發生。",
+    "CONCEPT_FOCUS": "核心不是一般依賴，而是條件未定，所以結果也暫時未定。",
+    "TONE_REGISTER": "正式、商務、專案、法律與分析語境都常見；語氣比 everyday 的 depend on 更精準。",
+    "USE_WARNING": "不要把 contingent 當成 merely related；它強調 conditionality，也常帶一點不確定與等待條件落地的感覺。",
+    "SHORT_DEFINITION": "形容結果或安排取決於另一個條件是否先成立；條件未定時，事情也還不能算定案。",
+    "CONFUSION_WORD": "Dependent",
+    "CONFUSION_NOTE": "<code>dependent</code> 只說依賴關係；<code>contingent</code> 更強調「取決於某條件是否成立」以及那份未決狀態。",
+    "FLOW_1": "條件尚未確認",
+    "FLOW_2": "結果先懸著",
+    "FLOW_3": "條件成立才發生",
+    "ORIGIN_PARAGRAPH": "<code>contingent</code> 來自 Latin <code>contingere</code>，帶有「接觸、發生、落到某種情況上」的脈絡，後來延伸成一件事是否成立取決於另一件事。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：結果不是自己站著，而是碰在某個條件上，條件一動，結果才跟著定下來。",
+    "MEMORY_HOOK": "<code>contingent</code> 是 release note 上那句 pending approval。",
+    "MEMORY_EXPLANATION": "想像一扇門已經裝好，但鉸鏈還沒鎖上。門能不能真正打開，不是看它有沒有門板，而是看關鍵條件是否完成。",
+    "DAILY_USAGE": "旅遊計畫可能是 <code>contingent on the weather</code>，天氣一變，整個安排就要重排。",
+    "PROFESSIONAL_USAGE": "產品出貨如果是 <code>contingent on validation results</code>，意思不是還沒做，而是要等那個 gate 過了才算真的能前進。",
+    "DOMAIN_USAGE": "在合約、採購或專案管理裡，payment、approval、deployment 都常被寫成 contingent on 某個 deliverable 或 sign-off。",
+    "COLLOCATION_NOTE": "Contingent 最自然的搭配之一就是 <code>contingent on</code>；它很常用來把條件和結果明確綁在一起。",
+    "COLLOCATION_1": "contingent on approval",
+    "REGISTER_1": "商務 / 專案",
+    "COLLOCATION_NOTE_1": "表示整個安排能否往前推，取決於批准是否下來。",
+    "COLLOCATION_2": "contingent liability",
+    "REGISTER_2": "財務 / 法律",
+    "COLLOCATION_NOTE_2": "表示目前尚未完全成形，但在特定條件下可能發生的責任。",
+    "COLLOCATION_3": "contingent outcome",
+    "REGISTER_3": "分析 / 學術",
+    "COLLOCATION_NOTE_3": "指結果不是固定必然，而是跟情境、條件或前提綁在一起。",
+    "NEIGHBOR_SELF": "結果繫於條件，條件未定時結果也未定",
+    "NEIGHBOR_SELF_USE": "談 approval、timing、requirements、contracts 或 gated decisions 時",
+    "NEIGHBOR_1": "Dependent",
+    "NEIGHBOR_1_MEANING": "有依賴關係，但不一定強調前提未決",
+    "NEIGHBOR_1_USE": "當你只需要表達 A relies on B，而不是特別指出條件 gate 時",
+    "MODERN_USE_1": "現代英文裡，<code>contingent</code> 常見於專案、政策、法律、財務與研究寫作，用來說明某件事並非直接成立，而是要看特定條件是否觸發。",
+    "MODERN_USE_2": "在工程與產品語境中，它很適合描述 release、deployment、scope change 或 vendor decision：事情不是不能做，而是目前還被條件鎖住。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與 contingent on 的常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/contingent",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到 Latin <code>contingere</code> 與 conditional meaning 的發展。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/contingent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在商務、法律與條件判斷中的 predicative 用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/contingent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 contingent 和 dependent 的差異。",
+    "CHECK_ORIGIN": "我記得 contingent 的畫面是結果碰在條件上，條件一變，結果才落定。",
+    "CHECK_SENTENCE": "我能用它造一句 approval、validation 或 contract 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The rollout is <code>contingent</code> on the last round of regression results.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/contingent",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "contingent",
+    "word": "Contingent",
+    "partOfSpeech": "adjective",
+    "href": "./contingent.html",
+    "thesis": "不是單純的「有關」，而是事情是否成立、發生或值得做，取決於某個條件是否成立。",
+    "tags": [
+      "條件式",
+      "取決於",
+      "conditional",
+      "dependent",
+      "contingent on",
+      "approval",
+      "project management",
+      "legal",
+      "adjective"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 contingent 和 dependent 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 contingent 的核心畫面是結果懸在條件上"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 approval、validation 或 contract 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/contingent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/contingent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/contingent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

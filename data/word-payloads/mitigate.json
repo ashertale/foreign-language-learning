@@ -56,7 +56,7 @@
     "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
     "MODERN_SOURCE_NOTE": "現代常見搭配如 <code>mitigate damage</code>、<code>mitigate risk</code>、<code>mitigate effects</code>、<code>mitigate impact</code> 參考 Cambridge 的例句與商務英語用法。",
     "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
-    "MODERN_SOURCE_LABEL": "Cambridge examples",
+    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
     "CHECK_MEANING": "我能說出 <code>mitigate</code> 和 <code>solve</code> 的差異：減輕不等於解決。",
     "CHECK_ORIGIN": "我記得它有「使變柔和、把傷害磨鈍」的字源畫面。",
     "CHECK_SENTENCE": "我能用它造一句風險、工程或資安情境的英文句子。",
@@ -99,27 +99,27 @@
   "sourceAudit": [
     {
       "category": "dictionary-pronunciation",
-      "label": "Cambridge Dictionary: mitigate",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
-      "usedFor": "IPA、基本定義與商務搭配詞"
+      "usedFor": "definition, pronunciation, and dictionary sense support"
     },
     {
       "category": "level-frequency",
-      "label": "CEFR study label + wordfreq",
+      "label": "wordfreq Zipf + repo CEFR calibration",
       "url": "https://github.com/rspeer/wordfreq",
-      "usedFor": "CEFR 學習難度標示與 Zipf frequency 計算值"
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
     },
     {
       "category": "etymology-history",
-      "label": "Online Etymology Dictionary: mitigate",
+      "label": "Online Etymology Dictionary",
       "url": "https://www.etymonline.com/word/mitigate",
-      "usedFor": "Latin 字源、soften 與 mildness 的來源脈絡"
+      "usedFor": "etymology and word-history support"
     },
     {
       "category": "modern-common-usage",
-      "label": "Cambridge examples: mitigate",
+      "label": "Cambridge Dictionary",
       "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
-      "usedFor": "risk、damage、effects、impact 等現代搭配用法"
+      "usedFor": "modern usage examples and current usage boundaries"
     }
   ]
 }

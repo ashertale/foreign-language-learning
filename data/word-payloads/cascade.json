@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Cascade",
+    "slug": "cascade",
+    "outputPath": "prototypes/cascade.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Cascade",
+    "WORD_SLUG": "cascade",
+    "WORD_LOWER": "cascade",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "ka-SKAYD · UK /kæˈskeɪd/ · US /kæˈskeɪd/",
+    "THESIS": "不是單一變化向外擴散，而是一層推一層，讓影響沿著結構一路往下傳。",
+    "LEARNING_POSITION": "把 cascade 記成「waterfall through layers」：上游一動，下游不只是知道，而是被整串帶動。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.41",
+    "CORE_IDEA": "<code>cascade</code> 表示某個變化、錯誤、更新或影響沿著多層結構往下傾瀉，造成一連串後果。",
+    "CONCEPT_FOCUS": "核心不是單點擴散，而是有層次、有連鎖、有下游依賴。",
+    "TONE_REGISTER": "系統、網路、資料流、組織決策與一般敘事都能用；帶有連鎖反應的畫面感。",
+    "USE_WARNING": "不要把 cascade 簡化成 spread；<code>spread</code> 可以是平面擴散，<code>cascade</code> 更像沿著層級或依賴鏈往下流。",
+    "SHORT_DEFINITION": "表示一個變化沿著多層相連的結構一路傳下去，讓後續影響一層接一層地被引發。",
+    "CONFUSION_WORD": "Spread",
+    "CONFUSION_NOTE": "<code>spread</code> 是擴散出去；<code>cascade</code> 更強調一層接一層地往下帶動後果。",
+    "FLOW_1": "上游出現變化",
+    "FLOW_2": "沿結構往下傳",
+    "FLOW_3": "連鎖後果展開",
+    "ORIGIN_PARAGRAPH": "<code>cascade</code> 最早帶有瀑布的畫面，經過義大利文與法文路徑進入英文。後來這個『水往下一層一層流』的形象，被延伸到事件與系統中的連鎖傳遞。",
+    "ORIGIN_MEMORY": "瀑布不是水到處平鋪，而是順著高度與層次往下衝。這正是 cascade 跟一般 spread 不同的地方。",
+    "MEMORY_HOOK": "<code>cascade</code> 是一個 timeout 先倒，接著 retries、queues、alerts 全部一起往下掉。",
+    "MEMORY_EXPLANATION": "想像一排骨牌不是在同一平面亂倒，而是沿著樓梯往下砸。每一層都會接到上一層的力量，然後把影響繼續送下去。",
+    "DAILY_USAGE": "一句情緒化的話有時會 <code>cascade</code> through the whole evening，把後面每個互動都拖進去。",
+    "PROFESSIONAL_USAGE": "在 distributed system 裡，一個 dependency slowdown 可能會 <code>cascade</code> into retries、queue growth 與 user-facing latency。",
+    "DOMAIN_USAGE": "UI 設計裡也能談 style changes cascading through components；資料處理則常說錯誤沿 pipeline cascades。",
+    "COLLOCATION_NOTE": "Cascade 常和 failure、effect、through、into 搭配，因為它天生就是在描述連鎖與層級傳遞。",
+    "COLLOCATION_1": "cascade through the system",
+    "REGISTER_1": "工程 / 系統",
+    "COLLOCATION_NOTE_1": "表示影響不是停在原點，而是沿著相依結構一路傳下去。",
+    "COLLOCATION_2": "cascade into failure",
+    "REGISTER_2": "風險 / incident",
+    "COLLOCATION_NOTE_2": "表示前面的問題沒有被截住，最後推成更大的失敗。",
+    "COLLOCATION_3": "cascading effects",
+    "REGISTER_3": "分析 / 一般",
+    "COLLOCATION_NOTE_3": "用來描述某個變化帶來的一串次級後果。",
+    "NEIGHBOR_SELF": "沿著層次結構一層推一層地傳下去",
+    "NEIGHBOR_SELF_USE": "談 failures、dependencies、style changes 或 policy impacts 時",
+    "NEIGHBOR_1": "Spread",
+    "NEIGHBOR_1_MEANING": "向外擴散，不一定有層級",
+    "NEIGHBOR_1_USE": "當重點只是傳播範圍，而不是連鎖層次時",
+    "MODERN_USE_1": "現代英文裡，<code>cascade</code> 常見於 distributed systems、networking、UI frameworks、finance 與 policy analysis，用來講一個變化如何在依賴鏈中一路往下引發後果。",
+    "MODERN_USE_2": "在工程語境中，它很適合描述 failure propagation。你不是只說問題變大，而是說它如何穿過每一層保護、轉成下一層的負擔。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與瀑布到連鎖傳遞的延伸義參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/cascade",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到瀑布形象與後來的抽象延伸。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/cascade",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在 failures、effects 與 through-layers 用法上的延伸。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/cascade",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 cascade 和 spread 的差異。",
+    "CHECK_ORIGIN": "我記得 cascade 的核心畫面是瀑布沿層次往下流。",
+    "CHECK_SENTENCE": "我能用它造一句 dependency、failure 或 style change 情境的英文句子。",
+    "PRACTICE_SENTENCE": "A single retry storm can <code>cascade</code> through the service graph and exhaust every downstream queue.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/cascade",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "cascade",
+    "word": "Cascade",
+    "partOfSpeech": "verb",
+    "href": "./cascade.html",
+    "thesis": "不是單一變化向外擴散，而是一層推一層，讓影響沿著結構一路往下傳。",
+    "tags": [
+      "連鎖",
+      "層層傳遞",
+      "spread",
+      "cascade through",
+      "cascading failure",
+      "distributed systems",
+      "dependencies",
+      "incident",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 cascade 和 spread 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 cascade 的核心畫面是瀑布沿層次往下流"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 dependency、failure 或 style change 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cascade",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/cascade",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cascade",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

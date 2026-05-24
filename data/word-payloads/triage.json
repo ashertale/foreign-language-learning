@@ -1,0 +1,125 @@
+{
+  "target": {
+    "word": "Triage",
+    "slug": "triage",
+    "outputPath": "prototypes/triage.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Triage",
+    "WORD_SLUG": "triage",
+    "WORD_LOWER": "triage",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "TREE-ahzh · UK /ˈtriː.ɑːʒ/ · US /triˈɑːʒ/",
+    "THESIS": "不是把所有問題一起處理，而是先快速判斷誰最急、誰最重要、誰可以稍後。",
+    "LEARNING_POSITION": "把 triage 記成「sort under pressure」：資源有限時，不是平均分配，而是先分級。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.84",
+    "CORE_IDEA": "<code>triage</code> 表示在時間、注意力或資源不足時，先快速分類與排序，決定先處理什麼、延後什麼、轉交什麼。",
+    "CONCEPT_FOCUS": "核心不是解決，而是先做高壓下的優先級判斷。",
+    "TONE_REGISTER": "原本偏醫療，現在在 incident response、bug handling、support queue 與 operations 裡很常見。",
+    "USE_WARNING": "不要把 triage 當成 solve；triage 是先分流與判級，不代表問題已經被修好。",
+    "SHORT_DEFINITION": "表示在事情太多、資源太少時，先快速分類與判急迫性，決定誰要先處理、誰可延後。",
+    "CONFUSION_WORD": "Prioritize",
+    "CONFUSION_NOTE": "<code>prioritize</code> 可以很從容地排順序；<code>triage</code> 帶有資源不足、壓力高、需要快速分級的情境。",
+    "FLOW_1": "問題大量湧入",
+    "FLOW_2": "先分級判急迫性",
+    "FLOW_3": "再決定先後與去向",
+    "ORIGIN_PARAGRAPH": "<code>triage</code> 經由法文進入英文，核心是 sorting。它原本在醫療與戰地情境裡很重要，因為不可能同時處理所有傷患，必須先判定優先順序。",
+    "ORIGIN_MEMORY": "這個字的重量在於：不是因為你不想全部救，而是因為現實逼你先判斷哪個最不能等。",
+    "MEMORY_HOOK": "<code>triage</code> 是 inbox 爆掉時，先救會讓系統失血的那幾件事。",
+    "MEMORY_EXPLANATION": "想像急診室同時來很多人，醫護不會先按排隊順序，而是先看誰最危急。工程 incident queue 其實常是同一種思維。",
+    "DAILY_USAGE": "旅行前待辦很多時，你可能需要先 <code>triage</code> what must happen today and what can wait.",
+    "PROFESSIONAL_USAGE": "當 crash report 一次湧進來時，團隊第一步往往不是修，而是先 <code>triage</code> severity、scope 與 reproducibility。",
+    "DOMAIN_USAGE": "醫療上的 triage 重點是傷勢分級；工程上的 triage 則常是 incident、bug、ticket 或 alert 的分級處理。",
+    "COLLOCATION_NOTE": "Triage 常和 bug、incident、queue、ticket 搭配，因為它幾乎總在高壓輸入過量的場景裡出現。",
+    "COLLOCATION_1": "triage incoming bugs",
+    "REGISTER_1": "工程 / QA",
+    "COLLOCATION_NOTE_1": "表示先把 bug 依嚴重性、影響範圍與可重現性分級。",
+    "COLLOCATION_2": "triage the queue",
+    "REGISTER_2": "support / operations",
+    "COLLOCATION_NOTE_2": "表示快速檢視大量待辦，決定哪些要先進場。",
+    "COLLOCATION_3": "triage an incident",
+    "REGISTER_3": "SRE / incident response",
+    "COLLOCATION_NOTE_3": "表示先釐清事件級別、使用者影響與應變優先序。",
+    "NEIGHBOR_SELF": "在壓力與資源不足下，先分級再處理",
+    "NEIGHBOR_SELF_USE": "談 bugs、incidents、tickets、patients 或 overloaded queues 時",
+    "NEIGHBOR_1": "Prioritize",
+    "NEIGHBOR_1_MEANING": "一般性的先後排序",
+    "NEIGHBOR_1_USE": "當你只是安排順序，不特別強調壓力與資源不足時",
+    "MODERN_USE_1": "現代英文裡，<code>triage</code> 已經穩定進入 software、support、security 與 operations。它幾乎是高壓情境下『先分流再處理』的標準字。",
+    "MODERN_USE_2": "在工程語境中，這個字比 prioritize 更有現場感，因為它包含信息不完整、量太大、不能全部同時處理的現實約束。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與從醫療分級延伸到一般快速排序的用法參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/triage",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，連到法文 sorting 與醫療分級背景。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/triage",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在 queue、ticket、incident 與 bug handling 上的延伸用法。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/triage",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 triage 和 prioritize 的差異。",
+    "CHECK_ORIGIN": "我記得 triage 的核心不是排序而已，而是在壓力下做分級。",
+    "CHECK_SENTENCE": "我能用它造一句 bug、incident 或 ticket queue 情境的英文句子。",
+    "PRACTICE_SENTENCE": "Before we assign owners, we need to <code>triage</code> the incoming alerts by user impact.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/triage",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "triage",
+    "word": "Triage",
+    "partOfSpeech": "verb",
+    "href": "./triage.html",
+    "thesis": "不是把所有問題一起處理，而是先快速判斷誰最急、誰最重要、誰可以稍後。",
+    "tags": [
+      "分級處理",
+      "先分流",
+      "prioritize",
+      "triage incoming bugs",
+      "incident response",
+      "support queue",
+      "SRE",
+      "operations",
+      "verb"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 triage 和 prioritize 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得 triage 的核心是資源不足下的分級"
+      },
+      {
+        "id": "sentence",
+        "label": "用它造一句 bug、incident 或 ticket queue 情境的英文句子"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/triage",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/triage",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/triage",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}
