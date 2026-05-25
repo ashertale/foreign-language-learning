@@ -6,7 +6,7 @@
   <title>複習 | Daily English Vocabulary</title>
   <link rel="stylesheet" href="./manage-page.css">
 </head>
-<body class="manage-page">
+<body class="manage-page review-page">
   <nav class="topbar" aria-label="複習頁導覽">
     <div class="topbar-inner">
       <a class="brand" href="./index.html">Daily English Vocabulary</a>
@@ -23,18 +23,116 @@
       <section>
         <p class="kicker">Review</p>
         <h1>複習</h1>
-        <p class="page-thesis">複習流程與 UI 先保留到下一階段設計；目前這裡只作為管理頁的入口。</p>
+        <p class="page-thesis">先回想，再翻面確認；評分會安排下一次複習。</p>
       </section>
     </div>
   </header>
 
   <main class="manage-shell">
-    <section class="section-block pending-panel">
-      <p class="section-label">Pending</p>
-      <h2>尚未展開</h2>
-      <p>下一步再決定複習規則、練習節奏與資料來源。</p>
-      <a class="control-link primary" href="./index.html">回單字庫</a>
+    <section class="review-shell" aria-labelledby="review-title">
+      <section class="review-stage" aria-live="polite">
+        <div class="review-progress" aria-label="本輪進度">
+          <div>
+            <p class="section-label">Session</p>
+            <p id="progress-label">0 / 0</p>
+          </div>
+          <div class="progress-track" aria-hidden="true">
+            <span id="progress-fill"></span>
+          </div>
+          <p id="remaining-copy">準備載入牌組</p>
+        </div>
+
+        <article class="flash-card" id="flash-card">
+          <div class="flash-card-face" id="card-front">
+            <p class="result-meta" id="card-meta">Word --</p>
+            <p class="review-prompt">先不要看答案，想出英文單字。</p>
+            <blockquote id="card-clue">載入中...</blockquote>
+            <div class="review-tags" id="card-tags"></div>
+            <label class="recall-entry" for="recall-input">
+              <span>我想到的是</span>
+              <input id="recall-input" type="text" autocomplete="off" placeholder="輸入英文單字，或先在心中回答">
+            </label>
+            <div class="review-actions">
+              <button class="control-button primary" type="button" id="reveal-card" aria-keyshortcuts="Enter Space">翻面看答案</button>
+            </div>
+          </div>
+
+          <div class="flash-card-face is-hidden" id="card-back">
+            <p class="result-meta" id="answer-meta">Answer</p>
+            <div class="answer-heading">
+              <h2 id="answer-word">--</h2>
+              <button class="control-button compact-button" type="button" id="speak-answer" aria-keyshortcuts="S">發音</button>
+            </div>
+            <section class="answer-concept recall-echo is-hidden" id="recall-echo">
+              <p class="answer-concept-label">Your Recall</p>
+              <p id="recall-guess"></p>
+            </section>
+            <div class="answer-concepts">
+              <section class="answer-concept">
+                <p class="answer-concept-label">Thesis</p>
+                <p id="answer-thesis"></p>
+              </section>
+              <section class="answer-concept">
+                <p class="answer-concept-label">Core Idea</p>
+                <p id="answer-core-idea"></p>
+              </section>
+            </div>
+            <ul class="recall-list" id="answer-checks"></ul>
+            <div class="rating-grid" aria-label="複習評分">
+              <button class="rating-button" type="button" data-rating="again" aria-keyshortcuts="1">
+                <strong>Again</strong>
+                <span>完全想不起來</span>
+                <small>今天再看</small>
+              </button>
+              <button class="rating-button" type="button" data-rating="hard" aria-keyshortcuts="2">
+                <strong>Hard</strong>
+                <span>概念有了，字或語氣不穩</span>
+                <small>明天</small>
+              </button>
+              <button class="rating-button" type="button" data-rating="good" aria-keyshortcuts="3">
+                <strong>Good</strong>
+                <span>能想出並說明用法</span>
+                <small>三天後</small>
+              </button>
+              <button class="rating-button" type="button" data-rating="easy" aria-keyshortcuts="4">
+                <strong>Easy</strong>
+                <span>很快想起，也能造句</span>
+                <small>七天後</small>
+              </button>
+            </div>
+            <div class="review-footer-actions">
+              <a class="control-link" id="open-word-page" href="./index.html" aria-keyshortcuts="O">打開深讀頁</a>
+              <button class="tiny-button undo-rating is-hidden" type="button" id="undo-rating">復原上一張評分</button>
+            </div>
+          </div>
+        </article>
+
+        <p class="field-help review-status" id="review-status"></p>
+      </section>
+
+      <aside class="section-block review-summary" aria-label="複習統計">
+        <p class="section-label">Today</p>
+        <h2 id="review-title">今日牌組</h2>
+        <dl class="review-stats">
+          <div>
+            <dt>全部到期</dt>
+            <dd id="due-count">0</dd>
+          </div>
+          <div>
+            <dt>本輪完成</dt>
+            <dd id="done-count">0</dd>
+          </div>
+          <div>
+            <dt>本輪剩餘</dt>
+            <dd id="queue-count">0</dd>
+          </div>
+        </dl>
+        <p class="field-help">全部到期包含整個單字庫；每輪最多 8 張。完成後可接下一輪。</p>
+        <button class="control-button" type="button" id="reset-session">重排本輪牌組</button>
+      </aside>
     </section>
   </main>
+  <script src="./word-index.js"></script>
+  <script src="./review-page.js"></script>
 </body>
 </html>
