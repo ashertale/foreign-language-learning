@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Paradox",
+    "slug": "paradox",
+    "outputPath": "prototypes/paradox.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Paradox",
+    "WORD_SLUG": "paradox",
+    "WORD_LOWER": "paradox",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "PAIR-uh-doks · UK /ˈpær.ə.dɒks/ · US /ˈper.ə.dɑːks/",
+    "THESIS": "不是單純打臉，而是兩件看起來互斥的事竟然同時成立，逼你往更深一層想。",
+    "LEARNING_POSITION": "把 paradox 記成「two truths colliding on the surface」：表面衝突，深處卻可能同時是真的。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.59",
+    "CORE_IDEA": "<code>paradox</code> 用來描述一個看似自相矛盾，但深入理解後揭露更高層邏輯的情況。",
+    "CONCEPT_FOCUS": "核心不是對撞本身，而是對撞迫使你升級理解。",
+    "TONE_REGISTER": "常見於哲學、寫作、心理、商務與產品思考。",
+    "USE_WARNING": "不要把 paradox 當成普通 contradiction；paradox 往往在更深一層還能成立。",
+    "SHORT_DEFINITION": "不是單純打臉，而是兩件看起來互斥的事竟然同時成立，逼你往更深一層想。",
+    "CONFUSION_WORD": "Contradiction",
+    "CONFUSION_NOTE": "<code>contradiction</code> 可能是一真一假互撞；<code>paradox</code> 更像兩件都像是真的，卻在表面互斥。",
+    "FLOW_1": "先看到表面衝突",
+    "FLOW_2": "意識到兩邊都有真實",
+    "FLOW_3": "逼出更高層理解",
+    "ORIGIN_PARAGRAPH": "<code>paradox</code> 和希臘語裡「違反常見看法」有關，所以它本來就帶著挑戰直覺的力量。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是答案錯了，而是舊框架裝不下同時出現的兩個真。",
+    "MEMORY_HOOK": "<code>paradox</code> 是你原本的框太小，不是現實太亂。",
+    "MEMORY_EXPLANATION": "很多看似矛盾的管理或產品問題，其實都是 paradox：你得用更高一層視角才能一起容納。",
+    "DAILY_USAGE": "親密關係裡常有 paradox：越想控制，反而越容易失去靠近感。",
+    "PROFESSIONAL_USAGE": "在工程文化裡也有一種 paradox：越想省時間跳過驗證，後面常越花時間補救。",
+    "DOMAIN_USAGE": "哲學、心理學、領導與產品策略都常用 <code>paradox</code> 來談互斥表象下的深層真實。",
+    "COLLOCATION_NOTE": "Paradox 常和 of、central、apparent 這類說法一起出現。",
+    "COLLOCATION_1": "the paradox of choice",
+    "REGISTER_1": "心理 / 決策",
+    "COLLOCATION_NOTE_1": "表示選項多未必更自由。",
+    "COLLOCATION_2": "a central paradox",
+    "REGISTER_2": "寫作 / 論述",
+    "COLLOCATION_NOTE_2": "表示該議題的核心張力。",
+    "COLLOCATION_3": "an apparent paradox",
+    "REGISTER_3": "分析 / 哲學",
+    "COLLOCATION_NOTE_3": "表示看似矛盾但值得再深挖。",
+    "NEIGHBOR_SELF": "表面衝突，深層可能同時為真",
+    "NEIGHBOR_SELF_USE": "談哲學、管理、心理或策略兩難時",
+    "NEIGHBOR_1": "Contradiction",
+    "NEIGHBOR_1_MEANING": "直接互相否定的矛盾",
+    "NEIGHBOR_1_USE": "其中一邊根本不能成立時",
+    "MODERN_USE_1": "現代英文裡，<code>paradox</code> 很常被拿來描述那些不能用二選一輕鬆切掉的真實張力。",
+    "MODERN_USE_2": "在工程與產品語境中，它也提醒人：很多 tradeoff 不是選邊，而是先承認兩邊都是真的。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/paradox",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/paradox",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/paradox",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 paradox 和 contradiction 的差異。",
+    "CHECK_ORIGIN": "記得 paradox 的重點是表面互斥下仍有深層真實，不是普通矛盾。",
+    "CHECK_SENTENCE": "我能用它造一句哲學、管理或策略張力的英文句子。",
+    "PRACTICE_SENTENCE": "There is a real <code>paradox</code> in trying to move fast without weakening the release discipline.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/paradox",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "paradox",
+    "word": "Paradox",
+    "partOfSpeech": "noun",
+    "href": "./paradox.html",
+    "thesis": "不是單純打臉，而是兩件看起來互斥的事竟然同時成立，逼你往更深一層想。",
+    "tags": [
+      "悖論",
+      "雙真張力",
+      "contradiction",
+      "strategy",
+      "philosophy",
+      "noun",
+      "paradox"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 paradox 和 contradiction 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " paradox 的重點是表面互斥下仍有深層真實，不是普通矛盾。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句哲學、管理或策略張力的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/paradox",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/paradox",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/paradox",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

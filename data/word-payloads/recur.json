@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Recur",
+    "slug": "recur",
+    "outputPath": "prototypes/recur.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Recur",
+    "WORD_SLUG": "recur",
+    "WORD_LOWER": "recur",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "rih-KUR · UK /rɪˈkɜːr/ · US /rɪˈkɝː/",
+    "THESIS": "不是一直沒走，而是隔一段時間又回來。",
+    "LEARNING_POSITION": "把 recur 記成「return again after seeming to pass」：不是一直沒走，而是隔一段時間又回來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.08",
+    "CORE_IDEA": "<code>recur</code> 表示再度出現、反覆發生或週期性重來。",
+    "CONCEPT_FOCUS": "核心畫面是 return again after seeming to pass。",
+    "TONE_REGISTER": "這個字常見於 錯誤追蹤、症狀觀察與模式分析；語氣上不是空泛形容，而是用來抓住 return again after seeming to pass 這種狀態或動作。",
+    "USE_WARNING": "不要把 recur 只看成 repeat；<code>repeat</code> 多半只是 重複，而 <code>recur</code> 更強調 return again after seeming to pass。",
+    "SHORT_DEFINITION": "表示再度出現、反覆發生或週期性重來。",
+    "CONFUSION_WORD": "Repeat",
+    "CONFUSION_NOTE": "<code>repeat</code> 多半只是 重複；<code>recur</code> 則更偏向 return again after seeming to pass。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 return again after seeming to pass 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>recur</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：return again after seeming to pass。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像浪退了以為安靜了，沒多久又同樣拍回岸邊。",
+    "MEMORY_HOOK": "<code>recur</code> 的畫面是：像浪退了以為安靜了，沒多久又同樣拍回岸邊。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 recur，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>the issue recurs</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>recur over time</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "錯誤追蹤、症狀觀察與模式分析 這類場景特別適合放進 <code>recur after the patch</code>，因為那裡常需要描述 return again after seeming to pass。",
+    "COLLOCATION_NOTE": "Recur 很適合透過固定搭配來抓語感，尤其是你想把 return again after seeming to pass 說得更自然時。",
+    "COLLOCATION_1": "the issue recurs",
+    "REGISTER_1": "工程 / 除錯",
+    "COLLOCATION_NOTE_1": "這個搭配能把 return again after seeming to pass 的語感直接帶出來。",
+    "COLLOCATION_2": "recur over time",
+    "REGISTER_2": "分析 / 趨勢",
+    "COLLOCATION_NOTE_2": "放到 錯誤追蹤、症狀觀察與模式分析 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "recur after the patch",
+    "REGISTER_3": "維運 / 追蹤",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 recur 的實際使用邊界。",
+    "NEIGHBOR_SELF": "return again after seeming to pass",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 重複，而是 return again after seeming to pass 這層語感時",
+    "NEIGHBOR_1": "Repeat",
+    "NEIGHBOR_1_MEANING": "重複",
+    "NEIGHBOR_1_USE": "只想表達 重複，而不需要 return again after seeming to pass 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>recur</code> 常和 <code>the issue recurs</code>、<code>recur over time</code>、<code>recur after the patch</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 錯誤追蹤、症狀觀察與模式分析 的語境裡，這個字能比一般近義詞更精準地抓住 return again after seeming to pass。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/recur",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/recur",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/recur",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 recur 和 repeat 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像浪退了以為安靜了，沒多久又同樣拍回岸邊。",
+    "CHECK_SENTENCE": "我能用 <code>the issue recurs</code> 或 <code>recur over time</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>the issue recurs</code> 或 <code>recur over time</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/recur",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "recur",
+    "word": "Recur",
+    "partOfSpeech": "verb",
+    "href": "./recur.html",
+    "thesis": "不是一直沒走，而是隔一段時間又回來。",
+    "tags": [
+      "反覆再現",
+      "過一陣子又回來",
+      "repeat",
+      "bugs",
+      "patterns",
+      "verb",
+      "recur"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 recur 和 repeat 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像浪退了以為安靜了，沒多久又同樣拍回岸邊。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 the issue recurs 或 recur over time 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/recur",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/recur",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/recur",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

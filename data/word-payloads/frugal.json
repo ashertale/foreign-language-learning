@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Frugal",
+    "slug": "frugal",
+    "outputPath": "prototypes/frugal.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Frugal",
+    "WORD_SLUG": "frugal",
+    "WORD_LOWER": "frugal",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "FROO-guhl · UK /ˈfruː.ɡəl/ · US /ˈfruː.ɡəl/",
+    "THESIS": "不是吝嗇，而是對資源很有節制，知道哪些值得花、哪些可以省。",
+    "LEARNING_POSITION": "把 frugal 記成「careful with resources, not scared to spend」：不是縮成一團，而是花得有分寸。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.22",
+    "CORE_IDEA": "<code>frugal</code> 用來描述一個人、策略或設計對金錢、時間、材料等資源採取節制而有效的使用方式。",
+    "CONCEPT_FOCUS": "核心是節制與判斷，不是小氣。",
+    "TONE_REGISTER": "常見於生活方式、財務、產品設計與資源受限系統。",
+    "USE_WARNING": "不要把 frugal 當成 cheap；cheap 往往看起來只是捨不得，frugal 更像有判斷地節省。",
+    "SHORT_DEFINITION": "不是吝嗇，而是對資源很有節制，知道哪些值得花、哪些可以省。",
+    "CONFUSION_WORD": "Cheap",
+    "CONFUSION_NOTE": "<code>cheap</code> 常有品質低或吝嗇感；<code>frugal</code> 則強調節制、效率與有意識的資源分配。",
+    "FLOW_1": "先看見資源有限",
+    "FLOW_2": "把花費放回優先序",
+    "FLOW_3": "留下真正值得的投入",
+    "ORIGIN_PARAGRAPH": "<code>frugal</code> 和拉丁語裡「有用、節制」的脈絡相關，所以它不是苦撐，而是知道資源該怎麼用。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把錢鎖起來，而是把每一份資源放到更對的位置。",
+    "MEMORY_HOOK": "<code>frugal</code> 是少花不等於少做，而是更會分配。",
+    "MEMORY_EXPLANATION": "真正 frugal 的人不是什麼都不買，而是把浪費從必要投入裡分開。",
+    "DAILY_USAGE": "frugal living 不是把生活過得很苦，而是把錢留給真正重視的部分。",
+    "PROFESSIONAL_USAGE": "在資源受限系統裡，frugal design 代表不是功能少，而是每個資源配置都有理由。",
+    "DOMAIN_USAGE": "個人財務、永續設計與嵌入式系統都常用 <code>frugal</code> 來談節制策略。",
+    "COLLOCATION_NOTE": "Frugal 常和 lifestyle、design、use、habit 搭配。",
+    "COLLOCATION_1": "frugal lifestyle",
+    "REGISTER_1": "生活 / 財務",
+    "COLLOCATION_NOTE_1": "表示生活方式節制而有意識。",
+    "COLLOCATION_2": "frugal design",
+    "REGISTER_2": "工程 / 產品",
+    "COLLOCATION_NOTE_2": "表示用較少資源達成目的。",
+    "COLLOCATION_3": "frugal use of memory",
+    "REGISTER_3": "系統 / 嵌入式",
+    "COLLOCATION_NOTE_3": "表示記憶體分配很節制。",
+    "NEIGHBOR_SELF": "節制地使用資源而不浪費",
+    "NEIGHBOR_SELF_USE": "談錢、時間、材料或系統資源時",
+    "NEIGHBOR_1": "Cheap",
+    "NEIGHBOR_1_MEANING": "便宜、低價或顯得小氣",
+    "NEIGHBOR_1_USE": "重點是價格低或讓人感覺摳時",
+    "MODERN_USE_1": "現代英文裡，<code>frugal</code> 不只用在省錢，也常被拿來稱讚一種聰明、克制的資源使用方式。",
+    "MODERN_USE_2": "在工程語境中，它很適合描述對 memory、power 或 complexity 的節制設計。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/frugal",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/frugal",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/frugal",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 frugal 和 cheap 的差異。",
+    "CHECK_ORIGIN": "記得 frugal 的重點是節制與判斷，不是單純吝嗇。",
+    "CHECK_SENTENCE": "我能用它造一句生活、財務或系統資源節制的英文句子。",
+    "PRACTICE_SENTENCE": "The firmware had to be <code>frugal</code> in its use of RAM.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/frugal",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "frugal",
+    "word": "Frugal",
+    "partOfSpeech": "adjective",
+    "href": "./frugal.html",
+    "thesis": "不是吝嗇，而是對資源很有節制，知道哪些值得花、哪些可以省。",
+    "tags": [
+      "節制",
+      "省用",
+      "cheap",
+      "resource",
+      "finance",
+      "adjective",
+      "frugal"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 frugal 和 cheap 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " frugal 的重點是節制與判斷，不是單純吝嗇。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句生活、財務或系統資源節制的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/frugal",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/frugal",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/frugal",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

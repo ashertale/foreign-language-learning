@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Rigorous",
+    "slug": "rigorous",
+    "outputPath": "prototypes/rigorous.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Rigorous",
+    "WORD_SLUG": "rigorous",
+    "WORD_LOWER": "rigorous",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "RIG-er-us · UK /ˈrɪɡ.ər.əs/ · US /ˈrɪɡ.ɚ.əs/",
+    "THESIS": "不是只會嚴格，而是方法夠精確、夠完整，能承受檢查和反覆驗證。",
+    "LEARNING_POSITION": "把 rigorous 記成「disciplined enough to survive scrutiny」：不是擺架子，而是經得起查。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.26",
+    "CORE_IDEA": "<code>rigorous</code> 用來描述研究、測試、論證或流程具備高度精確度、完整性與紀律。",
+    "CONCEPT_FOCUS": "核心是方法品質，不是態度上的兇。",
+    "TONE_REGISTER": "常見於學術、工程、測試、流程與標準討論。",
+    "USE_WARNING": "不要把 rigorous 當成 strict；strict 可能只是規矩多，rigorous 更看方法是否真站得住。",
+    "SHORT_DEFINITION": "不是只會嚴格，而是方法夠精確、夠完整，能承受檢查和反覆驗證。",
+    "CONFUSION_WORD": "Strict",
+    "CONFUSION_NOTE": "<code>strict</code> 可以是要求嚴；<code>rigorous</code> 則強調過程精確、完整、禁得起查。",
+    "FLOW_1": "先設定清楚標準",
+    "FLOW_2": "按標準完整執行",
+    "FLOW_3": "結果能承受反覆檢驗",
+    "ORIGIN_PARAGRAPH": "<code>rigorous</code> 的歷史帶著僵硬、嚴峻的感覺，後來逐步轉成方法上的嚴密與精確。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把門關死，而是把每個縫都對齊，讓光照進來也找不到漏洞。",
+    "MEMORY_HOOK": "<code>rigorous</code> 是你不是比較兇，而是比較禁得起驗。",
+    "MEMORY_EXPLANATION": "真正 rigorous 的流程常讓人覺得慢一點，但長期看往往更省時間。",
+    "DAILY_USAGE": "一個人對自己的訓練很 <code>rigorous</code>，不是因為他苛刻，而是他把方法做得很完整。",
+    "PROFESSIONAL_USAGE": "在 firmware 驗證裡，rigorous testing 代表不是多跑幾次，而是案例設計、觀察與判準都夠嚴密。",
+    "DOMAIN_USAGE": "研究設計、測試工程、法規遵循與高風險流程都常用 <code>rigorous</code>。",
+    "COLLOCATION_NOTE": "Rigorous 常和 testing、analysis、methodology、review 搭配。",
+    "COLLOCATION_1": "rigorous testing",
+    "REGISTER_1": "工程 / 驗證",
+    "COLLOCATION_NOTE_1": "表示測試方式完整而嚴密。",
+    "COLLOCATION_2": "rigorous analysis",
+    "REGISTER_2": "研究 / 數據",
+    "COLLOCATION_NOTE_2": "表示分析可承受質疑與重跑。",
+    "COLLOCATION_3": "rigorous review",
+    "REGISTER_3": "設計 / 文件",
+    "COLLOCATION_NOTE_3": "表示檢查深度與標準都很高。",
+    "NEIGHBOR_SELF": "方法完整而禁得起反覆檢查",
+    "NEIGHBOR_SELF_USE": "談測試、研究、流程與 review 品質時",
+    "NEIGHBOR_1": "Strict",
+    "NEIGHBOR_1_MEANING": "規則嚴、要求高",
+    "NEIGHBOR_1_USE": "重點只在人被管得嚴，而不是方法品質時",
+    "MODERN_USE_1": "現代英文裡，<code>rigorous</code> 是高品質方法論的核心字，因為它抓的是能否承受 scrutiny。",
+    "MODERN_USE_2": "在工程語境中，它能幫你分辨「流程很重」和「流程真的有價值」這兩件不同的事。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/rigorous",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/rigorous",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/rigorous",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 rigorous 和 strict 的差異。",
+    "CHECK_ORIGIN": "記得 rigorous 的重點是方法禁得起查，不只是規矩嚴。",
+    "CHECK_SENTENCE": "我能用它造一句測試、研究或流程嚴密度高的英文句子。",
+    "PRACTICE_SENTENCE": "The fix looked promising, but the team still wanted a more <code>rigorous</code> validation pass.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/rigorous",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "rigorous",
+    "word": "Rigorous",
+    "partOfSpeech": "adjective",
+    "href": "./rigorous.html",
+    "thesis": "不是只會嚴格，而是方法夠精確、夠完整，能承受檢查和反覆驗證。",
+    "tags": [
+      "嚴密",
+      "禁得起查",
+      "strict",
+      "testing",
+      "analysis",
+      "adjective",
+      "rigorous"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 rigorous 和 strict 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " rigorous 的重點是方法禁得起查，不只是規矩嚴。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句測試、研究或流程嚴密度高的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rigorous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/rigorous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rigorous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

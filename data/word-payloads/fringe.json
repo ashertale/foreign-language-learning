@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Fringe",
+    "slug": "fringe",
+    "outputPath": "prototypes/fringe.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Fringe",
+    "WORD_SLUG": "fringe",
+    "WORD_LOWER": "fringe",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "FRINJ · UK /frɪndʒ/ · US /frɪndʒ/",
+    "THESIS": "不是核心，而是靠近邊界、還沒完全進中心的那圈。",
+    "LEARNING_POSITION": "把 fringe 記成「the outer edge where something touches the margin」：不是核心，而是靠近邊界、還沒完全進中心的那圈。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.45",
+    "CORE_IDEA": "<code>fringe</code> 表示邊緣地帶、次要群體或外圍部分。",
+    "CONCEPT_FOCUS": "核心畫面是 the outer edge where something touches the margin。",
+    "TONE_REGISTER": "這個字常見於 文化邊界、產品市場與社群位置；語氣上不是空泛形容，而是用來抓住 the outer edge where something touches the margin 這種狀態或動作。",
+    "USE_WARNING": "不要把 fringe 只看成 edge；<code>edge</code> 多半只是 邊緣，而 <code>fringe</code> 更強調 the outer edge where something touches the margin。",
+    "SHORT_DEFINITION": "表示邊緣地帶、次要群體或外圍部分。",
+    "CONFUSION_WORD": "Edge",
+    "CONFUSION_NOTE": "<code>edge</code> 多半只是 邊緣；<code>fringe</code> 則更偏向 the outer edge where something touches the margin。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 the outer edge where something touches the margin 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>fringe</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：the outer edge where something touches the margin。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像地毯最外圍那一圈鬚邊，還連著整體，但已經接近外面。",
+    "MEMORY_HOOK": "<code>fringe</code> 的畫面是：像地毯最外圍那一圈鬚邊，還連著整體，但已經接近外面。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 fringe，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>fringe view</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>on the fringe</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "文化邊界、產品市場與社群位置 這類場景特別適合放進 <code>fringe benefit</code>，因為那裡常需要描述 the outer edge where something touches the margin。",
+    "COLLOCATION_NOTE": "Fringe 很適合透過固定搭配來抓語感，尤其是你想把 the outer edge where something touches the margin 說得更自然時。",
+    "COLLOCATION_1": "fringe view",
+    "REGISTER_1": "評論 / 社會",
+    "COLLOCATION_NOTE_1": "這個搭配能把 the outer edge where something touches the margin 的語感直接帶出來。",
+    "COLLOCATION_2": "on the fringe",
+    "REGISTER_2": "人際 / 群體",
+    "COLLOCATION_NOTE_2": "放到 文化邊界、產品市場與社群位置 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "fringe benefit",
+    "REGISTER_3": "工作 / 制度",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 fringe 的實際使用邊界。",
+    "NEIGHBOR_SELF": "the outer edge where something touches the margin",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 邊緣，而是 the outer edge where something touches the margin 這層語感時",
+    "NEIGHBOR_1": "Edge",
+    "NEIGHBOR_1_MEANING": "邊緣",
+    "NEIGHBOR_1_USE": "只想表達 邊緣，而不需要 the outer edge where something touches the margin 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>fringe</code> 常和 <code>fringe view</code>、<code>on the fringe</code>、<code>fringe benefit</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 文化邊界、產品市場與社群位置 的語境裡，這個字能比一般近義詞更精準地抓住 the outer edge where something touches the margin。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/fringe",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/fringe",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/fringe",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 fringe 和 edge 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像地毯最外圍那一圈鬚邊，還連著整體，但已經接近外面。",
+    "CHECK_SENTENCE": "我能用 <code>fringe view</code> 或 <code>on the fringe</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>fringe view</code> 或 <code>on the fringe</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/fringe",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "fringe",
+    "word": "Fringe",
+    "partOfSpeech": "noun",
+    "href": "./fringe.html",
+    "thesis": "不是核心，而是靠近邊界、還沒完全進中心的那圈。",
+    "tags": [
+      "外圍邊緣",
+      "不在中心",
+      "edge",
+      "society",
+      "market",
+      "noun",
+      "fringe"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 fringe 和 edge 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像地毯最外圍那一圈鬚邊，還連著整體，但已經接近外面。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 fringe view 或 on the fringe 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/fringe",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/fringe",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/fringe",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Expedite",
+    "slug": "expedite",
+    "outputPath": "prototypes/expedite.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Expedite",
+    "WORD_SLUG": "expedite",
+    "WORD_LOWER": "expedite",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "EKS-puh-dyte · UK /ˈek.spə.daɪt/ · US /ˈek.spə.daɪt/",
+    "THESIS": "不是硬催，而是移除阻礙、理順流程，讓事情更快往前走。",
+    "LEARNING_POSITION": "把 expedite 記成「speed it up by clearing the path」：不是只喊快一點，而是把路清出來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.11",
+    "CORE_IDEA": "<code>expedite</code> 用來描述透過流程、批准或安排讓事情提早推進，而不是單靠壓力催促。",
+    "CONCEPT_FOCUS": "核心是清路與推進，不是盲目加速。",
+    "TONE_REGISTER": "常見於物流、法務、專案、行政與工作協作。",
+    "USE_WARNING": "不要把 expedite 當成簡單 rush；它通常暗示有方法地把流程往前推。",
+    "SHORT_DEFINITION": "不是硬催，而是移除阻礙、理順流程，讓事情更快往前走。",
+    "CONFUSION_WORD": "Accelerate",
+    "CONFUSION_NOTE": "<code>accelerate</code> 著重速度變快；<code>expedite</code> 更像把流程阻塞點拆掉，讓事情提早過關。",
+    "FLOW_1": "先看見卡點",
+    "FLOW_2": "把通道打開",
+    "FLOW_3": "整體推進變快",
+    "ORIGIN_PARAGRAPH": "<code>expedite</code> 和拉丁語裡「解開腳上的束縛」有關，所以它很有把腿上的東西拆掉、讓人能走的畫面。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是背著重物跑更快，而是先把纏在腳上的繩子解掉。",
+    "MEMORY_HOOK": "<code>expedite</code> 是把流程前面的路清乾淨。",
+    "MEMORY_EXPLANATION": "很多事情慢，不是因為人不努力，而是中間卡著幾個沒被處理的 gate。",
+    "DAILY_USAGE": "如果客服願意 <code>expedite</code> your replacement，意思是他會幫你把流程往前推。",
+    "PROFESSIONAL_USAGE": "在專案管理裡，清掉依賴與等待批准，往往比一直催人更能 <code>expedite</code> the work.",
+    "DOMAIN_USAGE": "物流、採購、文件審批與 release 流程都常用 <code>expedite</code> 來談提速。",
+    "COLLOCATION_NOTE": "Expedite 常和 process、shipment、approval、request 搭配。",
+    "COLLOCATION_1": "expedite the process",
+    "REGISTER_1": "行政 / 協作",
+    "COLLOCATION_NOTE_1": "表示透過安排讓流程更快通過。",
+    "COLLOCATION_2": "expedite shipment",
+    "REGISTER_2": "物流 / 供應鏈",
+    "COLLOCATION_NOTE_2": "表示出貨被優先處理。",
+    "COLLOCATION_3": "expedite approval",
+    "REGISTER_3": "專案 / 管理",
+    "COLLOCATION_NOTE_3": "表示把批准流程往前推。",
+    "NEIGHBOR_SELF": "清除阻礙讓事情更快往前",
+    "NEIGHBOR_SELF_USE": "談流程、批准、物流或專案依賴時",
+    "NEIGHBOR_1": "Accelerate",
+    "NEIGHBOR_1_MEANING": "速度本身加快",
+    "NEIGHBOR_1_USE": "只想描述變快，不特別強調流程通道被打開時",
+    "MODERN_USE_1": "現代英文裡，<code>expedite</code> 幾乎就是流程提速的工作語彙，尤其在跨部門協作和行政流程裡很常見。",
+    "MODERN_USE_2": "它比 rush 更成熟，因為它暗示的是拆除阻塞，而不是把人推到更焦躁。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/expedite",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/expedite",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/expedite",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 expedite 和 accelerate 的差異。",
+    "CHECK_ORIGIN": "記得 expedite 的字源畫面是把腳上的束縛解開，不是盲目催快。",
+    "CHECK_SENTENCE": "我能用它造一句流程、批准或物流提速情境的英文句子。",
+    "PRACTICE_SENTENCE": "We need one approval owner who can <code>expedite</code> the firmware sign-off.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/expedite",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "expedite",
+    "word": "Expedite",
+    "partOfSpeech": "verb",
+    "href": "./expedite.html",
+    "thesis": "不是硬催，而是移除阻礙、理順流程，讓事情更快往前走。",
+    "tags": [
+      "提速",
+      "清障",
+      "accelerate",
+      "workflow",
+      "approval",
+      "verb",
+      "expedite"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 expedite 和 accelerate 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " expedite 的字源畫面是把腳上的束縛解開，不是盲目催快。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句流程、批准或物流提速情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/expedite",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/expedite",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/expedite",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Subtle",
+    "slug": "subtle",
+    "outputPath": "prototypes/subtle.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Subtle",
+    "WORD_SLUG": "subtle",
+    "WORD_LOWER": "subtle",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "SUT-uhl · UK /ˈsʌt.əl/ · US /ˈsʌt̬.əl/",
+    "THESIS": "不是模糊，而是變化很細、層次很輕，需要你有注意力才看得出來。",
+    "LEARNING_POSITION": "把 subtle 記成「fine-grained, not loud」：不是不清楚，而是不大聲。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "4.16",
+    "CORE_IDEA": "<code>subtle</code> 用來描述差異、暗示、氣味、表情或設計選擇細微而不張揚。",
+    "CONCEPT_FOCUS": "核心是細膩與低聲量，不是含糊。",
+    "TONE_REGISTER": "常見於藝術、設計、文字、感受與精細觀察。",
+    "USE_WARNING": "不要把 subtle 當成 vague；subtle 常常很精準，只是需要更細的感知。",
+    "SHORT_DEFINITION": "不是模糊，而是變化很細、層次很輕，需要你有注意力才看得出來。",
+    "CONFUSION_WORD": "Vague",
+    "CONFUSION_NOTE": "<code>vague</code> 是不清楚；<code>subtle</code> 則是很細、很輕、但其實有明確差別。",
+    "FLOW_1": "差異本來存在",
+    "FLOW_2": "音量很低不明顯",
+    "FLOW_3": "有注意力的人才會看出來",
+    "ORIGIN_PARAGRAPH": "<code>subtle</code> 的歷史和細緻、精巧、難以抓住的感覺有關，所以它不是空，而是細。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是畫面沒東西，而是線條很細，要靠近看才看得出工夫。",
+    "MEMORY_HOOK": "<code>subtle</code> 是差異沒有消失，只是把音量調低了。",
+    "MEMORY_EXPLANATION": "真正成熟的改動常很 subtle：不吵，但會讓整體更順。",
+    "DAILY_USAGE": "好的香氣層次往往很 <code>subtle</code>，不是一打開就直接轟過來。",
+    "PROFESSIONAL_USAGE": "在 UI 或 timing 問題裡，最難抓的常是那些 subtle changes，因為它們會讓你先懷疑是不是自己看錯。",
+    "DOMAIN_USAGE": "藝術評論、感官描寫、產品體驗與 bug 觀察都常用 <code>subtle</code>。",
+    "COLLOCATION_NOTE": "Subtle 常和 difference、hint、shift、pattern 搭配。",
+    "COLLOCATION_1": "a subtle difference",
+    "REGISTER_1": "分析 / 比較",
+    "COLLOCATION_NOTE_1": "表示差異很小但真實存在。",
+    "COLLOCATION_2": "a subtle shift",
+    "REGISTER_2": "情緒 / 趨勢",
+    "COLLOCATION_NOTE_2": "表示改變不大聲卻重要。",
+    "COLLOCATION_3": "subtle pattern",
+    "REGISTER_3": "設計 / debug",
+    "COLLOCATION_NOTE_3": "表示需要仔細看才認得出的規律。",
+    "NEIGHBOR_SELF": "細小卻真實存在的差異與層次",
+    "NEIGHBOR_SELF_USE": "談感官、設計、情緒、模式或觀察細節時",
+    "NEIGHBOR_1": "Vague",
+    "NEIGHBOR_1_MEANING": "含糊、不清楚、講不明白",
+    "NEIGHBOR_1_USE": "重點是資訊不足，而不是細微層次時",
+    "MODERN_USE_1": "現代英文裡，<code>subtle</code> 很常被誤聽成 vague，但其實它更接近精細、克制與需要注意力。",
+    "MODERN_USE_2": "在工程語境中，它非常適合描述那些不大聲卻會實際改變系統感受或行為的微差。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/subtle",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/subtle",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/subtle",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 subtle 和 vague 的差異。",
+    "CHECK_ORIGIN": "記得 subtle 的重點是細而真，不是模糊不清。",
+    "CHECK_SENTENCE": "我能用它造一句細微差異、氣味或系統微變化的英文句子。",
+    "PRACTICE_SENTENCE": "The new scheduler introduced a <code>subtle</code> timing shift that only showed up under heat.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/subtle",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "subtle",
+    "word": "Subtle",
+    "partOfSpeech": "adjective",
+    "href": "./subtle.html",
+    "thesis": "不是模糊，而是變化很細、層次很輕，需要你有注意力才看得出來。",
+    "tags": [
+      "細膩差異",
+      "低音量變化",
+      "vague",
+      "design",
+      "timing",
+      "adjective",
+      "subtle"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 subtle 和 vague 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " subtle 的重點是細而真，不是模糊不清。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句細微差異、氣味或系統微變化的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/subtle",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/subtle",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/subtle",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

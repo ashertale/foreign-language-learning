@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Equanimity",
+    "slug": "equanimity",
+    "outputPath": "prototypes/equanimity.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Equanimity",
+    "WORD_SLUG": "equanimity",
+    "WORD_LOWER": "equanimity",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "ee-kwuh-NIM-uh-tee · UK /ˌiː.kwəˈnɪm.ə.ti/ · US /ˌiː.kwəˈnɪm.ə.t̬i/",
+    "THESIS": "不是沒有波動，而是在波動裡仍保有內在平衡，不輕易被拉走。",
+    "LEARNING_POSITION": "把 equanimity 記成「inner balance under changing conditions」：不是麻木，而是穩定的重心還在。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.39",
+    "CORE_IDEA": "<code>equanimity</code> 用來描述人在壓力、變化、挑釁或失望中，仍能維持均衡而不失去判斷。",
+    "CONCEPT_FOCUS": "核心是平衡感，而不是情緒歸零。",
+    "TONE_REGISTER": "常見於心理、哲學、人物描寫與高壓表現評價。",
+    "USE_WARNING": "不要把 equanimity 當成 emotional numbness；它不是沒有感受，而是感受沒有奪走你的中心。",
+    "SHORT_DEFINITION": "不是沒有波動，而是在波動裡仍保有內在平衡，不輕易被拉走。",
+    "CONFUSION_WORD": "Calm",
+    "CONFUSION_NOTE": "<code>calm</code> 可以只是當下平靜；<code>equanimity</code> 更像在起伏中還守住平衡。",
+    "FLOW_1": "外界先波動",
+    "FLOW_2": "內在不被整個拉走",
+    "FLOW_3": "判斷仍站得住",
+    "ORIGIN_PARAGRAPH": "<code>equanimity</code> 來自拉丁語裡「平等的心智」脈絡，所以它天然帶著心裡保持水平的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：桌面在晃，但杯中的水沒有整個灑出來。",
+    "MEMORY_HOOK": "<code>equanimity</code> 是局面有浪，你心裡還有水平線。",
+    "MEMORY_EXPLANATION": "很多成熟不是從不受影響，而是受影響後依然能回到穩定中心。",
+    "DAILY_USAGE": "面對誤會或失望時保有 <code>equanimity</code>，不是不難過，而是不讓自己整個被情緒接管。",
+    "PROFESSIONAL_USAGE": "在 incident 或 review 裡，equanimity 能讓你先把注意力拉回事實，而不是被場面推著跑。",
+    "DOMAIN_USAGE": "心理修養、領導觀察與敘事人物塑造都常用 <code>equanimity</code> 來談穩定重心。",
+    "COLLOCATION_NOTE": "Equanimity 常和 maintain、with、remarkable 這類用法一起出現。",
+    "COLLOCATION_1": "maintain equanimity",
+    "REGISTER_1": "心理 / 表現",
+    "COLLOCATION_NOTE_1": "表示在波動中仍守住平衡。",
+    "COLLOCATION_2": "with equanimity",
+    "REGISTER_2": "寫作 / 描寫",
+    "COLLOCATION_NOTE_2": "表示以穩定姿態承接變化。",
+    "COLLOCATION_3": "remarkable equanimity",
+    "REGISTER_3": "人物 / 評價",
+    "COLLOCATION_NOTE_3": "表示那份平衡感很不容易。",
+    "NEIGHBOR_SELF": "起伏之中仍有穩定重心",
+    "NEIGHBOR_SELF_USE": "談壓力、人物修養、領導或心理韌性時",
+    "NEIGHBOR_1": "Calm",
+    "NEIGHBOR_1_MEANING": "當下平靜、沒有騷動",
+    "NEIGHBOR_1_USE": "只需描述平靜狀態，不必強調波動中的平衡時",
+    "MODERN_USE_1": "現代英文裡，<code>equanimity</code> 常被拿來描述真正成熟的穩定感，尤其在壓力與不確定性很高的情境裡。",
+    "MODERN_USE_2": "它比 calm 更適合說明一種可持續的內在平衡，而不是短暫的安靜。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/equanimity",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/equanimity",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/equanimity",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 equanimity 和 calm 的差異。",
+    "CHECK_ORIGIN": "記得 equanimity 的畫面是心裡有水平線，不是完全沒情緒。",
+    "CHECK_SENTENCE": "我能用它造一句壓力、誤會或高壓場合穩定重心的英文句子。",
+    "PRACTICE_SENTENCE": "He answered the harshest review comment with unusual <code>equanimity</code>.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/equanimity",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "equanimity",
+    "word": "Equanimity",
+    "partOfSpeech": "noun",
+    "href": "./equanimity.html",
+    "thesis": "不是沒有波動，而是在波動裡仍保有內在平衡，不輕易被拉走。",
+    "tags": [
+      "平衡心",
+      "內在穩定",
+      "calm",
+      "leadership",
+      "mindset",
+      "noun",
+      "equanimity"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 equanimity 和 calm 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " equanimity 的畫面是心裡有水平線，不是完全沒情緒。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句壓力、誤會或高壓場合穩定重心的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/equanimity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/equanimity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/equanimity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

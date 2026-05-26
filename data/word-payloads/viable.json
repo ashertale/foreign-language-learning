@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Viable",
+    "slug": "viable",
+    "outputPath": "prototypes/viable.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Viable",
+    "WORD_SLUG": "viable",
+    "WORD_LOWER": "viable",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "VY-uh-buhl · UK /ˈvaɪ.ə.bəl/ · US /ˈvaɪ.ə.bəl/",
+    "THESIS": "不是完美，而是能活、能撐、能作為真正可用的選項存在。",
+    "LEARNING_POSITION": "把 viable 記成「able to live or hold up in the real world」：重點不是好看，而是能活下去。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.73",
+    "CORE_IDEA": "<code>viable</code> 用來描述方案、產品、商業模式或生物體具備存活、運作或持續成立的能力。",
+    "CONCEPT_FOCUS": "核心是可持續存在，不只是勉強能做。",
+    "TONE_REGISTER": "常見於商務、產品、策略、生物與研究討論。",
+    "USE_WARNING": "不要把 viable 當成等於 ideal；一個 viable option 只是可活，不保證最漂亮。",
+    "SHORT_DEFINITION": "不是完美，而是能活、能撐、能作為真正可用的選項存在。",
+    "CONFUSION_WORD": "Feasible",
+    "CONFUSION_NOTE": "<code>feasible</code> 側重做不做得出來；<code>viable</code> 更看做出來之後能不能繼續活、繼續成立。",
+    "FLOW_1": "先確認能做",
+    "FLOW_2": "再看能不能撐住",
+    "FLOW_3": "最後成為真正可用選項",
+    "ORIGIN_PARAGRAPH": "<code>viable</code> 和拉丁語裡「生命」的脈絡相關，所以它天生帶著能活、能存續的味道。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是種子剛發芽而已，而是它有機會長成能活下去的植株。",
+    "MEMORY_HOOK": "<code>viable</code> 是它不只做得出來，還活得下去。",
+    "MEMORY_EXPLANATION": "很多方案 technical feasible，但未必 long-term viable。這兩者常常不是同一件事。",
+    "DAILY_USAGE": "搬到新城市的計畫也許可行，但是否 <code>viable</code> 還要看工作、生活與支持系統能不能撐。",
+    "PROFESSIONAL_USAGE": "一個 prototype 也許能跑，但只有在維護、成本與風險都扛得住時，它才算 <code>viable</code>.",
+    "DOMAIN_USAGE": "商業模式、產品策略、生物學與醫療都常用 <code>viable</code> 來談存續能力。",
+    "COLLOCATION_NOTE": "Viable 常和 option、model、solution、cells 搭配。",
+    "COLLOCATION_1": "a viable option",
+    "REGISTER_1": "決策 / 策略",
+    "COLLOCATION_NOTE_1": "表示它是能真正採用的選項。",
+    "COLLOCATION_2": "commercially viable",
+    "REGISTER_2": "商務 / 產品",
+    "COLLOCATION_NOTE_2": "表示商業上能活下去。",
+    "COLLOCATION_3": "viable solution",
+    "REGISTER_3": "工程 / 設計",
+    "COLLOCATION_NOTE_3": "表示方案不只成立，還撐得住。",
+    "NEIGHBOR_SELF": "能活、能撐、能持續成立",
+    "NEIGHBOR_SELF_USE": "談商業模式、產品方案或長期選項時",
+    "NEIGHBOR_1": "Feasible",
+    "NEIGHBOR_1_MEANING": "條件下做得出來",
+    "NEIGHBOR_1_USE": "只想驗證可執行，不討論後續存續時",
+    "MODERN_USE_1": "現代英文裡，<code>viable</code> 很常用來提醒團隊：能做出來和做得長久，是兩個不同層次。",
+    "MODERN_USE_2": "在工程與產品決策裡，它能幫你把討論從 demo success 拉到長期維護與成本現實。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/viable",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/viable",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/viable",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 viable 和 feasible 的差異。",
+    "CHECK_ORIGIN": "記得 viable 和生命、存續直接相連，所以重點是活得下去。",
+    "CHECK_SENTENCE": "我能用它造一句產品、商業模式或長期方案能否存活的英文句子。",
+    "PRACTICE_SENTENCE": "The workaround was feasible for a week, but not truly <code>viable</code> for production.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/viable",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "viable",
+    "word": "Viable",
+    "partOfSpeech": "adjective",
+    "href": "./viable.html",
+    "thesis": "不是完美，而是能活、能撐、能作為真正可用的選項存在。",
+    "tags": [
+      "能存活",
+      "撐得住",
+      "feasible",
+      "product",
+      "strategy",
+      "adjective",
+      "viable"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 viable 和 feasible 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " viable 和生命、存續直接相連，所以重點是活得下去。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句產品、商業模式或長期方案能否存活的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/viable",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/viable",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/viable",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

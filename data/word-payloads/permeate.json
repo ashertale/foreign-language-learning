@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Permeate",
+    "slug": "permeate",
+    "outputPath": "prototypes/permeate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Permeate",
+    "WORD_SLUG": "permeate",
+    "WORD_LOWER": "permeate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "PUR-mee-ayt · UK /ˈpɜː.mi.eɪt/ · US /ˈpɝː.mi.eɪt/",
+    "THESIS": "不是停在表面，而是一路滲進整個空間、結構或氛圍裡。",
+    "LEARNING_POSITION": "把 permeate 記成「soak through the whole thing」：不是碰一下，而是到處都被它沾到。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.20",
+    "CORE_IDEA": "<code>permeate</code> 用來描述氣味、觀念、文化、風險或情緒逐步滲透到整個環境或系統裡。",
+    "CONCEPT_FOCUS": "核心是穿透與滲透全局，不是局部覆蓋。",
+    "TONE_REGISTER": "常見於氣味、文化、組織氛圍、寫作與系統影響描述。",
+    "USE_WARNING": "不要把 permeate 當成 simply spread；spread 可以停在表面，permeate 更像一路滲透進內部。",
+    "SHORT_DEFINITION": "不是停在表面，而是一路滲進整個空間、結構或氛圍裡。",
+    "CONFUSION_WORD": "Spread",
+    "CONFUSION_NOTE": "<code>spread</code> 可以只是擴散；<code>permeate</code> 更像穿透並進入整體內部。",
+    "FLOW_1": "先接觸表面",
+    "FLOW_2": "逐步往內滲",
+    "FLOW_3": "最後整體都帶著它",
+    "ORIGIN_PARAGRAPH": "<code>permeate</code> 和拉丁語裡「穿過」的脈絡有關，所以它很自然地帶有跨層穿透感。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是顏料抹在牆上，而是水分一路滲進牆體裡。",
+    "MEMORY_HOOK": "<code>permeate</code> 是東西不只來過，而是進去了。",
+    "MEMORY_EXPLANATION": "很多文化不是靠一張海報建立，而是慢慢 permeate 到日常決策與語氣裡。",
+    "DAILY_USAGE": "雨後的氣味會 <code>permeate</code> the room，不是站在門口才聞得到。",
+    "PROFESSIONAL_USAGE": "如果 blame culture <code>permeates</code> a team，後面每個討論都會被它染色。",
+    "DOMAIN_USAGE": "化學、氣味、文化、制度與風險擴散都常用 <code>permeate</code>。",
+    "COLLOCATION_NOTE": "Permeate 常和 atmosphere、culture、system、air 搭配。",
+    "COLLOCATION_1": "permeate the culture",
+    "REGISTER_1": "組織 / 文化",
+    "COLLOCATION_NOTE_1": "表示價值或壞習慣滲進整個團隊。",
+    "COLLOCATION_2": "permeate the air",
+    "REGISTER_2": "氣味 / 描寫",
+    "COLLOCATION_NOTE_2": "表示味道充滿整個空間。",
+    "COLLOCATION_3": "permeate the system",
+    "REGISTER_3": "工程 / 結構",
+    "COLLOCATION_NOTE_3": "表示影響已經滲進各層。",
+    "NEIGHBOR_SELF": "一路滲透到整個內部",
+    "NEIGHBOR_SELF_USE": "談文化、氣味、風險或系統影響時",
+    "NEIGHBOR_1": "Spread",
+    "NEIGHBOR_1_MEANING": "向外擴散開來",
+    "NEIGHBOR_1_USE": "重點在分布變廣，不一定穿透到內部時",
+    "MODERN_USE_1": "現代英文裡，<code>permeate</code> 很適合描述那些不是局部事件，而是已經進到整個環境紋理裡的影響。",
+    "MODERN_USE_2": "在工程與組織語境中，它能幫你指出問題不是 isolated bug，而是某種模式已經滲透到全系統。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/permeate",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/permeate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/permeate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 permeate 和 spread 的差異。",
+    "CHECK_ORIGIN": "記得 permeate 的畫面是一路穿進整體，不是停在表面。",
+    "CHECK_SENTENCE": "我能用它造一句文化、氣味或風險滲透整體的英文句子。",
+    "PRACTICE_SENTENCE": "A habit of skipping checks had slowly <code>permeated</code> the release process.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/permeate",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "permeate",
+    "word": "Permeate",
+    "partOfSpeech": "verb",
+    "href": "./permeate.html",
+    "thesis": "不是停在表面，而是一路滲進整個空間、結構或氛圍裡。",
+    "tags": [
+      "滲透",
+      "穿進去",
+      "spread",
+      "culture",
+      "system",
+      "verb",
+      "permeate"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 permeate 和 spread 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " permeate 的畫面是一路穿進整體，不是停在表面。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句文化、氣味或風險滲透整體的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/permeate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/permeate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/permeate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Embody",
+    "slug": "embody",
+    "outputPath": "prototypes/embody.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Embody",
+    "WORD_SLUG": "embody",
+    "WORD_LOWER": "embody",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "em-BOD-ee · UK /ɪmˈbɒd.i/ · US /ɪmˈbɑː.di/",
+    "THESIS": "不是只代表，而是把抽象價值、精神或原則真的長成具體形體。",
+    "LEARNING_POSITION": "把 embody 記成「make an abstract idea take visible form」：不是掛名，而是真的活出來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.57",
+    "CORE_IDEA": "<code>embody</code> 用來描述一個人、設計、制度或作品把某種抽象理念具體地呈現出來。",
+    "CONCEPT_FOCUS": "核心是具體化，不只是符號式代表。",
+    "TONE_REGISTER": "常見於人物描寫、設計評論、品牌、文化與價值討論。",
+    "USE_WARNING": "不要把 embody 當成簡單的 represent；它常表示那個精神已經活在這個具體載體裡。",
+    "SHORT_DEFINITION": "不是只代表，而是把抽象價值、精神或原則真的長成具體形體。",
+    "CONFUSION_WORD": "Represent",
+    "CONFUSION_NOTE": "<code>represent</code> 可以只是代稱；<code>embody</code> 更像抽象理念真的在這個人或事物身上長出來。",
+    "FLOW_1": "先有抽象概念",
+    "FLOW_2": "找到具體載體",
+    "FLOW_3": "理念在載體上活起來",
+    "ORIGIN_PARAGRAPH": "<code>embody</code> 直接和 body 這條線連在一起，所以它從一開始就帶著把無形東西放進有形身體裡的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是在紙上寫出價值，而是讓價值真的有一個能看見的身體。",
+    "MEMORY_HOOK": "<code>embody</code> 是理念不只被說出來，而是被長出來。",
+    "MEMORY_EXPLANATION": "一個好的工具會 embody 一套思考方式，而不只是列出功能清單。",
+    "DAILY_USAGE": "有些人一出現就 <code>embody</code> calm authority，不用多講你也感覺得到。",
+    "PROFESSIONAL_USAGE": "在產品設計裡，好的 workflow 應該 <code>embody</code> the team's real priorities，而不是只把口號貼上去。",
+    "DOMAIN_USAGE": "品牌、制度、建築與人物描寫都常用 <code>embody</code> 來談理念如何具體存在。",
+    "COLLOCATION_NOTE": "Embody 常和 values、spirit、principle、ideal、tradition 搭配。",
+    "COLLOCATION_1": "embody the values",
+    "REGISTER_1": "品牌 / 組織",
+    "COLLOCATION_NOTE_1": "表示價值真的活在行為與設計裡。",
+    "COLLOCATION_2": "embody a principle",
+    "REGISTER_2": "設計 / 哲學",
+    "COLLOCATION_NOTE_2": "表示抽象原則被具體落實。",
+    "COLLOCATION_3": "embody the spirit of",
+    "REGISTER_3": "文化 / 描寫",
+    "COLLOCATION_NOTE_3": "表示某種精神被完整承接。",
+    "NEIGHBOR_SELF": "讓抽象概念在具體載體上活起來",
+    "NEIGHBOR_SELF_USE": "談人物、產品、制度、建築或品牌時",
+    "NEIGHBOR_1": "Represent",
+    "NEIGHBOR_1_MEANING": "象徵或指向某個概念",
+    "NEIGHBOR_1_USE": "只需代表示意，不必強調具體化時",
+    "MODERN_USE_1": "現代英文裡，<code>embody</code> 很常用來評價產品、領導與品牌是否真的把理念落到具體行為與形式。",
+    "MODERN_USE_2": "它也很適合用在工程文化：一個流程是否 embody quality，常比口頭宣示更能看出真實價值。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/embody",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/embody",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/embody",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 embody 和 represent 的差異。",
+    "CHECK_ORIGIN": "記得 embody 和 body 直接相關，重點是讓理念有具體身體。",
+    "CHECK_SENTENCE": "我能用它造一句價值、設計或人物氣質具體化的英文句子。",
+    "PRACTICE_SENTENCE": "The review checklist should <code>embody</code> the discipline we want in the team.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/embody",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "embody",
+    "word": "Embody",
+    "partOfSpeech": "verb",
+    "href": "./embody.html",
+    "thesis": "不是只代表，而是把抽象價值、精神或原則真的長成具體形體。",
+    "tags": [
+      "具體化",
+      "化身",
+      "represent",
+      "values",
+      "design",
+      "verb",
+      "embody"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 embody 和 represent 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " embody 和 body 直接相關，重點是讓理念有具體身體。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句價值、設計或人物氣質具體化的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/embody",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/embody",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/embody",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

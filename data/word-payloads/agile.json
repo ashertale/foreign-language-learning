@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Agile",
+    "slug": "agile",
+    "outputPath": "prototypes/agile.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Agile",
+    "WORD_SLUG": "agile",
+    "WORD_LOWER": "agile",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "AJ-uhl · UK /ˈædʒ.aɪl/ · US /ˈædʒ.əl/",
+    "THESIS": "不是只說快，而是動得快、轉得快，而且不會因為笨重流程卡住。",
+    "LEARNING_POSITION": "把 agile 記成「quick response without stiffness」：不是只說快，而是動得快、轉得快，而且不會因為笨重流程卡住。",
+    "CEFR_LEVEL": "B2",
+    "ZIPF_FREQUENCY": "4.01",
+    "CORE_IDEA": "<code>agile</code> 表示動作、思考或組織反應靈活，能迅速調整方向。",
+    "CONCEPT_FOCUS": "核心畫面是 quick response without stiffness。",
+    "TONE_REGISTER": "這個字常見於 產品開發、組織反應與身體動作；語氣上不是空泛形容，而是用來抓住 quick response without stiffness 這種狀態或動作。",
+    "USE_WARNING": "不要把 agile 只看成 fast；<code>fast</code> 多半只是 速度快，而 <code>agile</code> 更強調 quick response without stiffness。",
+    "SHORT_DEFINITION": "表示動作、思考或組織反應靈活，能迅速調整方向。",
+    "CONFUSION_WORD": "Fast",
+    "CONFUSION_NOTE": "<code>fast</code> 多半只是 速度快；<code>agile</code> 則更偏向 quick response without stiffness。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 quick response without stiffness 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>agile</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：quick response without stiffness。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像輕巧的腳步不是衝刺而已，而是能在轉彎時不失去平衡。",
+    "MEMORY_HOOK": "<code>agile</code> 的畫面是：像輕巧的腳步不是衝刺而已，而是能在轉彎時不失去平衡。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 agile，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>agile response</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>agile team</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "產品開發、組織反應與身體動作 這類場景特別適合放進 <code>agile movement</code>，因為那裡常需要描述 quick response without stiffness。",
+    "COLLOCATION_NOTE": "Agile 很適合透過固定搭配來抓語感，尤其是你想把 quick response without stiffness 說得更自然時。",
+    "COLLOCATION_1": "agile response",
+    "REGISTER_1": "產品 / 管理",
+    "COLLOCATION_NOTE_1": "這個搭配能把 quick response without stiffness 的語感直接帶出來。",
+    "COLLOCATION_2": "agile team",
+    "REGISTER_2": "工作 / 組織",
+    "COLLOCATION_NOTE_2": "放到 產品開發、組織反應與身體動作 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "agile movement",
+    "REGISTER_3": "身體 / 運動",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 agile 的實際使用邊界。",
+    "NEIGHBOR_SELF": "quick response without stiffness",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 速度快，而是 quick response without stiffness 這層語感時",
+    "NEIGHBOR_1": "Fast",
+    "NEIGHBOR_1_MEANING": "速度快",
+    "NEIGHBOR_1_USE": "只想表達 速度快，而不需要 quick response without stiffness 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>agile</code> 常和 <code>agile response</code>、<code>agile team</code>、<code>agile movement</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 產品開發、組織反應與身體動作 的語境裡，這個字能比一般近義詞更精準地抓住 quick response without stiffness。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/agile",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/agile",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/agile",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 agile 和 fast 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像輕巧的腳步不是衝刺而已，而是能在轉彎時不失去平衡。",
+    "CHECK_SENTENCE": "我能用 <code>agile response</code> 或 <code>agile team</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>agile response</code> 或 <code>agile team</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/agile",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "agile",
+    "word": "Agile",
+    "partOfSpeech": "adjective",
+    "href": "./agile.html",
+    "thesis": "不是只說快，而是動得快、轉得快，而且不會因為笨重流程卡住。",
+    "tags": [
+      "靈活",
+      "敏捷",
+      "fast",
+      "product",
+      "teamwork",
+      "adjective",
+      "agile"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 agile 和 fast 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像輕巧的腳步不是衝刺而已，而是能在轉彎時不失去平衡。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 agile response 或 agile team 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/agile",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/agile",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/agile",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

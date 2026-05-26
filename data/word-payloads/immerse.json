@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Immerse",
+    "slug": "immerse",
+    "outputPath": "prototypes/immerse.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Immerse",
+    "WORD_SLUG": "immerse",
+    "WORD_LOWER": "immerse",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "ih-MURS · UK /ɪˈmɜːs/ · US /ɪˈmɝːs/",
+    "THESIS": "不是看一眼，而是把自己整個放進某個環境、內容或活動裡。",
+    "LEARNING_POSITION": "把 immerse 記成「put yourself fully into it」：不是站在岸上看，而是真的走進水裡。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.40",
+    "CORE_IDEA": "<code>immerse</code> 用來描述人把注意力、身體或心智完全投入某個情境、文化、學習或工作。",
+    "CONCEPT_FOCUS": "核心是整體投入，不是表面接觸。",
+    "TONE_REGISTER": "常見於學習、文化、藝術、研究與深度工作描述。",
+    "USE_WARNING": "不要把 immerse 當成一般 focus；focus 可以只是一時專心，immerse 更像整個人進入那個環境。",
+    "SHORT_DEFINITION": "不是看一眼，而是把自己整個放進某個環境、內容或活動裡。",
+    "CONFUSION_WORD": "Focus",
+    "CONFUSION_NOTE": "<code>focus</code> 可以只是注意集中；<code>immerse</code> 更像你把自己整個放進去。",
+    "FLOW_1": "先靠近一個世界",
+    "FLOW_2": "逐步進入其中",
+    "FLOW_3": "外內節奏都被它包住",
+    "ORIGIN_PARAGRAPH": "<code>immerse</code> 和「浸入液體」的歷史畫面直接相連，所以它天然帶著整個人被包起來的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把手指碰水，而是整個身體走進去。",
+    "MEMORY_HOOK": "<code>immerse</code> 是你不再只旁觀，而是真的進到那個世界裡。",
+    "MEMORY_EXPLANATION": "很多學習真正變快，是因為你從偶爾碰一下，變成長時間 immerse 在其中。",
+    "DAILY_USAGE": "旅行如果只是拍照打卡，不一定有 immersion；真的 <code>immerse</code> 自己通常要慢慢生活在那裡。",
+    "PROFESSIONAL_USAGE": "要理解一個複雜 codebase，常常得先 <code>immerse</code> yourself in its logs, naming, and failure modes.",
+    "DOMAIN_USAGE": "語言學習、民族誌、藝術創作與深度研究都常用 <code>immerse</code> 來談投入程度。",
+    "COLLOCATION_NOTE": "Immerse 常和 in、yourself、fully 搭配。",
+    "COLLOCATION_1": "immerse yourself in the language",
+    "REGISTER_1": "學習 / 語言",
+    "COLLOCATION_NOTE_1": "表示把自己放進語言環境中。",
+    "COLLOCATION_2": "fully immersed",
+    "REGISTER_2": "體驗 / 描寫",
+    "COLLOCATION_NOTE_2": "表示整個人都在那個情境裡。",
+    "COLLOCATION_3": "immerse in the codebase",
+    "REGISTER_3": "工程 / onboarding",
+    "COLLOCATION_NOTE_3": "表示不是掃過，而是深入熟悉。",
+    "NEIGHBOR_SELF": "把整個人真正放進一個情境裡",
+    "NEIGHBOR_SELF_USE": "談學習、文化、閱讀、研究或 deep work 時",
+    "NEIGHBOR_1": "Focus",
+    "NEIGHBOR_1_MEANING": "集中注意力",
+    "NEIGHBOR_1_USE": "只想說專心，不一定整體沉浸時",
+    "MODERN_USE_1": "現代英文裡，<code>immerse</code> 很常用來形容真正高濃度的學習與體驗，因為表面接觸和沉浸式投入差很多。",
+    "MODERN_USE_2": "在工程語境中，它也很適合描述 onboarding 或調查一個複雜系統時那種全身進場的狀態。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/immerse",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/immerse",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/immerse",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 immerse 和 focus 的差異。",
+    "CHECK_ORIGIN": "記得 immerse 的畫面是整個人走進水裡，不只是專心看著它。",
+    "CHECK_SENTENCE": "我能用它造一句語言、研究或 codebase 深度投入的英文句子。",
+    "PRACTICE_SENTENCE": "To debug the issue properly, we had to <code>immerse</code> ourselves in the scheduler traces for a week.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/immerse",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "immerse",
+    "word": "Immerse",
+    "partOfSpeech": "verb",
+    "href": "./immerse.html",
+    "thesis": "不是看一眼，而是把自己整個放進某個環境、內容或活動裡。",
+    "tags": [
+      "沉浸",
+      "投入",
+      "focus",
+      "learning",
+      "codebase",
+      "verb",
+      "immerse"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 immerse 和 focus 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " immerse 的畫面是整個人走進水裡，不只是專心看著它。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句語言、研究或 codebase 深度投入的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/immerse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/immerse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/immerse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

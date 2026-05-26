@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Impetus",
+    "slug": "impetus",
+    "outputPath": "prototypes/impetus.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Impetus",
+    "WORD_SLUG": "impetus",
+    "WORD_LOWER": "impetus",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "IM-puh-tus · UK /ˈɪm.pə.təs/ · US /ˈɪm.pə.təs/",
+    "THESIS": "不是抽象理由，而是那股把事情往前推、讓動作真正開始的推力。",
+    "LEARNING_POSITION": "把 impetus 記成「the push that gets movement going」：不是只是想法，而是會讓人往前踏的力。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.17",
+    "CORE_IDEA": "<code>impetus</code> 用來描述一個事件、需求或念頭成為前進、改變或行動的直接推力。",
+    "CONCEPT_FOCUS": "核心是推進力，不只是原因存在。",
+    "TONE_REGISTER": "常見於策略、政策、產品與歷史敘事。",
+    "USE_WARNING": "不要把 impetus 當成一般 motivation；它更像具體把動作推出去的那一下。",
+    "SHORT_DEFINITION": "不是抽象理由，而是那股把事情往前推、讓動作真正開始的推力。",
+    "CONFUSION_WORD": "Motivation",
+    "CONFUSION_NOTE": "<code>motivation</code> 可以是內在意願；<code>impetus</code> 更像讓事情真正開始動的推力。",
+    "FLOW_1": "先感到需要改變",
+    "FLOW_2": "推力成形",
+    "FLOW_3": "行動開始往前",
+    "ORIGIN_PARAGRAPH": "<code>impetus</code> 和拉丁語裡「攻擊、衝擊、推進」相關，所以它天然帶有動量被推出去的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是只在原地想，而是背後突然多了一股把你推出去的力。",
+    "MEMORY_HOOK": "<code>impetus</code> 是事情從想法變成動作的那一下推力。",
+    "MEMORY_EXPLANATION": "很多改革缺的不是知道問題，而是缺一個足夠強的 impetus。",
+    "DAILY_USAGE": "一次失望有時反而會變成你重新整理生活節奏的 <code>impetus</code>.",
+    "PROFESSIONAL_USAGE": "那次 field failure 成了重整 test strategy 的真正 <code>impetus</code>.",
+    "DOMAIN_USAGE": "政策、商務與歷史敘述常用 <code>impetus</code> 來描述改變的直接推動因素。",
+    "COLLOCATION_NOTE": "Impetus 常和 for 搭配，後面接 change、reform、action、growth。",
+    "COLLOCATION_1": "the impetus for change",
+    "REGISTER_1": "策略 / 組織",
+    "COLLOCATION_NOTE_1": "表示真正推動改變的力量。",
+    "COLLOCATION_2": "renewed impetus",
+    "REGISTER_2": "商務 / 專案",
+    "COLLOCATION_NOTE_2": "表示原本停滯的事重新得到推力。",
+    "COLLOCATION_3": "give impetus to",
+    "REGISTER_3": "寫作 / 報導",
+    "COLLOCATION_NOTE_3": "表示替某件事注入前進動能。",
+    "NEIGHBOR_SELF": "把事情往前推出去的推力",
+    "NEIGHBOR_SELF_USE": "談改革、行動、產品決策或歷史轉折時",
+    "NEIGHBOR_1": "Motivation",
+    "NEIGHBOR_1_MEANING": "內在想做的理由或意願",
+    "NEIGHBOR_1_USE": "重點是想做，而不是動量真正被推出去時",
+    "MODERN_USE_1": "現代英文裡，<code>impetus</code> 很常被用來點出「知道問題」和「真的開始動」之間的差別。",
+    "MODERN_USE_2": "在工程與組織語境中，它很適合描述哪個事件終於把 backlog 從認知變成行動。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/impetus",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/impetus",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/impetus",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 impetus 和 motivation 的差異。",
+    "CHECK_ORIGIN": "記得 impetus 的底層畫面是推進力，不只是抽象動機。",
+    "CHECK_SENTENCE": "我能用它造一句改革、決策或行動被推動的英文句子。",
+    "PRACTICE_SENTENCE": "The repeated outages gave the team the <code>impetus</code> to finally rework the rollback path.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/impetus",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "impetus",
+    "word": "Impetus",
+    "partOfSpeech": "noun",
+    "href": "./impetus.html",
+    "thesis": "不是抽象理由，而是那股把事情往前推、讓動作真正開始的推力。",
+    "tags": [
+      "推力",
+      "動量",
+      "motivation",
+      "change",
+      "action",
+      "noun",
+      "impetus"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 impetus 和 motivation 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " impetus 的底層畫面是推進力，不只是抽象動機。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句改革、決策或行動被推動的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/impetus",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/impetus",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/impetus",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

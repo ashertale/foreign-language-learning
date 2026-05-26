@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Assertive",
+    "slug": "assertive",
+    "outputPath": "prototypes/assertive.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Assertive",
+    "WORD_SLUG": "assertive",
+    "WORD_LOWER": "assertive",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "uh-SUR-tiv · UK /əˈsɜː.tɪv/ · US /əˈsɝː.t̬ɪv/",
+    "THESIS": "不是兇，而是把界線與立場說清楚，不靠退縮也不靠壓人。",
+    "LEARNING_POSITION": "把 assertive 記成「clear self-position without needless aggression」：不是兇，而是把界線與立場說清楚，不靠退縮也不靠壓人。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.43",
+    "CORE_IDEA": "<code>assertive</code> 表示表達主張時清楚、直接、有邊界感。",
+    "CONCEPT_FOCUS": "核心畫面是 clear self-position without needless aggression。",
+    "TONE_REGISTER": "這個字常見於 職場溝通、界線管理與回饋表達；語氣上不是空泛形容，而是用來抓住 clear self-position without needless aggression 這種狀態或動作。",
+    "USE_WARNING": "不要把 assertive 只看成 aggressive；<code>aggressive</code> 多半只是 咄咄逼人或高壓，而 <code>assertive</code> 更強調 clear self-position without needless aggression。",
+    "SHORT_DEFINITION": "表示表達主張時清楚、直接、有邊界感。",
+    "CONFUSION_WORD": "Aggressive",
+    "CONFUSION_NOTE": "<code>aggressive</code> 多半只是 咄咄逼人或高壓；<code>assertive</code> 則更偏向 clear self-position without needless aggression。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 clear self-position without needless aggression 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>assertive</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：clear self-position without needless aggression。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像門是穩穩關上的，不是砰一聲甩上去。",
+    "MEMORY_HOOK": "<code>assertive</code> 的畫面是：像門是穩穩關上的，不是砰一聲甩上去。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 assertive，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>assertive tone</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>assertive leadership</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "職場溝通、界線管理與回饋表達 這類場景特別適合放進 <code>assertive response</code>，因為那裡常需要描述 clear self-position without needless aggression。",
+    "COLLOCATION_NOTE": "Assertive 很適合透過固定搭配來抓語感，尤其是你想把 clear self-position without needless aggression 說得更自然時。",
+    "COLLOCATION_1": "assertive tone",
+    "REGISTER_1": "溝通 / 人際",
+    "COLLOCATION_NOTE_1": "這個搭配能把 clear self-position without needless aggression 的語感直接帶出來。",
+    "COLLOCATION_2": "assertive leadership",
+    "REGISTER_2": "管理 / 團隊",
+    "COLLOCATION_NOTE_2": "放到 職場溝通、界線管理與回饋表達 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "assertive response",
+    "REGISTER_3": "工作 / 協作",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 assertive 的實際使用邊界。",
+    "NEIGHBOR_SELF": "clear self-position without needless aggression",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 咄咄逼人或高壓，而是 clear self-position without needless aggression 這層語感時",
+    "NEIGHBOR_1": "Aggressive",
+    "NEIGHBOR_1_MEANING": "咄咄逼人或高壓",
+    "NEIGHBOR_1_USE": "只想表達 咄咄逼人或高壓，而不需要 clear self-position without needless aggression 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>assertive</code> 常和 <code>assertive tone</code>、<code>assertive leadership</code>、<code>assertive response</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 職場溝通、界線管理與回饋表達 的語境裡，這個字能比一般近義詞更精準地抓住 clear self-position without needless aggression。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/assertive",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/assertive",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/assertive",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 assertive 和 aggressive 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像門是穩穩關上的，不是砰一聲甩上去。",
+    "CHECK_SENTENCE": "我能用 <code>assertive tone</code> 或 <code>assertive leadership</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>assertive tone</code> 或 <code>assertive leadership</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/assertive",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "assertive",
+    "word": "Assertive",
+    "partOfSpeech": "adjective",
+    "href": "./assertive.html",
+    "thesis": "不是兇，而是把界線與立場說清楚，不靠退縮也不靠壓人。",
+    "tags": [
+      "有主張",
+      "有界線",
+      "aggressive",
+      "communication",
+      "leadership",
+      "adjective",
+      "assertive"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 assertive 和 aggressive 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像門是穩穩關上的，不是砰一聲甩上去。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 assertive tone 或 assertive leadership 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assertive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/assertive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assertive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

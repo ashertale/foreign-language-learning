@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Deflect",
+    "slug": "deflect",
+    "outputPath": "prototypes/deflect.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Deflect",
+    "WORD_SLUG": "deflect",
+    "WORD_LOWER": "deflect",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "dih-FLEKT · UK /dɪˈflekt/ · US /dɪˈflekt/",
+    "THESIS": "不是正面承受，而是把來勢偏開。",
+    "LEARNING_POSITION": "把 deflect 記成「change the direction of force, attention, or blame」：不是正面承受，而是把來勢偏開。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.25",
+    "CORE_IDEA": "<code>deflect</code> 表示轉移撞擊、注意力、批評或問題方向。",
+    "CONCEPT_FOCUS": "核心畫面是 change the direction of force, attention, or blame。",
+    "TONE_REGISTER": "這個字常見於 衝突處理、物理受力與媒體應對；語氣上不是空泛形容，而是用來抓住 change the direction of force, attention, or blame 這種狀態或動作。",
+    "USE_WARNING": "不要把 deflect 只看成 redirect；<code>redirect</code> 多半只是 轉向，而 <code>deflect</code> 更強調 change the direction of force, attention, or blame。",
+    "SHORT_DEFINITION": "表示轉移撞擊、注意力、批評或問題方向。",
+    "CONFUSION_WORD": "Redirect",
+    "CONFUSION_NOTE": "<code>redirect</code> 多半只是 轉向；<code>deflect</code> 則更偏向 change the direction of force, attention, or blame。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 change the direction of force, attention, or blame 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>deflect</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：change the direction of force, attention, or blame。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像球本來直衝過來，拍面只偏一點，路徑就整個改了。",
+    "MEMORY_HOOK": "<code>deflect</code> 的畫面是：像球本來直衝過來，拍面只偏一點，路徑就整個改了。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 deflect，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>deflect criticism</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>deflect the beam</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "衝突處理、物理受力與媒體應對 這類場景特別適合放進 <code>deflect attention</code>，因為那裡常需要描述 change the direction of force, attention, or blame。",
+    "COLLOCATION_NOTE": "Deflect 很適合透過固定搭配來抓語感，尤其是你想把 change the direction of force, attention, or blame 說得更自然時。",
+    "COLLOCATION_1": "deflect criticism",
+    "REGISTER_1": "溝通 / 組織",
+    "COLLOCATION_NOTE_1": "這個搭配能把 change the direction of force, attention, or blame 的語感直接帶出來。",
+    "COLLOCATION_2": "deflect the beam",
+    "REGISTER_2": "光學 / 工程",
+    "COLLOCATION_NOTE_2": "放到 衝突處理、物理受力與媒體應對 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "deflect attention",
+    "REGISTER_3": "媒體 / 日常",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 deflect 的實際使用邊界。",
+    "NEIGHBOR_SELF": "change the direction of force, attention, or blame",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 轉向，而是 change the direction of force, attention, or blame 這層語感時",
+    "NEIGHBOR_1": "Redirect",
+    "NEIGHBOR_1_MEANING": "轉向",
+    "NEIGHBOR_1_USE": "只想表達 轉向，而不需要 change the direction of force, attention, or blame 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>deflect</code> 常和 <code>deflect criticism</code>、<code>deflect the beam</code>、<code>deflect attention</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 衝突處理、物理受力與媒體應對 的語境裡，這個字能比一般近義詞更精準地抓住 change the direction of force, attention, or blame。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/deflect",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/deflect",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/deflect",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 deflect 和 redirect 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像球本來直衝過來，拍面只偏一點，路徑就整個改了。",
+    "CHECK_SENTENCE": "我能用 <code>deflect criticism</code> 或 <code>deflect the beam</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>deflect criticism</code> 或 <code>deflect the beam</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/deflect",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "deflect",
+    "word": "Deflect",
+    "partOfSpeech": "verb",
+    "href": "./deflect.html",
+    "thesis": "不是正面承受，而是把來勢偏開。",
+    "tags": [
+      "偏轉",
+      "轉移",
+      "redirect",
+      "conflict",
+      "optics",
+      "verb",
+      "deflect"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 deflect 和 redirect 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像球本來直衝過來，拍面只偏一點，路徑就整個改了。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 deflect criticism 或 deflect the beam 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deflect",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/deflect",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deflect",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

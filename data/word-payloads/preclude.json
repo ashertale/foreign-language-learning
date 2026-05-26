@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Preclude",
+    "slug": "preclude",
+    "outputPath": "prototypes/preclude.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Preclude",
+    "WORD_SLUG": "preclude",
+    "WORD_LOWER": "preclude",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "prih-KLOOD · UK /prɪˈkluːd/ · US /prɪˈkluːd/",
+    "THESIS": "不是事後否決，而是前提一成立，後面那條路就直接被封掉。",
+    "LEARNING_POSITION": "把 preclude 記成「make something impossible before it can happen」：不是事後否決，而是前提一成立，後面那條路就直接被封掉。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.11",
+    "CORE_IDEA": "<code>preclude</code> 表示阻止、排除或使某結果無法發生。",
+    "CONCEPT_FOCUS": "核心畫面是 make something impossible before it can happen。",
+    "TONE_REGISTER": "這個字常見於 條件限制、法規排除與決策邊界；語氣上不是空泛形容，而是用來抓住 make something impossible before it can happen 這種狀態或動作。",
+    "USE_WARNING": "不要把 preclude 只看成 prevent；<code>prevent</code> 多半只是 阻止，而 <code>preclude</code> 更強調 make something impossible before it can happen。",
+    "SHORT_DEFINITION": "表示阻止、排除或使某結果無法發生。",
+    "CONFUSION_WORD": "Prevent",
+    "CONFUSION_NOTE": "<code>prevent</code> 多半只是 阻止；<code>preclude</code> 則更偏向 make something impossible before it can happen。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 make something impossible before it can happen 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>preclude</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：make something impossible before it can happen。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像門還沒推開，就發現門框前早已焊上一道橫桿。",
+    "MEMORY_HOOK": "<code>preclude</code> 的畫面是：像門還沒推開，就發現門框前早已焊上一道橫桿。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 preclude，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>preclude recovery</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>preclude the option</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "條件限制、法規排除與決策邊界 這類場景特別適合放進 <code>preclude further debate</code>，因為那裡常需要描述 make something impossible before it can happen。",
+    "COLLOCATION_NOTE": "Preclude 很適合透過固定搭配來抓語感，尤其是你想把 make something impossible before it can happen 說得更自然時。",
+    "COLLOCATION_1": "preclude recovery",
+    "REGISTER_1": "風險 / 醫療",
+    "COLLOCATION_NOTE_1": "這個搭配能把 make something impossible before it can happen 的語感直接帶出來。",
+    "COLLOCATION_2": "preclude the option",
+    "REGISTER_2": "策略 / 決策",
+    "COLLOCATION_NOTE_2": "放到 條件限制、法規排除與決策邊界 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "preclude further debate",
+    "REGISTER_3": "程序 / 會議",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 preclude 的實際使用邊界。",
+    "NEIGHBOR_SELF": "make something impossible before it can happen",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 阻止，而是 make something impossible before it can happen 這層語感時",
+    "NEIGHBOR_1": "Prevent",
+    "NEIGHBOR_1_MEANING": "阻止",
+    "NEIGHBOR_1_USE": "只想表達 阻止，而不需要 make something impossible before it can happen 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>preclude</code> 常和 <code>preclude recovery</code>、<code>preclude the option</code>、<code>preclude further debate</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 條件限制、法規排除與決策邊界 的語境裡，這個字能比一般近義詞更精準地抓住 make something impossible before it can happen。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/preclude",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/preclude",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/preclude",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 preclude 和 prevent 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像門還沒推開，就發現門框前早已焊上一道橫桿。",
+    "CHECK_SENTENCE": "我能用 <code>preclude recovery</code> 或 <code>preclude the option</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>preclude recovery</code> 或 <code>preclude the option</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/preclude",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "preclude",
+    "word": "Preclude",
+    "partOfSpeech": "verb",
+    "href": "./preclude.html",
+    "thesis": "不是事後否決，而是前提一成立，後面那條路就直接被封掉。",
+    "tags": [
+      "先天排除",
+      "讓後路走不通",
+      "prevent",
+      "decision",
+      "constraint",
+      "verb",
+      "preclude"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 preclude 和 prevent 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像門還沒推開，就發現門框前早已焊上一道橫桿。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 preclude recovery 或 preclude the option 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/preclude",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/preclude",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/preclude",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

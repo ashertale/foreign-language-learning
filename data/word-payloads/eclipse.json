@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Eclipse",
+    "slug": "eclipse",
+    "outputPath": "prototypes/eclipse.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Eclipse",
+    "WORD_SLUG": "eclipse",
+    "WORD_LOWER": "eclipse",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "ih-KLIPS · UK /ɪˈklɪps/ · US /ɪˈklɪps/",
+    "THESIS": "不是只是比它好，而是好到它幾乎看不見了。",
+    "LEARNING_POSITION": "把 eclipse 記成「block or outshine something so it loses visibility」：不是只是比它好，而是好到它幾乎看不見了。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.28",
+    "CORE_IDEA": "<code>eclipse</code> 表示遮蔽、掩蓋，或因更強勢的事物而使別的東西失色。",
+    "CONCEPT_FOCUS": "核心畫面是 block or outshine something so it loses visibility。",
+    "TONE_REGISTER": "這個字常見於 競品比較、天文比喻與敘事焦點；語氣上不是空泛形容，而是用來抓住 block or outshine something so it loses visibility 這種狀態或動作。",
+    "USE_WARNING": "不要把 eclipse 只看成 outshine；<code>outshine</code> 多半只是 蓋過，而 <code>eclipse</code> 更強調 block or outshine something so it loses visibility。",
+    "SHORT_DEFINITION": "表示遮蔽、掩蓋，或因更強勢的事物而使別的東西失色。",
+    "CONFUSION_WORD": "Outshine",
+    "CONFUSION_NOTE": "<code>outshine</code> 多半只是 蓋過；<code>eclipse</code> 則更偏向 block or outshine something so it loses visibility。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 block or outshine something so it loses visibility 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>eclipse</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：block or outshine something so it loses visibility。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像大光一亮，旁邊原本細緻的小燈就整個退到背景裡。",
+    "MEMORY_HOOK": "<code>eclipse</code> 的畫面是：像大光一亮，旁邊原本細緻的小燈就整個退到背景裡。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 eclipse，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>eclipse the competition</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>eclipse earlier work</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "競品比較、天文比喻與敘事焦點 這類場景特別適合放進 <code>solar eclipse</code>，因為那裡常需要描述 block or outshine something so it loses visibility。",
+    "COLLOCATION_NOTE": "Eclipse 很適合透過固定搭配來抓語感，尤其是你想把 block or outshine something so it loses visibility 說得更自然時。",
+    "COLLOCATION_1": "eclipse the competition",
+    "REGISTER_1": "商業 / 市場",
+    "COLLOCATION_NOTE_1": "這個搭配能把 block or outshine something so it loses visibility 的語感直接帶出來。",
+    "COLLOCATION_2": "eclipse earlier work",
+    "REGISTER_2": "創作 / 評論",
+    "COLLOCATION_NOTE_2": "放到 競品比較、天文比喻與敘事焦點 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "solar eclipse",
+    "REGISTER_3": "自然 / 科學",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 eclipse 的實際使用邊界。",
+    "NEIGHBOR_SELF": "block or outshine something so it loses visibility",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 蓋過，而是 block or outshine something so it loses visibility 這層語感時",
+    "NEIGHBOR_1": "Outshine",
+    "NEIGHBOR_1_MEANING": "蓋過",
+    "NEIGHBOR_1_USE": "只想表達 蓋過，而不需要 block or outshine something so it loses visibility 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>eclipse</code> 常和 <code>eclipse the competition</code>、<code>eclipse earlier work</code>、<code>solar eclipse</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 競品比較、天文比喻與敘事焦點 的語境裡，這個字能比一般近義詞更精準地抓住 block or outshine something so it loses visibility。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/eclipse",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/eclipse",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/eclipse",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 eclipse 和 outshine 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像大光一亮，旁邊原本細緻的小燈就整個退到背景裡。",
+    "CHECK_SENTENCE": "我能用 <code>eclipse the competition</code> 或 <code>eclipse earlier work</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>eclipse the competition</code> 或 <code>eclipse earlier work</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/eclipse",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "eclipse",
+    "word": "Eclipse",
+    "partOfSpeech": "verb",
+    "href": "./eclipse.html",
+    "thesis": "不是只是比它好，而是好到它幾乎看不見了。",
+    "tags": [
+      "遮蔽",
+      "蓋過",
+      "outshine",
+      "competition",
+      "focus",
+      "verb",
+      "eclipse"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 eclipse 和 outshine 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像大光一亮，旁邊原本細緻的小燈就整個退到背景裡。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 eclipse the competition 或 eclipse earlier work 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/eclipse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/eclipse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/eclipse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

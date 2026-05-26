@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Caveat",
+    "slug": "caveat",
+    "outputPath": "prototypes/caveat.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Caveat",
+    "WORD_SLUG": "caveat",
+    "WORD_LOWER": "caveat",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "KAV-ee-at · UK /ˈkæv.i.æt/ · US /ˈkæv.i.æt/",
+    "THESIS": "不是單純的警告，而是在同意、結論或計畫旁邊加上一個不能忽略的保留條件。",
+    "LEARNING_POSITION": "把 caveat 記成「yes, but keep this condition in view」：不是否決，而是加註一個會改變理解方式的但書。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.11",
+    "CORE_IDEA": "<code>caveat</code> 用來標記一個重要保留，提醒你某個說法、承諾或結論不能毫無條件地直接套用。",
+    "CONCEPT_FOCUS": "核心不是危險本身，而是解讀或執行時必須帶著的限制。",
+    "TONE_REGISTER": "常見於會議、合約、政策、研究與設計評估；語氣比 warning 更正式。",
+    "USE_WARNING": "不要把 caveat 當成一般警告；它更像附在判斷旁邊的保留說明。",
+    "SHORT_DEFINITION": "不是單純的警告，而是在同意、結論或計畫旁邊加上一個不能忽略的保留條件。",
+    "CONFUSION_WORD": "Warning",
+    "CONFUSION_NOTE": "<code>warning</code> 強調危險或風險；<code>caveat</code> 則是提醒你這個說法成立時有條件。",
+    "FLOW_1": "先出現結論",
+    "FLOW_2": "補上一個但書",
+    "FLOW_3": "理解方式被收斂",
+    "ORIGIN_PARAGRAPH": "<code>caveat</code> 來自拉丁語裡「讓他小心」的命令式，所以它一開始就帶有提醒對方不要照單全收的味道。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：文件邊上有人寫了一句「先慢一點」，不是推翻內容，而是提醒你別忘了那個條件。",
+    "MEMORY_HOOK": "<code>caveat</code> 是那個小小的星號，卻足以改變整段話怎麼被理解。",
+    "MEMORY_EXPLANATION": "很多決策看起來像已經同意，但真正成熟的版本往往會把 caveat 一起講清楚。",
+    "DAILY_USAGE": "朋友答應幫忙時加一句小小的 <code>caveat</code>，可能就會改變你對時間和方式的預期。",
+    "PROFESSIONAL_USAGE": "在 spec review 裡，someone may agree with the plan with one important <code>caveat</code>，意思是方案可以走，但有關鍵前提。",
+    "DOMAIN_USAGE": "研究摘要、法務條款與產品決策都常用 <code>caveat</code> 來標記解釋邊界。",
+    "COLLOCATION_NOTE": "Caveat 很常和 with、important、major 這些用法一起出現，因為它通常不是主體，而是附在主體旁的限制。",
+    "COLLOCATION_1": "with one caveat",
+    "REGISTER_1": "會議 / 討論",
+    "COLLOCATION_NOTE_1": "表示基本同意，但必須帶著一個保留條件。",
+    "COLLOCATION_2": "an important caveat",
+    "REGISTER_2": "寫作 / 報告",
+    "COLLOCATION_NOTE_2": "表示那個但書會實際影響判讀。",
+    "COLLOCATION_3": "a caveat to the plan",
+    "REGISTER_3": "專案 / 設計",
+    "COLLOCATION_NOTE_3": "表示方案本身可行，但有執行上的限制。",
+    "NEIGHBOR_SELF": "附在結論旁邊的重要保留條件",
+    "NEIGHBOR_SELF_USE": "談提案、研究、合約或決策邊界時",
+    "NEIGHBOR_1": "Warning",
+    "NEIGHBOR_1_MEANING": "提醒危險或避免出事的警告",
+    "NEIGHBOR_1_USE": "重點是 danger，而不是附帶條件時",
+    "MODERN_USE_1": "現代英文裡，<code>caveat</code> 很常出現在研究、政策與產品討論，因為成熟的判斷很少是無條件成立。",
+    "MODERN_USE_2": "它特別適合拿來保留複雜度：不是推翻計畫，而是幫大家記得那個不能丟掉的限制。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/caveat",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/caveat",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/caveat",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 caveat 和 warning 的差異。",
+    "CHECK_ORIGIN": "記得 caveat 的畫面是文件邊上的保留條件，不只是一般警告。",
+    "CHECK_SENTENCE": "我能用它造一句提案、研究或合約情境的英文句子。",
+    "PRACTICE_SENTENCE": "I agree with the rollout, with one <code>caveat</code> about the recovery path.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/caveat",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "caveat",
+    "word": "Caveat",
+    "partOfSpeech": "noun",
+    "href": "./caveat.html",
+    "thesis": "不是單純的警告，而是在同意、結論或計畫旁邊加上一個不能忽略的保留條件。",
+    "tags": [
+      "但書",
+      "保留條件",
+      "warning",
+      "policy",
+      "contracts",
+      "noun",
+      "caveat"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 caveat 和 warning 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " caveat 的畫面是文件邊上的保留條件，不只是一般警告。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句提案、研究或合約情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/caveat",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/caveat",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/caveat",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

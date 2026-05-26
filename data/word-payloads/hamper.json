@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Hamper",
+    "slug": "hamper",
+    "outputPath": "prototypes/hamper.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Hamper",
+    "WORD_SLUG": "hamper",
+    "WORD_LOWER": "hamper",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "HAM-per · UK /ˈhæm.pər/ · US /ˈhæm.pɚ/",
+    "THESIS": "不是完全摧毀，而是讓進展變慢、變重，做起來卡手卡腳。",
+    "LEARNING_POSITION": "把 hamper 記成「get in the way and make movement harder」：不是終結，而是一路拖住。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.26",
+    "CORE_IDEA": "<code>hamper</code> 用來描述障礙、限制或狀況妨礙進展，讓事情更難順利完成。",
+    "CONCEPT_FOCUS": "核心是拖累與阻礙，不一定到完全不能做。",
+    "TONE_REGISTER": "常見於新聞、政策、專案與風險敘述。",
+    "USE_WARNING": "不要把 hamper 當成 destroy；它多半表示事情還能動，只是變得困難很多。",
+    "SHORT_DEFINITION": "不是完全摧毀，而是讓進展變慢、變重，做起來卡手卡腳。",
+    "CONFUSION_WORD": "Block",
+    "CONFUSION_NOTE": "<code>block</code> 可以是直接擋死；<code>hamper</code> 更像一路妨礙、拖慢、增加摩擦。",
+    "FLOW_1": "先想往前走",
+    "FLOW_2": "碰到阻礙拖住",
+    "FLOW_3": "進展變慢變重",
+    "ORIGIN_PARAGRAPH": "<code>hamper</code> 的歷史和束縛、綁住腳步的感覺有關，所以它特別適合描述行動被拖住。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是牆擋在前面，而是腳邊一直纏著東西。",
+    "MEMORY_HOOK": "<code>hamper</code> 是事情不是停了，而是每走一步都更費力。",
+    "MEMORY_EXPLANATION": "很多低品質流程最大的問題不是 fail fast，而是一直 hamper 你，讓每件小事都變慢。",
+    "DAILY_USAGE": "下雨不一定取消行程，但會 <code>hamper</code> everything you planned outdoors.",
+    "PROFESSIONAL_USAGE": "缺少清楚的 logs 會大幅 <code>hamper</code> debugging，因為每個判斷都少了依據。",
+    "DOMAIN_USAGE": "政策、物流、產品與風險報導常用 <code>hamper</code> 來描述進展受阻。",
+    "COLLOCATION_NOTE": "Hamper 常和 progress、effort、recovery、debugging 搭配。",
+    "COLLOCATION_1": "hamper progress",
+    "REGISTER_1": "專案 / 管理",
+    "COLLOCATION_NOTE_1": "表示進展被持續拖慢。",
+    "COLLOCATION_2": "hamper recovery",
+    "REGISTER_2": "營運 / incident",
+    "COLLOCATION_NOTE_2": "表示恢復工作變得更難。",
+    "COLLOCATION_3": "hamper debugging",
+    "REGISTER_3": "工程 / 技術",
+    "COLLOCATION_NOTE_3": "表示除錯受到明顯妨礙。",
+    "NEIGHBOR_SELF": "不是封死，而是一路拖住進展",
+    "NEIGHBOR_SELF_USE": "談流程、天氣、資源不足或除錯摩擦時",
+    "NEIGHBOR_1": "Block",
+    "NEIGHBOR_1_MEANING": "直接阻擋或封鎖",
+    "NEIGHBOR_1_USE": "當路徑被完全擋住，而不是只是變難走時",
+    "MODERN_USE_1": "現代英文裡，<code>hamper</code> 很適合描述那種不致命但持續拖累效率的問題。",
+    "MODERN_USE_2": "在工程工作流裡，它能準確指出 friction 不是抽象不舒服，而是實際把進展變慢。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/hamper",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/hamper",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/hamper",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 hamper 和 block 的差異。",
+    "CHECK_ORIGIN": "記得 hamper 的畫面是腳邊被纏住，所以是拖住，不一定是封死。",
+    "CHECK_SENTENCE": "我能用它造一句流程、恢復或除錯受阻的英文句子。",
+    "PRACTICE_SENTENCE": "Unstable repro steps kept <code>hampering</code> the investigation.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/hamper",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "hamper",
+    "word": "Hamper",
+    "partOfSpeech": "verb",
+    "href": "./hamper.html",
+    "thesis": "不是完全摧毀，而是讓進展變慢、變重，做起來卡手卡腳。",
+    "tags": [
+      "妨礙",
+      "拖累",
+      "block",
+      "progress",
+      "debugging",
+      "verb",
+      "hamper"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 hamper 和 block 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " hamper 的畫面是腳邊被纏住，所以是拖住，不一定是封死。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句流程、恢復或除錯受阻的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/hamper",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/hamper",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/hamper",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

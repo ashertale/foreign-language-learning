@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Avert",
+    "slug": "avert",
+    "outputPath": "prototypes/avert.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Avert",
+    "WORD_SLUG": "avert",
+    "WORD_LOWER": "avert",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "uh-VURT · UK /əˈvɜːt/ · US /əˈvɝːt/",
+    "THESIS": "不是事後修，而是在事情真正打到你之前先把它偏開。",
+    "LEARNING_POSITION": "把 avert 記成「turn away before the problem fully lands」：不是事後修，而是在事情真正打到你之前先把它偏開。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.24",
+    "CORE_IDEA": "<code>avert</code> 表示提前避免、擋開或轉移某個不想發生的結果。",
+    "CONCEPT_FOCUS": "核心畫面是 turn away before the problem fully lands。",
+    "TONE_REGISTER": "這個字常見於 風險管理、事故預防與視線動作；語氣上不是空泛形容，而是用來抓住 turn away before the problem fully lands 這種狀態或動作。",
+    "USE_WARNING": "不要把 avert 只看成 avoid；<code>avoid</code> 多半只是 避免，而 <code>avert</code> 更強調 turn away before the problem fully lands。",
+    "SHORT_DEFINITION": "表示提前避免、擋開或轉移某個不想發生的結果。",
+    "CONFUSION_WORD": "Avoid",
+    "CONFUSION_NOTE": "<code>avoid</code> 多半只是 避免；<code>avert</code> 則更偏向 turn away before the problem fully lands。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 turn away before the problem fully lands 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>avert</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：turn away before the problem fully lands。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像手還沒被門夾到之前，先把門推開一點。",
+    "MEMORY_HOOK": "<code>avert</code> 的畫面是：像手還沒被門夾到之前，先把門推開一點。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 avert，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>avert disaster</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>avert a crisis</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "風險管理、事故預防與視線動作 這類場景特別適合放進 <code>avert your eyes</code>，因為那裡常需要描述 turn away before the problem fully lands。",
+    "COLLOCATION_NOTE": "Avert 很適合透過固定搭配來抓語感，尤其是你想把 turn away before the problem fully lands 說得更自然時。",
+    "COLLOCATION_1": "avert disaster",
+    "REGISTER_1": "風險 / 管理",
+    "COLLOCATION_NOTE_1": "這個搭配能把 turn away before the problem fully lands 的語感直接帶出來。",
+    "COLLOCATION_2": "avert a crisis",
+    "REGISTER_2": "組織 / 決策",
+    "COLLOCATION_NOTE_2": "放到 風險管理、事故預防與視線動作 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "avert your eyes",
+    "REGISTER_3": "日常 / 身體",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 avert 的實際使用邊界。",
+    "NEIGHBOR_SELF": "turn away before the problem fully lands",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 避免，而是 turn away before the problem fully lands 這層語感時",
+    "NEIGHBOR_1": "Avoid",
+    "NEIGHBOR_1_MEANING": "避免",
+    "NEIGHBOR_1_USE": "只想表達 避免，而不需要 turn away before the problem fully lands 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>avert</code> 常和 <code>avert disaster</code>、<code>avert a crisis</code>、<code>avert your eyes</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 風險管理、事故預防與視線動作 的語境裡，這個字能比一般近義詞更精準地抓住 turn away before the problem fully lands。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/avert",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/avert",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/avert",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 avert 和 avoid 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像手還沒被門夾到之前，先把門推開一點。",
+    "CHECK_SENTENCE": "我能用 <code>avert disaster</code> 或 <code>avert a crisis</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>avert disaster</code> 或 <code>avert a crisis</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/avert",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "avert",
+    "word": "Avert",
+    "partOfSpeech": "verb",
+    "href": "./avert.html",
+    "thesis": "不是事後修，而是在事情真正打到你之前先把它偏開。",
+    "tags": [
+      "避免災難",
+      "提前偏開",
+      "avoid",
+      "risk",
+      "prevention",
+      "verb",
+      "avert"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 avert 和 avoid 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像手還沒被門夾到之前，先把門推開一點。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 avert disaster 或 avert a crisis 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/avert",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/avert",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/avert",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

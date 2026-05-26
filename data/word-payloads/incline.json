@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Incline",
+    "slug": "incline",
+    "outputPath": "prototypes/incline.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Incline",
+    "WORD_SLUG": "incline",
+    "WORD_LOWER": "incline",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "in-KLYNE · UK /ɪnˈklaɪn/ · US /ɪnˈklaɪn/",
+    "THESIS": "不是已經決定，而是心裡或物理上開始往某個方向斜過去。",
+    "LEARNING_POSITION": "把 incline 記成「lean or tend in a certain direction」：不是已經決定，而是心裡或物理上開始往某個方向斜過去。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.47",
+    "CORE_IDEA": "<code>incline</code> 表示使傾斜，或傾向於某個判斷與選擇。",
+    "CONCEPT_FOCUS": "核心畫面是 lean or tend in a certain direction。",
+    "TONE_REGISTER": "這個字常見於 決策偏好、物理角度與語氣取向；語氣上不是空泛形容，而是用來抓住 lean or tend in a certain direction 這種狀態或動作。",
+    "USE_WARNING": "不要把 incline 只看成 lean；<code>lean</code> 多半只是 傾向，而 <code>incline</code> 更強調 lean or tend in a certain direction。",
+    "SHORT_DEFINITION": "表示使傾斜，或傾向於某個判斷與選擇。",
+    "CONFUSION_WORD": "Lean",
+    "CONFUSION_NOTE": "<code>lean</code> 多半只是 傾向；<code>incline</code> 則更偏向 lean or tend in a certain direction。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 lean or tend in a certain direction 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>incline</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：lean or tend in a certain direction。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像桌上的筆慢慢朝邊緣滾，不用推也看得出方向。",
+    "MEMORY_HOOK": "<code>incline</code> 的畫面是：像桌上的筆慢慢朝邊緣滾，不用推也看得出方向。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 incline，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>incline to agree</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>incline the board</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "決策偏好、物理角度與語氣取向 這類場景特別適合放進 <code>incline toward caution</code>，因為那裡常需要描述 lean or tend in a certain direction。",
+    "COLLOCATION_NOTE": "Incline 很適合透過固定搭配來抓語感，尤其是你想把 lean or tend in a certain direction 說得更自然時。",
+    "COLLOCATION_1": "incline to agree",
+    "REGISTER_1": "會議 / 判斷",
+    "COLLOCATION_NOTE_1": "這個搭配能把 lean or tend in a certain direction 的語感直接帶出來。",
+    "COLLOCATION_2": "incline the board",
+    "REGISTER_2": "硬體 / 結構",
+    "COLLOCATION_NOTE_2": "放到 決策偏好、物理角度與語氣取向 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "incline toward caution",
+    "REGISTER_3": "管理 / 風險",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 incline 的實際使用邊界。",
+    "NEIGHBOR_SELF": "lean or tend in a certain direction",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 傾向，而是 lean or tend in a certain direction 這層語感時",
+    "NEIGHBOR_1": "Lean",
+    "NEIGHBOR_1_MEANING": "傾向",
+    "NEIGHBOR_1_USE": "只想表達 傾向，而不需要 lean or tend in a certain direction 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>incline</code> 常和 <code>incline to agree</code>、<code>incline the board</code>、<code>incline toward caution</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 決策偏好、物理角度與語氣取向 的語境裡，這個字能比一般近義詞更精準地抓住 lean or tend in a certain direction。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/incline",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/incline",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/incline",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 incline 和 lean 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像桌上的筆慢慢朝邊緣滾，不用推也看得出方向。",
+    "CHECK_SENTENCE": "我能用 <code>incline to agree</code> 或 <code>incline the board</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>incline to agree</code> 或 <code>incline the board</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/incline",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "incline",
+    "word": "Incline",
+    "partOfSpeech": "verb",
+    "href": "./incline.html",
+    "thesis": "不是已經決定，而是心裡或物理上開始往某個方向斜過去。",
+    "tags": [
+      "傾向",
+      "微微偏向",
+      "lean",
+      "decision",
+      "structure",
+      "verb",
+      "incline"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 incline 和 lean 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像桌上的筆慢慢朝邊緣滾，不用推也看得出方向。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 incline to agree 或 incline the board 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/incline",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/incline",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/incline",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

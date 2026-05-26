@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Turbulent",
+    "slug": "turbulent",
+    "outputPath": "prototypes/turbulent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Turbulent",
+    "WORD_SLUG": "turbulent",
+    "WORD_LOWER": "turbulent",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "TUR-byuh-luhnt · UK /ˈtɜː.bjə.lənt/ · US /ˈtɝː.bjə.lənt/",
+    "THESIS": "不是只是忙，而是狀況本身一直亂流不斷。",
+    "LEARNING_POSITION": "把 turbulent 記成「full of unstable motion, conflict, or rapid change」：不是只是忙，而是狀況本身一直亂流不斷。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.11",
+    "CORE_IDEA": "<code>turbulent</code> 表示動盪不安、紊亂或氣流劇烈。",
+    "CONCEPT_FOCUS": "核心畫面是 full of unstable motion, conflict, or rapid change。",
+    "TONE_REGISTER": "這個字常見於 市場變局、人生階段與飛行物理；語氣上不是空泛形容，而是用來抓住 full of unstable motion, conflict, or rapid change 這種狀態或動作。",
+    "USE_WARNING": "不要把 turbulent 只看成 unstable；<code>unstable</code> 多半只是 不穩定，而 <code>turbulent</code> 更強調 full of unstable motion, conflict, or rapid change。",
+    "SHORT_DEFINITION": "表示動盪不安、紊亂或氣流劇烈。",
+    "CONFUSION_WORD": "Unstable",
+    "CONFUSION_NOTE": "<code>unstable</code> 多半只是 不穩定；<code>turbulent</code> 則更偏向 full of unstable motion, conflict, or rapid change。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 full of unstable motion, conflict, or rapid change 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>turbulent</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：full of unstable motion, conflict, or rapid change。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像飛機穿過亂流時，方向還在前進，但整個機身不停顫動。",
+    "MEMORY_HOOK": "<code>turbulent</code> 的畫面是：像飛機穿過亂流時，方向還在前進，但整個機身不停顫動。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 turbulent，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>turbulent period</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>turbulent market</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "市場變局、人生階段與飛行物理 這類場景特別適合放進 <code>turbulent air</code>，因為那裡常需要描述 full of unstable motion, conflict, or rapid change。",
+    "COLLOCATION_NOTE": "Turbulent 很適合透過固定搭配來抓語感，尤其是你想把 full of unstable motion, conflict, or rapid change 說得更自然時。",
+    "COLLOCATION_1": "turbulent period",
+    "REGISTER_1": "歷史 / 社會",
+    "COLLOCATION_NOTE_1": "這個搭配能把 full of unstable motion, conflict, or rapid change 的語感直接帶出來。",
+    "COLLOCATION_2": "turbulent market",
+    "REGISTER_2": "商業 / 分析",
+    "COLLOCATION_NOTE_2": "放到 市場變局、人生階段與飛行物理 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "turbulent air",
+    "REGISTER_3": "飛行 / 科學",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 turbulent 的實際使用邊界。",
+    "NEIGHBOR_SELF": "full of unstable motion, conflict, or rapid change",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 不穩定，而是 full of unstable motion, conflict, or rapid change 這層語感時",
+    "NEIGHBOR_1": "Unstable",
+    "NEIGHBOR_1_MEANING": "不穩定",
+    "NEIGHBOR_1_USE": "只想表達 不穩定，而不需要 full of unstable motion, conflict, or rapid change 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>turbulent</code> 常和 <code>turbulent period</code>、<code>turbulent market</code>、<code>turbulent air</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 市場變局、人生階段與飛行物理 的語境裡，這個字能比一般近義詞更精準地抓住 full of unstable motion, conflict, or rapid change。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/turbulent",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/turbulent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/turbulent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 turbulent 和 unstable 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像飛機穿過亂流時，方向還在前進，但整個機身不停顫動。",
+    "CHECK_SENTENCE": "我能用 <code>turbulent period</code> 或 <code>turbulent market</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>turbulent period</code> 或 <code>turbulent market</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/turbulent",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "turbulent",
+    "word": "Turbulent",
+    "partOfSpeech": "adjective",
+    "href": "./turbulent.html",
+    "thesis": "不是只是忙，而是狀況本身一直亂流不斷。",
+    "tags": [
+      "動盪不安",
+      "亂流很多",
+      "unstable",
+      "market",
+      "change",
+      "adjective",
+      "turbulent"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 turbulent 和 unstable 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像飛機穿過亂流時，方向還在前進，但整個機身不停顫動。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 turbulent period 或 turbulent market 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turbulent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/turbulent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turbulent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

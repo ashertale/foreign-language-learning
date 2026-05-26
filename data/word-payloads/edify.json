@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Edify",
+    "slug": "edify",
+    "outputPath": "prototypes/edify.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Edify",
+    "WORD_SLUG": "edify",
+    "WORD_LOWER": "edify",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "ED-uh-fy · UK /ˈed.ɪ.faɪ/ · US /ˈed.ɪ.faɪ/",
+    "THESIS": "不是只是教你知道，而是讓你在理解之後整個人更成熟、更有判斷。",
+    "LEARNING_POSITION": "把 edify 記成「teach in a way that builds the person」：不是塞知識，而是把內在也一起長起來。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.28",
+    "CORE_IDEA": "<code>edify</code> 用來描述某段內容、對話或經驗在知識之外，還帶來心智或品格上的提升。",
+    "CONCEPT_FOCUS": "核心不是資訊傳遞，而是人成長。",
+    "TONE_REGISTER": "常見於較書面、評論、宗教、教育與文化語境。",
+    "USE_WARNING": "不要把 edify 當成一般 teach；它通常帶有提升思想或品格的意味。",
+    "SHORT_DEFINITION": "不是只是教你知道，而是讓你在理解之後整個人更成熟、更有判斷。",
+    "CONFUSION_WORD": "Teach",
+    "CONFUSION_NOTE": "<code>teach</code> 可以只是教會一件事；<code>edify</code> 更像在學到之後，人也被往上提了一點。",
+    "FLOW_1": "先接收到內容",
+    "FLOW_2": "不只懂意思",
+    "FLOW_3": "整個判斷被拉高",
+    "ORIGIN_PARAGRAPH": "<code>edify</code> 和「建造房屋」的歷史脈絡有關，後來被借去形容把人的心智與品格慢慢建起來。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是往腦裡丟一塊磚，而是慢慢把人的內在空間蓋起來。",
+    "MEMORY_HOOK": "<code>edify</code> 是內容不只留下資訊，還留下更好的你。",
+    "MEMORY_EXPLANATION": "有些書或老師不只是把你教會，而是讓你看世界的方式被重整，那就是 edify 的味道。",
+    "DAILY_USAGE": "一場真正好的對話會讓你覺得被 <code>edify</code>，不是因為學了術語，而是視野被打開。",
+    "PROFESSIONAL_USAGE": "技術分享如果能 <code>edify</code> the team，就不只是交代做法，而是提升大家判斷問題的方式。",
+    "DOMAIN_USAGE": "教育、文化評論與宗教文本裡，<code>edify</code> 常用來談內容是否真的能滋養人。",
+    "COLLOCATION_NOTE": "Edify 常和 audience、reader、mind 這類承接成長的人或心智搭配。",
+    "COLLOCATION_1": "edify the reader",
+    "REGISTER_1": "寫作 / 評論",
+    "COLLOCATION_NOTE_1": "表示作品讓讀者在理解之外也被提升。",
+    "COLLOCATION_2": "edify the audience",
+    "REGISTER_2": "教育 / 講座",
+    "COLLOCATION_NOTE_2": "表示內容真的有養分。",
+    "COLLOCATION_3": "morally edifying",
+    "REGISTER_3": "文化 / 評價",
+    "COLLOCATION_NOTE_3": "表示對價值判斷有提升作用。",
+    "NEIGHBOR_SELF": "內容讓人不只知道，還一起長大",
+    "NEIGHBOR_SELF_USE": "談書、講座、對話或教育內容時",
+    "NEIGHBOR_1": "Teach",
+    "NEIGHBOR_1_MEANING": "把知識或技巧教會",
+    "NEIGHBOR_1_USE": "只需表達學到資訊，不涉及內在提升時",
+    "MODERN_USE_1": "現代英文裡，<code>edify</code> 雖然偏書面，但在評價內容是否真正有養分時非常準。",
+    "MODERN_USE_2": "它提醒我們分辨：資訊很多，不等於真的能讓人更成熟。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/edify",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/edify",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/edify",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 edify 和 teach 的差異。",
+    "CHECK_ORIGIN": "記得 edify 的字源是建造，所以重點是把人內在慢慢建起來。",
+    "CHECK_SENTENCE": "我能用它造一句教育、閱讀或團隊學習情境的英文句子。",
+    "PRACTICE_SENTENCE": "The best postmortems do more than explain the bug; they <code>edify</code> the whole team.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/edify",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "edify",
+    "word": "Edify",
+    "partOfSpeech": "verb",
+    "href": "./edify.html",
+    "thesis": "不是只是教你知道，而是讓你在理解之後整個人更成熟、更有判斷。",
+    "tags": [
+      "啟發提升",
+      "滋養",
+      "teach",
+      "education",
+      "reading",
+      "verb",
+      "edify"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 edify 和 teach 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " edify 的字源是建造，所以重點是把人內在慢慢建起來。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句教育、閱讀或團隊學習情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/edify",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/edify",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/edify",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

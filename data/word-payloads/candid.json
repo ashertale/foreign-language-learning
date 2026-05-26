@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Candid",
+    "slug": "candid",
+    "outputPath": "prototypes/candid.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Candid",
+    "WORD_SLUG": "candid",
+    "WORD_LOWER": "candid",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "KAN-did · UK /ˈkæn.dɪd/ · US /ˈkæn.dɪd/",
+    "THESIS": "不是粗魯直白，而是不繞、不演，願意把真實想法清楚說出來。",
+    "LEARNING_POSITION": "把 candid 記成「honest without stage lighting」：重點不是刺激，而是少修飾、少表演。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.60",
+    "CORE_IDEA": "<code>candid</code> 描述一個人、回答或談話在關鍵處不拐彎，願意把真實看法攤開來講。",
+    "CONCEPT_FOCUS": "核心是真誠坦率，不是為了刺痛別人而直。",
+    "TONE_REGISTER": "常見於回饋、面談、人物描寫與媒體語境；比 honest 更帶一點不包裝的感覺。",
+    "USE_WARNING": "不要把 candid 當成 rude；它可以很直接，但不一定帶攻擊性。",
+    "SHORT_DEFINITION": "不是粗魯直白，而是不繞、不演，願意把真實想法清楚說出來。",
+    "CONFUSION_WORD": "Rude",
+    "CONFUSION_NOTE": "<code>rude</code> 會傷人或失禮；<code>candid</code> 重點是把真話講清楚，但仍可以有分寸。",
+    "FLOW_1": "先拿掉包裝",
+    "FLOW_2": "把真話說出",
+    "FLOW_3": "讓對方看到真正情況",
+    "ORIGIN_PARAGRAPH": "<code>candid</code> 和拉丁語裡「明亮、潔白」有關，後來延伸成沒有遮掩、讓東西看起來清清楚楚。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把燈打得刺眼，而是把遮布拉開，讓原貌露出來。",
+    "MEMORY_HOOK": "<code>candid</code> 是把真相交出來，不順手再包一層糖衣。",
+    "MEMORY_EXPLANATION": "一場真正有用的 retro 往往需要 candid feedback，因為大家得先承認哪裡真的出了問題。",
+    "DAILY_USAGE": "和朋友談心時，一個 <code>candid</code> answer 不是故意狠，而是願意真實回應。",
+    "PROFESSIONAL_USAGE": "在團隊回顧裡，candid feedback 很重要，因為沒有真話就沒有真正可修的東西。",
+    "DOMAIN_USAGE": "媒體、人物訪談與紀實攝影也常用 <code>candid</code> 來形容不擺拍、不修飾的瞬間。",
+    "COLLOCATION_NOTE": "Candid 常和 conversation、feedback、assessment、photo 這些需要真實度的名詞搭配。",
+    "COLLOCATION_1": "candid feedback",
+    "REGISTER_1": "工作 / 團隊",
+    "COLLOCATION_NOTE_1": "表示不繞彎地指出真正問題。",
+    "COLLOCATION_2": "a candid conversation",
+    "REGISTER_2": "人際 / 管理",
+    "COLLOCATION_NOTE_2": "表示願意真實攤開來談。",
+    "COLLOCATION_3": "a candid photo",
+    "REGISTER_3": "攝影 / 媒體",
+    "COLLOCATION_NOTE_3": "表示不是刻意擺拍，而是捕捉自然瞬間。",
+    "NEIGHBOR_SELF": "坦率而不表演地把真話說出來",
+    "NEIGHBOR_SELF_USE": "談回饋、面談、對話或紀實風格時",
+    "NEIGHBOR_1": "Rude",
+    "NEIGHBOR_1_MEANING": "失禮、冒犯或缺乏分寸",
+    "NEIGHBOR_1_USE": "當直接已經越過尊重邊界時",
+    "MODERN_USE_1": "現代英文裡，<code>candid</code> 很常拿來描述真誠對話與未經修飾的表達，尤其在 feedback culture 裡很常見。",
+    "MODERN_USE_2": "它也保留了紀實攝影的用法，所以既可以形容語氣，也可以形容畫面沒有擺拍。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/candid",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/candid",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/candid",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 candid 和 rude 的差異。",
+    "CHECK_ORIGIN": "記得 candid 的字源和明亮、顯露有關，重點是真實露出，不是故意刺人。",
+    "CHECK_SENTENCE": "我能用它造一句回饋、對話或訪談情境的英文句子。",
+    "PRACTICE_SENTENCE": "We need a <code>candid</code> discussion about why the test plan kept drifting.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/candid",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "candid",
+    "word": "Candid",
+    "partOfSpeech": "adjective",
+    "href": "./candid.html",
+    "thesis": "不是粗魯直白，而是不繞、不演，願意把真實想法清楚說出來。",
+    "tags": [
+      "坦率",
+      "真誠",
+      "honest",
+      "rude",
+      "feedback",
+      "adjective",
+      "candid"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 candid 和 rude 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " candid 的字源和明亮、顯露有關，重點是真實露出，不是故意刺人。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句回饋、對話或訪談情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/candid",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/candid",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/candid",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

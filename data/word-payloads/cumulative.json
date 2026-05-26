@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Cumulative",
+    "slug": "cumulative",
+    "outputPath": "prototypes/cumulative.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Cumulative",
+    "WORD_SLUG": "cumulative",
+    "WORD_LOWER": "cumulative",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "KYOO-myuh-luh-tiv · UK /ˈkjuː.mjə.lə.tɪv/ · US /ˈkjuː.mjə.lə.tɪv/",
+    "THESIS": "不是只是一再重複，而是每一次都往同一個總量上再加一層。",
+    "LEARNING_POSITION": "把 cumulative 記成「it keeps adding up」：重點不是單次大，而是累積後變大。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.55",
+    "CORE_IDEA": "<code>cumulative</code> 用來描述影響、資料、成本、疲勞或效果會一層一層疊上去，而不是每次重來。",
+    "CONCEPT_FOCUS": "核心是疊加總量，不是單次事件。",
+    "TONE_REGISTER": "常見於醫療、教育、產品、法律、風險與數據分析。",
+    "USE_WARNING": "不要把 cumulative 當成 repeated；重複不一定累加，但 cumulative 一定是在同一筆帳上越堆越多。",
+    "SHORT_DEFINITION": "不是只是一再重複，而是每一次都往同一個總量上再加一層。",
+    "CONFUSION_WORD": "Repeated",
+    "CONFUSION_NOTE": "<code>repeated</code> 只說一再發生；<code>cumulative</code> 更強調每次發生都留下總量效果。",
+    "FLOW_1": "先有一次影響",
+    "FLOW_2": "後面繼續疊上",
+    "FLOW_3": "總效果變大",
+    "ORIGIN_PARAGRAPH": "<code>cumulative</code> 和拉丁語裡的「堆起來、堆積」有關，所以它的畫面一直都很具體：不是散掉，而是往上加。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：你不是一直擦掉重算，而是每次都把新的一層放上去。",
+    "MEMORY_HOOK": "<code>cumulative</code> 是單次看不嚇人，總和回頭一看才嚇人。",
+    "MEMORY_EXPLANATION": "很多負擔不是因為一次太大，而是小量長期疊加後變成整體重量。",
+    "DAILY_USAGE": "睡眠不足的傷害常是 <code>cumulative</code>，一天沒感覺，連幾天就會很明顯。",
+    "PROFESSIONAL_USAGE": "在系統設計裡，small inefficiencies can have a <code>cumulative</code> impact on latency and maintenance cost.",
+    "DOMAIN_USAGE": "醫療、財務、教育與風險管理都常用 <code>cumulative</code> 來談累積效應。",
+    "COLLOCATION_NOTE": "Cumulative 常和 effect、impact、cost、risk、record 搭配。",
+    "COLLOCATION_1": "cumulative effect",
+    "REGISTER_1": "一般 / 分析",
+    "COLLOCATION_NOTE_1": "表示影響會一層層疊加。",
+    "COLLOCATION_2": "cumulative cost",
+    "REGISTER_2": "財務 / 專案",
+    "COLLOCATION_NOTE_2": "表示總成本是逐步堆上來的。",
+    "COLLOCATION_3": "cumulative risk",
+    "REGISTER_3": "風險 / 醫療",
+    "COLLOCATION_NOTE_3": "表示風險不是單次，而是累積後升高。",
+    "NEIGHBOR_SELF": "每次都把總量再往上堆一點",
+    "NEIGHBOR_SELF_USE": "談效果、成本、疲勞、風險或數據總量時",
+    "NEIGHBOR_1": "Repeated",
+    "NEIGHBOR_1_MEANING": "一再發生，但不一定留下總量",
+    "NEIGHBOR_1_USE": "重點只是頻率，而不是堆加效果時",
+    "MODERN_USE_1": "現代英文裡，<code>cumulative</code> 幾乎是談長期效應時的核心字，因為很多問題都不是單次衝擊，而是疊加後出現。",
+    "MODERN_USE_2": "在工程與產品語境中，它很適合描述小延遲、小 workaround 或小負債最後一起拖垮系統的方式。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/cumulative",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/cumulative",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/cumulative",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 cumulative 和 repeated 的差異。",
+    "CHECK_ORIGIN": "記得 cumulative 的畫面是每次都往同一堆上加，不只是重複。",
+    "CHECK_SENTENCE": "我能用它造一句成本、風險或疲勞累積情境的英文句子。",
+    "PRACTICE_SENTENCE": "The performance loss was small in each patch but clearly <code>cumulative</code> across the quarter.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/cumulative",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "cumulative",
+    "word": "Cumulative",
+    "partOfSpeech": "adjective",
+    "href": "./cumulative.html",
+    "thesis": "不是只是一再重複，而是每一次都往同一個總量上再加一層。",
+    "tags": [
+      "累積",
+      "疊加",
+      "repeated",
+      "risk",
+      "cost",
+      "adjective",
+      "cumulative"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 cumulative 和 repeated 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " cumulative 的畫面是每次都往同一堆上加，不只是重複。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句成本、風險或疲勞累積情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cumulative",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/cumulative",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cumulative",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

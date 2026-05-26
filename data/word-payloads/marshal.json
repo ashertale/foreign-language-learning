@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Marshal",
+    "slug": "marshal",
+    "outputPath": "prototypes/marshal.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Marshal",
+    "WORD_SLUG": "marshal",
+    "WORD_LOWER": "marshal",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "MAR-shuhl · UK /ˈmɑː.ʃəl/ · US /ˈmɑːr.ʃəl/",
+    "THESIS": "不是只是收集，而是把人、資源、證據或論點有秩序地排好、派上場。",
+    "LEARNING_POSITION": "把 marshal 記成「assemble and deploy with order」：不是堆在一起，而是排成可用陣形。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.34",
+    "CORE_IDEA": "<code>marshal</code> 用來描述有計畫地整理、調度與安排資源、論點或人力，讓它們形成有效作用。",
+    "CONCEPT_FOCUS": "核心是編排與調度，不只是聚集。",
+    "TONE_REGISTER": "常見於論證、管理、軍事、專案與危機處理。",
+    "USE_WARNING": "不要把 marshal 當成 generic gather；它更像把收進來的東西排好並投入使用。",
+    "SHORT_DEFINITION": "不是只是收集，而是把人、資源、證據或論點有秩序地排好、派上場。",
+    "CONFUSION_WORD": "Gather",
+    "CONFUSION_NOTE": "<code>gather</code> 是把東西收過來；<code>marshal</code> 則是收來之後還要排好、用好。",
+    "FLOW_1": "先把資源找齊",
+    "FLOW_2": "按邏輯排好",
+    "FLOW_3": "再投入到正確位置",
+    "ORIGIN_PARAGRAPH": "<code>marshal</code> 的歷史和馬匹、侍從、後來的軍事指揮脈絡連在一起，所以裡面一直有編隊與秩序。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是大家自己湊過來，而是有人把隊伍一列一列排整齊。",
+    "MEMORY_HOOK": "<code>marshal</code> 是把散的力量排成可用的力量。",
+    "MEMORY_EXPLANATION": "真正成熟的主持與管理，不是一直加人，而是知道怎麼 marshal 已有資源。",
+    "DAILY_USAGE": "準備搬家時，你得先 <code>marshal</code> your boxes, labels, and energy，不然只會越做越亂。",
+    "PROFESSIONAL_USAGE": "在提案前，你需要先 <code>marshal</code> the evidence，不然即使觀點對，也很難說服人。",
+    "DOMAIN_USAGE": "法庭、政策、軍事、專案與 incident response 都常用 <code>marshal</code> 來談調度。",
+    "COLLOCATION_NOTE": "Marshal 常和 resources、evidence、support、troops 搭配。",
+    "COLLOCATION_1": "marshal resources",
+    "REGISTER_1": "管理 / 專案",
+    "COLLOCATION_NOTE_1": "表示把資源調度成可行配置。",
+    "COLLOCATION_2": "marshal evidence",
+    "REGISTER_2": "論證 / 法務",
+    "COLLOCATION_NOTE_2": "表示把證據整理成有說服力的序列。",
+    "COLLOCATION_3": "marshal support",
+    "REGISTER_3": "組織 / 協作",
+    "COLLOCATION_NOTE_3": "表示把支持力量組織起來。",
+    "NEIGHBOR_SELF": "把零散資源編排成可用陣形",
+    "NEIGHBOR_SELF_USE": "談證據、資源、人力或 support 調度時",
+    "NEIGHBOR_1": "Gather",
+    "NEIGHBOR_1_MEANING": "單純把東西收集起來",
+    "NEIGHBOR_1_USE": "只想說集合，不需要編排部署時",
+    "MODERN_USE_1": "現代英文裡，<code>marshal</code> 很常用在論證與管理，因為真正困難的常不是有沒有資源，而是怎麼排。",
+    "MODERN_USE_2": "在工程語境中，它也適合描述 incident 指揮或 design review 之前，如何把資料與人手排成可行局面。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/marshal",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/marshal",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/marshal",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 marshal 和 gather 的差異。",
+    "CHECK_ORIGIN": "記得 marshal 的畫面是排隊編陣，不只是把東西收過來。",
+    "CHECK_SENTENCE": "我能用它造一句證據、資源或人力調度的英文句子。",
+    "PRACTICE_SENTENCE": "Before the design review, we had to <code>marshal</code> the failure logs into a coherent timeline.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/marshal",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "marshal",
+    "word": "Marshal",
+    "partOfSpeech": "verb",
+    "href": "./marshal.html",
+    "thesis": "不是只是收集，而是把人、資源、證據或論點有秩序地排好、派上場。",
+    "tags": [
+      "調度",
+      "編排",
+      "gather",
+      "evidence",
+      "resources",
+      "verb",
+      "marshal"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 marshal 和 gather 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " marshal 的畫面是排隊編陣，不只是把東西收過來。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句證據、資源或人力調度的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/marshal",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/marshal",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/marshal",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "target": {
+    "word": "Affinity",
+    "slug": "affinity",
+    "outputPath": "prototypes/affinity.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Affinity",
+    "WORD_SLUG": "affinity",
+    "WORD_LOWER": "affinity",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "uh-FIN-uh-tee · UK /əˈfɪn.ə.ti/ · US /əˈfɪn.ə.t̬i/",
+    "THESIS": "不是單純的喜歡，而是你和某種人、事、材料或想法之間有天然相吸的傾向。",
+    "LEARNING_POSITION": "把 affinity 記成「a natural pull toward something」：不用硬逼，關係自己會靠近。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.67",
+    "CORE_IDEA": "<code>affinity</code> 描述人與人、人與事物，或元素與元素之間那種自然相合、容易靠近的傾向。",
+    "CONCEPT_FOCUS": "核心不是短暫偏好，而是內在的相容與吸引。",
+    "TONE_REGISTER": "常見於人際、審美、品牌、化學與技術相容性討論；語氣比 liking 更深一層。",
+    "USE_WARNING": "不要把 affinity 當成普通的 like；它更像天生順手、自然合拍或結構上容易結合。",
+    "SHORT_DEFINITION": "不是單純的喜歡，而是你和某種人、事、材料或想法之間有天然相吸的傾向。",
+    "CONFUSION_WORD": "Preference",
+    "CONFUSION_NOTE": "<code>preference</code> 可以只是主觀選擇；<code>affinity</code> 更像你和某物之間本來就合拍。",
+    "FLOW_1": "先出現接觸",
+    "FLOW_2": "感到自然合拍",
+    "FLOW_3": "關係更容易靠近",
+    "ORIGIN_PARAGRAPH": "<code>affinity</code> 和拉丁語裡「接近邊界、鄰近」的脈絡有關，後來延伸成親近、相似與容易結合的關係。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：兩樣東西本來就在彼此附近，一碰就比較容易靠攏。",
+    "MEMORY_HOOK": "<code>affinity</code> 是你還沒解釋，身體和腦已經先覺得合。",
+    "MEMORY_EXPLANATION": "有些工具、材料或寫作風格你一上手就覺得順，這種自然相吸感就是 affinity。",
+    "DAILY_USAGE": "你可能對老書店、黑膠或慢節奏城市有一種說不太清楚但很穩定的 <code>affinity</code>.",
+    "PROFESSIONAL_USAGE": "如果工程師對某種 debugging style 有 <code>affinity</code>，意思是那種拆解方式對他特別順手。",
+    "DOMAIN_USAGE": "在化學、設計與品牌討論裡，<code>affinity</code> 也常用來談材料、受眾或視覺語彙之間的自然相容性。",
+    "COLLOCATION_NOTE": "Affinity 常和 for、with 搭配，也常出現在 natural、strong 這類強度形容前面。",
+    "COLLOCATION_1": "an affinity for languages",
+    "REGISTER_1": "學習 / 能力",
+    "COLLOCATION_NOTE_1": "表示對語言有自然親近感，不只是願意學。",
+    "COLLOCATION_2": "a strong affinity with users",
+    "REGISTER_2": "產品 / 研究",
+    "COLLOCATION_NOTE_2": "表示能自然理解使用者的感受與需求。",
+    "COLLOCATION_3": "chemical affinity",
+    "REGISTER_3": "科學 / 化學",
+    "COLLOCATION_NOTE_3": "表示物質之間容易結合的傾向。",
+    "NEIGHBOR_SELF": "天然合拍、容易靠近或結合",
+    "NEIGHBOR_SELF_USE": "談人際、審美、材料、品牌或思考方式時",
+    "NEIGHBOR_1": "Preference",
+    "NEIGHBOR_1_MEANING": "比較像主觀選擇或偏愛",
+    "NEIGHBOR_1_USE": "只想說偏好，不特別強調自然相容感時",
+    "MODERN_USE_1": "現代英文裡，<code>affinity</code> 很常用在審美、人際、設計與產品研究，因為它能表達「不是硬選，而是自然貼近」。",
+    "MODERN_USE_2": "在技術與科學語境中，它也能描述元件、材料或方法之間的相容性與結合傾向。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/affinity",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/affinity",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/affinity",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 affinity 和 preference 的差異。",
+    "CHECK_ORIGIN": "記得 affinity 的字源畫面是彼此靠近、自然合拍，不只是喜歡。",
+    "CHECK_SENTENCE": "我能用它造一句人際、審美或技術相容性的英文句子。",
+    "PRACTICE_SENTENCE": "He has a clear <code>affinity</code> for tools that expose the system step by step.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/affinity",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "affinity",
+    "word": "Affinity",
+    "partOfSpeech": "noun",
+    "href": "./affinity.html",
+    "thesis": "不是單純的喜歡，而是你和某種人、事、材料或想法之間有天然相吸的傾向。",
+    "tags": [
+      "親和",
+      "相容",
+      "natural pull",
+      "preference",
+      "design",
+      "chemistry",
+      "noun",
+      "affinity"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 affinity 和 preference 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " affinity 的字源畫面是彼此靠近、自然合拍，不只是喜歡。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句人際、審美或技術相容性的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/affinity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/affinity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/affinity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

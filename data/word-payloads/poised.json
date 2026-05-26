@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Poised",
+    "slug": "poised",
+    "outputPath": "prototypes/poised.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Poised",
+    "WORD_SLUG": "poised",
+    "WORD_LOWER": "poised",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "poizd · UK /pɔɪzd/ · US /pɔɪzd/",
+    "THESIS": "不是僵住，而是平衡已經就位，隨時可以往下一步動。",
+    "LEARNING_POSITION": "把 poised 記成「balanced and ready to move」：重點不是靜止，而是準備好的穩。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.46",
+    "CORE_IDEA": "<code>poised</code> 用來描述人、系統或局勢處在穩定而準備行動的狀態。",
+    "CONCEPT_FOCUS": "核心是平衡中的 readiness，不只是平靜。",
+    "TONE_REGISTER": "常見於人物描寫、職場表現、產品轉折與市場觀察。",
+    "USE_WARNING": "不要把 poised 當成 frozen calm；它其實常帶著即將行動的張力。",
+    "SHORT_DEFINITION": "不是僵住，而是平衡已經就位，隨時可以往下一步動。",
+    "CONFUSION_WORD": "Calm",
+    "CONFUSION_NOTE": "<code>calm</code> 只是平靜；<code>poised</code> 更像穩住後隨時能動。",
+    "FLOW_1": "先找到平衡",
+    "FLOW_2": "力量蓄在那裡",
+    "FLOW_3": "下一步隨時可以發生",
+    "ORIGIN_PARAGRAPH": "<code>poised</code> 和重量被平衡放置的畫面有關，所以它天然帶有平衡與預備狀態。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是石頭停住，而是弓箭已拉滿、還沒放手。",
+    "MEMORY_HOOK": "<code>poised</code> 是靜著，但不是停著。",
+    "MEMORY_EXPLANATION": "最讓人信任的專業感，常來自那種 poised 的狀態：不慌，卻隨時能接招。",
+    "DAILY_USAGE": "她站在台上很 <code>poised</code>，不是一動不動，而是每個動作都像已經準備好。",
+    "PROFESSIONAL_USAGE": "如果團隊真正 poised for the launch，意思不是沒有風險，而是該準備的都已經站好位置。",
+    "DOMAIN_USAGE": "人物描寫、公開表達、商業分析與策略轉折都常用 <code>poised</code>。",
+    "COLLOCATION_NOTE": "Poised 常和 for、to、between 搭配。",
+    "COLLOCATION_1": "poised for growth",
+    "REGISTER_1": "商務 / 市場",
+    "COLLOCATION_NOTE_1": "表示已在可起飛的位置上。",
+    "COLLOCATION_2": "poised to act",
+    "REGISTER_2": "人物 / 敘事",
+    "COLLOCATION_NOTE_2": "表示隨時可以採取行動。",
+    "COLLOCATION_3": "perfectly poised",
+    "REGISTER_3": "表現 / 描寫",
+    "COLLOCATION_NOTE_3": "表示平衡與控制感非常完整。",
+    "NEIGHBOR_SELF": "平衡已就位，隨時能往下走",
+    "NEIGHBOR_SELF_USE": "談人物氣質、產品 launch 或策略轉折時",
+    "NEIGHBOR_1": "Calm",
+    "NEIGHBOR_1_MEANING": "只是平靜、不吵動",
+    "NEIGHBOR_1_USE": "不需要帶出 readiness 或張力時",
+    "MODERN_USE_1": "現代英文裡，<code>poised</code> 很適合描述那種成熟的預備狀態，尤其在公開表現與商務語境中。",
+    "MODERN_USE_2": "它提醒我們分辨：穩不是慢，很多時候真正的穩正是因為已經準備好下一步。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/poised",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/poised",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/poised",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 poised 和 calm 的差異。",
+    "CHECK_ORIGIN": "記得 poised 的畫面是平衡中的準備，不是僵住。",
+    "CHECK_SENTENCE": "我能用它造一句人物、團隊或策略已就位待發的英文句子。",
+    "PRACTICE_SENTENCE": "The team looked <code>poised</code> to ship once the last validation report landed.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/poised",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "poised",
+    "word": "Poised",
+    "partOfSpeech": "adjective",
+    "href": "./poised.html",
+    "thesis": "不是僵住，而是平衡已經就位，隨時可以往下一步動。",
+    "tags": [
+      "就位待發",
+      "穩中待動",
+      "calm",
+      "launch",
+      "performance",
+      "adjective",
+      "poised"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 poised 和 calm 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " poised 的畫面是平衡中的準備，不是僵住。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句人物、團隊或策略已就位待發的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/poised",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/poised",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/poised",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Divulge",
+    "slug": "divulge",
+    "outputPath": "prototypes/divulge.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Divulge",
+    "WORD_SLUG": "divulge",
+    "WORD_LOWER": "divulge",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "dye-VULJ · UK /daɪˈvʌldʒ/ · US /daɪˈvʌldʒ/",
+    "THESIS": "不是一般分享，而是把原本未公開的內容說出來。",
+    "LEARNING_POSITION": "把 divulge 記成「reveal information that was being held back」：不是一般分享，而是把原本未公開的內容說出來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.99",
+    "CORE_IDEA": "<code>divulge</code> 表示洩露、透露或公開本來保留的資訊。",
+    "CONCEPT_FOCUS": "核心畫面是 reveal information that was being held back。",
+    "TONE_REGISTER": "這個字常見於 機密處理、媒體報導與協議溝通；語氣上不是空泛形容，而是用來抓住 reveal information that was being held back 這種狀態或動作。",
+    "USE_WARNING": "不要把 divulge 只看成 reveal；<code>reveal</code> 多半只是 透露，而 <code>divulge</code> 更強調 reveal information that was being held back。",
+    "SHORT_DEFINITION": "表示洩露、透露或公開本來保留的資訊。",
+    "CONFUSION_WORD": "Reveal",
+    "CONFUSION_NOTE": "<code>reveal</code> 多半只是 透露；<code>divulge</code> 則更偏向 reveal information that was being held back。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 reveal information that was being held back 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>divulge</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：reveal information that was being held back。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像緊閉的抽屜終於被拉開一點，裡面的文件露出邊角。",
+    "MEMORY_HOOK": "<code>divulge</code> 的畫面是：像緊閉的抽屜終於被拉開一點，裡面的文件露出邊角。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 divulge，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>divulge details</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>divulge the plan</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "機密處理、媒體報導與協議溝通 這類場景特別適合放進 <code>refuse to divulge</code>，因為那裡常需要描述 reveal information that was being held back。",
+    "COLLOCATION_NOTE": "Divulge 很適合透過固定搭配來抓語感，尤其是你想把 reveal information that was being held back 說得更自然時。",
+    "COLLOCATION_1": "divulge details",
+    "REGISTER_1": "法務 / 溝通",
+    "COLLOCATION_NOTE_1": "這個搭配能把 reveal information that was being held back 的語感直接帶出來。",
+    "COLLOCATION_2": "divulge the plan",
+    "REGISTER_2": "專案 / 管理",
+    "COLLOCATION_NOTE_2": "放到 機密處理、媒體報導與協議溝通 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "refuse to divulge",
+    "REGISTER_3": "公共 / 媒體",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 divulge 的實際使用邊界。",
+    "NEIGHBOR_SELF": "reveal information that was being held back",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 透露，而是 reveal information that was being held back 這層語感時",
+    "NEIGHBOR_1": "Reveal",
+    "NEIGHBOR_1_MEANING": "透露",
+    "NEIGHBOR_1_USE": "只想表達 透露，而不需要 reveal information that was being held back 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>divulge</code> 常和 <code>divulge details</code>、<code>divulge the plan</code>、<code>refuse to divulge</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 機密處理、媒體報導與協議溝通 的語境裡，這個字能比一般近義詞更精準地抓住 reveal information that was being held back。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/divulge",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/divulge",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/divulge",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 divulge 和 reveal 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像緊閉的抽屜終於被拉開一點，裡面的文件露出邊角。",
+    "CHECK_SENTENCE": "我能用 <code>divulge details</code> 或 <code>divulge the plan</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>divulge details</code> 或 <code>divulge the plan</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/divulge",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "divulge",
+    "word": "Divulge",
+    "partOfSpeech": "verb",
+    "href": "./divulge.html",
+    "thesis": "不是一般分享，而是把原本未公開的內容說出來。",
+    "tags": [
+      "透露未公開資訊",
+      "洩露",
+      "reveal",
+      "confidentiality",
+      "media",
+      "verb",
+      "divulge"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 divulge 和 reveal 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像緊閉的抽屜終於被拉開一點，裡面的文件露出邊角。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 divulge details 或 divulge the plan 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/divulge",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/divulge",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/divulge",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

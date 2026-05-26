@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Incisive",
+    "slug": "incisive",
+    "outputPath": "prototypes/incisive.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Incisive",
+    "WORD_SLUG": "incisive",
+    "WORD_LOWER": "incisive",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "in-SY-siv · UK /ɪnˈsaɪ.sɪv/ · US /ɪnˈsaɪ.sɪv/",
+    "THESIS": "不是尖酸，而是看法或問題切得深、切得準，一下就碰到核心。",
+    "LEARNING_POSITION": "把 incisive 記成「cuts cleanly to the core」：不是為了傷人，而是切到最關鍵處。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.96",
+    "CORE_IDEA": "<code>incisive</code> 用來描述評論、提問、分析或觀察銳利而準確，能快速切進核心問題。",
+    "CONCEPT_FOCUS": "核心是銳利的精準度，不是攻擊性。",
+    "TONE_REGISTER": "常見於評論、面談、分析與人物評價。",
+    "USE_WARNING": "不要把 incisive 當成 harsh；它可以很直接，但重點是切得準，不是刺得痛。",
+    "SHORT_DEFINITION": "不是尖酸，而是看法或問題切得深、切得準，一下就碰到核心。",
+    "CONFUSION_WORD": "Harsh",
+    "CONFUSION_NOTE": "<code>harsh</code> 偏向語氣重或傷人；<code>incisive</code> 是看得深、切得準。",
+    "FLOW_1": "先看見雜訊很多",
+    "FLOW_2": "刀口切向核心",
+    "FLOW_3": "真正問題被露出來",
+    "ORIGIN_PARAGRAPH": "<code>incisive</code> 和切開的拉丁語脈絡有關，所以它本來就帶著刀鋒般的精準感。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是拿錘子亂敲，而是拿一把很準的刀切開表層。",
+    "MEMORY_HOOK": "<code>incisive</code> 是一句話不多，但一刀就到位。",
+    "MEMORY_EXPLANATION": "最有用的 review comment 往往不是最長，而是最 incisive。",
+    "DAILY_USAGE": "有人提問很 <code>incisive</code>，你會立刻發現自己原本忽略了什麼。",
+    "PROFESSIONAL_USAGE": "在 design review 裡，an incisive question 往往比一頁意見更快逼出真正 tradeoff.",
+    "DOMAIN_USAGE": "評論、記者訪談、學術辯論與工程分析都常用 <code>incisive</code> 來評價銳利觀察。",
+    "COLLOCATION_NOTE": "Incisive 常和 question、analysis、commentary、critique 搭配。",
+    "COLLOCATION_1": "an incisive question",
+    "REGISTER_1": "會議 / 面談",
+    "COLLOCATION_NOTE_1": "表示問題一下就切進關鍵。",
+    "COLLOCATION_2": "incisive analysis",
+    "REGISTER_2": "研究 / 工程",
+    "COLLOCATION_NOTE_2": "表示分析不拖泥帶水，能直達核心。",
+    "COLLOCATION_3": "incisive commentary",
+    "REGISTER_3": "媒體 / 評論",
+    "COLLOCATION_NOTE_3": "表示評論銳利且有洞察。",
+    "NEIGHBOR_SELF": "切得準、切得深的洞察",
+    "NEIGHBOR_SELF_USE": "談提問、分析、評論與審查品質時",
+    "NEIGHBOR_1": "Harsh",
+    "NEIGHBOR_1_MEANING": "語氣尖銳、讓人不舒服",
+    "NEIGHBOR_1_USE": "重點在刺痛或 harshness，而不是洞察時",
+    "MODERN_USE_1": "現代英文裡，<code>incisive</code> 是高品質提問與分析的好字，因為它把銳利和精準綁在一起。",
+    "MODERN_USE_2": "在工程語境中，它特別適合描述那些能快速切穿表層症狀的 comment 或 question。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/incisive",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/incisive",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/incisive",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 incisive 和 harsh 的差異。",
+    "CHECK_ORIGIN": "記得 incisive 的畫面是刀鋒切準核心，不是單純語氣重。",
+    "CHECK_SENTENCE": "我能用它造一句提問、評論或分析切中核心的英文句子。",
+    "PRACTICE_SENTENCE": "Her <code>incisive</code> question exposed the hidden assumption behind the benchmark.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/incisive",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "incisive",
+    "word": "Incisive",
+    "partOfSpeech": "adjective",
+    "href": "./incisive.html",
+    "thesis": "不是尖酸，而是看法或問題切得深、切得準，一下就碰到核心。",
+    "tags": [
+      "切中核心",
+      "銳利洞察",
+      "harsh",
+      "analysis",
+      "review",
+      "adjective",
+      "incisive"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 incisive 和 harsh 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " incisive 的畫面是刀鋒切準核心，不是單純語氣重。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句提問、評論或分析切中核心的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/incisive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/incisive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/incisive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

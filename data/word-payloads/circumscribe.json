@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Circumscribe",
+    "slug": "circumscribe",
+    "outputPath": "prototypes/circumscribe.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Circumscribe",
+    "WORD_SLUG": "circumscribe",
+    "WORD_LOWER": "circumscribe",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "SUR-kum-skryb · UK /ˈsɜː.kəm.skraɪb/ · US /ˈsɝː.kəm.skraɪb/",
+    "THESIS": "不是單純限制，而是把範圍清楚畫起來，讓某件事只能在那圈邊界內活動。",
+    "LEARNING_POSITION": "把 circumscribe 記成「draw a boundary around it」：不是把它消滅，而是把它圈住。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.56",
+    "CORE_IDEA": "<code>circumscribe</code> 用來描述對權力、風險、議題或行動空間加上清楚界線，讓它不再無限制擴張。",
+    "CONCEPT_FOCUS": "核心是畫邊界，而不是一般壓制。",
+    "TONE_REGISTER": "常見於法律、政治、治理與分析寫作；語氣比 limit 更正式也更精確。",
+    "USE_WARNING": "不要把 circumscribe 當成 simply stop；它強調的是把活動範圍圈定下來。",
+    "SHORT_DEFINITION": "不是單純限制，而是把範圍清楚畫起來，讓某件事只能在那圈邊界內活動。",
+    "CONFUSION_WORD": "Limit",
+    "CONFUSION_NOTE": "<code>limit</code> 很廣；<code>circumscribe</code> 更像先把外框畫出來，再讓事情只能在框裡動。",
+    "FLOW_1": "先看見外溢風險",
+    "FLOW_2": "畫出邊界",
+    "FLOW_3": "活動被限制在圈內",
+    "ORIGIN_PARAGRAPH": "<code>circumscribe</code> 由「around」和「write」的拉丁語脈絡組成，本來就帶有把線畫在周圍的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：你拿筆在紙上畫一圈，把原本可能外溢的東西留在那個範圍裡。",
+    "MEMORY_HOOK": "<code>circumscribe</code> 是把問題圈起來，別讓它四處擴散。",
+    "MEMORY_EXPLANATION": "當你面對複雜系統時，第一步常不是直接解完，而是先把故障面 circumscribe。",
+    "DAILY_USAGE": "有時候你需要 <code>circumscribe</code> your weekend obligations，不然時間會被外界切得太碎。",
+    "PROFESSIONAL_USAGE": "在除錯或 incident response 裡，先 <code>circumscribe</code> the blast radius，才能知道後續該怎麼處理。",
+    "DOMAIN_USAGE": "法律、治理與政策文件常用 <code>circumscribe</code> 來描述權力、職權或行動邊界。",
+    "COLLOCATION_NOTE": "Circumscribe 常出現在權力、範圍、風險、議題這些需要邊界管理的名詞旁。",
+    "COLLOCATION_1": "circumscribe authority",
+    "REGISTER_1": "法律 / 治理",
+    "COLLOCATION_NOTE_1": "表示對權力加上明確邊界。",
+    "COLLOCATION_2": "circumscribe the scope",
+    "REGISTER_2": "專案 / 分析",
+    "COLLOCATION_NOTE_2": "表示把討論或執行範圍圈定。",
+    "COLLOCATION_3": "circumscribe the damage",
+    "REGISTER_3": "incident / 風險",
+    "COLLOCATION_NOTE_3": "表示先控制影響外擴。",
+    "NEIGHBOR_SELF": "清楚畫出可活動的邊界",
+    "NEIGHBOR_SELF_USE": "談 scope、authority、blast radius 或議題邊界時",
+    "NEIGHBOR_1": "Limit",
+    "NEIGHBOR_1_MEANING": "一般地縮小或限制",
+    "NEIGHBOR_1_USE": "只想說變少，而不特別強調外框與界線時",
+    "MODERN_USE_1": "現代英文裡，<code>circumscribe</code> 雖然偏正式，但在法律、政策與高精度分析裡非常好用，因為它能直接帶出 boundary 的概念。",
+    "MODERN_USE_2": "在技術語境中，它也適合描述 blast radius、責任邊界與 scope containment 這種不是消滅問題，而是先把問題圈住的做法。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/circumscribe",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/circumscribe",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/circumscribe",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 circumscribe 和 limit 的差異。",
+    "CHECK_ORIGIN": "記得 circumscribe 的字源畫面是拿筆畫圈，把事情圈在邊界內。",
+    "CHECK_SENTENCE": "我能用它造一句權限、scope 或 incident 控制情境的英文句子。",
+    "PRACTICE_SENTENCE": "We need to <code>circumscribe</code> the failure domain before we start rewriting the driver.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/circumscribe",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "circumscribe",
+    "word": "Circumscribe",
+    "partOfSpeech": "verb",
+    "href": "./circumscribe.html",
+    "thesis": "不是單純限制，而是把範圍清楚畫起來，讓某件事只能在那圈邊界內活動。",
+    "tags": [
+      "圈定",
+      "邊界",
+      "limit",
+      "scope",
+      "governance",
+      "verb",
+      "circumscribe"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 circumscribe 和 limit 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " circumscribe 的字源畫面是拿筆畫圈，把事情圈在邊界內。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句權限、scope 或 incident 控制情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/circumscribe",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/circumscribe",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/circumscribe",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Kinetic",
+    "slug": "kinetic",
+    "outputPath": "prototypes/kinetic.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Kinetic",
+    "WORD_SLUG": "kinetic",
+    "WORD_LOWER": "kinetic",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "ky-NET-ik · UK /kaɪˈnet.ɪk/ · US /kaɪˈnet̬.ɪk/",
+    "THESIS": "不是只是活躍，而是跟運動、動能、移動中的力量直接相關。",
+    "LEARNING_POSITION": "把 kinetic 記成「energy in motion」：重點不是靜態存在，而是力量正在動。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.04",
+    "CORE_IDEA": "<code>kinetic</code> 用來描述物理上的動能，也常被借去形容充滿移動感、節奏感或動態張力的事物。",
+    "CONCEPT_FOCUS": "核心是運動中的能量，不只是忙。",
+    "TONE_REGISTER": "常見於物理、設計、舞蹈、影像與空間敘事。",
+    "USE_WARNING": "不要把 kinetic 當成簡單 active；kinetic 更具體地指向 motion 和動態能量。",
+    "SHORT_DEFINITION": "不是只是活躍，而是跟運動、動能、移動中的力量直接相關。",
+    "CONFUSION_WORD": "Active",
+    "CONFUSION_NOTE": "<code>active</code> 只是有在動或有參與；<code>kinetic</code> 更像動能本身成為特徵。",
+    "FLOW_1": "先有能量",
+    "FLOW_2": "能量進入運動",
+    "FLOW_3": "動態張力被你感覺到",
+    "ORIGIN_PARAGRAPH": "<code>kinetic</code> 來自希臘語裡「移動」的脈絡，所以它和 movement 的關係非常直接。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是蓄在電池裡的能量，而是已經沿著線路跑起來的能量。",
+    "MEMORY_HOOK": "<code>kinetic</code> 是力量不是躺著，而是在跑。",
+    "MEMORY_EXPLANATION": "有些畫面之所以吸引人，不是元素多，而是整體帶著 kinetic tension。",
+    "DAILY_USAGE": "一場很 <code>kinetic</code> 的表演，會讓你感覺空氣裡都是運動的力量。",
+    "PROFESSIONAL_USAGE": "在產品或互動設計裡，kinetic feel 代表節奏、速度與回饋都帶著動態感。",
+    "DOMAIN_USAGE": "物理、舞蹈、影像與互動設計都常用 <code>kinetic</code> 來描述運動中的能量。",
+    "COLLOCATION_NOTE": "Kinetic 常和 energy、motion、sculpture、experience 搭配。",
+    "COLLOCATION_1": "kinetic energy",
+    "REGISTER_1": "物理 / 科學",
+    "COLLOCATION_NOTE_1": "回到它最基本的動能語境。",
+    "COLLOCATION_2": "kinetic sculpture",
+    "REGISTER_2": "藝術 / 展示",
+    "COLLOCATION_NOTE_2": "表示作品以運動性為核心。",
+    "COLLOCATION_3": "kinetic experience",
+    "REGISTER_3": "互動 / 設計",
+    "COLLOCATION_NOTE_3": "表示體驗具有明顯動態張力。",
+    "NEIGHBOR_SELF": "運動中的力量與張力",
+    "NEIGHBOR_SELF_USE": "談物理、互動、表演或空間動態時",
+    "NEIGHBOR_1": "Active",
+    "NEIGHBOR_1_MEANING": "活躍、積極、有在動",
+    "NEIGHBOR_1_USE": "只想說很活躍，不特別強調動能特質時",
+    "MODERN_USE_1": "現代英文裡，<code>kinetic</code> 一方面保持物理學意義，一方面也常被借去描述具有動態張力的設計與表演。",
+    "MODERN_USE_2": "它比 active 更能表達那種「運動本身就是美感或力量來源」的感覺。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/kinetic",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/kinetic",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/kinetic",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 kinetic 和 active 的差異。",
+    "CHECK_ORIGIN": "記得 kinetic 的根本是 movement，所以是動能，不只是活躍。",
+    "CHECK_SENTENCE": "我能用它造一句物理、互動或表演動態感的英文句子。",
+    "PRACTICE_SENTENCE": "The demo felt more <code>kinetic</code> once the transitions responded to real input timing.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/kinetic",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "kinetic",
+    "word": "Kinetic",
+    "partOfSpeech": "adjective",
+    "href": "./kinetic.html",
+    "thesis": "不是只是活躍，而是跟運動、動能、移動中的力量直接相關。",
+    "tags": [
+      "動能",
+      "動態感",
+      "active",
+      "motion",
+      "design",
+      "adjective",
+      "kinetic"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 kinetic 和 active 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " kinetic 的根本是 movement，所以是動能，不只是活躍。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句物理、互動或表演動態感的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/kinetic",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/kinetic",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/kinetic",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

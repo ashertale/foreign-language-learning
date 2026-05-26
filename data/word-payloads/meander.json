@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Meander",
+    "slug": "meander",
+    "outputPath": "prototypes/meander.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Meander",
+    "WORD_SLUG": "meander",
+    "WORD_LOWER": "meander",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "mee-AN-der · UK /miˈæn.dər/ · US /miˈæn.dɚ/",
+    "THESIS": "不是單純迷路，而是慢慢彎彎繞繞地前進，路徑不急也不直。",
+    "LEARNING_POSITION": "把 meander 記成「move by curves, not by straight rush」：重點不是效率，而是路徑的蜿蜒。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.93",
+    "CORE_IDEA": "<code>meander</code> 用來描述河流、談話、散步或思緒以曲折、不筆直的方式展開。",
+    "CONCEPT_FOCUS": "核心是蜿蜒與不急，不是失控。",
+    "TONE_REGISTER": "常見於自然描寫、散文、對話與思考節奏描述。",
+    "USE_WARNING": "不要把 meander 當成 simply wander；它特別強調路徑曲折、節奏悠緩。",
+    "SHORT_DEFINITION": "不是單純迷路，而是慢慢彎彎繞繞地前進，路徑不急也不直。",
+    "CONFUSION_WORD": "Wander",
+    "CONFUSION_NOTE": "<code>wander</code> 是漫遊；<code>meander</code> 更像一路彎彎繞繞地走，不急著直達。",
+    "FLOW_1": "原本有一個方向",
+    "FLOW_2": "路徑開始繞彎",
+    "FLOW_3": "整體節奏變得悠長曲折",
+    "ORIGIN_PARAGRAPH": "<code>meander</code> 和一條以曲折著名的古河流名稱有關，所以它從一開始就自帶蜿蜒地形感。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：水不是卡住，而是沿著地勢慢慢繞出它自己的線。",
+    "MEMORY_HOOK": "<code>meander</code> 是不直，但也不急著道歉。",
+    "MEMORY_EXPLANATION": "有些散步和有些談話之所以舒服，就是因為它們允許自己 meander。",
+    "DAILY_USAGE": "午後散步若任由自己 <code>meander</code> through old streets，節奏會完全不同。",
+    "PROFESSIONAL_USAGE": "如果一個簡報一直 <code>meander</code> without a thesis，聽的人很快就會失去抓手。",
+    "DOMAIN_USAGE": "地理、寫作、敘事與對話分析都常用 <code>meander</code> 來描述曲折路徑。",
+    "COLLOCATION_NOTE": "Meander 常和 river、conversation、path、through 搭配。",
+    "COLLOCATION_1": "a meandering river",
+    "REGISTER_1": "自然 / 地理",
+    "COLLOCATION_NOTE_1": "表示河道蜿蜒前進。",
+    "COLLOCATION_2": "meander through the city",
+    "REGISTER_2": "旅遊 / 生活",
+    "COLLOCATION_NOTE_2": "表示不急著直達，沿路慢慢走。",
+    "COLLOCATION_3": "the conversation meandered",
+    "REGISTER_3": "對話 / 敘事",
+    "COLLOCATION_NOTE_3": "表示話題曲折流動。",
+    "NEIGHBOR_SELF": "沿著曲折路徑慢慢前進",
+    "NEIGHBOR_SELF_USE": "談河流、談話、散步或思路展開時",
+    "NEIGHBOR_1": "Wander",
+    "NEIGHBOR_1_MEANING": "沒有明確目的地地四處走",
+    "NEIGHBOR_1_USE": "重點是漫遊，不特別強調曲折路徑時",
+    "MODERN_USE_1": "現代英文裡，<code>meander</code> 常用在自然與敘事語境，因為它把路徑形狀和節奏感一起帶出來。",
+    "MODERN_USE_2": "它也很適合拿來提醒簡報或文章：若一直 meander，讀者很容易抓不到主線。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/meander",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/meander",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/meander",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 meander 和 wander 的差異。",
+    "CHECK_ORIGIN": "記得 meander 的畫面是河道蜿蜒，不是單純迷路。",
+    "CHECK_SENTENCE": "我能用它造一句河流、散步或對話曲折展開的英文句子。",
+    "PRACTICE_SENTENCE": "The talk started strong but then <code>meandered</code> through too many side stories.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/meander",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "meander",
+    "word": "Meander",
+    "partOfSpeech": "verb",
+    "href": "./meander.html",
+    "thesis": "不是單純迷路，而是慢慢彎彎繞繞地前進，路徑不急也不直。",
+    "tags": [
+      "蜿蜒",
+      "繞行",
+      "wander",
+      "conversation",
+      "path",
+      "verb",
+      "meander"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 meander 和 wander 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " meander 的畫面是河道蜿蜒，不是單純迷路。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句河流、散步或對話曲折展開的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/meander",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/meander",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/meander",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

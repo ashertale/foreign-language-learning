@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Plausible",
+    "slug": "plausible",
+    "outputPath": "prototypes/plausible.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Plausible",
+    "WORD_SLUG": "plausible",
+    "WORD_LOWER": "plausible",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "PLAW-zuh-buhl · UK /ˈplɔː.zə.bəl/ · US /ˈplɔː.zə.bəl/",
+    "THESIS": "不是真相已經坐實，而是這個說法至少聽起來站得住、值得認真考慮。",
+    "LEARNING_POSITION": "把 plausible 記成「believable enough to survive first scrutiny」：不是證明完了，而是暫時站得住。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.44",
+    "CORE_IDEA": "<code>plausible</code> 用來描述解釋、假設或方案在目前資訊下看起來可信、合理，但仍待驗證。",
+    "CONCEPT_FOCUS": "核心是可信度初步成立，不等於被證明。",
+    "TONE_REGISTER": "常見於研究、推理、工程除錯與討論假設。",
+    "USE_WARNING": "不要把 plausible 當成 true；它常是值得測試的候選答案，而不是終局答案。",
+    "SHORT_DEFINITION": "不是真相已經坐實，而是這個說法至少聽起來站得住、值得認真考慮。",
+    "CONFUSION_WORD": "True",
+    "CONFUSION_NOTE": "<code>true</code> 是已成立；<code>plausible</code> 則是目前看起來合理，但還需要更多證據。",
+    "FLOW_1": "先提出解釋",
+    "FLOW_2": "初步看來站得住",
+    "FLOW_3": "接著進入驗證",
+    "ORIGIN_PARAGRAPH": "<code>plausible</code> 和拉丁語裡「值得鼓掌、討喜」的脈絡相關，後來才發展出「聽起來可信」的意思。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是法官已宣判，而是觀眾先點頭說「這說得過去」。",
+    "MEMORY_HOOK": "<code>plausible</code> 是先讓假設活過第一輪質疑。",
+    "MEMORY_EXPLANATION": "很多 debug 假說最初都只是 plausible，不該因為順耳就被誤當成真。",
+    "DAILY_USAGE": "對方的解釋也許聽起來 <code>plausible</code>，但你還是需要看前後脈絡。",
+    "PROFESSIONAL_USAGE": "在 root-cause 分析裡，一個 plausible theory 只是起點，還得靠實驗把它打實或打掉。",
+    "DOMAIN_USAGE": "科學推理、偵查、風險判讀與工程假設驗證都常用 <code>plausible</code>。",
+    "COLLOCATION_NOTE": "Plausible 常和 explanation、scenario、hypothesis、denial 搭配。",
+    "COLLOCATION_1": "a plausible explanation",
+    "REGISTER_1": "分析 / 推理",
+    "COLLOCATION_NOTE_1": "表示解釋暫時站得住。",
+    "COLLOCATION_2": "plausible scenario",
+    "REGISTER_2": "風險 / 規劃",
+    "COLLOCATION_NOTE_2": "表示情境有現實可能性。",
+    "COLLOCATION_3": "plausible hypothesis",
+    "REGISTER_3": "研究 / debug",
+    "COLLOCATION_NOTE_3": "表示假說值得進一步驗證。",
+    "NEIGHBOR_SELF": "初步可信，值得進一步驗證",
+    "NEIGHBOR_SELF_USE": "談解釋、假說、scenario 或 root cause 時",
+    "NEIGHBOR_1": "True",
+    "NEIGHBOR_1_MEANING": "已被證明是真的",
+    "NEIGHBOR_1_USE": "需要表達結論已坐實時",
+    "MODERN_USE_1": "現代英文裡，<code>plausible</code> 是推理與除錯裡很重要的字，因為它能幫你停在「合理」而不是過早衝去「確定」。",
+    "MODERN_USE_2": "在工程語境中，它非常適合描述仍需驗證的 root-cause 候選解釋。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/plausible",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/plausible",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/plausible",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 plausible 和 true 的差異。",
+    "CHECK_ORIGIN": "記得 plausible 是先站得住，不等於已被證明為真。",
+    "CHECK_SENTENCE": "我能用它造一句假說、解釋或情境初步可信的英文句子。",
+    "PRACTICE_SENTENCE": "It was a <code>plausible</code> theory, but the trace data did not support it.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/plausible",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "plausible",
+    "word": "Plausible",
+    "partOfSpeech": "adjective",
+    "href": "./plausible.html",
+    "thesis": "不是真相已經坐實，而是這個說法至少聽起來站得住、值得認真考慮。",
+    "tags": [
+      "似乎可信",
+      "初步合理",
+      "true",
+      "hypothesis",
+      "debugging",
+      "adjective",
+      "plausible"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 plausible 和 true 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " plausible 是先站得住，不等於已被證明為真。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句假說、解釋或情境初步可信的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/plausible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/plausible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/plausible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

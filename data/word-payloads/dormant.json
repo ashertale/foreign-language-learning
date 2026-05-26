@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Dormant",
+    "slug": "dormant",
+    "outputPath": "prototypes/dormant.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Dormant",
+    "WORD_SLUG": "dormant",
+    "WORD_LOWER": "dormant",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "DOR-muhnt · UK /ˈdɔː.mənt/ · US /ˈdɔːr.mənt/",
+    "THESIS": "不是不存在，而是暫時不活躍、沒有表面動作，但狀態與可能性還在。",
+    "LEARNING_POSITION": "把 dormant 記成「inactive but still there」：不是消失，只是暫時沒醒。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.49",
+    "CORE_IDEA": "<code>dormant</code> 用來描述火山、帳號、功能、情緒或問題目前不活躍，但並沒有真正消失。",
+    "CONCEPT_FOCUS": "核心是潛伏存在，而不是結束。",
+    "TONE_REGISTER": "常見於地質、技術、風險、商務與心理狀態描述。",
+    "USE_WARNING": "不要把 dormant 當成 gone；它常暗示後續還可能再次被喚起。",
+    "SHORT_DEFINITION": "不是不存在，而是暫時不活躍、沒有表面動作，但狀態與可能性還在。",
+    "CONFUSION_WORD": "Inactive",
+    "CONFUSION_NOTE": "<code>inactive</code> 只是沒在動；<code>dormant</code> 更像睡著，之後還可能醒來。",
+    "FLOW_1": "曾經存在或可啟動",
+    "FLOW_2": "暫時沉下去",
+    "FLOW_3": "必要時可能再起來",
+    "ORIGIN_PARAGRAPH": "<code>dormant</code> 和拉丁語裡「睡覺」有關，所以它天然帶有休眠而非消滅的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：火沒有熄掉，只是暫時埋在灰下面。",
+    "MEMORY_HOOK": "<code>dormant</code> 是看起來安靜，但你知道它還在。",
+    "MEMORY_EXPLANATION": "很多風險最難處理的地方，就是它 dormant 到讓人誤以為不存在。",
+    "DAILY_USAGE": "有些念頭平常是 <code>dormant</code> 的，但一被觸發就又浮上來。",
+    "PROFESSIONAL_USAGE": "在系統裡，a dormant bug 可能很久沒被撞到，但一換環境就再次出現。",
+    "DOMAIN_USAGE": "地質、法律、資安與產品功能切換都常用 <code>dormant</code> 來描述休眠狀態。",
+    "COLLOCATION_NOTE": "Dormant 常和 volcano、account、gene、bug、feature 搭配。",
+    "COLLOCATION_1": "a dormant volcano",
+    "REGISTER_1": "自然 / 地質",
+    "COLLOCATION_NOTE_1": "表示目前不噴發，但仍被視為活體風險。",
+    "COLLOCATION_2": "a dormant account",
+    "REGISTER_2": "商務 / 系統",
+    "COLLOCATION_NOTE_2": "表示帳號存在但長期未活躍。",
+    "COLLOCATION_3": "a dormant issue",
+    "REGISTER_3": "工程 / 風險",
+    "COLLOCATION_NOTE_3": "表示問題暫時沉下去，仍可能回來。",
+    "NEIGHBOR_SELF": "暫時休眠，但仍在場",
+    "NEIGHBOR_SELF_USE": "談風險、功能、帳號、情緒或火山時",
+    "NEIGHBOR_1": "Inactive",
+    "NEIGHBOR_1_MEANING": "只是目前沒有活動",
+    "NEIGHBOR_1_USE": "不特別暗示未來可能被喚醒時",
+    "MODERN_USE_1": "現代英文裡，<code>dormant</code> 很常被拿來描述暫時不活躍但仍具潛在影響的事物，從火山到 bug 都適用。",
+    "MODERN_USE_2": "它的價值在於提醒你：表面安靜不代表系統裡已經沒有那個東西。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/dormant",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/dormant",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/dormant",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 dormant 和 inactive 的差異。",
+    "CHECK_ORIGIN": "記得 dormant 的字源和睡著有關，所以是休眠，不是消失。",
+    "CHECK_SENTENCE": "我能用它造一句風險、帳號或系統問題情境的英文句子。",
+    "PRACTICE_SENTENCE": "The defect stayed <code>dormant</code> until the new scheduler changed the timing window.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/dormant",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "dormant",
+    "word": "Dormant",
+    "partOfSpeech": "adjective",
+    "href": "./dormant.html",
+    "thesis": "不是不存在，而是暫時不活躍、沒有表面動作，但狀態與可能性還在。",
+    "tags": [
+      "休眠",
+      "潛伏",
+      "inactive",
+      "risk",
+      "bug",
+      "adjective",
+      "dormant"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 dormant 和 inactive 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " dormant 的字源和睡著有關，所以是休眠，不是消失。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句風險、帳號或系統問題情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/dormant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/dormant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/dormant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

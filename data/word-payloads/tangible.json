@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Tangible",
+    "slug": "tangible",
+    "outputPath": "prototypes/tangible.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Tangible",
+    "WORD_SLUG": "tangible",
+    "WORD_LOWER": "tangible",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "TAN-juh-buhl · UK /ˈtæn.dʒə.bəl/ · US /ˈtæn.dʒə.bəl/",
+    "THESIS": "不是抽象方向，而是你真的摸得到或量得到。",
+    "LEARNING_POSITION": "把 tangible 記成「clear enough to feel or measure in concrete terms」：不是抽象方向，而是你真的摸得到或量得到。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.47",
+    "CORE_IDEA": "<code>tangible</code> 表示具體可感、可測或明確存在。",
+    "CONCEPT_FOCUS": "核心畫面是 clear enough to feel or measure in concrete terms。",
+    "TONE_REGISTER": "這個字常見於 成果評估、產品價值與風險判定；語氣上不是空泛形容，而是用來抓住 clear enough to feel or measure in concrete terms 這種狀態或動作。",
+    "USE_WARNING": "不要把 tangible 只看成 concrete；<code>concrete</code> 多半只是 具體，而 <code>tangible</code> 更強調 clear enough to feel or measure in concrete terms。",
+    "SHORT_DEFINITION": "表示具體可感、可測或明確存在。",
+    "CONFUSION_WORD": "Concrete",
+    "CONFUSION_NOTE": "<code>concrete</code> 多半只是 具體；<code>tangible</code> 則更偏向 clear enough to feel or measure in concrete terms。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 clear enough to feel or measure in concrete terms 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>tangible</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：clear enough to feel or measure in concrete terms。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像霧一散後，桌上的工具一件件都能伸手碰到。",
+    "MEMORY_HOOK": "<code>tangible</code> 的畫面是：像霧一散後，桌上的工具一件件都能伸手碰到。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 tangible，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>tangible benefit</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>tangible progress</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "成果評估、產品價值與風險判定 這類場景特別適合放進 <code>tangible evidence</code>，因為那裡常需要描述 clear enough to feel or measure in concrete terms。",
+    "COLLOCATION_NOTE": "Tangible 很適合透過固定搭配來抓語感，尤其是你想把 clear enough to feel or measure in concrete terms 說得更自然時。",
+    "COLLOCATION_1": "tangible benefit",
+    "REGISTER_1": "商業 / 產品",
+    "COLLOCATION_NOTE_1": "這個搭配能把 clear enough to feel or measure in concrete terms 的語感直接帶出來。",
+    "COLLOCATION_2": "tangible progress",
+    "REGISTER_2": "專案 / 管理",
+    "COLLOCATION_NOTE_2": "放到 成果評估、產品價值與風險判定 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "tangible evidence",
+    "REGISTER_3": "法務 / 判定",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 tangible 的實際使用邊界。",
+    "NEIGHBOR_SELF": "clear enough to feel or measure in concrete terms",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 具體，而是 clear enough to feel or measure in concrete terms 這層語感時",
+    "NEIGHBOR_1": "Concrete",
+    "NEIGHBOR_1_MEANING": "具體",
+    "NEIGHBOR_1_USE": "只想表達 具體，而不需要 clear enough to feel or measure in concrete terms 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>tangible</code> 常和 <code>tangible benefit</code>、<code>tangible progress</code>、<code>tangible evidence</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 成果評估、產品價值與風險判定 的語境裡，這個字能比一般近義詞更精準地抓住 clear enough to feel or measure in concrete terms。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/tangible",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/tangible",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/tangible",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 tangible 和 concrete 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像霧一散後，桌上的工具一件件都能伸手碰到。",
+    "CHECK_SENTENCE": "我能用 <code>tangible benefit</code> 或 <code>tangible progress</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>tangible benefit</code> 或 <code>tangible progress</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/tangible",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "tangible",
+    "word": "Tangible",
+    "partOfSpeech": "adjective",
+    "href": "./tangible.html",
+    "thesis": "不是抽象方向，而是你真的摸得到或量得到。",
+    "tags": [
+      "具體可感",
+      "摸得到量得到",
+      "concrete",
+      "results",
+      "evidence",
+      "adjective",
+      "tangible"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 tangible 和 concrete 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像霧一散後，桌上的工具一件件都能伸手碰到。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 tangible benefit 或 tangible progress 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tangible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tangible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tangible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

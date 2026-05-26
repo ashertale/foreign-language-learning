@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Feasible",
+    "slug": "feasible",
+    "outputPath": "prototypes/feasible.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Feasible",
+    "WORD_SLUG": "feasible",
+    "WORD_LOWER": "feasible",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "FEE-zuh-buhl · UK /ˈfiː.zə.bəl/ · US /ˈfiː.zə.bəl/",
+    "THESIS": "不是最好，而是在現有條件、時間和資源下真做得出來。",
+    "LEARNING_POSITION": "把 feasible 記成「doable in reality」：不是理論上存在，而是條件一攤開還走得通。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.52",
+    "CORE_IDEA": "<code>feasible</code> 用來描述計畫、方法或方案在實際限制下具有可執行性。",
+    "CONCEPT_FOCUS": "核心是現實可行，不是抽象可能。",
+    "TONE_REGISTER": "常見於專案、研究、政策、工程與排程討論。",
+    "USE_WARNING": "不要把 feasible 當成 ideal；它可能只是能做，不代表是最漂亮或最便宜的解。",
+    "SHORT_DEFINITION": "不是最好，而是在現有條件、時間和資源下真做得出來。",
+    "CONFUSION_WORD": "Possible",
+    "CONFUSION_NOTE": "<code>possible</code> 可以只是邏輯上成立；<code>feasible</code> 更看現實條件下做不做得出來。",
+    "FLOW_1": "先提出想法",
+    "FLOW_2": "拿現實條件檢查",
+    "FLOW_3": "確認它真的能落地",
+    "ORIGIN_PARAGRAPH": "<code>feasible</code> 和法語裡「做」的脈絡有關，所以它一直都和能不能真正動手做出來連在一起。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：白板上的箭頭再漂亮，也得走到地面上還能踏得到。",
+    "MEMORY_HOOK": "<code>feasible</code> 是想法從白板走到工地還沒死掉。",
+    "MEMORY_EXPLANATION": "很多討論卡住，不是因為 idea 差，而是沒有把 feasibility 拿出來正面看。",
+    "DAILY_USAGE": "旅遊計畫看起來很棒，但未必在預算和假期下真的 <code>feasible</code>.",
+    "PROFESSIONAL_USAGE": "在工程上，一個 design 只有在 schedule、hardware limits 和 test cost 一起看過後，才算 <code>feasible</code>.",
+    "DOMAIN_USAGE": "研究方法、產品範圍、物流安排與政策落地都常用 <code>feasible</code> 來談可執行性。",
+    "COLLOCATION_NOTE": "Feasible 常和 solution、plan、option、approach 搭配。",
+    "COLLOCATION_1": "a feasible plan",
+    "REGISTER_1": "專案 / 排程",
+    "COLLOCATION_NOTE_1": "表示現實條件下真的走得通。",
+    "COLLOCATION_2": "technically feasible",
+    "REGISTER_2": "工程 / 技術",
+    "COLLOCATION_NOTE_2": "表示技術面沒有根本障礙。",
+    "COLLOCATION_3": "financially feasible",
+    "REGISTER_3": "商務 / 預算",
+    "COLLOCATION_NOTE_3": "表示成本條件允許。",
+    "NEIGHBOR_SELF": "在現實限制下還能落地",
+    "NEIGHBOR_SELF_USE": "談方案、排程、研究方法或資源配置時",
+    "NEIGHBOR_1": "Possible",
+    "NEIGHBOR_1_MEANING": "抽象上有可能成立",
+    "NEIGHBOR_1_USE": "只談邏輯可能，不談現實條件時",
+    "MODERN_USE_1": "現代英文裡，<code>feasible</code> 是把討論從理想拉回現實的重要字，尤其在專案與工程場景裡。",
+    "MODERN_USE_2": "它很適合提醒團隊：可想像不等於可落地。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/feasible",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/feasible",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/feasible",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 feasible 和 possible 的差異。",
+    "CHECK_ORIGIN": "記得 feasible 和「做得出來」直接相連，不只是抽象可能。",
+    "CHECK_SENTENCE": "我能用它造一句方案、預算或技術可行性的英文句子。",
+    "PRACTICE_SENTENCE": "The architecture was elegant, but it was not <code>feasible</code> within the power budget.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/feasible",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "feasible",
+    "word": "Feasible",
+    "partOfSpeech": "adjective",
+    "href": "./feasible.html",
+    "thesis": "不是最好，而是在現有條件、時間和資源下真做得出來。",
+    "tags": [
+      "可行",
+      "落地",
+      "possible",
+      "planning",
+      "engineering",
+      "adjective",
+      "feasible"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 feasible 和 possible 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " feasible 和「做得出來」直接相連，不只是抽象可能。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句方案、預算或技術可行性的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/feasible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/feasible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/feasible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

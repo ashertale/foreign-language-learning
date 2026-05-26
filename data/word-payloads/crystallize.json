@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Crystallize",
+    "slug": "crystallize",
+    "outputPath": "prototypes/crystallize.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Crystallize",
+    "WORD_SLUG": "crystallize",
+    "WORD_LOWER": "crystallize",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "KRIS-tuh-lize · UK /ˈkrɪs.təl.aɪz/ · US /ˈkrɪs.təl.aɪz/",
+    "THESIS": "不是只是變清楚，而是原本散的想法、感受或局勢開始長成穩定形狀。",
+    "LEARNING_POSITION": "把 crystallize 記成「take definite shape」：不是霧散而已，而是形狀真的長出來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.07",
+    "CORE_IDEA": "<code>crystallize</code> 用來描述模糊的想法、策略、情緒或結論逐漸變得明確、具體而可說。",
+    "CONCEPT_FOCUS": "核心是成形，不只是理解比較清楚。",
+    "TONE_REGISTER": "常見於寫作、策略、研究、會議與自我反思。",
+    "USE_WARNING": "不要把 crystallize 當成簡單的 clarify；它更像從散亂到結晶，形狀被長出來。",
+    "SHORT_DEFINITION": "不是只是變清楚，而是原本散的想法、感受或局勢開始長成穩定形狀。",
+    "CONFUSION_WORD": "Clarify",
+    "CONFUSION_NOTE": "<code>clarify</code> 強調去除模糊；<code>crystallize</code> 更進一步，表示東西已經開始定型。",
+    "FLOW_1": "先是模糊散亂",
+    "FLOW_2": "輪廓慢慢出來",
+    "FLOW_3": "形狀終於定下來",
+    "ORIGIN_PARAGRAPH": "<code>crystallize</code> 先來自物質形成晶體的具體畫面，後來才被借去描述抽象想法如何成形。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：溶液裡本來看不出形狀，但某一刻晶體真的長出來了。",
+    "MEMORY_HOOK": "<code>crystallize</code> 是腦中的霧不只是散掉，而是開始結成可握住的形。",
+    "MEMORY_EXPLANATION": "很多洞見不是突然憑空出現，而是在一段混亂思考後慢慢 crystallize。",
+    "DAILY_USAGE": "有時候你對一段關係的感受，要過一陣子才會 <code>crystallize</code> into words.",
+    "PROFESSIONAL_USAGE": "在 design review 之後，分散的疑慮常會逐漸 <code>crystallize</code> into a cleaner direction.",
+    "DOMAIN_USAGE": "研究假設、產品策略與個人判斷都常用 <code>crystallize</code> 來描述想法定型的過程。",
+    "COLLOCATION_NOTE": "Crystallize 常和 idea、plan、concern、opinion、strategy 搭配。",
+    "COLLOCATION_1": "crystallize an idea",
+    "REGISTER_1": "寫作 / 思考",
+    "COLLOCATION_NOTE_1": "表示把模糊概念長成可說的結構。",
+    "COLLOCATION_2": "concerns crystallized",
+    "REGISTER_2": "會議 / 組織",
+    "COLLOCATION_NOTE_2": "表示原本零散的不安開始形成明確問題。",
+    "COLLOCATION_3": "crystallize into a plan",
+    "REGISTER_3": "策略 / 專案",
+    "COLLOCATION_NOTE_3": "表示方向從抽象變成可執行。",
+    "NEIGHBOR_SELF": "從模糊走向定型",
+    "NEIGHBOR_SELF_USE": "談想法、感受、策略或結論的成形過程時",
+    "NEIGHBOR_1": "Clarify",
+    "NEIGHBOR_1_MEANING": "把事情講得更清楚",
+    "NEIGHBOR_1_USE": "重點只在釐清，不一定到真正定型時",
+    "MODERN_USE_1": "現代英文裡，<code>crystallize</code> 很適合拿來描述抽象事物如何慢慢成形，尤其在寫作、設計與策略思考裡很好用。",
+    "MODERN_USE_2": "它比 clarify 更有時間感，也更能表達那種想法從散亂走到穩定輪廓的過程。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/crystallize",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/crystallize",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/crystallize",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 crystallize 和 clarify 的差異。",
+    "CHECK_ORIGIN": "記得 crystallize 的畫面是晶體長出來，所以重點是定型，不只是不模糊。",
+    "CHECK_SENTENCE": "我能用它造一句想法、策略或情緒成形情境的英文句子。",
+    "PRACTICE_SENTENCE": "The repeated failures helped <code>crystallize</code> what the real timing issue was.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/crystallize",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "crystallize",
+    "word": "Crystallize",
+    "partOfSpeech": "verb",
+    "href": "./crystallize.html",
+    "thesis": "不是只是變清楚，而是原本散的想法、感受或局勢開始長成穩定形狀。",
+    "tags": [
+      "成形",
+      "結晶",
+      "clarify",
+      "strategy",
+      "thinking",
+      "verb",
+      "crystallize"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 crystallize 和 clarify 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " crystallize 的畫面是晶體長出來，所以重點是定型，不只是不模糊。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句想法、策略或情緒成形情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/crystallize",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/crystallize",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/crystallize",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

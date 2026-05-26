@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Diffuse",
+    "slug": "diffuse",
+    "outputPath": "prototypes/diffuse.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Diffuse",
+    "WORD_SLUG": "diffuse",
+    "WORD_LOWER": "diffuse",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "dih-FYOOS · UK /dɪˈfjuːs/ · US /dɪˈfjuːs/",
+    "THESIS": "不是豐富，而是散得很開，焦點不再集中。",
+    "LEARNING_POSITION": "把 diffuse 記成「spread out so widely that no single point stays sharp」：不是豐富，而是散得很開，焦點不再集中。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.84",
+    "CORE_IDEA": "<code>diffuse</code> 表示光線、注意力、文字或責任分散而不集中。",
+    "CONCEPT_FOCUS": "核心畫面是 spread out so widely that no single point stays sharp。",
+    "TONE_REGISTER": "這個字常見於 光學描述、責任分配與寫作結構；語氣上不是空泛形容，而是用來抓住 spread out so widely that no single point stays sharp 這種狀態或動作。",
+    "USE_WARNING": "不要把 diffuse 只看成 spread；<code>spread</code> 多半只是 散開，而 <code>diffuse</code> 更強調 spread out so widely that no single point stays sharp。",
+    "SHORT_DEFINITION": "表示光線、注意力、文字或責任分散而不集中。",
+    "CONFUSION_WORD": "Spread",
+    "CONFUSION_NOTE": "<code>spread</code> 多半只是 散開；<code>diffuse</code> 則更偏向 spread out so widely that no single point stays sharp。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 spread out so widely that no single point stays sharp 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>diffuse</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：spread out so widely that no single point stays sharp。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像霧天裡的光沒有明確邊緣，整片亮，卻沒有一點特別亮。",
+    "MEMORY_HOOK": "<code>diffuse</code> 的畫面是：像霧天裡的光沒有明確邊緣，整片亮，卻沒有一點特別亮。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 diffuse，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>diffuse light</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>diffuse responsibility</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "光學描述、責任分配與寫作結構 這類場景特別適合放進 <code>diffuse argument</code>，因為那裡常需要描述 spread out so widely that no single point stays sharp。",
+    "COLLOCATION_NOTE": "Diffuse 很適合透過固定搭配來抓語感，尤其是你想把 spread out so widely that no single point stays sharp 說得更自然時。",
+    "COLLOCATION_1": "diffuse light",
+    "REGISTER_1": "視覺 / 攝影",
+    "COLLOCATION_NOTE_1": "這個搭配能把 spread out so widely that no single point stays sharp 的語感直接帶出來。",
+    "COLLOCATION_2": "diffuse responsibility",
+    "REGISTER_2": "組織 / 管理",
+    "COLLOCATION_NOTE_2": "放到 光學描述、責任分配與寫作結構 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "diffuse argument",
+    "REGISTER_3": "寫作 / 評論",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 diffuse 的實際使用邊界。",
+    "NEIGHBOR_SELF": "spread out so widely that no single point stays sharp",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 散開，而是 spread out so widely that no single point stays sharp 這層語感時",
+    "NEIGHBOR_1": "Spread",
+    "NEIGHBOR_1_MEANING": "散開",
+    "NEIGHBOR_1_USE": "只想表達 散開，而不需要 spread out so widely that no single point stays sharp 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>diffuse</code> 常和 <code>diffuse light</code>、<code>diffuse responsibility</code>、<code>diffuse argument</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 光學描述、責任分配與寫作結構 的語境裡，這個字能比一般近義詞更精準地抓住 spread out so widely that no single point stays sharp。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/diffuse",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/diffuse",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/diffuse",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 diffuse 和 spread 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像霧天裡的光沒有明確邊緣，整片亮，卻沒有一點特別亮。",
+    "CHECK_SENTENCE": "我能用 <code>diffuse light</code> 或 <code>diffuse responsibility</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>diffuse light</code> 或 <code>diffuse responsibility</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/diffuse",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "diffuse",
+    "word": "Diffuse",
+    "partOfSpeech": "adjective",
+    "href": "./diffuse.html",
+    "thesis": "不是豐富，而是散得很開，焦點不再集中。",
+    "tags": [
+      "分散",
+      "失焦",
+      "spread",
+      "light",
+      "writing",
+      "adjective",
+      "diffuse"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 diffuse 和 spread 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像霧天裡的光沒有明確邊緣，整片亮，卻沒有一點特別亮。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 diffuse light 或 diffuse responsibility 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/diffuse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/diffuse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/diffuse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Resonate",
+    "slug": "resonate",
+    "outputPath": "prototypes/resonate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Resonate",
+    "WORD_SLUG": "resonate",
+    "WORD_LOWER": "resonate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "REZ-uh-nayt · UK /ˈrez.ən.eɪt/ · US /ˈrez.ən.eɪt/",
+    "THESIS": "不是單純相關，而是某句話、某個想法或某種經驗在你裡面真的起了回聲。",
+    "LEARNING_POSITION": "把 resonate 記成「ring inside because something matches」：不是只聽到，而是裡面也跟著震。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.54",
+    "CORE_IDEA": "<code>resonate</code> 用來描述聲音、觀念、故事或感受在他人心中產生深層共鳴。",
+    "CONCEPT_FOCUS": "核心是內部回聲，不只是表面連結。",
+    "TONE_REGISTER": "常見於寫作、品牌、溝通、音樂、設計與人物感受。",
+    "USE_WARNING": "不要把 resonate 當成 merely relate；relate 是能對上，resonate 更像真的震到裡面。",
+    "SHORT_DEFINITION": "不是單純相關，而是某句話、某個想法或某種經驗在你裡面真的起了回聲。",
+    "CONFUSION_WORD": "Relate",
+    "CONFUSION_NOTE": "<code>relate</code> 可以只是看得懂；<code>resonate</code> 則像那件事在你心裡起了回聲。",
+    "FLOW_1": "外界先發出訊號",
+    "FLOW_2": "你內部有對應頻率",
+    "FLOW_3": "兩邊開始共振",
+    "ORIGIN_PARAGRAPH": "<code>resonate</code> 和聲音回響的拉丁語脈絡直接相關，所以它很自然地被借去描述情感與思想共鳴。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是聲音碰到牆就停，而是整個空間都被它帶著一起震。",
+    "MEMORY_HOOK": "<code>resonate</code> 是內容沒有停在耳邊，而是進到心裡。",
+    "MEMORY_EXPLANATION": "很多好內容不是資訊更多，而是某一句真的 resonate，讓你後面一直記著。",
+    "DAILY_USAGE": "某句話之所以 <code>resonate</code> with you，往往是因為它碰到了你早就在意的東西。",
+    "PROFESSIONAL_USAGE": "一個 design principle 只有在整個團隊都真正 <code>resonates</code> with it 時，才會變成活的文化。",
+    "DOMAIN_USAGE": "音樂、寫作、品牌訊息與人際溝通都常用 <code>resonate</code> 來談共鳴。",
+    "COLLOCATION_NOTE": "Resonate 常和 with、deeply、strongly 搭配。",
+    "COLLOCATION_1": "resonate with users",
+    "REGISTER_1": "產品 / 研究",
+    "COLLOCATION_NOTE_1": "表示訊息或功能真的打到使用者。",
+    "COLLOCATION_2": "deeply resonate",
+    "REGISTER_2": "內容 / 情感",
+    "COLLOCATION_NOTE_2": "表示共鳴層次很深。",
+    "COLLOCATION_3": "resonate across the team",
+    "REGISTER_3": "組織 / 文化",
+    "COLLOCATION_NOTE_3": "表示一個觀念在多人心裡都起回聲。",
+    "NEIGHBOR_SELF": "在內部產生回聲與共振",
+    "NEIGHBOR_SELF_USE": "談故事、訊息、價值觀或設計原則時",
+    "NEIGHBOR_1": "Relate",
+    "NEIGHBOR_1_MEANING": "能對上或能理解",
+    "NEIGHBOR_1_USE": "只是有相關感，不一定到深層回響時",
+    "MODERN_USE_1": "現代英文裡，<code>resonate</code> 幾乎是描述深層共鳴的標準字，特別適合分辨「我懂」和「我真的被打到」。",
+    "MODERN_USE_2": "在產品與工程文化裡，它也常用來說明某套原則是否真的進入團隊內部，而不只是寫在文件上。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/resonate",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/resonate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/resonate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 resonate 和 relate 的差異。",
+    "CHECK_ORIGIN": "記得 resonate 的畫面是回聲與共振，不只是相關。",
+    "CHECK_SENTENCE": "我能用它造一句內容、設計或價值觀引起深層共鳴的英文句子。",
+    "PRACTICE_SENTENCE": "The explanation <code>resonated</code> with the team because it matched what they had all felt in the field.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/resonate",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "resonate",
+    "word": "Resonate",
+    "partOfSpeech": "verb",
+    "href": "./resonate.html",
+    "thesis": "不是單純相關，而是某句話、某個想法或某種經驗在你裡面真的起了回聲。",
+    "tags": [
+      "共鳴",
+      "回聲",
+      "relate",
+      "communication",
+      "design",
+      "verb",
+      "resonate"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 resonate 和 relate 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " resonate 的畫面是回聲與共振，不只是相關。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句內容、設計或價值觀引起深層共鳴的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/resonate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/resonate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/resonate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

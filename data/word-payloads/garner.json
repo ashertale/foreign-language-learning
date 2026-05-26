@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Garner",
+    "slug": "garner",
+    "outputPath": "prototypes/garner.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Garner",
+    "WORD_SLUG": "garner",
+    "WORD_LOWER": "garner",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "GAR-ner · UK /ˈɡɑː.nər/ · US /ˈɡɑːr.nɚ/",
+    "THESIS": "不是隨手拿到，而是逐步收集、累積到一定程度的支持、注意或成果。",
+    "LEARNING_POSITION": "把 garner 記成「gather and build up over time」：不是撿到，而是慢慢攢起來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.38",
+    "CORE_IDEA": "<code>garner</code> 用來描述一個人、計畫或作品逐步獲得支持、關注、票數、證據或資源。",
+    "CONCEPT_FOCUS": "核心是累積取得，不是瞬間得到。",
+    "TONE_REGISTER": "常見於新聞、商務、研究與成果報導。",
+    "USE_WARNING": "不要把 garner 當成普通 get；它常帶有逐步聚集的感覺。",
+    "SHORT_DEFINITION": "不是隨手拿到，而是逐步收集、累積到一定程度的支持、注意或成果。",
+    "CONFUSION_WORD": "Collect",
+    "CONFUSION_NOTE": "<code>collect</code> 可以是一般收集；<code>garner</code> 更常用在支持、關注、票數或聲譽這些抽象成果。",
+    "FLOW_1": "先做出某些行動",
+    "FLOW_2": "外界回應逐步聚集",
+    "FLOW_3": "成果慢慢攢起來",
+    "ORIGIN_PARAGRAPH": "<code>garner</code> 原本和穀倉、儲藏收成有關，所以它很自然地保留了把東西一點一滴收進來的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是空手突然有收穫，而是把成熟的東西一批批收進倉裡。",
+    "MEMORY_HOOK": "<code>garner</code> 是成果慢慢往你這裡聚過來。",
+    "MEMORY_EXPLANATION": "很多信任、票數和聲譽都不是一次拿到，而是靠持續行動慢慢 garner。",
+    "DAILY_USAGE": "一篇真誠的文章可能慢慢 <code>garner</code> attention，不是立刻爆量，但會穩定擴散。",
+    "PROFESSIONAL_USAGE": "如果一個 proposal 能 <code>garner</code> support across teams，表示它不只技術可行，也被人願意背書。",
+    "DOMAIN_USAGE": "媒體、政治、商務與研究報導都常用 <code>garner</code> 來談支持和關注度。",
+    "COLLOCATION_NOTE": "Garner 常和 support、attention、votes、praise 搭配。",
+    "COLLOCATION_1": "garner support",
+    "REGISTER_1": "組織 / 協作",
+    "COLLOCATION_NOTE_1": "表示支持是逐步累積起來的。",
+    "COLLOCATION_2": "garner attention",
+    "REGISTER_2": "媒體 / 內容",
+    "COLLOCATION_NOTE_2": "表示關注度被慢慢吸過來。",
+    "COLLOCATION_3": "garner praise",
+    "REGISTER_3": "評價 / 成果",
+    "COLLOCATION_NOTE_3": "表示口碑與稱讚逐步形成。",
+    "NEIGHBOR_SELF": "把抽象成果一點一滴聚集起來",
+    "NEIGHBOR_SELF_USE": "談支持、關注、評價或票數時",
+    "NEIGHBOR_1": "Collect",
+    "NEIGHBOR_1_MEANING": "一般地收集或聚攏物件",
+    "NEIGHBOR_1_USE": "重點是實體收集，而不是抽象支持時",
+    "MODERN_USE_1": "現代英文裡，<code>garner</code> 很常出現在新聞與商務寫作，因為它比 get 更能表達成果是逐步累積的。",
+    "MODERN_USE_2": "在團隊語境中，它也很適合描述一個想法如何跨部門慢慢建立支持。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/garner",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/garner",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/garner",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 garner 和 collect 的差異。",
+    "CHECK_ORIGIN": "記得 garner 的字源和收成入倉有關，所以是慢慢攢起來，不是突然拿到。",
+    "CHECK_SENTENCE": "我能用它造一句支持、關注或評價逐步累積的英文句子。",
+    "PRACTICE_SENTENCE": "The proposal quickly <code>garnered</code> support once the failure data was shared.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/garner",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "garner",
+    "word": "Garner",
+    "partOfSpeech": "verb",
+    "href": "./garner.html",
+    "thesis": "不是隨手拿到，而是逐步收集、累積到一定程度的支持、注意或成果。",
+    "tags": [
+      "累積獲得",
+      "聚攏支持",
+      "collect",
+      "attention",
+      "support",
+      "verb",
+      "garner"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 garner 和 collect 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " garner 的字源和收成入倉有關，所以是慢慢攢起來，不是突然拿到。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句支持、關注或評價逐步累積的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/garner",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/garner",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/garner",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

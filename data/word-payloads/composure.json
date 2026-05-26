@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Composure",
+    "slug": "composure",
+    "outputPath": "prototypes/composure.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Composure",
+    "WORD_SLUG": "composure",
+    "WORD_LOWER": "composure",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "kum-POH-zher · UK /kəmˈpəʊ.ʒər/ · US /kəmˈpoʊ.ʒɚ/",
+    "THESIS": "不是沒有情緒，而是在壓力或混亂中仍能把自己穩住。",
+    "LEARNING_POSITION": "把 composure 記成「inner steadiness under pressure」：不是麻木，而是情緒沒有把你整個沖走。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "3.01",
+    "CORE_IDEA": "<code>composure</code> 用來描述人在壓力、衝擊或尷尬場面裡保持外在與內在的穩定。",
+    "CONCEPT_FOCUS": "核心是穩住自己，而不是完全沒有感受。",
+    "TONE_REGISTER": "常見於人物描寫、壓力情境、面試、公開表現與領導觀察。",
+    "USE_WARNING": "不要把 composure 當成 coldness；它不是冷漠，而是能不被場面帶走。",
+    "SHORT_DEFINITION": "不是沒有情緒，而是在壓力或混亂中仍能把自己穩住。",
+    "CONFUSION_WORD": "Calm",
+    "CONFUSION_NOTE": "<code>calm</code> 可以只是狀態平靜；<code>composure</code> 更像在有壓力時仍守住自己的穩定。",
+    "FLOW_1": "壓力先來",
+    "FLOW_2": "人先穩住自己",
+    "FLOW_3": "再繼續清楚行動",
+    "ORIGIN_PARAGRAPH": "<code>composure</code> 和「組合、放在一起」的歷史脈絡相關，所以它帶有把自己重新收整好的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：外面很亂，但你把自己一塊一塊重新放回原位。",
+    "MEMORY_HOOK": "<code>composure</code> 是場面沒有變小，但你沒有被它放大。",
+    "MEMORY_EXPLANATION": "真正難得的 composure 往往不是風平浪靜時看見，而是在突然出錯、被追問或被挑戰時顯出來。",
+    "DAILY_USAGE": "被誤會時還能維持 <code>composure</code>，不是不委屈，而是你沒有立刻被情緒推著走。",
+    "PROFESSIONAL_USAGE": "在 review meeting 裡，保持 composure 讓你能先回到事實，而不是被 defensiveness 帶跑。",
+    "DOMAIN_USAGE": "表演、領導、危機處理與客服場合都很看重 <code>composure</code>，因為場面常常不會等你冷靜完才繼續。",
+    "COLLOCATION_NOTE": "Composure 常和 keep、lose、regain 這些動詞搭配。",
+    "COLLOCATION_1": "keep composure",
+    "REGISTER_1": "壓力 / 表現",
+    "COLLOCATION_NOTE_1": "表示場面緊繃時仍然穩住。",
+    "COLLOCATION_2": "lose composure",
+    "REGISTER_2": "衝突 / 事件",
+    "COLLOCATION_NOTE_2": "表示情緒或場面讓你失去穩定。",
+    "COLLOCATION_3": "regain composure",
+    "REGISTER_3": "恢復 / 危機",
+    "COLLOCATION_NOTE_3": "表示在波動後重新穩回來。",
+    "NEIGHBOR_SELF": "有壓力時仍能把自己穩住",
+    "NEIGHBOR_SELF_USE": "談衝突、面試、公開場合或危機反應時",
+    "NEIGHBOR_1": "Calm",
+    "NEIGHBOR_1_MEANING": "一般的平靜或安靜狀態",
+    "NEIGHBOR_1_USE": "情境本身沒有強烈壓力，只是在描述平靜時",
+    "MODERN_USE_1": "現代英文裡，<code>composure</code> 很常拿來描述領導、面試、公開發言或 crisis response，因為這些情境看的是人在壓力下怎麼站住。",
+    "MODERN_USE_2": "它也常出現在小說與人物描寫，因為 composure 的破裂或維持，往往正好透露角色的內在狀態。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/composure",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/composure",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/composure",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 composure 和 calm 的差異。",
+    "CHECK_ORIGIN": "記得 composure 的畫面是把自己重新收整好，而不是完全沒情緒。",
+    "CHECK_SENTENCE": "我能用它造一句會議、衝突或壓力表現情境的英文句子。",
+    "PRACTICE_SENTENCE": "She regained her <code>composure</code> before answering the hardest question in the review.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/composure",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "composure",
+    "word": "Composure",
+    "partOfSpeech": "noun",
+    "href": "./composure.html",
+    "thesis": "不是沒有情緒，而是在壓力或混亂中仍能把自己穩住。",
+    "tags": [
+      "穩住",
+      "鎮定",
+      "calm",
+      "leadership",
+      "pressure",
+      "noun",
+      "composure"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 composure 和 calm 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " composure 的畫面是把自己重新收整好，而不是完全沒情緒。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句會議、衝突或壓力表現情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/composure",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/composure",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/composure",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

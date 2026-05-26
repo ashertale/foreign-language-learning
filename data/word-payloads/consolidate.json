@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Consolidate",
+    "slug": "consolidate",
+    "outputPath": "prototypes/consolidate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Consolidate",
+    "WORD_SLUG": "consolidate",
+    "WORD_LOWER": "consolidate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "kuhn-SOL-uh-dayt · UK /kənˈsɒl.ɪ.deɪt/ · US /kənˈsɑː.lə.deɪt/",
+    "THESIS": "不是堆更多，而是把分散資源收攏，讓整體更穩更有力。",
+    "LEARNING_POSITION": "把 consolidate 記成「pull scattered parts into a stronger whole」：不是堆更多，而是把分散資源收攏，讓整體更穩更有力。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.44",
+    "CORE_IDEA": "<code>consolidate</code> 表示整合、鞏固、合併，使原本分散的東西變集中。",
+    "CONCEPT_FOCUS": "核心畫面是 pull scattered parts into a stronger whole。",
+    "TONE_REGISTER": "這個字常見於 資料整合、組織調整與知識整理；語氣上不是空泛形容，而是用來抓住 pull scattered parts into a stronger whole 這種狀態或動作。",
+    "USE_WARNING": "不要把 consolidate 只看成 merge；<code>merge</code> 多半只是 合併，而 <code>consolidate</code> 更強調 pull scattered parts into a stronger whole。",
+    "SHORT_DEFINITION": "表示整合、鞏固、合併，使原本分散的東西變集中。",
+    "CONFUSION_WORD": "Merge",
+    "CONFUSION_NOTE": "<code>merge</code> 多半只是 合併；<code>consolidate</code> 則更偏向 pull scattered parts into a stronger whole。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 pull scattered parts into a stronger whole 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>consolidate</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：pull scattered parts into a stronger whole。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像把桌上散亂的螺絲一顆顆收進分格盒，之後才真的好用。",
+    "MEMORY_HOOK": "<code>consolidate</code> 的畫面是：像把桌上散亂的螺絲一顆顆收進分格盒，之後才真的好用。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 consolidate，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>consolidate the data</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>consolidate power</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "資料整合、組織調整與知識整理 這類場景特別適合放進 <code>consolidate the notes</code>，因為那裡常需要描述 pull scattered parts into a stronger whole。",
+    "COLLOCATION_NOTE": "Consolidate 很適合透過固定搭配來抓語感，尤其是你想把 pull scattered parts into a stronger whole 說得更自然時。",
+    "COLLOCATION_1": "consolidate the data",
+    "REGISTER_1": "資料 / 分析",
+    "COLLOCATION_NOTE_1": "這個搭配能把 pull scattered parts into a stronger whole 的語感直接帶出來。",
+    "COLLOCATION_2": "consolidate power",
+    "REGISTER_2": "政治 / 組織",
+    "COLLOCATION_NOTE_2": "放到 資料整合、組織調整與知識整理 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "consolidate the notes",
+    "REGISTER_3": "學習 / 寫作",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 consolidate 的實際使用邊界。",
+    "NEIGHBOR_SELF": "pull scattered parts into a stronger whole",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 合併，而是 pull scattered parts into a stronger whole 這層語感時",
+    "NEIGHBOR_1": "Merge",
+    "NEIGHBOR_1_MEANING": "合併",
+    "NEIGHBOR_1_USE": "只想表達 合併，而不需要 pull scattered parts into a stronger whole 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>consolidate</code> 常和 <code>consolidate the data</code>、<code>consolidate power</code>、<code>consolidate the notes</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 資料整合、組織調整與知識整理 的語境裡，這個字能比一般近義詞更精準地抓住 pull scattered parts into a stronger whole。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/consolidate",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/consolidate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/consolidate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 consolidate 和 merge 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像把桌上散亂的螺絲一顆顆收進分格盒，之後才真的好用。",
+    "CHECK_SENTENCE": "我能用 <code>consolidate the data</code> 或 <code>consolidate power</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>consolidate the data</code> 或 <code>consolidate power</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/consolidate",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "consolidate",
+    "word": "Consolidate",
+    "partOfSpeech": "verb",
+    "href": "./consolidate.html",
+    "thesis": "不是堆更多，而是把分散資源收攏，讓整體更穩更有力。",
+    "tags": [
+      "整合",
+      "鞏固",
+      "merge",
+      "data",
+      "organization",
+      "verb",
+      "consolidate"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 consolidate 和 merge 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像把桌上散亂的螺絲一顆顆收進分格盒，之後才真的好用。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 consolidate the data 或 consolidate power 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/consolidate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/consolidate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/consolidate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

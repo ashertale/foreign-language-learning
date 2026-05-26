@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Quell",
+    "slug": "quell",
+    "outputPath": "prototypes/quell.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Quell",
+    "WORD_SLUG": "quell",
+    "WORD_LOWER": "quell",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "KWEL · UK /kwel/ · US /kwel/",
+    "THESIS": "不是根治，而是把正在升高的情緒、混亂或反抗壓下來。",
+    "LEARNING_POSITION": "把 quell 記成「push the rising force back down」：不是把根挖掉，而是先把浪頭壓住。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.04",
+    "CORE_IDEA": "<code>quell</code> 用來描述對騷動、恐慌、怒氣、傳言或不穩定局勢進行壓制與平息。",
+    "CONCEPT_FOCUS": "核心是壓下正在升高的力量，不一定解決根因。",
+    "TONE_REGISTER": "常見於新聞、政治、風險溝通、人物情緒與團隊管理。",
+    "USE_WARNING": "不要把 quell 當成 solve；很多時候你只是先把情勢壓住，問題本身還在。",
+    "SHORT_DEFINITION": "不是根治，而是把正在升高的情緒、混亂或反抗壓下來。",
+    "CONFUSION_WORD": "End",
+    "CONFUSION_NOTE": "<code>end</code> 像是事情結束；<code>quell</code> 則更像把一股正在起來的力壓回去。",
+    "FLOW_1": "先有升高中的動盪",
+    "FLOW_2": "施力把浪頭壓住",
+    "FLOW_3": "表面局勢暫時平下來",
+    "ORIGIN_PARAGRAPH": "<code>quell</code> 的歷史帶著殺滅、壓制的力道，所以它天生不是柔性詞，而是有壓回去的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把火種徹底移除，而是先把燒高的火苗壓低。",
+    "MEMORY_HOOK": "<code>quell</code> 是先把浪壓住，再決定後面怎麼收尾。",
+    "MEMORY_EXPLANATION": "危機處理很多時候先求 quell the panic，因為沒先穩住場面，就很難談根治。",
+    "DAILY_USAGE": "深呼吸有時不能解決問題，但能先 <code>quell</code> the surge of anger.",
+    "PROFESSIONAL_USAGE": "在 incident 溝通裡，清楚且誠實的更新能幫助 <code>quell</code> rumors before they spread further.",
+    "DOMAIN_USAGE": "政治、危機、公關與情緒管理都常用 <code>quell</code> 來談平息升高中力量。",
+    "COLLOCATION_NOTE": "Quell 常和 fear、panic、uprising、rumors 搭配。",
+    "COLLOCATION_1": "quell the panic",
+    "REGISTER_1": "危機 / 溝通",
+    "COLLOCATION_NOTE_1": "表示先壓住群體恐慌。",
+    "COLLOCATION_2": "quell rumors",
+    "REGISTER_2": "組織 / 公關",
+    "COLLOCATION_NOTE_2": "表示先平息擴散中的傳言。",
+    "COLLOCATION_3": "quell dissent",
+    "REGISTER_3": "政治 / 組織",
+    "COLLOCATION_NOTE_3": "表示壓下反對聲浪。",
+    "NEIGHBOR_SELF": "把正在升高的浪頭壓回去",
+    "NEIGHBOR_SELF_USE": "談恐慌、怒氣、傳言或騷動時",
+    "NEIGHBOR_1": "End",
+    "NEIGHBOR_1_MEANING": "事情已經正式結束",
+    "NEIGHBOR_1_USE": "重點在結束狀態，而不是被壓制下來時",
+    "MODERN_USE_1": "現代英文裡，<code>quell</code> 很常用在危機與政治語境，因為它準確說出「先壓住」而非「已解決」。",
+    "MODERN_USE_2": "在工程與組織場景中，它也適合描述如何先穩住恐慌與猜測，為後續真正修復留出空間。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/quell",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/quell",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/quell",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 quell 和 end 的差異。",
+    "CHECK_ORIGIN": "記得 quell 的畫面是把升高中的浪頭壓下去，不代表根因已消失。",
+    "CHECK_SENTENCE": "我能用它造一句恐慌、傳言或怒氣被壓住的英文句子。",
+    "PRACTICE_SENTENCE": "A transparent status update helped <code>quell</code> the panic in the release channel.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/quell",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "quell",
+    "word": "Quell",
+    "partOfSpeech": "verb",
+    "href": "./quell.html",
+    "thesis": "不是根治，而是把正在升高的情緒、混亂或反抗壓下來。",
+    "tags": [
+      "平息",
+      "壓住浪頭",
+      "end",
+      "panic",
+      "rumors",
+      "verb",
+      "quell"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 quell 和 end 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " quell 的畫面是把升高中的浪頭壓下去，不代表根因已消失。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句恐慌、傳言或怒氣被壓住的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/quell",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/quell",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/quell",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

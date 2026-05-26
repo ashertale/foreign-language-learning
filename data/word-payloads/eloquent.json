@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Eloquent",
+    "slug": "eloquent",
+    "outputPath": "prototypes/eloquent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Eloquent",
+    "WORD_SLUG": "eloquent",
+    "WORD_LOWER": "eloquent",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "EL-uh-kwuhnt · UK /ˈel.ə.kwənt/ · US /ˈel.ə.kwənt/",
+    "THESIS": "不是只會說，而是能把想法講得有力量、有節奏，而且讓人真的聽進去。",
+    "LEARNING_POSITION": "把 eloquent 記成「speech with force and shape」：不是話多，而是話有穿透力。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.21",
+    "CORE_IDEA": "<code>eloquent</code> 用來描述語言、文字，甚至沉默或姿態能夠有力而優雅地表達意思。",
+    "CONCEPT_FOCUS": "核心不是流利，而是表達有力量也有形狀。",
+    "TONE_REGISTER": "常見於寫作、演說、評論與人物描寫。",
+    "USE_WARNING": "不要把 eloquent 當成 fluent；流利不一定有思想與力度，eloquent 通常兩者兼具。",
+    "SHORT_DEFINITION": "不是只會說，而是能把想法講得有力量、有節奏，而且讓人真的聽進去。",
+    "CONFUSION_WORD": "Fluent",
+    "CONFUSION_NOTE": "<code>fluent</code> 強調說得順；<code>eloquent</code> 更像說得有力、有美感，而且能打中人。",
+    "FLOW_1": "先有想法",
+    "FLOW_2": "表達被組織好",
+    "FLOW_3": "話語真正穿透出去",
+    "ORIGIN_PARAGRAPH": "<code>eloquent</code> 和拉丁語裡「說出來」有關，但它後來發展出的重點是說得有分量，而不只是開口。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把詞丟出去，而是讓每一句都帶著方向與重量落地。",
+    "MEMORY_HOOK": "<code>eloquent</code> 是你不只聽懂，還感覺到話在心裡留下形狀。",
+    "MEMORY_EXPLANATION": "真正 eloquent 的表達，不一定很長；有時一句話就夠把整個場面定住。",
+    "DAILY_USAGE": "有些人講故事很 <code>eloquent</code>，你會覺得畫面和情緒都被他帶出來了。",
+    "PROFESSIONAL_USAGE": "在提案或 review 裡，an eloquent explanation 不是術語多，而是複雜事被講得清楚又有說服力。",
+    "DOMAIN_USAGE": "演說、寫作、文學評論與人物刻畫都常用 <code>eloquent</code> 來形容表達的力量。",
+    "COLLOCATION_NOTE": "Eloquent 常和 speech、argument、prose、silence 搭配。",
+    "COLLOCATION_1": "an eloquent speech",
+    "REGISTER_1": "演說 / 公開表達",
+    "COLLOCATION_NOTE_1": "表示發言有結構也有感染力。",
+    "COLLOCATION_2": "eloquent prose",
+    "REGISTER_2": "寫作 / 文學",
+    "COLLOCATION_NOTE_2": "表示文字不只清楚，還有美感與力度。",
+    "COLLOCATION_3": "an eloquent silence",
+    "REGISTER_3": "描寫 / 修辭",
+    "COLLOCATION_NOTE_3": "表示連沉默都在表達意思。",
+    "NEIGHBOR_SELF": "把意思說得有力量也有形狀",
+    "NEIGHBOR_SELF_USE": "談演說、寫作、論證或人物表達力時",
+    "NEIGHBOR_1": "Fluent",
+    "NEIGHBOR_1_MEANING": "說得順、不卡頓",
+    "NEIGHBOR_1_USE": "重點只是流暢，不涉及表達張力時",
+    "MODERN_USE_1": "現代英文裡，<code>eloquent</code> 仍是評價高品質表達的好字，因為它兼顧清楚、力度與美感。",
+    "MODERN_USE_2": "它也常被借去形容非語言訊號，像是表情、姿態或沉默本身就很會說話。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/eloquent",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/eloquent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/eloquent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 eloquent 和 fluent 的差異。",
+    "CHECK_ORIGIN": "記得 eloquent 不只是說得順，而是說得有分量、有形狀。",
+    "CHECK_SENTENCE": "我能用它造一句演說、寫作或解釋複雜事物的英文句子。",
+    "PRACTICE_SENTENCE": "Her patch notes were brief but unexpectedly <code>eloquent</code> about the tradeoffs.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/eloquent",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "eloquent",
+    "word": "Eloquent",
+    "partOfSpeech": "adjective",
+    "href": "./eloquent.html",
+    "thesis": "不是只會說，而是能把想法講得有力量、有節奏，而且讓人真的聽進去。",
+    "tags": [
+      "有力表達",
+      "雄辯",
+      "fluent",
+      "writing",
+      "speech",
+      "adjective",
+      "eloquent"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 eloquent 和 fluent 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " eloquent 不只是說得順，而是說得有分量、有形狀。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句演說、寫作或解釋複雜事物的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/eloquent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/eloquent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/eloquent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

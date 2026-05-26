@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Denote",
+    "slug": "denote",
+    "outputPath": "prototypes/denote.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Denote",
+    "WORD_SLUG": "denote",
+    "WORD_LOWER": "denote",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "dih-NOHT · UK /dɪˈnəʊt/ · US /dɪˈnoʊt/",
+    "THESIS": "不是附帶聯想，而是明確表示它指的是什麼。",
+    "LEARNING_POSITION": "把 denote 記成「point to a specific meaning or status by sign or word」：不是附帶聯想，而是明確表示它指的是什麼。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.05",
+    "CORE_IDEA": "<code>denote</code> 表示符號、詞語或數值所直接指稱的意思。",
+    "CONCEPT_FOCUS": "核心畫面是 point to a specific meaning or status by sign or word。",
+    "TONE_REGISTER": "這個字常見於 語義分析、符號說明與文件標記；語氣上不是空泛形容，而是用來抓住 point to a specific meaning or status by sign or word 這種狀態或動作。",
+    "USE_WARNING": "不要把 denote 只看成 indicate；<code>indicate</code> 多半只是 表示，而 <code>denote</code> 更強調 point to a specific meaning or status by sign or word。",
+    "SHORT_DEFINITION": "表示符號、詞語或數值所直接指稱的意思。",
+    "CONFUSION_WORD": "Indicate",
+    "CONFUSION_NOTE": "<code>indicate</code> 多半只是 表示；<code>denote</code> 則更偏向 point to a specific meaning or status by sign or word。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 point to a specific meaning or status by sign or word 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>denote</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：point to a specific meaning or status by sign or word。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像圖例一出現，整張圖裡那個顏色就有了固定對應。",
+    "MEMORY_HOOK": "<code>denote</code> 的畫面是：像圖例一出現，整張圖裡那個顏色就有了固定對應。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 denote，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>denote a value</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>denote the status</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "語義分析、符號說明與文件標記 這類場景特別適合放進 <code>denote meaning</code>，因為那裡常需要描述 point to a specific meaning or status by sign or word。",
+    "COLLOCATION_NOTE": "Denote 很適合透過固定搭配來抓語感，尤其是你想把 point to a specific meaning or status by sign or word 說得更自然時。",
+    "COLLOCATION_1": "denote a value",
+    "REGISTER_1": "數據 / 文件",
+    "COLLOCATION_NOTE_1": "這個搭配能把 point to a specific meaning or status by sign or word 的語感直接帶出來。",
+    "COLLOCATION_2": "denote the status",
+    "REGISTER_2": "系統 / 介面",
+    "COLLOCATION_NOTE_2": "放到 語義分析、符號說明與文件標記 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "denote meaning",
+    "REGISTER_3": "語言 / 編輯",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 denote 的實際使用邊界。",
+    "NEIGHBOR_SELF": "point to a specific meaning or status by sign or word",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 表示，而是 point to a specific meaning or status by sign or word 這層語感時",
+    "NEIGHBOR_1": "Indicate",
+    "NEIGHBOR_1_MEANING": "表示",
+    "NEIGHBOR_1_USE": "只想表達 表示，而不需要 point to a specific meaning or status by sign or word 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>denote</code> 常和 <code>denote a value</code>、<code>denote the status</code>、<code>denote meaning</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 語義分析、符號說明與文件標記 的語境裡，這個字能比一般近義詞更精準地抓住 point to a specific meaning or status by sign or word。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/denote",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/denote",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/denote",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 denote 和 indicate 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像圖例一出現，整張圖裡那個顏色就有了固定對應。",
+    "CHECK_SENTENCE": "我能用 <code>denote a value</code> 或 <code>denote the status</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>denote a value</code> 或 <code>denote the status</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/denote",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "denote",
+    "word": "Denote",
+    "partOfSpeech": "verb",
+    "href": "./denote.html",
+    "thesis": "不是附帶聯想，而是明確表示它指的是什麼。",
+    "tags": [
+      "直接指稱",
+      "明確表示",
+      "indicate",
+      "language",
+      "notation",
+      "verb",
+      "denote"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 denote 和 indicate 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像圖例一出現，整張圖裡那個顏色就有了固定對應。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 denote a value 或 denote the status 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/denote",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/denote",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/denote",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

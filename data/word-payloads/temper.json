@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Temper",
+    "slug": "temper",
+    "outputPath": "prototypes/temper.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Temper",
+    "WORD_SLUG": "temper",
+    "WORD_LOWER": "temper",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "TEM-per · UK /ˈtem.pər/ · US /ˈtem.pɚ/",
+    "THESIS": "不是一味削弱，而是把過強的東西調回可用範圍，或透過控制讓材料更耐用。",
+    "LEARNING_POSITION": "把 temper 記成「moderate or strengthen through controlled treatment」：不是只是變小，而是變得更可用。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.41",
+    "CORE_IDEA": "<code>temper</code> 用來描述節制情緒、修正判斷，或在材料處理中透過受控程序提升韌性。",
+    "CONCEPT_FOCUS": "核心是調和與可用化，不只是壓低。",
+    "TONE_REGISTER": "常見於情緒、判斷、材料科學與寫作語氣。",
+    "USE_WARNING": "不要把 temper 當成簡單 soften；有時它不是變弱，而是經過調整後更穩、更耐用。",
+    "SHORT_DEFINITION": "不是一味削弱，而是把過強的東西調回可用範圍，或透過控制讓材料更耐用。",
+    "CONFUSION_WORD": "Soften",
+    "CONFUSION_NOTE": "<code>soften</code> 側重減輕強度；<code>temper</code> 則更像調到剛好，甚至讓材料更堅韌。",
+    "FLOW_1": "先有過強或未處理狀態",
+    "FLOW_2": "經過受控調整",
+    "FLOW_3": "變成更可用的形式",
+    "ORIGIN_PARAGRAPH": "<code>temper</code> 的歷史和混合比例、適度控制、金屬處理都有關，所以它天然帶著調配與鍛鍊意味。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把刀磨鈍，而是把火候控好，讓它更耐用。",
+    "MEMORY_HOOK": "<code>temper</code> 是把力調到能真正發揮的範圍。",
+    "MEMORY_EXPLANATION": "成熟不是永遠壓抑，而是知道怎麼 temper 衝動，讓力量不浪費。",
+    "DAILY_USAGE": "你可以用幽默去 <code>temper</code> criticism，讓真話比較進得去。",
+    "PROFESSIONAL_USAGE": "在材料與設計語境中，to <code>temper</code> a part 不代表削弱它，而是透過受控處理讓它更穩定。",
+    "DOMAIN_USAGE": "情緒管理、寫作語氣、材料科學與策略判斷都常用 <code>temper</code>。",
+    "COLLOCATION_NOTE": "Temper 常和 judgment、criticism、steel、expectations 搭配。",
+    "COLLOCATION_1": "temper expectations",
+    "REGISTER_1": "管理 / 溝通",
+    "COLLOCATION_NOTE_1": "表示把期待調回現實範圍。",
+    "COLLOCATION_2": "temper criticism",
+    "REGISTER_2": "人際 / 寫作",
+    "COLLOCATION_NOTE_2": "表示讓批評保留力度但不至於太傷。",
+    "COLLOCATION_3": "tempered steel",
+    "REGISTER_3": "材料 / 工程",
+    "COLLOCATION_NOTE_3": "表示經過控制處理後更耐用的鋼。",
+    "NEIGHBOR_SELF": "透過控制讓強度回到可用範圍",
+    "NEIGHBOR_SELF_USE": "談情緒、期待、語氣或材料處理時",
+    "NEIGHBOR_1": "Soften",
+    "NEIGHBOR_1_MEANING": "單純讓東西變軟、變弱",
+    "NEIGHBOR_1_USE": "只想說減弱，不涉及調配與強化時",
+    "MODERN_USE_1": "現代英文裡，<code>temper</code> 很有層次，因為它既能談情緒節制，也能談材料經過控制後變得更穩。",
+    "MODERN_USE_2": "在工程語境中，它提醒人：有些處理不是削弱，而是為了讓東西更能長期承受負荷。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/temper",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/temper",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/temper",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 temper 和 soften 的差異。",
+    "CHECK_ORIGIN": "記得 temper 的重點是調配與鍛鍊，不是單純削弱。",
+    "CHECK_SENTENCE": "我能用它造一句期待、批評或材料經過調整更可用的英文句子。",
+    "PRACTICE_SENTENCE": "We had to <code>temper</code> expectations until the new power measurements were verified.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/temper",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "temper",
+    "word": "Temper",
+    "partOfSpeech": "verb",
+    "href": "./temper.html",
+    "thesis": "不是一味削弱，而是把過強的東西調回可用範圍，或透過控制讓材料更耐用。",
+    "tags": [
+      "調和",
+      "鍛鍊到可用",
+      "soften",
+      "materials",
+      "expectations",
+      "verb",
+      "temper"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 temper 和 soften 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " temper 的重點是調配與鍛鍊，不是單純削弱。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句期待、批評或材料經過調整更可用的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/temper",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/temper",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/temper",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

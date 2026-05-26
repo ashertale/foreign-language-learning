@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Cohesive",
+    "slug": "cohesive",
+    "outputPath": "prototypes/cohesive.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Cohesive",
+    "WORD_SLUG": "cohesive",
+    "WORD_LOWER": "cohesive",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "koh-HEE-siv · UK /kəʊˈhiː.sɪv/ · US /koʊˈhiː.sɪv/",
+    "THESIS": "不是只是放在一起，而是各部分彼此黏得住、能形成一個完整整體。",
+    "LEARNING_POSITION": "把 cohesive 記成「parts that truly hold together」：不是排列在同一張桌上，而是真的互相扣住。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.10",
+    "CORE_IDEA": "<code>cohesive</code> 用來描述團隊、文章、設計或系統的各部分彼此連得起來，不散、不互相打架。",
+    "CONCEPT_FOCUS": "核心是結合成整體，而不是單點都不錯。",
+    "TONE_REGISTER": "常見於寫作、設計、組織與系統描述；比 consistent 更強調整體黏合感。",
+    "USE_WARNING": "不要把 cohesive 當成 simply consistent；一致不等於真的有機連在一起。",
+    "SHORT_DEFINITION": "不是只是放在一起，而是各部分彼此黏得住、能形成一個完整整體。",
+    "CONFUSION_WORD": "Consistent",
+    "CONFUSION_NOTE": "<code>consistent</code> 可以只是風格一致；<code>cohesive</code> 更進一步，表示各部分真的扣成一體。",
+    "FLOW_1": "各部分先存在",
+    "FLOW_2": "彼此能連起來",
+    "FLOW_3": "整體變得完整",
+    "ORIGIN_PARAGRAPH": "<code>cohesive</code> 和拉丁語裡「黏住、附著」的脈絡有關，所以它的核心一直都不是相像，而是黏合。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是把珠子放同一盒，而是真的把它們串成一條線。",
+    "MEMORY_HOOK": "<code>cohesive</code> 是每塊都在，但更重要的是每塊都接得上。",
+    "MEMORY_EXPLANATION": "一份文件可能每段都寫得不差，可是只有在彼此接得順時，你才會說它 cohesive。",
+    "DAILY_USAGE": "一套穿搭如果很 <code>cohesive</code>，不是每件都好看而已，而是放在一起很順。",
+    "PROFESSIONAL_USAGE": "在產品與文件設計裡，cohesive structure 表示功能、文案與視覺不是各做各的。",
+    "DOMAIN_USAGE": "團隊文化、架構設計與研究論文也常用 <code>cohesive</code> 來談整體是否真的連成一氣。",
+    "COLLOCATION_NOTE": "Cohesive 常和 strategy、team、design、narrative、structure 搭配。",
+    "COLLOCATION_1": "a cohesive team",
+    "REGISTER_1": "組織 / 團隊",
+    "COLLOCATION_NOTE_1": "表示人不只是聚在一起，而是真的能協同。",
+    "COLLOCATION_2": "a cohesive narrative",
+    "REGISTER_2": "寫作 / 研究",
+    "COLLOCATION_NOTE_2": "表示段落與論點彼此扣緊。",
+    "COLLOCATION_3": "cohesive design system",
+    "REGISTER_3": "設計 / 產品",
+    "COLLOCATION_NOTE_3": "表示元件和語彙能形成整體經驗。",
+    "NEIGHBOR_SELF": "各部分真的連成一體",
+    "NEIGHBOR_SELF_USE": "談文件、團隊、設計、架構或敘事時",
+    "NEIGHBOR_1": "Consistent",
+    "NEIGHBOR_1_MEANING": "風格或行為保持一致",
+    "NEIGHBOR_1_USE": "只想說穩定一致，不特別強調整體黏合時",
+    "MODERN_USE_1": "現代英文裡，<code>cohesive</code> 常被拿來評價文章、產品與團隊，因為很多問題不是單點差，而是整體接不起來。",
+    "MODERN_USE_2": "在工程與設計語境中，它特別適合描述一個系統是否由內到外都在講同一套邏輯。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/cohesive",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/cohesive",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/cohesive",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 cohesive 和 consistent 的差異。",
+    "CHECK_ORIGIN": "記得 cohesive 的字源跟黏住有關，所以重點是連成一體。",
+    "CHECK_SENTENCE": "我能用它造一句文件、團隊或產品體驗情境的英文句子。",
+    "PRACTICE_SENTENCE": "The prototype looked polished, but it still was not <code>cohesive</code> as a workflow.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/cohesive",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "cohesive",
+    "word": "Cohesive",
+    "partOfSpeech": "adjective",
+    "href": "./cohesive.html",
+    "thesis": "不是只是放在一起，而是各部分彼此黏得住、能形成一個完整整體。",
+    "tags": [
+      "整體感",
+      "黏合",
+      "consistent",
+      "design",
+      "team",
+      "adjective",
+      "cohesive"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 cohesive 和 consistent 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " cohesive 的字源跟黏住有關，所以重點是連成一體。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句文件、團隊或產品體驗情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cohesive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/cohesive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cohesive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

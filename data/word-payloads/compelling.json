@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Compelling",
+    "slug": "compelling",
+    "outputPath": "prototypes/compelling.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Compelling",
+    "WORD_SLUG": "compelling",
+    "WORD_LOWER": "compelling",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "kum-PEL-ing · UK /kəmˈpel.ɪŋ/ · US /kəmˈpel.ɪŋ/",
+    "THESIS": "不是只是有趣，而是有足夠的力量讓人停下來、相信、或不得不注意。",
+    "LEARNING_POSITION": "把 compelling 記成「hard to ignore because the force is real」：它不是好看而已，而是有拉力。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.81",
+    "CORE_IDEA": "<code>compelling</code> 用來描述論點、故事、證據或理由具有強大吸引力或說服力，讓人不容易忽略。",
+    "CONCEPT_FOCUS": "核心是拉力與說服力，不只是可看性。",
+    "TONE_REGISTER": "常見於寫作、簡報、研究、產品敘事與人物描寫；比 interesting 更強。",
+    "USE_WARNING": "不要把 compelling 當成單純的 interesting；它常帶有讓人願意採取行動或接受判斷的力量。",
+    "SHORT_DEFINITION": "不是只是有趣，而是有足夠的力量讓人停下來、相信、或不得不注意。",
+    "CONFUSION_WORD": "Interesting",
+    "CONFUSION_NOTE": "<code>interesting</code> 只是讓人有興趣；<code>compelling</code> 更像你被它拉住，很難隨便略過。",
+    "FLOW_1": "先引起注意",
+    "FLOW_2": "拉住你的判斷",
+    "FLOW_3": "讓你難以忽略",
+    "ORIGIN_PARAGRAPH": "<code>compelling</code> 的核心來自「逼迫、驅動」這條線，所以它的力量感一直都在，只是現代英文常把它用在更高級的說服與吸引。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是有人抓住你的手，而是證據或故事本身把你的目光拉住。",
+    "MEMORY_HOOK": "<code>compelling</code> 是你本來想滑過去，但它不讓你滑過去。",
+    "MEMORY_EXPLANATION": "真正 compelling 的簡報不是字多，而是聽完以後你心裡那個「這件事得處理」被喚起來。",
+    "DAILY_USAGE": "一部電影之所以 <code>compelling</code>，往往不是畫面華麗，而是角色和張力把你抓住。",
+    "PROFESSIONAL_USAGE": "在設計評審裡，a compelling case 代表這個提案不只好看，而是理由站得住、優先級也拉得出來。",
+    "DOMAIN_USAGE": "研究、寫作與產品策略都常用 <code>compelling</code> 來形容證據、敘事或需求強到值得行動。",
+    "COLLOCATION_NOTE": "Compelling 常和 evidence、reason、case、story、argument 搭配。",
+    "COLLOCATION_1": "compelling evidence",
+    "REGISTER_1": "研究 / 分析",
+    "COLLOCATION_NOTE_1": "表示證據不只是存在，而是足以推動判斷。",
+    "COLLOCATION_2": "a compelling case",
+    "REGISTER_2": "提案 / 決策",
+    "COLLOCATION_NOTE_2": "表示理由強到能撐起行動。",
+    "COLLOCATION_3": "a compelling story",
+    "REGISTER_3": "內容 / 媒體",
+    "COLLOCATION_NOTE_3": "表示敘事真的抓得住人。",
+    "NEIGHBOR_SELF": "有力量把注意與判斷拉過來",
+    "NEIGHBOR_SELF_USE": "談證據、提案、故事或需求說服力時",
+    "NEIGHBOR_1": "Interesting",
+    "NEIGHBOR_1_MEANING": "有意思、值得一看",
+    "NEIGHBOR_1_USE": "只想說有趣，還沒到能推動判斷時",
+    "MODERN_USE_1": "現代英文裡，<code>compelling</code> 很常出現在研究、商務與內容分析，因為我們常需要區分「有趣」和「足以行動」。",
+    "MODERN_USE_2": "在工程與產品語境中，它特別適合描述 evidence、user pain 或 architecture rationale 是否真的站得住。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/compelling",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/compelling",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/compelling",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 compelling 和 interesting 的差異。",
+    "CHECK_ORIGIN": "記得 compelling 的底層力量感來自驅動與逼近，不只是有趣。",
+    "CHECK_SENTENCE": "我能用它造一句證據、提案或故事張力情境的英文句子。",
+    "PRACTICE_SENTENCE": "The test data gave us a <code>compelling</code> reason to postpone the release.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/compelling",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "compelling",
+    "word": "Compelling",
+    "partOfSpeech": "adjective",
+    "href": "./compelling.html",
+    "thesis": "不是只是有趣，而是有足夠的力量讓人停下來、相信、或不得不注意。",
+    "tags": [
+      "有說服力",
+      "拉力",
+      "interesting",
+      "evidence",
+      "story",
+      "adjective",
+      "compelling"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 compelling 和 interesting 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " compelling 的底層力量感來自驅動與逼近，不只是有趣。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句證據、提案或故事張力情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/compelling",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/compelling",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/compelling",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

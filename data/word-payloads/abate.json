@@ -1,0 +1,124 @@
+{
+  "target": {
+    "word": "Abate",
+    "slug": "abate",
+    "outputPath": "prototypes/abate.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Abate",
+    "WORD_SLUG": "abate",
+    "WORD_LOWER": "abate",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "uh-BAYT · UK /əˈbeɪt/ · US /əˈbeɪt/",
+    "THESIS": "不是單純的「減少」，而是原本明顯的強度、壓力或情勢慢慢退下去。",
+    "LEARNING_POSITION": "把 abate 記成「the pressure is finally backing off」：不是歸零，而是那股壓著你的力正在鬆開。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.46",
+    "CORE_IDEA": "<code>abate</code> 用來描述強度、痛感、風險、怒氣或混亂的勢頭逐步減弱，而不是被人一下按掉。",
+    "CONCEPT_FOCUS": "核心是勢頭在退，不只是數值變小。",
+    "TONE_REGISTER": "常見於書寫、新聞、醫療、法律與 incident 敘述；語氣比 everyday 的 go down 更精準。",
+    "USE_WARNING": "不要把 abate 當成單純的 reduce；它強調的是一股原本很明顯的力量逐漸消退。",
+    "SHORT_DEFINITION": "不是單純的「減少」，而是原本明顯的強度、壓力或情勢慢慢退下去。",
+    "CONFUSION_WORD": "Reduce",
+    "CONFUSION_NOTE": "<code>reduce</code> 只是讓數量或程度變少；<code>abate</code> 更像風浪、疼痛或風險壓力正在退。",
+    "FLOW_1": "壓力先存在",
+    "FLOW_2": "勢頭慢慢退",
+    "FLOW_3": "整體變得可承受",
+    "ORIGIN_PARAGRAPH": "<code>abate</code> 來自古法語與拉丁語裡「打下來、削弱」的脈絡，所以它不是抽象減法，而是把原本很高的東西往下壓。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：原本拍得很高的浪，一層一層往下退，不是瞬間消失，而是明顯地減弱。",
+    "MEMORY_HOOK": "<code>abate</code> 是狀況沒有立刻結束，但終於開始退潮。",
+    "MEMORY_EXPLANATION": "你可以把它想成凌晨三點的 incident call：問題還在，但 noisy alerts 沒那麼兇了，團隊終於能呼吸。",
+    "DAILY_USAGE": "當雨勢、疼痛或尷尬感 <code>abate</code> 時，你感覺到的不是瞬間解決，而是壓力慢慢鬆開。",
+    "PROFESSIONAL_USAGE": "在維運或除錯情境裡，如果 latency spike begins to <code>abate</code>，意思是最兇的那段壓力正在退。",
+    "DOMAIN_USAGE": "法律、醫療與風險通報也常用 <code>abate</code> 來寫 hazard、nuisance 或 symptom 逐步緩和。",
+    "COLLOCATION_NOTE": "Abate 常搭配 pain、fear、tension、storm、risk 這類本來就帶強度的名詞。",
+    "COLLOCATION_1": "abate the pain",
+    "REGISTER_1": "醫療 / 日常",
+    "COLLOCATION_NOTE_1": "表示痛感不是被忽略，而是真的往下退。",
+    "COLLOCATION_2": "abate the risk",
+    "REGISTER_2": "專案 / 風險",
+    "COLLOCATION_NOTE_2": "表示透過措施把威脅的勢頭壓低。",
+    "COLLOCATION_3": "the storm abated",
+    "REGISTER_3": "新聞 / 描述",
+    "COLLOCATION_NOTE_3": "表示風暴或混亂局勢逐漸平息。",
+    "NEIGHBOR_SELF": "原本很強的東西開始退潮",
+    "NEIGHBOR_SELF_USE": "談疼痛、風險、天氣、衝突或 incident 壓力時",
+    "NEIGHBOR_1": "Reduce",
+    "NEIGHBOR_1_MEANING": "中性地讓數量或程度變少",
+    "NEIGHBOR_1_USE": "只想表達下降，不特別強調那股勢頭正在退時",
+    "MODERN_USE_1": "現代英文裡，<code>abate</code> 常見於新聞、醫療、法律與 incident 報告，因為它能把「強度正在退」這個感覺講得很準。",
+    "MODERN_USE_2": "在工程語境中，它很適合寫 error rate、alert noise 或 operational pressure 開始緩和的時刻。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/abate",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/abate",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/abate",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 abate 和 reduce 的差異。",
+    "CHECK_ORIGIN": "記得 abate 的字源畫面是高浪退潮，而不是單純按數字減一。",
+    "CHECK_SENTENCE": "我能用它造一句天氣、疼痛或 incident 情境的英文句子。",
+    "PRACTICE_SENTENCE": "The alert storm did not <code>abate</code> until we rolled back the faulty config.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/abate",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "abate",
+    "word": "Abate",
+    "partOfSpeech": "verb",
+    "href": "./abate.html",
+    "thesis": "不是單純的「減少」，而是原本明顯的強度、壓力或情勢慢慢退下去。",
+    "tags": [
+      "緩和",
+      "勢頭轉弱",
+      "reduce",
+      "risk",
+      "incident",
+      "weather",
+      "verb",
+      "abate"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 abate 和 reduce 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " abate 的字源畫面是高浪退潮，而不是單純按數字減一。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句天氣、疼痛或 incident 情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/abate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/abate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/abate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

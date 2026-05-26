@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Deferential",
+    "slug": "deferential",
+    "outputPath": "prototypes/deferential.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Deferential",
+    "WORD_SLUG": "deferential",
+    "WORD_LOWER": "deferential",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "def-uh-REN-shul · UK /ˌdef.əˈren.ʃəl/ · US /ˌdef.əˈren.ʃəl/",
+    "THESIS": "不是普通禮貌，而是帶著對地位、年資或權威的讓位感。",
+    "LEARNING_POSITION": "把 deferential 記成「respect with a lowered stance」：不是友善而已，而是姿態上真的往後退一步。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.61",
+    "CORE_IDEA": "<code>deferential</code> 用來描述說話或行為顯示出對他人地位、專業或權威的尊重與讓位。",
+    "CONCEPT_FOCUS": "核心是階層感與讓位姿態，不只是客氣。",
+    "TONE_REGISTER": "常見於人物描寫、組織文化、歷史敘事與觀察語氣。",
+    "USE_WARNING": "不要把 deferential 當成一般 polite；它通常暗示關係裡有權威或位階差。",
+    "SHORT_DEFINITION": "不是普通禮貌，而是帶著對地位、年資或權威的讓位感。",
+    "CONFUSION_WORD": "Polite",
+    "CONFUSION_NOTE": "<code>polite</code> 可以只是有禮；<code>deferential</code> 則多了向對方身分或權威讓位的味道。",
+    "FLOW_1": "先感知位階",
+    "FLOW_2": "語氣往後退",
+    "FLOW_3": "把主導權讓給對方",
+    "ORIGIN_PARAGRAPH": "<code>deferential</code> 和「延後、讓開」的拉丁語脈絡相關，所以它裡面一直帶著把自己往後放一點的感覺。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是消失不見，而是主動退半步，讓對方先站在前面。",
+    "MEMORY_HOOK": "<code>deferential</code> 是你還在場，但刻意不把自己擺到正中央。",
+    "MEMORY_EXPLANATION": "有些場合的 deferential tone 是尊重，有些場合則可能透露權力距離過大。",
+    "DAILY_USAGE": "面對長輩或前輩時，如果語氣很 <code>deferential</code>，會讓人感覺你在刻意收斂自己的主張。",
+    "PROFESSIONAL_USAGE": "在組織討論裡，過度 deferential 的文化有時會讓真正的問題沒人敢直接講。",
+    "DOMAIN_USAGE": "歷史傳記、外交語境與權力結構分析常用 <code>deferential</code> 來描寫姿態。",
+    "COLLOCATION_NOTE": "Deferential 常和 tone、manner、attitude 搭配。",
+    "COLLOCATION_1": "a deferential tone",
+    "REGISTER_1": "對話 / 組織",
+    "COLLOCATION_NOTE_1": "表示說話方式明顯向對方身分讓位。",
+    "COLLOCATION_2": "deferential manner",
+    "REGISTER_2": "人物 / 描寫",
+    "COLLOCATION_NOTE_2": "表示整體姿態都很恭順。",
+    "COLLOCATION_3": "overly deferential",
+    "REGISTER_3": "文化 / 觀察",
+    "COLLOCATION_NOTE_3": "表示尊重已經強到壓縮真話空間。",
+    "NEIGHBOR_SELF": "有位階意識地往後退一步",
+    "NEIGHBOR_SELF_USE": "談權威、長幼、主管或外交姿態時",
+    "NEIGHBOR_1": "Polite",
+    "NEIGHBOR_1_MEANING": "單純有禮貌",
+    "NEIGHBOR_1_USE": "沒有明顯位階差，只是在表達有分寸時",
+    "MODERN_USE_1": "現代英文裡，<code>deferential</code> 常被用來分析語氣與組織文化，因為它能直接指出尊重背後的權力形狀。",
+    "MODERN_USE_2": "它不一定是負面詞，但很適合提醒你區分「有禮」和「過度不敢挑戰」。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/deferential",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/deferential",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/deferential",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 deferential 和 polite 的差異。",
+    "CHECK_ORIGIN": "記得 deferential 的畫面是自己往後退一步，讓出主導位置。",
+    "CHECK_SENTENCE": "我能用它造一句組織、權威或人物姿態情境的英文句子。",
+    "PRACTICE_SENTENCE": "The junior engineer was so <code>deferential</code> that nobody challenged the flawed assumption.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/deferential",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "deferential",
+    "word": "Deferential",
+    "partOfSpeech": "adjective",
+    "href": "./deferential.html",
+    "thesis": "不是普通禮貌，而是帶著對地位、年資或權威的讓位感。",
+    "tags": [
+      "恭順",
+      "讓位",
+      "polite",
+      "authority",
+      "hierarchy",
+      "adjective",
+      "deferential"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 deferential 和 polite 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " deferential 的畫面是自己往後退一步，讓出主導位置。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句組織、權威或人物姿態情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deferential",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/deferential",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deferential",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

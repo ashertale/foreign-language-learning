@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Zealous",
+    "slug": "zealous",
+    "outputPath": "prototypes/zealous.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Zealous",
+    "WORD_SLUG": "zealous",
+    "WORD_LOWER": "zealous",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "ZEL-us · UK /ˈzel.əs/ · US /ˈzel.əs/",
+    "THESIS": "不是普通認真，而是投入到帶點火力和推進感。",
+    "LEARNING_POSITION": "把 zealous 記成「intensely eager in support or pursuit」：不是普通認真，而是投入到帶點火力和推進感。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.01",
+    "CORE_IDEA": "<code>zealous</code> 表示熱切積極、滿懷幹勁地支持或追求。",
+    "CONCEPT_FOCUS": "核心畫面是 intensely eager in support or pursuit。",
+    "TONE_REGISTER": "這個字常見於 倡議推動、社群參與與執行力度；語氣上不是空泛形容，而是用來抓住 intensely eager in support or pursuit 這種狀態或動作。",
+    "USE_WARNING": "不要把 zealous 只看成 eager；<code>eager</code> 多半只是 熱心，而 <code>zealous</code> 更強調 intensely eager in support or pursuit。",
+    "SHORT_DEFINITION": "表示熱切積極、滿懷幹勁地支持或追求。",
+    "CONFUSION_WORD": "Eager",
+    "CONFUSION_NOTE": "<code>eager</code> 多半只是 熱心；<code>zealous</code> 則更偏向 intensely eager in support or pursuit。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 intensely eager in support or pursuit 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>zealous</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：intensely eager in support or pursuit。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像火把舉得很高，不只照亮自己，也把旁邊的人都捲進節奏。",
+    "MEMORY_HOOK": "<code>zealous</code> 的畫面是：像火把舉得很高，不只照亮自己，也把旁邊的人都捲進節奏。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 zealous，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>zealous advocate</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>zealous enforcement</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "倡議推動、社群參與與執行力度 這類場景特別適合放進 <code>zealous pursuit</code>，因為那裡常需要描述 intensely eager in support or pursuit。",
+    "COLLOCATION_NOTE": "Zealous 很適合透過固定搭配來抓語感，尤其是你想把 intensely eager in support or pursuit 說得更自然時。",
+    "COLLOCATION_1": "zealous advocate",
+    "REGISTER_1": "公共 / 倡議",
+    "COLLOCATION_NOTE_1": "這個搭配能把 intensely eager in support or pursuit 的語感直接帶出來。",
+    "COLLOCATION_2": "zealous enforcement",
+    "REGISTER_2": "法規 / 執行",
+    "COLLOCATION_NOTE_2": "放到 倡議推動、社群參與與執行力度 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "zealous pursuit",
+    "REGISTER_3": "職涯 / 目標",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 zealous 的實際使用邊界。",
+    "NEIGHBOR_SELF": "intensely eager in support or pursuit",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 熱心，而是 intensely eager in support or pursuit 這層語感時",
+    "NEIGHBOR_1": "Eager",
+    "NEIGHBOR_1_MEANING": "熱心",
+    "NEIGHBOR_1_USE": "只想表達 熱心，而不需要 intensely eager in support or pursuit 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>zealous</code> 常和 <code>zealous advocate</code>、<code>zealous enforcement</code>、<code>zealous pursuit</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 倡議推動、社群參與與執行力度 的語境裡，這個字能比一般近義詞更精準地抓住 intensely eager in support or pursuit。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/zealous",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/zealous",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/zealous",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 zealous 和 eager 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像火把舉得很高，不只照亮自己，也把旁邊的人都捲進節奏。",
+    "CHECK_SENTENCE": "我能用 <code>zealous advocate</code> 或 <code>zealous enforcement</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>zealous advocate</code> 或 <code>zealous enforcement</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/zealous",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "zealous",
+    "word": "Zealous",
+    "partOfSpeech": "adjective",
+    "href": "./zealous.html",
+    "thesis": "不是普通認真，而是投入到帶點火力和推進感。",
+    "tags": [
+      "熱切投入",
+      "幹勁很強",
+      "eager",
+      "advocacy",
+      "execution",
+      "adjective",
+      "zealous"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 zealous 和 eager 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像火把舉得很高，不只照亮自己，也把旁邊的人都捲進節奏。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 zealous advocate 或 zealous enforcement 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/zealous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/zealous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/zealous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

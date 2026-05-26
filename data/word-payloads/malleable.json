@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Malleable",
+    "slug": "malleable",
+    "outputPath": "prototypes/malleable.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Malleable",
+    "WORD_SLUG": "malleable",
+    "WORD_LOWER": "malleable",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "MAL-ee-uh-buhl · UK /ˈmæl.i.ə.bəl/ · US /ˈmæl.i.ə.bəl/",
+    "THESIS": "不是軟弱，而是能被塑形、能調整，而且不會一碰就斷。",
+    "LEARNING_POSITION": "把 malleable 記成「able to be shaped without breaking」：不是沒有骨架，而是有可塑性。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.84",
+    "CORE_IDEA": "<code>malleable</code> 用來描述材料、性格、思路或流程容易被塑形、調整或重新安排。",
+    "CONCEPT_FOCUS": "核心是可塑性，不是脆弱。",
+    "TONE_REGISTER": "常見於材料、心理、教育、產品與組織設計。",
+    "USE_WARNING": "不要把 malleable 當成 weak；它強調的是能被塑形，不是缺乏支撐。",
+    "SHORT_DEFINITION": "不是軟弱，而是能被塑形、能調整，而且不會一碰就斷。",
+    "CONFUSION_WORD": "Flexible",
+    "CONFUSION_NOTE": "<code>flexible</code> 可以只是願意調整；<code>malleable</code> 更像本身就容易被重新塑成新形狀。",
+    "FLOW_1": "先承受外力",
+    "FLOW_2": "形狀開始改變",
+    "FLOW_3": "改變後仍維持完整",
+    "ORIGIN_PARAGRAPH": "<code>malleable</code> 和拉丁語裡「錘打」的脈絡有關，所以它很具體地保留了被敲打後仍可成形的畫面。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是玻璃一敲就碎，而是金屬被敲後能變成你要的樣子。",
+    "MEMORY_HOOK": "<code>malleable</code> 是你施力之後，它會改形，但不會散掉。",
+    "MEMORY_EXPLANATION": "很多好的流程設計之所以能長久，是因為它 malleable enough to adapt，卻不至於失去核心。",
+    "DAILY_USAGE": "年紀小的習慣往往比較 <code>malleable</code>，因為還沒完全定型。",
+    "PROFESSIONAL_USAGE": "在早期產品階段，a malleable architecture 讓你比較能跟著學習快速調整。",
+    "DOMAIN_USAGE": "材料科學、教育、組織文化與產品設計都常用 <code>malleable</code> 來談可塑性。",
+    "COLLOCATION_NOTE": "Malleable 常和 metal、mind、identity、structure 搭配。",
+    "COLLOCATION_1": "malleable metal",
+    "REGISTER_1": "材料 / 科學",
+    "COLLOCATION_NOTE_1": "表示材料可被敲打塑形。",
+    "COLLOCATION_2": "a malleable mindset",
+    "REGISTER_2": "學習 / 成長",
+    "COLLOCATION_NOTE_2": "表示思路還有調整空間。",
+    "COLLOCATION_3": "malleable structure",
+    "REGISTER_3": "產品 / 組織",
+    "COLLOCATION_NOTE_3": "表示架構可因情況改形。",
+    "NEIGHBOR_SELF": "能被塑成新形狀而不斷裂",
+    "NEIGHBOR_SELF_USE": "談材料、思路、流程或早期產品架構時",
+    "NEIGHBOR_1": "Flexible",
+    "NEIGHBOR_1_MEANING": "能彎、能轉、願意調整",
+    "NEIGHBOR_1_USE": "只想說有彈性，不特別強調被塑形成新形狀時",
+    "MODERN_USE_1": "現代英文裡，<code>malleable</code> 一邊保留材料語感，一邊常被借去談心態、身份與系統可塑性。",
+    "MODERN_USE_2": "它很適合提醒我們：能調整不代表沒原則，很多時候反而是更能長期存活。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/malleable",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/malleable",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/malleable",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 malleable 和 flexible 的差異。",
+    "CHECK_ORIGIN": "記得 malleable 的畫面是被錘打後仍能成形，不是軟弱。",
+    "CHECK_SENTENCE": "我能用它造一句材料、心態或架構可塑性的英文句子。",
+    "PRACTICE_SENTENCE": "We wanted a more <code>malleable</code> test framework before the API stabilized.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/malleable",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "malleable",
+    "word": "Malleable",
+    "partOfSpeech": "adjective",
+    "href": "./malleable.html",
+    "thesis": "不是軟弱，而是能被塑形、能調整，而且不會一碰就斷。",
+    "tags": [
+      "可塑性",
+      "能塑形",
+      "flexible",
+      "materials",
+      "architecture",
+      "adjective",
+      "malleable"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 malleable 和 flexible 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " malleable 的畫面是被錘打後仍能成形，不是軟弱。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句材料、心態或架構可塑性的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/malleable",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/malleable",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/malleable",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

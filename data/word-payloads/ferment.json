@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Ferment",
+    "slug": "ferment",
+    "outputPath": "prototypes/ferment.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Ferment",
+    "WORD_SLUG": "ferment",
+    "WORD_LOWER": "ferment",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "FUR-ment · UK /ˈfɜː.ment/ · US /ˈfɝː.ment/",
+    "THESIS": "不是表面安靜，而是底下其實正在發酵。",
+    "LEARNING_POSITION": "把 ferment 記成「active inner agitation that may turn into change」：不是表面安靜，而是底下其實正在發酵。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.69",
+    "CORE_IDEA": "<code>ferment</code> 表示發酵作用，也可比喻思想、情緒或社會狀態在內部翻動。",
+    "CONCEPT_FOCUS": "核心畫面是 active inner agitation that may turn into change。",
+    "TONE_REGISTER": "這個字常見於 社會變動、創意醞釀與情緒張力；語氣上不是空泛形容，而是用來抓住 active inner agitation that may turn into change 這種狀態或動作。",
+    "USE_WARNING": "不要把 ferment 只看成 unrest；<code>unrest</code> 多半只是 動盪，而 <code>ferment</code> 更強調 active inner agitation that may turn into change。",
+    "SHORT_DEFINITION": "表示發酵作用，也可比喻思想、情緒或社會狀態在內部翻動。",
+    "CONFUSION_WORD": "Unrest",
+    "CONFUSION_NOTE": "<code>unrest</code> 多半只是 動盪；<code>ferment</code> 則更偏向 active inner agitation that may turn into change。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 active inner agitation that may turn into change 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>ferment</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：active inner agitation that may turn into change。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像玻璃瓶看起來安靜，但裡面一直有細小氣泡在往上冒。",
+    "MEMORY_HOOK": "<code>ferment</code> 的畫面是：像玻璃瓶看起來安靜，但裡面一直有細小氣泡在往上冒。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 ferment，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>political ferment</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>creative ferment</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "社會變動、創意醞釀與情緒張力 這類場景特別適合放進 <code>ferment of ideas</code>，因為那裡常需要描述 active inner agitation that may turn into change。",
+    "COLLOCATION_NOTE": "Ferment 很適合透過固定搭配來抓語感，尤其是你想把 active inner agitation that may turn into change 說得更自然時。",
+    "COLLOCATION_1": "political ferment",
+    "REGISTER_1": "社會 / 政治",
+    "COLLOCATION_NOTE_1": "這個搭配能把 active inner agitation that may turn into change 的語感直接帶出來。",
+    "COLLOCATION_2": "creative ferment",
+    "REGISTER_2": "創作 / 團隊",
+    "COLLOCATION_NOTE_2": "放到 社會變動、創意醞釀與情緒張力 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "ferment of ideas",
+    "REGISTER_3": "學習 / 討論",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 ferment 的實際使用邊界。",
+    "NEIGHBOR_SELF": "active inner agitation that may turn into change",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 動盪，而是 active inner agitation that may turn into change 這層語感時",
+    "NEIGHBOR_1": "Unrest",
+    "NEIGHBOR_1_MEANING": "動盪",
+    "NEIGHBOR_1_USE": "只想表達 動盪，而不需要 active inner agitation that may turn into change 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>ferment</code> 常和 <code>political ferment</code>、<code>creative ferment</code>、<code>ferment of ideas</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 社會變動、創意醞釀與情緒張力 的語境裡，這個字能比一般近義詞更精準地抓住 active inner agitation that may turn into change。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/ferment",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/ferment",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/ferment",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 ferment 和 unrest 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像玻璃瓶看起來安靜，但裡面一直有細小氣泡在往上冒。",
+    "CHECK_SENTENCE": "我能用 <code>political ferment</code> 或 <code>creative ferment</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>political ferment</code> 或 <code>creative ferment</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/ferment",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "ferment",
+    "word": "Ferment",
+    "partOfSpeech": "noun",
+    "href": "./ferment.html",
+    "thesis": "不是表面安靜，而是底下其實正在發酵。",
+    "tags": [
+      "發酵",
+      "內部翻動",
+      "unrest",
+      "ideas",
+      "politics",
+      "noun",
+      "ferment"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 ferment 和 unrest 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像玻璃瓶看起來安靜，但裡面一直有細小氣泡在往上冒。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 political ferment 或 creative ferment 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ferment",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/ferment",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ferment",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

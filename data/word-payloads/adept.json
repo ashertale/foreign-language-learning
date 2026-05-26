@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Adept",
+    "slug": "adept",
+    "outputPath": "prototypes/adept.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Adept",
+    "WORD_SLUG": "adept",
+    "WORD_LOWER": "adept",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "uh-DEPT · UK /əˈdept/ · US /əˈdept/",
+    "THESIS": "不是只會做，而是做得熟、穩，而且知道如何順手把事情處理漂亮。",
+    "LEARNING_POSITION": "把 adept 記成「skilled with fluency」：不是勉強做得到，而是手感已經到位。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.37",
+    "CORE_IDEA": "<code>adept</code> 描述一個人在某項活動、工具或社交場合裡很熟練，熟到能自然而有效地完成。",
+    "CONCEPT_FOCUS": "核心不是能力存在而已，而是熟練感已經內化。",
+    "TONE_REGISTER": "常見於正式寫作、履歷、評語與團隊觀察；比 good at 更凝練。",
+    "USE_WARNING": "不要把 adept 當成簡單的 smart；它強調的是熟練處理某事的能力，而不是一般聰明。",
+    "SHORT_DEFINITION": "不是只會做，而是做得熟、穩，而且知道如何順手把事情處理漂亮。",
+    "CONFUSION_WORD": "Smart",
+    "CONFUSION_NOTE": "<code>smart</code> 可以指頭腦好；<code>adept</code> 指在特定事上手法熟、動作準、反應自然。",
+    "FLOW_1": "接觸技能",
+    "FLOW_2": "熟練到順手",
+    "FLOW_3": "做起來又快又穩",
+    "ORIGIN_PARAGRAPH": "<code>adept</code> 和拉丁語裡「達到、獲得」的脈絡有關，後來變成一個人已經拿到熟練手感，不只是碰過而已。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是站在門外看，而是真的把那項能力拿到手裡。",
+    "MEMORY_HOOK": "<code>adept</code> 是別人還在找按鈕，你已經把流程走順。",
+    "MEMORY_EXPLANATION": "想像有人第一次用工具還在摸索，而你已經知道哪裡會卡、哪裡能省力，這就是 adept 的味道。",
+    "DAILY_USAGE": "如果一個人很 <code>adept</code> at small talk，意思不是愛聊天，而是能自然讀空氣、接話、轉場。",
+    "PROFESSIONAL_USAGE": "在工程團隊裡，someone adept at debugging 代表他不只會查 log，還知道怎麼縮小範圍、設計驗證。",
+    "DOMAIN_USAGE": "履歷、推薦信與績效描述常用 <code>adept</code> 來點出某人對工具、流程或跨部門協作的熟練度。",
+    "COLLOCATION_NOTE": "Adept 最自然的結構通常是 <code>adept at</code> 加技能、任務或互動情境。",
+    "COLLOCATION_1": "adept at debugging",
+    "REGISTER_1": "工程 / 技術",
+    "COLLOCATION_NOTE_1": "表示除錯不是碰運氣，而是有熟練的方法感。",
+    "COLLOCATION_2": "adept at negotiation",
+    "REGISTER_2": "商務 / 人際",
+    "COLLOCATION_NOTE_2": "表示能拿捏節奏與關係，不只是說服。",
+    "COLLOCATION_3": "politically adept",
+    "REGISTER_3": "組織 / 評價",
+    "COLLOCATION_NOTE_3": "表示很會讀局勢、找位置與應對人際動態。",
+    "NEIGHBOR_SELF": "在特定事情上熟到能自然處理",
+    "NEIGHBOR_SELF_USE": "談技能、工具、人際互動或工作表現時",
+    "NEIGHBOR_1": "Smart",
+    "NEIGHBOR_1_MEANING": "泛指聰明或反應快",
+    "NEIGHBOR_1_USE": "當你想說頭腦好，而不是某項能力熟練成形時",
+    "MODERN_USE_1": "現代英文裡，<code>adept</code> 很常出現在工作評語、履歷與人物描寫，因為它能同時帶出能力與手感。",
+    "MODERN_USE_2": "在專業語境中，它特別適合描述某人對 debugging、facilitation、negotiation 或 communication 的熟練度。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/adept",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/adept",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/adept",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 adept 和 smart 的差異。",
+    "CHECK_ORIGIN": "記得 adept 的畫面是把能力真正拿到手裡，而不是只說人很聰明。",
+    "CHECK_SENTENCE": "我能用它造一句技能、協作或除錯情境的英文句子。",
+    "PRACTICE_SENTENCE": "She is especially <code>adept</code> at turning a messy bug report into a clean test case.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/adept",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "adept",
+    "word": "Adept",
+    "partOfSpeech": "adjective",
+    "href": "./adept.html",
+    "thesis": "不是只會做，而是做得熟、穩，而且知道如何順手把事情處理漂亮。",
+    "tags": [
+      "熟練",
+      "skilled",
+      "smart",
+      "debugging",
+      "communication",
+      "adjective",
+      "adept"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 adept 和 smart 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " adept 的畫面是把能力真正拿到手裡，而不是只說人很聰明。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句技能、協作或除錯情境的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/adept",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/adept",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/adept",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

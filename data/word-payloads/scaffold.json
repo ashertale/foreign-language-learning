@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Scaffold",
+    "slug": "scaffold",
+    "outputPath": "prototypes/scaffold.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Scaffold",
+    "WORD_SLUG": "scaffold",
+    "WORD_LOWER": "scaffold",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "SKAF-ohld · UK /ˈskæf.əʊld/ · US /ˈskæf.oʊld/",
+    "THESIS": "不是成品，而是幫你先把成品撐起來的架子。",
+    "LEARNING_POSITION": "把 scaffold 記成「temporary structure that helps something bigger take shape」：不是成品，而是幫你先把成品撐起來的架子。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.04",
+    "CORE_IDEA": "<code>scaffold</code> 表示施工鷹架，也可比喻學習或設計中的暫時支撐。",
+    "CONCEPT_FOCUS": "核心畫面是 temporary structure that helps something bigger take shape。",
+    "TONE_REGISTER": "這個字常見於 學習引導、前端結構與系統遷移；語氣上不是空泛形容，而是用來抓住 temporary structure that helps something bigger take shape 這種狀態或動作。",
+    "USE_WARNING": "不要把 scaffold 只看成 support；<code>support</code> 多半只是 支撐，而 <code>scaffold</code> 更強調 temporary structure that helps something bigger take shape。",
+    "SHORT_DEFINITION": "表示施工鷹架，也可比喻學習或設計中的暫時支撐。",
+    "CONFUSION_WORD": "Support",
+    "CONFUSION_NOTE": "<code>support</code> 多半只是 支撐；<code>scaffold</code> 則更偏向 temporary structure that helps something bigger take shape。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 temporary structure that helps something bigger take shape 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>scaffold</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：temporary structure that helps something bigger take shape。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像建築還沒長好前，外面先套了一層能讓它繼續往上的骨架。",
+    "MEMORY_HOOK": "<code>scaffold</code> 的畫面是：像建築還沒長好前，外面先套了一層能讓它繼續往上的骨架。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 scaffold，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>scaffold the lesson</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>temporary scaffold</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "學習引導、前端結構與系統遷移 這類場景特別適合放進 <code>scaffold for migration</code>，因為那裡常需要描述 temporary structure that helps something bigger take shape。",
+    "COLLOCATION_NOTE": "Scaffold 很適合透過固定搭配來抓語感，尤其是你想把 temporary structure that helps something bigger take shape 說得更自然時。",
+    "COLLOCATION_1": "scaffold the lesson",
+    "REGISTER_1": "教學 / 學習",
+    "COLLOCATION_NOTE_1": "這個搭配能把 temporary structure that helps something bigger take shape 的語感直接帶出來。",
+    "COLLOCATION_2": "temporary scaffold",
+    "REGISTER_2": "工程 / 建築",
+    "COLLOCATION_NOTE_2": "放到 學習引導、前端結構與系統遷移 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "scaffold for migration",
+    "REGISTER_3": "系統 / 重構",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 scaffold 的實際使用邊界。",
+    "NEIGHBOR_SELF": "temporary structure that helps something bigger take shape",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 支撐，而是 temporary structure that helps something bigger take shape 這層語感時",
+    "NEIGHBOR_1": "Support",
+    "NEIGHBOR_1_MEANING": "支撐",
+    "NEIGHBOR_1_USE": "只想表達 支撐，而不需要 temporary structure that helps something bigger take shape 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>scaffold</code> 常和 <code>scaffold the lesson</code>、<code>temporary scaffold</code>、<code>scaffold for migration</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 學習引導、前端結構與系統遷移 的語境裡，這個字能比一般近義詞更精準地抓住 temporary structure that helps something bigger take shape。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/scaffold",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/scaffold",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/scaffold",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 scaffold 和 support 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像建築還沒長好前，外面先套了一層能讓它繼續往上的骨架。",
+    "CHECK_SENTENCE": "我能用 <code>scaffold the lesson</code> 或 <code>temporary scaffold</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>scaffold the lesson</code> 或 <code>temporary scaffold</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/scaffold",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "scaffold",
+    "word": "Scaffold",
+    "partOfSpeech": "noun",
+    "href": "./scaffold.html",
+    "thesis": "不是成品，而是幫你先把成品撐起來的架子。",
+    "tags": [
+      "鷹架",
+      "暫時支撐",
+      "support",
+      "learning",
+      "migration",
+      "noun",
+      "scaffold"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 scaffold 和 support 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像建築還沒長好前，外面先套了一層能讓它繼續往上的骨架。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 scaffold the lesson 或 temporary scaffold 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/scaffold",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/scaffold",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/scaffold",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

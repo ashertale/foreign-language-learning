@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Savor",
+    "slug": "savor",
+    "outputPath": "prototypes/savor.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Savor",
+    "WORD_SLUG": "savor",
+    "WORD_LOWER": "savor",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "SAY-ver · UK /ˈseɪ.vər/ · US /ˈseɪ.vɚ/",
+    "THESIS": "不是只吃到或經歷到，而是刻意放慢，讓味道或感受多停留一下。",
+    "LEARNING_POSITION": "把 savor 記成「linger with pleasure and attention」：不是掠過，而是讓感受多待一會。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.36",
+    "CORE_IDEA": "<code>savor</code> 用來描述人有意識地慢慢品味食物、時刻、文字或經驗。",
+    "CONCEPT_FOCUS": "核心是延長感受，不是單次接觸。",
+    "TONE_REGISTER": "常見於飲食、回憶、旅行、閱讀與情感描寫。",
+    "USE_WARNING": "不要把 savor 當成單純 taste；taste 可以只碰到，savor 則是刻意停留在那個感受裡。",
+    "SHORT_DEFINITION": "不是只吃到或經歷到，而是刻意放慢，讓味道或感受多停留一下。",
+    "CONFUSION_WORD": "Taste",
+    "CONFUSION_NOTE": "<code>taste</code> 可以只是嚐到；<code>savor</code> 更像慢慢留住那個味道或時刻。",
+    "FLOW_1": "先接觸經驗",
+    "FLOW_2": "刻意放慢節奏",
+    "FLOW_3": "讓感受多停留一下",
+    "ORIGIN_PARAGRAPH": "<code>savor</code> 和味道、氣味的歷史脈絡有關，所以它後來被借去談人生經驗時仍保留了品味感。",
+    "ORIGIN_MEMORY": "字源畫面可以記成：不是吞下去就算，而是讓味道在口中多待一拍。",
+    "MEMORY_HOOK": "<code>savor</code> 是你不急著翻頁，因為此刻值得多留一會。",
+    "MEMORY_EXPLANATION": "很多好東西不是需要更多，而是需要你願意慢下來 savor。",
+    "DAILY_USAGE": "一杯好茶值得慢慢 <code>savor</code>，不是匆匆喝掉。",
+    "PROFESSIONAL_USAGE": "完成一個很難的 bring-up 之後，團隊也需要一點時間去 <code>savor</code> the hard-won clarity.",
+    "DOMAIN_USAGE": "飲食、旅行、文學與生活方式書寫都常用 <code>savor</code> 來談品味。",
+    "COLLOCATION_NOTE": "Savor 常和 moment、flavor、victory、silence 搭配。",
+    "COLLOCATION_1": "savor the moment",
+    "REGISTER_1": "生活 / 情感",
+    "COLLOCATION_NOTE_1": "表示刻意多停留在那個時刻裡。",
+    "COLLOCATION_2": "savor the flavor",
+    "REGISTER_2": "飲食 / 描寫",
+    "COLLOCATION_NOTE_2": "表示慢慢品味味道層次。",
+    "COLLOCATION_3": "savor the victory",
+    "REGISTER_3": "成果 / 敘事",
+    "COLLOCATION_NOTE_3": "表示不急著跳下一件事，先感受這次完成。",
+    "NEIGHBOR_SELF": "讓感受刻意停留並被細細品味",
+    "NEIGHBOR_SELF_USE": "談飲食、時刻、回憶或完成感時",
+    "NEIGHBOR_1": "Taste",
+    "NEIGHBOR_1_MEANING": "只是嘗到或碰到味道",
+    "NEIGHBOR_1_USE": "不需要強調停留與品味時",
+    "MODERN_USE_1": "現代英文裡，<code>savor</code> 很常出現在生活書寫，因為它不只是感官，還關於節奏與注意力。",
+    "MODERN_USE_2": "在工作語境中，它也提醒人：完成很難的事後，偶爾值得停一下，讓那份清楚真正進來。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/savor",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源線索參考 Online Etymology Dictionary，幫你把歷史語感和現代用法接回來。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/savor",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/savor",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 savor 和 taste 的差異。",
+    "CHECK_ORIGIN": "記得 savor 的畫面是把味道多留一拍，不只是嘗到。",
+    "CHECK_SENTENCE": "我能用它造一句味道、時刻或完成感被慢慢品味的英文句子。",
+    "PRACTICE_SENTENCE": "We paused for a minute to <code>savor</code> the fact that the board had finally booted cleanly.",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/savor",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "savor",
+    "word": "Savor",
+    "partOfSpeech": "verb",
+    "href": "./savor.html",
+    "thesis": "不是只吃到或經歷到，而是刻意放慢，讓味道或感受多停留一下。",
+    "tags": [
+      "品味",
+      "慢慢留住",
+      "taste",
+      "moment",
+      "food",
+      "verb",
+      "savor"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 savor 和 taste 的差異"
+      },
+      {
+        "id": "origin",
+        "label": " savor 的畫面是把味道多留一拍，不只是嘗到。"
+      },
+      {
+        "id": "sentence",
+        "label": "造一句味道、時刻或完成感被慢慢品味的英文句子。"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/savor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/savor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/savor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}
