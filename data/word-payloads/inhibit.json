@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Inhibit",
+    "slug": "inhibit",
+    "outputPath": "prototypes/inhibit.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Inhibit",
+    "WORD_SLUG": "inhibit",
+    "WORD_LOWER": "inhibit",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "in-HIB-it · UK /ɪnˈhɪb.ɪt/ · US /ɪnˈhɪb.ɪt/",
+    "THESIS": "不是完全關掉，而是讓它發不太出來。",
+    "LEARNING_POSITION": "把 inhibit 記成「hold back natural movement, growth, or expression」：不是完全關掉，而是讓它發不太出來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.94",
+    "CORE_IDEA": "<code>inhibit</code> 表示抑制、阻止某種自然反應、成長或表達。",
+    "CONCEPT_FOCUS": "核心畫面是 hold back natural movement, growth, or expression。",
+    "TONE_REGISTER": "這個字常見於 生理反應、創意表達與制度限制；語氣上不是空泛形容，而是用來抓住 hold back natural movement, growth, or expression 這種狀態或動作。",
+    "USE_WARNING": "不要把 inhibit 只看成 restrain；<code>restrain</code> 多半只是 抑制，而 <code>inhibit</code> 更強調 hold back natural movement, growth, or expression。",
+    "SHORT_DEFINITION": "表示抑制、阻止某種自然反應、成長或表達。",
+    "CONFUSION_WORD": "Restrain",
+    "CONFUSION_NOTE": "<code>restrain</code> 多半只是 抑制；<code>inhibit</code> 則更偏向 hold back natural movement, growth, or expression。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 hold back natural movement, growth, or expression 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>inhibit</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：hold back natural movement, growth, or expression。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像踩著煞車往前開，車還動，但整體被一直拉住。",
+    "MEMORY_HOOK": "<code>inhibit</code> 的畫面是：像踩著煞車往前開，車還動，但整體被一直拉住。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 inhibit，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>inhibit growth</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>inhibit creativity</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "生理反應、創意表達與制度限制 這類場景特別適合放進 <code>inhibit the response</code>，因為那裡常需要描述 hold back natural movement, growth, or expression。",
+    "COLLOCATION_NOTE": "Inhibit 很適合透過固定搭配來抓語感，尤其是你想把 hold back natural movement, growth, or expression 說得更自然時。",
+    "COLLOCATION_1": "inhibit growth",
+    "REGISTER_1": "科學 / 研究",
+    "COLLOCATION_NOTE_1": "這個搭配能把 hold back natural movement, growth, or expression 的語感直接帶出來。",
+    "COLLOCATION_2": "inhibit creativity",
+    "REGISTER_2": "工作 / 團隊",
+    "COLLOCATION_NOTE_2": "放到 生理反應、創意表達與制度限制 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "inhibit the response",
+    "REGISTER_3": "醫療 / 生理",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 inhibit 的實際使用邊界。",
+    "NEIGHBOR_SELF": "hold back natural movement, growth, or expression",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 抑制，而是 hold back natural movement, growth, or expression 這層語感時",
+    "NEIGHBOR_1": "Restrain",
+    "NEIGHBOR_1_MEANING": "抑制",
+    "NEIGHBOR_1_USE": "只想表達 抑制，而不需要 hold back natural movement, growth, or expression 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>inhibit</code> 常和 <code>inhibit growth</code>、<code>inhibit creativity</code>、<code>inhibit the response</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 生理反應、創意表達與制度限制 的語境裡，這個字能比一般近義詞更精準地抓住 hold back natural movement, growth, or expression。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/inhibit",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/inhibit",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/inhibit",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 inhibit 和 restrain 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像踩著煞車往前開，車還動，但整體被一直拉住。",
+    "CHECK_SENTENCE": "我能用 <code>inhibit growth</code> 或 <code>inhibit creativity</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>inhibit growth</code> 或 <code>inhibit creativity</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/inhibit",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "inhibit",
+    "word": "Inhibit",
+    "partOfSpeech": "verb",
+    "href": "./inhibit.html",
+    "thesis": "不是完全關掉，而是讓它發不太出來。",
+    "tags": [
+      "抑制發揮",
+      "踩著煞車往前開",
+      "restrain",
+      "growth",
+      "expression",
+      "verb",
+      "inhibit"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 inhibit 和 restrain 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像踩著煞車往前開，車還動，但整體被一直拉住。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 inhibit growth 或 inhibit creativity 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/inhibit",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/inhibit",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/inhibit",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

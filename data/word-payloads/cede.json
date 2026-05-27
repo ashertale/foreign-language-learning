@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Cede",
+    "slug": "cede",
+    "outputPath": "prototypes/cede.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Cede",
+    "WORD_SLUG": "cede",
+    "WORD_LOWER": "cede",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "SEED · UK /siːd/ · US /siːd/",
+    "THESIS": "不是暫借，而是把原本屬於自己的控制權正式交出去。",
+    "LEARNING_POSITION": "把 cede 記成「give up control, land, or power formally」：不是暫借，而是把原本屬於自己的控制權正式交出去。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.63",
+    "CORE_IDEA": "<code>cede</code> 表示割讓、讓出主導權、地位或領土。",
+    "CONCEPT_FOCUS": "核心畫面是 give up control, land, or power formally。",
+    "TONE_REGISTER": "這個字常見於 權力移轉、合約讓渡與政治談判；語氣上不是空泛形容，而是用來抓住 give up control, land, or power formally 這種狀態或動作。",
+    "USE_WARNING": "不要把 cede 只看成 give；<code>give</code> 多半只是 給出，而 <code>cede</code> 更強調 give up control, land, or power formally。",
+    "SHORT_DEFINITION": "表示割讓、讓出主導權、地位或領土。",
+    "CONFUSION_WORD": "Give",
+    "CONFUSION_NOTE": "<code>give</code> 多半只是 給出；<code>cede</code> 則更偏向 give up control, land, or power formally。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 give up control, land, or power formally 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>cede</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：give up control, land, or power formally。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像手上鑰匙不是借人保管，而是整串交出去不再拿回來。",
+    "MEMORY_HOOK": "<code>cede</code> 的畫面是：像手上鑰匙不是借人保管，而是整串交出去不再拿回來。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 cede，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>cede control</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>cede territory</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "權力移轉、合約讓渡與政治談判 這類場景特別適合放進 <code>cede market share</code>，因為那裡常需要描述 give up control, land, or power formally。",
+    "COLLOCATION_NOTE": "Cede 很適合透過固定搭配來抓語感，尤其是你想把 give up control, land, or power formally 說得更自然時。",
+    "COLLOCATION_1": "cede control",
+    "REGISTER_1": "管理 / 權責",
+    "COLLOCATION_NOTE_1": "這個搭配能把 give up control, land, or power formally 的語感直接帶出來。",
+    "COLLOCATION_2": "cede territory",
+    "REGISTER_2": "政治 / 歷史",
+    "COLLOCATION_NOTE_2": "放到 權力移轉、合約讓渡與政治談判 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "cede market share",
+    "REGISTER_3": "商業 / 競爭",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 cede 的實際使用邊界。",
+    "NEIGHBOR_SELF": "give up control, land, or power formally",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 給出，而是 give up control, land, or power formally 這層語感時",
+    "NEIGHBOR_1": "Give",
+    "NEIGHBOR_1_MEANING": "給出",
+    "NEIGHBOR_1_USE": "只想表達 給出，而不需要 give up control, land, or power formally 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>cede</code> 常和 <code>cede control</code>、<code>cede territory</code>、<code>cede market share</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 權力移轉、合約讓渡與政治談判 的語境裡，這個字能比一般近義詞更精準地抓住 give up control, land, or power formally。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/cede",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/cede",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/cede",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 cede 和 give 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像手上鑰匙不是借人保管，而是整串交出去不再拿回來。",
+    "CHECK_SENTENCE": "我能用 <code>cede control</code> 或 <code>cede territory</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>cede control</code> 或 <code>cede territory</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/cede",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "cede",
+    "word": "Cede",
+    "partOfSpeech": "verb",
+    "href": "./cede.html",
+    "thesis": "不是暫借，而是把原本屬於自己的控制權正式交出去。",
+    "tags": [
+      "正式讓出",
+      "整串鑰匙交出去",
+      "give",
+      "power",
+      "control",
+      "verb",
+      "cede"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 cede 和 give 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像手上鑰匙不是借人保管，而是整串交出去不再拿回來。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 cede control 或 cede territory 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cede",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/cede",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cede",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

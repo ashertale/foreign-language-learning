@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Brusque",
+    "slug": "brusque",
+    "outputPath": "prototypes/brusque.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Brusque",
+    "WORD_SLUG": "brusque",
+    "WORD_LOWER": "brusque",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "BRUSK · UK /bruːsk/ · US /bruːsk/",
+    "THESIS": "不是有效率而已，而是快得幾乎不留情面。",
+    "LEARNING_POSITION": "把 brusque 記成「abrupt and clipped without softening」：不是有效率而已，而是快得幾乎不留情面。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.75",
+    "CORE_IDEA": "<code>brusque</code> 表示說話或態度唐突、生硬、簡短到讓人覺得被推開。",
+    "CONCEPT_FOCUS": "核心畫面是 abrupt and clipped without softening。",
+    "TONE_REGISTER": "這個字常見於 職場互動、人物描寫與回應語氣；語氣上不是空泛形容，而是用來抓住 abrupt and clipped without softening 這種狀態或動作。",
+    "USE_WARNING": "不要把 brusque 只看成 blunt；<code>blunt</code> 多半只是 直接，而 <code>brusque</code> 更強調 abrupt and clipped without softening。",
+    "SHORT_DEFINITION": "表示說話或態度唐突、生硬、簡短到讓人覺得被推開。",
+    "CONFUSION_WORD": "Blunt",
+    "CONFUSION_NOTE": "<code>blunt</code> 多半只是 直接；<code>brusque</code> 則更偏向 abrupt and clipped without softening。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 abrupt and clipped without softening 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>brusque</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：abrupt and clipped without softening。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像門只開一道縫，話還沒說完就被迅速關上。",
+    "MEMORY_HOOK": "<code>brusque</code> 的畫面是：像門只開一道縫，話還沒說完就被迅速關上。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 brusque，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>brusque reply</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>brusque manner</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "職場互動、人物描寫與回應語氣 這類場景特別適合放進 <code>brusque instruction</code>，因為那裡常需要描述 abrupt and clipped without softening。",
+    "COLLOCATION_NOTE": "Brusque 很適合透過固定搭配來抓語感，尤其是你想把 abrupt and clipped without softening 說得更自然時。",
+    "COLLOCATION_1": "brusque reply",
+    "REGISTER_1": "溝通 / 回應",
+    "COLLOCATION_NOTE_1": "這個搭配能把 abrupt and clipped without softening 的語感直接帶出來。",
+    "COLLOCATION_2": "brusque manner",
+    "REGISTER_2": "人際 / 印象",
+    "COLLOCATION_NOTE_2": "放到 職場互動、人物描寫與回應語氣 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "brusque instruction",
+    "REGISTER_3": "工作 / 協作",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 brusque 的實際使用邊界。",
+    "NEIGHBOR_SELF": "abrupt and clipped without softening",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 直接，而是 abrupt and clipped without softening 這層語感時",
+    "NEIGHBOR_1": "Blunt",
+    "NEIGHBOR_1_MEANING": "直接",
+    "NEIGHBOR_1_USE": "只想表達 直接，而不需要 abrupt and clipped without softening 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>brusque</code> 常和 <code>brusque reply</code>、<code>brusque manner</code>、<code>brusque instruction</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 職場互動、人物描寫與回應語氣 的語境裡，這個字能比一般近義詞更精準地抓住 abrupt and clipped without softening。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/brusque",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/brusque",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/brusque",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 brusque 和 blunt 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像門只開一道縫，話還沒說完就被迅速關上。",
+    "CHECK_SENTENCE": "我能用 <code>brusque reply</code> 或 <code>brusque manner</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>brusque reply</code> 或 <code>brusque manner</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/brusque",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "brusque",
+    "word": "Brusque",
+    "partOfSpeech": "adjective",
+    "href": "./brusque.html",
+    "thesis": "不是有效率而已，而是快得幾乎不留情面。",
+    "tags": [
+      "生硬短促",
+      "門只開一道縫",
+      "blunt",
+      "communication",
+      "impression",
+      "adjective",
+      "brusque"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 brusque 和 blunt 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像門只開一道縫，話還沒說完就被迅速關上。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 brusque reply 或 brusque manner 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/brusque",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/brusque",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/brusque",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

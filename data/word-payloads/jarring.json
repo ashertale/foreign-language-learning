@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Jarring",
+    "slug": "jarring",
+    "outputPath": "prototypes/jarring.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Jarring",
+    "WORD_SLUG": "jarring",
+    "WORD_LOWER": "jarring",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "JAR-ing · UK /ˈdʒɑː.rɪŋ/ · US /ˈdʒɑːr.ɪŋ/",
+    "THESIS": "不是大聲而已，而是和周圍不搭到讓你整個被拉醒。",
+    "LEARNING_POSITION": "把 jarring 記成「shocking because it clashes abruptly with context」：不是大聲而已，而是和周圍不搭到讓你整個被拉醒。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.58",
+    "CORE_IDEA": "<code>jarring</code> 表示刺耳、突兀、令人不舒服地不協調。",
+    "CONCEPT_FOCUS": "核心畫面是 shocking because it clashes abruptly with context。",
+    "TONE_REGISTER": "這個字常見於 版面調性、聲音體驗與敘事轉折；語氣上不是空泛形容，而是用來抓住 shocking because it clashes abruptly with context 這種狀態或動作。",
+    "USE_WARNING": "不要把 jarring 只看成 unsettling；<code>unsettling</code> 多半只是 讓人不安，而 <code>jarring</code> 更強調 shocking because it clashes abruptly with context。",
+    "SHORT_DEFINITION": "表示刺耳、突兀、令人不舒服地不協調。",
+    "CONFUSION_WORD": "Unsettling",
+    "CONFUSION_NOTE": "<code>unsettling</code> 多半只是 讓人不安；<code>jarring</code> 則更偏向 shocking because it clashes abruptly with context。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 shocking because it clashes abruptly with context 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>jarring</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：shocking because it clashes abruptly with context。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像安靜樂章裡忽然砸進一聲金屬碰撞，耳朵會先縮一下。",
+    "MEMORY_HOOK": "<code>jarring</code> 的畫面是：像安靜樂章裡忽然砸進一聲金屬碰撞，耳朵會先縮一下。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 jarring，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>jarring contrast</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>jarring noise</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "版面調性、聲音體驗與敘事轉折 這類場景特別適合放進 <code>jarring shift in tone</code>，因為那裡常需要描述 shocking because it clashes abruptly with context。",
+    "COLLOCATION_NOTE": "Jarring 很適合透過固定搭配來抓語感，尤其是你想把 shocking because it clashes abruptly with context 說得更自然時。",
+    "COLLOCATION_1": "jarring contrast",
+    "REGISTER_1": "設計 / 視覺",
+    "COLLOCATION_NOTE_1": "這個搭配能把 shocking because it clashes abruptly with context 的語感直接帶出來。",
+    "COLLOCATION_2": "jarring noise",
+    "REGISTER_2": "音效 / 環境",
+    "COLLOCATION_NOTE_2": "放到 版面調性、聲音體驗與敘事轉折 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "jarring shift in tone",
+    "REGISTER_3": "寫作 / 敘事",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 jarring 的實際使用邊界。",
+    "NEIGHBOR_SELF": "shocking because it clashes abruptly with context",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 讓人不安，而是 shocking because it clashes abruptly with context 這層語感時",
+    "NEIGHBOR_1": "Unsettling",
+    "NEIGHBOR_1_MEANING": "讓人不安",
+    "NEIGHBOR_1_USE": "只想表達 讓人不安，而不需要 shocking because it clashes abruptly with context 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>jarring</code> 常和 <code>jarring contrast</code>、<code>jarring noise</code>、<code>jarring shift in tone</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 版面調性、聲音體驗與敘事轉折 的語境裡，這個字能比一般近義詞更精準地抓住 shocking because it clashes abruptly with context。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/jarring",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/jarring",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/jarring",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 jarring 和 unsettling 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像安靜樂章裡忽然砸進一聲金屬碰撞，耳朵會先縮一下。",
+    "CHECK_SENTENCE": "我能用 <code>jarring contrast</code> 或 <code>jarring noise</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>jarring contrast</code> 或 <code>jarring noise</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/jarring",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "jarring",
+    "word": "Jarring",
+    "partOfSpeech": "adjective",
+    "href": "./jarring.html",
+    "thesis": "不是大聲而已，而是和周圍不搭到讓你整個被拉醒。",
+    "tags": [
+      "突兀刺耳",
+      "樂章裡忽然砸進金屬聲",
+      "unsettling",
+      "contrast",
+      "tone",
+      "adjective",
+      "jarring"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 jarring 和 unsettling 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像安靜樂章裡忽然砸進一聲金屬碰撞，耳朵會先縮一下。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 jarring contrast 或 jarring noise 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/jarring",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/jarring",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/jarring",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

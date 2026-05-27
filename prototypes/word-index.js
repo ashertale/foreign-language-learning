@@ -10004,5 +10004,6605 @@ window.WORD_INDEX = [
         label: "用 zealous advocate 或 zealous enforcement 造一句自然英文"
       }
     ]
+  },
+  {
+    id: "abdicate",
+    word: "Abdicate",
+    partOfSpeech: "verb",
+    href: "./abdicate.html",
+    order: 301,
+    cefr: "C2",
+    zipf: 2.90,
+    thesis: "不是單純離開，而是把原本握在手上的位置、權力或責任正式交出去。",
+    tags: [
+      "放棄權位",
+      "交出責任",
+      "resign",
+      "power",
+      "leadership",
+      "verb",
+      "abdicate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 abdicate 和 resign 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把一直握著的權杖放回桌上，轉身不再發號施令。"
+      },
+      {
+        id: "sentence",
+        label: "用 abdicate the throne 或 abdicate responsibility 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "abide",
+    word: "Abide",
+    partOfSpeech: "verb",
+    href: "./abide.html",
+    order: 302,
+    cefr: "C1",
+    zipf: 3.21,
+    thesis: "不是口頭接受一下，而是之後真的照那個規則、承諾或判決去做。",
+    tags: [
+      "遵守約定",
+      "持續照辦",
+      "obey",
+      "rules",
+      "agreement",
+      "verb",
+      "abide"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 abide 和 obey 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像簽了合約後不是放著，而是每天都照那條線走。"
+      },
+      {
+        id: "sentence",
+        label: "用 abide by the rules 或 abide by the decision 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "abound",
+    word: "Abound",
+    partOfSpeech: "verb",
+    href: "./abound.html",
+    order: 303,
+    cefr: "C1",
+    zipf: 2.95,
+    thesis: "不是只有幾個，而是多到你一看四周都是。",
+    tags: [
+      "大量存在",
+      "四處都是",
+      "exist",
+      "opportunity",
+      "observation",
+      "verb",
+      "abound"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 abound 和 exist 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像草地上的露珠一樣，不用特地找，視線所及到處都有。"
+      },
+      {
+        id: "sentence",
+        label: "用 opportunities abound 或 rumors abound 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "abrasive",
+    word: "Abrasive",
+    partOfSpeech: "adjective",
+    href: "./abrasive.html",
+    order: 304,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是直接而已，而是帶著磨擦感，讓人一接觸就覺得被刮到。",
+    tags: [
+      "磨擦感強",
+      "刺人粗糙",
+      "harsh",
+      "materials",
+      "communication",
+      "adjective",
+      "abrasive"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 abrasive 和 harsh 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像砂紙不是故意打人，但一碰就會把表面磨得不舒服。"
+      },
+      {
+        id: "sentence",
+        label: "用 abrasive surface 或 abrasive tone 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "abstruse",
+    word: "Abstruse",
+    partOfSpeech: "adjective",
+    href: "./abstruse.html",
+    order: 305,
+    cefr: "C2",
+    zipf: 2.48,
+    thesis: "不是單純專業，而是抽象到一般入口幾乎抓不到。",
+    tags: [
+      "深奧難懂",
+      "入口很少",
+      "complicated",
+      "theory",
+      "reading",
+      "adjective",
+      "abstruse"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 abstruse 和 complicated 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像地圖上只有極細的等高線，沒有人帶路就不知從哪裡下腳。"
+      },
+      {
+        id: "sentence",
+        label: "用 abstruse theory 或 abstruse argument 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "accede",
+    word: "Accede",
+    partOfSpeech: "verb",
+    href: "./accede.html",
+    order: 306,
+    cefr: "C2",
+    zipf: 2.71,
+    thesis: "不是主動提議，而是在對方要求、情勢或壓力下點頭接受。",
+    tags: [
+      "讓步同意",
+      "壓力下點頭",
+      "agree",
+      "negotiation",
+      "policy",
+      "verb",
+      "accede"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 accede 和 agree 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像門本來卡著不開，最後在外力持續推動下慢慢鬆開。"
+      },
+      {
+        id: "sentence",
+        label: "用 accede to the request 或 accede to demands 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "accolade",
+    word: "Accolade",
+    partOfSpeech: "noun",
+    href: "./accolade.html",
+    order: 307,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是普通稱讚，而是被公開看見、帶有份量的肯定。",
+    tags: [
+      "公開肯定",
+      "正式榮譽",
+      "praise",
+      "recognition",
+      "career",
+      "noun",
+      "accolade"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 accolade 和 praise 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像胸前別上一枚勳章，不只是有人喜歡，而是整個場域都承認你的分量。"
+      },
+      {
+        id: "sentence",
+        label: "用 receive an accolade 或 critical accolades 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "acquiesce",
+    word: "Acquiesce",
+    partOfSpeech: "verb",
+    href: "./acquiesce.html",
+    order: 308,
+    cefr: "C2",
+    zipf: 2.56,
+    thesis: "不是真心認同，而是把反對收回去，改成默默接受。",
+    tags: [
+      "默默接受",
+      "收回反抗",
+      "consent",
+      "pressure",
+      "compliance",
+      "verb",
+      "acquiesce"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 acquiesce 和 consent 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手原本頂著門，最後慢慢放掉力道，讓門自己關上。"
+      },
+      {
+        id: "sentence",
+        label: "用 acquiesce to the plan 或 acquiesce in silence 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "adroit",
+    word: "Adroit",
+    partOfSpeech: "adjective",
+    href: "./adroit.html",
+    order: 309,
+    cefr: "C2",
+    zipf: 2.63,
+    thesis: "不是單純會做，而是動作與判斷都靈巧、乾淨、拿捏得住。",
+    tags: [
+      "靈巧熟練",
+      "拿捏得住",
+      "skilled",
+      "technique",
+      "negotiation",
+      "adjective",
+      "adroit"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 adroit 和 skilled 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手指在狹小零件間滑過去，沒有多餘力道卻每一步都到位。"
+      },
+      {
+        id: "sentence",
+        label: "用 adroit handling 或 adroit negotiator 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "affable",
+    word: "Affable",
+    partOfSpeech: "adjective",
+    href: "./affable.html",
+    order: 310,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是表面客氣，而是讓人很自然就敢靠近和開口。",
+    tags: [
+      "親切好相處",
+      "自然可親",
+      "polite",
+      "teamwork",
+      "impression",
+      "adjective",
+      "affable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 affable 和 polite 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像門已經半開著，你還沒敲第二下，裡面的人就先笑著請你進來。"
+      },
+      {
+        id: "sentence",
+        label: "用 affable manner 或 affable host 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "alacrity",
+    word: "Alacrity",
+    partOfSpeech: "noun",
+    href: "./alacrity.html",
+    order: 311,
+    cefr: "C2",
+    zipf: 2.42,
+    thesis: "不是只有快，而是帶著爽快、毫不拖泥帶水的願意。",
+    tags: [
+      "爽快迅速",
+      "樂意接住",
+      "eagerness",
+      "response",
+      "attitude",
+      "noun",
+      "alacrity"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 alacrity 和 eagerness 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像訊息一到，手不是被逼著伸過去，而是立刻精神很好地接住。"
+      },
+      {
+        id: "sentence",
+        label: "用 respond with alacrity 或 show alacrity 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "alienate",
+    word: "Alienate",
+    partOfSpeech: "verb",
+    href: "./alienate.html",
+    order: 312,
+    cefr: "C1",
+    zipf: 3.11,
+    thesis: "不是一時不合，而是讓對方慢慢覺得自己不再被接納。",
+    tags: [
+      "使人疏離",
+      "慢慢推遠",
+      "offend",
+      "relationships",
+      "audience",
+      "verb",
+      "alienate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 alienate 和 offend 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像本來握著的手沒有突然甩開，而是一點一點鬆到最後滑掉。"
+      },
+      {
+        id: "sentence",
+        label: "用 alienate users 或 alienate the audience 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "allay",
+    word: "Allay",
+    partOfSpeech: "verb",
+    href: "./allay.html",
+    order: 313,
+    cefr: "C2",
+    zipf: 2.60,
+    thesis: "不是完全解決，而是先把尖銳的擔心放下來。",
+    tags: [
+      "緩和疑慮",
+      "先把刺放下",
+      "ease",
+      "communication",
+      "anxiety",
+      "verb",
+      "allay"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 allay 和 ease 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把緊拉的弦鬆半格，聲音還在，但不再刺耳。"
+      },
+      {
+        id: "sentence",
+        label: "用 allay fears 或 allay concerns 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "allot",
+    word: "Allot",
+    partOfSpeech: "verb",
+    href: "./allot.html",
+    order: 314,
+    cefr: "C1",
+    zipf: 2.99,
+    thesis: "不是隨手給一些，而是從有限總量中切出一份明確額度。",
+    tags: [
+      "切出份額",
+      "明確分配",
+      "assign",
+      "resources",
+      "scheduling",
+      "verb",
+      "allot"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 allot 和 assign 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一塊大布被仔細量過後裁成幾塊，每塊都有對應用途。"
+      },
+      {
+        id: "sentence",
+        label: "用 allot enough time 或 allot resources 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "aloof",
+    word: "Aloof",
+    partOfSpeech: "adjective",
+    href: "./aloof.html",
+    order: 315,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是害羞，而是刻意或自然地保持距離，不讓人太靠近。",
+    tags: [
+      "保持距離",
+      "不讓靠近",
+      "shy",
+      "personality",
+      "social",
+      "adjective",
+      "aloof"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 aloof 和 shy 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像窗簾沒有全拉上，但總留著一條讓人進不去的縫。"
+      },
+      {
+        id: "sentence",
+        label: "用 aloof attitude 或 aloof manager 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "altruistic",
+    word: "Altruistic",
+    partOfSpeech: "adjective",
+    href: "./altruistic.html",
+    order: 316,
+    cefr: "C2",
+    zipf: 2.52,
+    thesis: "不是一般大方，而是把他人的利益放在很前面。",
+    tags: [
+      "利他導向",
+      "先想別人",
+      "generous",
+      "ethics",
+      "society",
+      "adjective",
+      "altruistic"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 altruistic 和 generous 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手裡只剩一把傘，自己淋雨也先把它遞出去。"
+      },
+      {
+        id: "sentence",
+        label: "用 altruistic motive 或 altruistic act 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "amalgamate",
+    word: "Amalgamate",
+    partOfSpeech: "verb",
+    href: "./amalgamate.html",
+    order: 317,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是並排放在一起，而是把原本分開的部分真正揉成一體。",
+    tags: [
+      "融合成體",
+      "不再分開",
+      "combine",
+      "integration",
+      "organization",
+      "verb",
+      "amalgamate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 amalgamate 和 combine 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像幾條金屬絲被加熱後熔成一塊，不再看得出原本各自的邊界。"
+      },
+      {
+        id: "sentence",
+        label: "用 amalgamate the teams 或 amalgamate datasets 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ambivalent",
+    word: "Ambivalent",
+    partOfSpeech: "adjective",
+    href: "./ambivalent.html",
+    order: 318,
+    cefr: "C1",
+    zipf: 2.93,
+    thesis: "不是不知道，而是兩邊都各有吸引力或抗拒點，心裡拉扯。",
+    tags: [
+      "兩面拉扯",
+      "難以爽快表態",
+      "uncertain",
+      "emotion",
+      "decision",
+      "adjective",
+      "ambivalent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ambivalent 和 uncertain 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像腳踩在岔路口的中間，兩邊都看得見，也都還放不下。"
+      },
+      {
+        id: "sentence",
+        label: "用 feel ambivalent 或 ambivalent response 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ameliorate",
+    word: "Ameliorate",
+    partOfSpeech: "verb",
+    href: "./ameliorate.html",
+    order: 319,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是徹底翻盤，而是把原本糟的情況往較可承受的方向拉回來。",
+    tags: [
+      "讓情況好一些",
+      "從糟拉回",
+      "improve",
+      "policy",
+      "repair",
+      "verb",
+      "ameliorate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ameliorate 和 improve 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把漏雨的屋頂先補住最破的地方，還沒完美，但不再一直滴。"
+      },
+      {
+        id: "sentence",
+        label: "用 ameliorate the damage 或 ameliorate conditions 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "amenable",
+    word: "Amenable",
+    partOfSpeech: "adjective",
+    href: "./amenable.html",
+    order: 320,
+    cefr: "C1",
+    zipf: 2.81,
+    thesis: "不是被迫配合，而是對調整、協商或新方案有接受空間。",
+    tags: [
+      "可協商可調整",
+      "沒有鎖死",
+      "willing",
+      "feedback",
+      "change",
+      "adjective",
+      "amenable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 amenable 和 willing 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像門沒有鎖死，你輕推一下，它就願意往另一個方向開。"
+      },
+      {
+        id: "sentence",
+        label: "用 amenable to feedback 或 amenable to change 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "amicable",
+    word: "Amicable",
+    partOfSpeech: "adjective",
+    href: "./amicable.html",
+    order: 321,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是沒有分歧，而是即使立場不同，仍能平和處理。",
+    tags: [
+      "和氣處理",
+      "沒有敵意",
+      "friendly",
+      "settlement",
+      "relationships",
+      "adjective",
+      "amicable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 amicable 和 friendly 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像桌上意見很多，但杯子始終沒有被摔碎，話還是能好好說。"
+      },
+      {
+        id: "sentence",
+        label: "用 amicable settlement 或 amicable split 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "amiss",
+    word: "Amiss",
+    partOfSpeech: "adjective",
+    href: "./amiss.html",
+    order: 322,
+    cefr: "C1",
+    zipf: 3.02,
+    thesis: "不是災難級錯誤，而是你直覺先感到哪裡不太對。",
+    tags: [
+      "哪裡不對勁",
+      "視線先卡住",
+      "wrong",
+      "quality",
+      "intuition",
+      "adjective",
+      "amiss"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 amiss 和 wrong 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像牆上的畫只歪了一點點，但你一進房就覺得視線卡住。"
+      },
+      {
+        id: "sentence",
+        label: "用 something is amiss 或 seem amiss 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ancillary",
+    word: "Ancillary",
+    partOfSpeech: "adjective",
+    href: "./ancillary.html",
+    order: 323,
+    cefr: "C2",
+    zipf: 2.47,
+    thesis: "不是核心主體，而是在旁邊補足、支撐主要任務。",
+    tags: [
+      "附屬支援",
+      "在旁邊補足",
+      "secondary",
+      "services",
+      "tools",
+      "adjective",
+      "ancillary"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ancillary 和 secondary 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像主舞台旁邊那圈燈光，不是表演本身，卻讓整場看得見。"
+      },
+      {
+        id: "sentence",
+        label: "用 ancillary services 或 ancillary tools 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "annotate",
+    word: "Annotate",
+    partOfSpeech: "verb",
+    href: "./annotate.html",
+    order: 324,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是單純劃線，而是把你的理解寫到文本旁邊。",
+    tags: [
+      "加註說明",
+      "把理解寫旁邊",
+      "highlight",
+      "documentation",
+      "study",
+      "verb",
+      "annotate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 annotate 和 highlight 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像在書頁邊緣點一盞小燈，提醒未來的自己這裡該多看一眼。"
+      },
+      {
+        id: "sentence",
+        label: "用 annotate the code 或 annotate the article 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "antagonize",
+    word: "Antagonize",
+    partOfSpeech: "verb",
+    href: "./antagonize.html",
+    order: 325,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是惹到一下，而是把對方推進對立或反感狀態。",
+    tags: [
+      "激起敵意",
+      "把人推到對立",
+      "annoy",
+      "conflict",
+      "communication",
+      "verb",
+      "antagonize"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 antagonize 和 annoy 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手指一直去戳同一塊瘀青，最後整個人都繃起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 antagonize the team 或 antagonize voters 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "appraise",
+    word: "Appraise",
+    partOfSpeech: "verb",
+    href: "./appraise.html",
+    order: 326,
+    cefr: "C1",
+    zipf: 2.82,
+    thesis: "不是隨便看一眼，而是有根據地估量它到底值多少、好不好。",
+    tags: [
+      "估量價值",
+      "有根據地看",
+      "assess",
+      "value",
+      "risk",
+      "verb",
+      "appraise"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 appraise 和 assess 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像拿起一塊石頭不是先驚嘆，而是先看它的紋理、重量和真假。"
+      },
+      {
+        id: "sentence",
+        label: "用 appraise the property 或 appraise the risk 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "apprehend",
+    word: "Apprehend",
+    partOfSpeech: "verb",
+    href: "./apprehend.html",
+    order: 327,
+    cefr: "C2",
+    zipf: 2.78,
+    thesis: "不是只聽過，而是終於把複雜東西真正抓進腦中。",
+    tags: [
+      "終於抓住意思",
+      "從霧裡摸到把手",
+      "understand",
+      "analysis",
+      "learning",
+      "verb",
+      "apprehend"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 apprehend 和 understand 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手在霧裡摸索很久，最後終於碰到那個一直找不到的把手。"
+      },
+      {
+        id: "sentence",
+        label: "用 apprehend the implications 或 apprehend the pattern 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "apropos",
+    word: "Apropos",
+    partOfSpeech: "adjective",
+    href: "./apropos.html",
+    order: 328,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是勉強相關，而是剛好切中這個時機或話題。",
+    tags: [
+      "切題剛好",
+      "時機完全對上",
+      "relevant",
+      "writing",
+      "timing",
+      "adjective",
+      "apropos"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 apropos 和 relevant 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像桌上剛好缺那顆螺絲，而你手裡拿來的尺寸完全對上。"
+      },
+      {
+        id: "sentence",
+        label: "用 apropos remark 或 apropos example 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "arbitrary",
+    word: "Arbitrary",
+    partOfSpeech: "adjective",
+    href: "./arbitrary.html",
+    order: 329,
+    cefr: "C1",
+    zipf: 3.21,
+    thesis: "不是有原則的選擇，而是看誰說了算或隨手定一個。",
+    tags: [
+      "任意武斷",
+      "沒有清楚標準",
+      "random",
+      "rules",
+      "decision",
+      "adjective",
+      "arbitrary"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 arbitrary 和 random 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像尺上沒有刻度，卻還硬要說這一刀就是正確位置。"
+      },
+      {
+        id: "sentence",
+        label: "用 arbitrary rule 或 arbitrary limit 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ardent",
+    word: "Ardent",
+    partOfSpeech: "adjective",
+    href: "./ardent.html",
+    order: 330,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是一般喜歡，而是情感或支持力度都很熱。",
+    tags: [
+      "熱切投入",
+      "穩穩發熱",
+      "enthusiastic",
+      "support",
+      "interest",
+      "adjective",
+      "ardent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ardent 和 enthusiastic 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像炭火不是閃一下，而是穩穩紅著，把整個爐心都烘熱。"
+      },
+      {
+        id: "sentence",
+        label: "用 ardent supporter 或 ardent admirer 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "arduous",
+    word: "Arduous",
+    partOfSpeech: "adjective",
+    href: "./arduous.html",
+    order: 331,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是一時難，而是要長時間扛著重度努力往前走。",
+    tags: [
+      "艱鉅費力",
+      "一路都重",
+      "difficult",
+      "effort",
+      "project",
+      "adjective",
+      "arduous"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 arduous 和 difficult 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像背著裝滿工具的包走長上坡，不是衝一下，而是一路都重。"
+      },
+      {
+        id: "sentence",
+        label: "用 arduous journey 或 arduous task 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ascertain",
+    word: "Ascertain",
+    partOfSpeech: "verb",
+    href: "./ascertain.html",
+    order: 332,
+    cefr: "C1",
+    zipf: 2.92,
+    thesis: "不是大概猜到，而是查到可以放心拿來做判斷。",
+    tags: [
+      "查明到可依賴",
+      "把線照清楚",
+      "verify",
+      "debugging",
+      "facts",
+      "verb",
+      "ascertain"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ascertain 和 verify 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像黑暗中先摸索，再打開手電，終於看清那條線到底接到哪裡。"
+      },
+      {
+        id: "sentence",
+        label: "用 ascertain the cause 或 ascertain the facts 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ascribe",
+    word: "Ascribe",
+    partOfSpeech: "verb",
+    href: "./ascribe.html",
+    order: 333,
+    cefr: "C2",
+    zipf: 2.58,
+    thesis: "不是只描述現象，而是把它歸到某個原因、來源或動機上。",
+    tags: [
+      "歸因到來源",
+      "往上游找原因",
+      "attribute",
+      "cause",
+      "analysis",
+      "verb",
+      "ascribe"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ascribe 和 attribute 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像看到河面變色，不只說它變了，而是往上游找那一股染進來的水。"
+      },
+      {
+        id: "sentence",
+        label: "用 ascribe it to luck 或 ascribe the change to policy 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "assail",
+    word: "Assail",
+    partOfSpeech: "verb",
+    href: "./assail.html",
+    order: 334,
+    cefr: "C2",
+    zipf: 2.69,
+    thesis: "不是普通批評，而是成串地從各方向打過來。",
+    tags: [
+      "猛烈抨擊",
+      "從各方向打來",
+      "attack",
+      "criticism",
+      "pressure",
+      "verb",
+      "assail"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 assail 和 attack 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像暴雨不是一滴一滴落，而是整片斜打到你身上。"
+      },
+      {
+        id: "sentence",
+        label: "用 assail the proposal 或 assailed by doubts 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "assiduous",
+    word: "Assiduous",
+    partOfSpeech: "adjective",
+    href: "./assiduous.html",
+    order: 335,
+    cefr: "C2",
+    zipf: 2.34,
+    thesis: "不是偶爾很拼，而是長時間都細緻地把該做的事顧住。",
+    tags: [
+      "勤勉不懈",
+      "天天都顧住",
+      "hard-working",
+      "study",
+      "effort",
+      "adjective",
+      "assiduous"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 assiduous 和 hard-working 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像每天都同一時間澆水、修枝、看土，不靠靈感，也不偷懶。"
+      },
+      {
+        id: "sentence",
+        label: "用 assiduous study 或 assiduous care 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "atone",
+    word: "Atone",
+    partOfSpeech: "verb",
+    href: "./atone.html",
+    order: 336,
+    cefr: "C2",
+    zipf: 2.55,
+    thesis: "不是說對不起就算，而是用後續行動把失衡慢慢補回來。",
+    tags: [
+      "彌補過錯",
+      "用行動補回",
+      "apologize",
+      "repair",
+      "ethics",
+      "verb",
+      "atone"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 atone 和 apologize 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像打翻的水不是拿嘴說乾了，而是自己拿布一點點擦回去。"
+      },
+      {
+        id: "sentence",
+        label: "用 atone for the mistake 或 atone for past harm 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "attrition",
+    word: "Attrition",
+    partOfSpeech: "noun",
+    href: "./attrition.html",
+    order: 337,
+    cefr: "C1",
+    zipf: 2.88,
+    thesis: "不是突然崩掉，而是每天磨一點、少一點，最後整體變薄。",
+    tags: [
+      "逐步磨損",
+      "每天少一點",
+      "decline",
+      "retention",
+      "wear",
+      "noun",
+      "attrition"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 attrition 和 decline 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像繩子不是一下斷，而是每次摩擦都磨掉一絲，久了終究承不住。"
+      },
+      {
+        id: "sentence",
+        label: "用 staff attrition 或 war of attrition 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "auspicious",
+    word: "Auspicious",
+    partOfSpeech: "adjective",
+    href: "./auspicious.html",
+    order: 338,
+    cefr: "C2",
+    zipf: 2.48,
+    thesis: "不是已經成功，而是一開場就讓人覺得這是好兆頭。",
+    tags: [
+      "好兆頭",
+      "一開場就順",
+      "promising",
+      "start",
+      "sign",
+      "adjective",
+      "auspicious"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 auspicious 和 promising 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像天剛亮就先透出一條金邊，事情還沒發生，但氣象已經不同。"
+      },
+      {
+        id: "sentence",
+        label: "用 auspicious start 或 auspicious sign 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "autonomous",
+    word: "Autonomous",
+    partOfSpeech: "adjective",
+    href: "./autonomous.html",
+    order: 339,
+    cefr: "C1",
+    zipf: 3.11,
+    thesis: "不是完全孤立，而是在沒有外部細節干預下也能自己運作。",
+    tags: [
+      "自主運作",
+      "放開輔助輪",
+      "independent",
+      "systems",
+      "teams",
+      "adjective",
+      "autonomous"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 autonomous 和 independent 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像腳踏車放開輔助輪後，開始能靠自己的平衡往前走。"
+      },
+      {
+        id: "sentence",
+        label: "用 autonomous system 或 autonomous team 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "avail",
+    word: "Avail",
+    partOfSpeech: "verb",
+    href: "./avail.html",
+    order: 340,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是理論上有幫助，而是真的足以讓結果不一樣。",
+    tags: [
+      "實際起作用",
+      "真的幫上忙",
+      "help",
+      "effort",
+      "resources",
+      "verb",
+      "avail"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 avail 和 help 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手邊工具看起來齊全，但真正轉不動那顆螺絲時，才知道它到底有沒有用。"
+      },
+      {
+        id: "sentence",
+        label: "用 to no avail 或 little avail 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "avid",
+    word: "Avid",
+    partOfSpeech: "adjective",
+    href: "./avid.html",
+    order: 341,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是有興趣而已，而是會主動追著資訊、活動或機會跑。",
+    tags: [
+      "熱衷渴求",
+      "主動追著跑",
+      "interested",
+      "learning",
+      "interest",
+      "adjective",
+      "avid"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 avid 和 interested 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像看到新書上架就立刻伸手，不是順便看，而是早就在等。"
+      },
+      {
+        id: "sentence",
+        label: "用 avid reader 或 avid fan 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "banal",
+    word: "Banal",
+    partOfSpeech: "adjective",
+    href: "./banal.html",
+    order: 342,
+    cefr: "C2",
+    zipf: 2.52,
+    thesis: "不是普通，而是因為講太多次，已經沒有力道也沒有新意。",
+    tags: [
+      "陳腔濫調",
+      "講太多失去力道",
+      "common",
+      "writing",
+      "creativity",
+      "adjective",
+      "banal"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 banal 和 common 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像牆上貼滿同一句口號，字沒錯，但再也沒人會停下來看。"
+      },
+      {
+        id: "sentence",
+        label: "用 banal remark 或 banal plot 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "barrage",
+    word: "Barrage",
+    partOfSpeech: "noun",
+    href: "./barrage.html",
+    order: 343,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是零星幾下，而是一整排密集地同時打過來。",
+    tags: [
+      "密集轟炸",
+      "一整排打來",
+      "stream",
+      "questions",
+      "media",
+      "noun",
+      "barrage"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 barrage 和 stream 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手機通知忽然一口氣震個不停，來不及看完第一則，第二十則又到了。"
+      },
+      {
+        id: "sentence",
+        label: "用 barrage of questions 或 media barrage 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "belie",
+    word: "Belie",
+    partOfSpeech: "verb",
+    href: "./belie.html",
+    order: 344,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是直接說謊，而是表面看起來像 A，實際卻是 B。",
+    tags: [
+      "表象騙人",
+      "平靜底下有暗流",
+      "hide",
+      "appearance",
+      "data",
+      "verb",
+      "belie"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 belie 和 hide 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像平靜的湖面看不出底下暗流，其實一腳踩下去就會被帶走。"
+      },
+      {
+        id: "sentence",
+        label: "用 belie the difficulty 或 belie the tension 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "bereft",
+    word: "Bereft",
+    partOfSpeech: "adjective",
+    href: "./bereft.html",
+    order: 345,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是短暫沒有，而是失去了原本很重要的依靠。",
+    tags: [
+      "失去依靠",
+      "那盞燈忽然熄掉",
+      "deprived",
+      "loss",
+      "support",
+      "adjective",
+      "bereft"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 bereft 和 deprived 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像屋裡最穩定的那盞燈忽然熄掉，空間瞬間變得很大也很冷。"
+      },
+      {
+        id: "sentence",
+        label: "用 bereft of hope 或 bereft family 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "blatant",
+    word: "Blatant",
+    partOfSpeech: "adjective",
+    href: "./blatant.html",
+    order: 346,
+    cefr: "C1",
+    zipf: 3.07,
+    thesis: "不是看得出來而已，而是明顯到近乎不把規則放在眼裡。",
+    tags: [
+      "公然明顯",
+      "根本不打算藏",
+      "obvious",
+      "bias",
+      "quality",
+      "adjective",
+      "blatant"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 blatant 和 obvious 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像考卷上直接把答案寫在桌面上，根本不打算藏。"
+      },
+      {
+        id: "sentence",
+        label: "用 blatant lie 或 blatant bias 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "blithe",
+    word: "Blithe",
+    partOfSpeech: "adjective",
+    href: "./blithe.html",
+    order: 347,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是自在，而是有點太不在乎後果。",
+    tags: [
+      "輕率不在乎",
+      "站在邊緣還吹口哨",
+      "carefree",
+      "risk",
+      "attitude",
+      "adjective",
+      "blithe"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 blithe 和 carefree 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像站在濕滑邊緣還吹口哨，不是沒風險，只是他沒把風險當回事。"
+      },
+      {
+        id: "sentence",
+        label: "用 blithe assumption 或 blithe disregard 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "brazen",
+    word: "Brazen",
+    partOfSpeech: "adjective",
+    href: "./brazen.html",
+    order: 348,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是勇敢，而是明知道會被罵，還是大剌剌地做給你看。",
+    tags: [
+      "厚顏公然",
+      "被看著也照做",
+      "bold",
+      "conflict",
+      "criticism",
+      "adjective",
+      "brazen"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 brazen 和 bold 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像在大家面前直接伸手拿最後一塊蛋糕，還跟你對視。"
+      },
+      {
+        id: "sentence",
+        label: "用 brazen attempt 或 brazen lie 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "brevity",
+    word: "Brevity",
+    partOfSpeech: "noun",
+    href: "./brevity.html",
+    order: 349,
+    cefr: "C1",
+    zipf: 2.72,
+    thesis: "不是少講而已，而是把必要內容壓得短卻不失核心。",
+    tags: [
+      "短小精煉",
+      "只留必要刀鋒",
+      "conciseness",
+      "writing",
+      "clarity",
+      "noun",
+      "brevity"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 brevity 和 conciseness 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像摺刀一收，只剩最需要的那段刀鋒露在外面。"
+      },
+      {
+        id: "sentence",
+        label: "用 brevity of the message 或 appreciate brevity 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "broach",
+    word: "Broach",
+    partOfSpeech: "verb",
+    href: "./broach.html",
+    order: 350,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是隨口提一下，而是小心把某個敏感話題推到桌面上。",
+    tags: [
+      "開敏感話題",
+      "把盒蓋掀開一角",
+      "mention",
+      "conversation",
+      "feedback",
+      "verb",
+      "broach"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 broach 和 mention 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把封著的盒蓋先掀開一角，讓大家都知道裡面的事得談了。"
+      },
+      {
+        id: "sentence",
+        label: "用 broach the subject 或 broach a concern 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "brood",
+    word: "Brood",
+    partOfSpeech: "verb",
+    href: "./brood.html",
+    order: 351,
+    cefr: "C1",
+    zipf: 3.06,
+    thesis: "不是想一下就過，而是反覆把同一件事含在心裡，越想越沉。",
+    tags: [
+      "悶著反覆想",
+      "越想越沉",
+      "worry",
+      "emotion",
+      "reflection",
+      "verb",
+      "brood"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 brood 和 worry 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把一塊石頭一直放在掌心磨，明明沒變大，卻越握越重。"
+      },
+      {
+        id: "sentence",
+        label: "用 brood over the mistake 或 brood in silence 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "brusque",
+    word: "Brusque",
+    partOfSpeech: "adjective",
+    href: "./brusque.html",
+    order: 352,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是有效率而已，而是快得幾乎不留情面。",
+    tags: [
+      "生硬短促",
+      "門只開一道縫",
+      "blunt",
+      "communication",
+      "impression",
+      "adjective",
+      "brusque"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 brusque 和 blunt 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像門只開一道縫，話還沒說完就被迅速關上。"
+      },
+      {
+        id: "sentence",
+        label: "用 brusque reply 或 brusque manner 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "bungle",
+    word: "Bungle",
+    partOfSpeech: "verb",
+    href: "./bungle.html",
+    order: 353,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是單純失敗，而是因為處理笨拙，把事情越弄越亂。",
+    tags: [
+      "拙劣搞砸",
+      "越弄越亂",
+      "fumble",
+      "execution",
+      "repair",
+      "verb",
+      "bungle"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 bungle 和 fumble 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手上工具都拿反了，修理還沒開始，零件先掉滿地。"
+      },
+      {
+        id: "sentence",
+        label: "用 bungle the launch 或 bungle the repair 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "burgeon",
+    word: "Burgeon",
+    partOfSpeech: "verb",
+    href: "./burgeon.html",
+    order: 354,
+    cefr: "C2",
+    zipf: 2.61,
+    thesis: "不是穩穩增加，而是像一口氣冒出很多新枝節。",
+    tags: [
+      "迅速萌發",
+      "枝頭一口氣爆開",
+      "expand",
+      "growth",
+      "interest",
+      "verb",
+      "burgeon"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 burgeon 和 expand 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像春天一到，枝頭不是多一片葉，而是一整片都爆開。"
+      },
+      {
+        id: "sentence",
+        label: "用 burgeon into a movement 或 burgeon quickly 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "byzantine",
+    word: "Byzantine",
+    partOfSpeech: "adjective",
+    href: "./byzantine.html",
+    order: 355,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是複雜而已，而是彎來彎去，規則像迷宮一樣。",
+    tags: [
+      "迷宮式繁複",
+      "每個轉角還藏規則",
+      "complex",
+      "process",
+      "systems",
+      "adjective",
+      "byzantine"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 byzantine 和 complex 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像走進沒有窗的走廊群，每個轉角都像還藏著另一條規則。"
+      },
+      {
+        id: "sentence",
+        label: "用 byzantine procedure 或 byzantine rules 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "cajole",
+    word: "Cajole",
+    partOfSpeech: "verb",
+    href: "./cajole.html",
+    order: 356,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是硬逼，而是半哄半推，把對方慢慢帶到你要的方向。",
+    tags: [
+      "半哄半推",
+      "把抽屜慢慢晃開",
+      "persuade",
+      "negotiation",
+      "teamwork",
+      "verb",
+      "cajole"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cajole 和 persuade 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把不肯動的抽屜一邊輕拉一邊晃，最後它自己鬆開。"
+      },
+      {
+        id: "sentence",
+        label: "用 cajole someone into helping 或 cajole a response 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "canvass",
+    word: "Canvass",
+    partOfSpeech: "verb",
+    href: "./canvass.html",
+    order: 357,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是坐著等回覆，而是主動一個一個去摸清意見。",
+    tags: [
+      "逐一徵詢",
+      "一戶一戶敲門",
+      "survey",
+      "interviews",
+      "election",
+      "verb",
+      "canvass"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 canvass 和 survey 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像拿著夾板走過整排門口，一戶一戶敲門確認風向。"
+      },
+      {
+        id: "sentence",
+        label: "用 canvass for support 或 canvass the neighborhood 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "capitulate",
+    word: "Capitulate",
+    partOfSpeech: "verb",
+    href: "./capitulate.html",
+    order: 358,
+    cefr: "C2",
+    zipf: 2.55,
+    thesis: "不是爽快讓步，而是撐了一段之後終於放棄抵抗。",
+    tags: [
+      "撐到最後放棄",
+      "堤防終究被蓋過",
+      "yield",
+      "pressure",
+      "conflict",
+      "verb",
+      "capitulate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 capitulate 和 yield 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像堤防擋了很久，最後還是被持續上漲的水位蓋過。"
+      },
+      {
+        id: "sentence",
+        label: "用 capitulate to pressure 或 capitulate at last 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "cede",
+    word: "Cede",
+    partOfSpeech: "verb",
+    href: "./cede.html",
+    order: 359,
+    cefr: "C2",
+    zipf: 2.63,
+    thesis: "不是暫借，而是把原本屬於自己的控制權正式交出去。",
+    tags: [
+      "正式讓出",
+      "整串鑰匙交出去",
+      "give",
+      "power",
+      "control",
+      "verb",
+      "cede"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cede 和 give 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手上鑰匙不是借人保管，而是整串交出去不再拿回來。"
+      },
+      {
+        id: "sentence",
+        label: "用 cede control 或 cede territory 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "censure",
+    word: "Censure",
+    partOfSpeech: "verb",
+    href: "./censure.html",
+    order: 360,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是私下念兩句，而是公開而且帶有權威地譴責。",
+    tags: [
+      "正式譴責",
+      "紅筆蓋在正中央",
+      "criticize",
+      "governance",
+      "ethics",
+      "verb",
+      "censure"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 censure 和 criticize 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像紅筆不是畫在草稿邊角，而是蓋在文件正中央的醒目印章。"
+      },
+      {
+        id: "sentence",
+        label: "用 censure the official 或 censure the conduct 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "cerebral",
+    word: "Cerebral",
+    partOfSpeech: "adjective",
+    href: "./cerebral.html",
+    order: 361,
+    cefr: "C2",
+    zipf: 2.71,
+    thesis: "不是冷冰冰，而是重心在推理、概念和腦中的結構。",
+    tags: [
+      "偏思辨",
+      "桌上排滿圖表",
+      "intellectual",
+      "analysis",
+      "style",
+      "adjective",
+      "cerebral"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cerebral 和 intellectual 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一張桌上排滿圖表和草稿紙，熱度不高，但每一格都在運算。"
+      },
+      {
+        id: "sentence",
+        label: "用 cerebral drama 或 cerebral approach 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "chafe",
+    word: "Chafe",
+    partOfSpeech: "verb",
+    href: "./chafe.html",
+    order: 362,
+    cefr: "C1",
+    zipf: 2.59,
+    thesis: "不是一次刺到，而是反覆摩擦，久了就又痛又煩。",
+    tags: [
+      "反覆摩擦",
+      "越走越痛越煩",
+      "irritate",
+      "friction",
+      "frustration",
+      "verb",
+      "chafe"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 chafe 和 irritate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像鞋後跟一直磨同一塊皮，步子越走越不想走。"
+      },
+      {
+        id: "sentence",
+        label: "用 chafe at the rules 或 boots that chafe 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "chastise",
+    word: "Chastise",
+    partOfSpeech: "verb",
+    href: "./chastise.html",
+    order: 363,
+    cefr: "C2",
+    zipf: 2.57,
+    thesis: "不是普通提醒，而是帶著責備力道地糾正。",
+    tags: [
+      "嚴厲糾正",
+      "尺敲桌面拉界線",
+      "rebuke",
+      "discipline",
+      "feedback",
+      "verb",
+      "chastise"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 chastise 和 rebuke 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像尺敲在桌面上，不一定打到人，但整個房間都知道界線被拉出來了。"
+      },
+      {
+        id: "sentence",
+        label: "用 chastise the child 或 chastise the team 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "circumvent",
+    word: "Circumvent",
+    partOfSpeech: "verb",
+    href: "./circumvent.html",
+    order: 364,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是正面解掉，而是從旁邊繞過去。",
+    tags: [
+      "從旁邊繞過",
+      "鎖門時改找側窗",
+      "avoid",
+      "restriction",
+      "strategy",
+      "verb",
+      "circumvent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 circumvent 和 avoid 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像正門鎖住時，不去撞門，而是繞到側邊找一扇還沒封的窗。"
+      },
+      {
+        id: "sentence",
+        label: "用 circumvent the restriction 或 circumvent the rule 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "coerce",
+    word: "Coerce",
+    partOfSpeech: "verb",
+    href: "./coerce.html",
+    order: 365,
+    cefr: "C1",
+    zipf: 2.79,
+    thesis: "不是說服，而是讓對方在壓力下幾乎沒有真正選擇。",
+    tags: [
+      "威逼強迫",
+      "背後頂著往前走",
+      "force",
+      "power",
+      "ethics",
+      "verb",
+      "coerce"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 coerce 和 force 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手不是牽著你走，而是抵在背後逼你往前。"
+      },
+      {
+        id: "sentence",
+        label: "用 coerce a confession 或 coerce compliance 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "coincide",
+    word: "Coincide",
+    partOfSpeech: "verb",
+    href: "./coincide.html",
+    order: 366,
+    cefr: "C1",
+    zipf: 3.04,
+    thesis: "不是模糊相關，而是時間、位置或判斷剛好重合。",
+    tags: [
+      "剛好重合",
+      "兩張透明片對正",
+      "overlap",
+      "timing",
+      "analysis",
+      "verb",
+      "coincide"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 coincide 和 overlap 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像兩張透明片疊上去，線條忽然剛好完全對正。"
+      },
+      {
+        id: "sentence",
+        label: "用 coincide with the launch 或 dates coincide 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "comply",
+    word: "Comply",
+    partOfSpeech: "verb",
+    href: "./comply.html",
+    order: 367,
+    cefr: "C1",
+    zipf: 3.11,
+    thesis: "不是點頭而已，而是實際照要求去做。",
+    tags: [
+      "照要求去做",
+      "拿到施工圖就開工",
+      "obey",
+      "compliance",
+      "quality",
+      "verb",
+      "comply"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 comply 和 obey 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像收到施工圖後，不是放進資料夾，而是照著每一條尺寸開始施工。"
+      },
+      {
+        id: "sentence",
+        label: "用 comply with regulations 或 comply with the request 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "concede",
+    word: "Concede",
+    partOfSpeech: "verb",
+    href: "./concede.html",
+    order: 368,
+    cefr: "C1",
+    zipf: 3.06,
+    thesis: "不是一開始就認，而是撐過一輪後終於承認某點站不住。",
+    tags: [
+      "撐過才承認",
+      "棋盤上讓出關鍵格",
+      "admit",
+      "debate",
+      "negotiation",
+      "verb",
+      "concede"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 concede 和 admit 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像棋盤上一路守到最後，終於把一格關鍵位置讓出去。"
+      },
+      {
+        id: "sentence",
+        label: "用 concede the point 或 concede defeat 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "condone",
+    word: "Condone",
+    partOfSpeech: "verb",
+    href: "./condone.html",
+    order: 369,
+    cefr: "C2",
+    zipf: 2.62,
+    thesis: "不是喜歡，而是明知道有問題卻選擇不阻止。",
+    tags: [
+      "明知有問題卻放過",
+      "拿布蓋住裂縫",
+      "excuse",
+      "ethics",
+      "behavior",
+      "verb",
+      "condone"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 condone 和 excuse 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像看見裂縫卻把布蓋上，表面安靜了，但問題其實被放過了。"
+      },
+      {
+        id: "sentence",
+        label: "用 condone misconduct 或 condone the behavior 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "confer",
+    word: "Confer",
+    partOfSpeech: "verb",
+    href: "./confer.html",
+    order: 370,
+    cefr: "C1",
+    zipf: 2.95,
+    thesis: "不是隨口給，而是由有權的一方正式賦予。",
+    tags: [
+      "正式授予",
+      "印章壓下去",
+      "grant",
+      "authority",
+      "ceremony",
+      "verb",
+      "confer"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 confer 和 grant 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把印章穩穩壓下去，從那一刻起，你的身分就有了不同。"
+      },
+      {
+        id: "sentence",
+        label: "用 confer authority 或 confer a degree 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "construe",
+    word: "Construe",
+    partOfSpeech: "verb",
+    href: "./construe.html",
+    order: 371,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是單純看見，而是把它讀成某一種意思。",
+    tags: [
+      "讀成某種意思",
+      "陰影決定情緒",
+      "interpret",
+      "meaning",
+      "law",
+      "verb",
+      "construe"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 construe 和 interpret 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像同一句訊息在不同光線下看，陰影的位置就會決定你讀出的情緒。"
+      },
+      {
+        id: "sentence",
+        label: "用 construe it as a threat 或 construe the clause narrowly 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "contend",
+    word: "Contend",
+    partOfSpeech: "verb",
+    href: "./contend.html",
+    order: 372,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是隨手處理，而是得跟一股持續存在的阻力周旋。",
+    tags: [
+      "頂著阻力前進",
+      "整段路都逆風",
+      "cope",
+      "pressure",
+      "challenge",
+      "verb",
+      "contend"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 contend 和 cope 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像逆風不是吹一下，而是整段路都要頂著它騎。"
+      },
+      {
+        id: "sentence",
+        label: "用 contend with delays 或 contend with scarcity 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "contravene",
+    word: "Contravene",
+    partOfSpeech: "verb",
+    href: "./contravene.html",
+    order: 373,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是不小心偏掉，而是直接和既定規範相抵觸。",
+    tags: [
+      "與規則相抵觸",
+      "箭頭往右卻硬扳左",
+      "violate",
+      "law",
+      "policy",
+      "verb",
+      "contravene"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 contravene 和 violate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像箭頭明明指向右邊，你卻硬把車頭扳向左邊。"
+      },
+      {
+        id: "sentence",
+        label: "用 contravene the law 或 contravene policy 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "contrition",
+    word: "Contrition",
+    partOfSpeech: "noun",
+    href: "./contrition.html",
+    order: 374,
+    cefr: "C2",
+    zipf: 2.44,
+    thesis: "不是嘴上說抱歉，而是心裡真的被自己的錯刺到。",
+    tags: [
+      "真誠悔意",
+      "手碰到自己打碎的碎片",
+      "regret",
+      "apology",
+      "ethics",
+      "noun",
+      "contrition"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 contrition 和 regret 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手碰到自己打破的碎片，不只知道它碎了，還會真切感到那道痛。"
+      },
+      {
+        id: "sentence",
+        label: "用 show contrition 或 public contrition 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "covet",
+    word: "Covet",
+    partOfSpeech: "verb",
+    href: "./covet.html",
+    order: 375,
+    cefr: "C2",
+    zipf: 2.53,
+    thesis: "不是普通想要，而是盯上了別人已經擁有的東西。",
+    tags: [
+      "覬覦別人的",
+      "視線黏在那把鑰匙上",
+      "want",
+      "desire",
+      "competition",
+      "verb",
+      "covet"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 covet 和 want 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像視線一直黏在別人手上的那把鑰匙，腦中已經開始想像它在自己口袋裡。"
+      },
+      {
+        id: "sentence",
+        label: "用 covet the position 或 covet their success 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "cower",
+    word: "Cower",
+    partOfSpeech: "verb",
+    href: "./cower.html",
+    order: 376,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是單純躲，而是整個人因害怕而縮起來。",
+    tags: [
+      "因害怕縮起來",
+      "連呼吸都變小聲",
+      "hide",
+      "fear",
+      "power",
+      "verb",
+      "cower"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cower 和 hide 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像狗聽到雷聲後把身體壓到角落，連呼吸都變小聲。"
+      },
+      {
+        id: "sentence",
+        label: "用 cower in fear 或 cower before authority 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "cursory",
+    word: "Cursory",
+    partOfSpeech: "adjective",
+    href: "./cursory.html",
+    order: 377,
+    cefr: "C1",
+    zipf: 2.64,
+    thesis: "不是精簡，而是快到只擦過表面。",
+    tags: [
+      "草率粗略",
+      "只從門口掃過一下",
+      "superficial",
+      "review",
+      "inspection",
+      "adjective",
+      "cursory"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cursory 和 superficial 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手電只從房間門口掃過一下，亮過的地方不代表真的看清了。"
+      },
+      {
+        id: "sentence",
+        label: "用 cursory review 或 cursory glance 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "cynical",
+    word: "Cynical",
+    partOfSpeech: "adjective",
+    href: "./cynical.html",
+    order: 378,
+    cefr: "C1",
+    zipf: 3.08,
+    thesis: "不是保留懷疑，而是先假定背後多半沒有那麼好。",
+    tags: [
+      "先假定沒那麼好",
+      "收到禮物先猜你想換什麼",
+      "skeptical",
+      "trust",
+      "politics",
+      "adjective",
+      "cynical"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 cynical 和 skeptical 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像收到禮物先不看包裝，而是先猜送的人想換到什麼。"
+      },
+      {
+        id: "sentence",
+        label: "用 cynical view 或 cynical joke 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "daunt",
+    word: "Daunt",
+    partOfSpeech: "verb",
+    href: "./daunt.html",
+    order: 379,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是直接打倒，而是先把勇氣往下壓。",
+    tags: [
+      "先把勇氣壓下去",
+      "抬頭就覺得腿軟",
+      "intimidate",
+      "challenge",
+      "scale",
+      "verb",
+      "daunt"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 daunt 和 intimidate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像山還沒開始爬，抬頭看見坡度就先覺得腿軟。"
+      },
+      {
+        id: "sentence",
+        label: "用 daunt the newcomer 或 seem daunting 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "debase",
+    word: "Debase",
+    partOfSpeech: "verb",
+    href: "./debase.html",
+    order: 380,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是單純降低，而是把原本有分量的東西拉得更廉價或更低俗。",
+    tags: [
+      "拉低價值",
+      "純金裡摻太多雜質",
+      "degrade",
+      "value",
+      "ethics",
+      "verb",
+      "debase"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 debase 和 degrade 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像純金裡摻進太多雜質，還看得到光，但不再那麼貴重。"
+      },
+      {
+        id: "sentence",
+        label: "用 debase the discussion 或 debase the currency 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "debilitate",
+    word: "Debilitate",
+    partOfSpeech: "verb",
+    href: "./debilitate.html",
+    order: 381,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是累而已，而是弱到原本能做的事開始做不動。",
+    tags: [
+      "弱到影響功能",
+      "電池掉到開機都吃力",
+      "weaken",
+      "health",
+      "systems",
+      "verb",
+      "debilitate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 debilitate 和 weaken 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像電池不是掉一格，而是掉到連開機都變得吃力。"
+      },
+      {
+        id: "sentence",
+        label: "用 debilitating illness 或 debilitate the network 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "debunk",
+    word: "Debunk",
+    partOfSpeech: "verb",
+    href: "./debunk.html",
+    order: 382,
+    cefr: "C1",
+    zipf: 2.79,
+    thesis: "不是單純不同意，而是把它拆到大家看見原來站不住。",
+    tags: [
+      "揭穿站不住",
+      "拉開布幕只剩紙板",
+      "disprove",
+      "myth",
+      "fact-checking",
+      "verb",
+      "debunk"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 debunk 和 disprove 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把舞台布幕一拉開，後面那些看似巨大可怕的影子全變回紙板。"
+      },
+      {
+        id: "sentence",
+        label: "用 debunk the myth 或 debunk the rumor 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "decadent",
+    word: "Decadent",
+    partOfSpeech: "adjective",
+    href: "./decadent.html",
+    order: 383,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是精緻享受而已，而是過度華麗到有點腐敗。",
+    tags: [
+      "奢靡到過量",
+      "奶油堆到太多",
+      "luxury",
+      "culture",
+      "style",
+      "adjective",
+      "decadent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 decadent 和 lavish 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像蛋糕上的奶油一層又一層，已經不是為了好吃，而是為了堆出過量。"
+      },
+      {
+        id: "sentence",
+        label: "用 decadent dessert 或 decadent lifestyle 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "decipher",
+    word: "Decipher",
+    partOfSpeech: "verb",
+    href: "./decipher.html",
+    order: 384,
+    cefr: "C1",
+    zipf: 2.88,
+    thesis: "不是一眼看懂，而是慢慢把混亂訊號拆成可讀的內容。",
+    tags: [
+      "從亂訊號讀出意思",
+      "一格格撿回旋律",
+      "decode",
+      "signals",
+      "analysis",
+      "verb",
+      "decipher"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 decipher 和 decode 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像在雜訊很重的頻道裡，一格一格把真正的旋律撿出來。"
+      },
+      {
+        id: "sentence",
+        label: "用 decipher the signal 或 decipher the note 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "defiant",
+    word: "Defiant",
+    partOfSpeech: "adjective",
+    href: "./defiant.html",
+    order: 385,
+    cefr: "C1",
+    zipf: 2.91,
+    thesis: "不是低調不服，而是把不服寫在表情和動作上。",
+    tags: [
+      "公開不服",
+      "旗子往反方向張開",
+      "stubborn",
+      "resistance",
+      "authority",
+      "adjective",
+      "defiant"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 defiant 和 stubborn 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像風已經很大，旗子卻不是垂下來，而是更用力往反方向張開。"
+      },
+      {
+        id: "sentence",
+        label: "用 defiant tone 或 defiant stance 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "defer",
+    word: "Defer",
+    partOfSpeech: "verb",
+    href: "./defer.html",
+    order: 386,
+    cefr: "C1",
+    zipf: 2.96,
+    thesis: "不是放棄，而是先把它排到更後面處理。",
+    tags: [
+      "先排到後面",
+      "整張移到下一頁",
+      "postpone",
+      "scheduling",
+      "decision",
+      "verb",
+      "defer"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 defer 和 postpone 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像桌上待辦不是撕掉，而是整張移到下一頁繼續等。"
+      },
+      {
+        id: "sentence",
+        label: "用 defer the decision 或 defer payment 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "denounce",
+    word: "Denounce",
+    partOfSpeech: "verb",
+    href: "./denounce.html",
+    order: 387,
+    cefr: "C1",
+    zipf: 2.93,
+    thesis: "不是私下抱怨，而是站出來明白說這件事不行。",
+    tags: [
+      "公開斥責",
+      "把警報器按下去",
+      "condemn",
+      "public",
+      "ethics",
+      "verb",
+      "denounce"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 denounce 和 condemn 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把警報器按下去，不只提醒自己，而是讓整棟樓都聽見。"
+      },
+      {
+        id: "sentence",
+        label: "用 denounce corruption 或 denounce the practice 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "deprecate",
+    word: "Deprecate",
+    partOfSpeech: "verb",
+    href: "./deprecate.html",
+    order: 388,
+    cefr: "C2",
+    zipf: 2.38,
+    thesis: "不是隨便嫌，而是認為它不該再被鼓勵或使用。",
+    tags: [
+      "表達不贊成",
+      "裂橋前掛警示牌",
+      "criticize",
+      "maintenance",
+      "ethics",
+      "verb",
+      "deprecate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 deprecate 和 criticize 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像看見舊橋已經裂開，主動在入口掛上不建議通行的牌子。"
+      },
+      {
+        id: "sentence",
+        label: "用 deprecate the practice 或 deprecate old APIs 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "deride",
+    word: "Deride",
+    partOfSpeech: "verb",
+    href: "./deride.html",
+    order: 389,
+    cefr: "C2",
+    zipf: 2.54,
+    thesis: "不是開玩笑，而是把對方當成值得被看低的對象。",
+    tags: [
+      "輕蔑嘲弄",
+      "帶刺的笑聲先出來",
+      "mock",
+      "contempt",
+      "conflict",
+      "verb",
+      "deride"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 deride 和 mock 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像有人剛開口，旁邊就先傳來一陣帶刺的笑聲。"
+      },
+      {
+        id: "sentence",
+        label: "用 deride the proposal 或 deride as naive 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "desist",
+    word: "Desist",
+    partOfSpeech: "verb",
+    href: "./desist.html",
+    order: 390,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是自然結束，而是明確收手。",
+    tags: [
+      "明確收手",
+      "按下前把手停住",
+      "stop",
+      "warning",
+      "restraint",
+      "verb",
+      "desist"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 desist 和 stop 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手已經伸到按鈕前，最後還是在碰到前停住。"
+      },
+      {
+        id: "sentence",
+        label: "用 desist from the act 或 desist immediately 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "desolate",
+    word: "Desolate",
+    partOfSpeech: "adjective",
+    href: "./desolate.html",
+    order: 391,
+    cefr: "C1",
+    zipf: 2.82,
+    thesis: "不是安靜，而是安靜到只剩荒涼。",
+    tags: [
+      "荒涼空掉",
+      "風穿過空屋",
+      "lonely",
+      "landscape",
+      "emotion",
+      "adjective",
+      "desolate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 desolate 和 lonely 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像風穿過空屋，不是沒聲音，而是每一聲都顯得更空。"
+      },
+      {
+        id: "sentence",
+        label: "用 desolate landscape 或 feel desolate 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "dissipate",
+    word: "Dissipate",
+    partOfSpeech: "verb",
+    href: "./dissipate.html",
+    order: 392,
+    cefr: "C1",
+    zipf: 2.92,
+    thesis: "不是瞬間消失，而是慢慢散開、散淡。",
+    tags: [
+      "慢慢散開",
+      "日光把霧一層層推薄",
+      "disperse",
+      "heat",
+      "tension",
+      "verb",
+      "dissipate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 dissipate 和 disperse 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像晨霧不是被切掉，而是被日光一層層推薄。"
+      },
+      {
+        id: "sentence",
+        label: "用 dissipate the tension 或 dissipate heat 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "divest",
+    word: "Divest",
+    partOfSpeech: "verb",
+    href: "./divest.html",
+    order: 393,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是丟掉，而是有計畫地把持有的東西卸出去。",
+    tags: [
+      "有計畫卸出去",
+      "修掉過重枝條",
+      "sell",
+      "assets",
+      "restructuring",
+      "verb",
+      "divest"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 divest 和 sell 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像樹把過重的枝條修掉，不是因為討厭，而是為了讓整體活得更穩。"
+      },
+      {
+        id: "sentence",
+        label: "用 divest the assets 或 divest from fossil fuels 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "dogged",
+    word: "Dogged",
+    partOfSpeech: "adjective",
+    href: "./dogged.html",
+    order: 394,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是熱血一陣，而是被擋住很多次還繼續往前鑽。",
+    tags: [
+      "頑強不放棄",
+      "鞋重了步子還沒停",
+      "determined",
+      "persistence",
+      "effort",
+      "adjective",
+      "dogged"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 dogged 和 determined 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像雨天裡一路濕著往前走，鞋重了、風大了，但步子沒停。"
+      },
+      {
+        id: "sentence",
+        label: "用 dogged pursuit 或 dogged effort 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "dovetail",
+    word: "Dovetail",
+    partOfSpeech: "verb",
+    href: "./dovetail.html",
+    order: 395,
+    cefr: "C1",
+    zipf: 2.51,
+    thesis: "不是碰巧相近，而是像本來就設計成能扣在一起。",
+    tags: [
+      "自然扣合",
+      "像榫接一推就卡住",
+      "match",
+      "integration",
+      "scheduling",
+      "verb",
+      "dovetail"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 dovetail 和 match 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像木工的榫接，一推進去就剛好卡住，不鬆也不擠。"
+      },
+      {
+        id: "sentence",
+        label: "用 dovetail with the plan 或 dovetail nicely 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "drastic",
+    word: "Drastic",
+    partOfSpeech: "adjective",
+    href: "./drastic.html",
+    order: 396,
+    cefr: "C1",
+    zipf: 3.14,
+    thesis: "不是大動作而已，而是會把整個局面一下拉到另一邊。",
+    tags: [
+      "劇烈改變",
+      "直接把桿子扳到底",
+      "severe",
+      "change",
+      "crisis",
+      "adjective",
+      "drastic"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 drastic 和 severe 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像不是微調旋鈕，而是直接把整條桿子扳到底。"
+      },
+      {
+        id: "sentence",
+        label: "用 drastic measure 或 drastic cut 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ebb",
+    word: "Ebb",
+    partOfSpeech: "verb",
+    href: "./ebb.html",
+    order: 397,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是啪地消失，而是慢慢往後退，露出原本被蓋住的地方。",
+    tags: [
+      "逐漸退去",
+      "石頭慢慢重新露出",
+      "fade",
+      "energy",
+      "tide",
+      "verb",
+      "ebb"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ebb 和 fade 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像海水退下去後，岸邊的石頭一顆一顆重新露出來。"
+      },
+      {
+        id: "sentence",
+        label: "用 energy begins to ebb 或 interest ebbs 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "efface",
+    word: "Efface",
+    partOfSpeech: "verb",
+    href: "./efface.html",
+    order: 398,
+    cefr: "C2",
+    zipf: 2.31,
+    thesis: "不是遮一下，而是把痕跡盡量抹到看不見。",
+    tags: [
+      "抹去痕跡",
+      "腳印被海水洗平",
+      "erase",
+      "trace",
+      "cleanup",
+      "verb",
+      "efface"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 efface 和 erase 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像沙灘上的腳印被海水洗平，走過的人像沒來過。"
+      },
+      {
+        id: "sentence",
+        label: "用 efface the marks 或 efface yourself 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "elapse",
+    word: "Elapse",
+    partOfSpeech: "verb",
+    href: "./elapse.html",
+    order: 399,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是做了什麼，而是時間自己默默走過去。",
+    tags: [
+      "時間流逝",
+      "沙漏自己穩穩往下掉",
+      "pass",
+      "time",
+      "process",
+      "verb",
+      "elapse"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 elapse 和 pass 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像沙漏不是誰在推它，卻還是一粒一粒穩穩往下掉。"
+      },
+      {
+        id: "sentence",
+        label: "用 hours elapsed 或 time elapses quickly 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "elucidate",
+    word: "Elucidate",
+    partOfSpeech: "verb",
+    href: "./elucidate.html",
+    order: 400,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是只丟答案，而是把原本混霧的地方一層層照亮。",
+    tags: [
+      "層層講清楚",
+      "把霧裡路標擦乾淨",
+      "clarify",
+      "teaching",
+      "research",
+      "verb",
+      "elucidate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 elucidate 和 clarify 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把多層霧氣中的路標一個一個擦乾淨，終於知道該往哪走。"
+      },
+      {
+        id: "sentence",
+        label: "用 elucidate the mechanism 或 elucidate the point 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "emanate",
+    word: "Emanate",
+    partOfSpeech: "verb",
+    href: "./emanate.html",
+    order: 401,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是突然掉下來，而是從某個中心往外散出去。",
+    tags: [
+      "從源頭散出",
+      "亮意慢慢推開四周",
+      "radiate",
+      "source",
+      "atmosphere",
+      "verb",
+      "emanate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 emanate 和 radiate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像房間角落點了一盞燈，亮意慢慢把四周都推開。"
+      },
+      {
+        id: "sentence",
+        label: "用 emanate from the room 或 warmth emanates 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "embitter",
+    word: "Embitter",
+    partOfSpeech: "verb",
+    href: "./embitter.html",
+    order: 402,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是只讓人難過，而是讓心裡整體變苦。",
+    tags: [
+      "讓心裡變苦",
+      "整杯茶都苦掉了",
+      "upset",
+      "resentment",
+      "relationships",
+      "verb",
+      "embitter"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 embitter 和 upset 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像茶本來溫熱可入口，卻被滴進太多苦汁，整杯味道都變了。"
+      },
+      {
+        id: "sentence",
+        label: "用 embitter a generation 或 embittered by loss 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "embellish",
+    word: "Embellish",
+    partOfSpeech: "verb",
+    href: "./embellish.html",
+    order: 403,
+    cefr: "C1",
+    zipf: 2.69,
+    thesis: "不是補必要資訊，而是再多加一些裝飾或戲劇性。",
+    tags: [
+      "額外加花",
+      "素布上縫亮線",
+      "decorate",
+      "writing",
+      "design",
+      "verb",
+      "embellish"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 embellish 和 decorate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像素色布料上又縫了一圈亮線，功能沒變，但外觀更抓眼。"
+      },
+      {
+        id: "sentence",
+        label: "用 embellish the story 或 embellish the design 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "enact",
+    word: "Enact",
+    partOfSpeech: "verb",
+    href: "./enact.html",
+    order: 404,
+    cefr: "C1",
+    zipf: 3.01,
+    thesis: "不是只提案，而是把文字真正變成現實中的效力。",
+    tags: [
+      "讓文字生效",
+      "藍圖變成路牌",
+      "implement",
+      "policy",
+      "law",
+      "verb",
+      "enact"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 enact 和 implement 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像藍圖離開桌面，真正變成街角已經豎起的路牌。"
+      },
+      {
+        id: "sentence",
+        label: "用 enact a law 或 enact reforms 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "endeavor",
+    word: "Endeavor",
+    partOfSpeech: "noun",
+    href: "./endeavor.html",
+    order: 405,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是隨手試試，而是帶著目的和投入往前推的一件事。",
+    tags: [
+      "有方向的努力",
+      "明知有浪還穩穩划",
+      "effort",
+      "project",
+      "pursuit",
+      "noun",
+      "endeavor"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 endeavor 和 effort 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像船不是在原地打轉，而是明知有浪還朝某個方向穩穩划。"
+      },
+      {
+        id: "sentence",
+        label: "用 joint endeavor 或 creative endeavor 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "enigma",
+    word: "Enigma",
+    partOfSpeech: "noun",
+    href: "./enigma.html",
+    order: 406,
+    cefr: "C2",
+    zipf: 2.66,
+    thesis: "不是一個小問題，而是整體都透著解不開的感覺。",
+    tags: [
+      "難解之謎",
+      "看見輪廓卻看不清臉",
+      "mystery",
+      "analysis",
+      "persona",
+      "noun",
+      "enigma"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 enigma 和 mystery 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像窗內有人影在走動，你看見輪廓很多次，卻始終看不清臉。"
+      },
+      {
+        id: "sentence",
+        label: "用 remain an enigma 或 political enigma 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ennui",
+    word: "Ennui",
+    partOfSpeech: "noun",
+    href: "./ennui.html",
+    order: 407,
+    cefr: "C2",
+    zipf: 2.31,
+    thesis: "不是一時無聊，而是整個人對周圍失去鮮味。",
+    tags: [
+      "深層倦怠",
+      "味覺像被薄霧蓋住",
+      "boredom",
+      "emotion",
+      "culture",
+      "noun",
+      "ennui"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ennui 和 boredom 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像桌上菜還很多，但味覺像被薄霧蓋住，怎樣都提不起勁。"
+      },
+      {
+        id: "sentence",
+        label: "用 urban ennui 或 sink into ennui 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "enshrine",
+    word: "Enshrine",
+    partOfSpeech: "verb",
+    href: "./enshrine.html",
+    order: 408,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是暫時保留，而是把它放進不易被動搖的位置。",
+    tags: [
+      "正式珍藏",
+      "放進玻璃框裡",
+      "preserve",
+      "rights",
+      "memory",
+      "verb",
+      "enshrine"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 enshrine 和 preserve 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把一張重要紙頁放進玻璃框裡，從此不再只是隨手放著。"
+      },
+      {
+        id: "sentence",
+        label: "用 enshrine the right 或 enshrine the principle 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "enumerate",
+    word: "Enumerate",
+    partOfSpeech: "verb",
+    href: "./enumerate.html",
+    order: 409,
+    cefr: "C1",
+    zipf: 2.59,
+    thesis: "不是籠統提到，而是逐條點清楚。",
+    tags: [
+      "逐條點清楚",
+      "零件一個個排開",
+      "list",
+      "steps",
+      "documentation",
+      "verb",
+      "enumerate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 enumerate 和 list 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像桌上零件一個一個排開，讓你知道缺的是哪一顆。"
+      },
+      {
+        id: "sentence",
+        label: "用 enumerate the steps 或 enumerate the risks 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "equivocal",
+    word: "Equivocal",
+    partOfSpeech: "adjective",
+    href: "./equivocal.html",
+    order: 410,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是細膩，而是模稜到你抓不到他到底站哪邊。",
+    tags: [
+      "模稜兩可",
+      "箭頭同時偏左右",
+      "ambiguous",
+      "language",
+      "stance",
+      "adjective",
+      "equivocal"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 equivocal 和 ambiguous 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像路標箭頭同時偏向左右兩邊，走的人反而更不敢動。"
+      },
+      {
+        id: "sentence",
+        label: "用 equivocal answer 或 equivocal language 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "eradicate",
+    word: "Eradicate",
+    partOfSpeech: "verb",
+    href: "./eradicate.html",
+    order: 411,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是壓下去，而是連根一起清掉。",
+    tags: [
+      "連根清掉",
+      "拔草把根一起拉出",
+      "eliminate",
+      "health",
+      "governance",
+      "verb",
+      "eradicate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 eradicate 和 eliminate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像拔雜草不是剪掉上面，而是把根一併拉出土。"
+      },
+      {
+        id: "sentence",
+        label: "用 eradicate the disease 或 eradicate corruption 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "exacerbate",
+    word: "Exacerbate",
+    partOfSpeech: "verb",
+    href: "./exacerbate.html",
+    order: 412,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是造成新問題，而是把原來就有的痛點再往上推。",
+    tags: [
+      "讓壞的更壞",
+      "傷口被碰到更紅腫",
+      "worsen",
+      "conflict",
+      "symptoms",
+      "verb",
+      "exacerbate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 exacerbate 和 worsen 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像傷口本來就在滲，結果又被反覆碰到，紅腫更快擴大。"
+      },
+      {
+        id: "sentence",
+        label: "用 exacerbate the conflict 或 exacerbate symptoms 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "exalt",
+    word: "Exalt",
+    partOfSpeech: "verb",
+    href: "./exalt.html",
+    order: 413,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是肯定而已，而是幾乎把它捧到很高的位置。",
+    tags: [
+      "高高捧起",
+      "放上高臺打燈",
+      "praise",
+      "culture",
+      "brand",
+      "verb",
+      "exalt"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 exalt 和 praise 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把一件普通器物放上高臺打燈，所有人的視線都被引上去。"
+      },
+      {
+        id: "sentence",
+        label: "用 exalt the hero 或 exalt virtue 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "exasperate",
+    word: "Exasperate",
+    partOfSpeech: "verb",
+    href: "./exasperate.html",
+    order: 414,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是惹煩而已，而是煩到忍耐層被磨穿。",
+    tags: [
+      "把耐心磨穿",
+      "鬧鐘一直反覆敲",
+      "annoy",
+      "frustration",
+      "delays",
+      "verb",
+      "exasperate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 exasperate 和 annoy 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像鬧鐘不是響一次，而是隔幾分鐘就再敲一遍，直到神經整條繃起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 exasperate the team 或 exasperated by delays 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "exonerate",
+    word: "Exonerate",
+    partOfSpeech: "verb",
+    href: "./exonerate.html",
+    order: 415,
+    cefr: "C2",
+    zipf: 2.51,
+    thesis: "不是原諒，而是證明他本來就不該背這個鍋。",
+    tags: [
+      "證明無辜",
+      "把陰影從頭上掀開",
+      "clear",
+      "justice",
+      "responsibility",
+      "verb",
+      "exonerate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 exonerate 和 clear 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像原本罩在頭上的陰影被掀開，光重新落回那個人身上。"
+      },
+      {
+        id: "sentence",
+        label: "用 exonerate the suspect 或 exonerate the team 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "expound",
+    word: "Expound",
+    partOfSpeech: "verb",
+    href: "./expound.html",
+    order: 416,
+    cefr: "C2",
+    zipf: 2.34,
+    thesis: "不是回答一句，而是把整套想法完整展開。",
+    tags: [
+      "完整展開",
+      "把折疊地圖慢慢攤平",
+      "explain",
+      "theory",
+      "teaching",
+      "verb",
+      "expound"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 expound 和 explain 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把折著的地圖一層層攤平，讓路線終於全都看見。"
+      },
+      {
+        id: "sentence",
+        label: "用 expound a theory 或 expound on the method 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "extol",
+    word: "Extol",
+    partOfSpeech: "verb",
+    href: "./extol.html",
+    order: 417,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是簡單稱讚，而是一路把它的好往上堆。",
+    tags: [
+      "盛讚稱頌",
+      "一層層掛上花環",
+      "celebrate",
+      "praise",
+      "marketing",
+      "verb",
+      "extol"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 extol 和 celebrate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一層層把花環掛上去，直到那個名字幾乎被光和掌聲包起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 extol the virtues 或 extol the product 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "extraneous",
+    word: "Extraneous",
+    partOfSpeech: "adjective",
+    href: "./extraneous.html",
+    order: 418,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是多一點而已，而是多到和核心無關。",
+    tags: [
+      "多餘無關",
+      "機殼裡多塞不接端點的線",
+      "irrelevant",
+      "editing",
+      "noise",
+      "adjective",
+      "extraneous"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 extraneous 和 irrelevant 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像機殼裡多塞了幾根不接任何端點的線，只會增加雜亂。"
+      },
+      {
+        id: "sentence",
+        label: "用 extraneous detail 或 extraneous variable 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "exuberant",
+    word: "Exuberant",
+    partOfSpeech: "adjective",
+    href: "./exuberant.html",
+    order: 419,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是開心而已，而是整個人或整個場景都滿到往外溢。",
+    tags: [
+      "活力滿溢",
+      "泡泡滿到還一直冒",
+      "energetic",
+      "style",
+      "mood",
+      "adjective",
+      "exuberant"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 exuberant 和 energetic 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像杯口已經滿了，泡泡還在一直冒上來。"
+      },
+      {
+        id: "sentence",
+        label: "用 exuberant mood 或 exuberant growth 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "fabricate",
+    word: "Fabricate",
+    partOfSpeech: "verb",
+    href: "./fabricate.html",
+    order: 420,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是想像，而是編出來後拿去當真。",
+    tags: [
+      "捏造當真",
+      "空白紙上硬畫出指紋",
+      "invent",
+      "evidence",
+      "trust",
+      "verb",
+      "fabricate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 fabricate 和 invent 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像空白紙上硬畫出指紋，再說那一直都在。"
+      },
+      {
+        id: "sentence",
+        label: "用 fabricate evidence 或 fabricate a story 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "feign",
+    word: "Feign",
+    partOfSpeech: "verb",
+    href: "./feign.html",
+    order: 421,
+    cefr: "C2",
+    zipf: 2.54,
+    thesis: "不是真的感受，而是演出來讓人相信。",
+    tags: [
+      "佯裝假裝",
+      "臉上貼了一層臨時表情",
+      "pretend",
+      "emotion",
+      "strategy",
+      "verb",
+      "feign"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 feign 和 pretend 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像臉上貼了一層臨時表情，底下真實的神色還藏著。"
+      },
+      {
+        id: "sentence",
+        label: "用 feign ignorance 或 feign surprise 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "fervent",
+    word: "Fervent",
+    partOfSpeech: "adjective",
+    href: "./fervent.html",
+    order: 422,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是熱情一下，而是心裡長時間都燒得很亮。",
+    tags: [
+      "熱烈真摯",
+      "整夜都穩穩發熱",
+      "passionate",
+      "belief",
+      "support",
+      "adjective",
+      "fervent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 fervent 和 passionate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像火爐不是閃一瞬，而是整夜都穩穩發熱。"
+      },
+      {
+        id: "sentence",
+        label: "用 fervent supporter 或 fervent hope 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "foreshadow",
+    word: "Foreshadow",
+    partOfSpeech: "verb",
+    href: "./foreshadow.html",
+    order: 423,
+    cefr: "C1",
+    zipf: 2.62,
+    thesis: "不是直接公布，而是先投下一道影子。",
+    tags: [
+      "先投下影子",
+      "風向先變了",
+      "hint",
+      "narrative",
+      "signals",
+      "verb",
+      "foreshadow"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 foreshadow 和 hint 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像午後的風先變了方向，晚點的暴雨已經在遠處集結。"
+      },
+      {
+        id: "sentence",
+        label: "用 foreshadow the ending 或 foreshadow trouble 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "forfeit",
+    word: "Forfeit",
+    partOfSpeech: "verb",
+    href: "./forfeit.html",
+    order: 424,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是一般失去，而是因為違規、放棄或代價交換而失掉。",
+    tags: [
+      "因代價而喪失",
+      "票被收回去了",
+      "lose",
+      "penalty",
+      "opportunity",
+      "verb",
+      "forfeit"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 forfeit 和 lose 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手上握著的票不是掉了，而是因為一步走錯被收回去。"
+      },
+      {
+        id: "sentence",
+        label: "用 forfeit the deposit 或 forfeit the game 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "forsake",
+    word: "Forsake",
+    partOfSpeech: "verb",
+    href: "./forsake.html",
+    order: 425,
+    cefr: "C2",
+    zipf: 2.47,
+    thesis: "不是單純離開，而是離開一個你原本曾經依附或承諾過的東西。",
+    tags: [
+      "背離舊依附",
+      "把舊地圖折起來",
+      "abandon",
+      "change",
+      "principle",
+      "verb",
+      "forsake"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 forsake 和 abandon 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把陪你走很遠的舊地圖折起來，決定再也不照它走。"
+      },
+      {
+        id: "sentence",
+        label: "用 forsake old habits 或 forsake the cause 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "fortify",
+    word: "Fortify",
+    partOfSpeech: "verb",
+    href: "./fortify.html",
+    order: 426,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是修補一下，而是提前把它補到更能撐。",
+    tags: [
+      "提前補強",
+      "暴風前先多釘幾道",
+      "strengthen",
+      "protection",
+      "argument",
+      "verb",
+      "fortify"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 fortify 和 strengthen 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像在暴風前先把窗框多釘幾道，讓風來時不至於整片掀掉。"
+      },
+      {
+        id: "sentence",
+        label: "用 fortify the wall 或 fortify the argument 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "fracture",
+    word: "Fracture",
+    partOfSpeech: "verb",
+    href: "./fracture.html",
+    order: 427,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是完全粉碎，而是先裂開，內部連續性被打斷。",
+    tags: [
+      "裂開出痕",
+      "玻璃出現第一道白線",
+      "break",
+      "materials",
+      "relationships",
+      "verb",
+      "fracture"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 fracture 和 break 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像玻璃上先出現一道白線，整塊還在，但完整性已經回不去。"
+      },
+      {
+        id: "sentence",
+        label: "用 fracture the bone 或 fracture the alliance 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "fray",
+    word: "Fray",
+    partOfSpeech: "verb",
+    href: "./fray.html",
+    order: 428,
+    cefr: "C1",
+    zipf: 2.61,
+    thesis: "不是突然斷，而是邊緣慢慢起毛、失去整齊。",
+    tags: [
+      "邊緣起毛",
+      "繩子先從端點散開",
+      "wear",
+      "stress",
+      "materials",
+      "verb",
+      "fray"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 fray 和 wear 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像繩子兩端一點點散開，最先鬆的總是邊緣。"
+      },
+      {
+        id: "sentence",
+        label: "用 nerves begin to fray 或 fray at the edges 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "frenetic",
+    word: "Frenetic",
+    partOfSpeech: "adjective",
+    href: "./frenetic.html",
+    order: 429,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是忙而已，而是忙到節奏都快失控。",
+    tags: [
+      "忙到快失控",
+      "齒輪高速咬合不停",
+      "hectic",
+      "pace",
+      "market",
+      "adjective",
+      "frenetic"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 frenetic 和 hectic 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像整排齒輪都在高速咬合，聲音大到讓人分不清哪個先壞。"
+      },
+      {
+        id: "sentence",
+        label: "用 frenetic pace 或 frenetic trading 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "futile",
+    word: "Futile",
+    partOfSpeech: "adjective",
+    href: "./futile.html",
+    order: 430,
+    cefr: "C1",
+    zipf: 2.85,
+    thesis: "不是難成功，而是做了也很難改變結果。",
+    tags: [
+      "徒勞無效",
+      "拿小杯子去擋決堤水",
+      "useless",
+      "effort",
+      "strategy",
+      "adjective",
+      "futile"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 futile 和 useless 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像用小杯子去擋決堤的水，不是你不努力，而是量級根本不對。"
+      },
+      {
+        id: "sentence",
+        label: "用 futile effort 或 futile attempt 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "gamut",
+    word: "Gamut",
+    partOfSpeech: "noun",
+    href: "./gamut.html",
+    order: 431,
+    cefr: "C1",
+    zipf: 2.60,
+    thesis: "不是幾種，而是整條範圍都包進去。",
+    tags: [
+      "完整光譜",
+      "鋼琴鍵一整排都打開",
+      "range",
+      "scope",
+      "services",
+      "noun",
+      "gamut"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 gamut 和 range 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像鋼琴鍵從最低到最高一整排都打開，沒有哪一段被省略。"
+      },
+      {
+        id: "sentence",
+        label: "用 run the gamut 或 full gamut of services 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "glib",
+    word: "Glib",
+    partOfSpeech: "adjective",
+    href: "./glib.html",
+    order: 432,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是會說，而是說得太順，順到讓人懷疑是不是沒真正想過。",
+    tags: [
+      "流利但空",
+      "桌面太亮反而可疑",
+      "slick",
+      "communication",
+      "sincerity",
+      "adjective",
+      "glib"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 glib 和 slick 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像桌面擦得很亮，卻亮到你懷疑底下是不是沒放真正的東西。"
+      },
+      {
+        id: "sentence",
+        label: "用 glib answer 或 glib remark 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "gratify",
+    word: "Gratify",
+    partOfSpeech: "verb",
+    href: "./gratify.html",
+    order: 433,
+    cefr: "C1",
+    zipf: 2.65,
+    thesis: "不是只讓人開心，而是剛好滿足那個期待或欲望。",
+    tags: [
+      "帶來滿足",
+      "卡住的鎖終於順開",
+      "please",
+      "satisfaction",
+      "experience",
+      "verb",
+      "gratify"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 gratify 和 please 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像門鎖卡了很久終於順暢轉開，那種對上的感覺一下回來。"
+      },
+      {
+        id: "sentence",
+        label: "用 gratify the audience 或 gratify curiosity 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "gregarious",
+    word: "Gregarious",
+    partOfSpeech: "adjective",
+    href: "./gregarious.html",
+    order: 434,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是不怕人，而是從和人互動裡得到能量。",
+    tags: [
+      "天生合群",
+      "進人群就亮起來",
+      "sociable",
+      "personality",
+      "social",
+      "adjective",
+      "gregarious"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 gregarious 和 sociable 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像植物一靠近陽光就伸展，而他一走進人群就整個亮起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 gregarious personality 或 gregarious host 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "gullible",
+    word: "Gullible",
+    partOfSpeech: "adjective",
+    href: "./gullible.html",
+    order: 435,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是善良而已，而是警覺門檻低到容易被帶走。",
+    tags: [
+      "容易輕信",
+      "門鎖還沒裝好就先信了",
+      "naive",
+      "trust",
+      "scam",
+      "adjective",
+      "gullible"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 gullible 和 naive 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像門鎖還沒裝好，別人一推，整間屋子就先信了來客。"
+      },
+      {
+        id: "sentence",
+        label: "用 gullible audience 或 gullible investor 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "holistic",
+    word: "Holistic",
+    partOfSpeech: "adjective",
+    href: "./holistic.html",
+    order: 436,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是每塊都不看，而是把零件之間的關係也一起看進去。",
+    tags: [
+      "看整體關係",
+      "先看整台機器怎麼轉",
+      "comprehensive",
+      "systems",
+      "design",
+      "adjective",
+      "holistic"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 holistic 和 comprehensive 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像不是只修單一齒輪，而是先停下來看整台機器怎麼一起轉。"
+      },
+      {
+        id: "sentence",
+        label: "用 holistic approach 或 holistic care 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "hubris",
+    word: "Hubris",
+    partOfSpeech: "noun",
+    href: "./hubris.html",
+    order: 437,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是自信，而是高到開始看不見自己的限度。",
+    tags: [
+      "傲慢失明",
+      "把雲層當成地面",
+      "arrogance",
+      "power",
+      "tragedy",
+      "noun",
+      "hubris"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 hubris 和 arrogance 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像飛得太高的人誤把雲層當地面，以為再往上也不會有事。"
+      },
+      {
+        id: "sentence",
+        label: "用 hubris of power 或 corporate hubris 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "illicit",
+    word: "Illicit",
+    partOfSpeech: "adjective",
+    href: "./illicit.html",
+    order: 438,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是偷偷而已，而是本身就不被允許。",
+    tags: [
+      "非法違規",
+      "後門本來就不該開",
+      "illegal",
+      "compliance",
+      "security",
+      "adjective",
+      "illicit"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 illicit 和 illegal 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像後門不是剛好沒人看，而是從一開始就不該被打開。"
+      },
+      {
+        id: "sentence",
+        label: "用 illicit trade 或 illicit payment 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "immutable",
+    word: "Immutable",
+    partOfSpeech: "adjective",
+    href: "./immutable.html",
+    order: 439,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是暫時穩定，而是設定後就不打算再動。",
+    tags: [
+      "不可變更",
+      "刻在石頭上的痕",
+      "fixed",
+      "data",
+      "principle",
+      "adjective",
+      "immutable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 immutable 和 fixed 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像石頭上刻下的刻痕，不像白板字一擦就能改。"
+      },
+      {
+        id: "sentence",
+        label: "用 immutable data 或 immutable rule 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "impasse",
+    word: "Impasse",
+    partOfSpeech: "noun",
+    href: "./impasse.html",
+    order: 440,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是慢下來，而是雙方或整件事卡到沒有出口。",
+    tags: [
+      "卡到沒出口",
+      "窄巷裡兩車對住",
+      "deadlock",
+      "negotiation",
+      "blocker",
+      "noun",
+      "impasse"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 impasse 和 deadlock 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像兩輛車在窄巷正面卡住，誰都過不去，也都不願先退。"
+      },
+      {
+        id: "sentence",
+        label: "用 reach an impasse 或 budget impasse 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "impede",
+    word: "Impede",
+    partOfSpeech: "verb",
+    href: "./impede.html",
+    order: 441,
+    cefr: "C1",
+    zipf: 2.79,
+    thesis: "不是完全阻止，而是讓前進變得很難。",
+    tags: [
+      "拖慢前進",
+      "鞋底黏到厚泥",
+      "hinder",
+      "progress",
+      "recovery",
+      "verb",
+      "impede"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 impede 和 hinder 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像鞋底黏到厚泥，不是不能走，但每一步都被拉住。"
+      },
+      {
+        id: "sentence",
+        label: "用 impede progress 或 impede recovery 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "imperil",
+    word: "Imperil",
+    partOfSpeech: "verb",
+    href: "./imperil.html",
+    order: 442,
+    cefr: "C1",
+    zipf: 2.53,
+    thesis: "不是已經毀掉，而是把它推到危險邊緣。",
+    tags: [
+      "推到危險邊緣",
+      "玻璃杯被移到桌角",
+      "endanger",
+      "safety",
+      "risk",
+      "verb",
+      "imperil"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 imperil 和 endanger 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把玻璃杯移到桌角，它還沒掉，但風險已經被放大。"
+      },
+      {
+        id: "sentence",
+        label: "用 imperil the mission 或 imperil safety 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "impinge",
+    word: "Impinge",
+    partOfSpeech: "verb",
+    href: "./impinge.html",
+    order: 443,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是單純接觸，而是伸進去碰到了原本不該被碰的邊界。",
+    tags: [
+      "壓到別人邊界",
+      "牆長到擋住鄰居的光",
+      "encroach",
+      "privacy",
+      "boundary",
+      "verb",
+      "impinge"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 impinge 和 encroach 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一堵牆慢慢往旁邊長，最後連鄰居窗戶的光也被擋掉。"
+      },
+      {
+        id: "sentence",
+        label: "用 impinge on privacy 或 impinge on time 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "impute",
+    word: "Impute",
+    partOfSpeech: "verb",
+    href: "./impute.html",
+    order: 444,
+    cefr: "C2",
+    zipf: 2.34,
+    thesis: "不是只是看到結果，而是把背後原因算到某人頭上。",
+    tags: [
+      "把原因算到誰頭上",
+      "帳本缺口要追名下",
+      "attribute",
+      "blame",
+      "motive",
+      "verb",
+      "impute"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 impute 和 attribute 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像帳本上有一筆缺口，大家開始追著問這一筆到底記在誰名下。"
+      },
+      {
+        id: "sentence",
+        label: "用 impute motives 或 impute blame 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "inane",
+    word: "Inane",
+    partOfSpeech: "adjective",
+    href: "./inane.html",
+    order: 445,
+    cefr: "C2",
+    zipf: 2.35,
+    thesis: "不是簡單，而是空到幾乎沒有內容。",
+    tags: [
+      "空洞無意義",
+      "盒子裡只剩泡棉",
+      "silly",
+      "commentary",
+      "media",
+      "adjective",
+      "inane"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inane 和 silly 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像盒子外面印得很滿，打開卻只剩一團沒用的泡棉。"
+      },
+      {
+        id: "sentence",
+        label: "用 inane comment 或 inane chatter 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "indict",
+    word: "Indict",
+    partOfSpeech: "verb",
+    href: "./indict.html",
+    order: 446,
+    cefr: "C2",
+    zipf: 2.61,
+    thesis: "不是一般指責，而是進入正式程序，準備追究。",
+    tags: [
+      "正式起訴",
+      "檔案被推上審判桌",
+      "charge",
+      "law",
+      "accountability",
+      "verb",
+      "indict"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 indict 和 charge 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像檔案不是放進抽屜，而是被推上審判桌開始有後續。"
+      },
+      {
+        id: "sentence",
+        label: "用 indict the suspect 或 indict the system 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "indignant",
+    word: "Indignant",
+    partOfSpeech: "adjective",
+    href: "./indignant.html",
+    order: 447,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是單純生氣，而是氣裡面帶著被冒犯和不公平感。",
+    tags: [
+      "因不公平而怒",
+      "被壓上一塊不該承受的石頭",
+      "angry",
+      "justice",
+      "response",
+      "adjective",
+      "indignant"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 indignant 和 angry 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像胸口不是被點燃，而是被硬生生壓上了一塊不該承受的石頭。"
+      },
+      {
+        id: "sentence",
+        label: "用 indignant response 或 indignant at the remark 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "induce",
+    word: "Induce",
+    partOfSpeech: "verb",
+    href: "./induce.html",
+    order: 448,
+    cefr: "C1",
+    zipf: 2.98,
+    thesis: "不是直接發生，而是由某個因素把它引出來。",
+    tags: [
+      "引出結果",
+      "按開關把亮度叫出來",
+      "cause",
+      "effect",
+      "persuasion",
+      "verb",
+      "induce"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 induce 和 cause 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像按下一個開關，不是燈自己亮，而是某個動作把亮度叫出來。"
+      },
+      {
+        id: "sentence",
+        label: "用 induce sleep 或 induce a response 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ineffable",
+    word: "Ineffable",
+    partOfSpeech: "adjective",
+    href: "./ineffable.html",
+    order: 449,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是不知道怎麼說，而是說了也會失掉那個感覺。",
+    tags: [
+      "難以言喻",
+      "越想抓緊越先散開",
+      "unspeakable",
+      "emotion",
+      "art",
+      "adjective",
+      "ineffable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ineffable 和 unspeakable 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像手心捧著一團薄霧，你越想抓緊，形狀越先散開。"
+      },
+      {
+        id: "sentence",
+        label: "用 ineffable beauty 或 ineffable sadness 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "inert",
+    word: "Inert",
+    partOfSpeech: "adjective",
+    href: "./inert.html",
+    order: 450,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是安靜，而是幾乎完全不動、不起反應。",
+    tags: [
+      "不動不反應",
+      "按下去也不回彈",
+      "inactive",
+      "materials",
+      "response",
+      "adjective",
+      "inert"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inert 和 inactive 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一顆按下去也不回彈的按鈕，表面在那裡，回應卻沒有來。"
+      },
+      {
+        id: "sentence",
+        label: "用 inert material 或 inert response 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "infiltrate",
+    word: "Infiltrate",
+    partOfSpeech: "verb",
+    href: "./infiltrate.html",
+    order: 451,
+    cefr: "C1",
+    zipf: 2.81,
+    thesis: "不是正面衝進去，而是從縫裡慢慢滲入。",
+    tags: [
+      "悄悄滲入",
+      "先從細縫一滴滴進來",
+      "invade",
+      "security",
+      "systems",
+      "verb",
+      "infiltrate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 infiltrate 和 invade 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像雨水不是砸破屋頂，而是先從細縫一滴一滴滲進來。"
+      },
+      {
+        id: "sentence",
+        label: "用 infiltrate the network 或 infiltrate the group 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "infuse",
+    word: "Infuse",
+    partOfSpeech: "verb",
+    href: "./infuse.html",
+    order: 452,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是塞進一點，而是讓那種氣質整體滲開。",
+    tags: [
+      "注入氣質",
+      "香氣慢慢走滿整杯",
+      "fill",
+      "design",
+      "meaning",
+      "verb",
+      "infuse"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 infuse 和 fill 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像熱茶裡滴進香草，香氣不是停在一點，而是慢慢走滿整杯。"
+      },
+      {
+        id: "sentence",
+        label: "用 infuse with energy 或 infuse the design with warmth 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "inhibit",
+    word: "Inhibit",
+    partOfSpeech: "verb",
+    href: "./inhibit.html",
+    order: 453,
+    cefr: "C1",
+    zipf: 2.94,
+    thesis: "不是完全關掉，而是讓它發不太出來。",
+    tags: [
+      "抑制發揮",
+      "踩著煞車往前開",
+      "restrain",
+      "growth",
+      "expression",
+      "verb",
+      "inhibit"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inhibit 和 restrain 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像踩著煞車往前開，車還動，但整體被一直拉住。"
+      },
+      {
+        id: "sentence",
+        label: "用 inhibit growth 或 inhibit creativity 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "inimical",
+    word: "Inimical",
+    partOfSpeech: "adjective",
+    href: "./inimical.html",
+    order: 454,
+    cefr: "C2",
+    zipf: 2.36,
+    thesis: "不是不配合而已，而是和你的目標本身相沖。",
+    tags: [
+      "本質相沖",
+      "土壤對種子很不友善",
+      "hostile",
+      "conditions",
+      "progress",
+      "adjective",
+      "inimical"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inimical 和 hostile 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像土壤看似平靜，實際卻對種子極不友善，怎麼埋都長不起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 inimical to progress 或 inimical conditions 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "inscrutable",
+    word: "Inscrutable",
+    partOfSpeech: "adjective",
+    href: "./inscrutable.html",
+    order: 455,
+    cefr: "C2",
+    zipf: 2.44,
+    thesis: "不是神秘有趣，而是你怎麼看都看不穿。",
+    tags: [
+      "看不穿",
+      "一扇沒有把手的門",
+      "mysterious",
+      "expression",
+      "behavior",
+      "adjective",
+      "inscrutable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inscrutable 和 mysterious 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一扇沒有把手也沒有窗的門，站在外面只能猜裡面是什麼。"
+      },
+      {
+        id: "sentence",
+        label: "用 inscrutable expression 或 inscrutable silence 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "instigate",
+    word: "Instigate",
+    partOfSpeech: "verb",
+    href: "./instigate.html",
+    order: 456,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是事情自己起來，而是有人在背後把火點著。",
+    tags: [
+      "點起開頭那根火柴",
+      "乾草知道要燒起來",
+      "start",
+      "change",
+      "conflict",
+      "verb",
+      "instigate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 instigate 和 start 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像第一根火柴不大，但它讓整片乾草都知道接下來會燒起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 instigate a protest 或 instigate the change 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "intercede",
+    word: "Intercede",
+    partOfSpeech: "verb",
+    href: "./intercede.html",
+    order: 457,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是旁觀，而是主動站到中間替某人說話。",
+    tags: [
+      "站到中間求情",
+      "先把快合上的門撐開",
+      "intervene",
+      "mediation",
+      "advocacy",
+      "verb",
+      "intercede"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 intercede 和 intervene 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像兩扇快要猛然合上的門，中間有人伸手先把它們撐開。"
+      },
+      {
+        id: "sentence",
+        label: "用 intercede on behalf of someone 或 intercede in the dispute 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "intermittent",
+    word: "Intermittent",
+    partOfSpeech: "adjective",
+    href: "./intermittent.html",
+    order: 458,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是持續存在，而是一陣一陣地回來。",
+    tags: [
+      "一陣一陣",
+      "雨點敲幾聲又停",
+      "occasional",
+      "signal",
+      "symptoms",
+      "adjective",
+      "intermittent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 intermittent 和 occasional 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像窗外雨點不是連成線，而是一下敲幾聲又停幾分鐘。"
+      },
+      {
+        id: "sentence",
+        label: "用 intermittent signal 或 intermittent pain 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "inundate",
+    word: "Inundate",
+    partOfSpeech: "verb",
+    href: "./inundate.html",
+    order: 459,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是多一點，而是多到整個空間都被蓋住。",
+    tags: [
+      "大量淹沒",
+      "信件一路溢到地板",
+      "flood",
+      "requests",
+      "disaster",
+      "verb",
+      "inundate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 inundate 和 flood 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像信件不是塞滿信箱，而是一路從槽口溢到地板上。"
+      },
+      {
+        id: "sentence",
+        label: "用 inundate the inbox 或 inundated with requests 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "irate",
+    word: "Irate",
+    partOfSpeech: "adjective",
+    href: "./irate.html",
+    order: 460,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是不高興而已，而是怒氣已經寫在臉上。",
+    tags: [
+      "怒氣外露",
+      "壓力鍋閥門開始尖叫",
+      "angry",
+      "customer",
+      "emotion",
+      "adjective",
+      "irate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 irate 和 angry 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像壓力鍋的閥門已經開始尖叫，再多一點火就要掀蓋。"
+      },
+      {
+        id: "sentence",
+        label: "用 irate customer 或 irate response 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ironclad",
+    word: "Ironclad",
+    partOfSpeech: "adjective",
+    href: "./ironclad.html",
+    order: 461,
+    cefr: "C1",
+    zipf: 2.51,
+    thesis: "不是還不錯，而是硬到幾乎挑不出破口。",
+    tags: [
+      "嚴密無破口",
+      "一層層上鎖找不到縫",
+      "solid",
+      "proof",
+      "contract",
+      "adjective",
+      "ironclad"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ironclad 和 solid 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像箱子外面一層一層上鎖，拿著工具繞一圈也找不到縫。"
+      },
+      {
+        id: "sentence",
+        label: "用 ironclad contract 或 ironclad proof 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "jaded",
+    word: "Jaded",
+    partOfSpeech: "adjective",
+    href: "./jaded.html",
+    order: 462,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是累而已，而是看太多、做太多之後感覺變鈍。",
+    tags: [
+      "看多做到麻木",
+      "同一首歌重播太多次",
+      "tired",
+      "burnout",
+      "emotion",
+      "adjective",
+      "jaded"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 jaded 和 tired 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像同一首歌重播太多次，旋律還在，但耳朵已經不再亮起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 jaded worker 或 feel jaded 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "jarring",
+    word: "Jarring",
+    partOfSpeech: "adjective",
+    href: "./jarring.html",
+    order: 463,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是大聲而已，而是和周圍不搭到讓你整個被拉醒。",
+    tags: [
+      "突兀刺耳",
+      "樂章裡忽然砸進金屬聲",
+      "unsettling",
+      "contrast",
+      "tone",
+      "adjective",
+      "jarring"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 jarring 和 unsettling 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像安靜樂章裡忽然砸進一聲金屬碰撞，耳朵會先縮一下。"
+      },
+      {
+        id: "sentence",
+        label: "用 jarring contrast 或 jarring noise 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "laud",
+    word: "Laud",
+    partOfSpeech: "verb",
+    href: "./laud.html",
+    order: 464,
+    cefr: "C1",
+    zipf: 2.47,
+    thesis: "不是輕輕帶過，而是明白把好的地方抬出來講。",
+    tags: [
+      "公開稱讚",
+      "聚光燈特意打上去",
+      "praise",
+      "recognition",
+      "public",
+      "verb",
+      "laud"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 laud 和 praise 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像聚光燈不是照滿全場，而是特意打在那個值得被看見的位置。"
+      },
+      {
+        id: "sentence",
+        label: "用 laud the effort 或 laud the initiative 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "lax",
+    word: "Lax",
+    partOfSpeech: "adjective",
+    href: "./lax.html",
+    order: 465,
+    cefr: "C1",
+    zipf: 2.82,
+    thesis: "不是寬鬆友善，而是鬆到該守的邊界也沒守住。",
+    tags: [
+      "鬆到守不住",
+      "圍欄有門卻沒上鎖",
+      "loose",
+      "security",
+      "standards",
+      "adjective",
+      "lax"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 lax 和 loose 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像圍欄有門卻沒上鎖，看起來在，但其實誰都能進。"
+      },
+      {
+        id: "sentence",
+        label: "用 lax security 或 lax standards 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "liaison",
+    word: "Liaison",
+    partOfSpeech: "noun",
+    href: "./liaison.html",
+    order: 466,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是多一個旁觀者，而是專門負責把兩邊接起來的人或線。",
+    tags: [
+      "兩邊的橋梁",
+      "兩座樓之間架走道",
+      "contact",
+      "coordination",
+      "teams",
+      "noun",
+      "liaison"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 liaison 和 contact 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像兩座樓之間架起一條走道，讓原本各走各的人終於能互通。"
+      },
+      {
+        id: "sentence",
+        label: "用 act as liaison 或 liaison officer 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "lucrative",
+    word: "Lucrative",
+    partOfSpeech: "adjective",
+    href: "./lucrative.html",
+    order: 467,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是有收入，而是回報高到很吸引人。",
+    tags: [
+      "收益豐厚",
+      "水量足到灌滿水塔",
+      "profitable",
+      "career",
+      "market",
+      "adjective",
+      "lucrative"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 lucrative 和 profitable 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像一條管線不是有水而已，而是水量足到整座水塔都能灌滿。"
+      },
+      {
+        id: "sentence",
+        label: "用 lucrative contract 或 lucrative market 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "lull",
+    word: "Lull",
+    partOfSpeech: "noun",
+    href: "./lull.html",
+    order: 468,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是結束，而是先短暫安靜下來。",
+    tags: [
+      "短暫平靜",
+      "浪退半拍下一波又來",
+      "pause",
+      "activity",
+      "timing",
+      "noun",
+      "lull"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 lull 和 pause 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像海浪退了半拍，沙面剛平整，下一波又在遠處蓄力。"
+      },
+      {
+        id: "sentence",
+        label: "用 brief lull 或 lull in activity 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "lurid",
+    word: "Lurid",
+    partOfSpeech: "adjective",
+    href: "./lurid.html",
+    order: 469,
+    cefr: "C2",
+    zipf: 2.42,
+    thesis: "不是鮮明，而是鮮明到讓人不舒服或覺得被炒作。",
+    tags: [
+      "聳動刺眼",
+      "還沒看懂就先被刺到",
+      "vivid",
+      "media",
+      "visual",
+      "adjective",
+      "lurid"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 lurid 和 vivid 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像霓虹色被打得太滿，眼睛還沒看懂內容就先被刺到。"
+      },
+      {
+        id: "sentence",
+        label: "用 lurid detail 或 lurid headline 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "malign",
+    word: "Malign",
+    partOfSpeech: "verb",
+    href: "./malign.html",
+    order: 470,
+    cefr: "C2",
+    zipf: 2.33,
+    thesis: "不是普通批評，而是惡意地把對方描黑。",
+    tags: [
+      "惡意描黑",
+      "往白牆甩一桶墨",
+      "slander",
+      "reputation",
+      "conflict",
+      "verb",
+      "malign"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 malign 和 slander 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像往白牆上甩一桶墨，不管真假，先讓整面牆看起來髒掉。"
+      },
+      {
+        id: "sentence",
+        label: "用 malign a rival 或 malign the witness 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "marginal",
+    word: "Marginal",
+    partOfSpeech: "adjective",
+    href: "./marginal.html",
+    order: 471,
+    cefr: "C1",
+    zipf: 2.93,
+    thesis: "不是完全不夠，而是剛剛好卡在邊緣。",
+    tags: [
+      "勉強在邊緣",
+      "電量只剩一條紅線",
+      "slight",
+      "profit",
+      "signal",
+      "adjective",
+      "marginal"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 marginal 和 slight 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像電量只剩細細一條紅線，還能亮，但你知道撐不了多久。"
+      },
+      {
+        id: "sentence",
+        label: "用 marginal improvement 或 marginal profit 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "meld",
+    word: "Meld",
+    partOfSpeech: "verb",
+    href: "./meld.html",
+    order: 472,
+    cefr: "C1",
+    zipf: 2.39,
+    thesis: "不是堆在一起，而是混到分不太出界線。",
+    tags: [
+      "融合成一體",
+      "顏色在水裡捲成新色",
+      "merge",
+      "integration",
+      "ideas",
+      "verb",
+      "meld"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 meld 和 merge 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像兩股顏色在水裡慢慢捲開，最後成了一種新的色調。"
+      },
+      {
+        id: "sentence",
+        label: "用 meld ideas 或 meld into one team 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "mire",
+    word: "Mire",
+    partOfSpeech: "verb",
+    href: "./mire.html",
+    order: 473,
+    cefr: "C1",
+    zipf: 2.45,
+    thesis: "不是停一下，而是陷進去後每一步都更難抽身。",
+    tags: [
+      "陷進泥淖",
+      "車輪越轉越深",
+      "trap",
+      "delay",
+      "trouble",
+      "verb",
+      "mire"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 mire 和 trap 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像車輪一陷進濕泥，轉得越快，反而陷得越深。"
+      },
+      {
+        id: "sentence",
+        label: "用 mired in paperwork 或 mired in conflict 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "modulate",
+    word: "Modulate",
+    partOfSpeech: "verb",
+    href: "./modulate.html",
+    order: 474,
+    cefr: "C1",
+    zipf: 2.52,
+    thesis: "不是切換成另一種，而是細緻地把強弱拉到合適位置。",
+    tags: [
+      "細緻調節",
+      "像轉調光旋鈕",
+      "adjust",
+      "tone",
+      "signal",
+      "verb",
+      "modulate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 modulate 和 adjust 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像轉燈的調光旋鈕，不是只有開關，而是能把亮度慢慢推到剛好。"
+      },
+      {
+        id: "sentence",
+        label: "用 modulate your tone 或 modulate the signal 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "mollify",
+    word: "Mollify",
+    partOfSpeech: "verb",
+    href: "./mollify.html",
+    order: 475,
+    cefr: "C2",
+    zipf: 2.38,
+    thesis: "不是完全說服，而是先把火氣往下壓。",
+    tags: [
+      "把火氣壓下去",
+      "熱鍋邊慢慢澆水",
+      "appease",
+      "conflict",
+      "service",
+      "verb",
+      "mollify"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 mollify 和 appease 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像燒熱的鍋邊慢慢澆上一圈水，嘶聲還在，但不再那麼爆烈。"
+      },
+      {
+        id: "sentence",
+        label: "用 mollify the customer 或 mollify tensions 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "monolithic",
+    word: "Monolithic",
+    partOfSpeech: "adjective",
+    href: "./monolithic.html",
+    order: 476,
+    cefr: "C1",
+    zipf: 2.64,
+    thesis: "不是整合得好，而是大到像一整塊石頭，不易拆也不易轉向。",
+    tags: [
+      "龐大單塊",
+      "像整塊石碑不易拆",
+      "rigid",
+      "architecture",
+      "organization",
+      "adjective",
+      "monolithic"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 monolithic 和 rigid 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像不是由積木組成，而是一整塊石碑，動一處就等於動全部。"
+      },
+      {
+        id: "sentence",
+        label: "用 monolithic system 或 monolithic organization 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "moot",
+    word: "Moot",
+    partOfSpeech: "adjective",
+    href: "./moot.html",
+    order: 477,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是答案還沒出來而已，而是這題要嘛可爭，要嘛已經失去意義。",
+    tags: [
+      "可爭或失去實益",
+      "賽後再爭戰術意義變淡",
+      "debatable",
+      "debate",
+      "law",
+      "adjective",
+      "moot"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 moot 和 debatable 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像球賽已經結束，這時再爭哪個戰術本來該先上，意義開始變淡。"
+      },
+      {
+        id: "sentence",
+        label: "用 moot point 或 moot question 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "morose",
+    word: "Morose",
+    partOfSpeech: "adjective",
+    href: "./morose.html",
+    order: 478,
+    cefr: "C2",
+    zipf: 2.47,
+    thesis: "不是悲傷而已，而是情緒暗下去後連人也收起來。",
+    tags: [
+      "陰鬱收起來",
+      "窗簾整片拉下",
+      "gloomy",
+      "mood",
+      "persona",
+      "adjective",
+      "morose"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 morose 和 gloomy 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像窗簾整片拉下來，光不是沒有，只是很難進得來。"
+      },
+      {
+        id: "sentence",
+        label: "用 morose mood 或 morose silence 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "muster",
+    word: "Muster",
+    partOfSpeech: "verb",
+    href: "./muster.html",
+    order: 479,
+    cefr: "C1",
+    zipf: 2.54,
+    thesis: "不是天生就有，而是努力把散掉的力重新湊起來。",
+    tags: [
+      "把散力重新湊起來",
+      "把火種重新攏成一堆",
+      "gather",
+      "courage",
+      "support",
+      "verb",
+      "muster"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 muster 和 gather 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像把四散的火種重新攏成一小堆，好讓下一把火能點起來。"
+      },
+      {
+        id: "sentence",
+        label: "用 muster the courage 或 muster support 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "mutable",
+    word: "Mutable",
+    partOfSpeech: "adjective",
+    href: "./mutable.html",
+    order: 480,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是不穩，而是本來就設計成可變。",
+    tags: [
+      "本來就可變",
+      "白板上預留改寫空間",
+      "flexible",
+      "state",
+      "planning",
+      "adjective",
+      "mutable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 mutable 和 flexible 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像白板上的字不是還沒定，而是本來就預留了隨時改寫的空間。"
+      },
+      {
+        id: "sentence",
+        label: "用 mutable state 或 mutable plan 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "nascent",
+    word: "Nascent",
+    partOfSpeech: "adjective",
+    href: "./nascent.html",
+    order: 481,
+    cefr: "C1",
+    zipf: 2.61,
+    thesis: "不是成熟前夕，而是才剛冒出輪廓。",
+    tags: [
+      "剛開始萌芽",
+      "地面裂開冒出綠芽",
+      "emerging",
+      "industry",
+      "idea",
+      "adjective",
+      "nascent"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 nascent 和 emerging 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像地面剛裂開一條線，綠芽還很小，但你知道生命已經上來了。"
+      },
+      {
+        id: "sentence",
+        label: "用 nascent industry 或 nascent idea 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "nebulous",
+    word: "Nebulous",
+    partOfSpeech: "adjective",
+    href: "./nebulous.html",
+    order: 482,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是細膩，而是模糊到邊線都抓不到。",
+    tags: [
+      "輪廓抓不到",
+      "霧裡的城市天際線",
+      "vague",
+      "plan",
+      "concept",
+      "adjective",
+      "nebulous"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 nebulous 和 vague 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像霧裡的城市天際線，你知道有東西在那裡，卻說不清輪廓。"
+      },
+      {
+        id: "sentence",
+        label: "用 nebulous concept 或 nebulous plan 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "negate",
+    word: "Negate",
+    partOfSpeech: "verb",
+    href: "./negate.html",
+    order: 483,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是不同意而已，而是讓前面的效果整個作廢。",
+    tags: [
+      "讓效果作廢",
+      "抽掉積木底座",
+      "cancel",
+      "effect",
+      "logic",
+      "verb",
+      "negate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 negate 和 cancel 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像已經堆好的積木被抽掉底座，前面的努力瞬間失去支點。"
+      },
+      {
+        id: "sentence",
+        label: "用 negate the benefit 或 negate the effect 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "negligible",
+    word: "Negligible",
+    partOfSpeech: "adjective",
+    href: "./negligible.html",
+    order: 484,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是小而已，而是小到可以幾乎不計。",
+    tags: [
+      "小到可忽略",
+      "白紙邊緣的一粒灰",
+      "insignificant",
+      "error",
+      "cost",
+      "adjective",
+      "negligible"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 negligible 和 insignificant 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像白紙邊緣的一粒灰，你看得到，但不會影響整張圖。"
+      },
+      {
+        id: "sentence",
+        label: "用 negligible impact 或 negligible error 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "nullify",
+    word: "Nullify",
+    partOfSpeech: "verb",
+    href: "./nullify.html",
+    order: 485,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是減弱，而是直接讓它失效。",
+    tags: [
+      "直接失效",
+      "整份文件不再算數",
+      "invalidate",
+      "agreement",
+      "effect",
+      "verb",
+      "nullify"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 nullify 和 invalidate 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像印章蓋下去後不是改顏色，而是整份文件被判定不再算數。"
+      },
+      {
+        id: "sentence",
+        label: "用 nullify the agreement 或 nullify the advantage 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "obdurate",
+    word: "Obdurate",
+    partOfSpeech: "adjective",
+    href: "./obdurate.html",
+    order: 486,
+    cefr: "C2",
+    zipf: 2.28,
+    thesis: "不是堅定而已，而是別人的請求怎麼敲都敲不進去。",
+    tags: [
+      "冷硬不動",
+      "凍土怎麼鏟都沒反應",
+      "stubborn",
+      "refusal",
+      "stance",
+      "adjective",
+      "obdurate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 obdurate 和 stubborn 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像冬天地凍住的土，鏟子一下去只聽見硬聲，挖不出反應。"
+      },
+      {
+        id: "sentence",
+        label: "用 obdurate refusal 或 remain obdurate 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "obstinate",
+    word: "Obstinate",
+    partOfSpeech: "adjective",
+    href: "./obstinate.html",
+    order: 487,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是只是有主見，而是明知別人怎麼說都不轉。",
+    tags: [
+      "頑固不轉",
+      "方向盤被鎖死",
+      "rigid",
+      "behavior",
+      "negotiation",
+      "adjective",
+      "obstinate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 obstinate 和 rigid 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像方向盤被鎖死，路都彎了，車頭還硬是對著原點。"
+      },
+      {
+        id: "sentence",
+        label: "用 obstinate child 或 obstinate refusal 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "onerous",
+    word: "Onerous",
+    partOfSpeech: "adjective",
+    href: "./onerous.html",
+    order: 488,
+    cefr: "C1",
+    zipf: 2.69,
+    thesis: "不是麻煩而已，而是重到你做每一步都覺得拖。",
+    tags: [
+      "沉重拖累",
+      "背著濕毯子一路走",
+      "burdensome",
+      "workload",
+      "requirements",
+      "adjective",
+      "onerous"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 onerous 和 burdensome 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像肩上不是掛一件外套，而是背著濕透的毯子一路走。"
+      },
+      {
+        id: "sentence",
+        label: "用 onerous requirement 或 onerous workload 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ornate",
+    word: "Ornate",
+    partOfSpeech: "adjective",
+    href: "./ornate.html",
+    order: 489,
+    cefr: "C1",
+    zipf: 2.57,
+    thesis: "不是精緻而已，而是裝飾層層疊上去。",
+    tags: [
+      "裝飾繁複",
+      "木框上每圈都刻著花紋",
+      "decorated",
+      "style",
+      "architecture",
+      "adjective",
+      "ornate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ornate 和 decorated 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像木框上每一圈都刻著花紋，視線幾乎找不到空白休息處。"
+      },
+      {
+        id: "sentence",
+        label: "用 ornate ceiling 或 ornate language 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "ostracize",
+    word: "Ostracize",
+    partOfSpeech: "verb",
+    href: "./ostracize.html",
+    order: 490,
+    cefr: "C1",
+    zipf: 2.64,
+    thesis: "不是單獨離開，而是被群體推到圈外。",
+    tags: [
+      "把人推到圈外",
+      "圍成的圈忽然收緊",
+      "exclude",
+      "belonging",
+      "conflict",
+      "verb",
+      "ostracize"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 ostracize 和 exclude 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像原本一起圍成的圈忽然收緊，剛好把某個人留在外面。"
+      },
+      {
+        id: "sentence",
+        label: "用 ostracize a teammate 或 ostracized at school 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "palliate",
+    word: "Palliate",
+    partOfSpeech: "verb",
+    href: "./palliate.html",
+    order: 491,
+    cefr: "C2",
+    zipf: 2.29,
+    thesis: "不是治好，而是先讓痛沒有那麼尖。",
+    tags: [
+      "先減尖銳",
+      "窗邊墊毛巾擋風",
+      "relieve",
+      "pain",
+      "mitigation",
+      "verb",
+      "palliate"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 palliate 和 relieve 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像窗邊先墊條毛巾擋風，屋裡暖一點了，但裂縫還在。"
+      },
+      {
+        id: "sentence",
+        label: "用 palliate the pain 或 palliate the tension 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "parity",
+    word: "Parity",
+    partOfSpeech: "noun",
+    href: "./parity.html",
+    order: 492,
+    cefr: "C1",
+    zipf: 2.60,
+    thesis: "不是都差不多，而是到了可互相比肩的同一水平。",
+    tags: [
+      "對等水平",
+      "天平終於回到水平",
+      "equality",
+      "competition",
+      "pay",
+      "noun",
+      "parity"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 parity 和 equality 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像兩邊天平終於回到水平，不再明顯偏向哪一端。"
+      },
+      {
+        id: "sentence",
+        label: "用 pay parity 或 parity with competitors 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "peril",
+    word: "Peril",
+    partOfSpeech: "noun",
+    href: "./peril.html",
+    order: 493,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是普通風險，而是再往前一步可能真的出事。",
+    tags: [
+      "重大險境",
+      "冰面已經開始裂響",
+      "danger",
+      "safety",
+      "crisis",
+      "noun",
+      "peril"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 peril 和 danger 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像冰面已經出現裂聲，你還能站著，但每一步都不再輕鬆。"
+      },
+      {
+        id: "sentence",
+        label: "用 in peril 或 peril to public safety 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "pernicious",
+    word: "Pernicious",
+    partOfSpeech: "adjective",
+    href: "./pernicious.html",
+    order: 494,
+    cefr: "C2",
+    zipf: 2.36,
+    thesis: "不是立刻爆炸，而是慢慢傷到根部。",
+    tags: [
+      "暗中侵蝕",
+      "白蟻在看不到處一直吃",
+      "harmful",
+      "myth",
+      "habit",
+      "adjective",
+      "pernicious"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 pernicious 和 harmful 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像白蟻不會第一天拆掉房子，卻會在你看不到的地方一直吃。"
+      },
+      {
+        id: "sentence",
+        label: "用 pernicious myth 或 pernicious effect 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "placid",
+    word: "Placid",
+    partOfSpeech: "adjective",
+    href: "./placid.html",
+    order: 495,
+    cefr: "C1",
+    zipf: 2.56,
+    thesis: "不是沒有生命，而是平靜到幾乎不起波。",
+    tags: [
+      "平和不起波",
+      "湖面清晨完全鋪平",
+      "calm",
+      "nature",
+      "persona",
+      "adjective",
+      "placid"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 placid 和 calm 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像湖面在清晨完全鋪平，風走過去也只留很細的紋。"
+      },
+      {
+        id: "sentence",
+        label: "用 placid lake 或 placid expression 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "pliable",
+    word: "Pliable",
+    partOfSpeech: "adjective",
+    href: "./pliable.html",
+    order: 496,
+    cefr: "C1",
+    zipf: 2.52,
+    thesis: "不是脆弱，而是能順著力道改變形狀。",
+    tags: [
+      "可塑可彎",
+      "溫熱的蠟能慢慢塑形",
+      "flexible",
+      "materials",
+      "mindset",
+      "adjective",
+      "pliable"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 pliable 和 flexible 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像溫熱的蠟，不會一折就斷，而是能被手勢慢慢塑成你要的弧度。"
+      },
+      {
+        id: "sentence",
+        label: "用 pliable material 或 pliable mindset 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "plight",
+    word: "Plight",
+    partOfSpeech: "noun",
+    href: "./plight.html",
+    order: 497,
+    cefr: "C1",
+    zipf: 2.61,
+    thesis: "不是普通麻煩，而是身處其中的人真的很難走。",
+    tags: [
+      "艱難困境",
+      "樓梯間前後都堵住",
+      "hardship",
+      "society",
+      "workers",
+      "noun",
+      "plight"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 plight 和 hardship 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像人在狹窄樓梯間前後都堵住，只能一邊喘一邊找縫。"
+      },
+      {
+        id: "sentence",
+        label: "用 economic plight 或 their plight 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "plummet",
+    word: "Plummet",
+    partOfSpeech: "verb",
+    href: "./plummet.html",
+    order: 498,
+    cefr: "C1",
+    zipf: 2.82,
+    thesis: "不是慢慢掉，而是幾乎像石頭一樣往下墜。",
+    tags: [
+      "急速暴跌",
+      "指針一下衝到很下面",
+      "drop",
+      "market",
+      "temperature",
+      "verb",
+      "plummet"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 plummet 和 drop 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像電梯鋼索忽然一鬆，指針一下就衝到很下面。"
+      },
+      {
+        id: "sentence",
+        label: "用 prices plummet 或 temperature plummets 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "polarize",
+    word: "Polarize",
+    partOfSpeech: "verb",
+    href: "./polarize.html",
+    order: 499,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是有不同意見，而是差異被拉到兩端，中間開始變窄。",
+    tags: [
+      "拉成兩端",
+      "中間的位置越來越窄",
+      "divide",
+      "opinion",
+      "debate",
+      "verb",
+      "polarize"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 polarize 和 divide 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像磁鐵兩端的拉力越來越強，靠近中間的人反而更難站穩。"
+      },
+      {
+        id: "sentence",
+        label: "用 polarize opinion 或 polarize the audience 造一句自然英文"
+      }
+    ]
+  },
+  {
+    id: "poignant",
+    word: "Poignant",
+    partOfSpeech: "adjective",
+    href: "./poignant.html",
+    order: 500,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是單純感人，而是感覺裡帶著一點刺，會直接扎進心裡。",
+    tags: [
+      "深刻動人",
+      "熟悉旋律一下把心拉回去",
+      "touching",
+      "memory",
+      "emotion",
+      "adjective",
+      "poignant"
+    ],
+    checks: [
+      {
+        id: "meaning",
+        label: "說出 poignant 和 touching 的差異"
+      },
+      {
+        id: "origin",
+        label: "記得這個畫面：像熟悉旋律突然在舊房間裡響起，心一下被拉回曾經的時刻。"
+      },
+      {
+        id: "sentence",
+        label: "用 poignant memory 或 poignant scene 造一句自然英文"
+      }
+    ]
   }
 ];

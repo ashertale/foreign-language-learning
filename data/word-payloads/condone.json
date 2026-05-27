@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Condone",
+    "slug": "condone",
+    "outputPath": "prototypes/condone.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Condone",
+    "WORD_SLUG": "condone",
+    "WORD_LOWER": "condone",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "kun-DOHN · UK /kənˈdəʊn/ · US /kənˈdoʊn/",
+    "THESIS": "不是喜歡，而是明知道有問題卻選擇不阻止。",
+    "LEARNING_POSITION": "把 condone 記成「let wrongdoing pass without objection」：不是喜歡，而是明知道有問題卻選擇不阻止。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.62",
+    "CORE_IDEA": "<code>condone</code> 表示縱容、默許錯誤行為或不當做法。",
+    "CONCEPT_FOCUS": "核心畫面是 let wrongdoing pass without objection。",
+    "TONE_REGISTER": "這個字常見於 倫理判斷、組織文化與公共批評；語氣上不是空泛形容，而是用來抓住 let wrongdoing pass without objection 這種狀態或動作。",
+    "USE_WARNING": "不要把 condone 只看成 excuse；<code>excuse</code> 多半只是 替錯誤找理由，而 <code>condone</code> 更強調 let wrongdoing pass without objection。",
+    "SHORT_DEFINITION": "表示縱容、默許錯誤行為或不當做法。",
+    "CONFUSION_WORD": "Excuse",
+    "CONFUSION_NOTE": "<code>excuse</code> 多半只是 替錯誤找理由；<code>condone</code> 則更偏向 let wrongdoing pass without objection。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 let wrongdoing pass without objection 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>condone</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：let wrongdoing pass without objection。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像看見裂縫卻把布蓋上，表面安靜了，但問題其實被放過了。",
+    "MEMORY_HOOK": "<code>condone</code> 的畫面是：像看見裂縫卻把布蓋上，表面安靜了，但問題其實被放過了。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 condone，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>condone misconduct</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>condone the behavior</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "倫理判斷、組織文化與公共批評 這類場景特別適合放進 <code>refuse to condone</code>，因為那裡常需要描述 let wrongdoing pass without objection。",
+    "COLLOCATION_NOTE": "Condone 很適合透過固定搭配來抓語感，尤其是你想把 let wrongdoing pass without objection 說得更自然時。",
+    "COLLOCATION_1": "condone misconduct",
+    "REGISTER_1": "職場 / 倫理",
+    "COLLOCATION_NOTE_1": "這個搭配能把 let wrongdoing pass without objection 的語感直接帶出來。",
+    "COLLOCATION_2": "condone the behavior",
+    "REGISTER_2": "教育 / 規範",
+    "COLLOCATION_NOTE_2": "放到 倫理判斷、組織文化與公共批評 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "refuse to condone",
+    "REGISTER_3": "公共 / 評論",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 condone 的實際使用邊界。",
+    "NEIGHBOR_SELF": "let wrongdoing pass without objection",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 替錯誤找理由，而是 let wrongdoing pass without objection 這層語感時",
+    "NEIGHBOR_1": "Excuse",
+    "NEIGHBOR_1_MEANING": "替錯誤找理由",
+    "NEIGHBOR_1_USE": "只想表達 替錯誤找理由，而不需要 let wrongdoing pass without objection 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>condone</code> 常和 <code>condone misconduct</code>、<code>condone the behavior</code>、<code>refuse to condone</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 倫理判斷、組織文化與公共批評 的語境裡，這個字能比一般近義詞更精準地抓住 let wrongdoing pass without objection。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/condone",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/condone",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/condone",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 condone 和 excuse 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像看見裂縫卻把布蓋上，表面安靜了，但問題其實被放過了。",
+    "CHECK_SENTENCE": "我能用 <code>condone misconduct</code> 或 <code>condone the behavior</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>condone misconduct</code> 或 <code>condone the behavior</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/condone",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "condone",
+    "word": "Condone",
+    "partOfSpeech": "verb",
+    "href": "./condone.html",
+    "thesis": "不是喜歡，而是明知道有問題卻選擇不阻止。",
+    "tags": [
+      "明知有問題卻放過",
+      "拿布蓋住裂縫",
+      "excuse",
+      "ethics",
+      "behavior",
+      "verb",
+      "condone"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 condone 和 excuse 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像看見裂縫卻把布蓋上，表面安靜了，但問題其實被放過了。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 condone misconduct 或 condone the behavior 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/condone",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/condone",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/condone",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

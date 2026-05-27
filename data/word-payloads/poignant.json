@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Poignant",
+    "slug": "poignant",
+    "outputPath": "prototypes/poignant.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Poignant",
+    "WORD_SLUG": "poignant",
+    "WORD_LOWER": "poignant",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "POIN-yuhnt · UK /ˈpɔɪn.jənt/ · US /ˈpɔɪn.jənt/",
+    "THESIS": "不是單純感人，而是感覺裡帶著一點刺，會直接扎進心裡。",
+    "LEARNING_POSITION": "把 poignant 記成「sharply moving with sadness, beauty, or truth」：不是單純感人，而是感覺裡帶著一點刺，會直接扎進心裡。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.74",
+    "CORE_IDEA": "<code>poignant</code> 表示深刻動人、酸楚而有力。",
+    "CONCEPT_FOCUS": "核心畫面是 sharply moving with sadness, beauty, or truth。",
+    "TONE_REGISTER": "這個字常見於 回憶敘事、影評書評與情緒描寫；語氣上不是空泛形容，而是用來抓住 sharply moving with sadness, beauty, or truth 這種狀態或動作。",
+    "USE_WARNING": "不要把 poignant 只看成 touching；<code>touching</code> 多半只是 感人的，而 <code>poignant</code> 更強調 sharply moving with sadness, beauty, or truth。",
+    "SHORT_DEFINITION": "表示深刻動人、酸楚而有力。",
+    "CONFUSION_WORD": "Touching",
+    "CONFUSION_NOTE": "<code>touching</code> 多半只是 感人的；<code>poignant</code> 則更偏向 sharply moving with sadness, beauty, or truth。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 sharply moving with sadness, beauty, or truth 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>poignant</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：sharply moving with sadness, beauty, or truth。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像熟悉旋律突然在舊房間裡響起，心一下被拉回曾經的時刻。",
+    "MEMORY_HOOK": "<code>poignant</code> 的畫面是：像熟悉旋律突然在舊房間裡響起，心一下被拉回曾經的時刻。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 poignant，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>poignant memory</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>poignant scene</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "回憶敘事、影評書評與情緒描寫 這類場景特別適合放進 <code>poignant reminder</code>，因為那裡常需要描述 sharply moving with sadness, beauty, or truth。",
+    "COLLOCATION_NOTE": "Poignant 很適合透過固定搭配來抓語感，尤其是你想把 sharply moving with sadness, beauty, or truth 說得更自然時。",
+    "COLLOCATION_1": "poignant memory",
+    "REGISTER_1": "情感 / 回憶",
+    "COLLOCATION_NOTE_1": "這個搭配能把 sharply moving with sadness, beauty, or truth 的語感直接帶出來。",
+    "COLLOCATION_2": "poignant scene",
+    "REGISTER_2": "影視 / 評論",
+    "COLLOCATION_NOTE_2": "放到 回憶敘事、影評書評與情緒描寫 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "poignant reminder",
+    "REGISTER_3": "寫作 / 敘事",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 poignant 的實際使用邊界。",
+    "NEIGHBOR_SELF": "sharply moving with sadness, beauty, or truth",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 感人的，而是 sharply moving with sadness, beauty, or truth 這層語感時",
+    "NEIGHBOR_1": "Touching",
+    "NEIGHBOR_1_MEANING": "感人的",
+    "NEIGHBOR_1_USE": "只想表達 感人的，而不需要 sharply moving with sadness, beauty, or truth 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>poignant</code> 常和 <code>poignant memory</code>、<code>poignant scene</code>、<code>poignant reminder</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 回憶敘事、影評書評與情緒描寫 的語境裡，這個字能比一般近義詞更精準地抓住 sharply moving with sadness, beauty, or truth。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/poignant",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/poignant",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/poignant",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 poignant 和 touching 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像熟悉旋律突然在舊房間裡響起，心一下被拉回曾經的時刻。",
+    "CHECK_SENTENCE": "我能用 <code>poignant memory</code> 或 <code>poignant scene</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>poignant memory</code> 或 <code>poignant scene</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/poignant",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "poignant",
+    "word": "Poignant",
+    "partOfSpeech": "adjective",
+    "href": "./poignant.html",
+    "thesis": "不是單純感人，而是感覺裡帶著一點刺，會直接扎進心裡。",
+    "tags": [
+      "深刻動人",
+      "熟悉旋律一下把心拉回去",
+      "touching",
+      "memory",
+      "emotion",
+      "adjective",
+      "poignant"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 poignant 和 touching 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像熟悉旋律突然在舊房間裡響起，心一下被拉回曾經的時刻。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 poignant memory 或 poignant scene 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/poignant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/poignant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/poignant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

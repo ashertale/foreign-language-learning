@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Barrage",
+    "slug": "barrage",
+    "outputPath": "prototypes/barrage.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Barrage",
+    "WORD_SLUG": "barrage",
+    "WORD_LOWER": "barrage",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "buh-RAHZH · UK /ˈbær.ɑːʒ/ · US /bəˈrɑːʒ/",
+    "THESIS": "不是零星幾下，而是一整排密集地同時打過來。",
+    "LEARNING_POSITION": "把 barrage 記成「a rapid concentrated burst from many directions」：不是零星幾下，而是一整排密集地同時打過來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.83",
+    "CORE_IDEA": "<code>barrage</code> 表示一連串密集的炮火、問題、批評或訊息轟炸。",
+    "CONCEPT_FOCUS": "核心畫面是 a rapid concentrated burst from many directions。",
+    "TONE_REGISTER": "這個字常見於 媒體壓力、問題攻勢與戰爭描寫；語氣上不是空泛形容，而是用來抓住 a rapid concentrated burst from many directions 這種狀態或動作。",
+    "USE_WARNING": "不要把 barrage 只看成 stream；<code>stream</code> 多半只是 一串，而 <code>barrage</code> 更強調 a rapid concentrated burst from many directions。",
+    "SHORT_DEFINITION": "表示一連串密集的炮火、問題、批評或訊息轟炸。",
+    "CONFUSION_WORD": "Stream",
+    "CONFUSION_NOTE": "<code>stream</code> 多半只是 一串；<code>barrage</code> 則更偏向 a rapid concentrated burst from many directions。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 a rapid concentrated burst from many directions 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>barrage</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：a rapid concentrated burst from many directions。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像手機通知忽然一口氣震個不停，來不及看完第一則，第二十則又到了。",
+    "MEMORY_HOOK": "<code>barrage</code> 的畫面是：像手機通知忽然一口氣震個不停，來不及看完第一則，第二十則又到了。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 barrage，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>barrage of questions</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>media barrage</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "媒體壓力、問題攻勢與戰爭描寫 這類場景特別適合放進 <code>barrage of fire</code>，因為那裡常需要描述 a rapid concentrated burst from many directions。",
+    "COLLOCATION_NOTE": "Barrage 很適合透過固定搭配來抓語感，尤其是你想把 a rapid concentrated burst from many directions 說得更自然時。",
+    "COLLOCATION_1": "barrage of questions",
+    "REGISTER_1": "會議 / 訪談",
+    "COLLOCATION_NOTE_1": "這個搭配能把 a rapid concentrated burst from many directions 的語感直接帶出來。",
+    "COLLOCATION_2": "media barrage",
+    "REGISTER_2": "新聞 / 公共",
+    "COLLOCATION_NOTE_2": "放到 媒體壓力、問題攻勢與戰爭描寫 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "barrage of fire",
+    "REGISTER_3": "戰爭 / 敘事",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 barrage 的實際使用邊界。",
+    "NEIGHBOR_SELF": "a rapid concentrated burst from many directions",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 一串，而是 a rapid concentrated burst from many directions 這層語感時",
+    "NEIGHBOR_1": "Stream",
+    "NEIGHBOR_1_MEANING": "一串",
+    "NEIGHBOR_1_USE": "只想表達 一串，而不需要 a rapid concentrated burst from many directions 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>barrage</code> 常和 <code>barrage of questions</code>、<code>media barrage</code>、<code>barrage of fire</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 媒體壓力、問題攻勢與戰爭描寫 的語境裡，這個字能比一般近義詞更精準地抓住 a rapid concentrated burst from many directions。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/barrage",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/barrage",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/barrage",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 barrage 和 stream 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像手機通知忽然一口氣震個不停，來不及看完第一則，第二十則又到了。",
+    "CHECK_SENTENCE": "我能用 <code>barrage of questions</code> 或 <code>media barrage</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>barrage of questions</code> 或 <code>media barrage</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/barrage",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "barrage",
+    "word": "Barrage",
+    "partOfSpeech": "noun",
+    "href": "./barrage.html",
+    "thesis": "不是零星幾下，而是一整排密集地同時打過來。",
+    "tags": [
+      "密集轟炸",
+      "一整排打來",
+      "stream",
+      "questions",
+      "media",
+      "noun",
+      "barrage"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 barrage 和 stream 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像手機通知忽然一口氣震個不停，來不及看完第一則，第二十則又到了。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 barrage of questions 或 media barrage 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/barrage",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/barrage",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/barrage",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

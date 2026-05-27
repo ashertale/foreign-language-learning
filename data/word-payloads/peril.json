@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Peril",
+    "slug": "peril",
+    "outputPath": "prototypes/peril.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Peril",
+    "WORD_SLUG": "peril",
+    "WORD_LOWER": "peril",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "PAIR-uhl · UK /ˈper.əl/ · US /ˈper.əl/",
+    "THESIS": "不是普通風險，而是再往前一步可能真的出事。",
+    "LEARNING_POSITION": "把 peril 記成「serious danger with real stakes attached」：不是普通風險，而是再往前一步可能真的出事。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.70",
+    "CORE_IDEA": "<code>peril</code> 表示重大危險、險境。",
+    "CONCEPT_FOCUS": "核心畫面是 serious danger with real stakes attached。",
+    "TONE_REGISTER": "這個字常見於 安全評估、新聞報導與敘事張力；語氣上不是空泛形容，而是用來抓住 serious danger with real stakes attached 這種狀態或動作。",
+    "USE_WARNING": "不要把 peril 只看成 danger；<code>danger</code> 多半只是 危險，而 <code>peril</code> 更強調 serious danger with real stakes attached。",
+    "SHORT_DEFINITION": "表示重大危險、險境。",
+    "CONFUSION_WORD": "Danger",
+    "CONFUSION_NOTE": "<code>danger</code> 多半只是 危險；<code>peril</code> 則更偏向 serious danger with real stakes attached。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 serious danger with real stakes attached 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>peril</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：serious danger with real stakes attached。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像冰面已經出現裂聲，你還能站著，但每一步都不再輕鬆。",
+    "MEMORY_HOOK": "<code>peril</code> 的畫面是：像冰面已經出現裂聲，你還能站著，但每一步都不再輕鬆。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 peril，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>in peril</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>peril to public safety</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "安全評估、新聞報導與敘事張力 這類場景特別適合放進 <code>face grave peril</code>，因為那裡常需要描述 serious danger with real stakes attached。",
+    "COLLOCATION_NOTE": "Peril 很適合透過固定搭配來抓語感，尤其是你想把 serious danger with real stakes attached 說得更自然時。",
+    "COLLOCATION_1": "in peril",
+    "REGISTER_1": "新聞 / 敘事",
+    "COLLOCATION_NOTE_1": "這個搭配能把 serious danger with real stakes attached 的語感直接帶出來。",
+    "COLLOCATION_2": "peril to public safety",
+    "REGISTER_2": "公共 / 安全",
+    "COLLOCATION_NOTE_2": "放到 安全評估、新聞報導與敘事張力 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "face grave peril",
+    "REGISTER_3": "危機 / 評估",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 peril 的實際使用邊界。",
+    "NEIGHBOR_SELF": "serious danger with real stakes attached",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 危險，而是 serious danger with real stakes attached 這層語感時",
+    "NEIGHBOR_1": "Danger",
+    "NEIGHBOR_1_MEANING": "危險",
+    "NEIGHBOR_1_USE": "只想表達 危險，而不需要 serious danger with real stakes attached 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>peril</code> 常和 <code>in peril</code>、<code>peril to public safety</code>、<code>face grave peril</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 安全評估、新聞報導與敘事張力 的語境裡，這個字能比一般近義詞更精準地抓住 serious danger with real stakes attached。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/peril",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/peril",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/peril",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 peril 和 danger 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像冰面已經出現裂聲，你還能站著，但每一步都不再輕鬆。",
+    "CHECK_SENTENCE": "我能用 <code>in peril</code> 或 <code>peril to public safety</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>in peril</code> 或 <code>peril to public safety</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/peril",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "peril",
+    "word": "Peril",
+    "partOfSpeech": "noun",
+    "href": "./peril.html",
+    "thesis": "不是普通風險，而是再往前一步可能真的出事。",
+    "tags": [
+      "重大險境",
+      "冰面已經開始裂響",
+      "danger",
+      "safety",
+      "crisis",
+      "noun",
+      "peril"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 peril 和 danger 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像冰面已經出現裂聲，你還能站著，但每一步都不再輕鬆。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 in peril 或 peril to public safety 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/peril",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/peril",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/peril",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

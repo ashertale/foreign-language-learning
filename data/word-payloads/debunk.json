@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Debunk",
+    "slug": "debunk",
+    "outputPath": "prototypes/debunk.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Debunk",
+    "WORD_SLUG": "debunk",
+    "WORD_LOWER": "debunk",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "dee-BUNK · UK /ˌdiːˈbʌŋk/ · US /ˌdiːˈbʌŋk/",
+    "THESIS": "不是單純不同意，而是把它拆到大家看見原來站不住。",
+    "LEARNING_POSITION": "把 debunk 記成「expose something as false or inflated」：不是單純不同意，而是把它拆到大家看見原來站不住。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.79",
+    "CORE_IDEA": "<code>debunk</code> 表示揭穿神話、錯誤說法或被誇大的主張。",
+    "CONCEPT_FOCUS": "核心畫面是 expose something as false or inflated。",
+    "TONE_REGISTER": "這個字常見於 科普澄清、媒體查核與技術迷思；語氣上不是空泛形容，而是用來抓住 expose something as false or inflated 這種狀態或動作。",
+    "USE_WARNING": "不要把 debunk 只看成 disprove；<code>disprove</code> 多半只是 證偽，而 <code>debunk</code> 更強調 expose something as false or inflated。",
+    "SHORT_DEFINITION": "表示揭穿神話、錯誤說法或被誇大的主張。",
+    "CONFUSION_WORD": "Disprove",
+    "CONFUSION_NOTE": "<code>disprove</code> 多半只是 證偽；<code>debunk</code> 則更偏向 expose something as false or inflated。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 expose something as false or inflated 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>debunk</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：expose something as false or inflated。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像把舞台布幕一拉開，後面那些看似巨大可怕的影子全變回紙板。",
+    "MEMORY_HOOK": "<code>debunk</code> 的畫面是：像把舞台布幕一拉開，後面那些看似巨大可怕的影子全變回紙板。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 debunk，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>debunk the myth</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>debunk the rumor</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "科普澄清、媒體查核與技術迷思 這類場景特別適合放進 <code>debunk the claim</code>，因為那裡常需要描述 expose something as false or inflated。",
+    "COLLOCATION_NOTE": "Debunk 很適合透過固定搭配來抓語感，尤其是你想把 expose something as false or inflated 說得更自然時。",
+    "COLLOCATION_1": "debunk the myth",
+    "REGISTER_1": "科普 / 教育",
+    "COLLOCATION_NOTE_1": "這個搭配能把 expose something as false or inflated 的語感直接帶出來。",
+    "COLLOCATION_2": "debunk the rumor",
+    "REGISTER_2": "媒體 / 查核",
+    "COLLOCATION_NOTE_2": "放到 科普澄清、媒體查核與技術迷思 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "debunk the claim",
+    "REGISTER_3": "分析 / 評論",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 debunk 的實際使用邊界。",
+    "NEIGHBOR_SELF": "expose something as false or inflated",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 證偽，而是 expose something as false or inflated 這層語感時",
+    "NEIGHBOR_1": "Disprove",
+    "NEIGHBOR_1_MEANING": "證偽",
+    "NEIGHBOR_1_USE": "只想表達 證偽，而不需要 expose something as false or inflated 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>debunk</code> 常和 <code>debunk the myth</code>、<code>debunk the rumor</code>、<code>debunk the claim</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 科普澄清、媒體查核與技術迷思 的語境裡，這個字能比一般近義詞更精準地抓住 expose something as false or inflated。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/debunk",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/debunk",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/debunk",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 debunk 和 disprove 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像把舞台布幕一拉開，後面那些看似巨大可怕的影子全變回紙板。",
+    "CHECK_SENTENCE": "我能用 <code>debunk the myth</code> 或 <code>debunk the rumor</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>debunk the myth</code> 或 <code>debunk the rumor</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/debunk",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "debunk",
+    "word": "Debunk",
+    "partOfSpeech": "verb",
+    "href": "./debunk.html",
+    "thesis": "不是單純不同意，而是把它拆到大家看見原來站不住。",
+    "tags": [
+      "揭穿站不住",
+      "拉開布幕只剩紙板",
+      "disprove",
+      "myth",
+      "fact-checking",
+      "verb",
+      "debunk"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 debunk 和 disprove 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像把舞台布幕一拉開，後面那些看似巨大可怕的影子全變回紙板。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 debunk the myth 或 debunk the rumor 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/debunk",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/debunk",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/debunk",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

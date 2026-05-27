@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Coerce",
+    "slug": "coerce",
+    "outputPath": "prototypes/coerce.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Coerce",
+    "WORD_SLUG": "coerce",
+    "WORD_LOWER": "coerce",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "koh-URS · UK /kəʊˈɜːs/ · US /koʊˈɝːs/",
+    "THESIS": "不是說服，而是讓對方在壓力下幾乎沒有真正選擇。",
+    "LEARNING_POSITION": "把 coerce 記成「force compliance through pressure or threat」：不是說服，而是讓對方在壓力下幾乎沒有真正選擇。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.79",
+    "CORE_IDEA": "<code>coerce</code> 表示強迫、威逼某人採取行動或同意。",
+    "CONCEPT_FOCUS": "核心畫面是 force compliance through pressure or threat。",
+    "TONE_REGISTER": "這個字常見於 權力濫用、談判倫理與法務語境；語氣上不是空泛形容，而是用來抓住 force compliance through pressure or threat 這種狀態或動作。",
+    "USE_WARNING": "不要把 coerce 只看成 force；<code>force</code> 多半只是 強迫，而 <code>coerce</code> 更強調 force compliance through pressure or threat。",
+    "SHORT_DEFINITION": "表示強迫、威逼某人採取行動或同意。",
+    "CONFUSION_WORD": "Force",
+    "CONFUSION_NOTE": "<code>force</code> 多半只是 強迫；<code>coerce</code> 則更偏向 force compliance through pressure or threat。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 force compliance through pressure or threat 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>coerce</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：force compliance through pressure or threat。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像手不是牽著你走，而是抵在背後逼你往前。",
+    "MEMORY_HOOK": "<code>coerce</code> 的畫面是：像手不是牽著你走，而是抵在背後逼你往前。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 coerce，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>coerce a confession</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>coerce compliance</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "權力濫用、談判倫理與法務語境 這類場景特別適合放進 <code>coerce the supplier</code>，因為那裡常需要描述 force compliance through pressure or threat。",
+    "COLLOCATION_NOTE": "Coerce 很適合透過固定搭配來抓語感，尤其是你想把 force compliance through pressure or threat 說得更自然時。",
+    "COLLOCATION_1": "coerce a confession",
+    "REGISTER_1": "法務 / 調查",
+    "COLLOCATION_NOTE_1": "這個搭配能把 force compliance through pressure or threat 的語感直接帶出來。",
+    "COLLOCATION_2": "coerce compliance",
+    "REGISTER_2": "制度 / 權力",
+    "COLLOCATION_NOTE_2": "放到 權力濫用、談判倫理與法務語境 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "coerce the supplier",
+    "REGISTER_3": "商業 / 協商",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 coerce 的實際使用邊界。",
+    "NEIGHBOR_SELF": "force compliance through pressure or threat",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 強迫，而是 force compliance through pressure or threat 這層語感時",
+    "NEIGHBOR_1": "Force",
+    "NEIGHBOR_1_MEANING": "強迫",
+    "NEIGHBOR_1_USE": "只想表達 強迫，而不需要 force compliance through pressure or threat 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>coerce</code> 常和 <code>coerce a confession</code>、<code>coerce compliance</code>、<code>coerce the supplier</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 權力濫用、談判倫理與法務語境 的語境裡，這個字能比一般近義詞更精準地抓住 force compliance through pressure or threat。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/coerce",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/coerce",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/coerce",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 coerce 和 force 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像手不是牽著你走，而是抵在背後逼你往前。",
+    "CHECK_SENTENCE": "我能用 <code>coerce a confession</code> 或 <code>coerce compliance</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>coerce a confession</code> 或 <code>coerce compliance</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/coerce",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "coerce",
+    "word": "Coerce",
+    "partOfSpeech": "verb",
+    "href": "./coerce.html",
+    "thesis": "不是說服，而是讓對方在壓力下幾乎沒有真正選擇。",
+    "tags": [
+      "威逼強迫",
+      "背後頂著往前走",
+      "force",
+      "power",
+      "ethics",
+      "verb",
+      "coerce"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 coerce 和 force 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像手不是牽著你走，而是抵在背後逼你往前。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 coerce a confession 或 coerce compliance 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/coerce",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/coerce",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/coerce",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

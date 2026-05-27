@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Brazen",
+    "slug": "brazen",
+    "outputPath": "prototypes/brazen.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Brazen",
+    "WORD_SLUG": "brazen",
+    "WORD_LOWER": "brazen",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "BRAY-zn · UK /ˈbreɪ.zən/ · US /ˈbreɪ.zən/",
+    "THESIS": "不是勇敢，而是明知道會被罵，還是大剌剌地做給你看。",
+    "LEARNING_POSITION": "把 brazen 記成「boldly shameless in the face of criticism」：不是勇敢，而是明知道會被罵，還是大剌剌地做給你看。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.77",
+    "CORE_IDEA": "<code>brazen</code> 表示厚顏、無所顧忌地公然行事。",
+    "CONCEPT_FOCUS": "核心畫面是 boldly shameless in the face of criticism。",
+    "TONE_REGISTER": "這個字常見於 公共爭議、人物描寫與職場衝突；語氣上不是空泛形容，而是用來抓住 boldly shameless in the face of criticism 這種狀態或動作。",
+    "USE_WARNING": "不要把 brazen 只看成 bold；<code>bold</code> 多半只是 大膽，而 <code>brazen</code> 更強調 boldly shameless in the face of criticism。",
+    "SHORT_DEFINITION": "表示厚顏、無所顧忌地公然行事。",
+    "CONFUSION_WORD": "Bold",
+    "CONFUSION_NOTE": "<code>bold</code> 多半只是 大膽；<code>brazen</code> 則更偏向 boldly shameless in the face of criticism。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 boldly shameless in the face of criticism 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>brazen</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：boldly shameless in the face of criticism。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像在大家面前直接伸手拿最後一塊蛋糕，還跟你對視。",
+    "MEMORY_HOOK": "<code>brazen</code> 的畫面是：像在大家面前直接伸手拿最後一塊蛋糕，還跟你對視。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 brazen，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>brazen attempt</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>brazen lie</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "公共爭議、人物描寫與職場衝突 這類場景特別適合放進 <code>brazen move</code>，因為那裡常需要描述 boldly shameless in the face of criticism。",
+    "COLLOCATION_NOTE": "Brazen 很適合透過固定搭配來抓語感，尤其是你想把 boldly shameless in the face of criticism 說得更自然時。",
+    "COLLOCATION_1": "brazen attempt",
+    "REGISTER_1": "評論 / 公共",
+    "COLLOCATION_NOTE_1": "這個搭配能把 boldly shameless in the face of criticism 的語感直接帶出來。",
+    "COLLOCATION_2": "brazen lie",
+    "REGISTER_2": "媒體 / 觀察",
+    "COLLOCATION_NOTE_2": "放到 公共爭議、人物描寫與職場衝突 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "brazen move",
+    "REGISTER_3": "職場 / 衝突",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 brazen 的實際使用邊界。",
+    "NEIGHBOR_SELF": "boldly shameless in the face of criticism",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 大膽，而是 boldly shameless in the face of criticism 這層語感時",
+    "NEIGHBOR_1": "Bold",
+    "NEIGHBOR_1_MEANING": "大膽",
+    "NEIGHBOR_1_USE": "只想表達 大膽，而不需要 boldly shameless in the face of criticism 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>brazen</code> 常和 <code>brazen attempt</code>、<code>brazen lie</code>、<code>brazen move</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 公共爭議、人物描寫與職場衝突 的語境裡，這個字能比一般近義詞更精準地抓住 boldly shameless in the face of criticism。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/brazen",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/brazen",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/brazen",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 brazen 和 bold 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像在大家面前直接伸手拿最後一塊蛋糕，還跟你對視。",
+    "CHECK_SENTENCE": "我能用 <code>brazen attempt</code> 或 <code>brazen lie</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>brazen attempt</code> 或 <code>brazen lie</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/brazen",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "brazen",
+    "word": "Brazen",
+    "partOfSpeech": "adjective",
+    "href": "./brazen.html",
+    "thesis": "不是勇敢，而是明知道會被罵，還是大剌剌地做給你看。",
+    "tags": [
+      "厚顏公然",
+      "被看著也照做",
+      "bold",
+      "conflict",
+      "criticism",
+      "adjective",
+      "brazen"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 brazen 和 bold 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像在大家面前直接伸手拿最後一塊蛋糕，還跟你對視。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 brazen attempt 或 brazen lie 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/brazen",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/brazen",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/brazen",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

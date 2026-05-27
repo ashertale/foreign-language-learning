@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Intermittent",
+    "slug": "intermittent",
+    "outputPath": "prototypes/intermittent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Intermittent",
+    "WORD_SLUG": "intermittent",
+    "WORD_LOWER": "intermittent",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "in-ter-MIT-uhnt · UK /ˌɪn.təˈmɪt.ənt/ · US /ˌɪn.t̬ɚˈmɪt.ənt/",
+    "THESIS": "不是持續存在，而是一陣一陣地回來。",
+    "LEARNING_POSITION": "把 intermittent 記成「stopping and starting in spaced intervals」：不是持續存在，而是一陣一陣地回來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.89",
+    "CORE_IDEA": "<code>intermittent</code> 表示斷斷續續、間歇性的。",
+    "CONCEPT_FOCUS": "核心畫面是 stopping and starting in spaced intervals。",
+    "TONE_REGISTER": "這個字常見於 故障排查、症狀觀察與天氣描述；語氣上不是空泛形容，而是用來抓住 stopping and starting in spaced intervals 這種狀態或動作。",
+    "USE_WARNING": "不要把 intermittent 只看成 occasional；<code>occasional</code> 多半只是 偶爾的，而 <code>intermittent</code> 更強調 stopping and starting in spaced intervals。",
+    "SHORT_DEFINITION": "表示斷斷續續、間歇性的。",
+    "CONFUSION_WORD": "Occasional",
+    "CONFUSION_NOTE": "<code>occasional</code> 多半只是 偶爾的；<code>intermittent</code> 則更偏向 stopping and starting in spaced intervals。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 stopping and starting in spaced intervals 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>intermittent</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：stopping and starting in spaced intervals。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像窗外雨點不是連成線，而是一下敲幾聲又停幾分鐘。",
+    "MEMORY_HOOK": "<code>intermittent</code> 的畫面是：像窗外雨點不是連成線，而是一下敲幾聲又停幾分鐘。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 intermittent，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>intermittent signal</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>intermittent pain</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "故障排查、症狀觀察與天氣描述 這類場景特別適合放進 <code>intermittent rain</code>，因為那裡常需要描述 stopping and starting in spaced intervals。",
+    "COLLOCATION_NOTE": "Intermittent 很適合透過固定搭配來抓語感，尤其是你想把 stopping and starting in spaced intervals 說得更自然時。",
+    "COLLOCATION_1": "intermittent signal",
+    "REGISTER_1": "工程 / 訊號",
+    "COLLOCATION_NOTE_1": "這個搭配能把 stopping and starting in spaced intervals 的語感直接帶出來。",
+    "COLLOCATION_2": "intermittent pain",
+    "REGISTER_2": "健康 / 醫療",
+    "COLLOCATION_NOTE_2": "放到 故障排查、症狀觀察與天氣描述 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "intermittent rain",
+    "REGISTER_3": "自然 / 天氣",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 intermittent 的實際使用邊界。",
+    "NEIGHBOR_SELF": "stopping and starting in spaced intervals",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 偶爾的，而是 stopping and starting in spaced intervals 這層語感時",
+    "NEIGHBOR_1": "Occasional",
+    "NEIGHBOR_1_MEANING": "偶爾的",
+    "NEIGHBOR_1_USE": "只想表達 偶爾的，而不需要 stopping and starting in spaced intervals 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>intermittent</code> 常和 <code>intermittent signal</code>、<code>intermittent pain</code>、<code>intermittent rain</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 故障排查、症狀觀察與天氣描述 的語境裡，這個字能比一般近義詞更精準地抓住 stopping and starting in spaced intervals。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/intermittent",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/intermittent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/intermittent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 intermittent 和 occasional 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像窗外雨點不是連成線，而是一下敲幾聲又停幾分鐘。",
+    "CHECK_SENTENCE": "我能用 <code>intermittent signal</code> 或 <code>intermittent pain</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>intermittent signal</code> 或 <code>intermittent pain</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/intermittent",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "intermittent",
+    "word": "Intermittent",
+    "partOfSpeech": "adjective",
+    "href": "./intermittent.html",
+    "thesis": "不是持續存在，而是一陣一陣地回來。",
+    "tags": [
+      "一陣一陣",
+      "雨點敲幾聲又停",
+      "occasional",
+      "signal",
+      "symptoms",
+      "adjective",
+      "intermittent"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 intermittent 和 occasional 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像窗外雨點不是連成線，而是一下敲幾聲又停幾分鐘。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 intermittent signal 或 intermittent pain 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/intermittent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/intermittent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/intermittent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

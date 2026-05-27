@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Antagonize",
+    "slug": "antagonize",
+    "outputPath": "prototypes/antagonize.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Antagonize",
+    "WORD_SLUG": "antagonize",
+    "WORD_LOWER": "antagonize",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "an-TAG-uh-nyz · UK /ænˈtæɡ.ə.naɪz/ · US /ænˈtæɡ.ə.naɪz/",
+    "THESIS": "不是惹到一下，而是把對方推進對立或反感狀態。",
+    "LEARNING_POSITION": "把 antagonize 記成「provoke resistance or hostility in someone」：不是惹到一下，而是把對方推進對立或反感狀態。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.76",
+    "CORE_IDEA": "<code>antagonize</code> 表示激怒、招致敵意，讓他人開始反抗或不合作。",
+    "CONCEPT_FOCUS": "核心畫面是 provoke resistance or hostility in someone。",
+    "TONE_REGISTER": "這個字常見於 衝突升高、團隊關係與公共溝通；語氣上不是空泛形容，而是用來抓住 provoke resistance or hostility in someone 這種狀態或動作。",
+    "USE_WARNING": "不要把 antagonize 只看成 annoy；<code>annoy</code> 多半只是 惹惱，而 <code>antagonize</code> 更強調 provoke resistance or hostility in someone。",
+    "SHORT_DEFINITION": "表示激怒、招致敵意，讓他人開始反抗或不合作。",
+    "CONFUSION_WORD": "Annoy",
+    "CONFUSION_NOTE": "<code>annoy</code> 多半只是 惹惱；<code>antagonize</code> 則更偏向 provoke resistance or hostility in someone。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 provoke resistance or hostility in someone 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>antagonize</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：provoke resistance or hostility in someone。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像手指一直去戳同一塊瘀青，最後整個人都繃起來。",
+    "MEMORY_HOOK": "<code>antagonize</code> 的畫面是：像手指一直去戳同一塊瘀青，最後整個人都繃起來。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 antagonize，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>antagonize the team</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>antagonize voters</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "衝突升高、團隊關係與公共溝通 這類場景特別適合放進 <code>antagonize the audience</code>，因為那裡常需要描述 provoke resistance or hostility in someone。",
+    "COLLOCATION_NOTE": "Antagonize 很適合透過固定搭配來抓語感，尤其是你想把 provoke resistance or hostility in someone 說得更自然時。",
+    "COLLOCATION_1": "antagonize the team",
+    "REGISTER_1": "職場 / 團隊",
+    "COLLOCATION_NOTE_1": "這個搭配能把 provoke resistance or hostility in someone 的語感直接帶出來。",
+    "COLLOCATION_2": "antagonize voters",
+    "REGISTER_2": "政治 / 公共",
+    "COLLOCATION_NOTE_2": "放到 衝突升高、團隊關係與公共溝通 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "antagonize the audience",
+    "REGISTER_3": "媒體 / 表達",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 antagonize 的實際使用邊界。",
+    "NEIGHBOR_SELF": "provoke resistance or hostility in someone",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 惹惱，而是 provoke resistance or hostility in someone 這層語感時",
+    "NEIGHBOR_1": "Annoy",
+    "NEIGHBOR_1_MEANING": "惹惱",
+    "NEIGHBOR_1_USE": "只想表達 惹惱，而不需要 provoke resistance or hostility in someone 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>antagonize</code> 常和 <code>antagonize the team</code>、<code>antagonize voters</code>、<code>antagonize the audience</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 衝突升高、團隊關係與公共溝通 的語境裡，這個字能比一般近義詞更精準地抓住 provoke resistance or hostility in someone。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/antagonize",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/antagonize",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/antagonize",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 antagonize 和 annoy 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像手指一直去戳同一塊瘀青，最後整個人都繃起來。",
+    "CHECK_SENTENCE": "我能用 <code>antagonize the team</code> 或 <code>antagonize voters</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>antagonize the team</code> 或 <code>antagonize voters</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/antagonize",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "antagonize",
+    "word": "Antagonize",
+    "partOfSpeech": "verb",
+    "href": "./antagonize.html",
+    "thesis": "不是惹到一下，而是把對方推進對立或反感狀態。",
+    "tags": [
+      "激起敵意",
+      "把人推到對立",
+      "annoy",
+      "conflict",
+      "communication",
+      "verb",
+      "antagonize"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 antagonize 和 annoy 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像手指一直去戳同一塊瘀青，最後整個人都繃起來。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 antagonize the team 或 antagonize voters 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/antagonize",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/antagonize",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/antagonize",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

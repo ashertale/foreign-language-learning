@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Arbitrary",
+    "slug": "arbitrary",
+    "outputPath": "prototypes/arbitrary.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Arbitrary",
+    "WORD_SLUG": "arbitrary",
+    "WORD_LOWER": "arbitrary",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "AR-bi-trer-ee · UK /ˈɑː.bɪ.trər.i/ · US /ˈɑːr.bə.trer.i/",
+    "THESIS": "不是有原則的選擇，而是看誰說了算或隨手定一個。",
+    "LEARNING_POSITION": "把 arbitrary 記成「decided by will or chance instead of a clear rule」：不是有原則的選擇，而是看誰說了算或隨手定一個。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "3.21",
+    "CORE_IDEA": "<code>arbitrary</code> 表示武斷、任意，缺乏一致標準或合理依據。",
+    "CONCEPT_FOCUS": "核心畫面是 decided by will or chance instead of a clear rule。",
+    "TONE_REGISTER": "這個字常見於 制度公平、介面規則與決策品質；語氣上不是空泛形容，而是用來抓住 decided by will or chance instead of a clear rule 這種狀態或動作。",
+    "USE_WARNING": "不要把 arbitrary 只看成 random；<code>random</code> 多半只是 隨機，而 <code>arbitrary</code> 更強調 decided by will or chance instead of a clear rule。",
+    "SHORT_DEFINITION": "表示武斷、任意，缺乏一致標準或合理依據。",
+    "CONFUSION_WORD": "Random",
+    "CONFUSION_NOTE": "<code>random</code> 多半只是 隨機；<code>arbitrary</code> 則更偏向 decided by will or chance instead of a clear rule。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 decided by will or chance instead of a clear rule 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>arbitrary</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：decided by will or chance instead of a clear rule。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像尺上沒有刻度，卻還硬要說這一刀就是正確位置。",
+    "MEMORY_HOOK": "<code>arbitrary</code> 的畫面是：像尺上沒有刻度，卻還硬要說這一刀就是正確位置。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 arbitrary，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>arbitrary rule</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>arbitrary limit</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "制度公平、介面規則與決策品質 這類場景特別適合放進 <code>arbitrary decision</code>，因為那裡常需要描述 decided by will or chance instead of a clear rule。",
+    "COLLOCATION_NOTE": "Arbitrary 很適合透過固定搭配來抓語感，尤其是你想把 decided by will or chance instead of a clear rule 說得更自然時。",
+    "COLLOCATION_1": "arbitrary rule",
+    "REGISTER_1": "制度 / 規範",
+    "COLLOCATION_NOTE_1": "這個搭配能把 decided by will or chance instead of a clear rule 的語感直接帶出來。",
+    "COLLOCATION_2": "arbitrary limit",
+    "REGISTER_2": "產品 / 介面",
+    "COLLOCATION_NOTE_2": "放到 制度公平、介面規則與決策品質 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "arbitrary decision",
+    "REGISTER_3": "管理 / 決策",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 arbitrary 的實際使用邊界。",
+    "NEIGHBOR_SELF": "decided by will or chance instead of a clear rule",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 隨機，而是 decided by will or chance instead of a clear rule 這層語感時",
+    "NEIGHBOR_1": "Random",
+    "NEIGHBOR_1_MEANING": "隨機",
+    "NEIGHBOR_1_USE": "只想表達 隨機，而不需要 decided by will or chance instead of a clear rule 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>arbitrary</code> 常和 <code>arbitrary rule</code>、<code>arbitrary limit</code>、<code>arbitrary decision</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 制度公平、介面規則與決策品質 的語境裡，這個字能比一般近義詞更精準地抓住 decided by will or chance instead of a clear rule。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/arbitrary",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/arbitrary",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/arbitrary",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 arbitrary 和 random 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像尺上沒有刻度，卻還硬要說這一刀就是正確位置。",
+    "CHECK_SENTENCE": "我能用 <code>arbitrary rule</code> 或 <code>arbitrary limit</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>arbitrary rule</code> 或 <code>arbitrary limit</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/arbitrary",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "arbitrary",
+    "word": "Arbitrary",
+    "partOfSpeech": "adjective",
+    "href": "./arbitrary.html",
+    "thesis": "不是有原則的選擇，而是看誰說了算或隨手定一個。",
+    "tags": [
+      "任意武斷",
+      "沒有清楚標準",
+      "random",
+      "rules",
+      "decision",
+      "adjective",
+      "arbitrary"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 arbitrary 和 random 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像尺上沒有刻度，卻還硬要說這一刀就是正確位置。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 arbitrary rule 或 arbitrary limit 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/arbitrary",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/arbitrary",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/arbitrary",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -398,7 +398,7 @@ def main() -> int:
     parser.add_argument(
         "--reuse-payloads",
         action="store_true",
-        help="Allow rerunning the same batch when payload JSON files already exist.",
+        help="Allow resuming when payload JSON files already exist; existing rendered HTML pages are still rejected.",
     )
     args = parser.parse_args()
 

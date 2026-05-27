@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Parity",
+    "slug": "parity",
+    "outputPath": "prototypes/parity.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Parity",
+    "WORD_SLUG": "parity",
+    "WORD_LOWER": "parity",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "PAIR-uh-tee · UK /ˈpær.ə.ti/ · US /ˈper.ə.t̬i/",
+    "THESIS": "不是都差不多，而是到了可互相比肩的同一水平。",
+    "LEARNING_POSITION": "把 parity 記成「a state of meaningful equality between sides」：不是都差不多，而是到了可互相比肩的同一水平。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.60",
+    "CORE_IDEA": "<code>parity</code> 表示對等、同等地位或水準。",
+    "CONCEPT_FOCUS": "核心畫面是 a state of meaningful equality between sides。",
+    "TONE_REGISTER": "這個字常見於 薪資比較、市場競爭與標準對齊；語氣上不是空泛形容，而是用來抓住 a state of meaningful equality between sides 這種狀態或動作。",
+    "USE_WARNING": "不要把 parity 只看成 equality；<code>equality</code> 多半只是 平等，而 <code>parity</code> 更強調 a state of meaningful equality between sides。",
+    "SHORT_DEFINITION": "表示對等、同等地位或水準。",
+    "CONFUSION_WORD": "Equality",
+    "CONFUSION_NOTE": "<code>equality</code> 多半只是 平等；<code>parity</code> 則更偏向 a state of meaningful equality between sides。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 a state of meaningful equality between sides 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>parity</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：a state of meaningful equality between sides。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像兩邊天平終於回到水平，不再明顯偏向哪一端。",
+    "MEMORY_HOOK": "<code>parity</code> 的畫面是：像兩邊天平終於回到水平，不再明顯偏向哪一端。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 parity，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>pay parity</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>parity with competitors</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "薪資比較、市場競爭與標準對齊 這類場景特別適合放進 <code>reach parity</code>，因為那裡常需要描述 a state of meaningful equality between sides。",
+    "COLLOCATION_NOTE": "Parity 很適合透過固定搭配來抓語感，尤其是你想把 a state of meaningful equality between sides 說得更自然時。",
+    "COLLOCATION_1": "pay parity",
+    "REGISTER_1": "職場 / 薪資",
+    "COLLOCATION_NOTE_1": "這個搭配能把 a state of meaningful equality between sides 的語感直接帶出來。",
+    "COLLOCATION_2": "parity with competitors",
+    "REGISTER_2": "商業 / 市場",
+    "COLLOCATION_NOTE_2": "放到 薪資比較、市場競爭與標準對齊 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "reach parity",
+    "REGISTER_3": "策略 / 評估",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 parity 的實際使用邊界。",
+    "NEIGHBOR_SELF": "a state of meaningful equality between sides",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 平等，而是 a state of meaningful equality between sides 這層語感時",
+    "NEIGHBOR_1": "Equality",
+    "NEIGHBOR_1_MEANING": "平等",
+    "NEIGHBOR_1_USE": "只想表達 平等，而不需要 a state of meaningful equality between sides 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>parity</code> 常和 <code>pay parity</code>、<code>parity with competitors</code>、<code>reach parity</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 薪資比較、市場競爭與標準對齊 的語境裡，這個字能比一般近義詞更精準地抓住 a state of meaningful equality between sides。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/parity",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/parity",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/parity",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 parity 和 equality 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像兩邊天平終於回到水平，不再明顯偏向哪一端。",
+    "CHECK_SENTENCE": "我能用 <code>pay parity</code> 或 <code>parity with competitors</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>pay parity</code> 或 <code>parity with competitors</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/parity",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "parity",
+    "word": "Parity",
+    "partOfSpeech": "noun",
+    "href": "./parity.html",
+    "thesis": "不是都差不多，而是到了可互相比肩的同一水平。",
+    "tags": [
+      "對等水平",
+      "天平終於回到水平",
+      "equality",
+      "competition",
+      "pay",
+      "noun",
+      "parity"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 parity 和 equality 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像兩邊天平終於回到水平，不再明顯偏向哪一端。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 pay parity 或 parity with competitors 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/parity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/parity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/parity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

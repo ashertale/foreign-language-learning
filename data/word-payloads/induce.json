@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Induce",
+    "slug": "induce",
+    "outputPath": "prototypes/induce.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Induce",
+    "WORD_SLUG": "induce",
+    "WORD_LOWER": "induce",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "in-DOOS · UK /ɪnˈdjuːs/ · US /ɪnˈduːs/",
+    "THESIS": "不是直接發生，而是由某個因素把它引出來。",
+    "LEARNING_POSITION": "把 induce 記成「bring about an effect or persuade toward it」：不是直接發生，而是由某個因素把它引出來。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.98",
+    "CORE_IDEA": "<code>induce</code> 表示引起、促成某結果，或勸誘某人採取行動。",
+    "CONCEPT_FOCUS": "核心畫面是 bring about an effect or persuade toward it。",
+    "TONE_REGISTER": "這個字常見於 醫療程序、結果因果與說服情境；語氣上不是空泛形容，而是用來抓住 bring about an effect or persuade toward it 這種狀態或動作。",
+    "USE_WARNING": "不要把 induce 只看成 cause；<code>cause</code> 多半只是 造成，而 <code>induce</code> 更強調 bring about an effect or persuade toward it。",
+    "SHORT_DEFINITION": "表示引起、促成某結果，或勸誘某人採取行動。",
+    "CONFUSION_WORD": "Cause",
+    "CONFUSION_NOTE": "<code>cause</code> 多半只是 造成；<code>induce</code> 則更偏向 bring about an effect or persuade toward it。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 bring about an effect or persuade toward it 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>induce</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：bring about an effect or persuade toward it。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像按下一個開關，不是燈自己亮，而是某個動作把亮度叫出來。",
+    "MEMORY_HOOK": "<code>induce</code> 的畫面是：像按下一個開關，不是燈自己亮，而是某個動作把亮度叫出來。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 induce，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>induce sleep</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>induce a response</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "醫療程序、結果因果與說服情境 這類場景特別適合放進 <code>induce someone to act</code>，因為那裡常需要描述 bring about an effect or persuade toward it。",
+    "COLLOCATION_NOTE": "Induce 很適合透過固定搭配來抓語感，尤其是你想把 bring about an effect or persuade toward it 說得更自然時。",
+    "COLLOCATION_1": "induce sleep",
+    "REGISTER_1": "健康 / 醫療",
+    "COLLOCATION_NOTE_1": "這個搭配能把 bring about an effect or persuade toward it 的語感直接帶出來。",
+    "COLLOCATION_2": "induce a response",
+    "REGISTER_2": "工程 / 測試",
+    "COLLOCATION_NOTE_2": "放到 醫療程序、結果因果與說服情境 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "induce someone to act",
+    "REGISTER_3": "溝通 / 勸說",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 induce 的實際使用邊界。",
+    "NEIGHBOR_SELF": "bring about an effect or persuade toward it",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 造成，而是 bring about an effect or persuade toward it 這層語感時",
+    "NEIGHBOR_1": "Cause",
+    "NEIGHBOR_1_MEANING": "造成",
+    "NEIGHBOR_1_USE": "只想表達 造成，而不需要 bring about an effect or persuade toward it 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>induce</code> 常和 <code>induce sleep</code>、<code>induce a response</code>、<code>induce someone to act</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 醫療程序、結果因果與說服情境 的語境裡，這個字能比一般近義詞更精準地抓住 bring about an effect or persuade toward it。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/induce",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/induce",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/induce",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 induce 和 cause 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像按下一個開關，不是燈自己亮，而是某個動作把亮度叫出來。",
+    "CHECK_SENTENCE": "我能用 <code>induce sleep</code> 或 <code>induce a response</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>induce sleep</code> 或 <code>induce a response</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/induce",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "induce",
+    "word": "Induce",
+    "partOfSpeech": "verb",
+    "href": "./induce.html",
+    "thesis": "不是直接發生，而是由某個因素把它引出來。",
+    "tags": [
+      "引出結果",
+      "按開關把亮度叫出來",
+      "cause",
+      "effect",
+      "persuasion",
+      "verb",
+      "induce"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 induce 和 cause 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像按下一個開關，不是燈自己亮，而是某個動作把亮度叫出來。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 induce sleep 或 induce a response 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/induce",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/induce",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/induce",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Avail",
+    "slug": "avail",
+    "outputPath": "prototypes/avail.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Avail",
+    "WORD_SLUG": "avail",
+    "WORD_LOWER": "avail",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "uh-VAYL · UK /əˈveɪl/ · US /əˈveɪl/",
+    "THESIS": "不是理論上有幫助，而是真的足以讓結果不一樣。",
+    "LEARNING_POSITION": "把 avail 記成「be of practical use in changing the outcome」：不是理論上有幫助，而是真的足以讓結果不一樣。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.40",
+    "CORE_IDEA": "<code>avail</code> 表示有實際用處、能起作用，常見於 to no avail。",
+    "CONCEPT_FOCUS": "核心畫面是 be of practical use in changing the outcome。",
+    "TONE_REGISTER": "這個字常見於 努力成效、資源利用與正式書面語；語氣上不是空泛形容，而是用來抓住 be of practical use in changing the outcome 這種狀態或動作。",
+    "USE_WARNING": "不要把 avail 只看成 help；<code>help</code> 多半只是 幫上忙，而 <code>avail</code> 更強調 be of practical use in changing the outcome。",
+    "SHORT_DEFINITION": "表示有實際用處、能起作用，常見於 to no avail。",
+    "CONFUSION_WORD": "Help",
+    "CONFUSION_NOTE": "<code>help</code> 多半只是 幫上忙；<code>avail</code> 則更偏向 be of practical use in changing the outcome。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 be of practical use in changing the outcome 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>avail</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：be of practical use in changing the outcome。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像手邊工具看起來齊全，但真正轉不動那顆螺絲時，才知道它到底有沒有用。",
+    "MEMORY_HOOK": "<code>avail</code> 的畫面是：像手邊工具看起來齊全，但真正轉不動那顆螺絲時，才知道它到底有沒有用。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 avail，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>to no avail</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>little avail</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "努力成效、資源利用與正式書面語 這類場景特別適合放進 <code>avail yourself of resources</code>，因為那裡常需要描述 be of practical use in changing the outcome。",
+    "COLLOCATION_NOTE": "Avail 很適合透過固定搭配來抓語感，尤其是你想把 be of practical use in changing the outcome 說得更自然時。",
+    "COLLOCATION_1": "to no avail",
+    "REGISTER_1": "寫作 / 敘事",
+    "COLLOCATION_NOTE_1": "這個搭配能把 be of practical use in changing the outcome 的語感直接帶出來。",
+    "COLLOCATION_2": "little avail",
+    "REGISTER_2": "評論 / 分析",
+    "COLLOCATION_NOTE_2": "放到 努力成效、資源利用與正式書面語 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "avail yourself of resources",
+    "REGISTER_3": "正式 / 指引",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 avail 的實際使用邊界。",
+    "NEIGHBOR_SELF": "be of practical use in changing the outcome",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 幫上忙，而是 be of practical use in changing the outcome 這層語感時",
+    "NEIGHBOR_1": "Help",
+    "NEIGHBOR_1_MEANING": "幫上忙",
+    "NEIGHBOR_1_USE": "只想表達 幫上忙，而不需要 be of practical use in changing the outcome 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>avail</code> 常和 <code>to no avail</code>、<code>little avail</code>、<code>avail yourself of resources</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 努力成效、資源利用與正式書面語 的語境裡，這個字能比一般近義詞更精準地抓住 be of practical use in changing the outcome。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/avail",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/avail",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/avail",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 avail 和 help 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像手邊工具看起來齊全，但真正轉不動那顆螺絲時，才知道它到底有沒有用。",
+    "CHECK_SENTENCE": "我能用 <code>to no avail</code> 或 <code>little avail</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>to no avail</code> 或 <code>little avail</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/avail",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "avail",
+    "word": "Avail",
+    "partOfSpeech": "verb",
+    "href": "./avail.html",
+    "thesis": "不是理論上有幫助，而是真的足以讓結果不一樣。",
+    "tags": [
+      "實際起作用",
+      "真的幫上忙",
+      "help",
+      "effort",
+      "resources",
+      "verb",
+      "avail"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 avail 和 help 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像手邊工具看起來齊全，但真正轉不動那顆螺絲時，才知道它到底有沒有用。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 to no avail 或 little avail 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/avail",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/avail",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/avail",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

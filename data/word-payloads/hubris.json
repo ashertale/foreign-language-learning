@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Hubris",
+    "slug": "hubris",
+    "outputPath": "prototypes/hubris.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Hubris",
+    "WORD_SLUG": "hubris",
+    "WORD_LOWER": "hubris",
+    "PART_OF_SPEECH": "noun",
+    "IPA": "HYOO-bris · UK /ˈhjuː.brɪs/ · US /ˈhjuː.brɪs/",
+    "THESIS": "不是自信，而是高到開始看不見自己的限度。",
+    "LEARNING_POSITION": "把 hubris 記成「overbearing pride that blinds judgment」：不是自信，而是高到開始看不見自己的限度。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.45",
+    "CORE_IDEA": "<code>hubris</code> 表示傲慢、自大到近乎招禍。",
+    "CONCEPT_FOCUS": "核心畫面是 overbearing pride that blinds judgment。",
+    "TONE_REGISTER": "這個字常見於 領導失誤、歷史悲劇與評論語氣；語氣上不是空泛形容，而是用來抓住 overbearing pride that blinds judgment 這種狀態或動作。",
+    "USE_WARNING": "不要把 hubris 只看成 arrogance；<code>arrogance</code> 多半只是 傲慢，而 <code>hubris</code> 更強調 overbearing pride that blinds judgment。",
+    "SHORT_DEFINITION": "表示傲慢、自大到近乎招禍。",
+    "CONFUSION_WORD": "Arrogance",
+    "CONFUSION_NOTE": "<code>arrogance</code> 多半只是 傲慢；<code>hubris</code> 則更偏向 overbearing pride that blinds judgment。",
+    "FLOW_1": "先有情境或觀察",
+    "FLOW_2": "用這個詞抓住 overbearing pride that blinds judgment 的核心",
+    "FLOW_3": "讓理解與表達更聚焦",
+    "ORIGIN_PARAGRAPH": "學 <code>hubris</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：overbearing pride that blinds judgment。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像飛得太高的人誤把雲層當地面，以為再往上也不會有事。",
+    "MEMORY_HOOK": "<code>hubris</code> 的畫面是：像飛得太高的人誤把雲層當地面，以為再往上也不會有事。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 hubris，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>hubris of power</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>corporate hubris</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "領導失誤、歷史悲劇與評論語氣 這類場景特別適合放進 <code>tragic hubris</code>，因為那裡常需要描述 overbearing pride that blinds judgment。",
+    "COLLOCATION_NOTE": "Hubris 很適合透過固定搭配來抓語感，尤其是你想把 overbearing pride that blinds judgment 說得更自然時。",
+    "COLLOCATION_1": "hubris of power",
+    "REGISTER_1": "政治 / 評論",
+    "COLLOCATION_NOTE_1": "這個搭配能把 overbearing pride that blinds judgment 的語感直接帶出來。",
+    "COLLOCATION_2": "corporate hubris",
+    "REGISTER_2": "商業 / 評價",
+    "COLLOCATION_NOTE_2": "放到 領導失誤、歷史悲劇與評論語氣 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "tragic hubris",
+    "REGISTER_3": "文學 / 敘事",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 hubris 的實際使用邊界。",
+    "NEIGHBOR_SELF": "overbearing pride that blinds judgment",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 傲慢，而是 overbearing pride that blinds judgment 這層語感時",
+    "NEIGHBOR_1": "Arrogance",
+    "NEIGHBOR_1_MEANING": "傲慢",
+    "NEIGHBOR_1_USE": "只想表達 傲慢，而不需要 overbearing pride that blinds judgment 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>hubris</code> 常和 <code>hubris of power</code>、<code>corporate hubris</code>、<code>tragic hubris</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 領導失誤、歷史悲劇與評論語氣 的語境裡，這個字能比一般近義詞更精準地抓住 overbearing pride that blinds judgment。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/hubris",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/hubris",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/hubris",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 hubris 和 arrogance 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像飛得太高的人誤把雲層當地面，以為再往上也不會有事。",
+    "CHECK_SENTENCE": "我能用 <code>hubris of power</code> 或 <code>corporate hubris</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>hubris of power</code> 或 <code>corporate hubris</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/hubris",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "hubris",
+    "word": "Hubris",
+    "partOfSpeech": "noun",
+    "href": "./hubris.html",
+    "thesis": "不是自信，而是高到開始看不見自己的限度。",
+    "tags": [
+      "傲慢失明",
+      "把雲層當成地面",
+      "arrogance",
+      "power",
+      "tragedy",
+      "noun",
+      "hubris"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 hubris 和 arrogance 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像飛得太高的人誤把雲層當地面，以為再往上也不會有事。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 hubris of power 或 corporate hubris 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/hubris",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/hubris",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/hubris",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

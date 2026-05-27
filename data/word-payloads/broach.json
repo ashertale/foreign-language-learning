@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Broach",
+    "slug": "broach",
+    "outputPath": "prototypes/broach.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Broach",
+    "WORD_SLUG": "broach",
+    "WORD_LOWER": "broach",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "BROHCH · UK /brəʊtʃ/ · US /broʊtʃ/",
+    "THESIS": "不是隨口提一下，而是小心把某個敏感話題推到桌面上。",
+    "LEARNING_POSITION": "把 broach 記成「bring up a delicate topic for discussion」：不是隨口提一下，而是小心把某個敏感話題推到桌面上。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.76",
+    "CORE_IDEA": "<code>broach</code> 表示開啟、提出一個可能尷尬或重要的討論。",
+    "CONCEPT_FOCUS": "核心畫面是 bring up a delicate topic for discussion。",
+    "TONE_REGISTER": "這個字常見於 困難對話、績效回饋與家庭協商；語氣上不是空泛形容，而是用來抓住 bring up a delicate topic for discussion 這種狀態或動作。",
+    "USE_WARNING": "不要把 broach 只看成 mention；<code>mention</code> 多半只是 提到，而 <code>broach</code> 更強調 bring up a delicate topic for discussion。",
+    "SHORT_DEFINITION": "表示開啟、提出一個可能尷尬或重要的討論。",
+    "CONFUSION_WORD": "Mention",
+    "CONFUSION_NOTE": "<code>mention</code> 多半只是 提到；<code>broach</code> 則更偏向 bring up a delicate topic for discussion。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 bring up a delicate topic for discussion 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>broach</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：bring up a delicate topic for discussion。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像把封著的盒蓋先掀開一角，讓大家都知道裡面的事得談了。",
+    "MEMORY_HOOK": "<code>broach</code> 的畫面是：像把封著的盒蓋先掀開一角，讓大家都知道裡面的事得談了。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 broach，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>broach the subject</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>broach a concern</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "困難對話、績效回饋與家庭協商 這類場景特別適合放進 <code>broach the issue gently</code>，因為那裡常需要描述 bring up a delicate topic for discussion。",
+    "COLLOCATION_NOTE": "Broach 很適合透過固定搭配來抓語感，尤其是你想把 bring up a delicate topic for discussion 說得更自然時。",
+    "COLLOCATION_1": "broach the subject",
+    "REGISTER_1": "溝通 / 對話",
+    "COLLOCATION_NOTE_1": "這個搭配能把 bring up a delicate topic for discussion 的語感直接帶出來。",
+    "COLLOCATION_2": "broach a concern",
+    "REGISTER_2": "職場 / 回饋",
+    "COLLOCATION_NOTE_2": "放到 困難對話、績效回饋與家庭協商 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "broach the issue gently",
+    "REGISTER_3": "人際 / 協商",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 broach 的實際使用邊界。",
+    "NEIGHBOR_SELF": "bring up a delicate topic for discussion",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 提到，而是 bring up a delicate topic for discussion 這層語感時",
+    "NEIGHBOR_1": "Mention",
+    "NEIGHBOR_1_MEANING": "提到",
+    "NEIGHBOR_1_USE": "只想表達 提到，而不需要 bring up a delicate topic for discussion 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>broach</code> 常和 <code>broach the subject</code>、<code>broach a concern</code>、<code>broach the issue gently</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 困難對話、績效回饋與家庭協商 的語境裡，這個字能比一般近義詞更精準地抓住 bring up a delicate topic for discussion。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/broach",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/broach",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/broach",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 broach 和 mention 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像把封著的盒蓋先掀開一角，讓大家都知道裡面的事得談了。",
+    "CHECK_SENTENCE": "我能用 <code>broach the subject</code> 或 <code>broach a concern</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>broach the subject</code> 或 <code>broach a concern</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/broach",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "broach",
+    "word": "Broach",
+    "partOfSpeech": "verb",
+    "href": "./broach.html",
+    "thesis": "不是隨口提一下，而是小心把某個敏感話題推到桌面上。",
+    "tags": [
+      "開敏感話題",
+      "把盒蓋掀開一角",
+      "mention",
+      "conversation",
+      "feedback",
+      "verb",
+      "broach"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 broach 和 mention 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像把封著的盒蓋先掀開一角，讓大家都知道裡面的事得談了。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 broach the subject 或 broach a concern 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/broach",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/broach",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/broach",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

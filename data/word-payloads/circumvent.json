@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Circumvent",
+    "slug": "circumvent",
+    "outputPath": "prototypes/circumvent.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Circumvent",
+    "WORD_SLUG": "circumvent",
+    "WORD_LOWER": "circumvent",
+    "PART_OF_SPEECH": "verb",
+    "IPA": "sir-kum-VENT · UK /ˌsɜː.kəmˈvent/ · US /ˌsɝː.kəmˈvent/",
+    "THESIS": "不是正面解掉，而是從旁邊繞過去。",
+    "LEARNING_POSITION": "把 circumvent 記成「get around an obstacle or rule by a side route」：不是正面解掉，而是從旁邊繞過去。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.86",
+    "CORE_IDEA": "<code>circumvent</code> 表示規避障礙、限制或規則，尋找替代通道。",
+    "CONCEPT_FOCUS": "核心畫面是 get around an obstacle or rule by a side route。",
+    "TONE_REGISTER": "這個字常見於 限制規避、系統設計與策略應對；語氣上不是空泛形容，而是用來抓住 get around an obstacle or rule by a side route 這種狀態或動作。",
+    "USE_WARNING": "不要把 circumvent 只看成 avoid；<code>avoid</code> 多半只是 避開，而 <code>circumvent</code> 更強調 get around an obstacle or rule by a side route。",
+    "SHORT_DEFINITION": "表示規避障礙、限制或規則，尋找替代通道。",
+    "CONFUSION_WORD": "Avoid",
+    "CONFUSION_NOTE": "<code>avoid</code> 多半只是 避開；<code>circumvent</code> 則更偏向 get around an obstacle or rule by a side route。",
+    "FLOW_1": "先有情況、對象或目標",
+    "FLOW_2": "用 get around an obstacle or rule by a side route 的方式推進",
+    "FLOW_3": "結果慢慢變得可見或可感",
+    "ORIGIN_PARAGRAPH": "學 <code>circumvent</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：get around an obstacle or rule by a side route。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像正門鎖住時，不去撞門，而是繞到側邊找一扇還沒封的窗。",
+    "MEMORY_HOOK": "<code>circumvent</code> 的畫面是：像正門鎖住時，不去撞門，而是繞到側邊找一扇還沒封的窗。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 circumvent，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>circumvent the restriction</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>circumvent the rule</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "限制規避、系統設計與策略應對 這類場景特別適合放進 <code>circumvent a bottleneck</code>，因為那裡常需要描述 get around an obstacle or rule by a side route。",
+    "COLLOCATION_NOTE": "Circumvent 很適合透過固定搭配來抓語感，尤其是你想把 get around an obstacle or rule by a side route 說得更自然時。",
+    "COLLOCATION_1": "circumvent the restriction",
+    "REGISTER_1": "工程 / 系統",
+    "COLLOCATION_NOTE_1": "這個搭配能把 get around an obstacle or rule by a side route 的語感直接帶出來。",
+    "COLLOCATION_2": "circumvent the rule",
+    "REGISTER_2": "制度 / 合規",
+    "COLLOCATION_NOTE_2": "放到 限制規避、系統設計與策略應對 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "circumvent a bottleneck",
+    "REGISTER_3": "流程 / 管理",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 circumvent 的實際使用邊界。",
+    "NEIGHBOR_SELF": "get around an obstacle or rule by a side route",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 避開，而是 get around an obstacle or rule by a side route 這層語感時",
+    "NEIGHBOR_1": "Avoid",
+    "NEIGHBOR_1_MEANING": "避開",
+    "NEIGHBOR_1_USE": "只想表達 避開，而不需要 get around an obstacle or rule by a side route 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>circumvent</code> 常和 <code>circumvent the restriction</code>、<code>circumvent the rule</code>、<code>circumvent a bottleneck</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 限制規避、系統設計與策略應對 的語境裡，這個字能比一般近義詞更精準地抓住 get around an obstacle or rule by a side route。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/circumvent",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/circumvent",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/circumvent",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 circumvent 和 avoid 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像正門鎖住時，不去撞門，而是繞到側邊找一扇還沒封的窗。",
+    "CHECK_SENTENCE": "我能用 <code>circumvent the restriction</code> 或 <code>circumvent the rule</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>circumvent the restriction</code> 或 <code>circumvent the rule</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/circumvent",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "circumvent",
+    "word": "Circumvent",
+    "partOfSpeech": "verb",
+    "href": "./circumvent.html",
+    "thesis": "不是正面解掉，而是從旁邊繞過去。",
+    "tags": [
+      "從旁邊繞過",
+      "鎖門時改找側窗",
+      "avoid",
+      "restriction",
+      "strategy",
+      "verb",
+      "circumvent"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 circumvent 和 avoid 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像正門鎖住時，不去撞門，而是繞到側邊找一扇還沒封的窗。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 circumvent the restriction 或 circumvent the rule 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/circumvent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/circumvent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/circumvent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

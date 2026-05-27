@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Byzantine",
+    "slug": "byzantine",
+    "outputPath": "prototypes/byzantine.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Byzantine",
+    "WORD_SLUG": "byzantine",
+    "WORD_LOWER": "byzantine",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "BIZ-un-teen · UK /bɪˈzæn.tiːn/ · US /ˈbɪz.ən.tiːn/",
+    "THESIS": "不是複雜而已，而是彎來彎去，規則像迷宮一樣。",
+    "LEARNING_POSITION": "把 byzantine 記成「overly intricate with hidden turns and layers」：不是複雜而已，而是彎來彎去，規則像迷宮一樣。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.39",
+    "CORE_IDEA": "<code>byzantine</code> 表示結構、程序或權力關係極端繁複曲折。",
+    "CONCEPT_FOCUS": "核心畫面是 overly intricate with hidden turns and layers。",
+    "TONE_REGISTER": "這個字常見於 官僚流程、權力網絡與舊系統；語氣上不是空泛形容，而是用來抓住 overly intricate with hidden turns and layers 這種狀態或動作。",
+    "USE_WARNING": "不要把 byzantine 只看成 complex；<code>complex</code> 多半只是 複雜，而 <code>byzantine</code> 更強調 overly intricate with hidden turns and layers。",
+    "SHORT_DEFINITION": "表示結構、程序或權力關係極端繁複曲折。",
+    "CONFUSION_WORD": "Complex",
+    "CONFUSION_NOTE": "<code>complex</code> 多半只是 複雜；<code>byzantine</code> 則更偏向 overly intricate with hidden turns and layers。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 overly intricate with hidden turns and layers 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>byzantine</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：overly intricate with hidden turns and layers。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像走進沒有窗的走廊群，每個轉角都像還藏著另一條規則。",
+    "MEMORY_HOOK": "<code>byzantine</code> 的畫面是：像走進沒有窗的走廊群，每個轉角都像還藏著另一條規則。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 byzantine，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>byzantine procedure</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>byzantine rules</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "官僚流程、權力網絡與舊系統 這類場景特別適合放進 <code>byzantine system</code>，因為那裡常需要描述 overly intricate with hidden turns and layers。",
+    "COLLOCATION_NOTE": "Byzantine 很適合透過固定搭配來抓語感，尤其是你想把 overly intricate with hidden turns and layers 說得更自然時。",
+    "COLLOCATION_1": "byzantine procedure",
+    "REGISTER_1": "制度 / 流程",
+    "COLLOCATION_NOTE_1": "這個搭配能把 overly intricate with hidden turns and layers 的語感直接帶出來。",
+    "COLLOCATION_2": "byzantine rules",
+    "REGISTER_2": "法規 / 管理",
+    "COLLOCATION_NOTE_2": "放到 官僚流程、權力網絡與舊系統 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "byzantine system",
+    "REGISTER_3": "工程 / 舊系統",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 byzantine 的實際使用邊界。",
+    "NEIGHBOR_SELF": "overly intricate with hidden turns and layers",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 複雜，而是 overly intricate with hidden turns and layers 這層語感時",
+    "NEIGHBOR_1": "Complex",
+    "NEIGHBOR_1_MEANING": "複雜",
+    "NEIGHBOR_1_USE": "只想表達 複雜，而不需要 overly intricate with hidden turns and layers 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>byzantine</code> 常和 <code>byzantine procedure</code>、<code>byzantine rules</code>、<code>byzantine system</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 官僚流程、權力網絡與舊系統 的語境裡，這個字能比一般近義詞更精準地抓住 overly intricate with hidden turns and layers。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/byzantine",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/byzantine",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/byzantine",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 byzantine 和 complex 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像走進沒有窗的走廊群，每個轉角都像還藏著另一條規則。",
+    "CHECK_SENTENCE": "我能用 <code>byzantine procedure</code> 或 <code>byzantine rules</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>byzantine procedure</code> 或 <code>byzantine rules</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/byzantine",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "byzantine",
+    "word": "Byzantine",
+    "partOfSpeech": "adjective",
+    "href": "./byzantine.html",
+    "thesis": "不是複雜而已，而是彎來彎去，規則像迷宮一樣。",
+    "tags": [
+      "迷宮式繁複",
+      "每個轉角還藏規則",
+      "complex",
+      "process",
+      "systems",
+      "adjective",
+      "byzantine"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 byzantine 和 complex 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像走進沒有窗的走廊群，每個轉角都像還藏著另一條規則。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 byzantine procedure 或 byzantine rules 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/byzantine",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/byzantine",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/byzantine",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

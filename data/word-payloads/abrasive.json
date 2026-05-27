@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Abrasive",
+    "slug": "abrasive",
+    "outputPath": "prototypes/abrasive.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Abrasive",
+    "WORD_SLUG": "abrasive",
+    "WORD_LOWER": "abrasive",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "uh-BRAY-siv · UK /əˈbreɪ.sɪv/ · US /əˈbreɪ.sɪv/",
+    "THESIS": "不是直接而已，而是帶著磨擦感，讓人一接觸就覺得被刮到。",
+    "LEARNING_POSITION": "把 abrasive 記成「rough in texture or manner that scrapes against others」：不是直接而已，而是帶著磨擦感，讓人一接觸就覺得被刮到。",
+    "CEFR_LEVEL": "C1",
+    "ZIPF_FREQUENCY": "2.84",
+    "CORE_IDEA": "<code>abrasive</code> 表示表面粗糙，或說話做事方式生硬刺人、容易引發反感。",
+    "CONCEPT_FOCUS": "核心畫面是 rough in texture or manner that scrapes against others。",
+    "TONE_REGISTER": "這個字常見於 材料特性、人際互動與回饋語氣；語氣上不是空泛形容，而是用來抓住 rough in texture or manner that scrapes against others 這種狀態或動作。",
+    "USE_WARNING": "不要把 abrasive 只看成 harsh；<code>harsh</code> 多半只是 尖銳或嚴厲，而 <code>abrasive</code> 更強調 rough in texture or manner that scrapes against others。",
+    "SHORT_DEFINITION": "表示表面粗糙，或說話做事方式生硬刺人、容易引發反感。",
+    "CONFUSION_WORD": "Harsh",
+    "CONFUSION_NOTE": "<code>harsh</code> 多半只是 尖銳或嚴厲；<code>abrasive</code> 則更偏向 rough in texture or manner that scrapes against others。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 rough in texture or manner that scrapes against others 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>abrasive</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：rough in texture or manner that scrapes against others。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像砂紙不是故意打人，但一碰就會把表面磨得不舒服。",
+    "MEMORY_HOOK": "<code>abrasive</code> 的畫面是：像砂紙不是故意打人，但一碰就會把表面磨得不舒服。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 abrasive，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>abrasive surface</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>abrasive tone</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "材料特性、人際互動與回饋語氣 這類場景特別適合放進 <code>abrasive feedback</code>，因為那裡常需要描述 rough in texture or manner that scrapes against others。",
+    "COLLOCATION_NOTE": "Abrasive 很適合透過固定搭配來抓語感，尤其是你想把 rough in texture or manner that scrapes against others 說得更自然時。",
+    "COLLOCATION_1": "abrasive surface",
+    "REGISTER_1": "材料 / 工程",
+    "COLLOCATION_NOTE_1": "這個搭配能把 rough in texture or manner that scrapes against others 的語感直接帶出來。",
+    "COLLOCATION_2": "abrasive tone",
+    "REGISTER_2": "溝通 / 人際",
+    "COLLOCATION_NOTE_2": "放到 材料特性、人際互動與回饋語氣 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "abrasive feedback",
+    "REGISTER_3": "職場 / 協作",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 abrasive 的實際使用邊界。",
+    "NEIGHBOR_SELF": "rough in texture or manner that scrapes against others",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 尖銳或嚴厲，而是 rough in texture or manner that scrapes against others 這層語感時",
+    "NEIGHBOR_1": "Harsh",
+    "NEIGHBOR_1_MEANING": "尖銳或嚴厲",
+    "NEIGHBOR_1_USE": "只想表達 尖銳或嚴厲，而不需要 rough in texture or manner that scrapes against others 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>abrasive</code> 常和 <code>abrasive surface</code>、<code>abrasive tone</code>、<code>abrasive feedback</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 材料特性、人際互動與回饋語氣 的語境裡，這個字能比一般近義詞更精準地抓住 rough in texture or manner that scrapes against others。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/abrasive",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/abrasive",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/abrasive",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 abrasive 和 harsh 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像砂紙不是故意打人，但一碰就會把表面磨得不舒服。",
+    "CHECK_SENTENCE": "我能用 <code>abrasive surface</code> 或 <code>abrasive tone</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>abrasive surface</code> 或 <code>abrasive tone</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/abrasive",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "abrasive",
+    "word": "Abrasive",
+    "partOfSpeech": "adjective",
+    "href": "./abrasive.html",
+    "thesis": "不是直接而已，而是帶著磨擦感，讓人一接觸就覺得被刮到。",
+    "tags": [
+      "磨擦感強",
+      "刺人粗糙",
+      "harsh",
+      "materials",
+      "communication",
+      "adjective",
+      "abrasive"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 abrasive 和 harsh 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像砂紙不是故意打人，但一碰就會把表面磨得不舒服。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 abrasive surface 或 abrasive tone 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/abrasive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/abrasive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/abrasive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

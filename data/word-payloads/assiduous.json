@@ -1,0 +1,123 @@
+{
+  "target": {
+    "word": "Assiduous",
+    "slug": "assiduous",
+    "outputPath": "prototypes/assiduous.html"
+  },
+  "templatePlaceholders": {
+    "WORD_TITLE": "Assiduous",
+    "WORD_SLUG": "assiduous",
+    "WORD_LOWER": "assiduous",
+    "PART_OF_SPEECH": "adjective",
+    "IPA": "uh-SIJ-oo-us · UK /əˈsɪdʒ.u.əs/ · US /əˈsɪdʒ.u.əs/",
+    "THESIS": "不是偶爾很拼，而是長時間都細緻地把該做的事顧住。",
+    "LEARNING_POSITION": "把 assiduous 記成「consistently diligent without slackening」：不是偶爾很拼，而是長時間都細緻地把該做的事顧住。",
+    "CEFR_LEVEL": "C2",
+    "ZIPF_FREQUENCY": "2.34",
+    "CORE_IDEA": "<code>assiduous</code> 表示勤勉不懈、持續而用心地投入。",
+    "CONCEPT_FOCUS": "核心畫面是 consistently diligent without slackening。",
+    "TONE_REGISTER": "這個字常見於 研究訓練、工藝練習與長期專案；語氣上不是空泛形容，而是用來抓住 consistently diligent without slackening 這種狀態或動作。",
+    "USE_WARNING": "不要把 assiduous 只看成 hard-working；<code>hard-working</code> 多半只是 努力工作，而 <code>assiduous</code> 更強調 consistently diligent without slackening。",
+    "SHORT_DEFINITION": "表示勤勉不懈、持續而用心地投入。",
+    "CONFUSION_WORD": "Hard-working",
+    "CONFUSION_NOTE": "<code>hard-working</code> 多半只是 努力工作；<code>assiduous</code> 則更偏向 consistently diligent without slackening。",
+    "FLOW_1": "先有對象或情境",
+    "FLOW_2": "它呈現 consistently diligent without slackening 的狀態",
+    "FLOW_3": "因此語氣、判斷或效果被拉向那個方向",
+    "ORIGIN_PARAGRAPH": "學 <code>assiduous</code> 時，先不用把它當成冷知識題；更重要的是抓住它如今穩定的核心畫面：consistently diligent without slackening。",
+    "ORIGIN_MEMORY": "把歷史感先壓縮成一個可記的畫面：像每天都同一時間澆水、修枝、看土，不靠靈感，也不偷懶。",
+    "MEMORY_HOOK": "<code>assiduous</code> 的畫面是：像每天都同一時間澆水、修枝、看土，不靠靈感，也不偷懶。",
+    "MEMORY_EXPLANATION": "只要你記得這個畫面，下次看到 assiduous，就不會只把它翻成單薄的中文對應。",
+    "DAILY_USAGE": "日常英文裡，你會看到像 <code>assiduous study</code> 這樣的搭配。",
+    "PROFESSIONAL_USAGE": "在專業語境裡，也常會用到 <code>assiduous care</code> 來表達更精確的意思。",
+    "DOMAIN_USAGE": "研究訓練、工藝練習與長期專案 這類場景特別適合放進 <code>assiduous effort</code>，因為那裡常需要描述 consistently diligent without slackening。",
+    "COLLOCATION_NOTE": "Assiduous 很適合透過固定搭配來抓語感，尤其是你想把 consistently diligent without slackening 說得更自然時。",
+    "COLLOCATION_1": "assiduous study",
+    "REGISTER_1": "學習 / 研究",
+    "COLLOCATION_NOTE_1": "這個搭配能把 consistently diligent without slackening 的語感直接帶出來。",
+    "COLLOCATION_2": "assiduous care",
+    "REGISTER_2": "照護 / 醫療",
+    "COLLOCATION_NOTE_2": "放到 研究訓練、工藝練習與長期專案 的語境裡，這個搭配特別自然。",
+    "COLLOCATION_3": "assiduous effort",
+    "REGISTER_3": "工作 / 執行",
+    "COLLOCATION_NOTE_3": "這個搭配很適合拿來練 assiduous 的實際使用邊界。",
+    "NEIGHBOR_SELF": "consistently diligent without slackening",
+    "NEIGHBOR_SELF_USE": "當你想說的不只是 努力工作，而是 consistently diligent without slackening 這層語感時",
+    "NEIGHBOR_1": "Hard-working",
+    "NEIGHBOR_1_MEANING": "努力工作",
+    "NEIGHBOR_1_USE": "只想表達 努力工作，而不需要 consistently diligent without slackening 這層細節時",
+    "MODERN_USE_1": "現代英文裡，<code>assiduous</code> 常和 <code>assiduous study</code>、<code>assiduous care</code>、<code>assiduous effort</code> 這類搭配一起出現。",
+    "MODERN_USE_2": "放到 研究訓練、工藝練習與長期專案 的語境裡，這個字能比一般近義詞更精準地抓住 consistently diligent without slackening。",
+    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Merriam-Webster。",
+    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/assiduous",
+    "DICTIONARY_LABEL": "Merriam-Webster",
+    "ETYMOLOGY_SOURCE_NOTE": "字源與歷史語感以 Online Etymology Dictionary 為參考，頁內先以現代核心語感為主。",
+    "ETYMOLOGY_URL": "https://www.etymonline.com/word/assiduous",
+    "ETYMOLOGY_LABEL": "Online Etymology Dictionary",
+    "MODERN_SOURCE_NOTE": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/assiduous",
+    "MODERN_SOURCE_LABEL": "Merriam-Webster",
+    "CHECK_MEANING": "我能說出 assiduous 和 hard-working 的差異。",
+    "CHECK_ORIGIN": "我記得這個畫面：像每天都同一時間澆水、修枝、看土，不靠靈感，也不偷懶。",
+    "CHECK_SENTENCE": "我能用 <code>assiduous study</code> 或 <code>assiduous care</code> 造一句自然英文。",
+    "PRACTICE_SENTENCE": "先用 <code>assiduous study</code> 或 <code>assiduous care</code>，造一句和你最近工作或生活有關的英文句子。",
+    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/assiduous",
+    "REFERENCE_LABEL": "Merriam-Webster"
+  },
+  "indexEntry": {
+    "id": "assiduous",
+    "word": "Assiduous",
+    "partOfSpeech": "adjective",
+    "href": "./assiduous.html",
+    "thesis": "不是偶爾很拼，而是長時間都細緻地把該做的事顧住。",
+    "tags": [
+      "勤勉不懈",
+      "天天都顧住",
+      "hard-working",
+      "study",
+      "effort",
+      "adjective",
+      "assiduous"
+    ],
+    "checks": [
+      {
+        "id": "meaning",
+        "label": "說出 assiduous 和 hard-working 的差異"
+      },
+      {
+        "id": "origin",
+        "label": "記得這個畫面：像每天都同一時間澆水、修枝、看土，不靠靈感，也不偷懶。"
+      },
+      {
+        "id": "sentence",
+        "label": "用 assiduous study 或 assiduous care 造一句自然英文"
+      }
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assiduous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/assiduous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assiduous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}
