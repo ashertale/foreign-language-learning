@@ -21,7 +21,6 @@ from sync_word_numbers import PROTOTYPES, sync_index, sync_page_kicker
 from validate_word_pages import validate_payload_page
 
 
-BATCH_DIR = ROOT / "data" / "word-batches"
 PAYLOAD_DIR = ROOT / "data" / "word-payloads"
 DICTIONARY_LABEL = "Merriam-Webster"
 DICTIONARY_BASE = "https://www.merriam-webster.com/dictionary/"
@@ -89,6 +88,8 @@ def current_index_snapshot() -> tuple[set[str], set[str], set[str]]:
 
 
 def load_specs(path: Path) -> list[dict[str, str]]:
+    if not path.is_file():
+        raise RenderError(f"batch spec not found: {path.relative_to(ROOT) if path.is_absolute() and path.is_relative_to(ROOT) else path}")
     with path.open("r", encoding="utf-8", newline="") as handle:
         reader = csv.DictReader(handle, delimiter="|")
         rows = [{key: compact(value or "") for key, value in row.items()} for row in reader]
@@ -385,9 +386,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Generate payloads and optionally render a batch of new word pages.")
     parser.add_argument(
         "specs",
-        nargs="?",
         type=Path,
-        default=BATCH_DIR / "2026-05-26-next-100.tsv",
         help="Pipe-delimited spec file describing the batch to generate.",
     )
     parser.add_argument(
