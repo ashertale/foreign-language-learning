@@ -18,6 +18,10 @@
   let hasActiveResult = false;
   let visibleResults = [];
 
+  function currentUrlParams() {
+    return new URLSearchParams(window.location.search);
+  }
+
   function readJson(key, fallback) {
     try {
       return JSON.parse(localStorage.getItem(key)) || fallback;
@@ -44,6 +48,13 @@
   function formatZipf(value) {
     const number = zipfValue(value);
     return number === null ? "—" : number.toFixed(2);
+  }
+
+  function validSortMode(value) {
+    if (!elements.sortWords) return "";
+    return Array.from(elements.sortWords.options).some((option) => option.value === value)
+      ? value
+      : "";
   }
 
   function compareByOrder(a, b) {
@@ -88,6 +99,41 @@
 
     const match = searchableFields(word).find(([, value]) => normalizeText(value).includes(query));
     return match ? match[0] : "";
+  }
+
+  function syncSearchUrl() {
+    const url = new URL(window.location.href);
+    const query = elements.searchInput.value.trim();
+    const sortMode = elements.sortWords ? elements.sortWords.value : "order";
+
+    if (query) {
+      url.searchParams.set("q", query);
+    } else {
+      url.searchParams.delete("q");
+    }
+
+    if (sortMode && sortMode !== "order") {
+      url.searchParams.set("sort", sortMode);
+    } else {
+      url.searchParams.delete("sort");
+    }
+
+    window.history.replaceState(null, "", url.toString());
+  }
+
+  function restoreSearchState() {
+    const params = currentUrlParams();
+    const query = params.get("q") || "";
+    const sortMode = validSortMode(params.get("sort") || "");
+
+    if (query) elements.searchInput.value = query;
+    if (sortMode && elements.sortWords) elements.sortWords.value = sortMode;
+  }
+
+  function matchLabelText(match) {
+    if (match === "word") return "符合單字";
+    if (match === "tag") return "符合標籤";
+    return "";
   }
 
   function compareWords(a, b) {
@@ -185,8 +231,10 @@
     const row = document.createElement("article");
     row.className = "result-row";
     row.dataset.resultIndex = String(index);
+    row.id = `word-result-${index}`;
     row.setAttribute("role", "option");
     row.setAttribute("aria-selected", "false");
+    row.title = `開啟 ${word.word}`;
 
     const main = document.createElement("div");
     main.className = "result-main";
@@ -205,7 +253,7 @@
     if (match) {
       const matchLabel = document.createElement("span");
       matchLabel.className = "result-match";
-      matchLabel.textContent = `matched in ${match}`;
+      matchLabel.textContent = matchLabelText(match);
       main.append(meta, title, thesis, matchLabel);
     } else {
       main.append(meta, title, thesis);
@@ -217,10 +265,15 @@
     const open = document.createElement("a");
     open.className = "control-link";
     open.href = word.href;
-    open.textContent = "開啟";
+    open.setAttribute("aria-label", `開啟 ${word.word}`);
+    open.textContent = "閱讀";
     actions.append(open);
 
     row.append(main, createResultMetrics(word), actions);
+    row.addEventListener("click", (event) => {
+      if (event.target.closest("a, button, input, select")) return;
+      window.location.href = word.href;
+    });
     return row;
   }
 
@@ -232,6 +285,7 @@
 
   function updateActiveResult(options = {}) {
     if (!hasActiveResult || !visibleResults.length) {
+      elements.searchInput.removeAttribute("aria-activedescendant");
       elements.wordResults.querySelectorAll(".result-row").forEach((row) => {
         row.classList.remove("is-active");
         row.setAttribute("aria-selected", "false");
@@ -244,6 +298,7 @@
       const isActive = Number(row.dataset.resultIndex) === activeResultIndex;
       row.classList.toggle("is-active", isActive);
       row.setAttribute("aria-selected", String(isActive));
+      if (isActive) elements.searchInput.setAttribute("aria-activedescendant", row.id);
       if (isActive && options.scroll) row.scrollIntoView({ block: "nearest" });
     });
   }
@@ -258,9 +313,22 @@
     elements.wordResults.replaceChildren();
 
     if (!visibleResults.length) {
-      const empty = document.createElement("p");
+      hasActiveResult = false;
+      activeResultIndex = 0;
+      updateActiveResult();
+      const empty = document.createElement("div");
       empty.className = "empty-state";
-      empty.textContent = "沒有符合的單字頁。可以先到陌生字清單記下，之後再生成頁面。";
+      const emptyTitle = document.createElement("strong");
+      emptyTitle.textContent = rawQuery ? `找不到「${rawQuery}」` : "沒有符合的單字頁";
+      const emptyCopy = document.createElement("p");
+      emptyCopy.textContent = "可以先記到陌生字清單，之後再生成深讀頁。";
+      const backlogLink = document.createElement("a");
+      backlogLink.className = "control-link";
+      backlogLink.href = rawQuery
+        ? `./backlog.html?word=${encodeURIComponent(rawQuery)}`
+        : "./backlog.html";
+      backlogLink.textContent = "記到陌生字";
+      empty.append(emptyTitle, emptyCopy, backlogLink);
       elements.wordResults.append(empty);
     } else {
       visibleResults.forEach((word, index) => {
@@ -277,6 +345,7 @@
   elements.searchInput.addEventListener("input", () => {
     activeResultIndex = 0;
     hasActiveResult = Boolean(normalizeText(elements.searchInput.value));
+    syncSearchUrl();
     renderSearch();
   });
   elements.searchInput.addEventListener("keydown", (event) => {
@@ -314,6 +383,7 @@
     elements.sortWords.addEventListener("change", () => {
       activeResultIndex = 0;
       hasActiveResult = Boolean(normalizeText(elements.searchInput.value));
+      syncSearchUrl();
       renderSearch();
     });
   }
@@ -322,6 +392,7 @@
     elements.searchInput.focus();
     activeResultIndex = 0;
     hasActiveResult = false;
+    syncSearchUrl();
     renderSearch();
   });
   if (elements.randomWordButton) {
@@ -339,6 +410,7 @@
   window.addEventListener("storage", renderStats);
 
   validateWordNumbers();
+  restoreSearchState();
   renderStats();
   renderSearch();
 })();

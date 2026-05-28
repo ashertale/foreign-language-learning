@@ -11,7 +11,7 @@
     <div class="topbar-inner">
       <a class="brand" href="./index.html">Daily English Vocabulary</a>
       <div class="topbar-links">
-        <a href="./index.html">單字庫</a>
+        <a href="./index.html" aria-current="page">單字庫</a>
         <a href="./backlog.html">陌生字</a>
         <a href="./review.html">複習</a>
       </div>
@@ -55,7 +55,7 @@
       <div class="search-line">
         <label class="search-field" for="word-search">
           <span>關鍵字</span>
-          <input id="word-search" type="search" autocomplete="off" aria-describedby="search-help">
+          <input id="word-search" type="search" autocomplete="off" aria-describedby="search-help" aria-controls="word-results">
         </label>
         <label class="search-field compact-field" for="sort-words">
           <span>排序</span>
@@ -69,9 +69,9 @@
         </label>
         <button class="control-button compact-button" type="button" id="clear-search" disabled>清除</button>
       </div>
-      <p class="field-help" id="search-help">可搜尋單字與標籤；Enter 開啟目前選取結果，方向鍵切換結果。</p>
+      <p class="field-help" id="search-help">搜尋單字或標籤。Enter 開啟；方向鍵切換。</p>
 
-      <div class="result-list" id="word-results"></div>
+      <div class="result-list" id="word-results" role="listbox"></div>
     </section>
   </main>
 

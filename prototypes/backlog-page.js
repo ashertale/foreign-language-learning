@@ -71,19 +71,30 @@
     elements.status.dataset.status = type || "";
   }
 
+  function prefillFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const word = (params.get("word") || "").trim();
+    if (!word || elements.wordInput.value.trim()) return;
+
+    elements.wordInput.value = word;
+    setStatus("已帶入單字，補上備註後可記錄。", "info");
+  }
+
   function createStatusCell(item, generated) {
     const cell = document.createElement("td");
     const generatedWord = generated.get(normalizeText(item.word));
+    const badge = document.createElement(generatedWord ? "a" : "span");
+    badge.className = generatedWord ? "status-badge is-generated" : "status-badge is-pending";
 
     if (generatedWord) {
-      const link = document.createElement("a");
-      link.href = generatedWord.href;
-      link.textContent = "已有頁面";
-      cell.append(link);
+      badge.href = generatedWord.href;
+      badge.textContent = "已有頁面";
+      cell.append(badge);
       return cell;
     }
 
-    cell.textContent = "待生成";
+    badge.textContent = "待生成";
+    cell.append(badge);
     return cell;
   }
 
@@ -92,7 +103,7 @@
     const generated = generatedWordMap();
     const pending = pendingItems(items);
 
-    elements.summary.textContent = `${pending.length} pending / ${items.length} total`;
+    elements.summary.textContent = `${pending.length} 待生成 / ${items.length} 總數`;
     elements.tableBody.replaceChildren();
 
     if (!items.length) {
@@ -177,5 +188,6 @@
 
   window.addEventListener("pageshow", render);
   window.addEventListener("storage", render);
+  prefillFromUrl();
   render();
 })();

@@ -119,8 +119,13 @@
     return words.filter((word) => isDue(word, state)).length;
   }
 
-  function setStatus(message) {
+  function setStatus(message, type = "info") {
     elements.status.textContent = message || "";
+    if (message) {
+      elements.status.dataset.status = type;
+    } else {
+      elements.status.removeAttribute("data-status");
+    }
   }
 
   function renderUndoButton() {
@@ -244,7 +249,10 @@
     elements.openWordPage.href = "./index.html";
     hideRecallEcho();
     showFront();
-    setStatus(due > 0 ? `本輪完成；仍有 ${due} 張到期卡片。` : "今天的複習完成。");
+    setStatus(
+      due > 0 ? `本輪完成；仍有 ${due} 張到期卡片。` : "今天的複習完成。",
+      due > 0 ? "info" : "success"
+    );
     renderStats();
   }
 
@@ -272,7 +280,7 @@
     renderChecks(currentWord);
     hideRecallEcho();
     showFront();
-    setStatus("先輸入或在腦中說出英文，再翻面。");
+    setStatus("先輸入或在腦中說出英文，再翻面。", "info");
   }
 
   function chooseEnglishVoice() {
@@ -309,7 +317,7 @@
 
   function speakWord(word) {
     if (!word || !("speechSynthesis" in window)) {
-      setStatus("這個瀏覽器不支援 Web Speech API。");
+      setStatus("這個瀏覽器不支援 Web Speech API。", "warning");
       return;
     }
 
@@ -387,7 +395,7 @@
     doneCount += 1;
     currentIndex += 1;
     renderCard();
-    setStatus(`${ratedWord.word} 已排到 ${due}。`);
+    setStatus(`${ratedWord.word} 已排到 ${due}。`, "success");
   }
 
   function undoLastRating() {
@@ -406,7 +414,7 @@
     const restoredWord = lastReviewAction.word;
     lastReviewAction = null;
     renderCard();
-    setStatus(`${restoredWord.word} 的上一張評分已復原。`);
+    setStatus(`${restoredWord.word} 的上一張評分已復原。`, "warning");
   }
 
   function isTypingTarget(target) {
