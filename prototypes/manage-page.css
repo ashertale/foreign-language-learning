@@ -449,7 +449,7 @@ h3 {
 
 .result-row {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(136px, auto) auto;
+  grid-template-columns: minmax(0, 1fr) minmax(136px, auto);
   gap: 14px;
   align-items: center;
   cursor: pointer;
@@ -533,11 +533,6 @@ h3 {
   font-size: 1.06rem;
   font-weight: 700;
   line-height: 1;
-}
-
-.result-actions {
-  display: flex;
-  justify-content: flex-end;
 }
 
 .empty-state {
@@ -1081,10 +1076,6 @@ h3 {
     max-width: none;
   }
 
-  .result-actions {
-    justify-content: flex-start;
-  }
-
   .result-metrics {
     width: 100%;
     max-width: 168px;
@@ -1180,11 +1171,6 @@ h3 {
 
   .result-metrics {
     max-width: none;
-  }
-
-  .result-actions,
-  .result-actions .control-link {
-    width: 100%;
   }
 
   .table-wrap {

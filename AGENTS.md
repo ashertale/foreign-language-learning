@@ -18,7 +18,7 @@
 ## 架構總覽
 
 - `data/word-payloads/*.json`：單字頁的可審核內容來源；每個 payload 對應一個 `prototypes/<slug>.html`。
-- `data/word-batches/*.tsv`：批次產生用的 `|` 分隔 spec input；不是 runtime asset，也不是 payload 的替代品。
+- `data/word-batches/*.tsv`：可選的批次 manifest；通常只列出 payload JSON 路徑，不是 runtime asset，也不是 payload 的替代品。
 - `.codex/skills/daily-vocab-word-page/assets/template/`：單字頁 template 與 payload skeleton 的實際 contract 來源。
 - `prototypes/<slug>.html`：由 payload + template 生成的單字深讀頁。
 - `prototypes/word-index.js`：單字庫索引與畫面上的 `Word NN` 編號來源；`order` 必須連續。
@@ -26,7 +26,7 @@
 - `prototypes/index.html`、`prototypes/manage-page.*`：單字庫、搜尋、排序、隨機閱讀入口。
 - `prototypes/backlog.html`、`prototypes/backlog-page.js`：陌生字待補清單，使用 `localStorage`，並避免與既有單字頁重複。
 - `prototypes/review.html`、`prototypes/review-page.js`：主動回想複習頁，依 local review state 排程下一次複習。
-- `scripts/*.py`：payload render、批次產生、編號同步、payload/page 驗證與來源政策正規化工具。
+- `scripts/*.py`：payload render、批次驗證/渲染、編號同步、payload/page 驗證與來源政策正規化工具。
 
 ## Skill 使用邊界
 
@@ -65,15 +65,24 @@
 
 ### 批次新增單字頁
 
-1. 使用 `data/word-batches/*.tsv` 作為批次 spec，delimiter 是 `|`。
-2. required columns 以 `scripts/generate_batch_word_pages.py` 為準。
-3. 執行：
+1. 先準備完整的 `data/word-payloads/*.json`；批次腳本不再從 TSV 內容欄位直接生成 learner-facing prose。
+2. 若要集中指定輸入，可用 `data/word-batches/*.tsv` manifest，並提供 `payload` 欄位指向 payload JSON。
+3. 可直接對 payload 目錄執行：
+   ```powershell
+   uv run python scripts\generate_batch_word_pages.py data\word-payloads
+   ```
+4. 或對 manifest / 指定 payload 執行：
    ```powershell
    uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv
+   uv run python scripts\generate_batch_word_pages.py data\word-payloads\<slug>.json
    ```
-4. 若只要產生 payload 並 dry-run，不 render：
+5. 若只要驗證 payload，不 render，可用：
    ```powershell
-   uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv --payload-only
+   uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv --validate-only
+   ```
+6. 若要依既有 payload 重新渲染已存在的頁面，可用：
+   ```powershell
+   uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv --update-existing
    ```
 
 ### 正規化來源政策

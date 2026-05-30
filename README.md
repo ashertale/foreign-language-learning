@@ -86,13 +86,13 @@ uv run python scripts\sync_word_numbers.py --check
 批次產生單字頁：
 
 ```powershell
-uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv
+uv run python scripts\generate_batch_word_pages.py data\word-payloads
 ```
 
-只產生 payload 並 dry-run：
+只驗證 payload、不 render：
 
 ```powershell
-uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv --payload-only
+uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv --validate-only
 ```
 
 檢查來源政策 drift：
@@ -117,7 +117,7 @@ uv run python scripts\sync_word_numbers.py --check
 - `indexEntry`：要加入 `prototypes/word-index.js` 的搜尋與複習資料。
 - `sourceAudit`：dictionary、level/frequency、etymology、modern usage 的來源軌跡。
 
-`data/word-batches/*.tsv` 是批次 spec input，使用 `|` 作為 delimiter。實際 required columns 以 `scripts/generate_batch_word_pages.py` 為準。批次腳本會拒絕覆寫既有 rendered page，也會檢查 `id`、`href` 與 displayed word 是否重複。
+`data/word-batches/*.tsv` 是可選的批次 manifest，通常使用 `|` 作為 delimiter，並以 `payload` 欄位指向既有 `data/word-payloads/*.json`。`scripts/generate_batch_word_pages.py` 目前負責驗證完整 payload JSON、render 新頁面，或用 `--update-existing` 重新渲染既有頁面；它不再從 TSV 內容欄位直接生成 learner-facing prose。批次腳本會拒絕覆寫不該新增的既有 rendered page，也會檢查 `id`、`href` 與 displayed word 是否重複。
 
 ## 來源政策
 
@@ -140,7 +140,7 @@ data/word-payloads/
   Durable JSON inputs for generated word pages.
 
 data/word-batches/
-  Optional pipe-delimited batch specs for generating many payloads/pages.
+  Optional manifests that point at payload JSON files for batch validation/render.
 
 prototypes/
   Static learning app, generated word pages, shared CSS/JS, library, backlog, review.

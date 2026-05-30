@@ -18,7 +18,7 @@
     "CONCEPT_FOCUS": "核心不是消滅可能，而是縮小可動空間。",
     "TONE_REGISTER": "常見於工程、設計、數學、資源規劃與政策討論。",
     "USE_WARNING": "不要把 constrain 當成完全不能做；它常表示能做，但邊界變窄。",
-    "SHORT_DEFINITION": "不是完全阻止，而是把可能性壓縮在一組邊界、資源或規則裡。",
+    "SHORT_DEFINITION": "表示時間、資源、物理條件或規則把行動空間收窄。",
     "CONFUSION_WORD": "Prevent",
     "CONFUSION_NOTE": "<code>prevent</code> 是阻止發生；<code>constrain</code> 則是讓事情只能在有限條件下進行。",
     "FLOW_1": "先有多種可能",

@@ -18,7 +18,7 @@
     "CONCEPT_FOCUS": "核心不是危險本身，而是解讀或執行時必須帶著的限制。",
     "TONE_REGISTER": "常見於會議、合約、政策、研究與設計評估；語氣比 warning 更正式。",
     "USE_WARNING": "不要把 caveat 當成一般警告；它更像附在判斷旁邊的保留說明。",
-    "SHORT_DEFINITION": "不是單純的警告，而是在同意、結論或計畫旁邊加上一個不能忽略的保留條件。",
+    "SHORT_DEFINITION": "指附在結論、承諾或方案旁邊、會改變理解方式的但書或限制。",
     "CONFUSION_WORD": "Warning",
     "CONFUSION_NOTE": "<code>warning</code> 強調危險或風險；<code>caveat</code> 則是提醒你這個說法成立時有條件。",
     "FLOW_1": "先出現結論",

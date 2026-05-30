@@ -18,7 +18,7 @@
     "CONCEPT_FOCUS": "核心是疊加總量，不是單次事件。",
     "TONE_REGISTER": "常見於醫療、教育、產品、法律、風險與數據分析。",
     "USE_WARNING": "不要把 cumulative 當成 repeated；重複不一定累加，但 cumulative 一定是在同一筆帳上越堆越多。",
-    "SHORT_DEFINITION": "不是只是一再重複，而是每一次都往同一個總量上再加一層。",
+    "SHORT_DEFINITION": "形容影響、資料、成本、疲勞或效果會一層一層疊上去，而不是每次重來。",
     "CONFUSION_WORD": "Repeated",
     "CONFUSION_NOTE": "<code>repeated</code> 只說一再發生；<code>cumulative</code> 更強調每次發生都留下總量效果。",
     "FLOW_1": "先有一次影響",

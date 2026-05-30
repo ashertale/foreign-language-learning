@@ -259,19 +259,9 @@
       main.append(meta, title, thesis);
     }
 
-    const actions = document.createElement("div");
-    actions.className = "result-actions";
-
-    const open = document.createElement("a");
-    open.className = "control-link";
-    open.href = word.href;
-    open.setAttribute("aria-label", `開啟 ${word.word}`);
-    open.textContent = "閱讀";
-    actions.append(open);
-
-    row.append(main, createResultMetrics(word), actions);
+    row.append(main, createResultMetrics(word));
     row.addEventListener("click", (event) => {
-      if (event.target.closest("a, button, input, select")) return;
+      if (event.target.closest("button, input, select")) return;
       window.location.href = word.href;
     });
     return row;

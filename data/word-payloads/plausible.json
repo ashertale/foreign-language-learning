@@ -18,7 +18,7 @@
     "CONCEPT_FOCUS": "核心是可信度初步成立，不等於被證明。",
     "TONE_REGISTER": "常見於研究、推理、工程除錯與討論假設。",
     "USE_WARNING": "不要把 plausible 當成 true；它常是值得測試的候選答案，而不是終局答案。",
-    "SHORT_DEFINITION": "不是真相已經坐實，而是這個說法至少聽起來站得住、值得認真考慮。",
+    "SHORT_DEFINITION": "形容解釋、假設或方案在目前資訊下看起來可信、合理，但仍待驗證。",
     "CONFUSION_WORD": "True",
     "CONFUSION_NOTE": "<code>true</code> 是已成立；<code>plausible</code> 則是目前看起來合理，但還需要更多證據。",
     "FLOW_1": "先提出解釋",

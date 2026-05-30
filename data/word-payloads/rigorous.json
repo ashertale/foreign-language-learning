@@ -18,7 +18,7 @@
     "CONCEPT_FOCUS": "核心是方法品質，不是態度上的兇。",
     "TONE_REGISTER": "常見於學術、工程、測試、流程與標準討論。",
     "USE_WARNING": "不要把 rigorous 當成 strict；strict 可能只是規矩多，rigorous 更看方法是否真站得住。",
-    "SHORT_DEFINITION": "不是只會嚴格，而是方法夠精確、夠完整，能承受檢查和反覆驗證。",
+    "SHORT_DEFINITION": "形容研究、測試、論證或流程具備高度精確度、完整性與紀律。",
     "CONFUSION_WORD": "Strict",
     "CONFUSION_NOTE": "<code>strict</code> 可以是要求嚴；<code>rigorous</code> 則強調過程精確、完整、禁得起查。",
     "FLOW_1": "先設定清楚標準",

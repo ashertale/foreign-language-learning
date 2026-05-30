@@ -26,7 +26,7 @@ Default to Payload Mode: collect the content that fits the skill directory's `as
 - `REFERENCE_LABEL` and `REFERENCE_URL` must mirror the selected dictionary/pronunciation source. Do not point the page reference box at a different site than the dictionary source card.
 - Keep `templatePlaceholders.*SOURCE*`, `REFERENCE_*`, and `sourceAudit` aligned to the actual selected source. Do not mix a Cambridge label with a Merriam URL, or vice versa.
 - For source-policy cleanup across existing payload/page pairs, run `uv run python scripts/normalize_word_sources.py --check` first. Run it without `--check` only when intentionally normalizing both JSON payloads and rendered HTML pages.
-- Exception: `scripts/generate_batch_word_pages.py` currently emits a fixed batch baseline of `Merriam-Webster` for dictionary/pronunciation and modern/common usage, `Online Etymology Dictionary` for etymology/history, and `wordfreq Zipf + repo CEFR calibration` for level/frequency. Treat that script as a deterministic batch shortcut, not as the full per-word fallback-selection workflow.
+- Exception: `scripts/generate_batch_word_pages.py` no longer writes learner-facing prose from TSV fields. Treat it as a batch validator/renderer for complete LLM-authored payload JSON files. Source labels still need to be coherent inside each payload and will be checked by the render/validation scripts.
 
 ## Payload Mode
 
@@ -59,45 +59,51 @@ Default to Payload Mode: collect the content that fits the skill directory's `as
 
 ## Batch Spec Contract
 
-Use a batch spec only when all of these are true:
+Use a batch only when all of these are true:
 
 - The user asks for multiple brand-new word pages, not a single payload or a UI change.
 - The batch follows one shared content contract, one page per word, and the normal page template.
-- Deterministic generation is more important than per-word source fallback flexibility.
+- The page copy is authored per word by LLM mode, then saved as complete payload JSON.
 
-Keep the batch spec lightweight:
+Keep batch inputs lightweight:
 
-- Store it under `data/word-batches/*.tsv`.
-- Use `|` as the delimiter.
-- Treat `scripts/generate_batch_word_pages.py` as the schema source of truth; update the skill when the workflow changes, but do not duplicate every implementation detail here.
+- Prefer complete payload JSON files under `data/word-payloads/*.json`.
+- If a manifest is useful, store it under `data/word-batches/*.tsv` and include only a `payload` column that points to payload JSON files.
+- Treat `scripts/generate_batch_word_pages.py` as the execution source of truth; update the skill when the workflow changes, but do not duplicate every implementation detail here.
 
-Current required columns are:
+When asking LLM mode to create payloads, use narrative guidance rather than a column-by-column writing formula:
 
-- `slug`, `word`, `part_of_speech`, `ipa`, `cefr`, `zipf`
-- `formula`, `thesis`, `short_definition`
-- `contrast_word`, `contrast_meaning`, `hook`, `domain`
-- `collocation_1`, `register_1`, `collocation_2`, `register_2`, `collocation_3`, `register_3`
-- `tags`
+- Teach the concept, tone, register, usage boundary, and memory handle that fit this specific word.
+- Let the word decide the emphasis; do not force every page to spend equal weight on the same subsections.
+- Use collocations as usage anchors and neighbors as confusion boundaries.
+- Keep source notes factual and mnemonic images clearly separate from history.
+- The final artifact still has to be a renderable payload JSON because the HTML renderer needs placeholder keys; treat those keys as containers, not as a prose template.
 
-Minimal example:
-
-```tsv
-slug|word|part_of_speech|ipa|cefr|zipf|formula|thesis|short_definition|contrast_word|contrast_meaning|hook|domain|collocation_1|register_1|collocation_2|register_2|collocation_3|register_3|tags
-abstain|abstain|verb|ub-STAYN · UK /əbˈsteɪn/ · US /əbˈsteɪn/|C1|3.11|hold back by deliberate non-participation|不是做不到，而是有意識地選擇不加入、不碰或不投票。|表示出於原則、策略或克制而刻意不參與某件事。|avoid|避開或不去做|像手停在按鈕上方，知道能按，卻故意不按下去。|投票決策、飲食控制與風險選擇|abstain from voting|公共 / 決策|abstain from alcohol|健康 / 生活|abstain on the motion|會議 / 程序|克制,不參與,avoid,decision,discipline,verb,abstain
-```
-
-Standard batch command:
+You can print the local guidance with:
 
 ```powershell
-uv run python scripts\generate_batch_word_pages.py data\word-batches\<batch-name>.tsv
+uv run python scripts\generate_batch_word_pages.py --print-llm-guidance
+```
+
+Render a directory of complete payloads:
+
+```powershell
+uv run python scripts\generate_batch_word_pages.py data\word-payloads
+```
+
+Or render a manifest that only lists payload paths:
+
+```tsv
+payload
+data/word-payloads/abstain.json
 ```
 
 Behavior notes:
 
-- The script writes payloads to `data/word-payloads/<slug>.json`, renders pages to `prototypes/<slug>.html`, syncs numbering, and validates rendered payload/page pairs.
+- The script validates complete payload JSON files, renders pages to `prototypes/<slug>.html`, syncs numbering, and validates rendered payload/page pairs.
 - It refuses to overwrite existing page files or duplicate existing `id` / `href` entries in `prototypes/word-index.js`.
-- `--payload-only` is for writing payload JSON plus dry-run validation, without render/sync/final validation.
-- `--reuse-payloads` only helps resume when payload JSON already exists; it does not permit overwriting existing rendered HTML pages.
+- `--validate-only` checks payloads without rendering. `--payload-only` remains as a compatibility alias for this validate-only behavior.
+- `--update-existing` re-renders already-indexed pages from payload JSON without appending `word-index.js`.
 - If the task needs manual source choice, source fallback review, or selective edits to existing pages, do not use a batch spec; create or refine payloads first, then run `scripts/render_word_page.py`.
 
 ## UI Refinement Mode
