@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 obscure 作為遮蔽、不清楚、少人知道的核心義；頁面刻意避免把它誤解成高級深奧。",
         "url": "https://www.merriam-webster.com/dictionary/obscure",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 obscure reference、detail、source、dependency；頁面用文化、文件與系統依賴說明低可見度。",
         "url": "https://www.merriam-webster.com/dictionary/obscure",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "unclear",
       "dependency",
       "culture",
-      "adjective",
-      "obscure"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 obscure 和 unclear 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " obscure 的畫面是被陰影遮住，不是單純高深。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句來源、細節或依賴不易被看見的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

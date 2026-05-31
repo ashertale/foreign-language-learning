@@ -113,20 +113,6 @@
       "permissions",
       "observability",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 granular 和 detailed 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 granular 的核心畫面是 little grains"
-      },
-      {
-        "id": "sentence",
-        "label": "用 granular 造一句 data、logs、control 或 permissions 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

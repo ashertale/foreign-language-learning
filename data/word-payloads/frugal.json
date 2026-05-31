@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 frugal 作為節約、節制使用資源的核心義；頁面刻意區分它和 cheap 的吝嗇感。",
         "url": "https://www.merriam-webster.com/dictionary/frugal",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 frugal living、design、innovation、use of resources；頁面用系統資源和財務判斷呈現。",
         "url": "https://www.merriam-webster.com/dictionary/frugal",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "cheap",
       "resource",
       "finance",
-      "adjective",
-      "frugal"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 frugal 和 cheap 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " frugal 的重點是節制與判斷，不是單純吝嗇。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句生活、財務或系統資源節制的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

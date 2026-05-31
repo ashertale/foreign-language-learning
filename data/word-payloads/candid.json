@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 candid 作為坦率、不遮掩的核心義；頁面刻意區分 candid 與 rude，保留直接但不粗暴的語氣。",
         "url": "https://www.merriam-webster.com/dictionary/candid",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 candid feedback、candid conversation、candid assessment；頁面把它放進 review、溝通與決策情境。",
         "url": "https://www.merriam-webster.com/dictionary/candid",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "honest",
       "rude",
       "feedback",
-      "adjective",
-      "candid"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 candid 和 rude 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " candid 的字源和明亮、顯露有關，重點是真實露出，不是故意刺人。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句回饋、對話或訪談情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

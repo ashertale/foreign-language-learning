@@ -113,20 +113,6 @@
       "analysis",
       "debugging",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 discern 和 see 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 separate or distinguish 的畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 debug、觀察或判斷情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

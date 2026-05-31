@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 constrain 作為限制、約束或迫使在邊界內行動的核心義；頁面取其「行動空間被壓縮」的語感。",
         "url": "https://www.merriam-webster.com/dictionary/constrain",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 constrained by time、budget、resources、rules；頁面用工程限制和設計取捨說明它不同於完全 block。",
         "url": "https://www.merriam-webster.com/dictionary/constrain",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "prevent",
       "resource",
       "design",
-      "verb",
-      "constrain"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 constrain 和 prevent 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " constrain 的畫面是把可活動的繩長縮短，而不是完全封死。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句資源、規格或設計空間情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

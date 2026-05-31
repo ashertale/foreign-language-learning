@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 compelling 作為有強制力、吸引力或說服力的核心義；頁面聚焦於讓人不能輕易忽略的力量。",
         "url": "https://www.merriam-webster.com/dictionary/compelling",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 compelling evidence、story、reason、case；頁面用提案、證據與敘事說明它比 interesting 更有推動力。",
         "url": "https://www.merriam-webster.com/dictionary/compelling",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "interesting",
       "evidence",
       "story",
-      "adjective",
-      "compelling"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 compelling 和 interesting 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " compelling 的底層力量感來自驅動與逼近，不只是有趣。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句證據、提案或故事張力情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

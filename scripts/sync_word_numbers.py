@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PROTOTYPES = ROOT / "prototypes"
 WORD_INDEX = PROTOTYPES / "word-index.js"
-NON_WORD_PAGES = {"index.html", "backlog.html", "review.html"}
+NON_WORD_PAGES = {"index.html", "backlog.html"}
 
 
 @dataclass
@@ -114,8 +114,7 @@ def minimal_entry(page: Path) -> str:
         f'    cefr: "{js_string(meta["cefr"])}",\n'
         f'    zipf: {meta["zipf"] or "0"},\n'
         f'    thesis: "{js_string(meta["thesis"])}",\n'
-        "    tags: [],\n"
-        "    checks: []\n"
+        "    tags: []\n"
         "  }"
     )
 

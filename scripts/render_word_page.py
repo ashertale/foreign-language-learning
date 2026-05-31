@@ -583,11 +583,8 @@ def validate_index_entry(
     for index, tag in enumerate(tags):
         require_string(tag, f"indexEntry.tags[{index}]")
 
-    checks = require_list(entry.get("checks"), "indexEntry.checks", min_items=1)
-    for index, check in enumerate(checks):
-        check_obj = require_object(check, f"indexEntry.checks[{index}]")
-        require_string(check_obj.get("id"), f"indexEntry.checks[{index}].id")
-        require_string(check_obj.get("label"), f"indexEntry.checks[{index}].label")
+    if "checks" in entry:
+        raise RenderError("indexEntry.checks has been retired; remove review cues from the payload")
 
     return entry
 
@@ -944,25 +941,8 @@ def format_string_array(values: list[str], indent: str) -> str:
     return "[\n" + inner + f"\n{indent}]"
 
 
-def format_checks(checks: list[dict[str, str]], indent: str) -> str:
-    parts = []
-    for check in checks:
-        parts.append(
-            "\n".join(
-                [
-                    f"{indent}  {{",
-                    f"{indent}    id: {js_string(check['id'])},",
-                    f"{indent}    label: {js_string(check['label'])}",
-                    f"{indent}  }}",
-                ]
-            )
-        )
-    return "[\n" + ",\n".join(parts) + f"\n{indent}]"
-
-
 def format_index_entry(entry: dict[str, Any], order: int) -> str:
     tags = [str(tag) for tag in entry["tags"]]
-    checks = [{"id": str(check["id"]), "label": str(check["label"])} for check in entry["checks"]]
     return "\n".join(
         [
             "  {",
@@ -974,8 +954,7 @@ def format_index_entry(entry: dict[str, Any], order: int) -> str:
             f"    cefr: {js_string(entry['cefr'])},",
             f"    zipf: {entry['zipf']},",
             f"    thesis: {js_string(entry['thesis'])},",
-            f"    tags: {format_string_array(tags, '    ')},",
-            f"    checks: {format_checks(checks, '    ')}",
+            f"    tags: {format_string_array(tags, '    ')}",
             "  }",
         ]
     )

@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 adept 作為 skilled、proficient 的核心義與發音；頁面聚焦於熟練到能順手處理任務的能力。",
         "url": "https://www.merriam-webster.com/dictionary/adept",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代語境常把 adept 接在 at 或 in 後談工具、社交、技術或策略能力；頁面用工程與協作場景呈現這種熟練感。",
         "url": "https://www.merriam-webster.com/dictionary/adept",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "smart",
       "debugging",
       "communication",
-      "adjective",
-      "adept"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 adept 和 smart 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " adept 的畫面是把能力真正拿到手裡，而不是只說人很聰明。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句技能、協作或除錯情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

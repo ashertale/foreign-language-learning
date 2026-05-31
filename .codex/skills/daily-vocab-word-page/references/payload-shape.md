@@ -112,12 +112,6 @@
       "temporary",
       "transient",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 ephemeral 和 temporary 的差異"
-      }
     ]
   },
   "sourceAudit": [

@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 incisive 作為銳利、切中要害的核心義；頁面把切割畫面轉成評論、問題與分析的準度。",
         "url": "https://www.merriam-webster.com/dictionary/incisive",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 incisive question、analysis、comment、critique；頁面用 design review 和提問場景區分它與 harsh。",
         "url": "https://www.merriam-webster.com/dictionary/incisive",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "harsh",
       "analysis",
       "review",
-      "adjective",
-      "incisive"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 incisive 和 harsh 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " incisive 的畫面是刀鋒切準核心，不是單純語氣重。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句提問、評論或分析切中核心的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

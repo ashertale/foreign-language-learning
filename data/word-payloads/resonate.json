@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 resonate 作為發出回聲、共振與引起共鳴的核心義；頁面把聲學畫面延伸到情感與價值。",
         "url": "https://www.merriam-webster.com/dictionary/resonate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 message、story、idea resonates with someone；頁面用內容、設計與價值觀說明它比 relate 更深。",
         "url": "https://www.merriam-webster.com/dictionary/resonate",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "relate",
       "communication",
       "design",
-      "verb",
-      "resonate"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 resonate 和 relate 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " resonate 的畫面是回聲與共振，不只是相關。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句內容、設計或價值觀引起深層共鳴的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

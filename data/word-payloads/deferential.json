@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 deferential 作為表示尊重、順從或讓位的核心義；頁面特別區分它和普通 polite 的距離。",
         "url": "https://www.merriam-webster.com/dictionary/deferential",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常談 deferential tone、manner、attitude；頁面用職場、年資與權威關係說明其中的地位感。",
         "url": "https://www.merriam-webster.com/dictionary/deferential",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "polite",
       "authority",
       "hierarchy",
-      "adjective",
-      "deferential"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 deferential 和 polite 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " deferential 的畫面是自己往後退一步，讓出主導位置。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句組織、權威或人物姿態情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

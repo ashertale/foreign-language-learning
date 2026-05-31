@@ -113,20 +113,6 @@
       "prioritization",
       "computing",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 peripheral 和 irrelevant 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它的核心畫面是 around the edge"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句優先級、硬體周邊或視野情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

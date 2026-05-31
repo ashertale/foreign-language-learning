@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 crystallize 的結晶義與使想法明確成形的延伸義；頁面把兩者連成「散的東西長出形狀」。",
         "url": "https://www.merriam-webster.com/dictionary/crystallize",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 ideas、plans、feelings crystallize；頁面用 design review 後方向變清楚的場景呈現。",
         "url": "https://www.merriam-webster.com/dictionary/crystallize",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "clarify",
       "strategy",
       "thinking",
-      "verb",
-      "crystallize"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 crystallize 和 clarify 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " crystallize 的畫面是晶體長出來，所以重點是定型，不只是不模糊。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句想法、策略或情緒成形情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

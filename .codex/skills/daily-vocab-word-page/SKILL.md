@@ -36,7 +36,7 @@ Default to Payload Mode: prepare one reusable JSON payload shaped like the seman
 5. Prefer plain text values with light inline HTML such as `<code>` only where the learning object benefits from it.
 6. Keep prose concept-first and reading-oriented. Do not write study-script lines such as `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
 7. Let the word decide the emphasis. `usage`, `collocations.items`, `neighbors.others`, and `modernUse` are containers, not quotas.
-8. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, `tags`, and `checks`.
+8. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
 9. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
 10. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run sync scripts, start a server, or parse existing word page HTML in this mode.
 
@@ -108,7 +108,6 @@ data/word-payloads/abstain.json
 
 - Teach concept, tone, and use, not just translation.
 - Separate collocations from neighbor-word distinctions. Collocations answer "what words naturally pair with this word?" Neighbor distinctions answer "what similar words should not be confused with it?"
-- Keep `indexEntry.checks` concise and useful because the separate review page still uses them.
 - Do not force the headword into every paragraph. Use it when it clarifies the concept, but let scenes and collocations carry the explanation when they do the job better.
 - Keep hero metadata compact: respelling plus `UK /.../` and `US /.../`, then CEFR and Zipf frequency in the hero aside.
 - If you do not have real origin information, omit `page.origin` instead of filling the section with meta guidance or mnemonic-only prose.

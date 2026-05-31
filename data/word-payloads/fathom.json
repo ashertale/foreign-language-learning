@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 fathom 作為量深度與深入理解的核心義；頁面把水深測量轉成把問題想到底。",
         "url": "https://www.merriam-webster.com/dictionary/fathom",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 cannot fathom、fathom why、fathom the complexity；頁面用情緒、動機與工程問題呈現深層理解。",
         "url": "https://www.merriam-webster.com/dictionary/fathom",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "understand",
       "analysis",
       "psychology",
-      "verb",
-      "fathom"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 fathom 和 understand 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " fathom 原本是量水深，所以重點是往下量深度。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句複雜情緒、動機或系統深層理解的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

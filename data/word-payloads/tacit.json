@@ -113,20 +113,6 @@
       "tacit knowledge",
       "team culture",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 tacit 和 implicit 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin tacere，意思是保持沉默"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句團隊默契、默許或隱性知識的英文句子"
-      }
     ]
   },
   "sourceAudit": [

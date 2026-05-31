@@ -113,20 +113,6 @@
       "security",
       "compliance",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 stringent 和 strict 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 stringent 的字源畫面是 bind tight"
-      },
-      {
-        "id": "sentence",
-        "label": "用 stringent 造一句 requirement、standard 或 control 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 marshal 作為整理、排列、調度資源的核心義；頁面保留把人或證據排上場的秩序感。",
         "url": "https://www.merriam-webster.com/dictionary/marshal",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 marshal evidence、resources、arguments、support；頁面用 incident 指揮和 design review 前準備呈現。",
         "url": "https://www.merriam-webster.com/dictionary/marshal",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "gather",
       "evidence",
       "resources",
-      "verb",
-      "marshal"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 marshal 和 gather 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " marshal 的畫面是排隊編陣，不只是把東西收過來。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句證據、資源或人力調度的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

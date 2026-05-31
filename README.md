@@ -1,8 +1,8 @@
 # Foreign Language Learning
 
-一個以「每天真的能用」為目標的英文單字深讀與複習原型。它不是傳統後端服務，而是靜態 HTML 學習介面、可審核 JSON payload、Python 產生/驗證工具與瀏覽器 `localStorage` 狀態的組合。
+一個以「每天真的能用」為目標的英文單字深讀原型。它不是傳統後端服務，而是靜態 HTML 學習介面、可審核 JSON payload、Python 產生/驗證工具與瀏覽器 `localStorage` 狀態的組合。
 
-目前 repo 的主要成果是 100 個單字 payload/page pairs、單字庫搜尋管理頁、陌生字待補清單，以及主動回想式複習頁。
+目前 repo 的主要成果是 100 個單字 payload/page pairs、單字庫搜尋管理頁，以及陌生字待補清單。
 
 ## 快速開始
 
@@ -24,8 +24,6 @@ uv run python -m http.server 4173
 http://127.0.0.1:4173/prototypes/index.html
 ```
 
-`prototypes/review.html` 會用 `fetch()` 讀取單字頁核心概念，建議用本機 HTTP server 開啟，不要直接用 `file://`。
-
 ## 架構總覽
 
 ```text
@@ -33,7 +31,7 @@ data/word-payloads/*.json
   -> scripts/render_word_page.py
   -> prototypes/<slug>.html
   -> prototypes/word-index.js
-  -> prototypes/index.html / backlog.html / review.html
+  -> prototypes/index.html / backlog.html
 ```
 
 核心設計是「內容來源」和「可閱讀頁面」分離：
@@ -41,7 +39,7 @@ data/word-payloads/*.json
 - `data/word-payloads/*.json` 是單字頁的可審核輸入。
 - `scripts/render_word_page.py` 會把語意化 payload 轉成單字頁 HTML；不再依賴外部 prose template。
 - `prototypes/<slug>.html` 是由 payload 產生的閱讀頁。
-- `prototypes/word-index.js` 是單字庫、搜尋、複習與重複檢查共用的索引。
+- `prototypes/word-index.js` 是單字庫、搜尋與重複檢查共用的索引。
 - `scripts/*.py` 負責生成、同步、驗證與來源政策正規化。
 
 ## 主要功能
@@ -63,12 +61,6 @@ data/word-payloads/*.json
 - `prototypes/backlog.html` 使用 `localStorage` key `vocab-backlog:v1`。
 - 每筆待補資料使用 `backlogId`，不要和單字頁 `id` 混用。
 - 新增時會檢查是否已存在於 `word-index.js` 或待補清單。
-
-複習：
-
-- `prototypes/review.html` 使用 `localStorage` key `vocab-review:v1`。
-- 每輪最多 8 張，到期卡片優先，並用 Zipf / order 作為排序輔助。
-- 流程是先回想、輸入或心中作答，再翻面確認，最後用 `Again`、`Hard`、`Good`、`Easy` 安排下一次複習。
 
 ## 常用工作流程
 
@@ -113,7 +105,7 @@ uv run python scripts\sync_word_numbers.py --check
 
 - `target`：word、slug、輸出路徑。
 - `page`：語意化頁面內容模型，例如 hero、definition、usage、collocations、neighbors、modernUse、sources。
-- `indexEntry`：要加入 `prototypes/word-index.js` 的搜尋與複習資料。
+- `indexEntry`：要加入 `prototypes/word-index.js` 的搜尋資料。
 - `sourceAudit`：dictionary、level/frequency、etymology、modern usage 的來源軌跡。
 
 `data/word-batches/*.tsv` 是可選的批次 manifest，通常使用 `|` 作為 delimiter，並以 `payload` 欄位指向既有 `data/word-payloads/*.json`。`scripts/generate_batch_word_pages.py` 目前負責驗證完整 payload JSON、render 新頁面，或用 `--update-existing` 重新渲染既有頁面；它不再從 TSV 內容欄位直接生成 learner-facing prose。批次腳本會拒絕覆寫不該新增的既有 rendered page，也會檢查 `id`、`href` 與 displayed word 是否重複。
@@ -142,7 +134,7 @@ data/word-batches/
   Optional manifests that point at payload JSON files for batch validation/render.
 
 prototypes/
-  Static learning app, generated word pages, shared CSS/JS, library, backlog, review.
+  Static learning app, generated word pages, shared CSS/JS, library, and backlog.
 
 scripts/
   Render, batch generation, numbering sync, validation, and source normalization.
@@ -157,4 +149,4 @@ pyproject.toml / uv.lock
 - 單字頁細節以 `$daily-vocab-word-page` skill 為準；根層文件只保留專案方向與 workflow。
 - `prototypes/word-index.js` 的 `order` 是畫面上的 `Word NN`，新增或移動頁面後要同步。
 - 修改 Markdown 後至少跑 `git diff --check`。
-- 修改 HTML/CSS/JS 後建議用本機 HTTP server 檢查桌面與手機版面、console、搜尋、發音與複習互動。
+- 修改 HTML/CSS/JS 後建議用本機 HTTP server 檢查桌面與手機版面、console、搜尋、發音與待補清單互動。

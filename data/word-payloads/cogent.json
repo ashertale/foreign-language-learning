@@ -113,20 +113,6 @@
       "design review",
       "RCA",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 cogent 和 coherent 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它和 Latin cogere「推到一起、使信服」有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句論證、bug report 或設計評審情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

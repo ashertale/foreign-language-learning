@@ -113,20 +113,6 @@
       "systems",
       "culture",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 pervasive 和 common 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 pervasive 的核心畫面是 go through every part"
-      },
-      {
-        "id": "sentence",
-        "label": "用 pervasive 造一句 problem、influence、bias 或 assumption 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

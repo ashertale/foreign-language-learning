@@ -46,7 +46,7 @@ def html_errors(path: Path, expected_html: str) -> list[str]:
 
     data_check_count = source.count(" data-check=")
     if data_check_count != 0:
-        errors.append(f"word pages must not contain Active Recall check inputs; found {data_check_count}")
+        errors.append(f"word pages must not contain page-local review inputs; found {data_check_count}")
 
     return errors
 

@@ -113,20 +113,6 @@
       "requirements",
       "debugging",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 reconcile 和 compromise 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 reconcile 的核心畫面是 bring together again"
-      },
-      {
-        "id": "sentence",
-        "label": "用 reconcile 造一句 data、requirements 或 differences 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

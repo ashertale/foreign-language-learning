@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 permeate 作為穿透、滲入整體的核心義；頁面保留從表面進入結構內部的感覺。",
         "url": "https://www.merriam-webster.com/dictionary/permeate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 smell、culture、idea、risk permeates；頁面用文化、氣味與系統風險說明它不是表面 spread。",
         "url": "https://www.merriam-webster.com/dictionary/permeate",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "spread",
       "culture",
       "system",
-      "verb",
-      "permeate"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 permeate 和 spread 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " permeate 的畫面是一路穿進整體，不是停在表面。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句文化、氣味或風險滲透整體的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

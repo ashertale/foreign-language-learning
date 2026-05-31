@@ -113,20 +113,6 @@
       "writing",
       "architecture",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 coherent 和 clear 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自「stick together」的畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句文件、設計或論證情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

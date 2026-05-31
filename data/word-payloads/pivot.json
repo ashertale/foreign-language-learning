@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 pivot 作為支點與繞支點轉向的核心義；頁面把身體動作延伸到策略與產品轉向。",
         "url": "https://www.merriam-webster.com/dictionary/pivot",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 product pivot、strategy pivot、pivot to；頁面強調帶著核心換方向，而不是全盤丟掉。",
         "url": "https://www.merriam-webster.com/dictionary/pivot",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "change",
       "strategy",
       "product",
-      "verb",
-      "pivot"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 pivot 和 change 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " pivot 的根本是支點，所以是帶著核心轉向，不是全部丟掉。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句產品、策略或對話轉向的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

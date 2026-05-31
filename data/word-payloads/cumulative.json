@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 cumulative 作為累積、逐步加總的核心義；頁面聚焦在每次效果都疊到同一個總量上。",
         "url": "https://www.merriam-webster.com/dictionary/cumulative",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 cumulative effect、cost、damage、fatigue；頁面用技術債、資料與疲勞說明它不是單次事件。",
         "url": "https://www.merriam-webster.com/dictionary/cumulative",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "repeated",
       "risk",
       "cost",
-      "adjective",
-      "cumulative"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 cumulative 和 repeated 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " cumulative 的畫面是每次都往同一堆上加，不只是重複。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句成本、風險或疲勞累積情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

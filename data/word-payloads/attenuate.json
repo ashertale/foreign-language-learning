@@ -113,20 +113,6 @@
       "risk",
       "engineering",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 attenuate 和 eliminate 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 attenuate 的核心畫面是 make thin"
-      },
-      {
-        "id": "sentence",
-        "label": "用 attenuate 造一句 signal、noise、risk 或 impact 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

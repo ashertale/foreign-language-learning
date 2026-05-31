@@ -19,20 +19,6 @@ window.WORD_INDEX = [
       "ephemeral message",
       "engineering",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 ephemeral 和 temporary 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和「一天」的字源畫面有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句自然、情緒或數位內容的英文句子"
-      }
     ]
   },
   {
@@ -53,20 +39,6 @@ window.WORD_INDEX = [
       "人生階段",
       "心理狀態",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "用「門檻」解釋 liminal，而不是只翻成「中間」"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin limen，和 threshold 有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句人生階段、空間或心理狀態的英文句子"
-      }
     ]
   },
   {
@@ -88,20 +60,6 @@ window.WORD_INDEX = [
       "research",
       "product discovery",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 serendipity 和 luck 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和 Serendip、Walpole、三位王子的故事有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句旅行、研究或 debug 情境的英文句子"
-      }
     ]
   },
   {
@@ -123,20 +81,6 @@ window.WORD_INDEX = [
       "meticulous records",
       "engineering",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 meticulous 和 careful 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和 Latin metus、對錯誤的敬畏有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句工程、文件或規劃情境的英文句子"
-      }
     ]
   },
   {
@@ -158,20 +102,6 @@ window.WORD_INDEX = [
       "resilient material",
       "engineering",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 resilient 和 strong 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 spring back / jump back 的字源畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句人、系統或材料情境的英文句子"
-      }
     ]
   },
   {
@@ -195,20 +125,6 @@ window.WORD_INDEX = [
       "debug",
       "design review",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 salient 和 important 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin salire，有「跳出來」的字源畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句會議、debug 或設計評估情境的英文句子"
-      }
     ]
   },
   {
@@ -232,20 +148,6 @@ window.WORD_INDEX = [
       "lucid moment",
       "engineering writing",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 lucid 和 clear 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin lux / lucere，和光、照亮有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句說明、文章或工程文件情境的英文句子"
-      }
     ]
   },
   {
@@ -268,20 +170,6 @@ window.WORD_INDEX = [
       "tenacious bug",
       "debugging",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 tenacious 和 stubborn 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 tenere / to hold 的字源畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 debug、學習或防守情境的英文句子"
-      }
     ]
   },
   {
@@ -303,20 +191,6 @@ window.WORD_INDEX = [
       "engineering",
       "project management",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 pragmatic 和 practical 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和 Greek pragma「事情、行動」有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句工程、決策或專案取捨情境的英文句子"
-      }
     ]
   },
   {
@@ -338,20 +212,6 @@ window.WORD_INDEX = [
       "translation",
       "requirements",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 nuance 和 detail 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和雲、陰影、色階變化的畫面有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句需求、翻譯或人際語氣情境的英文句子"
-      }
     ]
   },
   {
@@ -373,20 +233,6 @@ window.WORD_INDEX = [
       "tacit knowledge",
       "team culture",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 tacit 和 implicit 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin tacere「保持沉默」"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句團隊默契、默許或隱性知識的英文句子"
-      }
     ]
   },
   {
@@ -408,20 +254,6 @@ window.WORD_INDEX = [
       "workaround",
       "security",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 mitigate 和 solve 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有「使變柔和、減輕傷害」的字源畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句風險、工程或資安情境的英文句子"
-      }
     ]
   },
   {
@@ -443,20 +275,6 @@ window.WORD_INDEX = [
       "design review",
       "RCA",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 cogent 和 coherent 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和 Latin cogere「推到一起、使信服」有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句論證、bug report 或設計評審情境的英文句子"
-      }
     ]
   },
   {
@@ -478,20 +296,6 @@ window.WORD_INDEX = [
       "testing",
       "statistics",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 latent 和 potential 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin latere「躲藏、隱伏」"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句隱性 bug、潛在能力或資料模型情境的英文句子"
-      }
     ]
   },
   {
@@ -513,20 +317,6 @@ window.WORD_INDEX = [
       "algorithm",
       "debugging",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 converge 和 merge 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自「一起」加上「彎向、轉向」的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 debug、演算法或團隊共識情境的英文句子"
-      }
     ]
   },
   {
@@ -548,20 +338,6 @@ window.WORD_INDEX = [
       "debugging",
       "data",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 anomaly 和 error 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 uneven or irregular 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句測試、資料或系統觀察情境的英文句子"
-      }
     ]
   },
   {
@@ -583,20 +359,6 @@ window.WORD_INDEX = [
       "research",
       "engineering",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 empirical 和 theoretical 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和 experience、observation 有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句測量、研究或 debug 判斷的英文句子"
-      }
     ]
   },
   {
@@ -618,20 +380,6 @@ window.WORD_INDEX = [
       "AI",
       "decision making",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 heuristic 和 algorithm 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Greek heuriskein，to find"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 debug、決策或搜尋問題的英文句子"
-      }
     ]
   },
   {
@@ -653,20 +401,6 @@ window.WORD_INDEX = [
       "writing",
       "debugging",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 ambiguous 和 vague 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有往多個方向被推動的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句需求、訊號或訊息解讀情境的英文句子"
-      }
     ]
   },
   {
@@ -688,20 +422,6 @@ window.WORD_INDEX = [
       "engineering",
       "statistics",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 robust 和 strong 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有 oak-like strength 的字源畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句系統、設計或統計方法情境的英文句子"
-      }
     ]
   },
   {
@@ -723,20 +443,6 @@ window.WORD_INDEX = [
       "writing",
       "architecture",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 coherent 和 clear 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 to stick together 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句文件、設計或論證情境的英文句子"
-      }
     ]
   },
   {
@@ -758,20 +464,6 @@ window.WORD_INDEX = [
       "analysis",
       "debugging",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 discern 和 see 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 separate or distinguish 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 debug、觀察或判斷情境的英文句子"
-      }
     ]
   },
   {
@@ -793,20 +485,6 @@ window.WORD_INDEX = [
       "design",
       "decision making",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 deliberate 和 careful 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有 weighing options before action 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句設計取捨、學習或工程決策情境的英文句子"
-      }
     ]
   },
   {
@@ -828,20 +506,6 @@ window.WORD_INDEX = [
       "chemistry",
       "firmware",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 volatile 和 variable 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin volare，to fly"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句市場、情緒、化學或工程狀態的英文句子"
-      }
     ]
   },
   {
@@ -863,20 +527,6 @@ window.WORD_INDEX = [
       "prioritization",
       "computing",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 peripheral 和 irrelevant 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它的核心畫面是 around the edge"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句優先級、硬體周邊或視野情境的英文句子"
-      }
     ]
   },
   {
@@ -898,20 +548,6 @@ window.WORD_INDEX = [
       "audit",
       "risk",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 scrutinize 和 examine 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有 search/examine closely 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 code review、證據或設計審查情境的英文句子"
-      }
     ]
   },
   {
@@ -933,20 +569,6 @@ window.WORD_INDEX = [
       "risk",
       "workaround",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 alleviate 和 solve 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有 make the load lighter 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句風險、壓力、醫療或 workaround 情境的英文句子"
-      }
     ]
   },
   {
@@ -968,20 +590,6 @@ window.WORD_INDEX = [
       "quality",
       "writing",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 impeccable 和 perfect 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它和 Latin peccare，犯錯或犯罪，有關"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句品質、文件、紀錄或時機情境的英文句子"
-      }
     ]
   },
   {
@@ -1003,20 +611,6 @@ window.WORD_INDEX = [
       "debugging",
       "literary",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 epiphany 和 idea 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它有 manifestation / appearance 的畫面"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句學習、debug 或人生反思情境的英文句子"
-      }
     ]
   },
   {
@@ -1038,20 +632,6 @@ window.WORD_INDEX = [
       "product",
       "engineering",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 iterate 和 repeat 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得它來自 Latin iterare，to do again"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句產品、測試、演算法或學習情境的英文句子"
-      }
     ]
   },
   {
@@ -1073,20 +653,6 @@ window.WORD_INDEX = [
       "measurement",
       "firmware",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 calibrate 和 adjust 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 calibrate 的核心畫面是拿標準校正刻度"
-      },
-      {
-        id: "sentence",
-        label: "用 calibrate 造一句 sensor、model 或 expectation 情境的英文句子"
-      }
     ]
   },
   {
@@ -1108,20 +674,6 @@ window.WORD_INDEX = [
       "risk",
       "engineering",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 attenuate 和 eliminate 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 attenuate 的核心畫面是 make thin"
-      },
-      {
-        id: "sentence",
-        label: "用 attenuate 造一句 signal、noise、risk 或 impact 情境的英文句子"
-      }
     ]
   },
   {
@@ -1143,20 +695,6 @@ window.WORD_INDEX = [
       "RCA",
       "debugging",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 corroborate 和 confirm 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 corroborate 的字源核心是 strengthen by evidence"
-      },
-      {
-        id: "sentence",
-        label: "用 corroborate 造一句 log、claim 或 hypothesis 情境的英文句子"
-      }
     ]
   },
   {
@@ -1178,20 +716,6 @@ window.WORD_INDEX = [
       "requirements",
       "architecture",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 delineate 和 describe 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 delineate 的核心畫面是 draw lines"
-      },
-      {
-        id: "sentence",
-        label: "用 delineate 造一句 scope、responsibility 或 boundary 情境的英文句子"
-      }
     ]
   },
   {
@@ -1213,20 +737,6 @@ window.WORD_INDEX = [
       "requirements",
       "debugging",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 reconcile 和 compromise 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 reconcile 的核心畫面是 bring together again"
-      },
-      {
-        id: "sentence",
-        label: "用 reconcile 造一句 data、requirements 或 differences 情境的英文句子"
-      }
     ]
   },
   {
@@ -1248,20 +758,6 @@ window.WORD_INDEX = [
       "security",
       "compliance",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 stringent 和 strict 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 stringent 的字源畫面是 bind tight"
-      },
-      {
-        id: "sentence",
-        label: "用 stringent 造一句 requirement、standard 或 control 情境的英文句子"
-      }
     ]
   },
   {
@@ -1283,20 +779,6 @@ window.WORD_INDEX = [
       "RCA",
       "project management",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 tentative 和 uncertain 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 tentative 來自 try、test、feel out 的試探畫面"
-      },
-      {
-        id: "sentence",
-        label: "用 tentative 造一句 plan、root cause 或 conclusion 情境的英文句子"
-      }
     ]
   },
   {
@@ -1318,20 +800,6 @@ window.WORD_INDEX = [
       "systems",
       "culture",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 pervasive 和 common 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 pervasive 的核心畫面是 go through every part"
-      },
-      {
-        id: "sentence",
-        label: "用 pervasive 造一句 problem、influence、bias 或 assumption 情境的英文句子"
-      }
     ]
   },
   {
@@ -1353,20 +821,6 @@ window.WORD_INDEX = [
       "architecture",
       "statistics",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 orthogonal 和 unrelated 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 orthogonal 的核心畫面是 right angles"
-      },
-      {
-        id: "sentence",
-        label: "用 orthogonal 造一句 concerns、dimensions 或 architecture 情境的英文句子"
-      }
     ]
   },
   {
@@ -1388,20 +842,6 @@ window.WORD_INDEX = [
       "permissions",
       "observability",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 granular 和 detailed 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 granular 的核心畫面是 little grains"
-      },
-      {
-        id: "sentence",
-        label: "用 granular 造一句 data、logs、control 或 permissions 情境的英文句子"
-      }
     ]
   },
   {
@@ -1423,20 +863,6 @@ window.WORD_INDEX = [
       "project management",
       "legal",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 contingent 和 dependent 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 contingent 的核心畫面是結果懸在條件上"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 approval、validation 或 contract 情境的英文句子"
-      }
     ]
   },
   {
@@ -1458,20 +884,6 @@ window.WORD_INDEX = [
       "debugging",
       "analysis",
       "adjective"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 elusive 和 vague 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 elusive 的核心畫面是目標會閃開"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 bug、answer 或 goal 情境的英文句子"
-      }
     ]
   },
   {
@@ -1493,20 +905,6 @@ window.WORD_INDEX = [
       "research",
       "debugging",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 distill 和 summarize 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 distill 的核心畫面是一滴一滴蒸餾"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 insight、lesson 或 complex idea 情境的英文句子"
-      }
     ]
   },
   {
@@ -1528,20 +926,6 @@ window.WORD_INDEX = [
       "teamwork",
       "physics",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 friction 和 obstacle 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 friction 的核心畫面是 rubbing"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 UX、流程或 teamwork 情境的英文句子"
-      }
     ]
   },
   {
@@ -1563,20 +947,6 @@ window.WORD_INDEX = [
       "physics",
       "habits",
       "noun"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 inertia 和 laziness 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 inertia 的重點是 change needs force"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 habit、system 或 organizational change 情境的英文句子"
-      }
     ]
   },
   {
@@ -1598,20 +968,6 @@ window.WORD_INDEX = [
       "dependencies",
       "incident",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 cascade 和 spread 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 cascade 的核心畫面是瀑布沿層次往下流"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 dependency、failure 或 style change 情境的英文句子"
-      }
     ]
   },
   {
@@ -1633,20 +989,6 @@ window.WORD_INDEX = [
       "SRE",
       "operations",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 triage 和 prioritize 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 triage 的核心是資源不足下的分級"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 bug、incident 或 ticket queue 情境的英文句子"
-      }
     ]
   },
   {
@@ -1668,20 +1010,6 @@ window.WORD_INDEX = [
       "discussion",
       "economy",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 stagnate 和 pause 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 stagnate 的核心畫面是 standing water"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 growth、career 或 discussion 情境的英文句子"
-      }
     ]
   },
   {
@@ -1703,20 +1031,6 @@ window.WORD_INDEX = [
       "experiments",
       "interpersonal",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 coax 和 force 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 coax 的核心是溫和引導，而不是硬推"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句人際、實驗或 debug 情境的英文句子"
-      }
     ]
   },
   {
@@ -1738,20 +1052,6 @@ window.WORD_INDEX = [
       "argument",
       "debugging",
       "verb"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 hinge 和 depend 的差異"
-      },
-      {
-        id: "origin",
-        label: "記得 hinge 的核心畫面是門靠鉸鏈開合"
-      },
-      {
-        id: "sentence",
-        label: "用它造一句 timing、assumption 或 user trust 情境的英文句子"
-      }
     ]
   },
   {
@@ -1770,22 +1070,7 @@ window.WORD_INDEX = [
       "risk",
       "incident",
       "weather",
-      "verb",
-      "abate"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 abate 和 reduce 的差異"
-      },
-      {
-        id: "origin",
-        label: " abate 的字源畫面是高浪退潮，而不是單純按數字減一。"
-      },
-      {
-        id: "sentence",
-        label: "造一句天氣、疼痛或 incident 情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -1803,22 +1088,7 @@ window.WORD_INDEX = [
       "smart",
       "debugging",
       "communication",
-      "adjective",
-      "adept"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 adept 和 smart 的差異"
-      },
-      {
-        id: "origin",
-        label: " adept 的畫面是把能力真正拿到手裡，而不是只說人很聰明。"
-      },
-      {
-        id: "sentence",
-        label: "造一句技能、協作或除錯情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -1837,22 +1107,7 @@ window.WORD_INDEX = [
       "preference",
       "design",
       "chemistry",
-      "noun",
-      "affinity"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 affinity 和 preference 的差異"
-      },
-      {
-        id: "origin",
-        label: " affinity 的字源畫面是彼此靠近、自然合拍，不只是喜歡。"
-      },
-      {
-        id: "sentence",
-        label: "造一句人際、審美或技術相容性的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -1870,22 +1125,7 @@ window.WORD_INDEX = [
       "help",
       "evidence",
       "security",
-      "verb",
-      "bolster"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 bolster 和 help 的差異"
-      },
-      {
-        id: "origin",
-        label: " bolster 的字源來自支撐物，所以它的核心是撐住，不只是幫忙。"
-      },
-      {
-        id: "sentence",
-        label: "造一句論證、信心或系統防線情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -1903,22 +1143,7 @@ window.WORD_INDEX = [
       "honest",
       "rude",
       "feedback",
-      "adjective",
-      "candid"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 candid 和 rude 的差異"
-      },
-      {
-        id: "origin",
-        label: " candid 的字源和明亮、顯露有關，重點是真實露出，不是故意刺人。"
-      },
-      {
-        id: "sentence",
-        label: "造一句回饋、對話或訪談情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -1936,22 +1161,7 @@ window.WORD_INDEX = [
       "warning",
       "policy",
       "contracts",
-      "noun",
-      "caveat"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 caveat 和 warning 的差異"
-      },
-      {
-        id: "origin",
-        label: " caveat 的畫面是文件邊上的保留條件，不只是一般警告。"
-      },
-      {
-        id: "sentence",
-        label: "造一句提案、研究或合約情境的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -1969,22 +1179,7 @@ window.WORD_INDEX = [
       "cause",
       "change",
       "reaction",
-      "noun",
-      "catalyst"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 catalyst 和 cause 的差異"
-      },
-      {
-        id: "origin",
-        label: " catalyst 的核心是催化與加速，不只是籠統原因。"
-      },
-      {
-        id: "sentence",
-        label: "造一句變革、產品或社會事件情境的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -2002,22 +1197,7 @@ window.WORD_INDEX = [
       "limit",
       "scope",
       "governance",
-      "verb",
-      "circumscribe"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 circumscribe 和 limit 的差異"
-      },
-      {
-        id: "origin",
-        label: " circumscribe 的字源畫面是拿筆畫圈，把事情圈在邊界內。"
-      },
-      {
-        id: "sentence",
-        label: "造一句權限、scope 或 incident 控制情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2035,22 +1215,7 @@ window.WORD_INDEX = [
       "consistent",
       "design",
       "team",
-      "adjective",
-      "cohesive"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 cohesive 和 consistent 的差異"
-      },
-      {
-        id: "origin",
-        label: " cohesive 的字源跟黏住有關，所以重點是連成一體。"
-      },
-      {
-        id: "sentence",
-        label: "造一句文件、團隊或產品體驗情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2068,22 +1233,7 @@ window.WORD_INDEX = [
       "interesting",
       "evidence",
       "story",
-      "adjective",
-      "compelling"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 compelling 和 interesting 的差異"
-      },
-      {
-        id: "origin",
-        label: " compelling 的底層力量感來自驅動與逼近，不只是有趣。"
-      },
-      {
-        id: "sentence",
-        label: "造一句證據、提案或故事張力情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2101,22 +1251,7 @@ window.WORD_INDEX = [
       "calm",
       "leadership",
       "pressure",
-      "noun",
-      "composure"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 composure 和 calm 的差異"
-      },
-      {
-        id: "origin",
-        label: " composure 的畫面是把自己重新收整好，而不是完全沒情緒。"
-      },
-      {
-        id: "sentence",
-        label: "造一句會議、衝突或壓力表現情境的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -2134,22 +1269,7 @@ window.WORD_INDEX = [
       "prevent",
       "resource",
       "design",
-      "verb",
-      "constrain"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 constrain 和 prevent 的差異"
-      },
-      {
-        id: "origin",
-        label: " constrain 的畫面是把可活動的繩長縮短，而不是完全封死。"
-      },
-      {
-        id: "sentence",
-        label: "造一句資源、規格或設計空間情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2167,22 +1287,7 @@ window.WORD_INDEX = [
       "clarify",
       "strategy",
       "thinking",
-      "verb",
-      "crystallize"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 crystallize 和 clarify 的差異"
-      },
-      {
-        id: "origin",
-        label: " crystallize 的畫面是晶體長出來，所以重點是定型，不只是不模糊。"
-      },
-      {
-        id: "sentence",
-        label: "造一句想法、策略或情緒成形情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2200,22 +1305,7 @@ window.WORD_INDEX = [
       "repeated",
       "risk",
       "cost",
-      "adjective",
-      "cumulative"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 cumulative 和 repeated 的差異"
-      },
-      {
-        id: "origin",
-        label: " cumulative 的畫面是每次都往同一堆上加，不只是重複。"
-      },
-      {
-        id: "sentence",
-        label: "造一句成本、風險或疲勞累積情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2233,22 +1323,7 @@ window.WORD_INDEX = [
       "polite",
       "authority",
       "hierarchy",
-      "adjective",
-      "deferential"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 deferential 和 polite 的差異"
-      },
-      {
-        id: "origin",
-        label: " deferential 的畫面是自己往後退一步，讓出主導位置。"
-      },
-      {
-        id: "sentence",
-        label: "造一句組織、權威或人物姿態情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2266,22 +1341,7 @@ window.WORD_INDEX = [
       "skillful",
       "precision",
       "craft",
-      "adjective",
-      "dexterous"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 dexterous 和 skillful 的差異"
-      },
-      {
-        id: "origin",
-        label: " dexterous 的字源和順手、靈巧有關，重點是精準控制。"
-      },
-      {
-        id: "sentence",
-        label: "造一句精密操作、工藝或技巧表現情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2299,22 +1359,7 @@ window.WORD_INDEX = [
       "inactive",
       "risk",
       "bug",
-      "adjective",
-      "dormant"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 dormant 和 inactive 的差異"
-      },
-      {
-        id: "origin",
-        label: " dormant 的字源和睡著有關，所以是休眠，不是消失。"
-      },
-      {
-        id: "sentence",
-        label: "造一句風險、帳號或系統問題情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2332,22 +1377,7 @@ window.WORD_INDEX = [
       "teach",
       "education",
       "reading",
-      "verb",
-      "edify"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 edify 和 teach 的差異"
-      },
-      {
-        id: "origin",
-        label: " edify 的字源是建造，所以重點是把人內在慢慢建起來。"
-      },
-      {
-        id: "sentence",
-        label: "造一句教育、閱讀或團隊學習情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2365,22 +1395,7 @@ window.WORD_INDEX = [
       "fluent",
       "writing",
       "speech",
-      "adjective",
-      "eloquent"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 eloquent 和 fluent 的差異"
-      },
-      {
-        id: "origin",
-        label: " eloquent 不只是說得順，而是說得有分量、有形狀。"
-      },
-      {
-        id: "sentence",
-        label: "造一句演說、寫作或解釋複雜事物的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2398,22 +1413,7 @@ window.WORD_INDEX = [
       "represent",
       "values",
       "design",
-      "verb",
-      "embody"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 embody 和 represent 的差異"
-      },
-      {
-        id: "origin",
-        label: " embody 和 body 直接相關，重點是讓理念有具體身體。"
-      },
-      {
-        id: "sentence",
-        label: "造一句價值、設計或人物氣質具體化的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2431,22 +1431,7 @@ window.WORD_INDEX = [
       "calm",
       "leadership",
       "mindset",
-      "noun",
-      "equanimity"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 equanimity 和 calm 的差異"
-      },
-      {
-        id: "origin",
-        label: " equanimity 的畫面是心裡有水平線，不是完全沒情緒。"
-      },
-      {
-        id: "sentence",
-        label: "造一句壓力、誤會或高壓場合穩定重心的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -2464,22 +1449,7 @@ window.WORD_INDEX = [
       "accelerate",
       "workflow",
       "approval",
-      "verb",
-      "expedite"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 expedite 和 accelerate 的差異"
-      },
-      {
-        id: "origin",
-        label: " expedite 的字源畫面是把腳上的束縛解開，不是盲目催快。"
-      },
-      {
-        id: "sentence",
-        label: "造一句流程、批准或物流提速情境的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2497,22 +1467,7 @@ window.WORD_INDEX = [
       "understand",
       "analysis",
       "psychology",
-      "verb",
-      "fathom"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 fathom 和 understand 的差異"
-      },
-      {
-        id: "origin",
-        label: " fathom 原本是量水深，所以重點是往下量深度。"
-      },
-      {
-        id: "sentence",
-        label: "造一句複雜情緒、動機或系統深層理解的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2530,22 +1485,7 @@ window.WORD_INDEX = [
       "possible",
       "planning",
       "engineering",
-      "adjective",
-      "feasible"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 feasible 和 possible 的差異"
-      },
-      {
-        id: "origin",
-        label: " feasible 和「做得出來」直接相連，不只是抽象可能。"
-      },
-      {
-        id: "sentence",
-        label: "造一句方案、預算或技術可行性的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2563,22 +1503,7 @@ window.WORD_INDEX = [
       "cheap",
       "resource",
       "finance",
-      "adjective",
-      "frugal"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 frugal 和 cheap 的差異"
-      },
-      {
-        id: "origin",
-        label: " frugal 的重點是節制與判斷，不是單純吝嗇。"
-      },
-      {
-        id: "sentence",
-        label: "造一句生活、財務或系統資源節制的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2596,22 +1521,7 @@ window.WORD_INDEX = [
       "collect",
       "attention",
       "support",
-      "verb",
-      "garner"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 garner 和 collect 的差異"
-      },
-      {
-        id: "origin",
-        label: " garner 的字源和收成入倉有關，所以是慢慢攢起來，不是突然拿到。"
-      },
-      {
-        id: "sentence",
-        label: "造一句支持、關注或評價逐步累積的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2629,22 +1539,7 @@ window.WORD_INDEX = [
       "block",
       "progress",
       "debugging",
-      "verb",
-      "hamper"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 hamper 和 block 的差異"
-      },
-      {
-        id: "origin",
-        label: " hamper 的畫面是腳邊被纏住，所以是拖住，不一定是封死。"
-      },
-      {
-        id: "sentence",
-        label: "造一句流程、恢復或除錯受阻的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2662,22 +1557,7 @@ window.WORD_INDEX = [
       "quirk",
       "legacy",
       "personality",
-      "noun",
-      "idiosyncrasy"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 idiosyncrasy 和 quirk 的差異"
-      },
-      {
-        id: "origin",
-        label: " idiosyncrasy 的重點是個體專屬、反覆可辨識，不只是一般怪癖。"
-      },
-      {
-        id: "sentence",
-        label: "造一句人物、風格或系統專屬習性的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -2695,22 +1575,7 @@ window.WORD_INDEX = [
       "focus",
       "learning",
       "codebase",
-      "verb",
-      "immerse"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 immerse 和 focus 的差異"
-      },
-      {
-        id: "origin",
-        label: " immerse 的畫面是整個人走進水裡，不只是專心看著它。"
-      },
-      {
-        id: "sentence",
-        label: "造一句語言、研究或 codebase 深度投入的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2728,22 +1593,7 @@ window.WORD_INDEX = [
       "motivation",
       "change",
       "action",
-      "noun",
-      "impetus"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 impetus 和 motivation 的差異"
-      },
-      {
-        id: "origin",
-        label: " impetus 的底層畫面是推進力，不只是抽象動機。"
-      },
-      {
-        id: "sentence",
-        label: "造一句改革、決策或行動被推動的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -2761,22 +1611,7 @@ window.WORD_INDEX = [
       "harsh",
       "analysis",
       "review",
-      "adjective",
-      "incisive"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 incisive 和 harsh 的差異"
-      },
-      {
-        id: "origin",
-        label: " incisive 的畫面是刀鋒切準核心，不是單純語氣重。"
-      },
-      {
-        id: "sentence",
-        label: "造一句提問、評論或分析切中核心的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2794,22 +1629,7 @@ window.WORD_INDEX = [
       "tone",
       "trend",
       "voice",
-      "noun",
-      "inflection"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 inflection 和 tone 的差異"
-      },
-      {
-        id: "origin",
-        label: " inflection 的核心畫面是轉彎，不只是一般語氣變化。"
-      },
-      {
-        id: "sentence",
-        label: "造一句語氣、曲線或趨勢轉折的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -2827,22 +1647,7 @@ window.WORD_INDEX = [
       "careful",
       "design",
       "management",
-      "adjective",
-      "judicious"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 judicious 和 careful 的差異"
-      },
-      {
-        id: "origin",
-        label: " judicious 和判斷裁量直接相連，重點是分寸拿得準。"
-      },
-      {
-        id: "sentence",
-        label: "造一句設計、管理或介入分寸恰當的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2860,22 +1665,7 @@ window.WORD_INDEX = [
       "active",
       "motion",
       "design",
-      "adjective",
-      "kinetic"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 kinetic 和 active 的差異"
-      },
-      {
-        id: "origin",
-        label: " kinetic 的根本是 movement，所以是動能，不只是活躍。"
-      },
-      {
-        id: "sentence",
-        label: "造一句物理、互動或表演動態感的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2893,22 +1683,7 @@ window.WORD_INDEX = [
       "feasible",
       "product",
       "strategy",
-      "adjective",
-      "viable"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 viable 和 feasible 的差異"
-      },
-      {
-        id: "origin",
-        label: " viable 和生命、存續直接相連，所以重點是活得下去。"
-      },
-      {
-        id: "sentence",
-        label: "造一句產品、商業模式或長期方案能否存活的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2926,22 +1701,7 @@ window.WORD_INDEX = [
       "flexible",
       "materials",
       "architecture",
-      "adjective",
-      "malleable"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 malleable 和 flexible 的差異"
-      },
-      {
-        id: "origin",
-        label: " malleable 的畫面是被錘打後仍能成形，不是軟弱。"
-      },
-      {
-        id: "sentence",
-        label: "造一句材料、心態或架構可塑性的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -2959,22 +1719,7 @@ window.WORD_INDEX = [
       "gather",
       "evidence",
       "resources",
-      "verb",
-      "marshal"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 marshal 和 gather 的差異"
-      },
-      {
-        id: "origin",
-        label: " marshal 的畫面是排隊編陣，不只是把東西收過來。"
-      },
-      {
-        id: "sentence",
-        label: "造一句證據、資源或人力調度的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -2992,22 +1737,7 @@ window.WORD_INDEX = [
       "wander",
       "conversation",
       "path",
-      "verb",
-      "meander"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 meander 和 wander 的差異"
-      },
-      {
-        id: "origin",
-        label: " meander 的畫面是河道蜿蜒，不是單純迷路。"
-      },
-      {
-        id: "sentence",
-        label: "造一句河流、散步或對話曲折展開的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -3025,22 +1755,7 @@ window.WORD_INDEX = [
       "unclear",
       "dependency",
       "culture",
-      "adjective",
-      "obscure"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 obscure 和 unclear 的差異"
-      },
-      {
-        id: "origin",
-        label: " obscure 的畫面是被陰影遮住，不是單純高深。"
-      },
-      {
-        id: "sentence",
-        label: "造一句來源、細節或依賴不易被看見的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -3058,22 +1773,7 @@ window.WORD_INDEX = [
       "contradiction",
       "strategy",
       "philosophy",
-      "noun",
-      "paradox"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 paradox 和 contradiction 的差異"
-      },
-      {
-        id: "origin",
-        label: " paradox 的重點是表面互斥下仍有深層真實，不是普通矛盾。"
-      },
-      {
-        id: "sentence",
-        label: "造一句哲學、管理或策略張力的英文句子。"
-      }
+      "noun"
     ]
   },
   {
@@ -3091,22 +1791,7 @@ window.WORD_INDEX = [
       "spread",
       "culture",
       "system",
-      "verb",
-      "permeate"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 permeate 和 spread 的差異"
-      },
-      {
-        id: "origin",
-        label: " permeate 的畫面是一路穿進整體，不是停在表面。"
-      },
-      {
-        id: "sentence",
-        label: "造一句文化、氣味或風險滲透整體的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -3124,22 +1809,7 @@ window.WORD_INDEX = [
       "change",
       "strategy",
       "product",
-      "verb",
-      "pivot"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 pivot 和 change 的差異"
-      },
-      {
-        id: "origin",
-        label: " pivot 的根本是支點，所以是帶著核心轉向，不是全部丟掉。"
-      },
-      {
-        id: "sentence",
-        label: "造一句產品、策略或對話轉向的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -3157,22 +1827,7 @@ window.WORD_INDEX = [
       "true",
       "hypothesis",
       "debugging",
-      "adjective",
-      "plausible"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 plausible 和 true 的差異"
-      },
-      {
-        id: "origin",
-        label: " plausible 是先站得住，不等於已被證明為真。"
-      },
-      {
-        id: "sentence",
-        label: "造一句假說、解釋或情境初步可信的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -3190,22 +1845,7 @@ window.WORD_INDEX = [
       "calm",
       "launch",
       "performance",
-      "adjective",
-      "poised"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 poised 和 calm 的差異"
-      },
-      {
-        id: "origin",
-        label: " poised 的畫面是平衡中的準備，不是僵住。"
-      },
-      {
-        id: "sentence",
-        label: "造一句人物、團隊或策略已就位待發的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -3223,22 +1863,7 @@ window.WORD_INDEX = [
       "end",
       "panic",
       "rumors",
-      "verb",
-      "quell"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 quell 和 end 的差異"
-      },
-      {
-        id: "origin",
-        label: " quell 的畫面是把升高中的浪頭壓下去，不代表根因已消失。"
-      },
-      {
-        id: "sentence",
-        label: "造一句恐慌、傳言或怒氣被壓住的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -3256,22 +1881,7 @@ window.WORD_INDEX = [
       "relate",
       "communication",
       "design",
-      "verb",
-      "resonate"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 resonate 和 relate 的差異"
-      },
-      {
-        id: "origin",
-        label: " resonate 的畫面是回聲與共振，不只是相關。"
-      },
-      {
-        id: "sentence",
-        label: "造一句內容、設計或價值觀引起深層共鳴的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -3289,22 +1899,7 @@ window.WORD_INDEX = [
       "strict",
       "testing",
       "analysis",
-      "adjective",
-      "rigorous"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 rigorous 和 strict 的差異"
-      },
-      {
-        id: "origin",
-        label: " rigorous 的重點是方法禁得起查，不只是規矩嚴。"
-      },
-      {
-        id: "sentence",
-        label: "造一句測試、研究或流程嚴密度高的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -3322,22 +1917,7 @@ window.WORD_INDEX = [
       "taste",
       "moment",
       "food",
-      "verb",
-      "savor"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 savor 和 taste 的差異"
-      },
-      {
-        id: "origin",
-        label: " savor 的畫面是把味道多留一拍，不只是嘗到。"
-      },
-      {
-        id: "sentence",
-        label: "造一句味道、時刻或完成感被慢慢品味的英文句子。"
-      }
+      "verb"
     ]
   },
   {
@@ -3355,22 +1935,7 @@ window.WORD_INDEX = [
       "vague",
       "design",
       "timing",
-      "adjective",
-      "subtle"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 subtle 和 vague 的差異"
-      },
-      {
-        id: "origin",
-        label: " subtle 的重點是細而真，不是模糊不清。"
-      },
-      {
-        id: "sentence",
-        label: "造一句細微差異、氣味或系統微變化的英文句子。"
-      }
+      "adjective"
     ]
   },
   {
@@ -3388,22 +1953,7 @@ window.WORD_INDEX = [
       "soften",
       "materials",
       "expectations",
-      "verb",
-      "temper"
-    ],
-    checks: [
-      {
-        id: "meaning",
-        label: "說出 temper 和 soften 的差異"
-      },
-      {
-        id: "origin",
-        label: " temper 的重點是調配與鍛鍊，不是單純削弱。"
-      },
-      {
-        id: "sentence",
-        label: "造一句期待、批評或材料經過調整更可用的英文句子。"
-      }
+      "verb"
     ]
-  },
+  }
 ];

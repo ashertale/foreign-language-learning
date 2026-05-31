@@ -113,20 +113,6 @@
       "algorithm",
       "debugging",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 converge 和 merge 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自「一起」加上「彎向、轉向」的字源畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 debug、演算法或團隊共識情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

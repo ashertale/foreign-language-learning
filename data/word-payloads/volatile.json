@@ -113,20 +113,6 @@
       "chemistry",
       "firmware",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 volatile 和 variable 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin volare，to fly"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句市場、情緒、化學或工程狀態的英文句子"
-      }
     ]
   },
   "sourceAudit": [

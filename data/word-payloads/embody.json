@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 embody 作為具體呈現、使抽象成形的核心義；頁面把 body 的形體感接到價值與原則。",
         "url": "https://www.merriam-webster.com/dictionary/embody",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 embody values、principles、spirit、design goals；頁面用制度、產品與人物說明它比 represent 更具體。",
         "url": "https://www.merriam-webster.com/dictionary/embody",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "represent",
       "values",
       "design",
-      "verb",
-      "embody"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 embody 和 represent 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " embody 和 body 直接相關，重點是讓理念有具體身體。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句價值、設計或人物氣質具體化的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

@@ -113,20 +113,6 @@
       "debugging",
       "data",
       "noun"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 anomaly 和 error 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 uneven or irregular 的畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句測試、資料或系統觀察情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

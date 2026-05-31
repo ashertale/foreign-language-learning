@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 hamper 作為妨礙、拖慢進展的核心義；頁面把重點放在讓事情卡手，而不是完全摧毀。",
         "url": "https://www.merriam-webster.com/dictionary/hamper",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 hamper efforts、progress、recovery、investigation；頁面用流程、恢復與除錯受阻的場景呈現。",
         "url": "https://www.merriam-webster.com/dictionary/hamper",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "block",
       "progress",
       "debugging",
-      "verb",
-      "hamper"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 hamper 和 block 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " hamper 的畫面是腳邊被纏住，所以是拖住，不一定是封死。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句流程、恢復或除錯受阻的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

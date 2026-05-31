@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 judicious 作為有判斷、明智且節制的核心義；頁面聚焦於何時做、做多少才剛好。",
         "url": "https://www.merriam-webster.com/dictionary/judicious",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 judicious use、choice、mix、application；頁面用抽象、介入與管理場景呈現成熟分寸。",
         "url": "https://www.merriam-webster.com/dictionary/judicious",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "careful",
       "design",
       "management",
-      "adjective",
-      "judicious"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 judicious 和 careful 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " judicious 和判斷裁量直接相連，重點是分寸拿得準。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句設計、管理或介入分寸恰當的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

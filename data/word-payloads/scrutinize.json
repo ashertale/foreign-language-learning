@@ -113,20 +113,6 @@
       "audit",
       "risk",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 scrutinize 和 examine 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它有 search/examine closely 的畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 code review、證據或設計審查情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

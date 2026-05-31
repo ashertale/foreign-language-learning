@@ -113,20 +113,6 @@
       "debugging",
       "analysis",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 elusive 和 vague 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 elusive 的核心畫面是目標會閃開"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 bug、answer 或 goal 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

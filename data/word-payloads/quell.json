@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 quell 作為鎮壓、平息或壓下情緒的核心義；頁面聚焦於把升高中的亂流壓住。",
         "url": "https://www.merriam-webster.com/dictionary/quell",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 quell panic、rumors、protests、anger；頁面區分短期平息和真正解決根因。",
         "url": "https://www.merriam-webster.com/dictionary/quell",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "end",
       "panic",
       "rumors",
-      "verb",
-      "quell"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 quell 和 end 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " quell 的畫面是把升高中的浪頭壓下去，不代表根因已消失。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句恐慌、傳言或怒氣被壓住的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

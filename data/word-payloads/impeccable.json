@@ -113,20 +113,6 @@
       "quality",
       "writing",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 impeccable 和 perfect 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它和 Latin peccare，犯錯或犯罪，有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句品質、文件、紀錄或時機情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

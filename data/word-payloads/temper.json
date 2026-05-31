@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 temper 作為調和、節制，以及材料回火處理的核心義；頁面把兩條義線收束為把過強之物調到可用。",
         "url": "https://www.merriam-webster.com/dictionary/temper",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 temper expectations、criticism、enthusiasm，也可談 tempered steel；頁面連接情緒控制與材料韌性。",
         "url": "https://www.merriam-webster.com/dictionary/temper",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "soften",
       "materials",
       "expectations",
-      "verb",
-      "temper"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 temper 和 soften 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " temper 的重點是調配與鍛鍊，不是單純削弱。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句期待、批評或材料經過調整更可用的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

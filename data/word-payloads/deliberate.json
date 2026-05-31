@@ -113,20 +113,6 @@
       "design",
       "decision making",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 deliberate 和 careful 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它有「行動前先衡量選項」的畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句設計取捨、學習或工程決策情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

@@ -112,20 +112,6 @@
       "人生階段",
       "心理狀態",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "用「門檻」解釋 liminal，而不是只翻成「中間」"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin limen，和 threshold 有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句人生階段、空間或心理狀態的英文句子"
-      }
     ]
   },
   "sourceAudit": [

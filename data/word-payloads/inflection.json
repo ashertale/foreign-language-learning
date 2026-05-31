@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 inflection 的語音、語法變化與轉折義；頁面把共同核心收束為「在某點開始轉彎」。",
         "url": "https://www.merriam-webster.com/dictionary/inflection",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法可談 voice inflection、grammatical inflection、inflection point；頁面用 metrics 與趨勢轉向連接語言和資料語境。",
         "url": "https://www.merriam-webster.com/dictionary/inflection",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "tone",
       "trend",
       "voice",
-      "noun",
-      "inflection"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 inflection 和 tone 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " inflection 的核心畫面是轉彎，不只是一般語氣變化。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句語氣、曲線或趨勢轉折的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

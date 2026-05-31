@@ -115,20 +115,6 @@
       "lucid moment",
       "engineering writing",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 lucid 和 clear 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin lux / lucere，和光、照亮有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句說明、文章或工程文件情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

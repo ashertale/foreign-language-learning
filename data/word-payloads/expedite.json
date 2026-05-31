@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 expedite 作為加速、使流程更快完成的核心義；頁面把重點放在移除阻礙而非粗暴催促。",
         "url": "https://www.merriam-webster.com/dictionary/expedite",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 expedite approval、delivery、process、request；頁面用流程、簽核與專案語境說明。",
         "url": "https://www.merriam-webster.com/dictionary/expedite",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "accelerate",
       "workflow",
       "approval",
-      "verb",
-      "expedite"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 expedite 和 accelerate 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " expedite 的字源畫面是把腳上的束縛解開，不是盲目催快。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句流程、批准或物流提速情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

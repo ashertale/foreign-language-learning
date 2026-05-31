@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 cohesive 作為黏合、連成整體的核心義；頁面把物理黏著感轉成團隊、文章與系統的一體感。",
         "url": "https://www.merriam-webster.com/dictionary/cohesive",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 cohesive team、cohesive narrative、cohesive design；頁面用工作流與介面語境凸顯「不散」的品質。",
         "url": "https://www.merriam-webster.com/dictionary/cohesive",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "consistent",
       "design",
       "team",
-      "adjective",
-      "cohesive"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 cohesive 和 consistent 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " cohesive 的字源跟黏住有關，所以重點是連成一體。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句文件、團隊或產品體驗情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

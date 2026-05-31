@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 caveat 作為警示、但書與限制條件的核心義；頁面聚焦在同意或結論旁那個不能忽略的保留。",
         "url": "https://www.merriam-webster.com/dictionary/caveat",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代語境常說 with one caveat、important caveat、legal caveat；頁面用 spec review 與方案前提說明它如何改變理解邊界。",
         "url": "https://www.merriam-webster.com/dictionary/caveat",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "warning",
       "policy",
       "contracts",
-      "noun",
-      "caveat"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 caveat 和 warning 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " caveat 的畫面是文件邊上的保留條件，不只是一般警告。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句提案、研究或合約情境的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

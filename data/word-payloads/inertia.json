@@ -113,20 +113,6 @@
       "physics",
       "habits",
       "noun"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 inertia 和 laziness 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 inertia 的重點是 change needs force"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 habit、system 或 organizational change 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

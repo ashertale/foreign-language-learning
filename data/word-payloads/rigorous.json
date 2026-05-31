@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 rigorous 作為嚴密、精確、能承受檢查的核心義；頁面刻意區分它和單純 strict。",
         "url": "https://www.merriam-webster.com/dictionary/rigorous",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 rigorous testing、analysis、methodology、review；頁面用研究與工程驗證呈現它的完整性。",
         "url": "https://www.merriam-webster.com/dictionary/rigorous",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "strict",
       "testing",
       "analysis",
-      "adjective",
-      "rigorous"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 rigorous 和 strict 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " rigorous 的重點是方法禁得起查，不只是規矩嚴。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句測試、研究或流程嚴密度高的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

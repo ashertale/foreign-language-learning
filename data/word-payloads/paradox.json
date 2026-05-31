@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 paradox 作為表面矛盾但可能揭露深層真實的核心義；頁面聚焦於雙方看似互斥卻同時成立。",
         "url": "https://www.merriam-webster.com/dictionary/paradox",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 paradox of choice、success、control；頁面用策略、管理與哲學場景區分它與 contradiction。",
         "url": "https://www.merriam-webster.com/dictionary/paradox",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "contradiction",
       "strategy",
       "philosophy",
-      "noun",
-      "paradox"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 paradox 和 contradiction 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " paradox 的重點是表面互斥下仍有深層真實，不是普通矛盾。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句哲學、管理或策略張力的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

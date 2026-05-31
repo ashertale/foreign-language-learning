@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 garner 作為收集、累積取得的核心義；頁面保留 grain 入倉般逐步聚攏的畫面。",
         "url": "https://www.merriam-webster.com/dictionary/garner",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 garner support、attention、votes、praise；頁面用評價、證據與關注逐步累積的語境。",
         "url": "https://www.merriam-webster.com/dictionary/garner",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "collect",
       "attention",
       "support",
-      "verb",
-      "garner"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 garner 和 collect 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " garner 的字源和收成入倉有關，所以是慢慢攢起來，不是突然拿到。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句支持、關注或評價逐步累積的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

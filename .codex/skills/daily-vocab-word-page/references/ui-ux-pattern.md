@@ -19,9 +19,9 @@ The page should feel like a quiet literary study sheet: soft paper background, r
 ## Interaction
 
 - `data-speak` buttons use browser speech synthesis for quick pronunciation.
-- Single-word pages keep interaction light: pronunciation is local to the page, while active recall belongs in `review.html`.
+- Single-word pages keep interaction light: pronunciation is local to the page.
 - Keep interactions optional. The page should still be useful when JavaScript is disabled, except for speech.
-- Do not add page-local search, flashcards, review queues, or dashboard controls to a single-word page. Those belong in management/review pages.
+- Do not add page-local search, flashcards, review queues, or dashboard controls to a single-word page. Those belong in dedicated product pages if they return later.
 
 ## Visual Style
 
@@ -37,7 +37,7 @@ The page should feel like a quiet literary study sheet: soft paper background, r
 - Tables may scroll inside `.table-wrap` on mobile.
 - No console errors.
 - Pronunciation button resets its label after playback or error.
-- Single-word pages do not render `data-check` inputs; review state is owned by `review.html`.
+- Single-word pages do not render `data-check` inputs.
 - `Word NN` in the hero matches `prototypes/word-index.js` after running `uv run python scripts/sync_word_numbers.py --check`.
 - Hard refresh or cache-busting may be needed while testing Live Server.
 
@@ -52,7 +52,7 @@ For each new page, check:
 - Reading Path contains links for `#core`, `#definition`, optional `#origin`, `#memory`, `#usage`, `#collocations`, `#neighbors`, `#modern`, and `#sources`.
 - Each Reading Path link has a matching section id, with no duplicate ids.
 - Exactly one pronunciation button has `data-speak`.
-- No single-word page contains `data-check` active-recall inputs.
+- No single-word page contains `data-check` review inputs.
 - Source cards and collocation cards match the semantic payload rather than a fixed template count.
-- `prototypes/word-index.js` contains the matching `id`, `word`, `partOfSpeech`, `href`, `thesis`, `tags`, and `checks`.
+- `prototypes/word-index.js` contains the matching `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
 - `uv run python scripts/sync_word_numbers.py --check` passes; if `uv` is not on PATH, resolve the mise-managed `uv.exe` path before giving up.

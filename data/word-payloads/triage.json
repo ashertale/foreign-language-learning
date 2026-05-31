@@ -113,20 +113,6 @@
       "SRE",
       "operations",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 triage 和 prioritize 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 triage 的核心是資源不足下的分級"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 bug、incident 或 ticket queue 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

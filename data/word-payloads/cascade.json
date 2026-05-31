@@ -113,20 +113,6 @@
       "dependencies",
       "incident",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 cascade 和 spread 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 cascade 的核心畫面是瀑布沿層次往下流"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 dependency、failure 或 style change 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

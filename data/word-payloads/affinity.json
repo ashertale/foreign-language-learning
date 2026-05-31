@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 affinity 作為自然吸引、相合或類似性的核心義；頁面保留人際、興趣與化學親和力的共同底層。",
         "url": "https://www.merriam-webster.com/dictionary/affinity",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法可談 personal affinity、brand affinity、chemical affinity 或 system affinity；頁面把重點放在「天然相吸」而非普通喜歡。",
         "url": "https://www.merriam-webster.com/dictionary/affinity",
         "label": "Merriam-Webster"
       }
@@ -110,22 +110,7 @@
       "preference",
       "design",
       "chemistry",
-      "noun",
-      "affinity"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 affinity 和 preference 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " affinity 的字源畫面是彼此靠近、自然合拍，不只是喜歡。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句人際、審美或技術相容性的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

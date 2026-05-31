@@ -113,20 +113,6 @@
       "teamwork",
       "physics",
       "noun"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 friction 和 obstacle 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 friction 的核心畫面是 rubbing"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 UX、流程或 teamwork 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

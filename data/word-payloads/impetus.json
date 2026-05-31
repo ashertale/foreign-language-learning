@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 impetus 作為推力、動因、讓行動開始的核心義；頁面保留它比 motivation 更像外推力的語感。",
         "url": "https://www.merriam-webster.com/dictionary/impetus",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 provide、give、gain impetus；頁面用改革、決策與專案啟動說明那股往前推的力量。",
         "url": "https://www.merriam-webster.com/dictionary/impetus",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "motivation",
       "change",
       "action",
-      "noun",
-      "impetus"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 impetus 和 motivation 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " impetus 的底層畫面是推進力，不只是抽象動機。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句改革、決策或行動被推動的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

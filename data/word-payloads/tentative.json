@@ -113,20 +113,6 @@
       "RCA",
       "project management",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 tentative 和 uncertain 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 tentative 來自 try、test、feel out 的試探畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用 tentative 造一句 plan、root cause 或 conclusion 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

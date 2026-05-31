@@ -113,20 +113,6 @@
       "engineering",
       "project management",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 pragmatic 和 practical 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它和 Greek pragma「事情、行動、已完成之事」有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句工程、決策或專案取捨情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

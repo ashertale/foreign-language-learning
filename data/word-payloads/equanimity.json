@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 equanimity 作為在壓力中保持心境平衡的核心義；頁面保留 equal mind 的均衡感。",
         "url": "https://www.merriam-webster.com/dictionary/equanimity",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 maintain、show、lose equanimity；頁面用 incident 與挑釁情境說明它不是麻木，而是穩住判斷。",
         "url": "https://www.merriam-webster.com/dictionary/equanimity",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "calm",
       "leadership",
       "mindset",
-      "noun",
-      "equanimity"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 equanimity 和 calm 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " equanimity 的畫面是心裡有水平線，不是完全沒情緒。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句壓力、誤會或高壓場合穩定重心的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

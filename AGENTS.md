@@ -10,8 +10,8 @@
 
 ## 專案定位
 
-- 本專案是外文學習助手，核心目標是建立穩定、可持續、每天真的能用的英文單字深讀與複習流程。
-- 目前主軸是單一單詞深讀頁、單字庫管理、陌生字待補清單與低摩擦複習頁。
+- 本專案是外文學習助手，核心目標是建立穩定、可持續、每天真的能用的英文單字深讀流程。
+- 目前主軸是單一單詞深讀頁、單字庫管理與陌生字待補清單。
 - 內容品質、概念理解、記憶效果與學習節奏優先於功能數量。
 - HTML 原型必須可實際用於學習或管理，不做純展示頁、行銷 landing page 或與學習無關的視覺噪音。
 
@@ -25,22 +25,21 @@
 - `prototypes/word-page.css`、`prototypes/word-page.js`：所有單字頁共用的閱讀版型與發音互動。
 - `prototypes/index.html`、`prototypes/manage-page.*`：單字庫、搜尋、排序、隨機閱讀入口。
 - `prototypes/backlog.html`、`prototypes/backlog-page.js`：陌生字待補清單，使用 `localStorage`，並避免與既有單字頁重複。
-- `prototypes/review.html`、`prototypes/review-page.js`：主動回想複習頁，依 local review state 排程下一次複習。
 - `scripts/*.py`：payload render、批次驗證/渲染、編號同步、payload/page 驗證與來源政策正規化工具。
 
 ## Skill 使用邊界
 
 - 建立、打磨或延伸「單一單詞頁面」時，使用 `$daily-vocab-word-page`。
-- 該 skill 的路徑是 `.codex/skills/daily-vocab-word-page/SKILL.md`；單字頁內容模型、source policy、Reading Path、collocations、neighbors、active recall 與驗證要求都以它為準。
+- 該 skill 的路徑是 `.codex/skills/daily-vocab-word-page/SKILL.md`；單字頁內容模型、source policy、Reading Path、collocations、neighbors 與驗證要求都以它為準。
 - 正式新增或生成單字頁時，優先走 payload/render 流程，不手刻完整頁面、不手動拼接索引。
-- 管理頁、複習頁、待補清單、統計頁等產品功能，不要硬套單字頁 skill；保留閱讀氣質，但依功能需求設計資訊架構。
+- 管理頁、待補清單、統計頁等產品功能，不要硬套單字頁 skill；保留閱讀氣質，但依功能需求設計資訊架構。
 - 根層 `AGENTS.md` 只放專案方向、架構邊界、工作流程與驗證原則；單字頁細節留在 `$daily-vocab-word-page`。
 
 ## 單字頁內容規則
 
 - 教學重點是「概念、語氣、使用場景」，不是只給中文翻譯。
 - 字源、歷史與現代用法要分清楚；記憶故事可以生動，但不可偽裝成史實。
-- 單字頁應包含核心概念、精簡定義、字源、記憶鉤子、情境例子、搭配詞、鄰近字辨析與來源備註；主動回想留在 `review.html`。
+- 單字頁應包含核心概念、精簡定義、字源、記憶鉤子、情境例子、搭配詞、鄰近字辨析與來源備註。
 - `IPA` 使用精簡格式，例如 `ih-FEM-er-uhl · UK /.../ · US /.../`；不要回到 `Respelling`、`UK IPA`、`US IPA` 這種舊標籤。
 - CEFR 是 repo-calibrated study band；Zipf 參考 `wordfreq`，不要寫成外部單一字典給出的 CEFR 真值。
 - 來源欄位 `page.sources.*` 與 `sourceAudit` 必須互相一致；不要混用 label 與 URL。
@@ -98,7 +97,6 @@
 - 單字頁維持安靜閱讀感：低對比墨色、溫暖紙底、細邊框、克制陰影、8px 以內圓角。
 - 單字頁不是 landing page；不要加入大型行銷 hero、裝飾性漸層球、重複導覽或無關視覺噪音。
 - 管理頁重視掃描、搜尋、排序、狀態與低摩擦操作。
-- 複習頁重視主動回想、錯題回流與低摩擦輸入；先回想再翻面確認，不要變成被動瀏覽。
 - 響應式設計要檢查桌面與手機寬度，避免文字溢出、水平捲動、導覽遮住標題或互動狀態不明。
 
 ## 實作偏好
@@ -117,7 +115,7 @@
   ```powershell
   git diff --check
   ```
-- 修改 HTML/CSS/JS 後，盡量檢查瀏覽器 console、桌面/手機版面、anchor offset、搜尋、發音按鈕與複習互動。
+- 修改 HTML/CSS/JS 後，盡量檢查瀏覽器 console、桌面/手機版面、anchor offset、搜尋、發音按鈕與待補清單互動。
 - 修改單字頁、payload 或 `word-index.js` 後，至少執行：
   ```powershell
   uv run python scripts\validate_word_pages.py

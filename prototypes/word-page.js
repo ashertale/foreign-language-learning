@@ -2,6 +2,11 @@ let selectedEnglishVoice = null;
 let speechRetryTimer = 0;
 const SPEECH_IDLE_POLL_MS = 40;
 const SPEECH_IDLE_MAX_POLLS = 25;
+const SPEECH_POST_CANCEL_DELAY_MS = 160;
+const SPEECH_PRIME_DELAY_MS = 80;
+const SPEECH_PRIME_STALE_MS = 45000;
+const SPEECH_PRIME_TEXT = ".";
+let speechPrimedAt = 0;
 
 function chooseEnglishVoice() {
   if (!("speechSynthesis" in window)) return null;
@@ -34,42 +39,85 @@ function waitForSpeechIdle(remainingPolls, callback) {
   }, SPEECH_IDLE_POLL_MS);
 }
 
+function createEnglishUtterance(text, options = {}) {
+  const utterance = new SpeechSynthesisUtterance(text);
+  const voice = selectedEnglishVoice || chooseEnglishVoice();
+  utterance.lang = voice?.lang || "en-US";
+  if (voice) {
+    utterance.voice = voice;
+  }
+  utterance.rate = options.rate || 0.82;
+  utterance.pitch = 1;
+  utterance.volume = options.volume ?? 1;
+  return utterance;
+}
+
+function startSpeechWithPrimer(synth, text, onStart) {
+  const now = Date.now();
+  const needsPrimer = !speechPrimedAt || now - speechPrimedAt > SPEECH_PRIME_STALE_MS;
+
+  const speakActual = () => {
+    speechPrimedAt = Date.now();
+    onStart(createEnglishUtterance(text));
+  };
+
+  if (!needsPrimer) {
+    speakActual();
+    return;
+  }
+
+  const primer = createEnglishUtterance(SPEECH_PRIME_TEXT, {
+    rate: 1,
+    volume: 0,
+  });
+
+  let didFinishPrimer = false;
+  const finishPrimer = () => {
+    if (didFinishPrimer) return;
+    didFinishPrimer = true;
+    window.setTimeout(speakActual, SPEECH_PRIME_DELAY_MS);
+  };
+
+  const primerTimer = window.setTimeout(finishPrimer, 320);
+  primer.onend = primer.onerror = () => {
+    window.clearTimeout(primerTimer);
+    finishPrimer();
+  };
+
+  synth.speak(primer);
+}
+
 function speakEnglishText(text, onReset) {
   if (!("speechSynthesis" in window)) return;
   window.clearTimeout(speechRetryTimer);
 
   const synth = window.speechSynthesis;
   const beginSpeaking = () => {
-    const utterance = new SpeechSynthesisUtterance(text);
-    const voice = selectedEnglishVoice || chooseEnglishVoice();
-    utterance.lang = selectedEnglishVoice?.lang || "en-US";
-    if (voice) {
-      utterance.voice = voice;
-      utterance.lang = voice.lang || utterance.lang;
-    }
-    utterance.rate = 0.82;
-    utterance.pitch = 1;
-    utterance.volume = 1;
+    startSpeechWithPrimer(synth, text, (utterance) => {
+      let didReset = false;
+      function resetOnce() {
+        if (didReset) return;
+        didReset = true;
+        onReset();
+      }
 
-    let didReset = false;
-    function resetOnce() {
-      if (didReset) return;
-      didReset = true;
-      onReset();
-    }
+      const resetTimer = window.setTimeout(resetOnce, 4000);
+      utterance.onend = utterance.onerror = () => {
+        window.clearTimeout(resetTimer);
+        resetOnce();
+      };
 
-    const resetTimer = window.setTimeout(resetOnce, 4000);
-    utterance.onend = utterance.onerror = () => {
-      window.clearTimeout(resetTimer);
-      resetOnce();
-    };
-
-    synth.speak(utterance);
+      synth.resume();
+      synth.speak(utterance);
+    });
   };
 
   if (synth.speaking || synth.pending) {
     synth.cancel();
-    waitForSpeechIdle(SPEECH_IDLE_MAX_POLLS, beginSpeaking);
+    speechPrimedAt = 0;
+    waitForSpeechIdle(SPEECH_IDLE_MAX_POLLS, () => {
+      window.setTimeout(beginSpeaking, SPEECH_POST_CANCEL_DELAY_MS);
+    });
     return;
   }
 

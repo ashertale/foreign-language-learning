@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 dexterous 作為手巧、靈活、熟練處理的核心義；頁面保留 right-hand skill 的控制感。",
         "url": "https://www.merriam-webster.com/dictionary/dexterous",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法可談 dexterous fingers、handling、maneuvering 或 strategy；頁面把手部靈巧延伸到抽象應對。",
         "url": "https://www.merriam-webster.com/dictionary/dexterous",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "skillful",
       "precision",
       "craft",
-      "adjective",
-      "dexterous"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 dexterous 和 skillful 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " dexterous 的字源和順手、靈巧有關，重點是精準控制。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句精密操作、工藝或技巧表現情境的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

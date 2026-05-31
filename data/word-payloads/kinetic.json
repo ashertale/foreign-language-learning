@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 kinetic 作為與運動、動能相關的核心義；頁面保留物理動能和視覺動態感的連結。",
         "url": "https://www.merriam-webster.com/dictionary/kinetic",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法可見於 kinetic energy、kinetic sculpture、kinetic design；頁面用物理、互動與表演語境說明。",
         "url": "https://www.merriam-webster.com/dictionary/kinetic",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "active",
       "motion",
       "design",
-      "adjective",
-      "kinetic"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 kinetic 和 active 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " kinetic 的根本是 movement，所以是動能，不只是活躍。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句物理、互動或表演動態感的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

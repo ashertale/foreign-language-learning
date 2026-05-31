@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 composure 作為鎮定、穩住自己的核心義；頁面把重點放在壓力場面中仍能保有判斷。",
         "url": "https://www.merriam-webster.com/dictionary/composure",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 keep、lose、regain composure；頁面用 incident、meeting 與防衛反應說明它不是沒有情緒，而是沒有被情緒拖走。",
         "url": "https://www.merriam-webster.com/dictionary/composure",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "calm",
       "leadership",
       "pressure",
-      "noun",
-      "composure"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 composure 和 calm 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " composure 的畫面是把自己重新收整好，而不是完全沒情緒。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句會議、衝突或壓力表現情境的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

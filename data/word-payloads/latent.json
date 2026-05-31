@@ -113,20 +113,6 @@
       "testing",
       "statistics",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 latent 和 potential 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin latere，意思是躲藏、隱伏"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句隱性 bug、潛在能力或資料模型情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

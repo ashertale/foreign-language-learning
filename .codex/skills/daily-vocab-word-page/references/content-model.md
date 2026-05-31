@@ -36,7 +36,6 @@ Every word page needs a matching `prototypes/word-index.js` entry:
 - `order`: do not hand-maintain; run `uv run python scripts/sync_word_numbers.py`.
 - `thesis`: same conceptual thesis used in the hero.
 - `tags`: include Chinese meanings, English search terms, domains, collocations, and part of speech.
-- `checks`: concise review cues for meaning distinction, origin/story memory, and sentence production on the separate review page.
 
 After editing `word-index.js` or adding a page, run `uv run python scripts/sync_word_numbers.py --check`; if it reports drift, run it without `--check`.
 

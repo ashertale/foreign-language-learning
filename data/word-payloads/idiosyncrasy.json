@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 idiosyncrasy 作為個體特有習性或反應方式的核心義；頁面保留「專屬而可辨識」的怪脾氣感。",
         "url": "https://www.merriam-webster.com/dictionary/idiosyncrasy",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常談 personal、cultural、system idiosyncrasy；頁面用 legacy system 與人物風格說明它不是大缺陷。",
         "url": "https://www.merriam-webster.com/dictionary/idiosyncrasy",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "quirk",
       "legacy",
       "personality",
-      "noun",
-      "idiosyncrasy"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 idiosyncrasy 和 quirk 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " idiosyncrasy 的重點是個體專屬、反覆可辨識，不只是一般怪癖。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句人物、風格或系統專屬習性的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

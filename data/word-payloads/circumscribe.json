@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 circumscribe 作為畫界線、限制範圍的核心義；頁面保留 around + write/draw 的邊界感。",
         "url": "https://www.merriam-webster.com/dictionary/circumscribe",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 circumscribe power、authority、scope 或 action；頁面用需求邊界與風險控制說明它不是單純阻止。",
         "url": "https://www.merriam-webster.com/dictionary/circumscribe",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "limit",
       "scope",
       "governance",
-      "verb",
-      "circumscribe"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 circumscribe 和 limit 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " circumscribe 的字源畫面是拿筆畫圈，把事情圈在邊界內。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句權限、scope 或 incident 控制情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

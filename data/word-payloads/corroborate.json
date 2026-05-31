@@ -113,20 +113,6 @@
       "RCA",
       "debugging",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 corroborate 和 confirm 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 corroborate 的字源核心是 strengthen by evidence"
-      },
-      {
-        "id": "sentence",
-        "label": "用 corroborate 造一句 log、claim 或 hypothesis 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

@@ -113,20 +113,6 @@
       "research",
       "debugging",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 distill 和 summarize 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 distill 的核心畫面是一滴一滴蒸餾"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 insight、lesson 或 complex idea 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

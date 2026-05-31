@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 bolster 作為支撐、強化的核心義與發音；頁面把枕墊的支撐感轉成論點、信心與防線的加固。",
         "url": "https://www.merriam-webster.com/dictionary/bolster",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 bolster confidence、bolster evidence、bolster defenses；頁面用工程與決策語境說明它不是憑空創造，而是補強既有基礎。",
         "url": "https://www.merriam-webster.com/dictionary/bolster",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "help",
       "evidence",
       "security",
-      "verb",
-      "bolster"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 bolster 和 help 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " bolster 的字源來自支撐物，所以它的核心是撐住，不只是幫忙。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句論證、信心或系統防線情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

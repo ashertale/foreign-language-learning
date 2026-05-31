@@ -113,20 +113,6 @@
       "translation",
       "requirements",
       "noun"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 nuance 和 detail 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它和雲、陰影、色階變化的字源畫面有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句需求、翻譯或人際語氣情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

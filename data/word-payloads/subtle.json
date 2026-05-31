@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 subtle 作為細微、不明顯但真實可辨的核心義；頁面把它和 vague 的模糊感分開。",
         "url": "https://www.merriam-webster.com/dictionary/subtle",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 subtle difference、hint、shift、design choice；頁面用氣味、表情、timing 與介面設計呈現。",
         "url": "https://www.merriam-webster.com/dictionary/subtle",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "vague",
       "design",
       "timing",
-      "adjective",
-      "subtle"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 subtle 和 vague 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " subtle 的重點是細而真，不是模糊不清。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句細微差異、氣味或系統微變化的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

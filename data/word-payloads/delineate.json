@@ -113,20 +113,6 @@
       "requirements",
       "architecture",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 delineate 和 describe 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 delineate 的核心畫面是 draw lines"
-      },
-      {
-        "id": "sentence",
-        "label": "用 delineate 造一句 scope、responsibility 或 boundary 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

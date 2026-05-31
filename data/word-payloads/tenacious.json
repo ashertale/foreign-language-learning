@@ -114,20 +114,6 @@
       "tenacious bug",
       "debugging",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 tenacious 和 stubborn 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 tenacious 的核心畫面是 tenere: to hold"
-      },
-      {
-        "id": "sentence",
-        "label": "用 tenacious 寫一句關於 debug、學習、研究或防守的英文句子"
-      }
     ]
   },
   "sourceAudit": [

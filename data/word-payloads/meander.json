@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 meander 作為蜿蜒前進或漫遊的核心義；頁面保留河道彎曲、不急不直的畫面。",
         "url": "https://www.merriam-webster.com/dictionary/meander",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 river、path、conversation、thought meanders；頁面用散步、談話與思緒展開說明它不同於單純 wander。",
         "url": "https://www.merriam-webster.com/dictionary/meander",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "wander",
       "conversation",
       "path",
-      "verb",
-      "meander"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 meander 和 wander 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " meander 的畫面是河道蜿蜒，不是單純迷路。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句河流、散步或對話曲折展開的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

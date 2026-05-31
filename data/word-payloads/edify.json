@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 edify 作為教育、啟發、提升心智或品格的核心義；頁面保留「建立人」的字源畫面。",
         "url": "https://www.merriam-webster.com/dictionary/edify",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法多見於 edifying book、lecture、experience；頁面把它和單純 inform 區分，放在理解後變成熟的情境。",
         "url": "https://www.merriam-webster.com/dictionary/edify",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "teach",
       "education",
       "reading",
-      "verb",
-      "edify"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 edify 和 teach 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " edify 的字源是建造，所以重點是把人內在慢慢建起來。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句教育、閱讀或團隊學習情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

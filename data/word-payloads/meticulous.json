@@ -113,20 +113,6 @@
       "meticulous records",
       "engineering",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 meticulous 和 careful 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它和 Latin metus、對錯誤的敬畏有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句工程、文件或規劃情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

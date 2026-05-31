@@ -113,20 +113,6 @@
       "experiments",
       "interpersonal",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 coax 和 force 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 coax 的核心是溫和引導，而不是硬推"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句人際、實驗或 debug 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

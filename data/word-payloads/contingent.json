@@ -113,20 +113,6 @@
       "project management",
       "legal",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 contingent 和 dependent 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 contingent 的核心畫面是結果懸在條件上"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 approval、validation 或 contract 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

@@ -113,20 +113,6 @@
       "architecture",
       "statistics",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 orthogonal 和 unrelated 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 orthogonal 的核心畫面是 right angles"
-      },
-      {
-        "id": "sentence",
-        "label": "用 orthogonal 造一句 concerns、dimensions 或 architecture 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

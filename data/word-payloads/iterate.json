@@ -113,20 +113,6 @@
       "product",
       "engineering",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 iterate 和 repeat 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin iterare，to do again"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句產品、測試、演算法或學習情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

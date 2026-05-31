@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 eloquent 作為有力、流暢而能表達意思的核心義；頁面保留語言之外也能「說話」的延伸。",
         "url": "https://www.merriam-webster.com/dictionary/eloquent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 eloquent speech、writing、explanation、silence；頁面用提案、說明與姿態呈現它的表達力。",
         "url": "https://www.merriam-webster.com/dictionary/eloquent",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "fluent",
       "writing",
       "speech",
-      "adjective",
-      "eloquent"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 eloquent 和 fluent 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " eloquent 不只是說得順，而是說得有分量、有形狀。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句演說、寫作或解釋複雜事物的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

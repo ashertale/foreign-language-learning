@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 catalyst 的化學催化劑義與促成變化者的延伸義；頁面把核心收束為「讓變化加速成形的力量」。",
         "url": "https://www.merriam-webster.com/dictionary/catalyst",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常談 catalyst for change、growth catalyst、policy catalyst；頁面把化學畫面延伸到產品、組織與個人轉變。",
         "url": "https://www.merriam-webster.com/dictionary/catalyst",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "cause",
       "change",
       "reaction",
-      "noun",
-      "catalyst"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 catalyst 和 cause 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " catalyst 的核心是催化與加速，不只是籠統原因。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句變革、產品或社會事件情境的英文句子。"
-      }
+      "noun"
     ]
   },
   "sourceAudit": [

@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 的定義與發音支撐 abate 作為「強度、數量或壓力減弱」的核心義；頁面特別取其從高勢頭慢慢退下的語感。",
         "url": "https://www.merriam-webster.com/dictionary/abate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 pain、storm、risk、tension 等原本帶強度的名詞；頁面把這些搭配延伸到 incident 壓力與 alert noise 的緩和。",
         "url": "https://www.merriam-webster.com/dictionary/abate",
         "label": "Merriam-Webster"
       }
@@ -110,22 +110,7 @@
       "risk",
       "incident",
       "weather",
-      "verb",
-      "abate"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 abate 和 reduce 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " abate 的字源畫面是高浪退潮，而不是單純按數字減一。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句天氣、疼痛或 incident 情境的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

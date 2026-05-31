@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 viable 作為能存活、能運作或可行的核心義；頁面把重點放在能不能長期撐住。",
         "url": "https://www.merriam-webster.com/dictionary/viable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 viable option、solution、business model、product；頁面用產品與策略語境區分它與 feasible。",
         "url": "https://www.merriam-webster.com/dictionary/viable",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "feasible",
       "product",
       "strategy",
-      "adjective",
-      "viable"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 viable 和 feasible 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " viable 和生命、存續直接相連，所以重點是活得下去。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句產品、商業模式或長期方案能否存活的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

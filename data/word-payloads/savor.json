@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 savor 作為品味、慢慢享受味道或經驗的核心義；頁面保留 taste 之外的停留感。",
         "url": "https://www.merriam-webster.com/dictionary/savor",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代用法常見於 savor the moment、victory、flavor、experience；頁面用食物、完成感與片刻經驗說明。",
         "url": "https://www.merriam-webster.com/dictionary/savor",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "taste",
       "moment",
       "food",
-      "verb",
-      "savor"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 savor 和 taste 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " savor 的畫面是把味道多留一拍，不只是嘗到。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句味道、時刻或完成感被慢慢品味的英文句子。"
-      }
+      "verb"
     ]
   },
   "sourceAudit": [

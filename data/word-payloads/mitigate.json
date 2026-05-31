@@ -113,20 +113,6 @@
       "workaround",
       "security",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 mitigate 和 solve 的差異：減輕不等於解決"
-      },
-      {
-        "id": "origin",
-        "label": "記得它有「使變柔和、把傷害磨鈍」的字源畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句風險、工程或資安情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

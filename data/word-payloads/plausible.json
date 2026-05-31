@@ -82,12 +82,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "note": "Merriam-Webster 支撐 plausible 作為表面可信、合理但未必已證實的核心義；頁面聚焦在值得考慮但仍需驗證。",
         "url": "https://www.merriam-webster.com/dictionary/plausible",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "note": "現代搭配常見於 plausible explanation、hypothesis、scenario、deniability；頁面用 debug 假說與初步判斷呈現。",
         "url": "https://www.merriam-webster.com/dictionary/plausible",
         "label": "Merriam-Webster"
       }
@@ -109,22 +109,7 @@
       "true",
       "hypothesis",
       "debugging",
-      "adjective",
-      "plausible"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 plausible 和 true 的差異"
-      },
-      {
-        "id": "origin",
-        "label": " plausible 是先站得住，不等於已被證明為真。"
-      },
-      {
-        "id": "sentence",
-        "label": "造一句假說、解釋或情境初步可信的英文句子。"
-      }
+      "adjective"
     ]
   },
   "sourceAudit": [

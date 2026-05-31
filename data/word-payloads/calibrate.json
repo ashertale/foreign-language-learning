@@ -113,20 +113,6 @@
       "measurement",
       "firmware",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 calibrate 和 adjust 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 calibrate 的核心畫面是拿標準校正刻度"
-      },
-      {
-        "id": "sentence",
-        "label": "用 calibrate 造一句 sensor、model 或 expectation 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

@@ -113,20 +113,6 @@
       "argument",
       "debugging",
       "verb"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 hinge 和 depend 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得 hinge 的核心畫面是門靠鉸鏈開合"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句 timing、assumption 或 user trust 情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [

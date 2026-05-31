@@ -115,20 +115,6 @@
       "debug",
       "design review",
       "adjective"
-    ],
-    "checks": [
-      {
-        "id": "meaning",
-        "label": "說出 salient 和 important 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它來自 Latin salire，有「跳出來」的字源畫面"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句會議、debug 或設計評估情境的英文句子"
-      }
     ]
   },
   "sourceAudit": [
