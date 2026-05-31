@@ -20,7 +20,7 @@ The page should feel like a quiet literary study sheet: soft paper background, r
 
 - `data-speak` buttons use browser speech synthesis for quick pronunciation.
 - `data-check` checkboxes persist active-recall state in `localStorage` keyed by page filename.
-- Keep interactions optional. The page should still be useful when JavaScript is disabled, except for speech and saved checks.
+- Keep interactions optional. The page should still be useful when JavaScript is disabled, except for speech.
 - Do not add page-local search, flashcards, review queues, or dashboard controls to a single-word page. Those belong in management/review pages.
 
 ## Visual Style

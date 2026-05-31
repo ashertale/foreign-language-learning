@@ -14,45 +14,171 @@ TEMPLATE = ROOT / ".codex" / "skills" / "daily-vocab-word-page" / "assets" / "te
 PROTOTYPES = ROOT / "prototypes"
 WORD_INDEX = PROTOTYPES / "word-index.js"
 PLACEHOLDER_RE = re.compile(r"{{([A-Z0-9_]+)}}")
+CONDITIONAL_BLOCK_RE = re.compile(r"<!-- IF ([A-Z0-9_]+) -->(.*?)<!-- ENDIF \1 -->", re.DOTALL)
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 IPA_FORMAT_RE = re.compile(r"^[^·\n]+ · UK /[^/\n]+/ · US /[^/\n]+/$")
 CEFR_RE = re.compile(r"^(A1|A2|B1|B2|C1|C2)$")
 ZIPF_RE = re.compile(r"^\d(?:\.\d{2})$")
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
-CHINESE_PLACEHOLDER_KEYS = {
-    "THESIS",
-    "LEARNING_POSITION",
-    "CORE_IDEA",
-    "CONCEPT_FOCUS",
-    "TONE_REGISTER",
-    "USE_WARNING",
-    "SHORT_DEFINITION",
-    "CONFUSION_NOTE",
-    "FLOW_1",
-    "FLOW_2",
-    "FLOW_3",
+OPTIONAL_TEXT_PLACEHOLDER_KEYS = {
     "ORIGIN_PARAGRAPH",
-    "ORIGIN_MEMORY",
-    "MEMORY_HOOK",
-    "MEMORY_EXPLANATION",
-    "DAILY_USAGE",
-    "PROFESSIONAL_USAGE",
     "DOMAIN_USAGE",
     "COLLOCATION_NOTE",
     "COLLOCATION_NOTE_1",
     "COLLOCATION_NOTE_2",
     "COLLOCATION_NOTE_3",
+}
+OPTIONAL_PLACEHOLDER_KEYS = OPTIONAL_TEXT_PLACEHOLDER_KEYS | {"COLLOCATION_3", "REGISTER_3"}
+LEGACY_UNUSED_PLACEHOLDER_KEYS = {
+    "CHECK_MEANING",
+    "CHECK_ORIGIN",
+    "CHECK_SENTENCE",
+    "PRACTICE_SENTENCE",
+}
+NARRATIVE_DRIFT_PATTERNS = {
+    "CORE_IDEA": (
+        (
+            re.compile(
+                r"^先把 <code>[^<]+</code> 看成一個判斷詞。它讓你知道句子不是停在 <code>[^<]+</code> 那個外圈。$"
+            ),
+            "explain the word itself, not how the learner should read it",
+        ),
+        (
+            re.compile(
+                r"^用 <code>[^<]+</code> 時，句子通常在做一個收焦動作：把讀者帶到「.+」那個更窄的位置。$"
+            ),
+            "describe the concept directly instead of narrating the reader's path",
+        ),
+    ),
+    "FLOW_1": (
+        (
+            re.compile(r"^先讀搭配$"),
+            "use a concept flow, not reading instructions",
+        ),
+        (
+            re.compile(r"^先找句子的壓力點$"),
+            "use a concept flow, not a reading procedure",
+        ),
+        (
+            re.compile(r"^從 .+ 的例子入手$"),
+            "use a concept flow, not a study sequence",
+        ),
+    ),
+    "ORIGIN_MEMORY": (
+        (
+            re.compile(r"^這個鉤子只負責喚回語感：.+$"),
+            "keep the image, remove the meta framing",
+        ),
+        (
+            re.compile(r"^(可用的記憶入口：|先記畫面，不急著求完整解釋：|把畫面收成一句話：).+$"),
+            "keep the mnemonic image, remove the study-note framing",
+        ),
+    ),
+    "MEMORY_EXPLANATION": (
+        (
+            re.compile(
+                r"^如果你只能想起中文，這個字會很快和 <code>[^<]+</code> 混在一起；畫面能幫你多留一層邊界。$"
+            ),
+            "explain what the image reveals about the word",
+        ),
+        (
+            re.compile(
+                r"^下次看到 <code>[^<]+</code>，先讓這個畫面浮上來，再檢查上下文是否真的有「.+」。$"
+            ),
+            "explain the image directly instead of giving a reading procedure",
+        ),
+        (
+            re.compile(r"^把畫面、搭配、鄰近字一起記；三者合起來才會變成可用的語感。$"),
+            "explain what the image reveals about the word instead of describing a study routine",
+        ),
+    ),
+    "DAILY_USAGE": (
+        (
+            re.compile(r"^在 .+ 裡，<code>.+</code> 通常能把這個字的核心露出來。先讀這個搭配，再讀其他例子。$"),
+            "describe the usage scene directly instead of telling the learner what to read first",
+        ),
+        (
+            re.compile(r"^<code>.+</code> 是最低摩擦入口；它讓你不用先背完整定義，也能感到「.+」。$"),
+            "explain why the collocation works instead of describing the study procedure",
+        ),
+        (
+            re.compile(r"^先拿 <code>.+</code> 寫一個你真的會遇到的場景；這比多看三個中文解釋有用。$"),
+            "describe the daily scene directly instead of assigning a study task",
+        ),
+        (
+            re.compile(r"^用 <code>.+</code> 練第一句。先讓句子自然，再想它為什麼需要 <code>.+</code>。$"),
+            "describe the daily scene directly instead of narrating a practice sequence",
+        ),
+    ),
+    "PROFESSIONAL_USAGE": (
+        (
+            re.compile(r"^<code>.+</code> 把語境推到 .+。這時重點是精準，不是把句子寫得更艱深。$"),
+            "describe the domain boundary directly instead of commenting on writing difficulty",
+        ),
+        (
+            re.compile(r"^如果要在工作或分析文本裡用，先從 <code>.+</code> 看語氣；它會告訴你這個字能不能承受正式語境。$"),
+            "describe the professional scene directly instead of prescribing a reading order",
+        ),
+        (
+            re.compile(r"^讀 <code>.+</code> 時，注意它前後通常會提供理由，讓「.+」變得必要。$"),
+            "describe the professional scene directly instead of giving reading instructions",
+        ),
+        (
+            re.compile(r"^<code>.+</code> 適合拿來檢查語域：它讓 <code>.+</code> 從認得走向會判斷。$"),
+            "describe the professional boundary directly instead of describing a study checkpoint",
+        ),
+    ),
+    "MODERN_USE_1": (
+        (
+            re.compile(r"^實際閱讀時，<code>.+</code> 多半不會孤立出現。先留意 .+$"),
+            "describe modern usage directly instead of narrating the reading procedure",
+        ),
+        (
+            re.compile(r"^遇到 <code>.+</code> 時，先看旁邊的名詞或動詞。.+$"),
+            "describe modern usage directly instead of telling the learner where to look first",
+        ),
+        (
+            re.compile(r"^把它當成閱讀中的訊號：.+$"),
+            "describe the usage boundary directly instead of coaching the reading strategy",
+        ),
+    ),
+    "MODERN_USE_2": (
+        (
+            re.compile(r"^如果一句話只需要大意，別急著用 <code>.+</code>；如果要處理「.+」，它才值得出場。$"),
+            "explain the usage boundary directly instead of coaching the learner's word choice",
+        ),
+        (
+            re.compile(r"^真正掌握它的標準是：你能換一個情境，仍然說清楚為什麼這裡該用 <code>.+</code>。$"),
+            "explain the usage boundary directly instead of describing a mastery test",
+        ),
+    ),
+    "PRACTICE_SENTENCE": (
+        (
+            re.compile(r"^先造句，再回頭檢查：這句若換成 <code>.+</code>，意思是否變太寬？$"),
+            "keep recall prompts, but avoid second-person procedural scripting here",
+        ),
+    ),
+}
+CHINESE_PLACEHOLDER_KEYS = {
+    "THESIS",
+    "CORE_IDEA",
+    "SHORT_DEFINITION",
+    "CONFUSION_NOTE",
+    "FLOW_1",
+    "FLOW_2",
+    "FLOW_3",
+    "ORIGIN_MEMORY",
+    "MEMORY_HOOK",
+    "MEMORY_EXPLANATION",
+    "DAILY_USAGE",
+    "PROFESSIONAL_USAGE",
     "NEIGHBOR_SELF_USE",
     "NEIGHBOR_1_MEANING",
     "NEIGHBOR_1_USE",
     "MODERN_USE_1",
     "MODERN_USE_2",
     "DICTIONARY_SOURCE_NOTE",
-    "ETYMOLOGY_SOURCE_NOTE",
     "MODERN_SOURCE_NOTE",
-    "CHECK_MEANING",
-    "CHECK_ORIGIN",
-    "CHECK_SENTENCE",
 }
 SOURCE_POLICY_ORDER = (
     "dictionary-pronunciation",
@@ -84,8 +210,6 @@ SOURCE_POLICY = {
         ),
     },
     "etymology-history": {
-        "labelKey": "ETYMOLOGY_LABEL",
-        "urlKey": "ETYMOLOGY_URL",
         "usedFor": "etymology and word-history support",
         "options": (
             {"label": "Online Etymology Dictionary", "rank": 1, "domains": ("etymonline.com",)},
@@ -160,6 +284,12 @@ def require_string(value: Any, label: str) -> str:
     return value
 
 
+def require_string_or_empty(value: Any, label: str) -> str:
+    if not isinstance(value, str):
+        raise RenderError(f"{label} must be a string")
+    return value.strip()
+
+
 def compact_text(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
 
@@ -212,7 +342,39 @@ def canonical_source_choice(category: str, label: str, url: str, field_label: st
     raise RenderError(f"{field_label} must use an approved source for {category}: {allowed}")
 
 
-def expected_source_audit(replacements: dict[str, str]) -> list[dict[str, str]]:
+def source_audit_entries(source_audit: Any) -> dict[str, dict[str, Any]]:
+    if not isinstance(source_audit, list):
+        raise RenderError("sourceAudit must be an array")
+
+    entries_by_category: dict[str, dict[str, Any]] = {}
+    for index, entry in enumerate(source_audit):
+        entry_obj = require_object(entry, f"sourceAudit[{index}]")
+        category = require_string(entry_obj.get("category"), f"sourceAudit[{index}].category")
+        if category in entries_by_category:
+            raise RenderError(f"sourceAudit must not repeat category {category}")
+        entries_by_category[category] = entry_obj
+
+    expected_categories = set(SOURCE_POLICY_ORDER)
+    actual_categories = set(entries_by_category)
+    missing = sorted(expected_categories - actual_categories)
+    extra = sorted(actual_categories - expected_categories)
+    if missing:
+        raise RenderError("sourceAudit is missing categories: " + ", ".join(missing))
+    if extra:
+        raise RenderError("sourceAudit has unsupported categories: " + ", ".join(extra))
+
+    return entries_by_category
+
+
+def canonical_etymology_audit(payload: dict[str, Any], replacements: dict[str, Any]) -> tuple[str, str]:
+    entries_by_category = source_audit_entries(payload.get("sourceAudit"))
+    entry = entries_by_category["etymology-history"]
+    label = require_string(entry.get("label"), "sourceAudit[etymology-history].label")
+    url = require_string(entry.get("url"), "sourceAudit[etymology-history].url")
+    return canonical_source_choice("etymology-history", label, url, "sourceAudit[etymology-history]")
+
+
+def expected_source_audit(replacements: dict[str, str], etymology_source: tuple[str, str]) -> list[dict[str, str]]:
     return [
         {
             "category": "dictionary-pronunciation",
@@ -228,8 +390,8 @@ def expected_source_audit(replacements: dict[str, str]) -> list[dict[str, str]]:
         },
         {
             "category": "etymology-history",
-            "label": replacements["ETYMOLOGY_LABEL"],
-            "url": replacements["ETYMOLOGY_URL"],
+            "label": etymology_source[0],
+            "url": etymology_source[1],
             "usedFor": SOURCE_POLICY["etymology-history"]["usedFor"],
         },
         {
@@ -242,10 +404,6 @@ def expected_source_audit(replacements: dict[str, str]) -> list[dict[str, str]]:
 
 
 def validate_source_policy(payload: dict[str, Any], replacements: dict[str, str]) -> None:
-    source_audit = payload.get("sourceAudit")
-    if not isinstance(source_audit, list):
-        raise RenderError("sourceAudit must be an array")
-
     for category, policy in SOURCE_POLICY.items():
         label_key = policy.get("labelKey")
         url_key = policy.get("urlKey")
@@ -268,24 +426,10 @@ def validate_source_policy(payload: dict[str, Any], replacements: dict[str, str]
     if replacements["REFERENCE_URL"] != replacements["DICTIONARY_URL"]:
         raise RenderError("templatePlaceholders.REFERENCE_URL must match DICTIONARY_URL")
 
-    entries_by_category: dict[str, dict[str, Any]] = {}
-    for index, entry in enumerate(source_audit):
-        entry_obj = require_object(entry, f"sourceAudit[{index}]")
-        category = require_string(entry_obj.get("category"), f"sourceAudit[{index}].category")
-        if category in entries_by_category:
-            raise RenderError(f"sourceAudit must not repeat category {category}")
-        entries_by_category[category] = entry_obj
+    entries_by_category = source_audit_entries(payload.get("sourceAudit"))
+    etymology_source = canonical_etymology_audit(payload, replacements)
 
-    expected_categories = set(SOURCE_POLICY_ORDER)
-    actual_categories = set(entries_by_category)
-    missing = sorted(expected_categories - actual_categories)
-    extra = sorted(actual_categories - expected_categories)
-    if missing:
-        raise RenderError("sourceAudit is missing categories: " + ", ".join(missing))
-    if extra:
-        raise RenderError("sourceAudit has unsupported categories: " + ", ".join(extra))
-
-    for expected in expected_source_audit(replacements):
+    for expected in expected_source_audit(replacements, etymology_source):
         category = expected["category"]
         entry = entries_by_category[category]
         label = require_string(entry.get("label"), f"sourceAudit[{category}].label")
@@ -332,7 +476,8 @@ def normalize_payload_sources(payload: dict[str, Any]) -> bool:
         replacements["REFERENCE_URL"] = replacements["DICTIONARY_URL"]
         changed = True
 
-    next_audit = expected_source_audit(replacements)
+    etymology_source = canonical_etymology_audit(payload, replacements)
+    next_audit = expected_source_audit(replacements, etymology_source)
     if payload.get("sourceAudit") != next_audit:
         payload["sourceAudit"] = next_audit
         changed = True
@@ -345,7 +490,7 @@ def validate_placeholders(payload: dict[str, Any], template: str) -> dict[str, s
     expected = template_placeholders(template)
     actual = set(replacements_raw)
     missing = sorted(expected - actual)
-    extra = sorted(actual - expected)
+    extra = sorted(actual - expected - LEGACY_UNUSED_PLACEHOLDER_KEYS)
 
     if missing:
         raise RenderError("missing templatePlaceholders: " + ", ".join(missing))
@@ -353,8 +498,12 @@ def validate_placeholders(payload: dict[str, Any], template: str) -> dict[str, s
         raise RenderError("extra templatePlaceholders not used by template: " + ", ".join(extra))
 
     replacements: dict[str, str] = {}
-    for key in sorted(actual):
-        replacements[key] = require_string(replacements_raw[key], f"templatePlaceholders.{key}")
+    for key in sorted(expected):
+        label = f"templatePlaceholders.{key}"
+        if key in OPTIONAL_PLACEHOLDER_KEYS:
+            replacements[key] = require_string_or_empty(replacements_raw[key], label)
+        else:
+            replacements[key] = require_string(replacements_raw[key], label)
     return replacements
 
 
@@ -379,6 +528,41 @@ def validate_content_contract(replacements: dict[str, str]) -> None:
     for key in sorted(CHINESE_PLACEHOLDER_KEYS):
         if not CJK_RE.search(replacements[key]):
             raise RenderError(f"templatePlaceholders.{key} must contain Traditional Chinese learning text")
+
+    for key in sorted(OPTIONAL_TEXT_PLACEHOLDER_KEYS):
+        if replacements[key] and not CJK_RE.search(replacements[key]):
+            raise RenderError(f"templatePlaceholders.{key} must contain Traditional Chinese learning text when present")
+
+    if not replacements["ORIGIN_PARAGRAPH"]:
+        raise RenderError("templatePlaceholders.ORIGIN_PARAGRAPH must explain the etymology/history, or explicitly say none")
+    if not replacements["COLLOCATION_NOTE"]:
+        raise RenderError("templatePlaceholders.COLLOCATION_NOTE must summarize representative collocations and register")
+    for index in (1, 2):
+        if not replacements[f"COLLOCATION_NOTE_{index}"]:
+            raise RenderError(f"templatePlaceholders.COLLOCATION_NOTE_{index} must explain the collocation in Chinese")
+    if replacements["COLLOCATION_3"] and not replacements["COLLOCATION_NOTE_3"]:
+        raise RenderError("templatePlaceholders.COLLOCATION_NOTE_3 must explain the third collocation when present")
+
+    for key, rules in NARRATIVE_DRIFT_PATTERNS.items():
+        if key not in replacements:
+            continue
+        value = compact_text(replacements[key])
+        for pattern, note in rules:
+            if pattern.fullmatch(value):
+                raise RenderError(
+                    f"templatePlaceholders.{key} drifts away from the Ephemeral-style narrative voice: {note}"
+                )
+
+
+def apply_conditionals(source: str, replacements: dict[str, str]) -> str:
+    rendered = source
+    while True:
+        rendered, count = CONDITIONAL_BLOCK_RE.subn(
+            lambda match: match.group(2) if replacements.get(match.group(1), "").strip() else "",
+            rendered,
+        )
+        if count == 0:
+            return rendered
 
 
 def validate_target(payload: dict[str, Any], replacements: dict[str, str]) -> tuple[str, Path]:
@@ -438,6 +622,13 @@ def render_template(template: str, replacements: dict[str, str]) -> str:
     rendered = template
     for key, value in replacements.items():
         rendered = rendered.replace(f"{{{{{key}}}}}", value)
+
+    rendered = apply_conditionals(rendered, replacements)
+
+    # Allow optional contract fields such as DOMAIN_USAGE and COLLOCATION_3
+    # to stay blank without leaving empty block elements in the rendered page.
+    rendered = re.sub(r"\n[ \t]*<p>\s*</p>", "", rendered)
+    rendered = re.sub(r"[ \t]+(\r?\n)", r"\1", rendered)
 
     leftover = sorted(set(PLACEHOLDER_RE.findall(rendered)))
     if leftover:

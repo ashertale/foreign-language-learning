@@ -23,6 +23,7 @@ from render_word_page import (
 
 PAYLOADS = ROOT / "data" / "word-payloads"
 OLD_IPA_LABELS = ("Respelling", "UK IPA", "US IPA")
+REMOVED_UI_LABELS = ("今日定位", "概念焦點", "語氣質地", "使用提醒", "字源來源", "主動回想")
 
 
 def html_errors(path: Path, replacements: dict[str, str]) -> list[str]:
@@ -36,6 +37,10 @@ def html_errors(path: Path, replacements: dict[str, str]) -> list[str]:
     for label in OLD_IPA_LABELS:
         if label in source:
             errors.append(f'HTML must not contain old IPA label "{label}"')
+
+    for label in REMOVED_UI_LABELS:
+        if label in source:
+            errors.append(f'HTML must not contain removed section label "{label}"')
 
     ipa_matches = re.findall(r'<span class="ipa">([^<]+)</span>', source)
     if ipa_matches != [replacements["IPA"]]:
@@ -61,12 +66,11 @@ def html_errors(path: Path, replacements: dict[str, str]) -> list[str]:
     )
     expected_cards = [
         ("詞典來源", replacements["DICTIONARY_URL"], replacements["DICTIONARY_LABEL"]),
-        ("字源來源", replacements["ETYMOLOGY_URL"], replacements["ETYMOLOGY_LABEL"]),
         ("現代用法", replacements["MODERN_SOURCE_URL"], replacements["MODERN_SOURCE_LABEL"]),
     ]
     normalized_cards = [(compact_text(title), compact_text(url), compact_text(label)) for title, url, label in source_cards]
     if normalized_cards != expected_cards:
-        errors.append("HTML source-card links must match DICTIONARY/ETYMOLOGY/MODERN source placeholders")
+        errors.append("HTML source-card links must match DICTIONARY and MODERN source placeholders")
 
     reference_match = re.search(
         r'<a class="reference-link" href="([^"]+)" target="_blank" rel="noreferrer">([^<]+)</a>',
@@ -86,8 +90,8 @@ def html_errors(path: Path, replacements: dict[str, str]) -> list[str]:
         errors.append(f"expected exactly one data-speak button, found {data_speak_count}")
 
     data_check_count = source.count(" data-check=")
-    if data_check_count != 3:
-        errors.append(f"expected exactly three data-check inputs, found {data_check_count}")
+    if data_check_count != 0:
+        errors.append(f"word pages must not contain Active Recall check inputs; found {data_check_count}")
 
     return errors
 

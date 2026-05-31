@@ -95,31 +95,3 @@ document.querySelectorAll("[data-speak]").forEach((button) => {
     });
   });
 });
-
-const pageKey = `word-page-checks:${location.pathname.split("/").pop()}`;
-const checks = Array.from(document.querySelectorAll("[data-check]"));
-
-function readChecks() {
-  try {
-    return JSON.parse(localStorage.getItem(pageKey)) || {};
-  } catch {
-    return {};
-  }
-}
-
-function writeChecks(state) {
-  localStorage.setItem(pageKey, JSON.stringify(state));
-}
-
-if (checks.length) {
-  const saved = readChecks();
-
-  checks.forEach((input) => {
-    input.checked = Boolean(saved[input.dataset.check]);
-    input.addEventListener("change", () => {
-      const next = readChecks();
-      next[input.dataset.check] = input.checked;
-      writeChecks(next);
-    });
-  });
-}

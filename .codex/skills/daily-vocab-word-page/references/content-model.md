@@ -17,8 +17,7 @@ Use this sequence unless the user asks for a different learning flow. It reflect
 13. Neighbors: table contrasting similar/opposite concepts.
 14. Modern Use: how the word appears in contemporary discourse or work.
 15. Source Notes: dictionary source, etymology/history source, common/modern usage note.
-16. Active Recall: checkbox prompts plus one ready-to-practice sentence.
-17. Reference: external dictionary/source link.
+16. Reference: external dictionary/source link.
 
 ## Index Entry Rules
 
@@ -31,7 +30,7 @@ Every word page needs a matching `prototypes/word-index.js` entry:
 - `order`: do not hand-maintain; run `uv run python scripts/sync_word_numbers.py`.
 - `thesis`: same conceptual thesis used in the hero.
 - `tags`: include Chinese meanings, English search terms, domains, collocations, and part of speech.
-- `checks`: mirror the three active-recall prompts: meaning distinction, origin/story, sentence production.
+- `checks`: concise review cues for meaning distinction, origin/story memory, and sentence production on the separate review page.
 
 After editing `word-index.js` or adding a page, run `uv run python scripts/sync_word_numbers.py --check`; if it reports drift, run it without `--check`.
 
@@ -43,7 +42,7 @@ When the user requests multiple new words without specifying exact targets:
 - Choose words that are useful for daily learning and have enough conceptual depth for this page model.
 - Prefer a balanced batch: different concept families, varied domains, and no repeated near-synonym cluster unless the user asks for that cluster.
 - Make each hero thesis distinct enough that the index can be scanned quickly.
-- Keep `checks` parallel across pages: meaning distinction, origin/story memory, and one sentence-production task.
+- Keep `checks` parallel across pages: meaning distinction, origin/story memory, and one sentence-production task for the separate review page.
 
 ## Source Research Rules
 
@@ -77,4 +76,4 @@ Avoid making invented memory stories look like historical fact. Label imaginativ
 - Define the concept before giving translations.
 - Separate etymology/history from modern extension. For example, engineering or social-media usage belongs in Modern Use unless it is historically attested.
 - Include one likely confusion word in the definition section, then fuller distinctions in Neighbors.
-- Prefer 3 compact cue tiles, 3 usage scenarios, 3-5 collocations, and 3 active-recall checks.
+- Prefer 3 compact cue tiles, 3 usage scenarios, and 3-5 collocations.

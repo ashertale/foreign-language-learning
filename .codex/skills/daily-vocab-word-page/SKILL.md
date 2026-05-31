@@ -1,6 +1,6 @@
 ---
 name: daily-vocab-word-page
-description: Prepare template-ready JSON payloads or create/refine single-word foreign-language learning pages using the repo's word-page-template.html, quiet literary UI, reading-focused content model, active recall, collocations with register, source notes, etymology, usage scenarios, and neighbor-word distinctions. Use when Codex is asked to gather content for a new word page, fill the word-page template, or polish one deep vocabulary page.
+description: Prepare template-ready JSON payloads or create/refine single-word foreign-language learning pages using the repo's word-page-template.html, quiet literary UI, reading-focused content model, collocations with register, source notes, etymology, usage scenarios, and neighbor-word distinctions. Use when Codex is asked to gather content for a new word page, fill the word-page template, or polish one deep vocabulary page.
 ---
 
 # Daily Vocab Word Page
@@ -14,7 +14,7 @@ Default to Payload Mode: collect the content that fits the skill directory's `as
 - Use Payload Mode for requests like "prepare content", "new word data", "fill the template", "JSON", or when the user wants to avoid repeated page-generation context.
 - Use Render Mode when the user provides or references a payload and asks to create the final HTML page or add the word to the library.
 - Use Render Mode when the user asks to "generate", "create", "新增", or "建立" one or more new word pages, even if no headword or payload is provided.
-- Use UI refinement mode only when the request changes layout, CSS, interaction, responsive behavior, pronunciation controls, or active-recall behavior.
+- Use UI refinement mode only when the request changes layout, CSS, interaction, responsive behavior, pronunciation controls, or the single-word page contract itself.
 
 ## Source Policy
 
@@ -109,7 +109,7 @@ Behavior notes:
 ## UI Refinement Mode
 
 - Read `references/content-model.md` before changing the content sequence.
-- Read `references/ui-ux-pattern.md` before changing layout, CSS, interaction, responsive behavior, sticky navigation, pronunciation controls, or active-recall behavior.
+- Read `references/ui-ux-pattern.md` before changing layout, CSS, interaction, responsive behavior, sticky navigation, or pronunciation controls.
 - Preserve the calm paper reading feel: low-contrast ink, warm off-white surfaces, muted sage/blue accents, 8px or smaller radius, fine borders, restrained shadows.
 - Keep the topbar minimal. Brand text links to page top; keep only a small `單字庫` link back to `index.html`.
 - Use the left Reading Path for section anchors and set scroll offset so sticky UI does not cover headings.
@@ -139,13 +139,17 @@ In Render Mode, prefer these files for a standalone prototype:
 - `prototypes/<word-slug>.html`: semantic content with placeholders replaced.
 - `prototypes/word-index.js`: searchable index entry, with `order` maintained by `scripts/sync_word_numbers.py`.
 - `prototypes/word-page.css`: shared visual system, responsive layout, sticky topbar, anchor offset.
-- `prototypes/word-page.js`: pronunciation and active-recall checkbox persistence.
+- `prototypes/word-page.js`: pronunciation interaction.
 
 ## Content Rules
 
 - Teach concept, tone, and use, not just translation.
 - Separate collocations from neighbor-word distinctions. Collocations answer "what words naturally pair with this word?" Neighbor distinctions answer "what similar words should not be confused with it?"
-- Include active recall prompts that ask the learner to explain, remember origin/story, and produce a sentence.
-- Keep hero metadata compact: respelling plus `UK /.../` and `US /.../`, then CEFR and Zipf frequency inside the learning-position aside.
+- Keep `indexEntry.checks` concise and useful because the separate review page still uses them, even though single-word pages no longer render an active-recall block.
+- Do not force the headword into every paragraph. Use it when it clarifies the concept, but let collocations and scenes carry the explanation when they do the job better.
+- Keep hero metadata compact: respelling plus `UK /.../` and `US /.../`, then CEFR and Zipf frequency in the hero aside.
+- If you do not have real origin information, leave `ORIGIN_PARAGRAPH` blank instead of filling the section with meta guidance or mnemonic-only prose.
+- If a third collocation or extended usage is only a boundary test rather than a representative pairing, leave `COLLOCATION_3`, `REGISTER_3`, `COLLOCATION_NOTE_3`, and `DOMAIN_USAGE` blank.
+- Do not write the page as a study-instruction script. Avoid second-person meta lines such as `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`; explain the word's concept, tone, and boundary directly.
 - Source notes should be transparent but unobtrusive.
 - Treat memory hooks as learning aids, not historical claims.
