@@ -4,58 +4,98 @@
     "slug": "poised",
     "outputPath": "prototypes/poised.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Poised",
-    "WORD_SLUG": "poised",
-    "WORD_LOWER": "poised",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "poizd · UK /pɔɪzd/ · US /pɔɪzd/",
-    "THESIS": "不是僵住，而是平衡已經就位，隨時可以往下一步動。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.46",
-    "CORE_IDEA": "<code>poised</code> 用來描述人、系統或局勢處在穩定而準備行動的狀態。",
-    "SHORT_DEFINITION": "形容人、系統或局勢處在穩定而準備行動的狀態。",
-    "CONFUSION_WORD": "Calm",
-    "CONFUSION_NOTE": "<code>calm</code> 只是平靜；<code>poised</code> 更像穩住後隨時能動。",
-    "FLOW_1": "對象出現",
-    "FLOW_2": "特質被感到",
-    "FLOW_3": "整體語氣定型",
-    "ORIGIN_PARAGRAPH": "<code>poised</code> 和重量被平衡放置的畫面有關，所以它天然帶有平衡與預備狀態。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是石頭停住，而是弓箭已拉滿、還沒放手。",
-    "MEMORY_HOOK": "<code>poised</code> 是靜著，但不是停著。",
-    "MEMORY_EXPLANATION": "最讓人信任的專業感，常來自那種 poised 的狀態：不慌，卻隨時能接招。",
-    "DAILY_USAGE": "她站在台上很 <code>poised</code>，不是一動不動，而是每個動作都像已經準備好。",
-    "PROFESSIONAL_USAGE": "如果團隊真正 poised for the launch，意思不是沒有風險，而是該準備的都已經站好位置。",
-    "DOMAIN_USAGE": "人物描寫、公開表達、商業分析與策略轉折都常用 <code>poised</code>。",
-    "COLLOCATION_NOTE": "Poised 常和 for、to、between 搭配。",
-    "COLLOCATION_1": "poised for growth",
-    "REGISTER_1": "商務 / 市場",
-    "COLLOCATION_NOTE_1": "表示已在可起飛的位置上。",
-    "COLLOCATION_2": "poised to act",
-    "REGISTER_2": "人物 / 敘事",
-    "COLLOCATION_NOTE_2": "表示隨時可以採取行動。",
-    "COLLOCATION_3": "perfectly poised",
-    "REGISTER_3": "表現 / 描寫",
-    "COLLOCATION_NOTE_3": "表示平衡與控制感非常完整。",
-    "NEIGHBOR_SELF": "平衡已就位，隨時能往下走",
-    "NEIGHBOR_SELF_USE": "談人物氣質、產品 launch 或策略轉折時",
-    "NEIGHBOR_1": "Calm",
-    "NEIGHBOR_1_MEANING": "只是平靜、不吵動",
-    "NEIGHBOR_1_USE": "不需要帶出 readiness 或張力時",
-    "MODERN_USE_1": "現代英文裡，<code>poised</code> 很適合描述那種成熟的預備狀態，尤其在公開表現與商務語境中。",
-    "MODERN_USE_2": "它提醒我們分辨：穩不是慢，很多時候真正的穩正是因為已經準備好下一步。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/poised",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/poised",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 poised 和 calm 的差異。",
-    "CHECK_ORIGIN": "記得 poised 的畫面是平衡中的準備，不是僵住。",
-    "CHECK_SENTENCE": "我能用它造一句人物、團隊或策略已就位待發的英文句子。",
-    "PRACTICE_SENTENCE": "The team looked <code>poised</code> to ship once the last validation report landed.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/poised",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "poizd · UK /pɔɪzd/ · US /pɔɪzd/",
+    "hero": {
+      "thesis": "不是僵住，而是平衡已經就位，隨時可以往下一步動。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.46"
+    },
+    "coreIdea": "<code>poised</code> 用來描述人、系統或局勢處在穩定而準備行動的狀態。",
+    "definition": {
+      "summary": "形容人、系統或局勢處在穩定而準備行動的狀態。",
+      "contrast": {
+        "word": "Calm",
+        "note": "<code>calm</code> 只是平靜；<code>poised</code> 更像穩住後隨時能動。"
+      },
+      "flow": [
+        "對象出現",
+        "特質被感到",
+        "整體語氣定型"
+      ]
+    },
+    "memory": {
+      "hook": "<code>poised</code> 是靜著，但不是停著。",
+      "explanation": "最讓人信任的專業感，常來自那種 poised 的狀態：不慌，卻隨時能接招。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她站在台上很 <code>poised</code>，不是一動不動，而是每個動作都像已經準備好。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "如果團隊真正 poised for the launch，意思不是沒有風險，而是該準備的都已經站好位置。"
+      },
+      {
+        "label": "延伸版",
+        "body": "人物描寫、公開表達、商業分析與策略轉折都常用 <code>poised</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Poised 常和 for、to、between 搭配。",
+      "items": [
+        {
+          "phrase": "poised for growth",
+          "register": "商務 / 市場",
+          "note": "表示已在可起飛的位置上。"
+        },
+        {
+          "phrase": "poised to act",
+          "register": "人物 / 敘事",
+          "note": "表示隨時可以採取行動。"
+        },
+        {
+          "phrase": "perfectly poised",
+          "register": "表現 / 描寫",
+          "note": "表示平衡與控制感非常完整。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "平衡已就位，隨時能往下走",
+        "use": "談人物氣質、產品 launch 或策略轉折時"
+      },
+      "others": [
+        {
+          "word": "Calm",
+          "meaning": "只是平靜、不吵動",
+          "use": "不需要帶出 readiness 或張力時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>poised</code> 很適合描述那種成熟的預備狀態，尤其在公開表現與商務語境中。",
+      "它提醒我們分辨：穩不是慢，很多時候真正的穩正是因為已經準備好下一步。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/poised",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/poised",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>poised</code> 和重量被平衡放置的畫面有關，所以它天然帶有平衡與預備狀態。",
+      "memoryLens": "字源畫面可以記成：不是石頭停住，而是弓箭已拉滿、還沒放手。"
+    }
   },
   "indexEntry": {
     "id": "poised",

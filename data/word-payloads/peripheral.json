@@ -4,58 +4,98 @@
     "slug": "peripheral",
     "outputPath": "prototypes/peripheral.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Peripheral",
-    "WORD_SLUG": "peripheral",
-    "WORD_LOWER": "peripheral",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "puh-RIF-er-uhl · UK /pəˈrɪf.ər.əl/ · US /pəˈrɪf.ɚ.əl/",
-    "THESIS": "不是完全無關，而是在邊緣、外圍或非核心位置，對主線只有間接關係。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.66",
-    "CORE_IDEA": "<code>peripheral</code> 描述位在邊緣，或只和核心議題間接相關的事物。",
-    "SHORT_DEFINITION": "位於某物外緣，或只和主要議題有間接關係。",
-    "CONFUSION_WORD": "Irrelevant",
-    "CONFUSION_NOTE": "<code>irrelevant</code> 是無關；<code>peripheral</code> 是在邊緣，仍可能有關但不是中心。",
-    "FLOW_1": "中心存在",
-    "FLOW_2": "邊緣項目仍有連結",
-    "FLOW_3": "優先級維持較低",
-    "ORIGIN_PARAGRAPH": "<code>peripheral</code> 和 <code>periphery</code> 有關，來自 Greek 字源，帶有 around carrying 或 moving around 的畫面。核心意象是邊界或外圈。",
-    "ORIGIN_MEMORY": "想像一張地圖：核心在中間，peripheral 的東西在外圈。它不是不存在，而是不該搶走中心位置。",
-    "MEMORY_HOOK": "<code>peripheral</code> 的議題繞著問題運行，但不坐在核心。",
-    "MEMORY_EXPLANATION": "開會時很多事都聽起來有關，但不是每件都該進主線。peripheral 幫你把外圈事物禮貌地放回外圈。",
-    "DAILY_USAGE": "筆記本顏色是 <code>peripheral</code>；紙張品質才是更核心的考量。",
-    "PROFESSIONAL_USAGE": "triage 時，團隊把核心 boot failure 和 <code>peripheral UI issues</code> 分開處理。",
-    "DOMAIN_USAGE": "在 computing / 電腦硬體語境裡，<code>peripheral device</code> 位在主機之外但與它連接，例如 keyboard 或 printer。",
-    "COLLOCATION_NOTE": "<code>peripheral</code> 常和 issue、device、vision、role 搭配，表示外圍或次要關係。",
-    "COLLOCATION_1": "peripheral issue",
-    "REGISTER_1": "會議 / 專案",
-    "COLLOCATION_NOTE_1": "指與主題有關但不是目前核心問題的事項。",
-    "COLLOCATION_2": "peripheral device",
-    "REGISTER_2": "電腦周邊",
-    "COLLOCATION_NOTE_2": "指連到主機的外部設備，例如鍵盤、滑鼠、印表機。",
-    "COLLOCATION_3": "peripheral vision",
-    "REGISTER_3": "生物 / 日常",
-    "COLLOCATION_NOTE_3": "指視野邊緣看到的東西，不是直接注視的中心。",
-    "NEIGHBOR_SELF": "在外圍、邊緣或非核心處",
-    "NEIGHBOR_SELF_USE": "要承認有關，但降低其優先級或中心性時",
-    "NEIGHBOR_1": "Irrelevant",
-    "NEIGHBOR_1_MEANING": "與主題無關",
-    "NEIGHBOR_1_USE": "當某事不應納入討論或判斷時",
-    "MODERN_USE_1": "現代英文裡，<code>peripheral</code> 常用於 computer devices、vision、anatomy、politics，以及主要議題之外的 issues。",
-    "MODERN_USE_2": "在技術討論中，它是乾淨的 prioritization word：peripheral issues 不是被忽略，而是不應扭曲核心診斷。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 outer edge、periphery，以及和主題間接相關的意思。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/peripheral",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和周邊設備、視野、神經系統、議題與角色等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/peripheral",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 peripheral 和 irrelevant 的差異。",
-    "CHECK_ORIGIN": "我記得它的核心畫面是 around the edge。",
-    "CHECK_SENTENCE": "我能用它造一句優先級、硬體周邊或視野情境的英文句子。",
-    "PRACTICE_SENTENCE": "The UI glitch is <code>peripheral</code>; the core issue is that the device sometimes fails to boot.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/peripheral",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "puh-RIF-er-uhl · UK /pəˈrɪf.ər.əl/ · US /pəˈrɪf.ɚ.əl/",
+    "hero": {
+      "thesis": "不是完全無關，而是在邊緣、外圍或非核心位置，對主線只有間接關係。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.66"
+    },
+    "coreIdea": "<code>peripheral</code> 描述位在邊緣，或只和核心議題間接相關的事物。",
+    "definition": {
+      "summary": "位於某物外緣，或只和主要議題有間接關係。",
+      "contrast": {
+        "word": "Irrelevant",
+        "note": "<code>irrelevant</code> 是無關；<code>peripheral</code> 是在邊緣，仍可能有關但不是中心。"
+      },
+      "flow": [
+        "中心存在",
+        "邊緣項目仍有連結",
+        "優先級維持較低"
+      ]
+    },
+    "memory": {
+      "hook": "<code>peripheral</code> 的議題繞著問題運行，但不坐在核心。",
+      "explanation": "開會時很多事都聽起來有關，但不是每件都該進主線。peripheral 幫你把外圈事物禮貌地放回外圈。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "筆記本顏色是 <code>peripheral</code>；紙張品質才是更核心的考量。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "triage 時，團隊把核心 boot failure 和 <code>peripheral UI issues</code> 分開處理。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在 computing / 電腦硬體語境裡，<code>peripheral device</code> 位在主機之外但與它連接，例如 keyboard 或 printer。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>peripheral</code> 常和 issue、device、vision、role 搭配，表示外圍或次要關係。",
+      "items": [
+        {
+          "phrase": "peripheral issue",
+          "register": "會議 / 專案",
+          "note": "指與主題有關但不是目前核心問題的事項。"
+        },
+        {
+          "phrase": "peripheral device",
+          "register": "電腦周邊",
+          "note": "指連到主機的外部設備，例如鍵盤、滑鼠、印表機。"
+        },
+        {
+          "phrase": "peripheral vision",
+          "register": "生物 / 日常",
+          "note": "指視野邊緣看到的東西，不是直接注視的中心。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在外圍、邊緣或非核心處",
+        "use": "要承認有關，但降低其優先級或中心性時"
+      },
+      "others": [
+        {
+          "word": "Irrelevant",
+          "meaning": "與主題無關",
+          "use": "當某事不應納入討論或判斷時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>peripheral</code> 常用於 computer devices、vision、anatomy、politics，以及主要議題之外的 issues。",
+      "在技術討論中，它是乾淨的 prioritization word：peripheral issues 不是被忽略，而是不應扭曲核心診斷。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；包含 outer edge、periphery，以及和主題間接相關的意思。",
+        "url": "https://www.merriam-webster.com/dictionary/peripheral",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和周邊設備、視野、神經系統、議題與角色等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/peripheral",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>peripheral</code> 和 <code>periphery</code> 有關，來自 Greek 字源，帶有 around carrying 或 moving around 的畫面。核心意象是邊界或外圈。",
+      "memoryLens": "想像一張地圖：核心在中間，peripheral 的東西在外圈。它不是不存在，而是不該搶走中心位置。"
+    }
   },
   "indexEntry": {
     "id": "peripheral",

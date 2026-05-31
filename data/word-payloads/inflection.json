@@ -4,58 +4,98 @@
     "slug": "inflection",
     "outputPath": "prototypes/inflection.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Inflection",
-    "WORD_SLUG": "inflection",
-    "WORD_LOWER": "inflection",
-    "PART_OF_SPEECH": "noun",
-    "IPA": "in-FLEK-shuhn · UK /ɪnˈflek.ʃən/ · US /ɪnˈflek.ʃən/",
-    "THESIS": "不是隨便的變化，而是聲音、語意、曲線或局勢在某個點開始轉彎。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.27",
-    "CORE_IDEA": "<code>inflection</code> 用來描述語音抑揚、語法變化，或更抽象的趨勢與局勢出現轉向。",
-    "SHORT_DEFINITION": "指語音抑揚、語法變化，或更抽象的趨勢與局勢出現轉向。",
-    "CONFUSION_WORD": "Tone",
-    "CONFUSION_NOTE": "<code>tone</code> 可以只是語氣；<code>inflection</code> 則更像聲音或曲線上的轉折點。",
-    "FLOW_1": "先有原本走向",
-    "FLOW_2": "在某點開始彎折",
-    "FLOW_3": "整體感受或趨勢改變",
-    "ORIGIN_PARAGRAPH": "<code>inflection</code> 和拉丁語裡「彎曲、轉折」有關，所以它很自然地適合描述曲線、語氣和局勢轉向。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是整條線消失，而是在某一點開始轉彎。",
-    "MEMORY_HOOK": "<code>inflection</code> 是你聽到或看到走勢開始改變的那個彎點。",
-    "MEMORY_EXPLANATION": "真正重要的變化常不是數字本身，而是 inflection point 出現在哪裡。",
-    "DAILY_USAGE": "一句話的最後一點點 <code>inflection</code>，就可能讓聽起來像提問或像質疑。",
-    "PROFESSIONAL_USAGE": "在 metrics review 裡，大家常盯的是 trend 的 <code>inflection</code>，因為那裡往往代表系統行為變了。",
-    "DOMAIN_USAGE": "語言學、數據科學、商業分析與公開表達都常用 <code>inflection</code> 來談轉折。",
-    "COLLOCATION_NOTE": "Inflection 常和 point、voice、curve、trend 搭配。",
-    "COLLOCATION_1": "inflection point",
-    "REGISTER_1": "商務 / 分析",
-    "COLLOCATION_NOTE_1": "表示走勢開始改變的關鍵點。",
-    "COLLOCATION_2": "vocal inflection",
-    "REGISTER_2": "語言 / 表達",
-    "COLLOCATION_NOTE_2": "表示聲音高低轉折的細節。",
-    "COLLOCATION_3": "inflection in the curve",
-    "REGISTER_3": "數據 / 技術",
-    "COLLOCATION_NOTE_3": "表示曲線形狀出現轉向。",
-    "NEIGHBOR_SELF": "模式在某點上開始轉彎",
-    "NEIGHBOR_SELF_USE": "談語氣、曲線、趨勢或局勢轉向時",
-    "NEIGHBOR_1": "Tone",
-    "NEIGHBOR_1_MEANING": "一般語氣或聲調",
-    "NEIGHBOR_1_USE": "只想說口氣，不強調轉折點時",
-    "MODERN_USE_1": "現代英文裡，<code>inflection</code> 一邊保留語言學意義，一邊廣泛被借去描述趨勢轉折。",
-    "MODERN_USE_2": "它很適合提醒人：真正重要的不是一直線上的數字，而是曲線何時開始彎。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/inflection",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/inflection",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 inflection 和 tone 的差異。",
-    "CHECK_ORIGIN": "記得 inflection 的核心畫面是轉彎，不只是一般語氣變化。",
-    "CHECK_SENTENCE": "我能用它造一句語氣、曲線或趨勢轉折的英文句子。",
-    "PRACTICE_SENTENCE": "The error curve showed a clear <code>inflection</code> after the scheduler patch landed.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/inflection",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "in-FLEK-shuhn · UK /ɪnˈflek.ʃən/ · US /ɪnˈflek.ʃən/",
+    "hero": {
+      "thesis": "不是隨便的變化，而是聲音、語意、曲線或局勢在某個點開始轉彎。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.27"
+    },
+    "coreIdea": "<code>inflection</code> 用來描述語音抑揚、語法變化，或更抽象的趨勢與局勢出現轉向。",
+    "definition": {
+      "summary": "指語音抑揚、語法變化，或更抽象的趨勢與局勢出現轉向。",
+      "contrast": {
+        "word": "Tone",
+        "note": "<code>tone</code> 可以只是語氣；<code>inflection</code> 則更像聲音或曲線上的轉折點。"
+      },
+      "flow": [
+        "先有原本走向",
+        "在某點開始彎折",
+        "整體感受或趨勢改變"
+      ]
+    },
+    "memory": {
+      "hook": "<code>inflection</code> 是你聽到或看到走勢開始改變的那個彎點。",
+      "explanation": "真正重要的變化常不是數字本身，而是 inflection point 出現在哪裡。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一句話的最後一點點 <code>inflection</code>，就可能讓聽起來像提問或像質疑。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在 metrics review 裡，大家常盯的是 trend 的 <code>inflection</code>，因為那裡往往代表系統行為變了。"
+      },
+      {
+        "label": "延伸版",
+        "body": "語言學、數據科學、商業分析與公開表達都常用 <code>inflection</code> 來談轉折。"
+      }
+    ],
+    "collocations": {
+      "note": "Inflection 常和 point、voice、curve、trend 搭配。",
+      "items": [
+        {
+          "phrase": "inflection point",
+          "register": "商務 / 分析",
+          "note": "表示走勢開始改變的關鍵點。"
+        },
+        {
+          "phrase": "vocal inflection",
+          "register": "語言 / 表達",
+          "note": "表示聲音高低轉折的細節。"
+        },
+        {
+          "phrase": "inflection in the curve",
+          "register": "數據 / 技術",
+          "note": "表示曲線形狀出現轉向。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "模式在某點上開始轉彎",
+        "use": "談語氣、曲線、趨勢或局勢轉向時"
+      },
+      "others": [
+        {
+          "word": "Tone",
+          "meaning": "一般語氣或聲調",
+          "use": "只想說口氣，不強調轉折點時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>inflection</code> 一邊保留語言學意義，一邊廣泛被借去描述趨勢轉折。",
+      "它很適合提醒人：真正重要的不是一直線上的數字，而是曲線何時開始彎。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/inflection",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/inflection",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>inflection</code> 和拉丁語裡「彎曲、轉折」有關，所以它很自然地適合描述曲線、語氣和局勢轉向。",
+      "memoryLens": "字源畫面可以記成：不是整條線消失，而是在某一點開始轉彎。"
+    }
   },
   "indexEntry": {
     "id": "inflection",

@@ -4,58 +4,98 @@
     "slug": "tenacious",
     "outputPath": "prototypes/tenacious.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Tenacious",
-    "WORD_SLUG": "tenacious",
-    "WORD_LOWER": "tenacious",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "tuh-NAY-shus · UK /təˈneɪ.ʃəs/ · US /təˈneɪ.ʃəs/",
-    "THESIS": "不是單純的「努力」，而是抓住重要目標不放，即使壓力、阻力或疲勞出現，也不輕易鬆手。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "3.04",
-    "CORE_IDEA": "<code>tenacious</code> 表示有力且有目的地抓住不放：人持續追求、抓握不鬆開，或想法在壓力下仍留下來。",
-    "SHORT_DEFINITION": "牢牢抓住、強力持續，或以難以拉開的方式附著、堅持。",
-    "CONFUSION_WORD": "Stubborn",
-    "CONFUSION_NOTE": "Stubborn 常帶有不願改變、拒絕聽勸的負面感；tenacious 更像為了有價值的目標持續抓住。",
-    "FLOW_1": "壓力拉扯",
-    "FLOW_2": "抓力仍在",
-    "FLOW_3": "目標不鬆開",
-    "ORIGIN_PARAGRAPH": "<code>tenacious</code> 來自 Latin <code>tenax</code>，意思是 holding fast 或 clinging，並連到 <code>tenere</code>，意思是 to hold。字源畫面不是單純努力，而是抓住不易放開。",
-    "ORIGIN_MEMORY": "字源畫面可以抓住 <code>tenere</code>: to hold。Tenacious 就像手指扣住岩壁，力量不在大聲宣告，而在被拉扯時仍維持抓力。",
-    "MEMORY_HOOK": "<code>tenacious</code> 的心智像有手指，會牢牢扣住目標。",
-    "MEMORY_EXPLANATION": "想像一個想法長出手指，緊扣在目標邊緣。這不是盲目衝刺，而是知道什麼值得抓住，然後在壓力裡不急著鬆開。",
-    "DAILY_USAGE": "她學語言很 <code>tenacious</code>，反覆回到困難發音，直到它們終於變得自然。",
-    "PROFESSIONAL_USAGE": "團隊用 <code>tenacious approach</code> debug，一次縮小一個 measurement，最後逼近 fault。",
-    "DOMAIN_USAGE": "<code>tenacious adhesive</code>、root system 或 memory 會在條件想把它拉開時仍抓住不放。",
-    "COLLOCATION_NOTE": "Tenacious 常和 hold、effort、defense、memory、grip 這類帶有「抓住、維持、抵抗」感的名詞搭配。",
-    "COLLOCATION_1": "a tenacious grip",
-    "REGISTER_1": "字面",
-    "COLLOCATION_NOTE_1": "形容實際的抓握、黏附或不容易被拉開的接觸。",
-    "COLLOCATION_2": "tenacious effort",
-    "REGISTER_2": "中性 / 正面",
-    "COLLOCATION_NOTE_2": "強調長時間、不放棄的努力，尤其在阻力明顯時。",
-    "COLLOCATION_3": "tenacious defense",
-    "REGISTER_3": "運動 / 策略",
-    "COLLOCATION_NOTE_3": "常見於運動、談判或競爭情境，表示防守緊、咬得住、不讓對方輕易突破。",
-    "NEIGHBOR_SELF": "抓住目標、位置或信念，不因壓力輕易鬆手。",
-    "NEIGHBOR_SELF_USE": "稱讚一個人、團隊、系統或材料在拉扯下仍保持抓力。",
-    "NEIGHBOR_1": "Stubborn",
-    "NEIGHBOR_1_MEANING": "拒絕改變或不願聽取理由，重點在僵硬而非有目標的堅持。",
-    "NEIGHBOR_1_USE": "當某人的不讓步看起來不理性、缺少學習或調整時。",
-    "MODERN_USE_1": "現代英文裡，<code>tenacious</code> 常稱讚 athletes、advocates、researchers、engineers 或 teams 持續對問題施壓，直到問題讓步。",
-    "MODERN_USE_2": "它也保留具體意思：tenacious grip、root、adhesive 或 memory 都是難以和所抓住之物分離。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含持續追求、壓力下的耐力、保留能力，以及具體抓握或附著。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/tenacious",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句涵蓋倡議、防守、抱負、精神、抓握與記憶。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/tenacious",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 <code>tenacious</code> 和 <code>stubborn</code> 的差異。",
-    "CHECK_ORIGIN": "我記得 <code>tenacious</code> 的核心畫面是 <code>tenere</code>: to hold。",
-    "CHECK_SENTENCE": "我能用 <code>tenacious</code> 造一句關於 debug、學習、研究或防守的英文句子。",
-    "PRACTICE_SENTENCE": "The engineer stayed tenacious, testing one assumption after another until the intermittent fault finally appeared.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/tenacious",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "tuh-NAY-shus · UK /təˈneɪ.ʃəs/ · US /təˈneɪ.ʃəs/",
+    "hero": {
+      "thesis": "不是單純的「努力」，而是抓住重要目標不放，即使壓力、阻力或疲勞出現，也不輕易鬆手。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.04"
+    },
+    "coreIdea": "<code>tenacious</code> 表示有力且有目的地抓住不放：人持續追求、抓握不鬆開，或想法在壓力下仍留下來。",
+    "definition": {
+      "summary": "牢牢抓住、強力持續，或以難以拉開的方式附著、堅持。",
+      "contrast": {
+        "word": "Stubborn",
+        "note": "Stubborn 常帶有不願改變、拒絕聽勸的負面感；tenacious 更像為了有價值的目標持續抓住。"
+      },
+      "flow": [
+        "壓力拉扯",
+        "抓力仍在",
+        "目標不鬆開"
+      ]
+    },
+    "memory": {
+      "hook": "<code>tenacious</code> 的心智像有手指，會牢牢扣住目標。",
+      "explanation": "想像一個想法長出手指，緊扣在目標邊緣。這不是盲目衝刺，而是知道什麼值得抓住，然後在壓力裡不急著鬆開。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她學語言很 <code>tenacious</code>，反覆回到困難發音，直到它們終於變得自然。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "團隊用 <code>tenacious approach</code> debug，一次縮小一個 measurement，最後逼近 fault。"
+      },
+      {
+        "label": "延伸版",
+        "body": "<code>tenacious adhesive</code>、root system 或 memory 會在條件想把它拉開時仍抓住不放。"
+      }
+    ],
+    "collocations": {
+      "note": "Tenacious 常和 hold、effort、defense、memory、grip 這類帶有「抓住、維持、抵抗」感的名詞搭配。",
+      "items": [
+        {
+          "phrase": "a tenacious grip",
+          "register": "字面",
+          "note": "形容實際的抓握、黏附或不容易被拉開的接觸。"
+        },
+        {
+          "phrase": "tenacious effort",
+          "register": "中性 / 正面",
+          "note": "強調長時間、不放棄的努力，尤其在阻力明顯時。"
+        },
+        {
+          "phrase": "tenacious defense",
+          "register": "運動 / 策略",
+          "note": "常見於運動、談判或競爭情境，表示防守緊、咬得住、不讓對方輕易突破。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "抓住目標、位置或信念，不因壓力輕易鬆手。",
+        "use": "稱讚一個人、團隊、系統或材料在拉扯下仍保持抓力。"
+      },
+      "others": [
+        {
+          "word": "Stubborn",
+          "meaning": "拒絕改變或不願聽取理由，重點在僵硬而非有目標的堅持。",
+          "use": "當某人的不讓步看起來不理性、缺少學習或調整時。"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>tenacious</code> 常稱讚 athletes、advocates、researchers、engineers 或 teams 持續對問題施壓，直到問題讓步。",
+      "它也保留具體意思：tenacious grip、root、adhesive 或 memory 都是難以和所抓住之物分離。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；包含持續追求、壓力下的耐力、保留能力，以及具體抓握或附著。",
+        "url": "https://www.merriam-webster.com/dictionary/tenacious",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句涵蓋倡議、防守、抱負、精神、抓握與記憶。",
+        "url": "https://www.merriam-webster.com/dictionary/tenacious",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>tenacious</code> 來自 Latin <code>tenax</code>，意思是 holding fast 或 clinging，並連到 <code>tenere</code>，意思是 to hold。字源畫面不是單純努力，而是抓住不易放開。",
+      "memoryLens": "字源畫面可以抓住 <code>tenere</code>: to hold。Tenacious 就像手指扣住岩壁，力量不在大聲宣告，而在被拉扯時仍維持抓力。"
+    }
   },
   "indexEntry": {
     "id": "tenacious",

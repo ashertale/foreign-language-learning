@@ -351,16 +351,10 @@ h1 {
   line-height: 1.42;
 }
 
-.cue-grid,
 .definition-grid,
-.example-grid,
-.practice-grid {
+.example-grid {
   display: grid;
   gap: 14px;
-}
-
-.cue-grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .definition-grid {
@@ -371,14 +365,9 @@ h1 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
-.practice-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
 .tile,
 .example,
 .collocation-card,
-.practice-card,
 .source-card,
 .reference-box {
   border: 1px solid var(--line);
@@ -389,8 +378,7 @@ h1 {
 
 .tile strong,
 .example strong,
-.collocation-card strong,
-.practice-card strong {
+.collocation-card strong {
   display: block;
   margin-bottom: 8px;
   color: var(--ink);
@@ -399,8 +387,7 @@ h1 {
 
 .tile p,
 .example p,
-.collocation-card p,
-.practice-card p {
+.collocation-card p {
   color: #45524e;
 }
 
@@ -604,10 +591,8 @@ tr:last-child td {
     padding: 2px 0;
   }
 
-  .cue-grid,
   .definition-grid,
   .example-grid,
-  .practice-grid,
   .source-grid {
     grid-template-columns: 1fr;
   }

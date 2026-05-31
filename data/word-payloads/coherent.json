@@ -4,58 +4,98 @@
     "slug": "coherent",
     "outputPath": "prototypes/coherent.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Coherent",
-    "WORD_SLUG": "coherent",
-    "WORD_LOWER": "coherent",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "koh-HEER-uhnt · UK /kəʊˈhɪə.rənt/ · US /koʊˈhɪr.ənt/",
-    "THESIS": "不是只把話講清楚，而是讓各部分彼此接得上，形成一個站得住的整體。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.63",
-    "CORE_IDEA": "<code>coherent</code> 表示邏輯相連、前後一致，而且整體能被理解。",
-    "SHORT_DEFINITION": "清楚、有邏輯，且內部連接足夠穩定，能被理解成一個統一整體。",
-    "CONFUSION_WORD": "Clear",
-    "CONFUSION_NOTE": "<code>clear</code> 重點是容易懂；<code>coherent</code> 多了各部分互相連貫、沒有矛盾的要求。",
-    "FLOW_1": "各部分接上",
-    "FLOW_2": "邏輯站得住",
-    "FLOW_3": "整體說得通",
-    "ORIGIN_PARAGRAPH": "<code>coherent</code> 來自 Latin <code>cohaerere</code>，意思是 stick together。字源給它一個很具體的畫面：想法彼此黏住。",
-    "ORIGIN_MEMORY": "把它想成一份設計文件裡的段落彼此有黏性：前一段提出問題，下一段回答問題，最後形成一條能走的路。",
-    "MEMORY_HOOK": "<code>coherent</code> 的說明，句子之間有膠水。",
-    "MEMORY_EXPLANATION": "如果每句話單獨看都對，但放在一起像散落零件，那還不夠 coherent。這個字要你看整體結構是否有黏住。",
-    "DAILY_USAGE": "休息之後，他終於能把發生的事講成一段 <code>coherent account</code>。",
-    "PROFESSIONAL_USAGE": "一份 <code>coherent design review</code> 會把 user needs、constraints、trade-offs 和 implementation choices 接起來。",
-    "DOMAIN_USAGE": "在 systems thinking 裡，<code>coherent architecture</code> 的 components 彼此職責相合，不藏矛盾。",
-    "COLLOCATION_NOTE": "Coherent 常搭配 explanation、argument、plan、strategy，強調整體連貫。",
-    "COLLOCATION_1": "coherent explanation",
-    "REGISTER_1": "溝通 / 教學",
-    "COLLOCATION_NOTE_1": "指說明不只清楚，還有順序、因果與連結。",
-    "COLLOCATION_2": "coherent argument",
-    "REGISTER_2": "寫作 / 評審",
-    "COLLOCATION_NOTE_2": "指論證裡的理由互相支援，沒有明顯矛盾。",
-    "COLLOCATION_3": "coherent strategy",
-    "REGISTER_3": "商務 / 產品",
-    "COLLOCATION_NOTE_3": "指行動方向和資源配置能組成同一套邏輯。",
-    "NEIGHBOR_SELF": "各部分互相連接，整體可理解且一致",
-    "NEIGHBOR_SELF_USE": "說明、文件、設計或策略需要看整體是否接得上時",
-    "NEIGHBOR_1": "Clear",
-    "NEIGHBOR_1_MEANING": "容易理解、沒有遮蔽",
-    "NEIGHBOR_1_USE": "當重點是單一句子或訊息是否好懂，而不是整體連貫性",
-    "MODERN_USE_1": "現代英文裡，<code>coherent</code> 常用於 speech、writing、arguments、plans、theories 與 systems。",
-    "MODERN_USE_2": "在工程溝通裡，它是很精準的稱讚：coherent report 讓 evidence、conclusion 與 proposed fix 屬於同一條線。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心義是邏輯連接、一致性與可理解性。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/coherent",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和 speech、arguments、ideas、plans、theories 等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/coherent",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 coherent 和 clear 的差異。",
-    "CHECK_ORIGIN": "我記得它來自「stick together」的畫面。",
-    "CHECK_SENTENCE": "我能用它造一句文件、設計或論證情境的英文句子。",
-    "PRACTICE_SENTENCE": "The report became <code>coherent</code> after we linked each symptom to a specific timing condition.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/coherent",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "koh-HEER-uhnt · UK /kəʊˈhɪə.rənt/ · US /koʊˈhɪr.ənt/",
+    "hero": {
+      "thesis": "不是只把話講清楚，而是讓各部分彼此接得上，形成一個站得住的整體。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.63"
+    },
+    "coreIdea": "<code>coherent</code> 表示邏輯相連、前後一致，而且整體能被理解。",
+    "definition": {
+      "summary": "清楚、有邏輯，且內部連接足夠穩定，能被理解成一個統一整體。",
+      "contrast": {
+        "word": "Clear",
+        "note": "<code>clear</code> 重點是容易懂；<code>coherent</code> 多了各部分互相連貫、沒有矛盾的要求。"
+      },
+      "flow": [
+        "各部分接上",
+        "邏輯站得住",
+        "整體說得通"
+      ]
+    },
+    "memory": {
+      "hook": "<code>coherent</code> 的說明，句子之間有膠水。",
+      "explanation": "如果每句話單獨看都對，但放在一起像散落零件，那還不夠 coherent。這個字要你看整體結構是否有黏住。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "休息之後，他終於能把發生的事講成一段 <code>coherent account</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "一份 <code>coherent design review</code> 會把 user needs、constraints、trade-offs 和 implementation choices 接起來。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在 systems thinking 裡，<code>coherent architecture</code> 的 components 彼此職責相合，不藏矛盾。"
+      }
+    ],
+    "collocations": {
+      "note": "Coherent 常搭配 explanation、argument、plan、strategy，強調整體連貫。",
+      "items": [
+        {
+          "phrase": "coherent explanation",
+          "register": "溝通 / 教學",
+          "note": "指說明不只清楚，還有順序、因果與連結。"
+        },
+        {
+          "phrase": "coherent argument",
+          "register": "寫作 / 評審",
+          "note": "指論證裡的理由互相支援，沒有明顯矛盾。"
+        },
+        {
+          "phrase": "coherent strategy",
+          "register": "商務 / 產品",
+          "note": "指行動方向和資源配置能組成同一套邏輯。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "各部分互相連接，整體可理解且一致",
+        "use": "說明、文件、設計或策略需要看整體是否接得上時"
+      },
+      "others": [
+        {
+          "word": "Clear",
+          "meaning": "容易理解、沒有遮蔽",
+          "use": "當重點是單一句子或訊息是否好懂，而不是整體連貫性"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>coherent</code> 常用於 speech、writing、arguments、plans、theories 與 systems。",
+      "在工程溝通裡，它是很精準的稱讚：coherent report 讓 evidence、conclusion 與 proposed fix 屬於同一條線。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；核心義是邏輯連接、一致性與可理解性。",
+        "url": "https://www.merriam-webster.com/dictionary/coherent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和 speech、arguments、ideas、plans、theories 等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/coherent",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>coherent</code> 來自 Latin <code>cohaerere</code>，意思是 stick together。字源給它一個很具體的畫面：想法彼此黏住。",
+      "memoryLens": "把它想成一份設計文件裡的段落彼此有黏性：前一段提出問題，下一段回答問題，最後形成一條能走的路。"
+    }
   },
   "indexEntry": {
     "id": "coherent",

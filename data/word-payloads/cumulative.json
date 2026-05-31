@@ -4,58 +4,98 @@
     "slug": "cumulative",
     "outputPath": "prototypes/cumulative.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Cumulative",
-    "WORD_SLUG": "cumulative",
-    "WORD_LOWER": "cumulative",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "KYOO-myuh-luh-tiv · UK /ˈkjuː.mjə.lə.tɪv/ · US /ˈkjuː.mjə.lə.tɪv/",
-    "THESIS": "不是只是一再重複，而是每一次都往同一個總量上再加一層。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.55",
-    "CORE_IDEA": "<code>cumulative</code> 用來描述影響、資料、成本、疲勞或效果會一層一層疊上去，而不是每次重來。",
-    "SHORT_DEFINITION": "形容影響、資料、成本、疲勞或效果會一層一層疊上去，而不是每次重來。",
-    "CONFUSION_WORD": "Repeated",
-    "CONFUSION_NOTE": "<code>repeated</code> 只說一再發生；<code>cumulative</code> 更強調每次發生都留下總量效果。",
-    "FLOW_1": "先有一次影響",
-    "FLOW_2": "後面繼續疊上",
-    "FLOW_3": "總效果變大",
-    "ORIGIN_PARAGRAPH": "<code>cumulative</code> 和拉丁語裡的「堆起來、堆積」有關，所以它的畫面一直都很具體：不是散掉，而是往上加。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：你不是一直擦掉重算，而是每次都把新的一層放上去。",
-    "MEMORY_HOOK": "<code>cumulative</code> 是單次看不嚇人，總和回頭一看才嚇人。",
-    "MEMORY_EXPLANATION": "很多負擔不是因為一次太大，而是小量長期疊加後變成整體重量。",
-    "DAILY_USAGE": "睡眠不足的傷害常是 <code>cumulative</code>，一天沒感覺，連幾天就會很明顯。",
-    "PROFESSIONAL_USAGE": "在系統設計裡，small inefficiencies can have a <code>cumulative</code> impact on latency and maintenance cost.",
-    "DOMAIN_USAGE": "醫療、財務、教育與風險管理都常用 <code>cumulative</code> 來談累積效應。",
-    "COLLOCATION_NOTE": "Cumulative 常和 effect、impact、cost、risk、record 搭配。",
-    "COLLOCATION_1": "cumulative effect",
-    "REGISTER_1": "一般 / 分析",
-    "COLLOCATION_NOTE_1": "表示影響會一層層疊加。",
-    "COLLOCATION_2": "cumulative cost",
-    "REGISTER_2": "財務 / 專案",
-    "COLLOCATION_NOTE_2": "表示總成本是逐步堆上來的。",
-    "COLLOCATION_3": "cumulative risk",
-    "REGISTER_3": "風險 / 醫療",
-    "COLLOCATION_NOTE_3": "表示風險不是單次，而是累積後升高。",
-    "NEIGHBOR_SELF": "每次都把總量再往上堆一點",
-    "NEIGHBOR_SELF_USE": "談效果、成本、疲勞、風險或數據總量時",
-    "NEIGHBOR_1": "Repeated",
-    "NEIGHBOR_1_MEANING": "一再發生，但不一定留下總量",
-    "NEIGHBOR_1_USE": "重點只是頻率，而不是堆加效果時",
-    "MODERN_USE_1": "現代英文裡，<code>cumulative</code> 幾乎是談長期效應時的核心字，因為很多問題都不是單次衝擊，而是疊加後出現。",
-    "MODERN_USE_2": "在工程與產品語境中，它很適合描述小延遲、小 workaround 或小負債最後一起拖垮系統的方式。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/cumulative",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/cumulative",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 cumulative 和 repeated 的差異。",
-    "CHECK_ORIGIN": "記得 cumulative 的畫面是每次都往同一堆上加，不只是重複。",
-    "CHECK_SENTENCE": "我能用它造一句成本、風險或疲勞累積情境的英文句子。",
-    "PRACTICE_SENTENCE": "The performance loss was small in each patch but clearly <code>cumulative</code> across the quarter.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/cumulative",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "KYOO-myuh-luh-tiv · UK /ˈkjuː.mjə.lə.tɪv/ · US /ˈkjuː.mjə.lə.tɪv/",
+    "hero": {
+      "thesis": "不是只是一再重複，而是每一次都往同一個總量上再加一層。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.55"
+    },
+    "coreIdea": "<code>cumulative</code> 用來描述影響、資料、成本、疲勞或效果會一層一層疊上去，而不是每次重來。",
+    "definition": {
+      "summary": "形容影響、資料、成本、疲勞或效果會一層一層疊上去，而不是每次重來。",
+      "contrast": {
+        "word": "Repeated",
+        "note": "<code>repeated</code> 只說一再發生；<code>cumulative</code> 更強調每次發生都留下總量效果。"
+      },
+      "flow": [
+        "先有一次影響",
+        "後面繼續疊上",
+        "總效果變大"
+      ]
+    },
+    "memory": {
+      "hook": "<code>cumulative</code> 是單次看不嚇人，總和回頭一看才嚇人。",
+      "explanation": "很多負擔不是因為一次太大，而是小量長期疊加後變成整體重量。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "睡眠不足的傷害常是 <code>cumulative</code>，一天沒感覺，連幾天就會很明顯。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在系統設計裡，small inefficiencies can have a <code>cumulative</code> impact on latency and maintenance cost."
+      },
+      {
+        "label": "延伸版",
+        "body": "醫療、財務、教育與風險管理都常用 <code>cumulative</code> 來談累積效應。"
+      }
+    ],
+    "collocations": {
+      "note": "Cumulative 常和 effect、impact、cost、risk、record 搭配。",
+      "items": [
+        {
+          "phrase": "cumulative effect",
+          "register": "一般 / 分析",
+          "note": "表示影響會一層層疊加。"
+        },
+        {
+          "phrase": "cumulative cost",
+          "register": "財務 / 專案",
+          "note": "表示總成本是逐步堆上來的。"
+        },
+        {
+          "phrase": "cumulative risk",
+          "register": "風險 / 醫療",
+          "note": "表示風險不是單次，而是累積後升高。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "每次都把總量再往上堆一點",
+        "use": "談效果、成本、疲勞、風險或數據總量時"
+      },
+      "others": [
+        {
+          "word": "Repeated",
+          "meaning": "一再發生，但不一定留下總量",
+          "use": "重點只是頻率，而不是堆加效果時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>cumulative</code> 幾乎是談長期效應時的核心字，因為很多問題都不是單次衝擊，而是疊加後出現。",
+      "在工程與產品語境中，它很適合描述小延遲、小 workaround 或小負債最後一起拖垮系統的方式。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/cumulative",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/cumulative",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>cumulative</code> 和拉丁語裡的「堆起來、堆積」有關，所以它的畫面一直都很具體：不是散掉，而是往上加。",
+      "memoryLens": "字源畫面可以記成：你不是一直擦掉重算，而是每次都把新的一層放上去。"
+    }
   },
   "indexEntry": {
     "id": "cumulative",

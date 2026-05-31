@@ -4,58 +4,98 @@
     "slug": "converge",
     "outputPath": "prototypes/converge.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Converge",
-    "WORD_SLUG": "converge",
-    "WORD_LOWER": "converge",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "kun-VURJ · UK /kənˈvɜːdʒ/ · US /kənˈvɝːdʒ/",
-    "THESIS": "不是只是靠近，而是多條路、想法或數值朝同一個點逐漸收束。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.23",
-    "CORE_IDEA": "<code>converge</code> 表示從不同起點逐漸朝同一個點、結果、想法或數值靠近。",
-    "SHORT_DEFINITION": "從不同方向朝同一點移動、相遇、變得相似，或逐漸聚合。",
-    "CONFUSION_WORD": "Merge",
-    "CONFUSION_NOTE": "Merge 是合併；converge 是收束到同一方向或同一點。收束後不一定永遠變成一個整體。",
-    "FLOW_1": "不同起點",
-    "FLOW_2": "方向逐漸一致",
-    "FLOW_3": "收束到一點或結果",
-    "ORIGIN_PARAGRAPH": "<code>converge</code> 來自 Late Latin <code>convergere</code>，意思是 incline together；由 <code>com-</code>（together）和 <code>vergere</code>（bend or turn toward）組成。",
-    "ORIGIN_MEMORY": "把 converge 想成幾條線都向中心彎過去。它們不是一開始就在一起，而是在過程中逐漸朝同一點收束。",
-    "MEMORY_HOOK": "<code>converge</code> 是許多路徑一起彎向同一點。",
-    "MEMORY_EXPLANATION": "這個畫面也能用在 debug：多個線索一開始看似無關，但 logs、timing、repro steps 最後都指向同一個 root cause。",
-    "DAILY_USAGE": "幾條街如果都在老車站附近交會，可以說 <code>the streets converge near the old station</code>。",
-    "PROFESSIONAL_USAGE": "logs、oscilloscope traces 和 reproduction steps 如果最後都指向同一個 timing issue，就可以說線索 <code>converged</code>。",
-    "DOMAIN_USAGE": "在 iterative algorithm 裡，數值若每一輪都更接近穩定結果，就說它們 <code>converge</code>。",
-    "COLLOCATION_NOTE": "Converge 常和 on、toward、at 搭配，描述線索、觀點、人群或數值逐漸集中。",
-    "COLLOCATION_1": "converge on a point",
-    "REGISTER_1": "一般 / 空間",
-    "COLLOCATION_NOTE_1": "描述路線、線條或群體朝某處聚集。",
-    "COLLOCATION_2": "evidence converges",
-    "REGISTER_2": "分析 / 研究",
-    "COLLOCATION_NOTE_2": "表示多個獨立線索支持同一結論。",
-    "COLLOCATION_3": "values converge",
-    "REGISTER_3": "數學 / 工程",
-    "COLLOCATION_NOTE_3": "表示數值或迭代結果逐步接近穩定值。",
-    "NEIGHBOR_SELF": "從不同方向逐漸收束到同一點",
-    "NEIGHBOR_SELF_USE": "談路徑、觀點、證據、數值、共識、debug 線索。",
-    "NEIGHBOR_1": "diverge",
-    "NEIGHBOR_1_MEANING": "從共同點或相近狀態分開，走向不同方向",
-    "NEIGHBOR_1_USE": "當線索、觀點、數值或路徑越走越不一樣時。",
-    "MODERN_USE_1": "在軟體與工程 debug 中，converge 很適合描述多個觀察最後指向同一個 root cause。",
-    "MODERN_USE_2": "在數學與演算法裡，converge 描述序列或迭代結果接近某個值；在團隊討論中，則表示意見逐漸趨於一致。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Cambridge Dictionary；核心義是線、道路、想法或意見朝同一點移動或變得相似。",
-    "DICTIONARY_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
-    "DICTIONARY_LABEL": "Cambridge Dictionary",
-    "MODERN_SOURCE_NOTE": "現代例句涵蓋路徑、意見、人群、經濟現象，以及價格或數值逐漸變得相近。",
-    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
-    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
-    "CHECK_MEANING": "我能說出 <code>converge</code> 和 <code>merge</code> 的差異。",
-    "CHECK_ORIGIN": "我記得它來自「一起」加上「彎向、轉向」的字源畫面。",
-    "CHECK_SENTENCE": "我能用它造一句 debug、演算法或團隊共識情境的英文句子。",
-    "PRACTICE_SENTENCE": "The evidence began to converge when _____, _____, and _____ all pointed to _____.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/converge",
-    "REFERENCE_LABEL": "Cambridge Dictionary"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kun-VURJ · UK /kənˈvɜːdʒ/ · US /kənˈvɝːdʒ/",
+    "hero": {
+      "thesis": "不是只是靠近，而是多條路、想法或數值朝同一個點逐漸收束。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.23"
+    },
+    "coreIdea": "<code>converge</code> 表示從不同起點逐漸朝同一個點、結果、想法或數值靠近。",
+    "definition": {
+      "summary": "從不同方向朝同一點移動、相遇、變得相似，或逐漸聚合。",
+      "contrast": {
+        "word": "Merge",
+        "note": "Merge 是合併；converge 是收束到同一方向或同一點。收束後不一定永遠變成一個整體。"
+      },
+      "flow": [
+        "不同起點",
+        "方向逐漸一致",
+        "收束到一點或結果"
+      ]
+    },
+    "memory": {
+      "hook": "<code>converge</code> 是許多路徑一起彎向同一點。",
+      "explanation": "這個畫面也能用在 debug：多個線索一開始看似無關，但 logs、timing、repro steps 最後都指向同一個 root cause。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "幾條街如果都在老車站附近交會，可以說 <code>the streets converge near the old station</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "logs、oscilloscope traces 和 reproduction steps 如果最後都指向同一個 timing issue，就可以說線索 <code>converged</code>。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在 iterative algorithm 裡，數值若每一輪都更接近穩定結果，就說它們 <code>converge</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Converge 常和 on、toward、at 搭配，描述線索、觀點、人群或數值逐漸集中。",
+      "items": [
+        {
+          "phrase": "converge on a point",
+          "register": "一般 / 空間",
+          "note": "描述路線、線條或群體朝某處聚集。"
+        },
+        {
+          "phrase": "evidence converges",
+          "register": "分析 / 研究",
+          "note": "表示多個獨立線索支持同一結論。"
+        },
+        {
+          "phrase": "values converge",
+          "register": "數學 / 工程",
+          "note": "表示數值或迭代結果逐步接近穩定值。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "從不同方向逐漸收束到同一點",
+        "use": "談路徑、觀點、證據、數值、共識、debug 線索。"
+      },
+      "others": [
+        {
+          "word": "diverge",
+          "meaning": "從共同點或相近狀態分開，走向不同方向",
+          "use": "當線索、觀點、數值或路徑越走越不一樣時。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在軟體與工程 debug 中，converge 很適合描述多個觀察最後指向同一個 root cause。",
+      "在數學與演算法裡，converge 描述序列或迭代結果接近某個值；在團隊討論中，則表示意見逐漸趨於一致。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Cambridge Dictionary；核心義是線、道路、想法或意見朝同一點移動或變得相似。",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "現代例句涵蓋路徑、意見、人群、經濟現象，以及價格或數值逐漸變得相近。",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/converge",
+        "label": "Cambridge Dictionary"
+      }
+    },
+    "origin": {
+      "history": "<code>converge</code> 來自 Late Latin <code>convergere</code>，意思是 incline together；由 <code>com-</code>（together）和 <code>vergere</code>（bend or turn toward）組成。",
+      "memoryLens": "把 converge 想成幾條線都向中心彎過去。它們不是一開始就在一起，而是在過程中逐漸朝同一點收束。"
+    }
   },
   "indexEntry": {
     "id": "converge",

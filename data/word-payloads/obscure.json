@@ -4,58 +4,98 @@
     "slug": "obscure",
     "outputPath": "prototypes/obscure.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Obscure",
-    "WORD_SLUG": "obscure",
-    "WORD_LOWER": "obscure",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "ub-SKYOOR · UK /əbˈskjʊər/ · US /əbˈskjʊr/",
-    "THESIS": "不是深奧就高級，而是因為隱蔽、少見或不清楚，所以不容易被看見或理解。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.80",
-    "CORE_IDEA": "<code>obscure</code> 用來描述資訊、作品、來源或概念因不清楚、少人知道或被遮住而難以被理解。",
-    "SHORT_DEFINITION": "形容資訊、作品、來源或概念因不清楚、少人知道或被遮住而難以被理解。",
-    "CONFUSION_WORD": "Unclear",
-    "CONFUSION_NOTE": "<code>unclear</code> 可以只是表達不明；<code>obscure</code> 更像整體處在陰影裡，不容易被看見或注意。",
-    "FLOW_1": "資訊本來就不明顯",
-    "FLOW_2": "可見度進一步下降",
-    "FLOW_3": "理解與追查變困難",
-    "ORIGIN_PARAGRAPH": "<code>obscure</code> 和拉丁語裡「覆蓋、變暗」的脈絡相關，所以它天然帶著在陰影中的畫面。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是物件不存在，而是燈太暗，你只看得到輪廓。",
-    "MEMORY_HOOK": "<code>obscure</code> 是東西還在，但像被放進陰影裡。",
-    "MEMORY_EXPLANATION": "很多麻煩不是因為問題很大，而是因為它 obscure 到很久都沒人真正看見。",
-    "DAILY_USAGE": "你可能會喜歡一些很 <code>obscure</code> 的樂團，不是因為比較酷，而是因為真的很少人知道。",
-    "PROFESSIONAL_USAGE": "一個 obscure hardware dependency 常常會讓故障難查，因為大家平常根本不會注意到它。",
-    "DOMAIN_USAGE": "文化評論、學術寫作、系統調查與知識來源分析都常用 <code>obscure</code>。",
-    "COLLOCATION_NOTE": "Obscure 常和 reference、source、detail、band、dependency 搭配。",
-    "COLLOCATION_1": "an obscure reference",
-    "REGISTER_1": "文化 / 寫作",
-    "COLLOCATION_NOTE_1": "表示少數人才懂的引用。",
-    "COLLOCATION_2": "obscure detail",
-    "REGISTER_2": "分析 / 文件",
-    "COLLOCATION_NOTE_2": "表示很容易被忽略的小細節。",
-    "COLLOCATION_3": "obscure dependency",
-    "REGISTER_3": "工程 / 系統",
-    "COLLOCATION_NOTE_3": "表示平常少被注意但會影響系統的依賴。",
-    "NEIGHBOR_SELF": "因隱蔽或少見而不易被看見",
-    "NEIGHBOR_SELF_USE": "談來源、作品、細節或依賴關係時",
-    "NEIGHBOR_1": "Unclear",
-    "NEIGHBOR_1_MEANING": "表達不清楚或說法模糊",
-    "NEIGHBOR_1_USE": "重點只是話沒講清，不一定涉及低可見度時",
-    "MODERN_USE_1": "現代英文裡，<code>obscure</code> 常用來區分「複雜」和「不易看見」這兩件事。",
-    "MODERN_USE_2": "在工程語境中，它很適合描述那些平常躲在陰影裡，卻會在關鍵時刻影響系統的依賴與細節。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/obscure",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/obscure",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 obscure 和 unclear 的差異。",
-    "CHECK_ORIGIN": "記得 obscure 的畫面是被陰影遮住，不是單純高深。",
-    "CHECK_SENTENCE": "我能用它造一句來源、細節或依賴不易被看見的英文句子。",
-    "PRACTICE_SENTENCE": "The crash came from an <code>obscure</code> dependency most people did not know the board still had.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/obscure",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "ub-SKYOOR · UK /əbˈskjʊər/ · US /əbˈskjʊr/",
+    "hero": {
+      "thesis": "不是深奧就高級，而是因為隱蔽、少見或不清楚，所以不容易被看見或理解。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.80"
+    },
+    "coreIdea": "<code>obscure</code> 用來描述資訊、作品、來源或概念因不清楚、少人知道或被遮住而難以被理解。",
+    "definition": {
+      "summary": "形容資訊、作品、來源或概念因不清楚、少人知道或被遮住而難以被理解。",
+      "contrast": {
+        "word": "Unclear",
+        "note": "<code>unclear</code> 可以只是表達不明；<code>obscure</code> 更像整體處在陰影裡，不容易被看見或注意。"
+      },
+      "flow": [
+        "資訊本來就不明顯",
+        "可見度進一步下降",
+        "理解與追查變困難"
+      ]
+    },
+    "memory": {
+      "hook": "<code>obscure</code> 是東西還在，但像被放進陰影裡。",
+      "explanation": "很多麻煩不是因為問題很大，而是因為它 obscure 到很久都沒人真正看見。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可能會喜歡一些很 <code>obscure</code> 的樂團，不是因為比較酷，而是因為真的很少人知道。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "一個 obscure hardware dependency 常常會讓故障難查，因為大家平常根本不會注意到它。"
+      },
+      {
+        "label": "延伸版",
+        "body": "文化評論、學術寫作、系統調查與知識來源分析都常用 <code>obscure</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Obscure 常和 reference、source、detail、band、dependency 搭配。",
+      "items": [
+        {
+          "phrase": "an obscure reference",
+          "register": "文化 / 寫作",
+          "note": "表示少數人才懂的引用。"
+        },
+        {
+          "phrase": "obscure detail",
+          "register": "分析 / 文件",
+          "note": "表示很容易被忽略的小細節。"
+        },
+        {
+          "phrase": "obscure dependency",
+          "register": "工程 / 系統",
+          "note": "表示平常少被注意但會影響系統的依賴。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "因隱蔽或少見而不易被看見",
+        "use": "談來源、作品、細節或依賴關係時"
+      },
+      "others": [
+        {
+          "word": "Unclear",
+          "meaning": "表達不清楚或說法模糊",
+          "use": "重點只是話沒講清，不一定涉及低可見度時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>obscure</code> 常用來區分「複雜」和「不易看見」這兩件事。",
+      "在工程語境中，它很適合描述那些平常躲在陰影裡，卻會在關鍵時刻影響系統的依賴與細節。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/obscure",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/obscure",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>obscure</code> 和拉丁語裡「覆蓋、變暗」的脈絡相關，所以它天然帶著在陰影中的畫面。",
+      "memoryLens": "字源畫面可以記成：不是物件不存在，而是燈太暗，你只看得到輪廓。"
+    }
   },
   "indexEntry": {
     "id": "obscure",

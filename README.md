@@ -2,7 +2,7 @@
 
 一個以「每天真的能用」為目標的英文單字深讀與複習原型。它不是傳統後端服務，而是靜態 HTML 學習介面、可審核 JSON payload、Python 產生/驗證工具與瀏覽器 `localStorage` 狀態的組合。
 
-目前 repo 的主要成果是約 500 個單字 payload/page pairs、單字庫搜尋管理頁、陌生字待補清單，以及主動回想式複習頁。
+目前 repo 的主要成果是 100 個單字 payload/page pairs、單字庫搜尋管理頁、陌生字待補清單，以及主動回想式複習頁。
 
 ## 快速開始
 
@@ -31,7 +31,6 @@ http://127.0.0.1:4173/prototypes/index.html
 ```text
 data/word-payloads/*.json
   -> scripts/render_word_page.py
-  -> .codex/skills/daily-vocab-word-page/assets/template/word-page-template.html
   -> prototypes/<slug>.html
   -> prototypes/word-index.js
   -> prototypes/index.html / backlog.html / review.html
@@ -40,7 +39,7 @@ data/word-payloads/*.json
 核心設計是「內容來源」和「可閱讀頁面」分離：
 
 - `data/word-payloads/*.json` 是單字頁的可審核輸入。
-- `.codex/skills/daily-vocab-word-page/assets/template/word-page-template.html` 是單字頁 HTML contract。
+- `scripts/render_word_page.py` 會把語意化 payload 轉成單字頁 HTML；不再依賴外部 prose template。
 - `prototypes/<slug>.html` 是由 payload 產生的閱讀頁。
 - `prototypes/word-index.js` 是單字庫、搜尋、複習與重複檢查共用的索引。
 - `scripts/*.py` 負責生成、同步、驗證與來源政策正規化。
@@ -49,9 +48,9 @@ data/word-payloads/*.json
 
 單字深讀頁：
 
-- 呈現核心概念、語氣、短定義、字源、記憶鉤子、使用情境、collocations、neighbor distinctions、source notes 與 active recall。
+- 呈現核心概念、語氣、短定義、字源、記憶鉤子、使用情境、collocations、neighbor distinctions 與 source notes。
 - 使用 `prototypes/word-page.css` 維持安靜紙感閱讀 UI。
-- 使用 `prototypes/word-page.js` 提供 Web Speech API 發音與 checkbox 記憶狀態。
+- 使用 `prototypes/word-page.js` 提供 Web Speech API 發音互動。
 
 單字庫：
 
@@ -113,7 +112,7 @@ uv run python scripts\sync_word_numbers.py --check
 `data/word-payloads/<slug>.json` 包含：
 
 - `target`：word、slug、輸出路徑。
-- `templatePlaceholders`：對應 template 的所有 placeholder。
+- `page`：語意化頁面內容模型，例如 hero、definition、usage、collocations、neighbors、modernUse、sources。
 - `indexEntry`：要加入 `prototypes/word-index.js` 的搜尋與複習資料。
 - `sourceAudit`：dictionary、level/frequency、etymology、modern usage 的來源軌跡。
 
@@ -128,13 +127,13 @@ uv run python scripts\sync_word_numbers.py --check
 - Modern/common usage：優先 `Merriam-Webster`，其次 `Cambridge Dictionary` 或 `Britannica Dictionary`。
 - Level/frequency：Zipf 參考 `wordfreq`；CEFR 是 repo-calibrated study band。
 
-`templatePlaceholders.*SOURCE*`、`REFERENCE_*` 與 `sourceAudit` 必須保持一致。
+`page.sources.dictionary`、`page.sources.modern` 與 `sourceAudit` 必須保持一致。
 
 ## Repository Map
 
 ```text
 .codex/skills/daily-vocab-word-page/
-  Project-specific skill, template, payload skeleton, and word-page rules.
+  Project-specific skill, payload shape references, and word-page rules.
 
 data/word-payloads/
   Durable JSON inputs for generated word pages.
@@ -158,4 +157,4 @@ pyproject.toml / uv.lock
 - 單字頁細節以 `$daily-vocab-word-page` skill 為準；根層文件只保留專案方向與 workflow。
 - `prototypes/word-index.js` 的 `order` 是畫面上的 `Word NN`，新增或移動頁面後要同步。
 - 修改 Markdown 後至少跑 `git diff --check`。
-- 修改 HTML/CSS/JS 後建議用本機 HTTP server 檢查桌面與手機版面、console、搜尋、checkbox、發音與複習互動。
+- 修改 HTML/CSS/JS 後建議用本機 HTTP server 檢查桌面與手機版面、console、搜尋、發音與複習互動。

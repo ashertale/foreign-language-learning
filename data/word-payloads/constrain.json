@@ -4,58 +4,98 @@
     "slug": "constrain",
     "outputPath": "prototypes/constrain.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Constrain",
-    "WORD_SLUG": "constrain",
-    "WORD_LOWER": "constrain",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "kun-STRAYN · UK /kənˈstreɪn/ · US /kənˈstreɪn/",
-    "THESIS": "不是完全阻止，而是把可能性壓縮在一組邊界、資源或規則裡。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.49",
-    "CORE_IDEA": "<code>constrain</code> 用來描述時間、資源、物理條件或規則把行動空間收窄。",
-    "SHORT_DEFINITION": "表示時間、資源、物理條件或規則把行動空間收窄。",
-    "CONFUSION_WORD": "Prevent",
-    "CONFUSION_NOTE": "<code>prevent</code> 是阻止發生；<code>constrain</code> 則是讓事情只能在有限條件下進行。",
-    "FLOW_1": "先有多種可能",
-    "FLOW_2": "條件開始收窄",
-    "FLOW_3": "剩下可行範圍",
-    "ORIGIN_PARAGRAPH": "<code>constrain</code> 和「綁住、收緊」的歷史脈絡有關，所以它保留了行動被束在範圍裡的身體感。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是把門鎖死，而是把可活動的繩長縮短。",
-    "MEMORY_HOOK": "<code>constrain</code> 是世界沒有說不，但它把你能怎麼做收得很窄。",
-    "MEMORY_EXPLANATION": "很多工程問題不是理論上做不到，而是 latency、memory、schedule 把選項 constrain 到只剩幾條路。",
-    "DAILY_USAGE": "預算會 <code>constrain</code> 你的選擇，不是讓你完全不能買，而是能買的範圍變小。",
-    "PROFESSIONAL_USAGE": "在嵌入式或系統設計裡，power budget 會直接 <code>constrain</code> architecture decisions.",
-    "DOMAIN_USAGE": "數學最佳化、產品範圍管理與政策規則都常用 <code>constrain</code> 來談邊界條件。",
-    "COLLOCATION_NOTE": "Constrain 常和 resources、design、choice、movement、optimization 搭配。",
-    "COLLOCATION_1": "resource-constrained",
-    "REGISTER_1": "工程 / 系統",
-    "COLLOCATION_NOTE_1": "表示受到資源邊界明顯限制。",
-    "COLLOCATION_2": "constrain the design",
-    "REGISTER_2": "產品 / 架構",
-    "COLLOCATION_NOTE_2": "表示設計空間被條件收窄。",
-    "COLLOCATION_3": "constrain movement",
-    "REGISTER_3": "物理 / 描述",
-    "COLLOCATION_NOTE_3": "表示可動範圍受到束縛。",
-    "NEIGHBOR_SELF": "讓事情只能在邊界內進行",
-    "NEIGHBOR_SELF_USE": "談資源、規格、數學條件或政策限制時",
-    "NEIGHBOR_1": "Prevent",
-    "NEIGHBOR_1_MEANING": "直接阻止事情發生",
-    "NEIGHBOR_1_USE": "重點是根本不讓它發生，而不是只收窄選項時",
-    "MODERN_USE_1": "現代英文裡，<code>constrain</code> 很常用在工程、產品與研究，因為現實中的問題大多不是無限空間。",
-    "MODERN_USE_2": "它能幫你把討論從「能不能」拉到更準的層次：是在什麼約束下，還能怎麼做。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/constrain",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/constrain",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 constrain 和 prevent 的差異。",
-    "CHECK_ORIGIN": "記得 constrain 的畫面是把可活動的繩長縮短，而不是完全封死。",
-    "CHECK_SENTENCE": "我能用它造一句資源、規格或設計空間情境的英文句子。",
-    "PRACTICE_SENTENCE": "Thermal limits <code>constrain</code> how aggressively we can clock the board.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/constrain",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kun-STRAYN · UK /kənˈstreɪn/ · US /kənˈstreɪn/",
+    "hero": {
+      "thesis": "不是完全阻止，而是把可能性壓縮在一組邊界、資源或規則裡。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.49"
+    },
+    "coreIdea": "<code>constrain</code> 用來描述時間、資源、物理條件或規則把行動空間收窄。",
+    "definition": {
+      "summary": "表示時間、資源、物理條件或規則把行動空間收窄。",
+      "contrast": {
+        "word": "Prevent",
+        "note": "<code>prevent</code> 是阻止發生；<code>constrain</code> 則是讓事情只能在有限條件下進行。"
+      },
+      "flow": [
+        "先有多種可能",
+        "條件開始收窄",
+        "剩下可行範圍"
+      ]
+    },
+    "memory": {
+      "hook": "<code>constrain</code> 是世界沒有說不，但它把你能怎麼做收得很窄。",
+      "explanation": "很多工程問題不是理論上做不到，而是 latency、memory、schedule 把選項 constrain 到只剩幾條路。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "預算會 <code>constrain</code> 你的選擇，不是讓你完全不能買，而是能買的範圍變小。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在嵌入式或系統設計裡，power budget 會直接 <code>constrain</code> architecture decisions."
+      },
+      {
+        "label": "延伸版",
+        "body": "數學最佳化、產品範圍管理與政策規則都常用 <code>constrain</code> 來談邊界條件。"
+      }
+    ],
+    "collocations": {
+      "note": "Constrain 常和 resources、design、choice、movement、optimization 搭配。",
+      "items": [
+        {
+          "phrase": "resource-constrained",
+          "register": "工程 / 系統",
+          "note": "表示受到資源邊界明顯限制。"
+        },
+        {
+          "phrase": "constrain the design",
+          "register": "產品 / 架構",
+          "note": "表示設計空間被條件收窄。"
+        },
+        {
+          "phrase": "constrain movement",
+          "register": "物理 / 描述",
+          "note": "表示可動範圍受到束縛。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓事情只能在邊界內進行",
+        "use": "談資源、規格、數學條件或政策限制時"
+      },
+      "others": [
+        {
+          "word": "Prevent",
+          "meaning": "直接阻止事情發生",
+          "use": "重點是根本不讓它發生，而不是只收窄選項時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>constrain</code> 很常用在工程、產品與研究，因為現實中的問題大多不是無限空間。",
+      "它能幫你把討論從「能不能」拉到更準的層次：是在什麼約束下，還能怎麼做。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/constrain",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/constrain",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>constrain</code> 和「綁住、收緊」的歷史脈絡有關，所以它保留了行動被束在範圍裡的身體感。",
+      "memoryLens": "字源畫面可以記成：不是把門鎖死，而是把可活動的繩長縮短。"
+    }
   },
   "indexEntry": {
     "id": "constrain",

@@ -4,58 +4,98 @@
     "slug": "bolster",
     "outputPath": "prototypes/bolster.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Bolster",
-    "WORD_SLUG": "bolster",
-    "WORD_LOWER": "bolster",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "BOHL-ster · UK /ˈbəʊl.stər/ · US /ˈboʊl.stɚ/",
-    "THESIS": "不是憑空創造，而是替原本就有的東西補上支撐，讓它更穩、更有力。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.38",
-    "CORE_IDEA": "<code>bolster</code> 用來描述替論點、系統、信心或防線加上支撐，讓它站得更穩。",
-    "SHORT_DEFINITION": "表示替論點、系統、信心或防線加上支撐，讓它站得更穩。",
-    "CONFUSION_WORD": "Help",
-    "CONFUSION_NOTE": "<code>help</code> 很廣；<code>bolster</code> 更像替一個本來就存在的東西補支架、加底氣。",
-    "FLOW_1": "先看見薄弱處",
-    "FLOW_2": "補上支撐",
-    "FLOW_3": "整體更穩更能扛",
-    "ORIGIN_PARAGRAPH": "<code>bolster</code> 原本和墊子、靠枕這種支撐物有關，所以它後來延伸出的抽象意思也保留了「把東西撐起來」的身體感。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是把牆重蓋，而是在容易塌的地方塞進一個真的能撐住的支點。",
-    "MEMORY_HOOK": "<code>bolster</code> 是把還站得住的東西，撐到更站得住。",
-    "MEMORY_EXPLANATION": "想像一張有點搖的桌子，你不是換掉整張桌，而是補那個最關鍵的支點。",
-    "DAILY_USAGE": "朋友一句穩住你的話，可能會 <code>bolster</code> your confidence before a hard conversation.",
-    "PROFESSIONAL_USAGE": "在設計或論證裡，你會用更多 evidence 去 <code>bolster</code> a claim，而不是只說我覺得。",
-    "DOMAIN_USAGE": "政策、資安、供應鏈與系統可靠度也常用 <code>bolster</code> 來談防線、能力或準備度的補強。",
-    "COLLOCATION_NOTE": "Bolster 常和 confidence、claim、security、defense、economy 這類需要支撐的名詞搭配。",
-    "COLLOCATION_1": "bolster confidence",
-    "REGISTER_1": "日常 / 管理",
-    "COLLOCATION_NOTE_1": "表示替信心補上支撐，而不是只是打氣。",
-    "COLLOCATION_2": "bolster the claim",
-    "REGISTER_2": "寫作 / 論證",
-    "COLLOCATION_NOTE_2": "表示用更多證據把論點撐穩。",
-    "COLLOCATION_3": "bolster security",
-    "REGISTER_3": "資安 / 系統",
-    "COLLOCATION_NOTE_3": "表示讓防線更穩、更難被突破。",
-    "NEIGHBOR_SELF": "替原本存在的東西補上支撐",
-    "NEIGHBOR_SELF_USE": "談論點、信心、防線、結構或團隊準備度時",
-    "NEIGHBOR_1": "Help",
-    "NEIGHBOR_1_MEANING": "廣泛地提供協助",
-    "NEIGHBOR_1_USE": "只想說有幫忙，不特別強調加固效果時",
-    "MODERN_USE_1": "現代英文裡，<code>bolster</code> 很常出現在管理、政策、新聞與工程敘述，因為它把「補強」講得比 improve 更有畫面。",
-    "MODERN_USE_2": "在專業語境中，它很適合描述 evidence、security、resilience 或 confidence 被進一步撐穩。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/bolster",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/bolster",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 bolster 和 help 的差異。",
-    "CHECK_ORIGIN": "記得 bolster 的字源來自支撐物，所以它的核心是撐住，不只是幫忙。",
-    "CHECK_SENTENCE": "我能用它造一句論證、信心或系統防線情境的英文句子。",
-    "PRACTICE_SENTENCE": "We added a hardware trace point to <code>bolster</code> the timing hypothesis.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/bolster",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "BOHL-ster · UK /ˈbəʊl.stər/ · US /ˈboʊl.stɚ/",
+    "hero": {
+      "thesis": "不是憑空創造，而是替原本就有的東西補上支撐，讓它更穩、更有力。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.38"
+    },
+    "coreIdea": "<code>bolster</code> 用來描述替論點、系統、信心或防線加上支撐，讓它站得更穩。",
+    "definition": {
+      "summary": "表示替論點、系統、信心或防線加上支撐，讓它站得更穩。",
+      "contrast": {
+        "word": "Help",
+        "note": "<code>help</code> 很廣；<code>bolster</code> 更像替一個本來就存在的東西補支架、加底氣。"
+      },
+      "flow": [
+        "先看見薄弱處",
+        "補上支撐",
+        "整體更穩更能扛"
+      ]
+    },
+    "memory": {
+      "hook": "<code>bolster</code> 是把還站得住的東西，撐到更站得住。",
+      "explanation": "想像一張有點搖的桌子，你不是換掉整張桌，而是補那個最關鍵的支點。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "朋友一句穩住你的話，可能會 <code>bolster</code> your confidence before a hard conversation."
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在設計或論證裡，你會用更多 evidence 去 <code>bolster</code> a claim，而不是只說我覺得。"
+      },
+      {
+        "label": "延伸版",
+        "body": "政策、資安、供應鏈與系統可靠度也常用 <code>bolster</code> 來談防線、能力或準備度的補強。"
+      }
+    ],
+    "collocations": {
+      "note": "Bolster 常和 confidence、claim、security、defense、economy 這類需要支撐的名詞搭配。",
+      "items": [
+        {
+          "phrase": "bolster confidence",
+          "register": "日常 / 管理",
+          "note": "表示替信心補上支撐，而不是只是打氣。"
+        },
+        {
+          "phrase": "bolster the claim",
+          "register": "寫作 / 論證",
+          "note": "表示用更多證據把論點撐穩。"
+        },
+        {
+          "phrase": "bolster security",
+          "register": "資安 / 系統",
+          "note": "表示讓防線更穩、更難被突破。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "替原本存在的東西補上支撐",
+        "use": "談論點、信心、防線、結構或團隊準備度時"
+      },
+      "others": [
+        {
+          "word": "Help",
+          "meaning": "廣泛地提供協助",
+          "use": "只想說有幫忙，不特別強調加固效果時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>bolster</code> 很常出現在管理、政策、新聞與工程敘述，因為它把「補強」講得比 improve 更有畫面。",
+      "在專業語境中，它很適合描述 evidence、security、resilience 或 confidence 被進一步撐穩。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/bolster",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/bolster",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>bolster</code> 原本和墊子、靠枕這種支撐物有關，所以它後來延伸出的抽象意思也保留了「把東西撐起來」的身體感。",
+      "memoryLens": "字源畫面可以記成：不是把牆重蓋，而是在容易塌的地方塞進一個真的能撐住的支點。"
+    }
   },
   "indexEntry": {
     "id": "bolster",

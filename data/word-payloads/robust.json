@@ -4,58 +4,98 @@
     "slug": "robust",
     "outputPath": "prototypes/robust.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Robust",
-    "WORD_SLUG": "robust",
-    "WORD_LOWER": "robust",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "roh-BUST · UK /rəʊˈbʌst/ · US /roʊˈbʌst/",
-    "THESIS": "不是單純強壯，而是在變動、壓力與雜訊下仍能可靠運作。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.94",
-    "CORE_IDEA": "<code>robust</code> 描述某物強健、可靠，能在壓力、變動或不完美條件下仍好好運作。",
-    "SHORT_DEFINITION": "強健、健康，或被設計成能在困難、多變、不完美條件下仍保持有效。",
-    "CONFUSION_WORD": "Strong",
-    "CONFUSION_NOTE": "<code>strong</code> 是力量大；<code>robust</code> 多了「在真實變動下仍可靠」的意思。",
-    "FLOW_1": "變動出現",
-    "FLOW_2": "系統吸收壓力",
-    "FLOW_3": "功能持續",
-    "ORIGIN_PARAGRAPH": "<code>robust</code> 來自 Latin <code>robustus</code>，意思是 strong and hardy，並和 <code>robur</code>（oak）有關。字源畫面是橡木般的強韌。",
-    "ORIGIN_MEMORY": "橡木的畫面很好記：不是玻璃般完美，而是粗壯、耐受、能在風裡維持形狀。",
-    "MEMORY_HOOK": "<code>robust</code> 的設計會在實驗室條件消失後繼續工作。",
-    "MEMORY_EXPLANATION": "真正的 robust 不是 demo 時漂亮，而是在電壓波動、溫度變化、使用者亂按、log 滿掉時，仍保留可預期的行為。",
-    "DAILY_USAGE": "<code>robust backpack</code> 能承受日常使用、下雨，還有被丟到桌下的折磨。",
-    "PROFESSIONAL_USAGE": "<code>robust firmware update flow</code> 可以在更新途中斷電時恢復，而不是把 device 變磚。",
-    "DOMAIN_USAGE": "在統計裡，<code>robust methods</code> 比較不容易被 outliers 或假設違反扭曲。",
-    "COLLOCATION_NOTE": "<code>robust</code> 常搭配 system、design、method、evidence，強調在變動下仍可信。",
-    "COLLOCATION_1": "robust design",
-    "REGISTER_1": "工程 / 產品",
-    "COLLOCATION_NOTE_1": "指設計能處理邊界條件、雜訊和不完美輸入。",
-    "COLLOCATION_2": "robust evidence",
-    "REGISTER_2": "研究 / 政策",
-    "COLLOCATION_NOTE_2": "指證據在不同方法或資料下仍支持同一結論。",
-    "COLLOCATION_3": "robust system",
-    "REGISTER_3": "軟體 / 硬體",
-    "COLLOCATION_NOTE_3": "指系統有錯誤處理、恢復能力與穩定行為。",
-    "NEIGHBOR_SELF": "在壓力、變動與不完美條件下仍可靠",
-    "NEIGHBOR_SELF_USE": "描述設計、系統、方法或證據的耐受性",
-    "NEIGHBOR_1": "Strong",
-    "NEIGHBOR_1_MEANING": "力量大或結構堅固",
-    "NEIGHBOR_1_USE": "只需要形容單一面向的強度，而不是變動下的可靠性",
-    "MODERN_USE_1": "現代英文裡，<code>robust</code> 常用於 systems、designs、markets、evidence、health、flavor 與 statistical methods。",
-    "MODERN_USE_2": "在工程裡，這是最乾淨的詞之一，用來表示 solution 能承受 messy reality，而不只是在 happy path 上漂亮。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心義包含 strength、health、vigor，以及壓力下的能力。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/robust",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和系統、證據、方法、健康與性能等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/robust",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 robust 和 strong 的差異。",
-    "CHECK_ORIGIN": "我記得它和 oak-like strength 的字源畫面有關。",
-    "CHECK_SENTENCE": "我能用它造一句系統、設計或統計方法情境的英文句子。",
-    "PRACTICE_SENTENCE": "The bootloader needs a <code>robust</code> recovery path if power fails during an update.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/robust",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "roh-BUST · UK /rəʊˈbʌst/ · US /roʊˈbʌst/",
+    "hero": {
+      "thesis": "不是單純強壯，而是在變動、壓力與雜訊下仍能可靠運作。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.94"
+    },
+    "coreIdea": "<code>robust</code> 描述某物強健、可靠，能在壓力、變動或不完美條件下仍好好運作。",
+    "definition": {
+      "summary": "強健、健康，或被設計成能在困難、多變、不完美條件下仍保持有效。",
+      "contrast": {
+        "word": "Strong",
+        "note": "<code>strong</code> 是力量大；<code>robust</code> 多了「在真實變動下仍可靠」的意思。"
+      },
+      "flow": [
+        "變動出現",
+        "系統吸收壓力",
+        "功能持續"
+      ]
+    },
+    "memory": {
+      "hook": "<code>robust</code> 的設計會在實驗室條件消失後繼續工作。",
+      "explanation": "真正的 robust 不是 demo 時漂亮，而是在電壓波動、溫度變化、使用者亂按、log 滿掉時，仍保留可預期的行為。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "<code>robust backpack</code> 能承受日常使用、下雨，還有被丟到桌下的折磨。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "<code>robust firmware update flow</code> 可以在更新途中斷電時恢復，而不是把 device 變磚。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在統計裡，<code>robust methods</code> 比較不容易被 outliers 或假設違反扭曲。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>robust</code> 常搭配 system、design、method、evidence，強調在變動下仍可信。",
+      "items": [
+        {
+          "phrase": "robust design",
+          "register": "工程 / 產品",
+          "note": "指設計能處理邊界條件、雜訊和不完美輸入。"
+        },
+        {
+          "phrase": "robust evidence",
+          "register": "研究 / 政策",
+          "note": "指證據在不同方法或資料下仍支持同一結論。"
+        },
+        {
+          "phrase": "robust system",
+          "register": "軟體 / 硬體",
+          "note": "指系統有錯誤處理、恢復能力與穩定行為。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在壓力、變動與不完美條件下仍可靠",
+        "use": "描述設計、系統、方法或證據的耐受性"
+      },
+      "others": [
+        {
+          "word": "Strong",
+          "meaning": "力量大或結構堅固",
+          "use": "只需要形容單一面向的強度，而不是變動下的可靠性"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>robust</code> 常用於 systems、designs、markets、evidence、health、flavor 與 statistical methods。",
+      "在工程裡，這是最乾淨的詞之一，用來表示 solution 能承受 messy reality，而不只是在 happy path 上漂亮。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；核心義包含 strength、health、vigor，以及壓力下的能力。",
+        "url": "https://www.merriam-webster.com/dictionary/robust",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和系統、證據、方法、健康與性能等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/robust",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>robust</code> 來自 Latin <code>robustus</code>，意思是 strong and hardy，並和 <code>robur</code>（oak）有關。字源畫面是橡木般的強韌。",
+      "memoryLens": "橡木的畫面很好記：不是玻璃般完美，而是粗壯、耐受、能在風裡維持形狀。"
+    }
   },
   "indexEntry": {
     "id": "robust",

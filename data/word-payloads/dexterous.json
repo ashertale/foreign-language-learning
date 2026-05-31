@@ -4,58 +4,98 @@
     "slug": "dexterous",
     "outputPath": "prototypes/dexterous.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Dexterous",
-    "WORD_SLUG": "dexterous",
-    "WORD_LOWER": "dexterous",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "DEKS-trus · UK /ˈdek.strəs/ · US /ˈdek.strəs/",
-    "THESIS": "不是單純手快，而是動作或處理方式靈巧、精準，而且帶控制感。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "2.47",
-    "CORE_IDEA": "<code>dexterous</code> 用來描述手部操作、細節處理，或更抽象的策略應對具有靈巧與控制力。",
-    "SHORT_DEFINITION": "形容手部操作、細節處理，或更抽象的策略應對具有靈巧與控制力。",
-    "CONFUSION_WORD": "Skillful",
-    "CONFUSION_NOTE": "<code>skillful</code> 是廣義熟練；<code>dexterous</code> 更像手感細、動作準、控制好。",
-    "FLOW_1": "看見細小目標",
-    "FLOW_2": "手法精準介入",
-    "FLOW_3": "結果乾淨俐落",
-    "ORIGIN_PARAGRAPH": "<code>dexterous</code> 和拉丁語裡「右手」的脈絡有關，歷史上右手常被視為靈活、順手的象徵。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是單靠力氣，而是靠那隻順手的手，把細小動作做準。",
-    "MEMORY_HOOK": "<code>dexterous</code> 是你看起來沒多用力，但每一下都落在對的位置。",
-    "MEMORY_EXPLANATION": "從焊接到演奏，再到談判中的語氣轉折，dexterous 都有一種精細控制的味道。",
-    "DAILY_USAGE": "有人整理花束或修小物很 <code>dexterous</code>，你會感覺每一步都輕巧但準。",
-    "PROFESSIONAL_USAGE": "在硬體 bring-up 或手工 rework 裡，dexterous hands 常比單純經驗更多地決定成敗。",
-    "DOMAIN_USAGE": "外科、工藝、音樂與高精度操作都常用 <code>dexterous</code> 來評價細緻技藝。",
-    "COLLOCATION_NOTE": "Dexterous 常和 hands、movement、maneuver 這類需要精細控制的詞搭配。",
-    "COLLOCATION_1": "dexterous hands",
-    "REGISTER_1": "工藝 / 醫療",
-    "COLLOCATION_NOTE_1": "表示雙手靈巧且穩定。",
-    "COLLOCATION_2": "a dexterous move",
-    "REGISTER_2": "表現 / 描寫",
-    "COLLOCATION_NOTE_2": "表示動作精準、不笨重。",
-    "COLLOCATION_3": "dexterous handling",
-    "REGISTER_3": "技術 / 操作",
-    "COLLOCATION_NOTE_3": "表示處理方式細膩有控制。",
-    "NEIGHBOR_SELF": "靈巧地把細節處理得準而穩",
-    "NEIGHBOR_SELF_USE": "談手作、精密操作、演奏或細節應對時",
-    "NEIGHBOR_1": "Skillful",
-    "NEIGHBOR_1_MEANING": "廣義地做得好、有技巧",
-    "NEIGHBOR_1_USE": "不需要特別凸顯靈巧控制時",
-    "MODERN_USE_1": "現代英文裡，<code>dexterous</code> 雖然不算高頻，但在描寫真正有手感的技術與表現時很準。",
-    "MODERN_USE_2": "它也能被借去形容抽象應對，例如語言或談判上的靈巧轉身。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/dexterous",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/dexterous",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 dexterous 和 skillful 的差異。",
-    "CHECK_ORIGIN": "記得 dexterous 的字源和順手、靈巧有關，重點是精準控制。",
-    "CHECK_SENTENCE": "我能用它造一句精密操作、工藝或技巧表現情境的英文句子。",
-    "PRACTICE_SENTENCE": "The technician made a <code>dexterous</code> adjustment without disturbing the neighboring pins.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/dexterous",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "DEKS-trus · UK /ˈdek.strəs/ · US /ˈdek.strəs/",
+    "hero": {
+      "thesis": "不是單純手快，而是動作或處理方式靈巧、精準，而且帶控制感。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.47"
+    },
+    "coreIdea": "<code>dexterous</code> 用來描述手部操作、細節處理，或更抽象的策略應對具有靈巧與控制力。",
+    "definition": {
+      "summary": "形容手部操作、細節處理，或更抽象的策略應對具有靈巧與控制力。",
+      "contrast": {
+        "word": "Skillful",
+        "note": "<code>skillful</code> 是廣義熟練；<code>dexterous</code> 更像手感細、動作準、控制好。"
+      },
+      "flow": [
+        "看見細小目標",
+        "手法精準介入",
+        "結果乾淨俐落"
+      ]
+    },
+    "memory": {
+      "hook": "<code>dexterous</code> 是你看起來沒多用力，但每一下都落在對的位置。",
+      "explanation": "從焊接到演奏，再到談判中的語氣轉折，dexterous 都有一種精細控制的味道。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "有人整理花束或修小物很 <code>dexterous</code>，你會感覺每一步都輕巧但準。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在硬體 bring-up 或手工 rework 裡，dexterous hands 常比單純經驗更多地決定成敗。"
+      },
+      {
+        "label": "延伸版",
+        "body": "外科、工藝、音樂與高精度操作都常用 <code>dexterous</code> 來評價細緻技藝。"
+      }
+    ],
+    "collocations": {
+      "note": "Dexterous 常和 hands、movement、maneuver 這類需要精細控制的詞搭配。",
+      "items": [
+        {
+          "phrase": "dexterous hands",
+          "register": "工藝 / 醫療",
+          "note": "表示雙手靈巧且穩定。"
+        },
+        {
+          "phrase": "a dexterous move",
+          "register": "表現 / 描寫",
+          "note": "表示動作精準、不笨重。"
+        },
+        {
+          "phrase": "dexterous handling",
+          "register": "技術 / 操作",
+          "note": "表示處理方式細膩有控制。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "靈巧地把細節處理得準而穩",
+        "use": "談手作、精密操作、演奏或細節應對時"
+      },
+      "others": [
+        {
+          "word": "Skillful",
+          "meaning": "廣義地做得好、有技巧",
+          "use": "不需要特別凸顯靈巧控制時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>dexterous</code> 雖然不算高頻，但在描寫真正有手感的技術與表現時很準。",
+      "它也能被借去形容抽象應對，例如語言或談判上的靈巧轉身。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/dexterous",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/dexterous",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>dexterous</code> 和拉丁語裡「右手」的脈絡有關，歷史上右手常被視為靈活、順手的象徵。",
+      "memoryLens": "字源畫面可以記成：不是單靠力氣，而是靠那隻順手的手，把細小動作做準。"
+    }
   },
   "indexEntry": {
     "id": "dexterous",

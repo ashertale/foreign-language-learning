@@ -4,58 +4,98 @@
     "slug": "nuance",
     "outputPath": "prototypes/nuance.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Nuance",
-    "WORD_SLUG": "nuance",
-    "WORD_LOWER": "nuance",
-    "PART_OF_SPEECH": "noun",
-    "IPA": "NOO-ahns · UK /ˈnjuː.ɒns/ · US /ˈnuː.ɑːns/",
-    "THESIS": "不是把事情講得更複雜，而是看見那些真的會改變意思的細微差別。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.09",
-    "CORE_IDEA": "<code>nuance</code> 是很小卻有意義的差異；它可能很細微，但會改變語氣、意思、解讀或反應。",
-    "SHORT_DEFINITION": "意義、外觀、聲音、感受或意見上的非常細微差異。",
-    "CONFUSION_WORD": "Detail",
-    "CONFUSION_NOTE": "Detail 是細節；nuance 是會改變語氣、意思或判斷方向的細微差別。",
-    "FLOW_1": "細微差異",
-    "FLOW_2": "意思被改變",
-    "FLOW_3": "判斷更精準",
-    "ORIGIN_PARAGRAPH": "<code>nuance</code> 從 French <code>nuance</code> 進入英文，原本指細微差別或色彩明暗。字源畫面連到雲與陰影：顏色像陰天的天空一樣柔和變化。",
-    "ORIGIN_MEMORY": "想像雲層不是一片白，而是一層層灰、藍、銀。Nuance 就是那些不大聲，卻讓整個畫面變準的色階。",
-    "MEMORY_HOOK": "<code>nuance</code> 是會改變句子的那一層色階。",
-    "MEMORY_EXPLANATION": "同一句話，換一個 modal verb、換一個語氣、換一個上下文，意思可能從建議變成命令。Nuance 就在這種細微轉向裡。",
-    "DAILY_USAGE": "她的回覆有一個 <code>nuance</code>：她同意的是目標，不是計畫本身。",
-    "PROFESSIONAL_USAGE": "這條 requirement 有重要 nuance：device 必須自動恢復，而不是只回報 failure。",
-    "DOMAIN_USAGE": "好的翻譯會保留 <code>nuance</code>，尤其當一個詞帶有社交距離、禮貌或不確定性時。",
-    "COLLOCATION_NOTE": "Nuance 常和 capture、understand、subtle、important 搭配，表示你注意到細微但有意義的差別。",
-    "COLLOCATION_1": "a subtle nuance",
-    "REGISTER_1": "一般 / 描述",
-    "COLLOCATION_NOTE_1": "強調差異不明顯，但值得辨認。",
-    "COLLOCATION_2": "capture the nuance",
-    "REGISTER_2": "寫作 / 設計 / 翻譯",
-    "COLLOCATION_NOTE_2": "表示把原本細膩的語氣、含義或層次保留下來。",
-    "COLLOCATION_3": "lose the nuance",
-    "REGISTER_3": "評論 / 分析",
-    "COLLOCATION_NOTE_3": "用於批評過度簡化，導致真正重要的差別消失。",
-    "NEIGHBOR_SELF": "會改變解讀的細微差異",
-    "NEIGHBOR_SELF_USE": "談語氣、翻譯、需求、設計判斷、人際暗示。",
-    "NEIGHBOR_1": "subtlety",
-    "NEIGHBOR_1_MEANING": "細膩、不明顯的性質，範圍比 nuance 更廣",
-    "NEIGHBOR_1_USE": "當你要稱讚作品、手法或觀察本身很細膩時。",
-    "MODERN_USE_1": "在網路討論中，nuance 常用來反對二分法：問題不是 A 或 B，而是條件、程度與脈絡會改變答案。",
-    "MODERN_USE_2": "在工程溝通中，nuance 能幫你避免需求誤讀：例如 must、should、may 的差別不是文字裝飾，而是合約與行為邊界。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Cambridge Dictionary；核心義是外觀、意義、聲音等方面的細微差異。",
-    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
-    "DICTIONARY_LABEL": "Cambridge Dictionary",
-    "MODERN_SOURCE_NOTE": "現代例句支持它用於 language、expression 與描述脈絡中會影響解讀的小差異。",
-    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
-    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
-    "CHECK_MEANING": "我能說出 <code>nuance</code> 和 <code>detail</code> 的差異。",
-    "CHECK_ORIGIN": "我記得它和雲、陰影、色階變化的字源畫面有關。",
-    "CHECK_SENTENCE": "我能用它造一句需求、翻譯或人際語氣情境的英文句子。",
-    "PRACTICE_SENTENCE": "The nuance is that _____ means _____, while _____ only means _____.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/nuance",
-    "REFERENCE_LABEL": "Cambridge Dictionary"
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "NOO-ahns · UK /ˈnjuː.ɒns/ · US /ˈnuː.ɑːns/",
+    "hero": {
+      "thesis": "不是把事情講得更複雜，而是看見那些真的會改變意思的細微差別。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.09"
+    },
+    "coreIdea": "<code>nuance</code> 是很小卻有意義的差異；它可能很細微，但會改變語氣、意思、解讀或反應。",
+    "definition": {
+      "summary": "意義、外觀、聲音、感受或意見上的非常細微差異。",
+      "contrast": {
+        "word": "Detail",
+        "note": "Detail 是細節；nuance 是會改變語氣、意思或判斷方向的細微差別。"
+      },
+      "flow": [
+        "細微差異",
+        "意思被改變",
+        "判斷更精準"
+      ]
+    },
+    "memory": {
+      "hook": "<code>nuance</code> 是會改變句子的那一層色階。",
+      "explanation": "同一句話，換一個 modal verb、換一個語氣、換一個上下文，意思可能從建議變成命令。Nuance 就在這種細微轉向裡。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她的回覆有一個 <code>nuance</code>：她同意的是目標，不是計畫本身。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "這條 requirement 有重要 nuance：device 必須自動恢復，而不是只回報 failure。"
+      },
+      {
+        "label": "延伸版",
+        "body": "好的翻譯會保留 <code>nuance</code>，尤其當一個詞帶有社交距離、禮貌或不確定性時。"
+      }
+    ],
+    "collocations": {
+      "note": "Nuance 常和 capture、understand、subtle、important 搭配，表示你注意到細微但有意義的差別。",
+      "items": [
+        {
+          "phrase": "a subtle nuance",
+          "register": "一般 / 描述",
+          "note": "強調差異不明顯，但值得辨認。"
+        },
+        {
+          "phrase": "capture the nuance",
+          "register": "寫作 / 設計 / 翻譯",
+          "note": "表示把原本細膩的語氣、含義或層次保留下來。"
+        },
+        {
+          "phrase": "lose the nuance",
+          "register": "評論 / 分析",
+          "note": "用於批評過度簡化，導致真正重要的差別消失。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "會改變解讀的細微差異",
+        "use": "談語氣、翻譯、需求、設計判斷、人際暗示。"
+      },
+      "others": [
+        {
+          "word": "subtlety",
+          "meaning": "細膩、不明顯的性質，範圍比 nuance 更廣",
+          "use": "當你要稱讚作品、手法或觀察本身很細膩時。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在網路討論中，nuance 常用來反對二分法：問題不是 A 或 B，而是條件、程度與脈絡會改變答案。",
+      "在工程溝通中，nuance 能幫你避免需求誤讀：例如 must、should、may 的差別不是文字裝飾，而是合約與行為邊界。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Cambridge Dictionary；核心義是外觀、意義、聲音等方面的細微差異。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/nuance",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "現代例句支持它用於 language、expression 與描述脈絡中會影響解讀的小差異。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/nuance",
+        "label": "Cambridge Dictionary"
+      }
+    },
+    "origin": {
+      "history": "<code>nuance</code> 從 French <code>nuance</code> 進入英文，原本指細微差別或色彩明暗。字源畫面連到雲與陰影：顏色像陰天的天空一樣柔和變化。",
+      "memoryLens": "想像雲層不是一片白，而是一層層灰、藍、銀。Nuance 就是那些不大聲，卻讓整個畫面變準的色階。"
+    }
   },
   "indexEntry": {
     "id": "nuance",

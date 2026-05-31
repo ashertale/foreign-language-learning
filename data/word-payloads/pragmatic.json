@@ -4,58 +4,98 @@
     "slug": "pragmatic",
     "outputPath": "prototypes/pragmatic.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Pragmatic",
-    "WORD_SLUG": "pragmatic",
-    "WORD_LOWER": "pragmatic",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "prag-MAT-ik · UK /præɡˈmæt.ɪk/ · US /præɡˈmæt̬.ɪk/",
-    "THESIS": "不是「沒有理想」，而是在真實限制裡找出能推動事情前進的做法。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.49",
-    "CORE_IDEA": "<code>pragmatic</code> 的選擇不崇拜理論或情緒；它會問：在目前限制下，哪個行動最可能真的有效？",
-    "SHORT_DEFINITION": "依照實際情境做出實用且理性的選擇，而不是僵硬服從理論或理想計畫。",
-    "CONFUSION_WORD": "Practical",
-    "CONFUSION_NOTE": "Practical 偏「可用、實用」；pragmatic 更像一種決策態度：看清條件後，選擇最能運作的路。",
-    "FLOW_1": "真實限制存在",
-    "FLOW_2": "選擇可運作路線",
-    "FLOW_3": "事情往前推進",
-    "ORIGIN_PARAGRAPH": "<code>pragmatic</code> 可追到 Greek <code>pragma</code>，意思是 deed、matter、affair 或 thing done。字源畫面不是抽象美感，而是已經在世界裡發生的行動與事情。",
-    "ORIGIN_MEMORY": "把 pragmatic 想成「事情已經在桌上了」：不是空談原則，而是面對這件事、這些條件、這個時間點，做出能動的選擇。",
-    "MEMORY_HOOK": "<code>pragmatic</code> 是會問「這週能安全 ship 什麼？」的工程師。",
-    "MEMORY_EXPLANATION": "這個鉤子不等於放棄品質，而是把品質放進現實條件中衡量：時間、人力、風險、可測性、後續維護。",
-    "DAILY_USAGE": "我本來想要完美計畫，但最後採取 <code>pragmatic route</code>，先解掉最急的部分。",
-    "PROFESSIONAL_USAGE": "團隊做了 pragmatic trade-off：保留穩定 driver path，並把風險較高的 optimization 放在 feature flag 後面。",
-    "DOMAIN_USAGE": "<code>pragmatic policy</code> 會承認人是在 incentives 下行動，而不是在整齊圖表裡行動。",
-    "COLLOCATION_NOTE": "Pragmatic 常和 approach、decision、solution 連用，語氣像是在稱讚一種清醒的現實感。",
-    "COLLOCATION_1": "a pragmatic approach",
-    "REGISTER_1": "一般 / 專業",
-    "COLLOCATION_NOTE_1": "最常用，表示處理問題時不拘泥理論，而是看情況找能運作的方法。",
-    "COLLOCATION_2": "a pragmatic decision",
-    "REGISTER_2": "商務 / 專案",
-    "COLLOCATION_NOTE_2": "常用於時間、成本、風險互相拉扯時做出的可行選擇。",
-    "COLLOCATION_3": "for pragmatic reasons",
-    "REGISTER_3": "正式 / 解釋",
-    "COLLOCATION_NOTE_3": "用來說明某選擇不是因為偏好，而是因為限制、資源或現況要求。",
-    "NEIGHBOR_SELF": "在現實限制中選擇可行手段",
-    "NEIGHBOR_SELF_USE": "描述決策、策略、工程取捨、管理方法。",
-    "NEIGHBOR_1": "idealistic",
-    "NEIGHBOR_1_MEANING": "依照理想、原則或願景行動，即使短期不一定可行",
-    "NEIGHBOR_1_USE": "當你要強調價值、願景、道德原則或長期目標時。",
-    "MODERN_USE_1": "在產品與工程語境中，pragmatic 常用來描述「不完美但可部署、可回滾、可觀測」的解法。",
-    "MODERN_USE_2": "在政治或商務語境中，它常表示願意談判、調整、接受現實成本；語氣可正可負，取決於說話者是否欣賞這種取捨。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Cambridge Dictionary；核心義是依照真實條件理性地解決問題。",
-    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
-    "DICTIONARY_LABEL": "Cambridge Dictionary",
-    "MODERN_SOURCE_NOTE": "Cambridge corpus 例句顯示它常用於商務、研究、記號系統與實用推理語境。",
-    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
-    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
-    "CHECK_MEANING": "我能說出 <code>pragmatic</code> 和 <code>practical</code> 的差異。",
-    "CHECK_ORIGIN": "我記得它和 Greek <code>pragma</code>「事情、行動、已完成之事」有關。",
-    "CHECK_SENTENCE": "我能用它造一句工程、決策或專案取捨情境的英文句子。",
-    "PRACTICE_SENTENCE": "A pragmatic solution would be to _____ first, then revisit _____ after we have data.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
-    "REFERENCE_LABEL": "Cambridge Dictionary"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "prag-MAT-ik · UK /præɡˈmæt.ɪk/ · US /præɡˈmæt̬.ɪk/",
+    "hero": {
+      "thesis": "不是「沒有理想」，而是在真實限制裡找出能推動事情前進的做法。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.49"
+    },
+    "coreIdea": "<code>pragmatic</code> 的選擇不崇拜理論或情緒；它會問：在目前限制下，哪個行動最可能真的有效？",
+    "definition": {
+      "summary": "依照實際情境做出實用且理性的選擇，而不是僵硬服從理論或理想計畫。",
+      "contrast": {
+        "word": "Practical",
+        "note": "Practical 偏「可用、實用」；pragmatic 更像一種決策態度：看清條件後，選擇最能運作的路。"
+      },
+      "flow": [
+        "真實限制存在",
+        "選擇可運作路線",
+        "事情往前推進"
+      ]
+    },
+    "memory": {
+      "hook": "<code>pragmatic</code> 是會問「這週能安全 ship 什麼？」的工程師。",
+      "explanation": "這個鉤子不等於放棄品質，而是把品質放進現實條件中衡量：時間、人力、風險、可測性、後續維護。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "我本來想要完美計畫，但最後採取 <code>pragmatic route</code>，先解掉最急的部分。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "團隊做了 pragmatic trade-off：保留穩定 driver path，並把風險較高的 optimization 放在 feature flag 後面。"
+      },
+      {
+        "label": "延伸版",
+        "body": "<code>pragmatic policy</code> 會承認人是在 incentives 下行動，而不是在整齊圖表裡行動。"
+      }
+    ],
+    "collocations": {
+      "note": "Pragmatic 常和 approach、decision、solution 連用，語氣像是在稱讚一種清醒的現實感。",
+      "items": [
+        {
+          "phrase": "a pragmatic approach",
+          "register": "一般 / 專業",
+          "note": "最常用，表示處理問題時不拘泥理論，而是看情況找能運作的方法。"
+        },
+        {
+          "phrase": "a pragmatic decision",
+          "register": "商務 / 專案",
+          "note": "常用於時間、成本、風險互相拉扯時做出的可行選擇。"
+        },
+        {
+          "phrase": "for pragmatic reasons",
+          "register": "正式 / 解釋",
+          "note": "用來說明某選擇不是因為偏好，而是因為限制、資源或現況要求。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在現實限制中選擇可行手段",
+        "use": "描述決策、策略、工程取捨、管理方法。"
+      },
+      "others": [
+        {
+          "word": "idealistic",
+          "meaning": "依照理想、原則或願景行動，即使短期不一定可行",
+          "use": "當你要強調價值、願景、道德原則或長期目標時。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品與工程語境中，pragmatic 常用來描述「不完美但可部署、可回滾、可觀測」的解法。",
+      "在政治或商務語境中，它常表示願意談判、調整、接受現實成本；語氣可正可負，取決於說話者是否欣賞這種取捨。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Cambridge Dictionary；核心義是依照真實條件理性地解決問題。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Cambridge corpus 例句顯示它常用於商務、研究、記號系統與實用推理語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/pragmatic",
+        "label": "Cambridge Dictionary"
+      }
+    },
+    "origin": {
+      "history": "<code>pragmatic</code> 可追到 Greek <code>pragma</code>，意思是 deed、matter、affair 或 thing done。字源畫面不是抽象美感，而是已經在世界裡發生的行動與事情。",
+      "memoryLens": "把 pragmatic 想成「事情已經在桌上了」：不是空談原則，而是面對這件事、這些條件、這個時間點，做出能動的選擇。"
+    }
   },
   "indexEntry": {
     "id": "pragmatic",

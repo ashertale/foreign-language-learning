@@ -4,58 +4,98 @@
     "slug": "scrutinize",
     "outputPath": "prototypes/scrutinize.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Scrutinize",
-    "WORD_SLUG": "scrutinize",
-    "WORD_LOWER": "scrutinize",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "SKROO-tuh-nyze · UK /ˈskruː.tɪ.naɪz/ · US /ˈskruː.t̬ən.aɪz/",
-    "THESIS": "不是隨便看一眼，而是帶著懷疑與細節意識，把材料逐項翻開來檢查。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "2.76",
-    "CORE_IDEA": "<code>scrutinize</code> 表示非常仔細地檢查某物，通常因為準確性、風險或隱藏細節很重要。",
-    "SHORT_DEFINITION": "近距離且仔細地檢查，尤其為了找出問題、隱藏細節或真相。",
-    "CONFUSION_WORD": "Examine",
-    "CONFUSION_NOTE": "<code>examine</code> 是檢查；<code>scrutinize</code> 更像放大鏡下的嚴格審視。",
-    "FLOW_1": "重要材料出現",
-    "FLOW_2": "近距離檢查",
-    "FLOW_3": "隱藏細節被找出",
-    "ORIGIN_PARAGRAPH": "<code>scrutinize</code> 和 Latin <code>scrutari</code> 有關，意思是 search 或 examine。早期聯想像是在小碎片或雜物裡翻找真正重要的東西。",
-    "ORIGIN_MEMORY": "這個字可以想成在一堆碎片裡翻找：不是掃過表面，而是把角落也打開看。",
-    "MEMORY_HOOK": "<code>scrutinize</code> 是讓小字條款緊張起來的檢查。",
-    "MEMORY_EXPLANATION": "當你 scrutinize 一份規格、合約或 log，你不是在挑毛病取樂，而是在保護後續決策不要被藏起來的小細節擊中。",
-    "DAILY_USAGE": "她仔細檢查帳單，發現一筆不該出現的 charge，這就是 <code>scrutinized the bill</code>。",
-    "PROFESSIONAL_USAGE": "code review 時，團隊特別 <code>scrutinized the error path</code>，因為 failures 很罕見但代價很高。",
-    "DOMAIN_USAGE": "當 public risk 牽涉其中時，regulators 會 <code>scrutinize safety claims</code>。",
-    "COLLOCATION_NOTE": "<code>scrutinize</code> 常搭配 proposal、claim、evidence、record，語氣比 look at 強很多。",
-    "COLLOCATION_1": "scrutinize the evidence",
-    "REGISTER_1": "法律 / 分析",
-    "COLLOCATION_NOTE_1": "指仔細檢查證據是否真的支持結論。",
-    "COLLOCATION_2": "scrutinize a proposal",
-    "REGISTER_2": "商務 / 工程",
-    "COLLOCATION_NOTE_2": "指對計畫、設計或需求做嚴格審視。",
-    "COLLOCATION_3": "closely scrutinize",
-    "REGISTER_3": "正式",
-    "COLLOCATION_NOTE_3": "常見強調搭配，表示檢查密度非常高。",
-    "NEIGHBOR_SELF": "仔細、嚴格、帶懷疑地檢查",
-    "NEIGHBOR_SELF_USE": "風險高、細節多、需要找出隱藏問題時",
-    "NEIGHBOR_1": "Examine",
-    "NEIGHBOR_1_MEANING": "檢查或研究",
-    "NEIGHBOR_1_USE": "一般檢查即可，不需要強調放大鏡式嚴格審視",
-    "MODERN_USE_1": "現代英文裡，<code>scrutinize</code> 常用於 documents、claims、spending、decisions、policies、evidence 與 code。",
-    "MODERN_USE_2": "在工程裡，當正常 happy path 不夠、review 必須聚焦 assumptions、edge cases 與 failure modes 時，這個字很好用。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心義是近距離且深入的檢查。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/scrutinize",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和證據、文件、支出、決策與主張等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/scrutinize",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 scrutinize 和 examine 的差異。",
-    "CHECK_ORIGIN": "我記得它有 search / examine closely 的字源畫面。",
-    "CHECK_SENTENCE": "我能用它造一句 code review、證據或設計審查情境的英文句子。",
-    "PRACTICE_SENTENCE": "We should <code>scrutinize</code> the recovery path before approving the bootloader change.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/scrutinize",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "SKROO-tuh-nyze · UK /ˈskruː.tɪ.naɪz/ · US /ˈskruː.t̬ən.aɪz/",
+    "hero": {
+      "thesis": "不是隨便看一眼，而是帶著懷疑與細節意識，把材料逐項翻開來檢查。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.76"
+    },
+    "coreIdea": "<code>scrutinize</code> 表示非常仔細地檢查某物，通常因為準確性、風險或隱藏細節很重要。",
+    "definition": {
+      "summary": "近距離且仔細地檢查，尤其為了找出問題、隱藏細節或真相。",
+      "contrast": {
+        "word": "Examine",
+        "note": "<code>examine</code> 是檢查；<code>scrutinize</code> 更像放大鏡下的嚴格審視。"
+      },
+      "flow": [
+        "重要材料出現",
+        "近距離檢查",
+        "隱藏細節被找出"
+      ]
+    },
+    "memory": {
+      "hook": "<code>scrutinize</code> 是讓小字條款緊張起來的檢查。",
+      "explanation": "當你 scrutinize 一份規格、合約或 log，你不是在挑毛病取樂，而是在保護後續決策不要被藏起來的小細節擊中。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她仔細檢查帳單，發現一筆不該出現的 charge，這就是 <code>scrutinized the bill</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "code review 時，團隊特別 <code>scrutinized the error path</code>，因為 failures 很罕見但代價很高。"
+      },
+      {
+        "label": "延伸版",
+        "body": "當 public risk 牽涉其中時，regulators 會 <code>scrutinize safety claims</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>scrutinize</code> 常搭配 proposal、claim、evidence、record，語氣比 look at 強很多。",
+      "items": [
+        {
+          "phrase": "scrutinize the evidence",
+          "register": "法律 / 分析",
+          "note": "指仔細檢查證據是否真的支持結論。"
+        },
+        {
+          "phrase": "scrutinize a proposal",
+          "register": "商務 / 工程",
+          "note": "指對計畫、設計或需求做嚴格審視。"
+        },
+        {
+          "phrase": "closely scrutinize",
+          "register": "正式",
+          "note": "常見強調搭配，表示檢查密度非常高。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "仔細、嚴格、帶懷疑地檢查",
+        "use": "風險高、細節多、需要找出隱藏問題時"
+      },
+      "others": [
+        {
+          "word": "Examine",
+          "meaning": "檢查或研究",
+          "use": "一般檢查即可，不需要強調放大鏡式嚴格審視"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>scrutinize</code> 常用於 documents、claims、spending、decisions、policies、evidence 與 code。",
+      "在工程裡，當正常 happy path 不夠、review 必須聚焦 assumptions、edge cases 與 failure modes 時，這個字很好用。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；核心義是近距離且深入的檢查。",
+        "url": "https://www.merriam-webster.com/dictionary/scrutinize",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和證據、文件、支出、決策與主張等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/scrutinize",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>scrutinize</code> 和 Latin <code>scrutari</code> 有關，意思是 search 或 examine。早期聯想像是在小碎片或雜物裡翻找真正重要的東西。",
+      "memoryLens": "這個字可以想成在一堆碎片裡翻找：不是掃過表面，而是把角落也打開看。"
+    }
   },
   "indexEntry": {
     "id": "scrutinize",

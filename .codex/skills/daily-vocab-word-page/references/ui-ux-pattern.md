@@ -12,14 +12,14 @@ The page should feel like a quiet literary study sheet: soft paper background, r
 
 ## Navigation
 
-- Reading Path links to section ids: `core`, `definition`, `origin`, `memory`, `usage`, `collocations`, `neighbors`, `modern`, `sources`, `practice`.
+- Reading Path links to section ids: `core`, `definition`, optional `origin`, `memory`, `usage`, `collocations`, `neighbors`, `modern`, and `sources`.
 - Add `scroll-padding-top` to `html` and `scroll-margin-top` to anchor sections so sticky topbar does not cover headings.
 - After adding/removing sections, update Reading Path and verify anchor positions.
 
 ## Interaction
 
 - `data-speak` buttons use browser speech synthesis for quick pronunciation.
-- `data-check` checkboxes persist active-recall state in `localStorage` keyed by page filename.
+- Single-word pages keep interaction light: pronunciation is local to the page, while active recall belongs in `review.html`.
 - Keep interactions optional. The page should still be useful when JavaScript is disabled, except for speech.
 - Do not add page-local search, flashcards, review queues, or dashboard controls to a single-word page. Those belong in management/review pages.
 
@@ -37,7 +37,7 @@ The page should feel like a quiet literary study sheet: soft paper background, r
 - Tables may scroll inside `.table-wrap` on mobile.
 - No console errors.
 - Pronunciation button resets its label after playback or error.
-- Active-recall checkbox state persists after reload and is scoped by filename.
+- Single-word pages do not render `data-check` inputs; review state is owned by `review.html`.
 - `Word NN` in the hero matches `prototypes/word-index.js` after running `uv run python scripts/sync_word_numbers.py --check`.
 - Hard refresh or cache-busting may be needed while testing Live Server.
 
@@ -49,10 +49,10 @@ For each new page, check:
 
 - `<title>`, `<h1>`, and hero `.kicker` match the chosen word, part of speech, and index order.
 - `word-page.css` and `word-page.js` are linked externally.
-- Reading Path contains links for `#core`, `#definition`, `#origin`, `#memory`, `#usage`, `#collocations`, `#neighbors`, `#modern`, `#sources`, and `#practice`.
+- Reading Path contains links for `#core`, `#definition`, optional `#origin`, `#memory`, `#usage`, `#collocations`, `#neighbors`, `#modern`, and `#sources`.
 - Each Reading Path link has a matching section id, with no duplicate ids.
 - Exactly one pronunciation button has `data-speak`.
-- Exactly three active-recall checkboxes have `data-check`.
-- There are three source cards and three to five collocation cards.
+- No single-word page contains `data-check` active-recall inputs.
+- Source cards and collocation cards match the semantic payload rather than a fixed template count.
 - `prototypes/word-index.js` contains the matching `id`, `word`, `partOfSpeech`, `href`, `thesis`, `tags`, and `checks`.
 - `uv run python scripts/sync_word_numbers.py --check` passes; if `uv` is not on PATH, resolve the mise-managed `uv.exe` path before giving up.

@@ -1,3 +1,15 @@
+# Payload Shape
+
+單字頁 payload 現在使用語意資料模型，不再使用 `templatePlaceholders`。
+
+重點：
+
+- `page` 是內容主體；把它當成段落與區塊的語意容器，不是逐格填空。
+- `usage`、`collocations.items`、`neighbors.others`、`modernUse` 都是可伸縮陣列；依單字本身決定重點，不要為了湊版面硬塞句子。
+- `page.sources.dictionary` 與 `page.sources.modern` 是 learner-facing source notes；`sourceAudit` 則是驗證與追蹤來源政策用的機器可檢查資料。
+- 參考框會直接重用 `page.sources.dictionary`，不再另外維護 `REFERENCE_*` 欄位。
+
+```json
 {
   "target": {
     "word": "Ephemeral",
@@ -25,9 +37,13 @@
         "消失"
       ]
     },
+    "origin": {
+      "history": "<code>ephemeral</code> 來自 Greek <code>ephēmeros</code>，意思接近「只持續一天」。",
+      "memoryLens": "它不是冷冰冰地說某物很短，而是提醒你：有些東西從一開始就帶著結束的影子。"
+    },
     "memory": {
       "hook": "<code>ephemeral</code> 是早晨玻璃上的霧氣：你看見它時，它已經正在消失。",
-      "explanation": "這個字的美感在於張力：越短暫，越需要被注意。它常用來描述自然現象、情緒、潮流、數位內容，甚至某個轉瞬即逝的靈感。"
+      "explanation": "這個字的美感在於張力：越短暫，越需要被注意。"
     },
     "usage": [
       {
@@ -37,14 +53,10 @@
       {
         "label": "數位 / 專業版",
         "body": "限時動態、閱後即焚訊息、即時熱搜，都帶著 <code>ephemeral</code> 的特性：出現很快，退場也很快。"
-      },
-      {
-        "label": "延伸版",
-        "body": "臨時容器、短生命週期 token、一次性 build artifact，都可以被描述為 ephemeral resources。"
       }
     ],
     "collocations": {
-      "note": "這一區不重複「對立與鄰近概念」：下方是 <code>ephemeral + noun</code> 的自然搭配；後面的辨析表才處理 <code>ephemeral</code>、<code>temporary</code>、<code>transient</code> 之間的概念邊界。",
+      "note": "這裡放自然搭配；相似字的概念邊界留到辨析表處理。",
       "items": [
         {
           "phrase": "ephemeral beauty",
@@ -55,11 +67,6 @@
           "phrase": "ephemeral moment",
           "register": "敘事 / 日常書寫",
           "note": "比 <code>short moment</code> 更有「一閃即逝但值得記住」的味道。"
-        },
-        {
-          "phrase": "ephemeral content",
-          "register": "數位產品 / 社群平台",
-          "note": "常用來談限時動態、短生命週期貼文、會自動消失的內容設計。"
         }
       ]
     },
@@ -77,24 +84,20 @@
       ]
     },
     "modernUse": [
-      "在現代生活裡，<code>ephemeral</code> 變得特別常見，因為很多內容被設計成快速出現、快速消失。社群平台的限時內容讓人感覺「現在不看就沒了」，也把注意力變成一種被時間追趕的資源。",
-      "在科技語境中，<code>ephemeral</code> 也很實用。像 ephemeral environments、ephemeral ports、ephemeral keys，都暗示這些東西不該被長期依賴；它們的價值在於短生命週期與可替換性。"
+      "在現代生活裡，<code>ephemeral</code> 常跟會快速消失的內容一起出現，讓注意力本身也帶上時間壓力。",
+      "在科技語境中，像 ephemeral environments、ephemeral ports、ephemeral keys，都暗示這些東西不該被長期依賴。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、音標與「lasting for only a short time」的核心義，主要參考 Cambridge Dictionary；例句與近義詞只作語感輔助。",
+        "note": "定義、音標與核心義主要參考 Cambridge Dictionary；例句與近義詞只作語感輔助。",
         "url": "https://dictionary.cambridge.org/dictionary/english/ephemeral",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "蜉蝣、短命植物與短期熱病是詞史常見說明；社群限時內容與工程 ephemeral resources 則屬現代用法延伸，不當作古典字源。",
+        "note": "社群限時內容與工程 ephemeral resources 屬現代用法延伸，不當作古典字源。",
         "url": "https://www.merriam-webster.com/dictionary/ephemeral",
         "label": "Merriam-Webster"
       }
-    },
-    "origin": {
-      "history": "<code>ephemeral</code> 來自 Greek <code>ephēmeros</code>，意思接近「只持續一天」。其中 <code>hēmera</code> 是 day。這個字一開始常和壽命極短的生物或現象相連，後來延伸到所有短暫存在的事物。",
-      "memoryLens": "你可以把它記成「一天之內開場、發光、退場」的生命感。它不是冷冰冰地說某物很短，而是提醒你：有些東西從一開始就帶著結束的影子。"
     }
   },
   "indexEntry": {
@@ -108,24 +111,12 @@
       "詩意",
       "temporary",
       "transient",
-      "數位內容",
-      "ephemeral content",
-      "ephemeral message",
-      "engineering",
       "adjective"
     ],
     "checks": [
       {
         "id": "meaning",
         "label": "說出 ephemeral 和 temporary 的差異"
-      },
-      {
-        "id": "origin",
-        "label": "記得它和「一天」的字源畫面有關"
-      },
-      {
-        "id": "sentence",
-        "label": "用它造一句自然、情緒或數位內容的英文句子"
       }
     ]
   },
@@ -156,3 +147,4 @@
     }
   ]
 }
+```

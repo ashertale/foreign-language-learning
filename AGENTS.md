@@ -19,10 +19,10 @@
 
 - `data/word-payloads/*.json`：單字頁的可審核內容來源；每個 payload 對應一個 `prototypes/<slug>.html`。
 - `data/word-batches/*.tsv`：可選的批次 manifest；通常只列出 payload JSON 路徑，不是 runtime asset，也不是 payload 的替代品。
-- `.codex/skills/daily-vocab-word-page/assets/template/`：單字頁 template 與 payload skeleton 的實際 contract 來源。
-- `prototypes/<slug>.html`：由 payload + template 生成的單字深讀頁。
+- `.codex/skills/daily-vocab-word-page/references/`：單字頁內容模型與 payload shape 參考；不再用 prose template 當內容 contract。
+- `prototypes/<slug>.html`：由語意化 payload 經 `scripts/render_word_page.py` 生成的單字深讀頁。
 - `prototypes/word-index.js`：單字庫索引與畫面上的 `Word NN` 編號來源；`order` 必須連續。
-- `prototypes/word-page.css`、`prototypes/word-page.js`：所有單字頁共用的閱讀版型、發音與 active recall checkbox persistence。
+- `prototypes/word-page.css`、`prototypes/word-page.js`：所有單字頁共用的閱讀版型與發音互動。
 - `prototypes/index.html`、`prototypes/manage-page.*`：單字庫、搜尋、排序、隨機閱讀入口。
 - `prototypes/backlog.html`、`prototypes/backlog-page.js`：陌生字待補清單，使用 `localStorage`，並避免與既有單字頁重複。
 - `prototypes/review.html`、`prototypes/review-page.js`：主動回想複習頁，依 local review state 排程下一次複習。
@@ -40,10 +40,10 @@
 
 - 教學重點是「概念、語氣、使用場景」，不是只給中文翻譯。
 - 字源、歷史與現代用法要分清楚；記憶故事可以生動，但不可偽裝成史實。
-- 單字頁應包含核心概念、精簡定義、字源、記憶鉤子、情境例子、搭配詞、鄰近字辨析、來源備註與主動回想。
+- 單字頁應包含核心概念、精簡定義、字源、記憶鉤子、情境例子、搭配詞、鄰近字辨析與來源備註；主動回想留在 `review.html`。
 - `IPA` 使用精簡格式，例如 `ih-FEM-er-uhl · UK /.../ · US /.../`；不要回到 `Respelling`、`UK IPA`、`US IPA` 這種舊標籤。
 - CEFR 是 repo-calibrated study band；Zipf 參考 `wordfreq`，不要寫成外部單一字典給出的 CEFR 真值。
-- 來源欄位、`REFERENCE_*` 與 `sourceAudit` 必須互相一致；不要混用 label 與 URL。
+- 來源欄位 `page.sources.*` 與 `sourceAudit` 必須互相一致；不要混用 label 與 URL。
 
 ## 常用工作流程
 
@@ -117,7 +117,7 @@
   ```powershell
   git diff --check
   ```
-- 修改 HTML/CSS/JS 後，盡量檢查瀏覽器 console、桌面/手機版面、anchor offset、搜尋、checkbox 與發音按鈕。
+- 修改 HTML/CSS/JS 後，盡量檢查瀏覽器 console、桌面/手機版面、anchor offset、搜尋、發音按鈕與複習互動。
 - 修改單字頁、payload 或 `word-index.js` 後，至少執行：
   ```powershell
   uv run python scripts\validate_word_pages.py

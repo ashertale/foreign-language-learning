@@ -4,58 +4,98 @@
     "slug": "deliberate",
     "outputPath": "prototypes/deliberate.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Deliberate",
-    "WORD_SLUG": "deliberate",
-    "WORD_LOWER": "deliberate",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "dih-LIB-er-uht · UK /dɪˈlɪb.ər.ət/ · US /dɪˈlɪb.ɚ.ət/",
-    "THESIS": "不是慢吞吞，而是經過衡量、知道自己為什麼這樣做的有意識選擇。",
-    "CEFR_LEVEL": "B2",
-    "ZIPF_FREQUENCY": "3.82",
-    "CORE_IDEA": "<code>deliberate</code> 形容一個行動或選擇是有意識、經思考、帶目的地做出來的。",
-    "SHORT_DEFINITION": "有意且通常經過思考後做出；不是意外、反射或一時衝動。",
-    "CONFUSION_WORD": "Careful",
-    "CONFUSION_NOTE": "<code>careful</code> 強調避免錯誤；<code>deliberate</code> 強調有意識、有目的、有衡量。",
-    "FLOW_1": "停下來衡量",
-    "FLOW_2": "帶著意圖選擇",
-    "FLOW_3": "明知其取捨而行動",
-    "ORIGIN_PARAGRAPH": "<code>deliberate</code> 來自 Latin <code>deliberare</code>，和 weighing well 有關。字源畫面像是在行動前把選項放上天秤。",
-    "ORIGIN_MEMORY": "這個字可以用天秤記：不是拖延，而是把成本、風險、目的放上去量過。",
-    "MEMORY_HOOK": "<code>deliberate</code> 的改動會留下意圖的指紋。",
-    "MEMORY_EXPLANATION": "如果一個改動是 deliberate，你應該能指出它為什麼存在、服務哪個目標、接受哪個取捨。它不是碰巧變成那樣。",
-    "DAILY_USAGE": "她回答前刻意深呼吸、仔細選字，這個動作可以說是 <code>deliberate</code>。",
-    "PROFESSIONAL_USAGE": "團隊做了一個 <code>deliberate trade-off</code>：接受較慢的 boot time，換取更安全的 recovery。",
-    "DOMAIN_USAGE": "在設計裡，<code>deliberate friction</code> 可以讓使用者在 destructive action 前慢下來確認。",
-    "COLLOCATION_NOTE": "<code>deliberate</code> 常搭配 choice、effort、attempt、trade-off，表示不是偶然。",
-    "COLLOCATION_1": "deliberate choice",
-    "REGISTER_1": "一般 / 專業",
-    "COLLOCATION_NOTE_1": "指做法背後有明確意圖與衡量。",
-    "COLLOCATION_2": "deliberate effort",
-    "REGISTER_2": "學習 / 工作",
-    "COLLOCATION_NOTE_2": "指有目標、有方法地投入，而不是只是花時間。",
-    "COLLOCATION_3": "deliberate trade-off",
-    "REGISTER_3": "工程 / 產品",
-    "COLLOCATION_NOTE_3": "指明知兩邊不能兼得，仍根據優先順序做選擇。",
-    "NEIGHBOR_SELF": "有意識、經衡量、帶目的的",
-    "NEIGHBOR_SELF_USE": "要強調某行動不是偶然或衝動時",
-    "NEIGHBOR_1": "Careful",
-    "NEIGHBOR_1_MEANING": "小心、避免錯誤",
-    "NEIGHBOR_1_USE": "當重點是謹慎程度，而不是意圖或選擇過程",
-    "MODERN_USE_1": "現代英文裡，<code>deliberate</code> 常用於 choices、attempts、practice、movements 與 trade-offs，強調有意識而非偶然。",
-    "MODERN_USE_2": "在工程文件裡，它很適合用來記錄 intent：一個 deliberate constraint、delay 或 simplification 都應該有理由。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心義是有意、謹慎且經過思考。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/deliberate",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和選擇、行動、嘗試、節制的動作等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/deliberate",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 deliberate 和 careful 的差異。",
-    "CHECK_ORIGIN": "我記得它有「行動前先衡量選項」的畫面。",
-    "CHECK_SENTENCE": "我能用它造一句設計取捨、學習或工程決策情境的英文句子。",
-    "PRACTICE_SENTENCE": "The delay was a <code>deliberate</code> choice to let the sensor stabilize before sampling.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/deliberate",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "dih-LIB-er-uht · UK /dɪˈlɪb.ər.ət/ · US /dɪˈlɪb.ɚ.ət/",
+    "hero": {
+      "thesis": "不是慢吞吞，而是經過衡量、知道自己為什麼這樣做的有意識選擇。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.82"
+    },
+    "coreIdea": "<code>deliberate</code> 形容一個行動或選擇是有意識、經思考、帶目的地做出來的。",
+    "definition": {
+      "summary": "有意且通常經過思考後做出；不是意外、反射或一時衝動。",
+      "contrast": {
+        "word": "Careful",
+        "note": "<code>careful</code> 強調避免錯誤；<code>deliberate</code> 強調有意識、有目的、有衡量。"
+      },
+      "flow": [
+        "停下來衡量",
+        "帶著意圖選擇",
+        "明知其取捨而行動"
+      ]
+    },
+    "memory": {
+      "hook": "<code>deliberate</code> 的改動會留下意圖的指紋。",
+      "explanation": "如果一個改動是 deliberate，你應該能指出它為什麼存在、服務哪個目標、接受哪個取捨。它不是碰巧變成那樣。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她回答前刻意深呼吸、仔細選字，這個動作可以說是 <code>deliberate</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "團隊做了一個 <code>deliberate trade-off</code>：接受較慢的 boot time，換取更安全的 recovery。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在設計裡，<code>deliberate friction</code> 可以讓使用者在 destructive action 前慢下來確認。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>deliberate</code> 常搭配 choice、effort、attempt、trade-off，表示不是偶然。",
+      "items": [
+        {
+          "phrase": "deliberate choice",
+          "register": "一般 / 專業",
+          "note": "指做法背後有明確意圖與衡量。"
+        },
+        {
+          "phrase": "deliberate effort",
+          "register": "學習 / 工作",
+          "note": "指有目標、有方法地投入，而不是只是花時間。"
+        },
+        {
+          "phrase": "deliberate trade-off",
+          "register": "工程 / 產品",
+          "note": "指明知兩邊不能兼得，仍根據優先順序做選擇。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "有意識、經衡量、帶目的的",
+        "use": "要強調某行動不是偶然或衝動時"
+      },
+      "others": [
+        {
+          "word": "Careful",
+          "meaning": "小心、避免錯誤",
+          "use": "當重點是謹慎程度，而不是意圖或選擇過程"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>deliberate</code> 常用於 choices、attempts、practice、movements 與 trade-offs，強調有意識而非偶然。",
+      "在工程文件裡，它很適合用來記錄 intent：一個 deliberate constraint、delay 或 simplification 都應該有理由。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；核心義是有意、謹慎且經過思考。",
+        "url": "https://www.merriam-webster.com/dictionary/deliberate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和選擇、行動、嘗試、節制的動作等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/deliberate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>deliberate</code> 來自 Latin <code>deliberare</code>，和 weighing well 有關。字源畫面像是在行動前把選項放上天秤。",
+      "memoryLens": "這個字可以用天秤記：不是拖延，而是把成本、風險、目的放上去量過。"
+    }
   },
   "indexEntry": {
     "id": "deliberate",

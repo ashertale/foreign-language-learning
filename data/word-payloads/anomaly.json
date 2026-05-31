@@ -4,58 +4,98 @@
     "slug": "anomaly",
     "outputPath": "prototypes/anomaly.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Anomaly",
-    "WORD_SLUG": "anomaly",
-    "WORD_LOWER": "anomaly",
-    "PART_OF_SPEECH": "noun",
-    "IPA": "uh-NAH-muh-lee · UK /əˈnɒm.ə.li/ · US /əˈnɑː.mə.li/",
-    "THESIS": "不是普通的「異常」，而是偏離預期模式到值得你停下來追問原因的訊號。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "3.47",
-    "CORE_IDEA": "<code>anomaly</code> 是偏離預期模式、因此值得追問原因的異常點。",
-    "SHORT_DEFINITION": "和正常、預期或周圍模式不一致的事物、事件或結果。",
-    "CONFUSION_WORD": "Error",
-    "CONFUSION_NOTE": "<code>error</code> 強調錯；<code>anomaly</code> 先強調不合模式，可能是錯誤，也可能是新現象。",
-    "FLOW_1": "預期模式存在",
-    "FLOW_2": "某一點偏離",
-    "FLOW_3": "追查原因",
-    "ORIGIN_PARAGRAPH": "<code>anomaly</code> 來自 Greek <code>anomalos</code>，意思是不平、 irregular。字源畫面像原本該平整的表面突然變得不平。",
-    "ORIGIN_MEMORY": "字源裡的「uneven」很適合記這個字：不是每個凸起都等於災難，但每個不平整處都值得看一眼。",
-    "MEMORY_HOOK": "<code>anomaly</code> 是那條拒絕和其他訊號對齊的 waveform。",
-    "MEMORY_EXPLANATION": "想像一排整齊的訊號，只有一條突然抖了一下。它不一定立刻告訴你答案，但它告訴你：這裡有東西不屬於原本的模式。",
-    "DAILY_USAGE": "一間店週一通常很安靜，卻突然客滿，這種人潮就是值得注意的 <code>anomaly</code>。",
-    "PROFESSIONAL_USAGE": "在 firmware testing 中，<code>timing anomaly</code> 可能只在很窄的溫度或電源條件下出現。",
-    "DOMAIN_USAGE": "資料分析中的 <code>anomaly detection</code> 會找出明顯偏離預期分布的觀察值。",
-    "COLLOCATION_NOTE": "Anomaly 常和 detection、data、pattern、result 這類分析字搭配；後面的辨析處理它和 error 的界線。",
-    "COLLOCATION_1": "detect an anomaly",
-    "REGISTER_1": "資料 / 測試",
-    "COLLOCATION_NOTE_1": "強調從大量樣本中找出偏離正常行為的事件或資料點。",
-    "COLLOCATION_2": "statistical anomaly",
-    "REGISTER_2": "研究 / 分析",
-    "COLLOCATION_NOTE_2": "指統計上看起來不尋常的結果，可能需要更多資料確認。",
-    "COLLOCATION_3": "anomalous behavior",
-    "REGISTER_3": "資安 / 系統",
-    "COLLOCATION_NOTE_3": "形容系統、使用者或設備行為偏離平常模式。",
-    "NEIGHBOR_SELF": "偏離預期模式，先要求解釋",
-    "NEIGHBOR_SELF_USE": "資料、測試、系統或事件和背景規律不合時",
-    "NEIGHBOR_1": "Error",
-    "NEIGHBOR_1_MEANING": "已判定不正確或失敗",
-    "NEIGHBOR_1_USE": "當你已經知道結果是錯的，而不是只知道它不尋常",
-    "MODERN_USE_1": "現代英文裡，<code>anomaly</code> 常出現在科學、金融、資安、製造與工程中，描述不符合預期模型的案例。",
-    "MODERN_USE_2": "這個字好用的地方是保留調查空間：anomaly 可能是 bug、sensor issue、罕見條件，也可能是模型尚未學到的新模式。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義與名詞用法參考 Merriam-Webster；核心義是不同於正常或預期。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/anomaly",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它用於 unusual facts、deviations 與 exceptional cases。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/anomaly",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 anomaly 和 error 的差異。",
-    "CHECK_ORIGIN": "我記得它的字源畫面是 uneven 或 irregular。",
-    "CHECK_SENTENCE": "我能用它造一句測試、資料或系統觀察情境的英文句子。",
-    "PRACTICE_SENTENCE": "The only <code>anomaly</code> in the log is a voltage dip that appears before the reset.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/anomaly",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-NAH-muh-lee · UK /əˈnɒm.ə.li/ · US /əˈnɑː.mə.li/",
+    "hero": {
+      "thesis": "不是普通的「異常」，而是偏離預期模式到值得你停下來追問原因的訊號。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.47"
+    },
+    "coreIdea": "<code>anomaly</code> 是偏離預期模式、因此值得追問原因的異常點。",
+    "definition": {
+      "summary": "和正常、預期或周圍模式不一致的事物、事件或結果。",
+      "contrast": {
+        "word": "Error",
+        "note": "<code>error</code> 強調錯；<code>anomaly</code> 先強調不合模式，可能是錯誤，也可能是新現象。"
+      },
+      "flow": [
+        "預期模式存在",
+        "某一點偏離",
+        "追查原因"
+      ]
+    },
+    "memory": {
+      "hook": "<code>anomaly</code> 是那條拒絕和其他訊號對齊的 waveform。",
+      "explanation": "想像一排整齊的訊號，只有一條突然抖了一下。它不一定立刻告訴你答案，但它告訴你：這裡有東西不屬於原本的模式。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一間店週一通常很安靜，卻突然客滿，這種人潮就是值得注意的 <code>anomaly</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在 firmware testing 中，<code>timing anomaly</code> 可能只在很窄的溫度或電源條件下出現。"
+      },
+      {
+        "label": "延伸版",
+        "body": "資料分析中的 <code>anomaly detection</code> 會找出明顯偏離預期分布的觀察值。"
+      }
+    ],
+    "collocations": {
+      "note": "Anomaly 常和 detection、data、pattern、result 這類分析字搭配；後面的辨析處理它和 error 的界線。",
+      "items": [
+        {
+          "phrase": "detect an anomaly",
+          "register": "資料 / 測試",
+          "note": "強調從大量樣本中找出偏離正常行為的事件或資料點。"
+        },
+        {
+          "phrase": "statistical anomaly",
+          "register": "研究 / 分析",
+          "note": "指統計上看起來不尋常的結果，可能需要更多資料確認。"
+        },
+        {
+          "phrase": "anomalous behavior",
+          "register": "資安 / 系統",
+          "note": "形容系統、使用者或設備行為偏離平常模式。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "偏離預期模式，先要求解釋",
+        "use": "資料、測試、系統或事件和背景規律不合時"
+      },
+      "others": [
+        {
+          "word": "Error",
+          "meaning": "已判定不正確或失敗",
+          "use": "當你已經知道結果是錯的，而不是只知道它不尋常"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>anomaly</code> 常出現在科學、金融、資安、製造與工程中，描述不符合預期模型的案例。",
+      "這個字好用的地方是保留調查空間：anomaly 可能是 bug、sensor issue、罕見條件，也可能是模型尚未學到的新模式。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與名詞用法參考 Merriam-Webster；核心義是不同於正常或預期。",
+        "url": "https://www.merriam-webster.com/dictionary/anomaly",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它用於 unusual facts、deviations 與 exceptional cases。",
+        "url": "https://www.merriam-webster.com/dictionary/anomaly",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>anomaly</code> 來自 Greek <code>anomalos</code>，意思是不平、 irregular。字源畫面像原本該平整的表面突然變得不平。",
+      "memoryLens": "字源裡的「uneven」很適合記這個字：不是每個凸起都等於災難，但每個不平整處都值得看一眼。"
+    }
   },
   "indexEntry": {
     "id": "anomaly",

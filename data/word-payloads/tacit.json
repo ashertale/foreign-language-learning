@@ -4,58 +4,98 @@
     "slug": "tacit",
     "outputPath": "prototypes/tacit.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Tacit",
-    "WORD_SLUG": "tacit",
-    "WORD_LOWER": "tacit",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "TAS-it · UK /ˈtæs.ɪt/ · US /ˈtæs.ɪt/",
-    "THESIS": "不是沒有說話，而是意思已經被沉默、慣例或行為默默承認了。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "2.94",
-    "CORE_IDEA": "<code>tacit</code> 表示某件事沒有直接說出口，卻已被理解或接受；共識藏在沉默、脈絡或行為裡。",
-    "SHORT_DEFINITION": "未直接說明，卻已被理解、接受或暗示。",
-    "CONFUSION_WORD": "Implicit",
-    "CONFUSION_NOTE": "Implicit 可泛指含蓄、隱含；tacit 更強調沉默中的理解、默許或未說出口的共識。",
-    "FLOW_1": "沉默",
-    "FLOW_2": "共享脈絡",
-    "FLOW_3": "意思被理解",
-    "ORIGIN_PARAGRAPH": "<code>tacit</code> 來自 Latin <code>tacitus</code>，意思是 silent 或 passed over in silence，並來自 <code>tacere</code>，意思是 to be silent。這個字保留了沉默核心。",
-    "ORIGIN_MEMORY": "把 tacit 想成會議裡沒人說出口的一句話：大家沒有宣讀規則，但所有人都照那條規則行動。",
-    "MEMORY_HOOK": "<code>tacit</code> 是寫在沉默裡的規則。",
-    "MEMORY_EXPLANATION": "一個團隊可能沒有文件說「release 前一定要找某人看過」，但每次都這樣做，這就是 tacit rule 或 tacit practice。",
-    "DAILY_USAGE": "大家有一個 <code>tacit agreement</code>：不再提那個舊錯誤。",
-    "PROFESSIONAL_USAGE": "團隊對 board bring-up sequence 有很多 <code>tacit knowledge</code>，卻從沒寫進文件。",
-    "DOMAIN_USAGE": "如果所有人都合理地把 manager 的沉默解讀成許可，那種沉默可能變成 <code>tacit approval</code>。",
-    "COLLOCATION_NOTE": "Tacit 最常搭配 agreement、approval、knowledge，全部都和「未明說但被理解」有關。",
-    "COLLOCATION_1": "tacit agreement",
-    "REGISTER_1": "正式 / 社交",
-    "COLLOCATION_NOTE_1": "沒有簽字或明說，但雙方行為顯示已有共識。",
-    "COLLOCATION_2": "tacit approval",
-    "REGISTER_2": "正式 / 批判",
-    "COLLOCATION_NOTE_2": "常帶責任意味：你沒阻止，可能等於默許。",
-    "COLLOCATION_3": "tacit knowledge",
-    "REGISTER_3": "專業 / 組織",
-    "COLLOCATION_NOTE_3": "指難以明文化、靠經驗與情境傳遞的知識。",
-    "NEIGHBOR_SELF": "沉默中被理解或默許",
-    "NEIGHBOR_SELF_USE": "談默契、默許、隱性規則、組織文化、未寫下的知識。",
-    "NEIGHBOR_1": "explicit",
-    "NEIGHBOR_1_MEANING": "明確說出、寫出或定義",
-    "NEIGHBOR_1_USE": "當你需要避免誤解、建立規範、寫需求或合約時。",
-    "MODERN_USE_1": "在知識管理中，tacit knowledge 是重要概念：工程師知道怎麼判斷異常聲音、訊號形狀或 bring-up 節奏，但未必能立刻寫成文件。",
-    "MODERN_USE_2": "在組織倫理中，tacit approval 常用來指出沉默也可能是一種行動，尤其當有權力的人選擇不表態時。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義與發音參考 Cambridge Dictionary；核心義是未直接說出卻已被理解。",
-    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/tacit",
-    "DICTIONARY_LABEL": "Cambridge Dictionary",
-    "MODERN_SOURCE_NOTE": "Cambridge 例句涵蓋 tacit approval、acceptance、agreement、supporters 與知識脈絡。",
-    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/tacit",
-    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
-    "CHECK_MEANING": "我能說出 <code>tacit</code> 和 <code>implicit</code> 的差異。",
-    "CHECK_ORIGIN": "我記得它來自 Latin <code>tacere</code>，意思是保持沉默。",
-    "CHECK_SENTENCE": "我能用它造一句團隊默契、默許或隱性知識的英文句子。",
-    "PRACTICE_SENTENCE": "The team had a tacit rule that _____, even though no one had written it down.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/tacit",
-    "REFERENCE_LABEL": "Cambridge Dictionary"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAS-it · UK /ˈtæs.ɪt/ · US /ˈtæs.ɪt/",
+    "hero": {
+      "thesis": "不是沒有說話，而是意思已經被沉默、慣例或行為默默承認了。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.94"
+    },
+    "coreIdea": "<code>tacit</code> 表示某件事沒有直接說出口，卻已被理解或接受；共識藏在沉默、脈絡或行為裡。",
+    "definition": {
+      "summary": "未直接說明，卻已被理解、接受或暗示。",
+      "contrast": {
+        "word": "Implicit",
+        "note": "Implicit 可泛指含蓄、隱含；tacit 更強調沉默中的理解、默許或未說出口的共識。"
+      },
+      "flow": [
+        "沉默",
+        "共享脈絡",
+        "意思被理解"
+      ]
+    },
+    "memory": {
+      "hook": "<code>tacit</code> 是寫在沉默裡的規則。",
+      "explanation": "一個團隊可能沒有文件說「release 前一定要找某人看過」，但每次都這樣做，這就是 tacit rule 或 tacit practice。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "大家有一個 <code>tacit agreement</code>：不再提那個舊錯誤。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "團隊對 board bring-up sequence 有很多 <code>tacit knowledge</code>，卻從沒寫進文件。"
+      },
+      {
+        "label": "延伸版",
+        "body": "如果所有人都合理地把 manager 的沉默解讀成許可，那種沉默可能變成 <code>tacit approval</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Tacit 最常搭配 agreement、approval、knowledge，全部都和「未明說但被理解」有關。",
+      "items": [
+        {
+          "phrase": "tacit agreement",
+          "register": "正式 / 社交",
+          "note": "沒有簽字或明說，但雙方行為顯示已有共識。"
+        },
+        {
+          "phrase": "tacit approval",
+          "register": "正式 / 批判",
+          "note": "常帶責任意味：你沒阻止，可能等於默許。"
+        },
+        {
+          "phrase": "tacit knowledge",
+          "register": "專業 / 組織",
+          "note": "指難以明文化、靠經驗與情境傳遞的知識。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "沉默中被理解或默許",
+        "use": "談默契、默許、隱性規則、組織文化、未寫下的知識。"
+      },
+      "others": [
+        {
+          "word": "explicit",
+          "meaning": "明確說出、寫出或定義",
+          "use": "當你需要避免誤解、建立規範、寫需求或合約時。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在知識管理中，tacit knowledge 是重要概念：工程師知道怎麼判斷異常聲音、訊號形狀或 bring-up 節奏，但未必能立刻寫成文件。",
+      "在組織倫理中，tacit approval 常用來指出沉默也可能是一種行動，尤其當有權力的人選擇不表態時。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Cambridge Dictionary；核心義是未直接說出卻已被理解。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/tacit",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Cambridge 例句涵蓋 tacit approval、acceptance、agreement、supporters 與知識脈絡。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/tacit",
+        "label": "Cambridge Dictionary"
+      }
+    },
+    "origin": {
+      "history": "<code>tacit</code> 來自 Latin <code>tacitus</code>，意思是 silent 或 passed over in silence，並來自 <code>tacere</code>，意思是 to be silent。這個字保留了沉默核心。",
+      "memoryLens": "把 tacit 想成會議裡沒人說出口的一句話：大家沒有宣讀規則，但所有人都照那條規則行動。"
+    }
   },
   "indexEntry": {
     "id": "tacit",

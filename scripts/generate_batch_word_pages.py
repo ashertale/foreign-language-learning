@@ -5,58 +5,47 @@ import csv
 import sys
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
 
 from render_word_page import (
     ROOT,
-    TEMPLATE,
     WORD_INDEX,
     RenderError,
     existing_index_values,
     find_top_level_blocks,
     load_payload,
+    prepare_payload,
     read_text,
-    render_template,
+    render_page,
     render_word_page,
-    validate_content_contract,
-    validate_index_entry,
-    validate_placeholders,
-    validate_source_policy,
-    validate_target,
     write_text,
 )
 from sync_word_numbers import PROTOTYPES, sync_index, sync_page_kicker
 from validate_word_pages import validate_payload_page
 
+
 LLM_CONTENT_GUIDANCE = """\
-Write one complete, render-ready word-page payload for a serious English learner.
+Write one complete word-page payload for a serious English learner.
 
-The page should help the learner understand and use the word, not merely fill a
-uniform template. Let the word decide the emphasis:
+The payload must use the semantic `page` object used by this repo, not
+template placeholders. Think in sections, not slot-filling:
 
-- Teach the concept, tone, register, and real usage boundary before translation.
-- Use collocations as living usage anchors, not as decorative examples.
-- Separate collocations from neighbor-word distinctions: collocations show what
-  naturally pairs with the word; neighbor distinctions show what should not be
-  confused with it.
-- Make the origin and memory hook useful, but do not turn mnemonic images into
-  historical claims.
+- Explain the concept, tone, register, and real usage boundary before translation.
+- Let the word decide the emphasis. `usage`, `collocations.items`,
+  `neighbors.others`, and `modernUse` are flexible containers, not quotas.
+- Keep prose direct and concept-first. Do not write study-script lines such as
+  `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
+- Use collocations as living usage anchors and neighbors as confusion boundaries.
+- Keep mnemonic images separate from historical claims.
 - Prefer concise, specific Traditional Chinese learning prose with embedded
   English terms where they are the learning object.
-- Avoid repeating a stock sentence frame across words. If a word is concrete,
-  make the page concrete; if it is abstract, give the learner a usable mental
-  handle; if it is common in engineering, work, writing, emotion, law, or
-  finance, let that domain shape the examples.
-- The final artifact still needs to be a valid payload JSON for the repo
-  renderer. Treat placeholder keys as containers required by the HTML renderer,
-  not as a writing formula.
+- Keep `page.sources.*` and `sourceAudit` aligned to the actual source choices.
 """
 
 
 @dataclass(frozen=True)
 class PayloadInfo:
     path: Path
-    payload: dict[str, Any]
+    payload: dict
     slug: str
     word: str
     href: str
@@ -123,8 +112,8 @@ def payloads_from_manifest(path: Path) -> list[Path]:
             raise RenderError(
                 f"{project_path(path)} does not list payload JSON files. "
                 "This generator no longer builds page prose from TSV content columns; "
-                "ask the LLM to create complete payload JSON files first, then provide "
-                "a manifest with a payload column."
+                "prepare semantic payload JSON files first, then provide a manifest "
+                "with a payload column."
             )
 
         payload_paths: list[Path] = []
@@ -198,19 +187,14 @@ def inspect_payload(path: Path) -> PayloadInfo:
     if not path.is_file():
         raise RenderError(f"payload not found: {project_path(path)}")
     payload = load_payload(path)
-    template = read_text(TEMPLATE)
-    replacements = validate_placeholders(payload, template)
-    validate_content_contract(replacements)
-    validate_source_policy(payload, replacements)
-    slug, output_path = validate_target(payload, replacements)
-    entry = validate_index_entry(payload, slug)
+    model = prepare_payload(payload)
     return PayloadInfo(
         path=path,
         payload=payload,
-        slug=slug,
-        word=str(entry["word"]),
-        href=str(entry["href"]),
-        output_path=output_path,
+        slug=model["slug"],
+        word=str(model["word"]),
+        href=str(model["indexEntry"]["href"]),
+        output_path=Path(model["outputPath"]),
     )
 
 
@@ -259,9 +243,8 @@ def validate_payload_batch(payload_paths: list[Path], update_existing: bool) -> 
 
 
 def render_existing_payload(info: PayloadInfo) -> None:
-    template = read_text(TEMPLATE)
-    replacements = validate_placeholders(info.payload, template)
-    rendered = render_template(template, replacements)
+    model = prepare_payload(info.payload)
+    rendered = render_page(model)
     write_text(info.output_path, rendered)
 
 
@@ -310,7 +293,7 @@ def validate_rendered_payloads(payload_paths: list[Path]) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Batch-validate and render LLM-authored word-page payload JSON files."
+        description="Batch-validate and render semantic word-page payload JSON files."
     )
     parser.add_argument(
         "inputs",
@@ -356,7 +339,7 @@ def main() -> int:
     try:
         payload_paths = resolve_payload_inputs(args.inputs)
         infos = validate_payload_batch(payload_paths, update_existing=args.update_existing)
-        print(f"validated {len(infos)} LLM-authored payloads")
+        print(f"validated {len(infos)} semantic payloads")
 
         if not args.update_existing:
             dry_run_payloads(payload_paths)
@@ -379,7 +362,7 @@ def main() -> int:
         validate_rendered_payloads(payload_paths)
         print(f"validated {len(payload_paths)} rendered payload/page pairs")
     except RenderError as exc:
-        print(str(exc), file=sys.stderr)
+        print(exc, file=sys.stderr)
         return 1
 
     return 0

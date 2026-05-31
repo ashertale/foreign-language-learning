@@ -4,58 +4,98 @@
     "slug": "cogent",
     "outputPath": "prototypes/cogent.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Cogent",
-    "WORD_SLUG": "cogent",
-    "WORD_LOWER": "cogent",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "KOH-jent · UK /ˈkəʊ.dʒənt/ · US /ˈkoʊ.dʒənt/",
-    "THESIS": "不是單純清楚，而是清楚到能把理由推到一起，讓人覺得站得住腳。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "2.71",
-    "CORE_IDEA": "<code>cogent</code> 形容論證清楚、有邏輯，而且有足夠說服力把聽者拉向同意。",
-    "SHORT_DEFINITION": "表達清楚且有說服力，尤其因為推理本身很扎實。",
-    "CONFUSION_WORD": "Coherent",
-    "CONFUSION_NOTE": "Coherent 是前後一致、結構清楚；cogent 還要能說服人，像理由被壓實後有推力。",
-    "FLOW_1": "理由清楚",
-    "FLOW_2": "邏輯有力",
-    "FLOW_3": "產生說服力",
-    "ORIGIN_PARAGRAPH": "<code>cogent</code> 來自 Latin <code>cogere</code>，有 compel、collect、drive together 的意思。這個字保留了理由被推到一起、形成力量的畫面。",
-    "ORIGIN_MEMORY": "想像散落的證據被推到一起，變成一道能推動判斷的力量。這就是 cogent 的感覺。",
-    "MEMORY_HOOK": "<code>cogent</code> 是零件彼此扣上後產生推力的論證。",
-    "MEMORY_EXPLANATION": "你聽完不只是懂了，還會覺得「這個推論有重量」。那個重量不是權威，而是理由本身排列得夠好。",
-    "DAILY_USAGE": "她的說明很 <code>cogent</code>，清楚到足以改變整個房間的氣氛。",
-    "PROFESSIONAL_USAGE": "那份 bug report 很 <code>cogent</code>：它把 regression 指向 timing change，而不是新的 parser。",
-    "DOMAIN_USAGE": "好的 design review 會把 constraints、evidence、trade-offs 與 consequences 串成一條 <code>cogent</code> 的推理鏈。",
-    "COLLOCATION_NOTE": "<code>cogent</code> 幾乎總是修飾 argument、case、reason、explanation、analysis 這類與推理有關的名詞。",
-    "COLLOCATION_1": "a cogent argument",
-    "REGISTER_1": "正式 / 學術",
-    "COLLOCATION_NOTE_1": "最典型搭配，表示論點清楚且有說服力。",
-    "COLLOCATION_2": "a cogent explanation",
-    "REGISTER_2": "專業 / 教學",
-    "COLLOCATION_NOTE_2": "表示說明不只清楚，還讓人接受其推理。",
-    "COLLOCATION_3": "a cogent case",
-    "REGISTER_3": "法律 / 分析",
-    "COLLOCATION_NOTE_3": "表示一組理由與證據合在一起，足以支持某主張。",
-    "NEIGHBOR_SELF": "清楚、有邏輯且足以說服",
-    "NEIGHBOR_SELF_USE": "談論證、理由、分析、說明、提案、review comment。",
-    "NEIGHBOR_1": "coherent",
-    "NEIGHBOR_1_MEANING": "內部一致、前後連貫、容易理解",
-    "NEIGHBOR_1_USE": "當你只想說一段話結構合理，不一定要強調說服力時。",
-    "MODERN_USE_1": "在技術溝通中，cogent 很適合稱讚一段 RCA、proposal 或 review comment：它把證據、因果與取捨串起來。",
-    "MODERN_USE_2": "在評論或法律語境中，cogent 常與 argument、case、evidence 一起出現，表示結論不是只靠情緒，而是被理由支撐。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Cambridge Dictionary；核心義是論證或理由清楚且具說服力。",
-    "DICTIONARY_URL": "https://dictionary.cambridge.org/us/dictionary/english/cogent",
-    "DICTIONARY_LABEL": "Cambridge Dictionary",
-    "MODERN_SOURCE_NOTE": "現代用法集中在論證、說明、分析與有說服力的推理。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/cogent",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 <code>cogent</code> 和 <code>coherent</code> 的差異。",
-    "CHECK_ORIGIN": "我記得它和 Latin <code>cogere</code>「推到一起、使信服」有關。",
-    "CHECK_SENTENCE": "我能用它造一句論證、bug report 或設計評審情境的英文句子。",
-    "PRACTICE_SENTENCE": "The most cogent part of the proposal is _____ because it connects _____ to _____.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/us/dictionary/english/cogent",
-    "REFERENCE_LABEL": "Cambridge Dictionary"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "KOH-jent · UK /ˈkəʊ.dʒənt/ · US /ˈkoʊ.dʒənt/",
+    "hero": {
+      "thesis": "不是單純清楚，而是清楚到能把理由推到一起，讓人覺得站得住腳。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.71"
+    },
+    "coreIdea": "<code>cogent</code> 形容論證清楚、有邏輯，而且有足夠說服力把聽者拉向同意。",
+    "definition": {
+      "summary": "表達清楚且有說服力，尤其因為推理本身很扎實。",
+      "contrast": {
+        "word": "Coherent",
+        "note": "Coherent 是前後一致、結構清楚；cogent 還要能說服人，像理由被壓實後有推力。"
+      },
+      "flow": [
+        "理由清楚",
+        "邏輯有力",
+        "產生說服力"
+      ]
+    },
+    "memory": {
+      "hook": "<code>cogent</code> 是零件彼此扣上後產生推力的論證。",
+      "explanation": "你聽完不只是懂了，還會覺得「這個推論有重量」。那個重量不是權威，而是理由本身排列得夠好。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她的說明很 <code>cogent</code>，清楚到足以改變整個房間的氣氛。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "那份 bug report 很 <code>cogent</code>：它把 regression 指向 timing change，而不是新的 parser。"
+      },
+      {
+        "label": "延伸版",
+        "body": "好的 design review 會把 constraints、evidence、trade-offs 與 consequences 串成一條 <code>cogent</code> 的推理鏈。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>cogent</code> 幾乎總是修飾 argument、case、reason、explanation、analysis 這類與推理有關的名詞。",
+      "items": [
+        {
+          "phrase": "a cogent argument",
+          "register": "正式 / 學術",
+          "note": "最典型搭配，表示論點清楚且有說服力。"
+        },
+        {
+          "phrase": "a cogent explanation",
+          "register": "專業 / 教學",
+          "note": "表示說明不只清楚，還讓人接受其推理。"
+        },
+        {
+          "phrase": "a cogent case",
+          "register": "法律 / 分析",
+          "note": "表示一組理由與證據合在一起，足以支持某主張。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "清楚、有邏輯且足以說服",
+        "use": "談論證、理由、分析、說明、提案、review comment。"
+      },
+      "others": [
+        {
+          "word": "coherent",
+          "meaning": "內部一致、前後連貫、容易理解",
+          "use": "當你只想說一段話結構合理，不一定要強調說服力時。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在技術溝通中，cogent 很適合稱讚一段 RCA、proposal 或 review comment：它把證據、因果與取捨串起來。",
+      "在評論或法律語境中，cogent 常與 argument、case、evidence 一起出現，表示結論不是只靠情緒，而是被理由支撐。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Cambridge Dictionary；核心義是論證或理由清楚且具說服力。",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/cogent",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "現代用法集中在論證、說明、分析與有說服力的推理。",
+        "url": "https://www.merriam-webster.com/dictionary/cogent",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>cogent</code> 來自 Latin <code>cogere</code>，有 compel、collect、drive together 的意思。這個字保留了理由被推到一起、形成力量的畫面。",
+      "memoryLens": "想像散落的證據被推到一起，變成一道能推動判斷的力量。這就是 cogent 的感覺。"
+    }
   },
   "indexEntry": {
     "id": "cogent",

@@ -4,58 +4,98 @@
     "slug": "orthogonal",
     "outputPath": "prototypes/orthogonal.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Orthogonal",
-    "WORD_SLUG": "orthogonal",
-    "WORD_LOWER": "orthogonal",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "or-THOG-uh-nuhl · UK /ɔːˈθɒɡ.ən.əl/ · US /ɔːrˈθɑː.ɡən.əl/",
-    "THESIS": "不只是「無關」，而是兩個維度彼此垂直、互不混淆，可以分開思考與調整。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "2.56",
-    "CORE_IDEA": "<code>orthogonal</code> 原本表示直角相交；在技術語境中常延伸為彼此獨立、互不干擾、可分開處理的維度。",
-    "SHORT_DEFINITION": "在幾何上表示直角；在技術或抽象語境中表示獨立、互不重疊或不互相影響。",
-    "CONFUSION_WORD": "Unrelated",
-    "CONFUSION_NOTE": "<code>unrelated</code> 只是沒有關係；<code>orthogonal</code> 暗示兩者是不同維度，能獨立變化而不互相污染。",
-    "FLOW_1": "兩個維度",
-    "FLOW_2": "彼此垂直",
-    "FLOW_3": "可獨立推理",
-    "ORIGIN_PARAGRAPH": "<code>orthogonal</code> 來自 Greek <code>orthos</code> straight/right 與 <code>gonia</code> angle，原始意思是 right-angled。",
-    "ORIGIN_MEMORY": "字源畫面是一個直角座標軸：x 軸變動不會自動改變 y 軸，這就是工程借用它來談 independent concerns 的原因。",
-    "MEMORY_HOOK": "<code>orthogonal</code> 是把問題拆成互相垂直的座標軸。",
-    "MEMORY_EXPLANATION": "想像一個 UI bug 和一個 power bug。它們可能同時出現，但如果 root causes 在不同軸上，就應該分開驗證，不要硬塞成同一件事。",
-    "DAILY_USAGE": "價格和顏色在這個選擇裡幾乎是 <code>orthogonal</code>：你可以先選預算，再選外觀。",
-    "PROFESSIONAL_USAGE": "架構討論裡可以說：Logging should be <code>orthogonal</code> to business logic, so instrumentation can change without rewriting the core behavior.",
-    "DOMAIN_USAGE": "在統計與線性代數中，orthogonal vectors 或 factors 有明確數學定義；在 software architecture 中則常表示 concerns decoupled。",
-    "COLLOCATION_NOTE": "Orthogonal 常搭配 concerns、dimensions、features、vectors、basis，技術語感很強。",
-    "COLLOCATION_1": "orthogonal concerns",
-    "REGISTER_1": "軟體 / 架構",
-    "COLLOCATION_NOTE_1": "表示兩個 concern 應該分開處理，避免耦合。",
-    "COLLOCATION_2": "orthogonal dimensions",
-    "REGISTER_2": "分析 / 產品",
-    "COLLOCATION_NOTE_2": "表示兩個評估軸可以獨立變化。",
-    "COLLOCATION_3": "orthogonal vectors",
-    "REGISTER_3": "數學",
-    "COLLOCATION_NOTE_3": "指向量內積為零或幾何上互相垂直。",
-    "NEIGHBOR_SELF": "不同維度、互不重疊、可獨立處理",
-    "NEIGHBOR_SELF_USE": "當你要說兩個設計決策、變數或 concerns 不應互相耦合時",
-    "NEIGHBOR_1": "Independent",
-    "NEIGHBOR_1_MEANING": "獨立、不依賴別人",
-    "NEIGHBOR_1_USE": "一般情境可用 independent；需要技術味或維度垂直的比喻時用 orthogonal",
-    "MODERN_USE_1": "現代技術英文裡，<code>orthogonal</code> 常出現在 architecture、API design、statistics、machine learning 與 testing。",
-    "MODERN_USE_2": "它是很工程師的字：當討論開始把兩個不同軸混在一起時，說 these are orthogonal 可以把問題切乾淨。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 right angles、vectors/statistical independence 與 orthogonal elements。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/orthogonal",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代用法包含 right-angle geometry、vectors、statistical independence 與 composed of orthogonal elements。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/orthogonal",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 orthogonal 和 unrelated 的差異。",
-    "CHECK_ORIGIN": "我記得 orthogonal 的核心畫面是 right angles。",
-    "CHECK_SENTENCE": "我能用 orthogonal 造一句 concerns、dimensions、vectors 或 architecture 情境的英文句子。",
-    "PRACTICE_SENTENCE": "The logging strategy is orthogonal to the packet parser, so we can change one without touching the other.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/orthogonal",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "or-THOG-uh-nuhl · UK /ɔːˈθɒɡ.ən.əl/ · US /ɔːrˈθɑː.ɡən.əl/",
+    "hero": {
+      "thesis": "不只是「無關」，而是兩個維度彼此垂直、互不混淆，可以分開思考與調整。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.56"
+    },
+    "coreIdea": "<code>orthogonal</code> 原本表示直角相交；在技術語境中常延伸為彼此獨立、互不干擾、可分開處理的維度。",
+    "definition": {
+      "summary": "在幾何上表示直角；在技術或抽象語境中表示獨立、互不重疊或不互相影響。",
+      "contrast": {
+        "word": "Unrelated",
+        "note": "<code>unrelated</code> 只是沒有關係；<code>orthogonal</code> 暗示兩者是不同維度，能獨立變化而不互相污染。"
+      },
+      "flow": [
+        "兩個維度",
+        "彼此垂直",
+        "可獨立推理"
+      ]
+    },
+    "memory": {
+      "hook": "<code>orthogonal</code> 是把問題拆成互相垂直的座標軸。",
+      "explanation": "想像一個 UI bug 和一個 power bug。它們可能同時出現，但如果 root causes 在不同軸上，就應該分開驗證，不要硬塞成同一件事。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "價格和顏色在這個選擇裡幾乎是 <code>orthogonal</code>：你可以先選預算，再選外觀。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "架構討論裡可以說：Logging should be <code>orthogonal</code> to business logic, so instrumentation can change without rewriting the core behavior."
+      },
+      {
+        "label": "延伸版",
+        "body": "在統計與線性代數中，orthogonal vectors 或 factors 有明確數學定義；在 software architecture 中則常表示 concerns decoupled。"
+      }
+    ],
+    "collocations": {
+      "note": "Orthogonal 常搭配 concerns、dimensions、features、vectors、basis，技術語感很強。",
+      "items": [
+        {
+          "phrase": "orthogonal concerns",
+          "register": "軟體 / 架構",
+          "note": "表示兩個 concern 應該分開處理，避免耦合。"
+        },
+        {
+          "phrase": "orthogonal dimensions",
+          "register": "分析 / 產品",
+          "note": "表示兩個評估軸可以獨立變化。"
+        },
+        {
+          "phrase": "orthogonal vectors",
+          "register": "數學",
+          "note": "指向量內積為零或幾何上互相垂直。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "不同維度、互不重疊、可獨立處理",
+        "use": "當你要說兩個設計決策、變數或 concerns 不應互相耦合時"
+      },
+      "others": [
+        {
+          "word": "Independent",
+          "meaning": "獨立、不依賴別人",
+          "use": "一般情境可用 independent；需要技術味或維度垂直的比喻時用 orthogonal"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代技術英文裡，<code>orthogonal</code> 常出現在 architecture、API design、statistics、machine learning 與 testing。",
+      "它是很工程師的字：當討論開始把兩個不同軸混在一起時，說 these are orthogonal 可以把問題切乾淨。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；包含 right angles、vectors/statistical independence 與 orthogonal elements。",
+        "url": "https://www.merriam-webster.com/dictionary/orthogonal",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代用法包含 right-angle geometry、vectors、statistical independence 與 composed of orthogonal elements。",
+        "url": "https://www.merriam-webster.com/dictionary/orthogonal",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>orthogonal</code> 來自 Greek <code>orthos</code> straight/right 與 <code>gonia</code> angle，原始意思是 right-angled。",
+      "memoryLens": "字源畫面是一個直角座標軸：x 軸變動不會自動改變 y 軸，這就是工程借用它來談 independent concerns 的原因。"
+    }
   },
   "indexEntry": {
     "id": "orthogonal",

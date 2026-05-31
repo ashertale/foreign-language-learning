@@ -4,58 +4,98 @@
     "slug": "marshal",
     "outputPath": "prototypes/marshal.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Marshal",
-    "WORD_SLUG": "marshal",
-    "WORD_LOWER": "marshal",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "MAR-shuhl · UK /ˈmɑː.ʃəl/ · US /ˈmɑːr.ʃəl/",
-    "THESIS": "不是只是收集，而是把人、資源、證據或論點有秩序地排好、派上場。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.34",
-    "CORE_IDEA": "<code>marshal</code> 用來描述有計畫地整理、調度與安排資源、論點或人力，讓它們形成有效作用。",
-    "SHORT_DEFINITION": "表示有計畫地整理、調度與安排資源、論點或人力，讓它們形成有效作用。",
-    "CONFUSION_WORD": "Gather",
-    "CONFUSION_NOTE": "<code>gather</code> 是把東西收過來；<code>marshal</code> 則是收來之後還要排好、用好。",
-    "FLOW_1": "先把資源找齊",
-    "FLOW_2": "按邏輯排好",
-    "FLOW_3": "再投入到正確位置",
-    "ORIGIN_PARAGRAPH": "<code>marshal</code> 的歷史和馬匹、侍從、後來的軍事指揮脈絡連在一起，所以裡面一直有編隊與秩序。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：不是大家自己湊過來，而是有人把隊伍一列一列排整齊。",
-    "MEMORY_HOOK": "<code>marshal</code> 是把散的力量排成可用的力量。",
-    "MEMORY_EXPLANATION": "真正成熟的主持與管理，不是一直加人，而是知道怎麼 marshal 已有資源。",
-    "DAILY_USAGE": "準備搬家時，你得先 <code>marshal</code> your boxes, labels, and energy，不然只會越做越亂。",
-    "PROFESSIONAL_USAGE": "在提案前，你需要先 <code>marshal</code> the evidence，不然即使觀點對，也很難說服人。",
-    "DOMAIN_USAGE": "法庭、政策、軍事、專案與 incident response 都常用 <code>marshal</code> 來談調度。",
-    "COLLOCATION_NOTE": "Marshal 常和 resources、evidence、support、troops 搭配。",
-    "COLLOCATION_1": "marshal resources",
-    "REGISTER_1": "管理 / 專案",
-    "COLLOCATION_NOTE_1": "表示把資源調度成可行配置。",
-    "COLLOCATION_2": "marshal evidence",
-    "REGISTER_2": "論證 / 法務",
-    "COLLOCATION_NOTE_2": "表示把證據整理成有說服力的序列。",
-    "COLLOCATION_3": "marshal support",
-    "REGISTER_3": "組織 / 協作",
-    "COLLOCATION_NOTE_3": "表示把支持力量組織起來。",
-    "NEIGHBOR_SELF": "把零散資源編排成可用陣形",
-    "NEIGHBOR_SELF_USE": "談證據、資源、人力或 support 調度時",
-    "NEIGHBOR_1": "Gather",
-    "NEIGHBOR_1_MEANING": "單純把東西收集起來",
-    "NEIGHBOR_1_USE": "只想說集合，不需要編排部署時",
-    "MODERN_USE_1": "現代英文裡，<code>marshal</code> 很常用在論證與管理，因為真正困難的常不是有沒有資源，而是怎麼排。",
-    "MODERN_USE_2": "在工程語境中，它也適合描述 incident 指揮或 design review 之前，如何把資料與人手排成可行局面。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/marshal",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/marshal",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 marshal 和 gather 的差異。",
-    "CHECK_ORIGIN": "記得 marshal 的畫面是排隊編陣，不只是把東西收過來。",
-    "CHECK_SENTENCE": "我能用它造一句證據、資源或人力調度的英文句子。",
-    "PRACTICE_SENTENCE": "Before the design review, we had to <code>marshal</code> the failure logs into a coherent timeline.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/marshal",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "MAR-shuhl · UK /ˈmɑː.ʃəl/ · US /ˈmɑːr.ʃəl/",
+    "hero": {
+      "thesis": "不是只是收集，而是把人、資源、證據或論點有秩序地排好、派上場。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.34"
+    },
+    "coreIdea": "<code>marshal</code> 用來描述有計畫地整理、調度與安排資源、論點或人力，讓它們形成有效作用。",
+    "definition": {
+      "summary": "表示有計畫地整理、調度與安排資源、論點或人力，讓它們形成有效作用。",
+      "contrast": {
+        "word": "Gather",
+        "note": "<code>gather</code> 是把東西收過來；<code>marshal</code> 則是收來之後還要排好、用好。"
+      },
+      "flow": [
+        "先把資源找齊",
+        "按邏輯排好",
+        "再投入到正確位置"
+      ]
+    },
+    "memory": {
+      "hook": "<code>marshal</code> 是把散的力量排成可用的力量。",
+      "explanation": "真正成熟的主持與管理，不是一直加人，而是知道怎麼 marshal 已有資源。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "準備搬家時，你得先 <code>marshal</code> your boxes, labels, and energy，不然只會越做越亂。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在提案前，你需要先 <code>marshal</code> the evidence，不然即使觀點對，也很難說服人。"
+      },
+      {
+        "label": "延伸版",
+        "body": "法庭、政策、軍事、專案與 incident response 都常用 <code>marshal</code> 來談調度。"
+      }
+    ],
+    "collocations": {
+      "note": "Marshal 常和 resources、evidence、support、troops 搭配。",
+      "items": [
+        {
+          "phrase": "marshal resources",
+          "register": "管理 / 專案",
+          "note": "表示把資源調度成可行配置。"
+        },
+        {
+          "phrase": "marshal evidence",
+          "register": "論證 / 法務",
+          "note": "表示把證據整理成有說服力的序列。"
+        },
+        {
+          "phrase": "marshal support",
+          "register": "組織 / 協作",
+          "note": "表示把支持力量組織起來。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把零散資源編排成可用陣形",
+        "use": "談證據、資源、人力或 support 調度時"
+      },
+      "others": [
+        {
+          "word": "Gather",
+          "meaning": "單純把東西收集起來",
+          "use": "只想說集合，不需要編排部署時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>marshal</code> 很常用在論證與管理，因為真正困難的常不是有沒有資源，而是怎麼排。",
+      "在工程語境中，它也適合描述 incident 指揮或 design review 之前，如何把資料與人手排成可行局面。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/marshal",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/marshal",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>marshal</code> 的歷史和馬匹、侍從、後來的軍事指揮脈絡連在一起，所以裡面一直有編隊與秩序。",
+      "memoryLens": "字源畫面可以記成：不是大家自己湊過來，而是有人把隊伍一列一列排整齊。"
+    }
   },
   "indexEntry": {
     "id": "marshal",

@@ -6,21 +6,7 @@ import re
 import sys
 from pathlib import Path
 
-from render_word_page import (
-    PROTOTYPES,
-    ROOT,
-    TEMPLATE,
-    RenderError,
-    load_payload,
-    normalize_payload_sources,
-    read_text,
-    render_template,
-    validate_content_contract,
-    validate_placeholders,
-    validate_source_policy,
-    validate_target,
-    write_text,
-)
+from render_word_page import ROOT, RenderError, load_payload, normalize_payload_sources, prepare_payload, read_text, render_page, write_text
 
 
 PAYLOADS = ROOT / "data" / "word-payloads"
@@ -52,17 +38,11 @@ def payload_paths(args: argparse.Namespace) -> list[Path]:
 def normalize_payload_page(payload_path: Path, check: bool) -> list[str]:
     payload = load_payload(payload_path)
     normalize_payload_sources(payload)
-
-    template = read_text(TEMPLATE)
-    replacements = validate_placeholders(payload, template)
-    validate_content_contract(replacements)
-    validate_source_policy(payload, replacements)
-    _, output_path = validate_target(payload, replacements)
-    if output_path.parent != PROTOTYPES:
-        raise RenderError("target.outputPath must resolve directly under prototypes/")
+    model = prepare_payload(payload)
+    output_path = Path(model["outputPath"])
 
     current_page = read_text(output_path) if output_path.exists() else None
-    rendered_page = preserve_word_number(render_template(template, replacements), current_page)
+    rendered_page = preserve_word_number(render_page(model), current_page)
     next_payload = serialize_payload(payload)
     current_payload = read_text(payload_path)
 
@@ -84,7 +64,7 @@ def normalize_payload_page(payload_path: Path, check: bool) -> list[str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Normalize source labels, sourceAudit, and rendered pages for all word payload/page pairs."
+        description="Normalize source labels, sourceAudit, and rendered pages for all semantic word payload/page pairs."
     )
     parser.add_argument("payload", nargs="*", type=Path, help="Optional payload JSON paths. Defaults to all payloads.")
     parser.add_argument("--check", action="store_true", help="Report drift without writing files.")
@@ -99,8 +79,7 @@ def main() -> int:
         except RenderError as exc:
             failures.append(f"{path.relative_to(ROOT)}: {exc}")
             continue
-        for change in changes:
-            operations.append(change)
+        operations.extend(changes)
 
     if failures:
         for failure in failures:

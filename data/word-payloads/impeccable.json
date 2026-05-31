@@ -4,58 +4,98 @@
     "slug": "impeccable",
     "outputPath": "prototypes/impeccable.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Impeccable",
-    "WORD_SLUG": "impeccable",
-    "WORD_LOWER": "impeccable",
-    "PART_OF_SPEECH": "adjective",
-    "IPA": "im-PEK-uh-buhl · UK /ɪmˈpek.ə.bəl/ · US /ɪmˈpek.ə.bəl/",
-    "THESIS": "不是普通的好，而是乾淨到幾乎找不到錯、瑕疵或失禮之處。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "3.25",
-    "CORE_IDEA": "<code>impeccable</code> 表示細心、正確或精緻到看不出明顯缺點。",
-    "SHORT_DEFINITION": "沒有明顯錯誤、缺陷或瑕疵；極度正確、細心或精緻。",
-    "CONFUSION_WORD": "Perfect",
-    "CONFUSION_NOTE": "<code>perfect</code> 可指絕對完美；<code>impeccable</code> 常指表現、品味或細節上無可挑剔。",
-    "FLOW_1": "標準很高",
-    "FLOW_2": "細節撐得住",
-    "FLOW_3": "找不到明顯缺點",
-    "ORIGIN_PARAGRAPH": "<code>impeccable</code> 來自 Latin 字源，原意和 not able to sin or fault 有關，並連到 <code>peccare</code>，意思是 to sin 或 make a mistake。",
-    "ORIGIN_MEMORY": "字源有點戲劇性：不是只是好，而是好到像「找不到罪」。現代用法已經柔和成無可挑剔、近乎無瑕。",
-    "MEMORY_HOOK": "<code>impeccable</code> 是經得起檢查而不露破綻的品質。",
-    "MEMORY_EXPLANATION": "想像一份報告、焊點、穿搭或推理被仔細看過，仍沒有露出明顯破綻。這就是 impeccable 的稱讚力道。",
-    "DAILY_USAGE": "她的 timing 很 <code>impeccable</code>：剛好在團隊最需要決策時打來。",
-    "PROFESSIONAL_USAGE": "那份 release notes 很 <code>impeccable</code>，限制、修正與 migration steps 都寫得清楚。",
-    "DOMAIN_USAGE": "在 customer-facing work 裡，<code>impeccable manners</code> 可以把困難情境穩住。",
-    "COLLOCATION_NOTE": "<code>impeccable</code> 常和 timing、record、taste、manners、logic 搭配，稱讚細節品質。",
-    "COLLOCATION_1": "impeccable timing",
-    "REGISTER_1": "一般 / 稱讚",
-    "COLLOCATION_NOTE_1": "指時機抓得極準，幾乎無可挑剔。",
-    "COLLOCATION_2": "impeccable record",
-    "REGISTER_2": "專業",
-    "COLLOCATION_NOTE_2": "指紀錄乾淨，沒有明顯錯誤或污點。",
-    "COLLOCATION_3": "impeccable taste",
-    "REGISTER_3": "風格 / 文化",
-    "COLLOCATION_NOTE_3": "指品味高度成熟、細節精準。",
-    "NEIGHBOR_SELF": "無可挑剔、近乎無瑕",
-    "NEIGHBOR_SELF_USE": "稱讚表現、品味、紀錄或細節真的經得起看時",
-    "NEIGHBOR_1": "Perfect",
-    "NEIGHBOR_1_MEANING": "完全完美，沒有缺陷",
-    "NEIGHBOR_1_USE": "要強調理想狀態或數學式完美，而不是社交或品質上的無可挑剔",
-    "MODERN_USE_1": "現代英文裡，<code>impeccable</code> 常用來稱讚 timing、manners、taste、credentials、records、logic 與 execution。",
-    "MODERN_USE_2": "這個字帶有 polished 的感覺：它不只是說某物可用，而是說仔細檢查後仍找不到明顯缺點。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心義是無可挑剔或沒有瑕疵。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/impeccable",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和時機、禮儀、紀錄、品味與表現等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/impeccable",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 impeccable 和 perfect 的差異。",
-    "CHECK_ORIGIN": "我記得它和 Latin <code>peccare</code>，to sin 或 make a mistake，有關。",
-    "CHECK_SENTENCE": "我能用它造一句品質、文件、紀錄或時機情境的英文句子。",
-    "PRACTICE_SENTENCE": "Her bug report was <code>impeccable</code>: clear steps, exact logs, and no missing conditions.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/impeccable",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PEK-uh-buhl · UK /ɪmˈpek.ə.bəl/ · US /ɪmˈpek.ə.bəl/",
+    "hero": {
+      "thesis": "不是普通的好，而是乾淨到幾乎找不到錯、瑕疵或失禮之處。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.25"
+    },
+    "coreIdea": "<code>impeccable</code> 表示細心、正確或精緻到看不出明顯缺點。",
+    "definition": {
+      "summary": "沒有明顯錯誤、缺陷或瑕疵；極度正確、細心或精緻。",
+      "contrast": {
+        "word": "Perfect",
+        "note": "<code>perfect</code> 可指絕對完美；<code>impeccable</code> 常指表現、品味或細節上無可挑剔。"
+      },
+      "flow": [
+        "標準很高",
+        "細節撐得住",
+        "找不到明顯缺點"
+      ]
+    },
+    "memory": {
+      "hook": "<code>impeccable</code> 是經得起檢查而不露破綻的品質。",
+      "explanation": "想像一份報告、焊點、穿搭或推理被仔細看過，仍沒有露出明顯破綻。這就是 impeccable 的稱讚力道。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "她的 timing 很 <code>impeccable</code>：剛好在團隊最需要決策時打來。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "那份 release notes 很 <code>impeccable</code>，限制、修正與 migration steps 都寫得清楚。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在 customer-facing work 裡，<code>impeccable manners</code> 可以把困難情境穩住。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>impeccable</code> 常和 timing、record、taste、manners、logic 搭配，稱讚細節品質。",
+      "items": [
+        {
+          "phrase": "impeccable timing",
+          "register": "一般 / 稱讚",
+          "note": "指時機抓得極準，幾乎無可挑剔。"
+        },
+        {
+          "phrase": "impeccable record",
+          "register": "專業",
+          "note": "指紀錄乾淨，沒有明顯錯誤或污點。"
+        },
+        {
+          "phrase": "impeccable taste",
+          "register": "風格 / 文化",
+          "note": "指品味高度成熟、細節精準。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "無可挑剔、近乎無瑕",
+        "use": "稱讚表現、品味、紀錄或細節真的經得起看時"
+      },
+      "others": [
+        {
+          "word": "Perfect",
+          "meaning": "完全完美，沒有缺陷",
+          "use": "要強調理想狀態或數學式完美，而不是社交或品質上的無可挑剔"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>impeccable</code> 常用來稱讚 timing、manners、taste、credentials、records、logic 與 execution。",
+      "這個字帶有 polished 的感覺：它不只是說某物可用，而是說仔細檢查後仍找不到明顯缺點。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；核心義是無可挑剔或沒有瑕疵。",
+        "url": "https://www.merriam-webster.com/dictionary/impeccable",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和時機、禮儀、紀錄、品味與表現等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/impeccable",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>impeccable</code> 來自 Latin 字源，原意和 not able to sin or fault 有關，並連到 <code>peccare</code>，意思是 to sin 或 make a mistake。",
+      "memoryLens": "字源有點戲劇性：不是只是好，而是好到像「找不到罪」。現代用法已經柔和成無可挑剔、近乎無瑕。"
+    }
   },
   "indexEntry": {
     "id": "impeccable",

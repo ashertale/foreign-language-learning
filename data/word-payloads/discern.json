@@ -4,58 +4,98 @@
     "slug": "discern",
     "outputPath": "prototypes/discern.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Discern",
-    "WORD_SLUG": "discern",
-    "WORD_LOWER": "discern",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "dih-SURN · UK /dɪˈsɜːn/ · US /dɪˈsɝːn/",
-    "THESIS": "不是單純看見，而是在模糊、雜訊或相似選項中分辨出真正差異。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "3.23",
-    "CORE_IDEA": "<code>discern</code> 表示看出、辨認或分辨某個不會立刻顯現的東西。",
-    "SHORT_DEFINITION": "仔細辨認或區分某件事，尤其當它微弱、隱藏、細微，或混在其他東西裡時。",
-    "CONFUSION_WORD": "See",
-    "CONFUSION_NOTE": "<code>see</code> 是看見；<code>discern</code> 是從看見的東西裡辨出意義或差異。",
-    "FLOW_1": "訊號混在一起",
-    "FLOW_2": "仔細注意",
-    "FLOW_3": "真正差異浮現",
-    "ORIGIN_PARAGRAPH": "<code>discern</code> 來自 Latin <code>discernere</code>，意思是 separate or distinguish。字源畫面是把東西分開，讓差異變得可見。",
-    "ORIGIN_MEMORY": "這個字的力量在「分開」。你不是把更多資訊塞進眼睛，而是把混在一起的東西切出邊界。",
-    "MEMORY_HOOK": "<code>discern</code> 是把雜訊變成邊界。",
-    "MEMORY_EXPLANATION": "在示波器、log、需求訪談或人際語氣裡，discern 是找到那條細線：哪個訊號是真的，哪個只是背景噪音。",
-    "DAILY_USAGE": "如果很難判斷她是累了、生氣，還是只是安靜，就可以說 it was hard to <code>discern</code>。",
-    "PROFESSIONAL_USAGE": "工程師試著從看似 random 的 failures 中 <code>discern a pattern</code>。",
-    "DOMAIN_USAGE": "在 design review 裡，discernment 是看出哪些差異會影響使用者，哪些只是 cosmetic。",
-    "COLLOCATION_NOTE": "<code>discern</code> 常和 pattern、difference、meaning、truth 搭配，表示從不明顯處辨出東西。",
-    "COLLOCATION_1": "discern a pattern",
-    "REGISTER_1": "分析 / debug",
-    "COLLOCATION_NOTE_1": "指在看似零散的事件裡辨認出重複結構。",
-    "COLLOCATION_2": "discern the difference",
-    "REGISTER_2": "一般 / 正式",
-    "COLLOCATION_NOTE_2": "指分辨兩個相似東西之間真正重要的差別。",
-    "COLLOCATION_3": "hard to discern",
-    "REGISTER_3": "觀察",
-    "COLLOCATION_NOTE_3": "指資訊很淡、很吵或很接近，所以難以判斷。",
-    "NEIGHBOR_SELF": "在不明顯處辨認差異或意義",
-    "NEIGHBOR_SELF_USE": "訊號微弱、選項相似、模式藏在雜訊裡時",
-    "NEIGHBOR_1": "See",
-    "NEIGHBOR_1_MEANING": "用感官看見或注意到",
-    "NEIGHBOR_1_USE": "只需要說視覺或直接注意到，不強調判斷",
-    "MODERN_USE_1": "現代英文裡，<code>discern</code> 常用於 patterns、motives、differences、meanings 與 signals，表示需要注意力才辨認得出來。",
-    "MODERN_USE_2": "在工程與產品工作裡，這個字適合資料已經看得到、但解讀還不明顯的情境。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；核心義是偵測、認出並分辨不明顯的東西。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/discern",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它和模式、差異、動機與意義等語境搭配。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/discern",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 discern 和 see 的差異。",
-    "CHECK_ORIGIN": "我記得它來自 separate or distinguish 的字源畫面。",
-    "CHECK_SENTENCE": "我能用它造一句 debug、觀察或判斷情境的英文句子。",
-    "PRACTICE_SENTENCE": "After plotting the timestamps, we could <code>discern</code> a pattern in the failures.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/discern",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-SURN · UK /dɪˈsɜːn/ · US /dɪˈsɝːn/",
+    "hero": {
+      "thesis": "不是單純看見，而是在模糊、雜訊或相似選項中分辨出真正差異。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.23"
+    },
+    "coreIdea": "<code>discern</code> 表示看出、辨認或分辨某個不會立刻顯現的東西。",
+    "definition": {
+      "summary": "仔細辨認或區分某件事，尤其當它微弱、隱藏、細微，或混在其他東西裡時。",
+      "contrast": {
+        "word": "See",
+        "note": "<code>see</code> 是看見；<code>discern</code> 是從看見的東西裡辨出意義或差異。"
+      },
+      "flow": [
+        "訊號混在一起",
+        "仔細注意",
+        "真正差異浮現"
+      ]
+    },
+    "memory": {
+      "hook": "<code>discern</code> 是把雜訊變成邊界。",
+      "explanation": "在示波器、log、需求訪談或人際語氣裡，discern 是找到那條細線：哪個訊號是真的，哪個只是背景噪音。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "如果很難判斷她是累了、生氣，還是只是安靜，就可以說 it was hard to <code>discern</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "工程師試著從看似 random 的 failures 中 <code>discern a pattern</code>。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在 design review 裡，discernment 是看出哪些差異會影響使用者，哪些只是 cosmetic。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>discern</code> 常和 pattern、difference、meaning、truth 搭配，表示從不明顯處辨出東西。",
+      "items": [
+        {
+          "phrase": "discern a pattern",
+          "register": "分析 / debug",
+          "note": "指在看似零散的事件裡辨認出重複結構。"
+        },
+        {
+          "phrase": "discern the difference",
+          "register": "一般 / 正式",
+          "note": "指分辨兩個相似東西之間真正重要的差別。"
+        },
+        {
+          "phrase": "hard to discern",
+          "register": "觀察",
+          "note": "指資訊很淡、很吵或很接近，所以難以判斷。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在不明顯處辨認差異或意義",
+        "use": "訊號微弱、選項相似、模式藏在雜訊裡時"
+      },
+      "others": [
+        {
+          "word": "See",
+          "meaning": "用感官看見或注意到",
+          "use": "只需要說視覺或直接注意到，不強調判斷"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>discern</code> 常用於 patterns、motives、differences、meanings 與 signals，表示需要注意力才辨認得出來。",
+      "在工程與產品工作裡，這個字適合資料已經看得到、但解讀還不明顯的情境。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；核心義是偵測、認出並分辨不明顯的東西。",
+        "url": "https://www.merriam-webster.com/dictionary/discern",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它和模式、差異、動機與意義等語境搭配。",
+        "url": "https://www.merriam-webster.com/dictionary/discern",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>discern</code> 來自 Latin <code>discernere</code>，意思是 separate or distinguish。字源畫面是把東西分開，讓差異變得可見。",
+      "memoryLens": "這個字的力量在「分開」。你不是把更多資訊塞進眼睛，而是把混在一起的東西切出邊界。"
+    }
   },
   "indexEntry": {
     "id": "discern",

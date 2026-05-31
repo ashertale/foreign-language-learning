@@ -4,58 +4,98 @@
     "slug": "fathom",
     "outputPath": "prototypes/fathom.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Fathom",
-    "WORD_SLUG": "fathom",
-    "WORD_LOWER": "fathom",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "FATH-um · UK /ˈfæð.əm/ · US /ˈfæð.əm/",
-    "THESIS": "不是知道表面答案，而是把事情真正想深、量深，直到你抓到它的底。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.49",
-    "CORE_IDEA": "<code>fathom</code> 用來描述對複雜想法、情緒、動機或問題進行深入理解，而不是只有表面知道。",
-    "SHORT_DEFINITION": "表示對複雜想法、情緒、動機或問題進行深入理解，而不是只有表面知道。",
-    "CONFUSION_WORD": "Understand",
-    "CONFUSION_NOTE": "<code>understand</code> 很廣；<code>fathom</code> 更像你把東西量到比較深，真正摸到底。",
-    "FLOW_1": "先意識到複雜",
-    "FLOW_2": "往更深處追問",
-    "FLOW_3": "終於摸到內裡結構",
-    "ORIGIN_PARAGRAPH": "<code>fathom</code> 原本是量水深的單位，後來才被借去談理解深度。",
-    "ORIGIN_MEMORY": "字源畫面可以記成：你不是站在岸上猜，而是真的把量繩放進水裡。",
-    "MEMORY_HOOK": "<code>fathom</code> 是你不只看見表面，還願意一路量到底。",
-    "MEMORY_EXPLANATION": "很多困難不是沒有資訊，而是人停在表面就以為自己懂了。",
-    "DAILY_USAGE": "有些人的反應你一時很難 <code>fathom</code>，因為背後不是一句話能解釋。",
-    "PROFESSIONAL_USAGE": "當一個 bug 很難複現時，你得先 <code>fathom</code> the system behavior before you can fix it.",
-    "DOMAIN_USAGE": "哲學、文學、心理與高複雜度分析都常用 <code>fathom</code> 來說明理解深度。",
-    "COLLOCATION_NOTE": "Fathom 常和 cannot、fully、depth 這類語氣一起出現。",
-    "COLLOCATION_1": "cannot fathom",
-    "REGISTER_1": "日常 / 情緒",
-    "COLLOCATION_NOTE_1": "表示很難真正理解其內在原因。",
-    "COLLOCATION_2": "fathom the depth",
-    "REGISTER_2": "寫作 / 描寫",
-    "COLLOCATION_NOTE_2": "表示往更深層的理解探下去。",
-    "COLLOCATION_3": "fully fathom",
-    "REGISTER_3": "分析 / 反思",
-    "COLLOCATION_NOTE_3": "表示不只是略懂，而是盡量摸到底。",
-    "NEIGHBOR_SELF": "把理解一路探到更深的層次",
-    "NEIGHBOR_SELF_USE": "談動機、情緒、複雜系統或哲學問題時",
-    "NEIGHBOR_1": "Understand",
-    "NEIGHBOR_1_MEANING": "廣泛地知道或理解",
-    "NEIGHBOR_1_USE": "不需要凸顯深度時",
-    "MODERN_USE_1": "現代英文裡，<code>fathom</code> 很適合拿來標記「不是不懂名詞，而是還沒摸到深層結構」。",
-    "MODERN_USE_2": "在工程與分析語境中，它比 understand 更能傳達系統還有深處尚未被量到。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、發音與常見義項參考 Merriam-Webster。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/fathom",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/fathom",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 fathom 和 understand 的差異。",
-    "CHECK_ORIGIN": "記得 fathom 原本是量水深，所以重點是往下量深度。",
-    "CHECK_SENTENCE": "我能用它造一句複雜情緒、動機或系統深層理解的英文句子。",
-    "PRACTICE_SENTENCE": "We could reproduce the fault, but we still did not fully <code>fathom</code> why it emerged only in the field.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/fathom",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "FATH-um · UK /ˈfæð.əm/ · US /ˈfæð.əm/",
+    "hero": {
+      "thesis": "不是知道表面答案，而是把事情真正想深、量深，直到你抓到它的底。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.49"
+    },
+    "coreIdea": "<code>fathom</code> 用來描述對複雜想法、情緒、動機或問題進行深入理解，而不是只有表面知道。",
+    "definition": {
+      "summary": "表示對複雜想法、情緒、動機或問題進行深入理解，而不是只有表面知道。",
+      "contrast": {
+        "word": "Understand",
+        "note": "<code>understand</code> 很廣；<code>fathom</code> 更像你把東西量到比較深，真正摸到底。"
+      },
+      "flow": [
+        "先意識到複雜",
+        "往更深處追問",
+        "終於摸到內裡結構"
+      ]
+    },
+    "memory": {
+      "hook": "<code>fathom</code> 是你不只看見表面，還願意一路量到底。",
+      "explanation": "很多困難不是沒有資訊，而是人停在表面就以為自己懂了。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "有些人的反應你一時很難 <code>fathom</code>，因為背後不是一句話能解釋。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "當一個 bug 很難複現時，你得先 <code>fathom</code> the system behavior before you can fix it."
+      },
+      {
+        "label": "延伸版",
+        "body": "哲學、文學、心理與高複雜度分析都常用 <code>fathom</code> 來說明理解深度。"
+      }
+    ],
+    "collocations": {
+      "note": "Fathom 常和 cannot、fully、depth 這類語氣一起出現。",
+      "items": [
+        {
+          "phrase": "cannot fathom",
+          "register": "日常 / 情緒",
+          "note": "表示很難真正理解其內在原因。"
+        },
+        {
+          "phrase": "fathom the depth",
+          "register": "寫作 / 描寫",
+          "note": "表示往更深層的理解探下去。"
+        },
+        {
+          "phrase": "fully fathom",
+          "register": "分析 / 反思",
+          "note": "表示不只是略懂，而是盡量摸到底。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把理解一路探到更深的層次",
+        "use": "談動機、情緒、複雜系統或哲學問題時"
+      },
+      "others": [
+        {
+          "word": "Understand",
+          "meaning": "廣泛地知道或理解",
+          "use": "不需要凸顯深度時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>fathom</code> 很適合拿來標記「不是不懂名詞，而是還沒摸到深層結構」。",
+      "在工程與分析語境中，它比 understand 更能傳達系統還有深處尚未被量到。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、發音與常見義項參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/fathom",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支撐它在當代英文中的常見搭配與使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/fathom",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>fathom</code> 原本是量水深的單位，後來才被借去談理解深度。",
+      "memoryLens": "字源畫面可以記成：你不是站在岸上猜，而是真的把量繩放進水裡。"
+    }
   },
   "indexEntry": {
     "id": "fathom",

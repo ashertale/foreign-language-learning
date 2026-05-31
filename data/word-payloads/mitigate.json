@@ -4,58 +4,98 @@
     "slug": "mitigate",
     "outputPath": "prototypes/mitigate.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Mitigate",
-    "WORD_SLUG": "mitigate",
-    "WORD_LOWER": "mitigate",
-    "PART_OF_SPEECH": "verb",
-    "IPA": "MIT-i-gayt · UK /ˈmɪt.ɪ.ɡeɪt/ · US /ˈmɪt̬.ə.ɡeɪt/",
-    "THESIS": "不是把問題消滅，而是降低它的傷害、嚴重性或發生後的代價。",
-    "CEFR_LEVEL": "C1",
-    "ZIPF_FREQUENCY": "3.54",
-    "CORE_IDEA": "<code>mitigate</code> 不是把壞事變不見，而是把它的嚴重度降下來：風險仍可能存在，但傷害、衝擊或代價被控制住。",
-    "SHORT_DEFINITION": "使有害、不舒服、嚴重或糟糕的事情變得較不嚴重；減輕、緩和其影響。",
-    "CONFUSION_WORD": "Solve",
-    "CONFUSION_NOTE": "<code>solve</code> 表示問題被解掉；<code>mitigate</code> 表示損害被降低，但風險或原因可能仍存在。",
-    "FLOW_1": "壞事或風險存在",
-    "FLOW_2": "採取控制措施",
-    "FLOW_3": "降低衝擊與代價",
-    "ORIGIN_PARAGRAPH": "<code>mitigate</code> 來自 Latin <code>mitigare</code>，意思是「使柔和、使溫和」。它和 <code>mitis</code>（gentle, soft）有關，核心畫面不是消滅，而是把尖銳的傷害變鈍、變輕。",
-    "ORIGIN_MEMORY": "把 <code>mitigate</code> 想成把尖銳的邊磨鈍：東西還在，但不再那麼割手。這就是它和 <code>fix</code>、<code>solve</code> 的差別。",
-    "MEMORY_HOOK": "<code>mitigate</code> 不是把火熄掉，而是先降低燙傷的程度。",
-    "MEMORY_EXPLANATION": "在風險語言裡，這個差別很重要。你可能無法完全避免斷電、網路抖動或人為操作錯誤，但可以降低它造成的損害。",
-    "DAILY_USAGE": "登山時多帶水不是消除炎熱，而是 <code>mitigate the heat</code>：讓高溫造成的不適與風險變小。",
-    "PROFESSIONAL_USAGE": "韌體加入 watchdog reset 可能沒有根除 rare communication deadlock，但可以 <code>mitigate the impact</code>：讓系統更快恢復、縮小故障時間。",
-    "DOMAIN_USAGE": "資安團隊用分層控制、logging 與最小權限來 <code>mitigate risk</code>：攻擊未必不存在，但可被偵測、限制或降低損害。",
-    "COLLOCATION_NOTE": "這一區是 <code>mitigate + risk/damage/impact/effects</code> 的自然搭配；後面的辨析表才處理 <code>mitigate</code>、<code>prevent</code>、<code>solve</code> 等近義邊界。",
-    "COLLOCATION_1": "mitigate risk",
-    "REGISTER_1": "商務 / 工程 / 風險管理",
-    "COLLOCATION_NOTE_1": "最常見，用於降低風險機率或風險後果。",
-    "COLLOCATION_2": "mitigate the impact",
-    "REGISTER_2": "專業報告 / 分析語境",
-    "COLLOCATION_NOTE_2": "表示事情可能仍會發生，但衝擊範圍被降低。",
-    "COLLOCATION_3": "mitigating circumstances",
-    "REGISTER_3": "法律 / 正式",
-    "COLLOCATION_NOTE_3": "法律語境，表示可減輕責任或懲罰的情況，但不是完全免責。",
-    "NEIGHBOR_SELF": "降低壞事的嚴重性或傷害；風險可能仍在，但後果被壓低",
-    "NEIGHBOR_SELF_USE": "談風險、損害、衝擊、資安、工程缺陷、法律責任",
-    "NEIGHBOR_1": "Prevent",
-    "NEIGHBOR_1_MEANING": "阻止事情發生；重點是讓事件不要出現，而不是降低事件發生後的後果",
-    "NEIGHBOR_1_USE": "用於預防事故、漏洞、疾病或錯誤流程；若事情已經可能發生，通常改用 <code>mitigate</code>",
-    "MODERN_USE_1": "在工程文件裡，<code>mitigation</code> 通常不是最終修復，而是風險控制。這能幫你誠實區分 <code>workaround</code>、<code>guardrail</code> 和 <code>root-cause fix</code>。",
-    "MODERN_USE_2": "在資安與可靠度語境中，<code>mitigate</code> 常和 <code>layered defense</code>、<code>monitoring</code>、<code>rollback</code>、<code>rate limiting</code> 等措施一起出現。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義、動詞詞性與 IPA 參考 Cambridge Dictionary；核心義是讓有害、不舒服或糟糕的事情變得較不嚴重。",
-    "DICTIONARY_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
-    "DICTIONARY_LABEL": "Cambridge Dictionary",
-    "MODERN_SOURCE_NOTE": "現代常見搭配如 <code>mitigate damage</code>、<code>mitigate risk</code>、<code>mitigate effects</code>、<code>mitigate impact</code> 參考 Cambridge 的例句與商務英語用法。",
-    "MODERN_SOURCE_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
-    "MODERN_SOURCE_LABEL": "Cambridge Dictionary",
-    "CHECK_MEANING": "我能說出 <code>mitigate</code> 和 <code>solve</code> 的差異：減輕不等於解決。",
-    "CHECK_ORIGIN": "我記得它有「使變柔和、把傷害磨鈍」的字源畫面。",
-    "CHECK_SENTENCE": "我能用它造一句風險、工程或資安情境的英文句子。",
-    "PRACTICE_SENTENCE": "This patch does not fully fix _____, but it mitigates _____ by _____.",
-    "REFERENCE_URL": "https://dictionary.cambridge.org/dictionary/english/mitigate",
-    "REFERENCE_LABEL": "Cambridge Dictionary"
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "MIT-i-gayt · UK /ˈmɪt.ɪ.ɡeɪt/ · US /ˈmɪt̬.ə.ɡeɪt/",
+    "hero": {
+      "thesis": "不是把問題消滅，而是降低它的傷害、嚴重性或發生後的代價。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.54"
+    },
+    "coreIdea": "<code>mitigate</code> 不是把壞事變不見，而是把它的嚴重度降下來：風險仍可能存在，但傷害、衝擊或代價被控制住。",
+    "definition": {
+      "summary": "使有害、不舒服、嚴重或糟糕的事情變得較不嚴重；減輕、緩和其影響。",
+      "contrast": {
+        "word": "Solve",
+        "note": "<code>solve</code> 表示問題被解掉；<code>mitigate</code> 表示損害被降低，但風險或原因可能仍存在。"
+      },
+      "flow": [
+        "壞事或風險存在",
+        "採取控制措施",
+        "降低衝擊與代價"
+      ]
+    },
+    "memory": {
+      "hook": "<code>mitigate</code> 不是把火熄掉，而是先降低燙傷的程度。",
+      "explanation": "在風險語言裡，這個差別很重要。你可能無法完全避免斷電、網路抖動或人為操作錯誤，但可以降低它造成的損害。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "登山時多帶水不是消除炎熱，而是 <code>mitigate the heat</code>：讓高溫造成的不適與風險變小。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "韌體加入 watchdog reset 可能沒有根除 rare communication deadlock，但可以 <code>mitigate the impact</code>：讓系統更快恢復、縮小故障時間。"
+      },
+      {
+        "label": "延伸版",
+        "body": "資安團隊用分層控制、logging 與最小權限來 <code>mitigate risk</code>：攻擊未必不存在，但可被偵測、限制或降低損害。"
+      }
+    ],
+    "collocations": {
+      "note": "這一區是 <code>mitigate + risk/damage/impact/effects</code> 的自然搭配；後面的辨析表才處理 <code>mitigate</code>、<code>prevent</code>、<code>solve</code> 等近義邊界。",
+      "items": [
+        {
+          "phrase": "mitigate risk",
+          "register": "商務 / 工程 / 風險管理",
+          "note": "最常見，用於降低風險機率或風險後果。"
+        },
+        {
+          "phrase": "mitigate the impact",
+          "register": "專業報告 / 分析語境",
+          "note": "表示事情可能仍會發生，但衝擊範圍被降低。"
+        },
+        {
+          "phrase": "mitigating circumstances",
+          "register": "法律 / 正式",
+          "note": "法律語境，表示可減輕責任或懲罰的情況，但不是完全免責。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "降低壞事的嚴重性或傷害；風險可能仍在，但後果被壓低",
+        "use": "談風險、損害、衝擊、資安、工程缺陷、法律責任"
+      },
+      "others": [
+        {
+          "word": "Prevent",
+          "meaning": "阻止事情發生；重點是讓事件不要出現，而不是降低事件發生後的後果",
+          "use": "用於預防事故、漏洞、疾病或錯誤流程；若事情已經可能發生，通常改用 <code>mitigate</code>"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程文件裡，<code>mitigation</code> 通常不是最終修復，而是風險控制。這能幫你誠實區分 <code>workaround</code>、<code>guardrail</code> 和 <code>root-cause fix</code>。",
+      "在資安與可靠度語境中，<code>mitigate</code> 常和 <code>layered defense</code>、<code>monitoring</code>、<code>rollback</code>、<code>rate limiting</code> 等措施一起出現。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義、動詞詞性與 IPA 參考 Cambridge Dictionary；核心義是讓有害、不舒服或糟糕的事情變得較不嚴重。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "現代常見搭配如 <code>mitigate damage</code>、<code>mitigate risk</code>、<code>mitigate effects</code>、<code>mitigate impact</code> 參考 Cambridge 的例句與商務英語用法。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/mitigate",
+        "label": "Cambridge Dictionary"
+      }
+    },
+    "origin": {
+      "history": "<code>mitigate</code> 來自 Latin <code>mitigare</code>，意思是「使柔和、使溫和」。它和 <code>mitis</code>（gentle, soft）有關，核心畫面不是消滅，而是把尖銳的傷害變鈍、變輕。",
+      "memoryLens": "把 <code>mitigate</code> 想成把尖銳的邊磨鈍：東西還在，但不再那麼割手。這就是它和 <code>fix</code>、<code>solve</code> 的差別。"
+    }
   },
   "indexEntry": {
     "id": "mitigate",

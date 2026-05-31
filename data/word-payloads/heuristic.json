@@ -4,58 +4,98 @@
     "slug": "heuristic",
     "outputPath": "prototypes/heuristic.html"
   },
-  "templatePlaceholders": {
-    "WORD_TITLE": "Heuristic",
-    "WORD_SLUG": "heuristic",
-    "WORD_LOWER": "heuristic",
-    "PART_OF_SPEECH": "noun",
-    "IPA": "hyoo-RIS-tik · UK /hjʊˈrɪs.tɪk/ · US /hjuːˈrɪs.tɪk/",
-    "THESIS": "不是保證正確的公式，而是在複雜問題裡幫你快速找到可行方向的經驗法則。",
-    "CEFR_LEVEL": "C2",
-    "ZIPF_FREQUENCY": "2.72",
-    "CORE_IDEA": "<code>heuristic</code> 是實用的規則、方法或捷徑，幫你在完整證明太慢或太貴時找到可行答案。",
-    "SHORT_DEFINITION": "rule of thumb 或實用方法，特別用於完美方法不切實際時協助解題或決策。",
-    "CONFUSION_WORD": "Algorithm",
-    "CONFUSION_NOTE": "<code>algorithm</code> 通常是清楚定義的步驟；<code>heuristic</code> 是幫你快一點接近答案的經驗策略。",
-    "FLOW_1": "選項太多",
-    "FLOW_2": "套用經驗規則",
-    "FLOW_3": "找到可行方向",
-    "ORIGIN_PARAGRAPH": "<code>heuristic</code> 和 Greek <code>heuriskein</code> 有關，意思是 to find 或 discover。它也讓人想到 Eureka，那種「找到了」的瞬間。",
-    "ORIGIN_MEMORY": "字源不是「規則」本身，而是「找到」。所以 heuristic 的精神不是法律條文，而是幫你在霧裡找到路標。",
-    "MEMORY_HOOK": "<code>heuristic</code> 是手電筒，不是整張地圖。",
-    "MEMORY_EXPLANATION": "在 debug、設計或決策裡，你常常不能把所有路都走完。heuristic 先照亮最可能有答案的方向，之後還是要用證據驗證。",
-    "DAILY_USAGE": "買工具時，一個實用 heuristic 是選你能維護、也真的會使用的工具，而不是 feature list 最長的工具。",
-    "PROFESSIONAL_USAGE": "一個 debugging heuristic 是先重現 failure，再一次只改一個變因。",
-    "DOMAIN_USAGE": "在 AI 與 search problem 裡，heuristics 會引導系統往有希望的路徑走，而不是檢查每一種可能。",
-    "COLLOCATION_NOTE": "Heuristic 常和 method、rule、shortcut、bias 搭配；它可以是實用策略，也可能造成偏誤。",
-    "COLLOCATION_1": "a useful heuristic",
-    "REGISTER_1": "一般 / 專業",
-    "COLLOCATION_NOTE_1": "指能在真實限制下幫助判斷的經驗法則。",
-    "COLLOCATION_2": "heuristic method",
-    "REGISTER_2": "工程 / 數學",
-    "COLLOCATION_NOTE_2": "指不一定保證最優，但能有效引導求解的方法。",
-    "COLLOCATION_3": "heuristic bias",
-    "REGISTER_3": "心理學",
-    "COLLOCATION_NOTE_3": "指人腦捷徑帶來的判斷偏誤，例如過度依賴最近看到的例子。",
-    "NEIGHBOR_SELF": "實用捷徑，幫助探索與決策",
-    "NEIGHBOR_SELF_USE": "問題太大、資訊不完整、需要先找到方向時",
-    "NEIGHBOR_1": "Algorithm",
-    "NEIGHBOR_1_MEANING": "明確步驟，通常追求可重複與可證明",
-    "NEIGHBOR_1_USE": "當程序已經定義清楚，輸入輸出規則明確時",
-    "MODERN_USE_1": "現代英文裡，<code>heuristic</code> 常出現在 software、AI、human factors、product design 與認知心理學。",
-    "MODERN_USE_2": "當你想說一個方法實用、能導路，但不是數學保證或放諸四海皆準時，這個字特別精準。",
-    "DICTIONARY_SOURCE_NOTE": "基本定義參考 Merriam-Webster；包含 noun 與 adjective，用於透過實用方法解題或發現。",
-    "DICTIONARY_URL": "https://www.merriam-webster.com/dictionary/heuristic",
-    "DICTIONARY_LABEL": "Merriam-Webster",
-    "MODERN_SOURCE_NOTE": "現代例句支持它用於學習、解題、捷徑與認知偏誤。",
-    "MODERN_SOURCE_URL": "https://www.merriam-webster.com/dictionary/heuristic",
-    "MODERN_SOURCE_LABEL": "Merriam-Webster",
-    "CHECK_MEANING": "我能說出 heuristic 和 algorithm 的差異。",
-    "CHECK_ORIGIN": "我記得它和 Greek <code>heuriskein</code>，to find，有關。",
-    "CHECK_SENTENCE": "我能用它造一句 debug、決策或搜尋問題的英文句子。",
-    "PRACTICE_SENTENCE": "A good <code>heuristic</code> is to check the newest change before rewriting the whole driver.",
-    "REFERENCE_URL": "https://www.merriam-webster.com/dictionary/heuristic",
-    "REFERENCE_LABEL": "Merriam-Webster"
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "hyoo-RIS-tik · UK /hjʊˈrɪs.tɪk/ · US /hjuːˈrɪs.tɪk/",
+    "hero": {
+      "thesis": "不是保證正確的公式，而是在複雜問題裡幫你快速找到可行方向的經驗法則。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.72"
+    },
+    "coreIdea": "<code>heuristic</code> 是實用的規則、方法或捷徑，幫你在完整證明太慢或太貴時找到可行答案。",
+    "definition": {
+      "summary": "rule of thumb 或實用方法，特別用於完美方法不切實際時協助解題或決策。",
+      "contrast": {
+        "word": "Algorithm",
+        "note": "<code>algorithm</code> 通常是清楚定義的步驟；<code>heuristic</code> 是幫你快一點接近答案的經驗策略。"
+      },
+      "flow": [
+        "選項太多",
+        "套用經驗規則",
+        "找到可行方向"
+      ]
+    },
+    "memory": {
+      "hook": "<code>heuristic</code> 是手電筒，不是整張地圖。",
+      "explanation": "在 debug、設計或決策裡，你常常不能把所有路都走完。heuristic 先照亮最可能有答案的方向，之後還是要用證據驗證。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "買工具時，一個實用 heuristic 是選你能維護、也真的會使用的工具，而不是 feature list 最長的工具。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "一個 debugging heuristic 是先重現 failure，再一次只改一個變因。"
+      },
+      {
+        "label": "延伸版",
+        "body": "在 AI 與 search problem 裡，heuristics 會引導系統往有希望的路徑走，而不是檢查每一種可能。"
+      }
+    ],
+    "collocations": {
+      "note": "Heuristic 常和 method、rule、shortcut、bias 搭配；它可以是實用策略，也可能造成偏誤。",
+      "items": [
+        {
+          "phrase": "a useful heuristic",
+          "register": "一般 / 專業",
+          "note": "指能在真實限制下幫助判斷的經驗法則。"
+        },
+        {
+          "phrase": "heuristic method",
+          "register": "工程 / 數學",
+          "note": "指不一定保證最優，但能有效引導求解的方法。"
+        },
+        {
+          "phrase": "heuristic bias",
+          "register": "心理學",
+          "note": "指人腦捷徑帶來的判斷偏誤，例如過度依賴最近看到的例子。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "實用捷徑，幫助探索與決策",
+        "use": "問題太大、資訊不完整、需要先找到方向時"
+      },
+      "others": [
+        {
+          "word": "Algorithm",
+          "meaning": "明確步驟，通常追求可重複與可證明",
+          "use": "當程序已經定義清楚，輸入輸出規則明確時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>heuristic</code> 常出現在 software、AI、human factors、product design 與認知心理學。",
+      "當你想說一個方法實用、能導路，但不是數學保證或放諸四海皆準時，這個字特別精準。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義參考 Merriam-Webster；包含 noun 與 adjective，用於透過實用方法解題或發現。",
+        "url": "https://www.merriam-webster.com/dictionary/heuristic",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句支持它用於學習、解題、捷徑與認知偏誤。",
+        "url": "https://www.merriam-webster.com/dictionary/heuristic",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>heuristic</code> 和 Greek <code>heuriskein</code> 有關，意思是 to find 或 discover。它也讓人想到 Eureka，那種「找到了」的瞬間。",
+      "memoryLens": "字源不是「規則」本身，而是「找到」。所以 heuristic 的精神不是法律條文，而是幫你在霧裡找到路標。"
+    }
   },
   "indexEntry": {
     "id": "heuristic",
