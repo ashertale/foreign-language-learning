@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Explicate",
+    "slug": "explicate",
+    "outputPath": "prototypes/explicate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "EK-splih-kayt · UK /ˈek.splɪ.keɪt/ · US /ˈek.splə.keɪt/",
+    "hero": {
+      "thesis": "不是簡單解釋，而是把隱含結構攤開講清楚。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.31"
+    },
+    "coreIdea": "<code>explicate</code> 表示詳細闡釋文本、概念或推理，把原本折在裡面的意思展開。",
+    "definition": {
+      "summary": "表示詳細說明、闡釋，尤其是分析複雜文本或概念。",
+      "contrast": {
+        "word": "Explain",
+        "note": "<code>explain</code> 很常用；<code>explicate</code> 更正式，常有逐層展開的分析感。"
+      },
+      "flow": [
+        "概念壓縮在一起",
+        "逐層展開",
+        "內部結構變清楚"
+      ]
+    },
+    "memory": {
+      "hook": "<code>explicate</code> 是把摺好的紙打開，看見裡面的圖。",
+      "explanation": "它比 explain 更慢、更細，也更像分析。"
+    },
+    "usage": [
+      {
+        "label": "文本版",
+        "body": "The essay explicates the metaphor rather than only translating it. 這個情境凸顯「詳細說明、闡釋，尤其是分析複雜文本或概念」。"
+      },
+      {
+        "label": "設計版",
+        "body": "A good design note explicates why each trade-off was chosen. 讀這句時，焦點在「詳細說明、闡釋，尤其是分析複雜文本或概念」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "explicate a concept",
+          "register": "學術 / 教學",
+          "note": "詳細闡釋概念。"
+        },
+        {
+          "phrase": "explicate the meaning",
+          "register": "文學 / 分析",
+          "note": "展開說明意義。"
+        },
+        {
+          "phrase": "carefully explicate",
+          "register": "正式寫作",
+          "note": "仔細闡釋。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示詳細說明、闡釋，尤其是分析複雜文本或概念。",
+        "use": "用在「不是簡單解釋，而是把隱含結構攤開講清楚」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Clarify",
+          "meaning": "clarify 是讓不清楚變清楚；explicate 是把複雜內容細緻展開。",
+          "use": "當 Clarify 這邊的語氣更貼近目標時，不要硬套 <code>explicate</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在技術寫作裡，<code>explicate</code> 對應的不只是答案，而是把背後推理攤開，讓讀者能檢查。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 explicate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/explicate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 explicate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/explicate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>explicate</code> 來自 Latin <code>explicare</code>，意思是「展開、攤開」。",
+      "memoryLens": "想成把折起來的紙打開；複雜意思被展開後，裡面的結構才看得見。"
+    }
+  },
+  "indexEntry": {
+    "id": "explicate",
+    "word": "Explicate",
+    "partOfSpeech": "verb",
+    "href": "./explicate.html",
+    "thesis": "不是簡單解釋，而是把隱含結構攤開講清楚。",
+    "tags": [
+      "闡釋",
+      "展開說明",
+      "explain",
+      "analysis",
+      "writing",
+      "concept",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/explicate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/explicate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/explicate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

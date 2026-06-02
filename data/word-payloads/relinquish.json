@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Relinquish",
+    "slug": "relinquish",
+    "outputPath": "prototypes/relinquish.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-LING-kwish · UK /rɪˈlɪŋ.kwɪʃ/ · US /rɪˈlɪŋ.kwɪʃ/",
+    "hero": {
+      "thesis": "不是不小心失去，而是把原本握住的東西放手交出去。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.93"
+    },
+    "coreIdea": "<code>relinquish</code> 用來描述放棄控制、權利、職位、責任或持有物，常帶正式或不情願的味道。",
+    "definition": {
+      "summary": "表示放棄、交出、讓渡某個權利、控制、職位或持有物。",
+      "contrast": {
+        "word": "Lose",
+        "note": "<code>lose</code> 可能是被動失去；<code>relinquish</code> 是主動或正式地放手。"
+      },
+      "flow": [
+        "原本握有控制",
+        "決定或被要求放手",
+        "權利轉離自己"
+      ]
+    },
+    "origin": {
+      "history": "<code>relinquish</code> 來自拉丁語 <code>relinquere</code>，意思是留下、放棄、離開。",
+      "memoryLens": "它像把握緊的鑰匙放到桌上，承認控制權不再在自己手裡。"
+    },
+    "memory": {
+      "hook": "<code>relinquish</code> 是把手從控制權上鬆開。",
+      "explanation": "這個字的重量在於曾經擁有；沒有握住過，就談不上 relinquish。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "搬家時你可能 <code>relinquish</code> old belongings，正式一點地說就是放手不再保留。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在系統交接或治理中，maintainer may <code>relinquish control</code> to a new owner，讓責任清楚轉移。"
+      }
+    ],
+    "collocations": {
+      "note": "Relinquish 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "relinquish control",
+          "register": "管理 / 系統",
+          "note": "交出控制權。"
+        },
+        {
+          "phrase": "relinquish a claim",
+          "register": "法律 / 談判",
+          "note": "放棄主張或要求。"
+        },
+        {
+          "phrase": "relinquish responsibility",
+          "register": "組織 / 專案",
+          "note": "正式放下責任或移交。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "主動或正式放棄原本握有的東西",
+        "use": "談控制權、責任、職位、法律主張、持有物或交接時"
+      },
+      "others": [
+        {
+          "word": "Lose",
+          "meaning": "不小心失去或不再擁有",
+          "use": "失去不是主動或正式放手時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 ownership 設計裡，<code>relinquish</code> 是乾淨交接的字；它讓權責從曖昧變成明確轉移。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 relinquish 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/relinquish",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 relinquish 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/relinquish",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "relinquish",
+    "word": "Relinquish",
+    "partOfSpeech": "verb",
+    "href": "./relinquish.html",
+    "thesis": "不是不小心失去，而是把原本握住的東西放手交出去。",
+    "tags": [
+      "放棄",
+      "交出",
+      "lose",
+      "ownership",
+      "control",
+      "handoff",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/relinquish",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/relinquish",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/relinquish",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

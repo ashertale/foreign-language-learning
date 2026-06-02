@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Provoke",
+    "slug": "provoke",
+    "outputPath": "prototypes/provoke.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "pruh-VOHK · UK /prəˈvəʊk/ · US /prəˈvoʊk/",
+    "hero": {
+      "thesis": "不是普通引起，而是刺激出強烈反應，常帶挑動意味。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.87"
+    },
+    "coreIdea": "<code>provoke</code> 用來描述言語、事件、設計或行動激起憤怒、思考、辯論或其他明顯反應。",
+    "definition": {
+      "summary": "表示激起、引發或挑動某種強烈反應。",
+      "contrast": {
+        "word": "Cause",
+        "note": "<code>cause</code> 是造成；<code>provoke</code> 強調刺激與反應強度，常有人被挑起來。"
+      },
+      "flow": [
+        "刺激因素出現",
+        "情緒或思考被挑動",
+        "反應變強"
+      ]
+    },
+    "origin": {
+      "history": "<code>provoke</code> 來自拉丁語 <code>provocare</code>，意思是呼喚出來、挑戰。",
+      "memoryLens": "它像在安靜房間裡丟下一句刺耳的話，反應被拉出來。"
+    },
+    "memory": {
+      "hook": "<code>provoke</code> 是把反應從人心裡挑出來。",
+      "explanation": "這個字可負可正：可以 provoke anger，也可以 provoke thought。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一句不必要的嘲諷可能 <code>provoke</code> an argument，讓原本平靜的對話爆開。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "好的設計問題可以 <code>provoke</code> discussion，迫使團隊面對被忽略的取捨。"
+      }
+    ],
+    "collocations": {
+      "note": "Provoke 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "provoke anger",
+          "register": "情緒 / 衝突",
+          "note": "激起憤怒。"
+        },
+        {
+          "phrase": "provoke debate",
+          "register": "公共 / 會議",
+          "note": "引發辯論。"
+        },
+        {
+          "phrase": "thought-provoking",
+          "register": "寫作 / 教學",
+          "note": "能引發思考的。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "刺激出強烈反應",
+        "use": "談情緒、辯論、思考、衝突、設計問題或公共事件時"
+      },
+      "others": [
+        {
+          "word": "Cause",
+          "meaning": "造成某個結果",
+          "use": "只是因果關係，不強調刺激反應時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品研究中，<code>provoke</code> 有時是刻意方法：提出尖銳假設，讓隱性需求與真實阻力浮出來。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 provoke 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/provoke",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 provoke 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/provoke",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "provoke",
+    "word": "Provoke",
+    "partOfSpeech": "verb",
+    "href": "./provoke.html",
+    "thesis": "不是普通引起，而是刺激出強烈反應，常帶挑動意味。",
+    "tags": [
+      "激起",
+      "挑動",
+      "cause",
+      "debate",
+      "emotion",
+      "research",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/provoke",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/provoke",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/provoke",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

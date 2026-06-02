@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Elaborate",
+    "slug": "elaborate",
+    "outputPath": "prototypes/elaborate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-LAB-uh-rayt · UK /iˈlæb.ər.eɪt/ · US /iˈlæb.ə.reɪt/",
+    "hero": {
+      "thesis": "不是把話變長，而是把缺少的細節補到足以理解。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.03"
+    },
+    "coreIdea": "<code>elaborate</code> 用來請人把想法、理由、計畫或問題多展開一些，讓輪廓與細節都能被看見。",
+    "definition": {
+      "summary": "表示詳細說明、補充細節或把某個想法發展得更完整。",
+      "contrast": {
+        "word": "Expand",
+        "note": "<code>expand</code> 是展開；<code>elaborate</code> 更強調補上精細細節與說明。"
+      },
+      "flow": [
+        "先有概略想法",
+        "補入細節與理由",
+        "意思變完整"
+      ]
+    },
+    "origin": {
+      "history": "<code>elaborate</code> 來自拉丁語 <code>elaborare</code>，有努力工作、仔細做出的意味。",
+      "memoryLens": "它像把草圖慢慢畫成施工圖，不只是放大，而是補細節。"
+    },
+    "memory": {
+      "hook": "<code>elaborate</code> 是把輪廓補到別人能真的跟上。",
+      "explanation": "好的 elaborate 不是冗長，而是讓關鍵缺口消失。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "別人說「我覺得怪怪的」時，你可以問 Could you <code>elaborate</code>?"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在 bug report 裡，<code>elaborate on the reproduction steps</code> 能讓問題從抱怨變成可處理資訊。"
+      }
+    ],
+    "collocations": {
+      "note": "Elaborate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "elaborate on a point",
+          "register": "會議 / 寫作",
+          "note": "針對某一點補充細節。"
+        },
+        {
+          "phrase": "elaborate explanation",
+          "register": "教學 / 文件",
+          "note": "細節較完整的說明。"
+        },
+        {
+          "phrase": "elaborate design",
+          "register": "設計 / 工程",
+          "note": "精細、細節很多的設計。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "補充細節，使想法更完整",
+        "use": "談說明、文件、報告、設計、理由或重現步驟時"
+      },
+      "others": [
+        {
+          "word": "Expand",
+          "meaning": "讓範圍變大或展開",
+          "use": "只是增加範圍，不強調細節精細度時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在非同步協作中，<code>elaborate</code> 常是把模糊訊息變成可執行資訊的關鍵請求。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 elaborate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/elaborate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 elaborate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/elaborate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "elaborate",
+    "word": "Elaborate",
+    "partOfSpeech": "verb",
+    "href": "./elaborate.html",
+    "thesis": "不是把話變長，而是把缺少的細節補到足以理解。",
+    "tags": [
+      "詳述",
+      "補細節",
+      "expand",
+      "bug report",
+      "documentation",
+      "communication",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/elaborate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/elaborate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/elaborate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

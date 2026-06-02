@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Attest",
+    "slug": "attest",
+    "outputPath": "prototypes/attest.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-TEST · UK /əˈtest/ · US /əˈtest/",
+    "hero": {
+      "thesis": "不是隨口說是真的，而是以證據或見證支持某件事。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.79"
+    },
+    "coreIdea": "<code>attest</code> 表示證明、作證或顯示某事為真；它常帶有正式可信度。",
+    "definition": {
+      "summary": "表示證明、證實、見證某事的真實性。",
+      "contrast": {
+        "word": "Claim",
+        "note": "<code>claim</code> 是聲稱；<code>attest</code> 要有見證、文件或結果作支撐。"
+      },
+      "flow": [
+        "有人提出事實",
+        "證據或見證出現",
+        "可信度增加"
+      ]
+    },
+    "memory": {
+      "hook": "<code>attest</code> 是在文件旁蓋下「我能證明」。",
+      "explanation": "它把話語從主張推向可被信任的證明。"
+    },
+    "usage": [
+      {
+        "label": "正式版",
+        "body": "The certificate can <code>attest</code> to the product's compliance. 這個情境凸顯「證明、證實、見證某事的真實性」。"
+      },
+      {
+        "label": "結果版",
+        "body": "Stable test results <code>attest</code> to the robustness of the design. 讀這句時，焦點在「證明、證實、見證某事的真實性」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "attest to",
+          "register": "正式 / 文件",
+          "note": "最常見用法，表示證明某事。"
+        },
+        {
+          "phrase": "attest the truth",
+          "register": "法律 / 正式",
+          "note": "證明真實性。"
+        },
+        {
+          "phrase": "attested by evidence",
+          "register": "學術 / 調查",
+          "note": "由證據支持。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示證明、證實、見證某事的真實性。",
+        "use": "用在「不是隨口說是真的，而是以證據或見證支持某件事」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Substantiate",
+          "meaning": "substantiate 是用證據支撐主張；attest 更像證明或見證其真實。",
+          "use": "當 Substantiate 這邊的語氣更貼近目標時，不要硬套 <code>attest</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在合規與審計語境中，<code>attest</code> 很有重量，因為它把責任與可信度放進同一句話。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 attest 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/attest",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 attest 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/attest",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>attest</code> 來自 Latin <code>attestari</code>，意思是「作證、證明」。它和 testimony 的證言概念相近。",
+      "memoryLens": "把它記成有人站出來作證：不是 claim，而是能替真實性背書。"
+    }
+  },
+  "indexEntry": {
+    "id": "attest",
+    "word": "Attest",
+    "partOfSpeech": "verb",
+    "href": "./attest.html",
+    "thesis": "不是隨口說是真的，而是以證據或見證支持某件事。",
+    "tags": [
+      "證明",
+      "見證",
+      "evidence",
+      "audit",
+      "compliance",
+      "claim",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/attest",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/attest",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/attest",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

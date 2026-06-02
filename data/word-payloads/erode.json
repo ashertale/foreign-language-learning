@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Erode",
+    "slug": "erode",
+    "outputPath": "prototypes/erode.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-ROHD · UK /ɪˈrəʊd/ · US /ɪˈroʊd/",
+    "hero": {
+      "thesis": "不是一下子毀掉，而是長時間一點一點磨掉基礎。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.39"
+    },
+    "coreIdea": "<code>erode</code> 原本可指水或風侵蝕土地，也常用來描述信任、利潤、安全邊界或品質逐步被削弱。",
+    "definition": {
+      "summary": "表示侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱。",
+      "contrast": {
+        "word": "Destroy",
+        "note": "<code>destroy</code> 是摧毀；<code>erode</code> 是慢慢磨損到失去力量。"
+      },
+      "flow": [
+        "基礎原本穩",
+        "持續小幅磨損",
+        "支撐力下降"
+      ]
+    },
+    "memory": {
+      "hook": "<code>erode</code> 是海浪每天拍一點，最後岸線退後。",
+      "explanation": "它的危險在慢：每次都不大，但累積後很深。"
+    },
+    "usage": [
+      {
+        "label": "組織版",
+        "body": "Repeated broken promises <code>erode</code> trust. 這個情境凸顯「侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱」。"
+      },
+      {
+        "label": "商務版",
+        "body": "Rising costs can <code>erode</code> margins over time. 讀這句時，焦點在「侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "erode trust",
+          "register": "組織 / 人際",
+          "note": "逐漸消耗信任。"
+        },
+        {
+          "phrase": "erode margins",
+          "register": "商務 / 財務",
+          "note": "侵蝕利潤空間。"
+        },
+        {
+          "phrase": "soil erosion",
+          "register": "環境 / 地理",
+          "note": "土壤侵蝕。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱。",
+        "use": "用在「不是一下子毀掉，而是長時間一點一點磨掉基礎」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Degrade",
+          "meaning": "degrade 偏品質下降；erode 更像基礎被慢慢侵蝕。",
+          "use": "當 Degrade 這邊的語氣更貼近目標時，不要硬套 <code>erode</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 reliability work 中，<code>erode</code> 能描述那些每天只壞一點的系統習慣，最後會變成大事故。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 erode 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/erode",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 erode 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/erode",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>erode</code> 來自 Latin <code>erodere</code>，意思是「咬掉、啃蝕」。其中 <code>rodere</code> 是 gnaw 的概念。",
+      "memoryLens": "侵蝕不是爆炸，而是每天咬掉一點，最後基礎變薄。"
+    }
+  },
+  "indexEntry": {
+    "id": "erode",
+    "word": "Erode",
+    "partOfSpeech": "verb",
+    "href": "./erode.html",
+    "thesis": "不是一下子毀掉，而是長時間一點一點磨掉基礎。",
+    "tags": [
+      "侵蝕",
+      "削弱",
+      "trust",
+      "margin",
+      "quality",
+      "slow damage",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/erode",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/erode",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/erode",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

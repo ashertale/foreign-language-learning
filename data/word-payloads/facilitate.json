@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Facilitate",
+    "slug": "facilitate",
+    "outputPath": "prototypes/facilitate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "fuh-SIL-uh-tayt · UK /fəˈsɪl.ɪ.teɪt/ · US /fəˈsɪl.ə.teɪt/",
+    "hero": {
+      "thesis": "不是替別人完成，而是讓事情更容易發生、更順利前進。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.00"
+    },
+    "coreIdea": "<code>facilitate</code> 用來描述移除摩擦、設計條件、主持流程或提供工具，使人更容易合作、學習或完成任務。",
+    "definition": {
+      "summary": "表示促進、協助，使某個流程、合作、學習或行動更容易進行。",
+      "contrast": {
+        "word": "Do",
+        "note": "<code>do</code> 是親自做；<code>facilitate</code> 是創造條件，讓事情能被做成。"
+      },
+      "flow": [
+        "事情有阻力",
+        "移除摩擦或安排流程",
+        "行動變容易"
+      ]
+    },
+    "origin": {
+      "history": "<code>facilitate</code> 來自拉丁語 <code>facilis</code>，意思是容易的。",
+      "memoryLens": "它像替一條難走的路鋪上台階，不是替所有人走路。"
+    },
+    "memory": {
+      "hook": "<code>facilitate</code> 是把難事變得比較能開始、能完成。",
+      "explanation": "這個字的主角常不是做事的人，而是讓做事變順的環境。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "好的主持人會 <code>facilitate</code> discussion，讓安靜的人也能進入對話。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "工具與流程可以 <code>facilitate collaboration</code>，例如清楚的模板、可追溯的決策紀錄與低摩擦的 review。"
+      }
+    ],
+    "collocations": {
+      "note": "Facilitate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "facilitate discussion",
+          "register": "會議 / 教學",
+          "note": "主持並促進討論。"
+        },
+        {
+          "phrase": "facilitate collaboration",
+          "register": "組織 / 工程",
+          "note": "讓協作更順。"
+        },
+        {
+          "phrase": "facilitate access",
+          "register": "公共服務 / 產品",
+          "note": "降低使用或取得門檻。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "創造條件，使事情更容易進行",
+        "use": "談會議、工具、流程、學習、協作或公共服務時"
+      },
+      "others": [
+        {
+          "word": "Do",
+          "meaning": "親自完成某件事",
+          "use": "重點是執行者本人完成任務時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品與工程管理裡，<code>facilitate</code> 常比 control 更健康；它表示設計好的環境讓人自然做出對的事。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 facilitate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/facilitate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 facilitate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/facilitate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "facilitate",
+    "word": "Facilitate",
+    "partOfSpeech": "verb",
+    "href": "./facilitate.html",
+    "thesis": "不是替別人完成，而是讓事情更容易發生、更順利前進。",
+    "tags": [
+      "促進",
+      "降低摩擦",
+      "do",
+      "collaboration",
+      "workflow",
+      "meeting",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/facilitate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/facilitate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/facilitate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

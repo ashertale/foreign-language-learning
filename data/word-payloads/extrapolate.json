@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Extrapolate",
+    "slug": "extrapolate",
+    "outputPath": "prototypes/extrapolate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ek-STRAP-uh-layt · UK /ɪkˈstræp.ə.leɪt/ · US /ɪkˈstræp.ə.leɪt/",
+    "hero": {
+      "thesis": "不是瞎猜，而是從已知資料往外推到尚未觀察的範圍。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.91"
+    },
+    "coreIdea": "<code>extrapolate</code> 用來描述根據既有趨勢、樣本或模型推估更遠、更大或未來的情況。",
+    "definition": {
+      "summary": "表示根據已知資料或趨勢推算未知範圍的結果。",
+      "contrast": {
+        "word": "Guess",
+        "note": "<code>guess</code> 可以沒有依據；<code>extrapolate</code> 至少要有已知資料或趨勢作支點。"
+      },
+      "flow": [
+        "已有資料範圍",
+        "看見趨勢",
+        "往外推估"
+      ]
+    },
+    "origin": {
+      "history": "<code>extrapolate</code> 是現代學術詞，從 <code>extra-</code> 與 <code>interpolate</code> 的模型發展出「往外推估」的意思。",
+      "memoryLens": "它像沿著已畫出的曲線，把線延伸到圖表外面。"
+    },
+    "memory": {
+      "hook": "<code>extrapolate</code> 是拿已知的一小段線去想像未畫出的下一段。",
+      "explanation": "這個字一定帶風險，因為資料之外的世界可能不照原本趨勢走。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你不能只看一次遲到就 <code>extrapolate</code> that someone is always unreliable。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "效能測試中，工程師會從 sample load <code>extrapolate</code> behavior at scale，但要小心非線性瓶頸。"
+      }
+    ],
+    "collocations": {
+      "note": "Extrapolate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "extrapolate from data",
+          "register": "資料 / 科學",
+          "note": "從資料往外推估。"
+        },
+        {
+          "phrase": "extrapolate a trend",
+          "register": "分析 / 商務",
+          "note": "根據趨勢推測未來。"
+        },
+        {
+          "phrase": "unsafe extrapolation",
+          "register": "風險 / 研究",
+          "note": "超出資料支撐範圍的推估。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "從已知資料往未知範圍推估",
+        "use": "談資料、模型、趨勢、效能、研究或預測時"
+      },
+      "others": [
+        {
+          "word": "Guess",
+          "meaning": "沒有明確依據地猜",
+          "use": "只是憑直覺猜測，不靠資料時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在資料科學與工程容量規劃中，<code>extrapolate</code> 很常用，也很危險；它要求你同時說出依據與不確定性。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 extrapolate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/extrapolate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 extrapolate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/extrapolate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "extrapolate",
+    "word": "Extrapolate",
+    "partOfSpeech": "verb",
+    "href": "./extrapolate.html",
+    "thesis": "不是瞎猜，而是從已知資料往外推到尚未觀察的範圍。",
+    "tags": [
+      "外推",
+      "推估",
+      "guess",
+      "data",
+      "trend",
+      "capacity planning",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/extrapolate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/extrapolate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/extrapolate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

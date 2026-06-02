@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Assert",
+    "slug": "assert",
+    "outputPath": "prototypes/assert.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-SURT · UK /əˈsɜːt/ · US /əˈsɝːt/",
+    "hero": {
+      "thesis": "不是輕輕提出，而是帶著確定感把主張放到桌上。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.16"
+    },
+    "coreIdea": "<code>assert</code> 用來描述明確宣稱、堅持權利或在程式中檢查某個條件必須成立。",
+    "definition": {
+      "summary": "表示明確主張、斷言或堅持某事為真，也可指維護權利或地位。",
+      "contrast": {
+        "word": "Suggest",
+        "note": "<code>suggest</code> 留有試探空間；<code>assert</code> 是把立場清楚站穩。"
+      },
+      "flow": [
+        "形成判斷",
+        "清楚說出主張",
+        "要求對方正視"
+      ]
+    },
+    "origin": {
+      "history": "<code>assert</code> 來自拉丁語 <code>asserere</code>，有聲明、主張或宣稱權利的脈絡。",
+      "memoryLens": "它像把旗子插在地上：這是我的立場，不是隨口猜測。"
+    },
+    "memory": {
+      "hook": "<code>assert</code> 是把模糊意見推成可被檢驗的主張。",
+      "explanation": "在程式裡 assert 也很貼切：條件若不成立，世界就不該繼續假裝正常。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "當別人誤解你時，你可能需要 <code>assert</code> your boundaries，而不是只期待對方猜到。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "測試與除錯裡，<code>assert a condition</code> 是明確告訴系統：這個前提必須成立。"
+      }
+    ],
+    "collocations": {
+      "note": "Assert 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "assert a claim",
+          "register": "論證 / 法律",
+          "note": "清楚提出一個主張。"
+        },
+        {
+          "phrase": "assert one's rights",
+          "register": "法律 / 人際",
+          "note": "明確維護自己的權利。"
+        },
+        {
+          "phrase": "assert a condition",
+          "register": "程式 / 測試",
+          "note": "檢查某個前提必須成立。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "明確而有力量地提出主張",
+        "use": "談論證、權利、測試條件或清楚立場時"
+      },
+      "others": [
+        {
+          "word": "Suggest",
+          "meaning": "提出可能性或建議",
+          "use": "語氣還在試探、沒有要斷言時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程語境中，<code>assert</code> 同時是語言動作與程式動作；它把假設變成可見、可失敗、可修正的邊界。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 assert 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/assert",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 assert 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/assert",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "assert",
+    "word": "Assert",
+    "partOfSpeech": "verb",
+    "href": "./assert.html",
+    "thesis": "不是輕輕提出，而是帶著確定感把主張放到桌上。",
+    "tags": [
+      "斷言",
+      "主張",
+      "suggest",
+      "assertion",
+      "testing",
+      "rights",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/assert",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/assert",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assert",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Austere",
+    "slug": "austere",
+    "outputPath": "prototypes/austere.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "aw-STEER · UK /ɒsˈtɪər/ · US /ɑːˈstɪr/",
+    "hero": {
+      "thesis": "不是單純簡約，而是冷、硬、少裝飾，甚至帶一點嚴厲。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.96"
+    },
+    "coreIdea": "<code>austere</code> 用來描述空間、生活方式、政策或人的氣質刻意削去舒適與裝飾，只留下嚴格必要的部分。",
+    "definition": {
+      "summary": "形容風格、環境、生活或人很樸素、嚴格、缺少柔軟與裝飾。",
+      "contrast": {
+        "word": "Minimal",
+        "note": "<code>minimal</code> 可以是漂亮的少；<code>austere</code> 的少常帶冷硬、節制或不容放鬆。"
+      },
+      "flow": [
+        "裝飾被削掉",
+        "只留下必要",
+        "氣氛變冷硬"
+      ]
+    },
+    "origin": {
+      "history": "<code>austere</code> 來自希臘語 <code>austeros</code>，帶有乾澀、嚴厲的感覺。",
+      "memoryLens": "它的少不是柔和留白，而像乾冷空氣裡的石牆。"
+    },
+    "memory": {
+      "hook": "<code>austere</code> 是少到讓人感覺被要求收斂。",
+      "explanation": "同樣是簡單，minimal 可以舒服；austere 會讓人坐直。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一間沒有裝飾、燈光冷白、家具硬直的房間可以說是 <code>austere</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在政策語境中，<code>austere measures</code> 常指削減支出與限制資源，語氣比 simple budget cuts 更冷。"
+      }
+    ],
+    "collocations": {
+      "note": "Austere 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "austere design",
+          "register": "建築 / 設計",
+          "note": "冷靜、少裝飾且嚴格的設計。"
+        },
+        {
+          "phrase": "austere lifestyle",
+          "register": "生活 / 人物",
+          "note": "節制、少享受的生活方式。"
+        },
+        {
+          "phrase": "austere measures",
+          "register": "政治 / 經濟",
+          "note": "嚴格削減支出的措施。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "少裝飾且帶冷硬嚴格感",
+        "use": "談空間、政策、生活風格或人物氣質時"
+      },
+      "others": [
+        {
+          "word": "Minimal",
+          "meaning": "元素很少、設計簡潔",
+          "use": "只是現代簡約，不帶嚴厲或冷感時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 UI 與品牌語境裡，<code>austere</code> 是一個警示字：克制可以高級，但過度冷硬會讓產品失去人味。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 austere 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/austere",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 austere 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/austere",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "austere",
+    "word": "Austere",
+    "partOfSpeech": "adjective",
+    "href": "./austere.html",
+    "thesis": "不是單純簡約，而是冷、硬、少裝飾，甚至帶一點嚴厲。",
+    "tags": [
+      "嚴樸",
+      "冷硬",
+      "minimal",
+      "design",
+      "policy",
+      "restraint",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/austere",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/austere",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/austere",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

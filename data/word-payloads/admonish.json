@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Admonish",
+    "slug": "admonish",
+    "outputPath": "prototypes/admonish.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ad-MON-ish · UK /ədˈmɒn.ɪʃ/ · US /ədˈmɑː.nɪʃ/",
+    "hero": {
+      "thesis": "不是單純責罵，而是帶著警告意味地提醒對方不要再犯。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.79"
+    },
+    "coreIdea": "<code>admonish</code> 用在權威、長輩、主管或制度提醒某人：這件事不只是錯，還可能導向更壞結果。",
+    "definition": {
+      "summary": "表示嚴肅地警告、告誡或責備某人，通常希望對方改正行為。",
+      "contrast": {
+        "word": "Scold",
+        "note": "<code>scold</code> 偏向責罵的情緒；<code>admonish</code> 更像正式告誡，背後有規範或後果。"
+      },
+      "flow": [
+        "行為出現偏差",
+        "提出嚴肅警告",
+        "要求修正"
+      ]
+    },
+    "origin": {
+      "history": "<code>admonish</code> 來自拉丁語 <code>admonere</code>，意思是提醒、警告或把某件事帶到心上。",
+      "memoryLens": "它像把警示燈放到對方面前：現在還能改，再往前就會出事。"
+    },
+    "memory": {
+      "hook": "<code>admonish</code> 是帶著警告的提醒，不只是發脾氣。",
+      "explanation": "語氣可以嚴厲，但目的通常是把人拉回界線內。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "老師可能 <code>admonish</code> 學生不要抄襲，重點不是羞辱，而是讓界線清楚。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "資安或品質流程中，主管可能 <code>admonish</code> a team for bypassing review，因為這會留下系統性風險。"
+      }
+    ],
+    "collocations": {
+      "note": "Admonish 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "admonish someone for misconduct",
+          "register": "正式 / 管理",
+          "note": "針對不當行為提出嚴肅告誡。"
+        },
+        {
+          "phrase": "gently admonish",
+          "register": "人際 / 敘事",
+          "note": "語氣較溫和，但仍有提醒界線的意思。"
+        },
+        {
+          "phrase": "admonish against shortcuts",
+          "register": "品質 / 工程",
+          "note": "警告不要因省事而破壞流程。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "帶警告意味地嚴肅提醒或責備",
+        "use": "談規範、紀律、倫理或流程違反時"
+      },
+      "others": [
+        {
+          "word": "Scold",
+          "meaning": "用情緒責罵某人",
+          "use": "重點是生氣或責備，而不是正式警告時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>admonish</code> 常見於新聞、法律、學校與公司治理，語氣比 casual blame 更正式。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 admonish 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/admonish",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 admonish 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/admonish",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "admonish",
+    "word": "Admonish",
+    "partOfSpeech": "verb",
+    "href": "./admonish.html",
+    "thesis": "不是單純責罵，而是帶著警告意味地提醒對方不要再犯。",
+    "tags": [
+      "告誡",
+      "警告",
+      "scold",
+      "discipline",
+      "governance",
+      "quality",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/admonish",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/admonish",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/admonish",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

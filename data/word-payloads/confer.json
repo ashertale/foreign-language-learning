@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Confer",
+    "slug": "confer",
+    "outputPath": "prototypes/confer.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuhn-FUR · UK /kənˈfɜːr/ · US /kənˈfɝː/",
+    "hero": {
+      "thesis": "不是單純給予，而是正式授予；也可以是為了判斷而商議。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.25"
+    },
+    "coreIdea": "<code>confer</code> 有兩條常見路徑：一是授予權利、資格或榮譽；二是與人商議以取得共識。",
+    "definition": {
+      "summary": "表示授予，也可表示商議、協商。",
+      "contrast": {
+        "word": "Give",
+        "note": "<code>give</code> 很普通；<code>confer</code> 常帶正式權威，像授予資格或頭銜。"
+      },
+      "flow": [
+        "權威或對話存在",
+        "正式授予或商議",
+        "產生資格或共識"
+      ]
+    },
+    "memory": {
+      "hook": "<code>confer</code> 是把權利鄭重交到某人手上。",
+      "explanation": "它比 give 更正式，也比 talk 更有目的。"
+    },
+    "usage": [
+      {
+        "label": "授予版",
+        "body": "The certification confers the right to operate the equipment. 這個情境凸顯「授予，也可表示商議、協商」。"
+      },
+      {
+        "label": "商議版",
+        "body": "The engineers conferred before changing the recovery plan. 讀這句時，焦點在「授予，也可表示商議、協商」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "confer a degree",
+          "register": "教育 / 正式",
+          "note": "授予學位。"
+        },
+        {
+          "phrase": "confer authority",
+          "register": "法律 / 組織",
+          "note": "授予權限。"
+        },
+        {
+          "phrase": "confer with colleagues",
+          "register": "職場 / 專業",
+          "note": "與同事商議。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示授予，也可表示商議、協商。",
+        "use": "用在「不是單純給予，而是正式授予；也可以是為了判斷而商議」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Grant",
+          "meaning": "grant 也可授予；confer 更正式，常含制度或權威感。",
+          "use": "當 Grant 這邊的語氣更貼近目標時，不要硬套 <code>confer</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在權限設計裡，<code>confer</code> 讓你注意授權不是普通傳遞，而是系統承認某人可以做某事。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 confer 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/confer",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 confer 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/confer",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>confer</code> 來自 Latin <code>conferre</code>，意思包含「帶到一起、比較、授予」。",
+      "memoryLens": "兩個方向都從 bring together 來：人聚在一起商議，權利也被正式帶到某人身上。"
+    }
+  },
+  "indexEntry": {
+    "id": "confer",
+    "word": "Confer",
+    "partOfSpeech": "verb",
+    "href": "./confer.html",
+    "thesis": "不是單純給予，而是正式授予；也可以是為了判斷而商議。",
+    "tags": [
+      "授予",
+      "商議",
+      "grant",
+      "authority",
+      "certificate",
+      "discussion",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/confer",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/confer",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/confer",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

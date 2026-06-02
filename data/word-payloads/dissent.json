@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Dissent",
+    "slug": "dissent",
+    "outputPath": "prototypes/dissent.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-SENT · UK /dɪˈsent/ · US /dɪˈsent/",
+    "hero": {
+      "thesis": "不是普通不同意，而是在多數或權威面前保留並說出反對立場。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.15"
+    },
+    "coreIdea": "<code>dissent</code> 指正式或有意識的異議，尤其是在組織、法院、政治或團隊決策中。",
+    "definition": {
+      "summary": "表示異議、反對意見，或與多數看法不同的正式立場。",
+      "contrast": {
+        "word": "Disagreement",
+        "note": "<code>disagreement</code> 是意見不同；<code>dissent</code> 更像少數意見對多數或權威的正式保留。"
+      },
+      "flow": [
+        "多數立場形成",
+        "有人不同意",
+        "反對意見被保留下來"
+      ]
+    },
+    "origin": {
+      "history": "<code>dissent</code> 來自拉丁語 <code>dissentire</code>，意思接近「感覺或想法不同」。",
+      "memoryLens": "它像在會議紀錄裡留下少數意見，不讓共識看起來比實際更整齊。"
+    },
+    "memory": {
+      "hook": "<code>dissent</code> 是不同意被正式留下聲音。",
+      "explanation": "這個字不只是衝突，也可能是制度健康的訊號：有人敢說不一致。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "家庭或朋友間也會有 dissent，只是日常通常不會用得這麼正式。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "設計決策若有人提出 <code>dissent</code>，團隊可以記錄風險，而不是假裝全員無條件同意。"
+      }
+    ],
+    "collocations": {
+      "note": "Dissent 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "voice dissent",
+          "register": "政治 / 組織",
+          "note": "說出異議。"
+        },
+        {
+          "phrase": "dissenting opinion",
+          "register": "法律 / 法院",
+          "note": "不同於多數判決的意見。"
+        },
+        {
+          "phrase": "internal dissent",
+          "register": "公司 / 團隊",
+          "note": "組織內部的反對聲音。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "面對多數或權威時的正式異議",
+        "use": "談法律、政治、治理、團隊決策或風險記錄時"
+      },
+      "others": [
+        {
+          "word": "Disagreement",
+          "meaning": "一般意見不同",
+          "use": "只是日常看法不一，不需要正式語氣時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在高風險工程決策中，保留 <code>dissent</code> 很重要；它讓未被採納的風險判斷仍然可追溯。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 dissent 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/dissent",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 dissent 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/dissent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "dissent",
+    "word": "Dissent",
+    "partOfSpeech": "noun",
+    "href": "./dissent.html",
+    "thesis": "不是普通不同意，而是在多數或權威面前保留並說出反對立場。",
+    "tags": [
+      "異議",
+      "少數意見",
+      "disagreement",
+      "governance",
+      "risk",
+      "decision record",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/dissent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/dissent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/dissent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

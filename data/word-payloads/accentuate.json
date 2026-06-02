@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Accentuate",
+    "slug": "accentuate",
+    "outputPath": "prototypes/accentuate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ak-SEN-choo-ayt · UK /əkˈsen.tʃu.eɪt/ · US /əkˈsen.tʃu.eɪt/",
+    "hero": {
+      "thesis": "不是單純的「強調」，而是讓原本已存在的特徵變得更醒目。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.88"
+    },
+    "coreIdea": "<code>accentuate</code> 用來說某個設計、光線、語氣或資料呈現，把某個特徵推到前景，讓人更難忽略。",
+    "definition": {
+      "summary": "表示使某個特徵、差異、線條或效果更加明顯。",
+      "contrast": {
+        "word": "Emphasize",
+        "note": "<code>emphasize</code> 可以是口頭或概念上的重點；<code>accentuate</code> 更像把輪廓打亮。"
+      },
+      "flow": [
+        "特徵已存在",
+        "被光線或語氣推前",
+        "差異變醒目"
+      ]
+    },
+    "origin": {
+      "history": "<code>accentuate</code> 來自 <code>accent</code>，本來和聲音重音、語調凸顯有關，後來延伸到視覺與概念特徵。",
+      "memoryLens": "想成在句子上加重音：同一句話，被重音點到的地方忽然站出來。"
+    },
+    "memory": {
+      "hook": "<code>accentuate</code> 像把燈打在輪廓邊緣，原本就有的線條變得更清楚。",
+      "explanation": "它不是憑空創造特徵，而是把已有的東西放大到讀者或觀眾看見。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "黑色外套可能 <code>accentuate</code> 一條亮色圍巾，讓它成為整體視覺焦點。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在圖表或 UI 裡，顏色、粗細與留白可以 <code>accentuate</code> the key difference，讓掃描更快。"
+      }
+    ],
+    "collocations": {
+      "note": "Accentuate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "accentuate a feature",
+          "register": "設計 / 產品",
+          "note": "凸顯某個本來就存在的特徵。"
+        },
+        {
+          "phrase": "accentuate the contrast",
+          "register": "視覺 / 寫作",
+          "note": "讓對比變得更清楚、更有張力。"
+        },
+        {
+          "phrase": "accentuate a problem",
+          "register": "分析 / 報告",
+          "note": "某個因素讓問題看起來更突出。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓既有特徵更突出",
+        "use": "談設計、語氣、差異、線條或資料重點時"
+      },
+      "others": [
+        {
+          "word": "Emphasize",
+          "meaning": "直接說某事很重要或應被注意",
+          "use": "需要表達重點，而不一定有視覺或輪廓感時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代使用裡，<code>accentuate</code> 常出現在 design review、data visualization 與評論文字，特別適合描述某種呈現方式如何放大差異。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 accentuate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/accentuate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 accentuate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/accentuate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "accentuate",
+    "word": "Accentuate",
+    "partOfSpeech": "verb",
+    "href": "./accentuate.html",
+    "thesis": "不是單純的「強調」，而是讓原本已存在的特徵變得更醒目。",
+    "tags": [
+      "凸顯",
+      "輪廓",
+      "emphasize",
+      "contrast",
+      "design",
+      "data visualization",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/accentuate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/accentuate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/accentuate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Fluctuate",
+    "slug": "fluctuate",
+    "outputPath": "prototypes/fluctuate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "FLUK-choo-ayt · UK /ˈflʌk.tʃu.eɪt/ · US /ˈflʌk.tʃu.eɪt/",
+    "hero": {
+      "thesis": "不是穩定上升或下降，而是在一個範圍內來回波動。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.40"
+    },
+    "coreIdea": "<code>fluctuate</code> 用來描述價格、溫度、訊號、情緒或指標上下變動，沒有固定方向。",
+    "definition": {
+      "summary": "表示上下變動、波動，通常在某個範圍內不斷改變。",
+      "contrast": {
+        "word": "Change",
+        "note": "<code>change</code> 是泛指改變；<code>fluctuate</code> 有像波浪一樣上下來回的形狀。"
+      },
+      "flow": [
+        "數值有範圍",
+        "上下來回變動",
+        "方向不穩定"
+      ]
+    },
+    "origin": {
+      "history": "<code>fluctuate</code> 來自拉丁語 <code>fluctus</code>，意思是波浪。",
+      "memoryLens": "它就是把數據想成水面：不是直線，而是起伏。"
+    },
+    "memory": {
+      "hook": "<code>fluctuate</code> 是數字像水面一樣上下晃。",
+      "explanation": "看到這個字，要想到變動的形狀，而不是單次變化。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "人的心情、體重或睡眠品質都可能 <code>fluctuate</code>，不會每天一樣。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "監控圖上 latency <code>fluctuates</code>，表示它在範圍內震盪，可能需要看 load、cache 或 network jitter。"
+      }
+    ],
+    "collocations": {
+      "note": "Fluctuate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "prices fluctuate",
+          "register": "經濟 / 商務",
+          "note": "價格上下波動。"
+        },
+        {
+          "phrase": "temperature fluctuates",
+          "register": "天氣 / 工程",
+          "note": "溫度來回變化。"
+        },
+        {
+          "phrase": "fluctuating signal",
+          "register": "電子 / 監控",
+          "note": "訊號不穩定地起伏。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在範圍內上下波動",
+        "use": "談價格、溫度、情緒、效能、訊號或指標時"
+      },
+      "others": [
+        {
+          "word": "Change",
+          "meaning": "任何形式的改變",
+          "use": "只想表示不同，不強調上下起伏時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在資料圖表裡，<code>fluctuate</code> 是判斷穩定性的重要字；它要求你看變動幅度、頻率與是否有趨勢。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 fluctuate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/fluctuate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 fluctuate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/fluctuate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "fluctuate",
+    "word": "Fluctuate",
+    "partOfSpeech": "verb",
+    "href": "./fluctuate.html",
+    "thesis": "不是穩定上升或下降，而是在一個範圍內來回波動。",
+    "tags": [
+      "波動",
+      "起伏",
+      "change",
+      "metrics",
+      "signal",
+      "latency",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/fluctuate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/fluctuate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/fluctuate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Disparage",
+    "slug": "disparage",
+    "outputPath": "prototypes/disparage.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-SPAIR-ij · UK /dɪˈspær.ɪdʒ/ · US /dɪˈsper.ɪdʒ/",
+    "hero": {
+      "thesis": "不是單純批評，而是用話語把某人或某物的價值壓低。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.45"
+    },
+    "coreIdea": "<code>disparage</code> 用來描述貶低、輕視或讓某個人、想法、成果看起來不值得尊重。",
+    "definition": {
+      "summary": "表示貶低、輕視或以負面方式削弱某人或某事的價值。",
+      "contrast": {
+        "word": "Criticize",
+        "note": "<code>criticize</code> 可以是有建設性的批評；<code>disparage</code> 重點是降低價值與尊嚴。"
+      },
+      "flow": [
+        "對象有價值或努力",
+        "語言把它壓低",
+        "尊重被削弱"
+      ]
+    },
+    "origin": {
+      "history": "<code>disparage</code> 的詞史與降低地位、使不相稱的概念相連，後來成為貶低他人的意思。",
+      "memoryLens": "它像把別人的作品放到低矮的架子上，讓旁人覺得不必認真看。"
+    },
+    "memory": {
+      "hook": "<code>disparage</code> 是批評變成貶低的那條線。",
+      "explanation": "這個字帶道德重量：問題不只是不同意，而是用語言傷害對方的價值。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "別人在背後 <code>disparage</code> your effort，聽起來不是提出問題，而是在削弱你的努力。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "技術討論中可以 challenge an idea，但不該 <code>disparage</code> the person who proposed it。"
+      }
+    ],
+    "collocations": {
+      "note": "Disparage 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "disparage someone's work",
+          "register": "職場 / 人際",
+          "note": "貶低某人的成果。"
+        },
+        {
+          "phrase": "disparaging remarks",
+          "register": "正式 / HR",
+          "note": "帶貶低意味的言論。"
+        },
+        {
+          "phrase": "publicly disparage",
+          "register": "公關 / 法律",
+          "note": "公開貶低，可能造成名譽風險。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用言語貶低價值或尊嚴",
+        "use": "談人際、職場、名譽、HR 或公共發言時"
+      },
+      "others": [
+        {
+          "word": "Criticize",
+          "meaning": "指出缺點或提出批評",
+          "use": "批評有具體內容且不以貶低為目的時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在團隊文化裡，<code>disparage</code> 是紅線字；它提醒大家可以嚴格對事，但不要用語言把人變小。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 disparage 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/disparage",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 disparage 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/disparage",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "disparage",
+    "word": "Disparage",
+    "partOfSpeech": "verb",
+    "href": "./disparage.html",
+    "thesis": "不是單純批評，而是用話語把某人或某物的價值壓低。",
+    "tags": [
+      "貶低",
+      "輕視",
+      "criticize",
+      "remarks",
+      "HR",
+      "team culture",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/disparage",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/disparage",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/disparage",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

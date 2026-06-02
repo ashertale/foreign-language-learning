@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Articulate",
+    "slug": "articulate",
+    "outputPath": "prototypes/articulate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ar-TIK-yuh-layt · UK /ɑːˈtɪk.jə.leɪt/ · US /ɑːrˈtɪk.jə.leɪt/",
+    "hero": {
+      "thesis": "不是只是說出口，而是把模糊想法拆成別人能理解的清楚形狀。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.85"
+    },
+    "coreIdea": "<code>articulate</code> 用來描述把需求、觀點、感受或設計理由說得清楚、有結構，讓別人能跟上。",
+    "definition": {
+      "summary": "表示清楚表達、說明或闡明某個想法、需求、理由或感受。",
+      "contrast": {
+        "word": "Say",
+        "note": "<code>say</code> 只是說；<code>articulate</code> 強調說得清楚、分節、可理解。"
+      },
+      "flow": [
+        "想法原本模糊",
+        "被拆成清楚句子",
+        "別人能理解與回應"
+      ]
+    },
+    "origin": {
+      "history": "<code>articulate</code> 與拉丁語 <code>articulus</code> 有關，原意接近小關節；語義延伸到把聲音或想法分節清楚。",
+      "memoryLens": "像把一團線整理成一節一節，別人才能沿著它走。"
+    },
+    "memory": {
+      "hook": "<code>articulate</code> 是把腦中的霧變成有關節的句子。",
+      "explanation": "這個字最適合描述從模糊到可討論的那一刻。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可能知道自己不舒服，卻要花時間 <code>articulate</code> why。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "好的工程師不只會修問題，也能 <code>articulate the trade-off</code>，讓團隊做出清楚決策。"
+      }
+    ],
+    "collocations": {
+      "note": "Articulate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "articulate a vision",
+          "register": "領導 / 策略",
+          "note": "把願景說成大家能理解的方向。"
+        },
+        {
+          "phrase": "articulate a concern",
+          "register": "會議 / 協作",
+          "note": "清楚提出擔憂，而不是只說感覺不對。"
+        },
+        {
+          "phrase": "articulate the trade-off",
+          "register": "工程 / 設計",
+          "note": "把取捨講到可決策。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把想法清楚分節地表達",
+        "use": "談需求、感受、願景、風險或設計理由時"
+      },
+      "others": [
+        {
+          "word": "Say",
+          "meaning": "一般說出某句話",
+          "use": "只需要表示開口說話，不強調清楚度時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在跨職能協作裡，<code>articulate</code> 是高價值能力：它讓技術判斷變成 PM、設計與主管都能處理的共同語言。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 articulate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/articulate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 articulate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/articulate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "articulate",
+    "word": "Articulate",
+    "partOfSpeech": "verb",
+    "href": "./articulate.html",
+    "thesis": "不是只是說出口，而是把模糊想法拆成別人能理解的清楚形狀。",
+    "tags": [
+      "清楚表達",
+      "闡明",
+      "say",
+      "communication",
+      "trade-off",
+      "requirements",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/articulate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/articulate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/articulate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Illuminate",
+    "slug": "illuminate",
+    "outputPath": "prototypes/illuminate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-LOO-muh-nayt · UK /ɪˈluː.mɪ.neɪt/ · US /ɪˈluː.mə.neɪt/",
+    "hero": {
+      "thesis": "不是只把燈打開，而是讓原本看不懂的東西變得清楚。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.61"
+    },
+    "coreIdea": "<code>illuminate</code> 用來描述光照亮空間，也可比喻例子、資料或分析揭露某個問題的結構。",
+    "definition": {
+      "summary": "表示照亮，或使某件事變得清楚、容易理解。",
+      "contrast": {
+        "word": "Show",
+        "note": "<code>show</code> 是讓人看到；<code>illuminate</code> 更像用光把隱藏的結構照出來。"
+      },
+      "flow": [
+        "原本暗或混亂",
+        "光或分析進來",
+        "結構變清楚"
+      ]
+    },
+    "origin": {
+      "history": "<code>illuminate</code> 來自拉丁語 <code>illuminare</code>，意思是照亮。",
+      "memoryLens": "它像把手電筒照進機箱深處，問題的位置突然浮出來。"
+    },
+    "memory": {
+      "hook": "<code>illuminate</code> 是讓看不清的東西開始有輪廓。",
+      "explanation": "這個字比 explain 更有光感，適合說資料或例子把問題照亮。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一個好故事可以 <code>illuminate</code> a feeling，讓你突然懂自己為什麼在意。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "一張清楚的 trace 或 dashboard can <code>illuminate</code> the failure path，比長篇猜測更有用。"
+      }
+    ],
+    "collocations": {
+      "note": "Illuminate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "illuminate a room",
+          "register": "日常 / 物理",
+          "note": "照亮房間。"
+        },
+        {
+          "phrase": "illuminate a problem",
+          "register": "分析 / 工程",
+          "note": "讓問題結構變清楚。"
+        },
+        {
+          "phrase": "illuminating example",
+          "register": "教學 / 寫作",
+          "note": "能讓概念突然清楚的例子。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "照亮或揭示，使人看清",
+        "use": "談光線、分析、例子、資料、trace 或問題理解時"
+      },
+      "others": [
+        {
+          "word": "Show",
+          "meaning": "讓人看見或展示",
+          "use": "只是呈現資訊，不強調理解被點亮時"
+        }
+      ]
+    },
+    "modernUse": [
+      "資料產品的價值常在於 <code>illuminate</code>：不是堆更多圖表，而是讓決策者看見真正有用的結構。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 illuminate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/illuminate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 illuminate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/illuminate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "illuminate",
+    "word": "Illuminate",
+    "partOfSpeech": "verb",
+    "href": "./illuminate.html",
+    "thesis": "不是只把燈打開，而是讓原本看不懂的東西變得清楚。",
+    "tags": [
+      "照亮",
+      "揭示",
+      "show",
+      "analysis",
+      "dashboard",
+      "trace",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/illuminate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/illuminate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/illuminate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

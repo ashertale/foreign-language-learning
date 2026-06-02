@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Integrate",
+    "slug": "integrate",
+    "outputPath": "prototypes/integrate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "IN-tuh-grayt · UK /ˈɪn.tɪ.ɡreɪt/ · US /ˈɪn.t̬ə.ɡreɪt/",
+    "hero": {
+      "thesis": "不是只是放在一起，而是讓不同部分真正能作為一個整體運作。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.12"
+    },
+    "coreIdea": "<code>integrate</code> 用來描述系統、資料、團隊、功能或知識被接合到同一個可運作的結構中。",
+    "definition": {
+      "summary": "表示整合、結合，使不同部分形成協調的整體。",
+      "contrast": {
+        "word": "Combine",
+        "note": "<code>combine</code> 是合併；<code>integrate</code> 要求合併後能協同運作。"
+      },
+      "flow": [
+        "部分彼此分離",
+        "介面與關係被接上",
+        "整體開始運作"
+      ]
+    },
+    "origin": {
+      "history": "<code>integrate</code> 與拉丁語 <code>integer</code> 有關，核心是完整、未被切碎的整體。",
+      "memoryLens": "它像把零件接進機器，不只是堆在同一張桌上。"
+    },
+    "memory": {
+      "hook": "<code>integrate</code> 是讓零件進入同一個生命系統。",
+      "explanation": "整合失敗時，東西雖然放在一起，卻仍像彼此陌生。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "搬到新城市後，你需要時間 <code>integrate</code> into the community。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "Firmware、hardware 與 cloud 若要 <code>integrate</code> smoothly，介面、時序與錯誤處理都要對齊。"
+      }
+    ],
+    "collocations": {
+      "note": "Integrate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "integrate systems",
+          "register": "工程 / IT",
+          "note": "讓多個系統能共同運作。"
+        },
+        {
+          "phrase": "integrate data",
+          "register": "資料 / 平台",
+          "note": "把不同來源資料接成一致結構。"
+        },
+        {
+          "phrase": "integrate feedback",
+          "register": "產品 / 學習",
+          "note": "把回饋納入下一版。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓不同部分協調成一個整體",
+        "use": "談系統、資料、功能、團隊、社群或知識時"
+      },
+      "others": [
+        {
+          "word": "Combine",
+          "meaning": "把東西合在一起",
+          "use": "只是物理或概念上放一起，不強調協同運作時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在跨域產品裡，<code>integrate</code> 是最容易被低估的工作：真正困難的不是有零件，而是零件能穩定一起活著。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 integrate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/integrate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 integrate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/integrate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "integrate",
+    "word": "Integrate",
+    "partOfSpeech": "verb",
+    "href": "./integrate.html",
+    "thesis": "不是只是放在一起，而是讓不同部分真正能作為一個整體運作。",
+    "tags": [
+      "整合",
+      "協同",
+      "combine",
+      "systems",
+      "data",
+      "firmware",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/integrate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/integrate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/integrate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

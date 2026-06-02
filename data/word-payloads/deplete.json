@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Deplete",
+    "slug": "deplete",
+    "outputPath": "prototypes/deplete.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "di-PLEET · UK /dɪˈpliːt/ · US /dɪˈpliːt/",
+    "hero": {
+      "thesis": "不是普通用掉，而是把存量消耗到明顯不足。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.05"
+    },
+    "coreIdea": "<code>deplete</code> 描述資源、能量、電量、庫存或耐心被大量消耗，直到剩下很少或不夠用。",
+    "definition": {
+      "summary": "表示大量消耗、耗盡，使資源明顯減少。",
+      "contrast": {
+        "word": "Use",
+        "note": "<code>use</code> 是使用；<code>deplete</code> 強調存量被用到危險或不足。"
+      },
+      "flow": [
+        "有一個存量",
+        "持續消耗",
+        "剩餘不足"
+      ]
+    },
+    "memory": {
+      "hook": "<code>deplete</code> 是電池從滿格被耗到紅色。",
+      "explanation": "它的重點是資源池被掏空，而不是正常使用。"
+    },
+    "usage": [
+      {
+        "label": "電力版",
+        "body": "Background polling can <code>deplete</code> the battery faster than expected. 這個情境凸顯「大量消耗、耗盡，使資源明顯減少」。"
+      },
+      {
+        "label": "人力版",
+        "body": "A long incident can <code>deplete</code> a team's attention and patience. 讀這句時，焦點在「大量消耗、耗盡，使資源明顯減少」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "deplete resources",
+          "register": "環境 / 管理",
+          "note": "消耗資源到不足。"
+        },
+        {
+          "phrase": "deplete the battery",
+          "register": "電子 / 日常",
+          "note": "耗盡電池電量。"
+        },
+        {
+          "phrase": "depleted reserves",
+          "register": "金融 / 供應",
+          "note": "儲備被消耗後所剩不多。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示大量消耗、耗盡，使資源明顯減少。",
+        "use": "用在「不是普通用掉，而是把存量消耗到明顯不足」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Drain",
+          "meaning": "drain 也可表示耗掉；deplete 更正式，常用於資源存量。",
+          "use": "當 Drain 這邊的語氣更貼近目標時，不要硬套 <code>deplete</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在低功耗設計中，<code>deplete</code> 是很實際的風險字，因為每個背景動作都可能偷偷吃掉有限電量。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 deplete 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/deplete",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 deplete 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/deplete",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>deplete</code> 來自 Latin <code>deplere</code>，意思接近「倒空、使空」。<code>plere</code> 與 fill 的概念相對應。",
+      "memoryLens": "它不是普通使用，而是把原本填著的資源池倒到快空。"
+    }
+  },
+  "indexEntry": {
+    "id": "deplete",
+    "word": "Deplete",
+    "partOfSpeech": "verb",
+    "href": "./deplete.html",
+    "thesis": "不是普通用掉，而是把存量消耗到明顯不足。",
+    "tags": [
+      "耗盡",
+      "消耗",
+      "battery",
+      "resources",
+      "power",
+      "capacity",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/deplete",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/deplete",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deplete",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

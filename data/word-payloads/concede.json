@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Concede",
+    "slug": "concede",
+    "outputPath": "prototypes/concede.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuhn-SEED · UK /kənˈsiːd/ · US /kənˈsiːd/",
+    "hero": {
+      "thesis": "不是熱情同意，而是在證據、壓力或現實面前承認一點。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.79"
+    },
+    "coreIdea": "<code>concede</code> 用來描述承認對方某個點成立、讓出某個權利，或在競爭中承認失敗。",
+    "definition": {
+      "summary": "表示承認某事為真、讓步，或承認失敗。",
+      "contrast": {
+        "word": "Admit",
+        "note": "<code>admit</code> 是承認；<code>concede</code> 常發生在爭論或競爭裡，帶有讓步感。"
+      },
+      "flow": [
+        "原本有立場",
+        "對方或現實有力量",
+        "承認並讓出一點"
+      ]
+    },
+    "origin": {
+      "history": "<code>concede</code> 來自拉丁語 <code>concedere</code>，有退讓、讓出、同意離開的意思。",
+      "memoryLens": "像棋局裡把一格讓出去：你還在局中，但這一點已經不再堅持。"
+    },
+    "memory": {
+      "hook": "<code>concede</code> 是在爭論中鬆開一個你守不住的點。",
+      "explanation": "它不一定代表整場輸了；有時只是承認局部事實，讓討論能繼續。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "爭論到最後，你可能 <code>concede</code> that the other person has a point。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "設計評審中，作者可以 <code>concede a weakness</code>，承認某個取捨確實有代價。"
+      }
+    ],
+    "collocations": {
+      "note": "Concede 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "concede a point",
+          "register": "辯論 / 會議",
+          "note": "承認對方某一點成立。"
+        },
+        {
+          "phrase": "concede defeat",
+          "register": "競賽 / 政治",
+          "note": "承認失敗。"
+        },
+        {
+          "phrase": "concede ground",
+          "register": "談判 / 戰略",
+          "note": "讓出一部分立場或空間。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在爭論或競爭中承認並讓步",
+        "use": "談辯論、談判、選舉、設計取捨或失敗承認時"
+      },
+      "others": [
+        {
+          "word": "Admit",
+          "meaning": "承認一件事實",
+          "use": "只是說出真相，不特別有讓步或競爭背景時"
+        }
+      ]
+    },
+    "modernUse": [
+      "健康的技術討論常需要 <code>concede</code>：承認別人的有效點，反而讓自己的核心立場更可信。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 concede 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/concede",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 concede 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/concede",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "concede",
+    "word": "Concede",
+    "partOfSpeech": "verb",
+    "href": "./concede.html",
+    "thesis": "不是熱情同意，而是在證據、壓力或現實面前承認一點。",
+    "tags": [
+      "讓步",
+      "承認",
+      "admit",
+      "debate",
+      "trade-off",
+      "negotiation",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/concede",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/concede",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/concede",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

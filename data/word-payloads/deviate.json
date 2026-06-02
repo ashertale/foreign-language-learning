@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Deviate",
+    "slug": "deviate",
+    "outputPath": "prototypes/deviate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "DEE-vee-ayt · UK /ˈdiː.vi.eɪt/ · US /ˈdiː.vi.eɪt/",
+    "hero": {
+      "thesis": "不是單純不同，而是從既定路線、規範或預期軌道偏出去。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.23"
+    },
+    "coreIdea": "<code>deviate</code> 用來描述行為、數據、流程或路線離開標準、平均值或計畫。",
+    "definition": {
+      "summary": "表示偏離、背離或不按照預期路線、標準、計畫行進。",
+      "contrast": {
+        "word": "Differ",
+        "note": "<code>differ</code> 只是不同；<code>deviate</code> 假設原本有一條軌道或標準。"
+      },
+      "flow": [
+        "先有標準軌道",
+        "實際路線偏出",
+        "產生差距或風險"
+      ]
+    },
+    "origin": {
+      "history": "<code>deviate</code> 來自拉丁語 <code>deviare</code>，意思是離開道路。",
+      "memoryLens": "把它想成車輪離開車道線，不一定立刻撞車，但已經偏離預期。"
+    },
+    "memory": {
+      "hook": "<code>deviate</code> 是偏離那條本來該走的線。",
+      "explanation": "這個字需要背景標準；沒有標準，就只是不同，不是 deviation。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "旅行中臨時 <code>deviate from the plan</code> 可能帶來驚喜，也可能造成混亂。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "製程或測試數據 <code>deviate from baseline</code> 時，工程師要判斷它是正常變異還是早期警訊。"
+      }
+    ],
+    "collocations": {
+      "note": "Deviate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "deviate from the plan",
+          "register": "專案 / 日常",
+          "note": "偏離原本計畫。"
+        },
+        {
+          "phrase": "deviate from the norm",
+          "register": "統計 / 社會",
+          "note": "偏離常態或標準。"
+        },
+        {
+          "phrase": "standard deviation",
+          "register": "統計 / 資料",
+          "note": "衡量資料分散程度的常見術語。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "從標準、路線或預期偏離",
+        "use": "談計畫、流程、數據、行為、路線或規格時"
+      },
+      "others": [
+        {
+          "word": "Differ",
+          "meaning": "兩者彼此不同",
+          "use": "沒有明確基準，只是比較差異時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在資料與品質管理中，<code>deviate</code> 是早期偵測問題的核心字；偏離不一定等於失敗，但一定值得看。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 deviate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/deviate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 deviate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/deviate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "deviate",
+    "word": "Deviate",
+    "partOfSpeech": "verb",
+    "href": "./deviate.html",
+    "thesis": "不是單純不同，而是從既定路線、規範或預期軌道偏出去。",
+    "tags": [
+      "偏離",
+      "基準",
+      "differ",
+      "baseline",
+      "statistics",
+      "process",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/deviate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/deviate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deviate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Optimize",
+    "slug": "optimize",
+    "outputPath": "prototypes/optimize.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "OP-tuh-myz · UK /ˈɒp.tɪ.maɪz/ · US /ˈɑːp.tə.maɪz/",
+    "hero": {
+      "thesis": "不是盲目變快，而是在明確目標與限制下調到更好的狀態。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.38"
+    },
+    "coreIdea": "<code>optimize</code> 用來描述依照目標函數、成本、速度、品質或使用者需求調整系統，使結果更接近最佳。",
+    "definition": {
+      "summary": "表示最佳化、優化，使某個流程、系統或結果在特定條件下更好。",
+      "contrast": {
+        "word": "Improve",
+        "note": "<code>improve</code> 是變好；<code>optimize</code> 需要知道要對哪個指標與限制最佳化。"
+      },
+      "flow": [
+        "設定目標與限制",
+        "調整變數",
+        "結果更接近最佳"
+      ]
+    },
+    "origin": {
+      "history": "<code>optimize</code> 來自拉丁語 <code>optimus</code>，意思是最好的。",
+      "memoryLens": "它像調旋鈕，不是每個旋鈕都轉到最大，而是找到整體最合適的位置。"
+    },
+    "memory": {
+      "hook": "<code>optimize</code> 是在限制中尋找最佳，而不是把一切推到最大。",
+      "explanation": "每次看到 optimize，都要問：最佳化的是什麼，犧牲的是什麼？"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可以 <code>optimize</code> your morning routine，讓通勤、早餐與睡眠取得更好平衡。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "Firmware optimization 常不是只追求 speed，也可能要同時考慮 power、memory、latency 與 maintainability。"
+      }
+    ],
+    "collocations": {
+      "note": "Optimize 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "optimize performance",
+          "register": "工程 / 軟硬體",
+          "note": "改善效能，通常要知道瓶頸。"
+        },
+        {
+          "phrase": "optimize for power",
+          "register": "嵌入式 / 硬體",
+          "note": "以功耗為主要最佳化目標。"
+        },
+        {
+          "phrase": "premature optimization",
+          "register": "軟體 / 設計",
+          "note": "過早最佳化，可能犧牲清楚度。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在明確目標與限制下調到更好",
+        "use": "談效能、功耗、成本、流程、模型或使用者體驗時"
+      },
+      "others": [
+        {
+          "word": "Improve",
+          "meaning": "泛泛地變好",
+          "use": "沒有明確指標或限制，只是改善時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代工程裡，<code>optimize</code> 最怕沒有目標函數；沒有說清楚 metric，就可能只是把複雜度偽裝成進步。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 optimize 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/optimize",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 optimize 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/optimize",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "optimize",
+    "word": "Optimize",
+    "partOfSpeech": "verb",
+    "href": "./optimize.html",
+    "thesis": "不是盲目變快，而是在明確目標與限制下調到更好的狀態。",
+    "tags": [
+      "最佳化",
+      "限制",
+      "improve",
+      "performance",
+      "power",
+      "trade-off",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/optimize",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/optimize",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/optimize",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Arbitrary",
+    "slug": "arbitrary",
+    "outputPath": "prototypes/arbitrary.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "AR-buh-trer-ee · UK /ˈɑː.bɪ.trər.i/ · US /ˈɑːr.bə.trer.i/",
+    "hero": {
+      "thesis": "不是單純隨機，而是缺少可被說服的理由或一致標準。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>arbitrary</code> 用來批評某個決策、門檻、規則或數字看起來像憑個人意思定的，而不是根據原則。",
+    "definition": {
+      "summary": "形容決定、規則或選擇缺乏合理理由、固定標準或可預測性。",
+      "contrast": {
+        "word": "Random",
+        "note": "<code>random</code> 是機率上的隨機；<code>arbitrary</code> 是決策上缺乏理由或標準。"
+      },
+      "flow": [
+        "有人做出選擇",
+        "理由不清或標準不一致",
+        "結果顯得任意"
+      ]
+    },
+    "origin": {
+      "history": "<code>arbitrary</code> 來自拉丁語 <code>arbiter</code>，和仲裁者、判斷者有關；後來帶出由個人裁量決定的意味。",
+      "memoryLens": "它的陰影是權力：不是沒有人決定，而是決定的人沒有說出足夠理由。"
+    },
+    "memory": {
+      "hook": "<code>arbitrary</code> 是規則看起來像從空中掉下來。",
+      "explanation": "聽到這個字，要問的不是「是不是亂數」，而是「標準在哪裡」。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "如果老師給分標準每天不同，學生會覺得 grading is <code>arbitrary</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "API limit、timeout 或 feature cutoff 若沒有資料支撐，很容易被質疑為 <code>arbitrary</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Arbitrary 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "arbitrary decision",
+          "register": "管理 / 法律",
+          "note": "缺乏清楚理由的決策。"
+        },
+        {
+          "phrase": "arbitrary rule",
+          "register": "制度 / 教育",
+          "note": "看不出原則的一條規則。"
+        },
+        {
+          "phrase": "arbitrary threshold",
+          "register": "工程 / 資料",
+          "note": "數值門檻沒有明確依據。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "缺少合理理由或一致標準",
+        "use": "批評規則、門檻、權力裁量或設計選擇時"
+      },
+      "others": [
+        {
+          "word": "Random",
+          "meaning": "由機率或亂數決定",
+          "use": "真的在談 random sampling 或 stochastic behavior 時"
+        }
+      ]
+    },
+    "modernUse": [
+      "工程討論裡，<code>arbitrary</code> 常用來要求設計者說明取值依據；它不是小抱怨，而是對決策品質的追問。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 arbitrary 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/arbitrary",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 arbitrary 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/arbitrary",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "arbitrary",
+    "word": "Arbitrary",
+    "partOfSpeech": "adjective",
+    "href": "./arbitrary.html",
+    "thesis": "不是單純隨機，而是缺少可被說服的理由或一致標準。",
+    "tags": [
+      "任意",
+      "缺乏標準",
+      "random",
+      "threshold",
+      "policy",
+      "design review",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/arbitrary",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/arbitrary",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/arbitrary",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Evoke",
+    "slug": "evoke",
+    "outputPath": "prototypes/evoke.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-VOHK · UK /ɪˈvəʊk/ · US /ɪˈvoʊk/",
+    "hero": {
+      "thesis": "不是直接說明，而是把記憶、情緒或畫面喚出來。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.62"
+    },
+    "coreIdea": "<code>evoke</code> 用來描述文字、聲音、氣味、設計或場景引發某種感受、聯想或記憶。",
+    "definition": {
+      "summary": "表示喚起、引發某種記憶、情緒、畫面或反應。",
+      "contrast": {
+        "word": "Describe",
+        "note": "<code>describe</code> 是描述內容；<code>evoke</code> 是讓某種感覺在讀者或觀眾心裡被喚起。"
+      },
+      "flow": [
+        "感官線索出現",
+        "記憶或情緒被叫醒",
+        "心中形成畫面"
+      ]
+    },
+    "origin": {
+      "history": "<code>evoke</code> 來自拉丁語 <code>evocare</code>，意思是呼喚出來。",
+      "memoryLens": "它像在黑暗房間裡叫一個名字，某種感覺就從裡面走出來。"
+    },
+    "memory": {
+      "hook": "<code>evoke</code> 是不直接給答案，而是喚起內在回聲。",
+      "explanation": "這個字很適合藝術、品牌與寫作，因為它關心的是接收者心裡發生了什麼。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一首老歌可能 <code>evoke</code> memories of school days，讓畫面自己浮現。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "品牌設計會刻意 <code>evoke</code> trust, calm, or energy，而不只是把資訊排漂亮。"
+      }
+    ],
+    "collocations": {
+      "note": "Evoke 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "evoke memories",
+          "register": "敘事 / 日常",
+          "note": "喚起回憶。"
+        },
+        {
+          "phrase": "evoke emotion",
+          "register": "藝術 / 品牌",
+          "note": "引發情緒反應。"
+        },
+        {
+          "phrase": "evoke a sense of calm",
+          "register": "設計 / 空間",
+          "note": "喚起平靜感。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "喚起記憶、情緒或感官聯想",
+        "use": "談藝術、設計、品牌、敘事、聲音、氣味或場景時"
+      },
+      "others": [
+        {
+          "word": "Describe",
+          "meaning": "直接描述某件事的樣子",
+          "use": "重點是客觀說明，而不是喚起感受時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品體驗中，<code>evoke</code> 可以談微互動、聲音與視覺語言如何讓使用者感覺安心或警覺。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 evoke 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/evoke",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 evoke 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/evoke",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "evoke",
+    "word": "Evoke",
+    "partOfSpeech": "verb",
+    "href": "./evoke.html",
+    "thesis": "不是直接說明，而是把記憶、情緒或畫面喚出來。",
+    "tags": [
+      "喚起",
+      "情緒",
+      "describe",
+      "memory",
+      "brand",
+      "experience",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/evoke",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/evoke",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/evoke",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

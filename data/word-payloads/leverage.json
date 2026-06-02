@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Leverage",
+    "slug": "leverage",
+    "outputPath": "prototypes/leverage.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "LEV-er-ij · UK /ˈliː.vər.ɪdʒ/ · US /ˈlev.ɚ.ɪdʒ/",
+    "hero": {
+      "thesis": "不是單純使用，而是借力使力，把既有資源轉成更大的效果。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.74"
+    },
+    "coreIdea": "<code>leverage</code> 用來描述利用工具、資料、關係、平台或優勢放大成果，讓小力量產生較大影響。",
+    "definition": {
+      "summary": "表示有效利用某種資源、優勢或槓桿，取得更大效果。",
+      "contrast": {
+        "word": "Use",
+        "note": "<code>use</code> 是使用；<code>leverage</code> 強調把資源轉成放大效果。"
+      },
+      "flow": [
+        "已有資源或支點",
+        "找出施力方式",
+        "效果被放大"
+      ]
+    },
+    "origin": {
+      "history": "<code>leverage</code> 來自 <code>lever</code>，也就是槓桿；比喻義保留了借力放大的畫面。",
+      "memoryLens": "它像用一根槓桿撬起原本搬不動的重量。"
+    },
+    "memory": {
+      "hook": "<code>leverage</code> 是找到支點，讓一點力量變大。",
+      "explanation": "商務英文常濫用這個字；真正好用時，它要說得出支點是什麼。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可以 <code>leverage</code> existing notes to prepare faster，不是重頭開始。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "團隊可以 <code>leverage shared tooling</code>，把個別專案的成本攤到共同平台上。"
+      }
+    ],
+    "collocations": {
+      "note": "Leverage 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "leverage data",
+          "register": "資料 / 商務",
+          "note": "用資料創造決策或產品價值。"
+        },
+        {
+          "phrase": "leverage existing tools",
+          "register": "工程 / 效率",
+          "note": "借用既有工具降低成本。"
+        },
+        {
+          "phrase": "leverage expertise",
+          "register": "管理 / 團隊",
+          "note": "把專業知識轉成更大成果。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "借用既有資源放大效果",
+        "use": "談工具、資料、平台、關係、專業或優勢時"
+      },
+      "others": [
+        {
+          "word": "Use",
+          "meaning": "一般使用某物",
+          "use": "只是拿來用，沒有放大或支點意味時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品與工程語境裡，<code>leverage</code> 應該被具體使用：說清楚 leverage 什麼資源、放大哪個效果，才不會變成空泛商務話。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 leverage 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/leverage",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 leverage 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/leverage",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "leverage",
+    "word": "Leverage",
+    "partOfSpeech": "verb",
+    "href": "./leverage.html",
+    "thesis": "不是單純使用，而是借力使力，把既有資源轉成更大的效果。",
+    "tags": [
+      "借力",
+      "槓桿",
+      "use",
+      "tools",
+      "data",
+      "platform",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/leverage",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/leverage",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/leverage",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

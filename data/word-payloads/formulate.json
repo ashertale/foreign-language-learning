@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Formulate",
+    "slug": "formulate",
+    "outputPath": "prototypes/formulate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "FOR-myuh-layt · UK /ˈfɔː.mjə.leɪt/ · US /ˈfɔːr.mjə.leɪt/",
+    "hero": {
+      "thesis": "不是想到而已，而是把想法整理成可說明、可執行的形式。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.73"
+    },
+    "coreIdea": "<code>formulate</code> 用來描述把策略、問題、假設、計畫或規則構造成清楚的表述。",
+    "definition": {
+      "summary": "表示制定、構想或把想法組織成明確形式。",
+      "contrast": {
+        "word": "Think of",
+        "note": "<code>think of</code> 是想到；<code>formulate</code> 是把想法整理成有形、有結構的版本。"
+      },
+      "flow": [
+        "材料或想法分散",
+        "組織成結構",
+        "變成可使用表述"
+      ]
+    },
+    "origin": {
+      "history": "<code>formulate</code> 來自 <code>formula</code> 的詞族，和固定形式、規則或表述有關。",
+      "memoryLens": "它像把散亂想法倒進模具，讓它有可傳遞的形狀。"
+    },
+    "memory": {
+      "hook": "<code>formulate</code> 是把想法做成可以交給別人的版本。",
+      "explanation": "這個字適合從腦中草稿走向文件、計畫或假設的那一步。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可能需要時間 <code>formulate</code> a response，因為感覺已經有了，句子還沒成形。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "debug 時先 <code>formulate a hypothesis</code>，比一開始亂改 code 更能保留線索。"
+      }
+    ],
+    "collocations": {
+      "note": "Formulate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "formulate a plan",
+          "register": "管理 / 日常",
+          "note": "制定計畫。"
+        },
+        {
+          "phrase": "formulate a hypothesis",
+          "register": "科學 / 除錯",
+          "note": "提出可檢驗假設。"
+        },
+        {
+          "phrase": "formulate a strategy",
+          "register": "商務 / 產品",
+          "note": "把方向整理成策略。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把想法組織成明確可用的形式",
+        "use": "談假設、策略、計畫、回應、規則或問題定義時"
+      },
+      "others": [
+        {
+          "word": "Think of",
+          "meaning": "心裡突然想到某事",
+          "use": "只是冒出想法，還未整理成形時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在系統性除錯裡，<code>formulate</code> 很關鍵；好的假設會讓測試有方向，不讓時間被直覺帶著亂跑。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 formulate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/formulate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 formulate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/formulate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "formulate",
+    "word": "Formulate",
+    "partOfSpeech": "verb",
+    "href": "./formulate.html",
+    "thesis": "不是想到而已，而是把想法整理成可說明、可執行的形式。",
+    "tags": [
+      "制定",
+      "成形",
+      "think of",
+      "hypothesis",
+      "strategy",
+      "debugging",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/formulate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/formulate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/formulate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

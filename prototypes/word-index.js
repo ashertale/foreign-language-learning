@@ -1955,5 +1955,1905 @@ window.WORD_INDEX = [
       "expectations",
       "verb"
     ]
+  },
+  {
+    id: "abstain",
+    word: "Abstain",
+    partOfSpeech: "verb",
+    href: "./abstain.html",
+    order: 101,
+    cefr: "C1",
+    zipf: 3.34,
+    thesis: "不是單純的「不做」，而是在有誘惑、壓力或資格時主動選擇不參與。",
+    tags: [
+      "克制",
+      "棄權",
+      "avoid",
+      "voting",
+      "ethics",
+      "self-control",
+      "verb"
+    ]
+  },
+  {
+    id: "accentuate",
+    word: "Accentuate",
+    partOfSpeech: "verb",
+    href: "./accentuate.html",
+    order: 102,
+    cefr: "C2",
+    zipf: 2.88,
+    thesis: "不是單純的「強調」，而是讓原本已存在的特徵變得更醒目。",
+    tags: [
+      "凸顯",
+      "輪廓",
+      "emphasize",
+      "contrast",
+      "design",
+      "data visualization",
+      "verb"
+    ]
+  },
+  {
+    id: "acquiesce",
+    word: "Acquiesce",
+    partOfSpeech: "verb",
+    href: "./acquiesce.html",
+    order: 103,
+    cefr: "C2",
+    zipf: 2.42,
+    thesis: "不是心甘情願同意，而是在壓力、疲憊或現實面前安靜地讓步。",
+    tags: [
+      "默許",
+      "讓步",
+      "agree",
+      "pressure",
+      "consent",
+      "organization",
+      "verb"
+    ]
+  },
+  {
+    id: "admonish",
+    word: "Admonish",
+    partOfSpeech: "verb",
+    href: "./admonish.html",
+    order: 104,
+    cefr: "C2",
+    zipf: 2.79,
+    thesis: "不是單純責罵，而是帶著警告意味地提醒對方不要再犯。",
+    tags: [
+      "告誡",
+      "警告",
+      "scold",
+      "discipline",
+      "governance",
+      "quality",
+      "verb"
+    ]
+  },
+  {
+    id: "advocate",
+    word: "Advocate",
+    partOfSpeech: "verb",
+    href: "./advocate.html",
+    order: 105,
+    cefr: "C1",
+    zipf: 4.24,
+    thesis: "不是只是喜歡某個想法，而是公開替它提出理由、爭取空間。",
+    tags: [
+      "提倡",
+      "發聲",
+      "support",
+      "policy",
+      "developer advocate",
+      "engineering practice",
+      "verb"
+    ]
+  },
+  {
+    id: "aesthetic",
+    word: "Aesthetic",
+    partOfSpeech: "adjective",
+    href: "./aesthetic.html",
+    order: 106,
+    cefr: "C1",
+    zipf: 3.70,
+    thesis: "不是只有「漂亮」，而是關於一件事如何被感知、形成風格與美感秩序。",
+    tags: [
+      "美感",
+      "風格",
+      "beautiful",
+      "design",
+      "UI",
+      "sensory",
+      "adjective"
+    ]
+  },
+  {
+    id: "aggregate",
+    word: "Aggregate",
+    partOfSpeech: "noun",
+    href: "./aggregate.html",
+    order: 107,
+    cefr: "C1",
+    zipf: 3.75,
+    thesis: "不是隨便一堆東西，而是許多個體合在一起後形成可分析的整體。",
+    tags: [
+      "彙總",
+      "總體",
+      "collection",
+      "data",
+      "metrics",
+      "statistics",
+      "noun"
+    ]
+  },
+  {
+    id: "amend",
+    word: "Amend",
+    partOfSpeech: "verb",
+    href: "./amend.html",
+    order: 108,
+    cefr: "C1",
+    zipf: 3.53,
+    thesis: "不是重新寫掉一切，而是在既有文本、規則或計畫上正式修正。",
+    tags: [
+      "修正",
+      "正式修改",
+      "edit",
+      "contract",
+      "policy",
+      "spec",
+      "verb"
+    ]
+  },
+  {
+    id: "amplify",
+    word: "Amplify",
+    partOfSpeech: "verb",
+    href: "./amplify.html",
+    order: 109,
+    cefr: "C1",
+    zipf: 3.89,
+    thesis: "不是只把聲音變大，而是把訊號、效果或影響推得更遠、更強。",
+    tags: [
+      "放大",
+      "訊號",
+      "increase",
+      "signal",
+      "social media",
+      "impact",
+      "verb"
+    ]
+  },
+  {
+    id: "appease",
+    word: "Appease",
+    partOfSpeech: "verb",
+    href: "./appease.html",
+    order: 110,
+    cefr: "C2",
+    zipf: 3.09,
+    thesis: "不是真正解決衝突，而是先讓憤怒或壓力安靜下來。",
+    tags: [
+      "安撫",
+      "姑息",
+      "satisfy",
+      "conflict",
+      "critics",
+      "product",
+      "verb"
+    ]
+  },
+  {
+    id: "arbitrary",
+    word: "Arbitrary",
+    partOfSpeech: "adjective",
+    href: "./arbitrary.html",
+    order: 111,
+    cefr: "C1",
+    zipf: 3.84,
+    thesis: "不是單純隨機，而是缺少可被說服的理由或一致標準。",
+    tags: [
+      "任意",
+      "缺乏標準",
+      "random",
+      "threshold",
+      "policy",
+      "design review",
+      "adjective"
+    ]
+  },
+  {
+    id: "articulate",
+    word: "Articulate",
+    partOfSpeech: "verb",
+    href: "./articulate.html",
+    order: 112,
+    cefr: "C1",
+    zipf: 3.85,
+    thesis: "不是只是說出口，而是把模糊想法拆成別人能理解的清楚形狀。",
+    tags: [
+      "清楚表達",
+      "闡明",
+      "say",
+      "communication",
+      "trade-off",
+      "requirements",
+      "verb"
+    ]
+  },
+  {
+    id: "assert",
+    word: "Assert",
+    partOfSpeech: "verb",
+    href: "./assert.html",
+    order: 113,
+    cefr: "C1",
+    zipf: 4.16,
+    thesis: "不是輕輕提出，而是帶著確定感把主張放到桌上。",
+    tags: [
+      "斷言",
+      "主張",
+      "suggest",
+      "assertion",
+      "testing",
+      "rights",
+      "verb"
+    ]
+  },
+  {
+    id: "augment",
+    word: "Augment",
+    partOfSpeech: "verb",
+    href: "./augment.html",
+    order: 114,
+    cefr: "C1",
+    zipf: 3.25,
+    thesis: "不是替換原本的東西，而是在它上面加能力、加量或加支援。",
+    tags: [
+      "補強",
+      "擴充",
+      "replace",
+      "AI",
+      "capacity",
+      "dataset",
+      "verb"
+    ]
+  },
+  {
+    id: "austere",
+    word: "Austere",
+    partOfSpeech: "adjective",
+    href: "./austere.html",
+    order: 115,
+    cefr: "C2",
+    zipf: 2.96,
+    thesis: "不是單純簡約，而是冷、硬、少裝飾，甚至帶一點嚴厲。",
+    tags: [
+      "嚴樸",
+      "冷硬",
+      "minimal",
+      "design",
+      "policy",
+      "restraint",
+      "adjective"
+    ]
+  },
+  {
+    id: "avert",
+    word: "Avert",
+    partOfSpeech: "verb",
+    href: "./avert.html",
+    order: 116,
+    cefr: "C1",
+    zipf: 3.33,
+    thesis: "不是等災難來了再處理，而是在它發生前把方向轉開。",
+    tags: [
+      "避免危機",
+      "預防",
+      "fix",
+      "risk",
+      "outage",
+      "safety",
+      "verb"
+    ]
+  },
+  {
+    id: "brittle",
+    word: "Brittle",
+    partOfSpeech: "adjective",
+    href: "./brittle.html",
+    order: 117,
+    cefr: "C1",
+    zipf: 3.41,
+    thesis: "不是只是硬，而是缺少彈性，一受壓就容易裂開。",
+    tags: [
+      "脆",
+      "缺乏彈性",
+      "fragile",
+      "tests",
+      "materials",
+      "resilience",
+      "adjective"
+    ]
+  },
+  {
+    id: "buoyant",
+    word: "Buoyant",
+    partOfSpeech: "adjective",
+    href: "./buoyant.html",
+    order: 118,
+    cefr: "C2",
+    zipf: 3.05,
+    thesis: "不是只是開心，而是像有浮力一樣，壓力下仍能往上回彈。",
+    tags: [
+      "浮力",
+      "回彈",
+      "cheerful",
+      "market",
+      "mood",
+      "resilience",
+      "adjective"
+    ]
+  },
+  {
+    id: "candor",
+    word: "Candor",
+    partOfSpeech: "noun",
+    href: "./candor.html",
+    order: 119,
+    cefr: "C2",
+    zipf: 2.72,
+    thesis: "不是粗魯直白，而是願意把真話乾淨地說出來。",
+    tags: [
+      "坦誠",
+      "直率",
+      "bluntness",
+      "feedback",
+      "trust",
+      "leadership",
+      "noun"
+    ]
+  },
+  {
+    id: "clarify",
+    word: "Clarify",
+    partOfSpeech: "verb",
+    href: "./clarify.html",
+    order: 120,
+    cefr: "B2",
+    zipf: 4.10,
+    thesis: "不是多說幾句，而是把混濁的地方變得可看清、可決定。",
+    tags: [
+      "澄清",
+      "釐清",
+      "explain",
+      "requirements",
+      "meeting",
+      "communication",
+      "verb"
+    ]
+  },
+  {
+    id: "compensate",
+    word: "Compensate",
+    partOfSpeech: "verb",
+    href: "./compensate.html",
+    order: 121,
+    cefr: "C1",
+    zipf: 4.03,
+    thesis: "不是單純付錢，而是用某種補償把失衡拉回來。",
+    tags: [
+      "補償",
+      "抵消",
+      "pay",
+      "drift",
+      "control",
+      "salary",
+      "verb"
+    ]
+  },
+  {
+    id: "concede",
+    word: "Concede",
+    partOfSpeech: "verb",
+    href: "./concede.html",
+    order: 122,
+    cefr: "C1",
+    zipf: 3.79,
+    thesis: "不是熱情同意，而是在證據、壓力或現實面前承認一點。",
+    tags: [
+      "讓步",
+      "承認",
+      "admit",
+      "debate",
+      "trade-off",
+      "negotiation",
+      "verb"
+    ]
+  },
+  {
+    id: "consolidate",
+    word: "Consolidate",
+    partOfSpeech: "verb",
+    href: "./consolidate.html",
+    order: 123,
+    cefr: "C1",
+    zipf: 3.73,
+    thesis: "不是只是合併，而是把分散的東西整成更穩、更好管理的整體。",
+    tags: [
+      "整併",
+      "鞏固",
+      "merge",
+      "data",
+      "services",
+      "technical debt",
+      "verb"
+    ]
+  },
+  {
+    id: "contend",
+    word: "Contend",
+    partOfSpeech: "verb",
+    href: "./contend.html",
+    order: 124,
+    cefr: "C1",
+    zipf: 3.53,
+    thesis: "不是普通地說，而是在競爭或論證中用力主張。",
+    tags: [
+      "主張",
+      "競爭",
+      "claim",
+      "argument",
+      "constraints",
+      "trade-off",
+      "verb"
+    ]
+  },
+  {
+    id: "deviate",
+    word: "Deviate",
+    partOfSpeech: "verb",
+    href: "./deviate.html",
+    order: 125,
+    cefr: "C1",
+    zipf: 3.23,
+    thesis: "不是單純不同，而是從既定路線、規範或預期軌道偏出去。",
+    tags: [
+      "偏離",
+      "基準",
+      "differ",
+      "baseline",
+      "statistics",
+      "process",
+      "verb"
+    ]
+  },
+  {
+    id: "diligent",
+    word: "Diligent",
+    partOfSpeech: "adjective",
+    href: "./diligent.html",
+    order: 126,
+    cefr: "C1",
+    zipf: 3.03,
+    thesis: "不是只是努力，而是穩定、細心、願意把必要步驟做到位。",
+    tags: [
+      "勤勉",
+      "細心",
+      "hardworking",
+      "documentation",
+      "review",
+      "reliability",
+      "adjective"
+    ]
+  },
+  {
+    id: "disparage",
+    word: "Disparage",
+    partOfSpeech: "verb",
+    href: "./disparage.html",
+    order: 127,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是單純批評，而是用話語把某人或某物的價值壓低。",
+    tags: [
+      "貶低",
+      "輕視",
+      "criticize",
+      "remarks",
+      "HR",
+      "team culture",
+      "verb"
+    ]
+  },
+  {
+    id: "dissent",
+    word: "Dissent",
+    partOfSpeech: "noun",
+    href: "./dissent.html",
+    order: 128,
+    cefr: "C2",
+    zipf: 3.15,
+    thesis: "不是普通不同意，而是在多數或權威面前保留並說出反對立場。",
+    tags: [
+      "異議",
+      "少數意見",
+      "disagreement",
+      "governance",
+      "risk",
+      "decision record",
+      "noun"
+    ]
+  },
+  {
+    id: "elaborate",
+    word: "Elaborate",
+    partOfSpeech: "verb",
+    href: "./elaborate.html",
+    order: 129,
+    cefr: "C1",
+    zipf: 4.03,
+    thesis: "不是把話變長，而是把缺少的細節補到足以理解。",
+    tags: [
+      "詳述",
+      "補細節",
+      "expand",
+      "bug report",
+      "documentation",
+      "communication",
+      "verb"
+    ]
+  },
+  {
+    id: "endorse",
+    word: "Endorse",
+    partOfSpeech: "verb",
+    href: "./endorse.html",
+    order: 130,
+    cefr: "C1",
+    zipf: 3.97,
+    thesis: "不是私下覺得不錯，而是公開把自己的信任放到某個人、產品或主張上。",
+    tags: [
+      "背書",
+      "公開支持",
+      "recommend",
+      "proposal",
+      "brand",
+      "credibility",
+      "verb"
+    ]
+  },
+  {
+    id: "evoke",
+    word: "Evoke",
+    partOfSpeech: "verb",
+    href: "./evoke.html",
+    order: 131,
+    cefr: "C1",
+    zipf: 3.62,
+    thesis: "不是直接說明，而是把記憶、情緒或畫面喚出來。",
+    tags: [
+      "喚起",
+      "情緒",
+      "describe",
+      "memory",
+      "brand",
+      "experience",
+      "verb"
+    ]
+  },
+  {
+    id: "extrapolate",
+    word: "Extrapolate",
+    partOfSpeech: "verb",
+    href: "./extrapolate.html",
+    order: 132,
+    cefr: "C2",
+    zipf: 2.91,
+    thesis: "不是瞎猜，而是從已知資料往外推到尚未觀察的範圍。",
+    tags: [
+      "外推",
+      "推估",
+      "guess",
+      "data",
+      "trend",
+      "capacity planning",
+      "verb"
+    ]
+  },
+  {
+    id: "facilitate",
+    word: "Facilitate",
+    partOfSpeech: "verb",
+    href: "./facilitate.html",
+    order: 133,
+    cefr: "C1",
+    zipf: 4.00,
+    thesis: "不是替別人完成，而是讓事情更容易發生、更順利前進。",
+    tags: [
+      "促進",
+      "降低摩擦",
+      "do",
+      "collaboration",
+      "workflow",
+      "meeting",
+      "verb"
+    ]
+  },
+  {
+    id: "fluctuate",
+    word: "Fluctuate",
+    partOfSpeech: "verb",
+    href: "./fluctuate.html",
+    order: 134,
+    cefr: "C1",
+    zipf: 3.40,
+    thesis: "不是穩定上升或下降，而是在一個範圍內來回波動。",
+    tags: [
+      "波動",
+      "起伏",
+      "change",
+      "metrics",
+      "signal",
+      "latency",
+      "verb"
+    ]
+  },
+  {
+    id: "formulate",
+    word: "Formulate",
+    partOfSpeech: "verb",
+    href: "./formulate.html",
+    order: 135,
+    cefr: "C1",
+    zipf: 3.73,
+    thesis: "不是想到而已，而是把想法整理成可說明、可執行的形式。",
+    tags: [
+      "制定",
+      "成形",
+      "think of",
+      "hypothesis",
+      "strategy",
+      "debugging",
+      "verb"
+    ]
+  },
+  {
+    id: "galvanize",
+    word: "Galvanize",
+    partOfSpeech: "verb",
+    href: "./galvanize.html",
+    order: 136,
+    cefr: "C2",
+    zipf: 2.63,
+    thesis: "不是溫和鼓勵，而是像電流一樣讓人突然動起來。",
+    tags: [
+      "激發行動",
+      "動員",
+      "encourage",
+      "incident",
+      "organization",
+      "action",
+      "verb"
+    ]
+  },
+  {
+    id: "illuminate",
+    word: "Illuminate",
+    partOfSpeech: "verb",
+    href: "./illuminate.html",
+    order: 137,
+    cefr: "C1",
+    zipf: 3.61,
+    thesis: "不是只把燈打開，而是讓原本看不懂的東西變得清楚。",
+    tags: [
+      "照亮",
+      "揭示",
+      "show",
+      "analysis",
+      "dashboard",
+      "trace",
+      "verb"
+    ]
+  },
+  {
+    id: "infer",
+    word: "Infer",
+    partOfSpeech: "verb",
+    href: "./infer.html",
+    order: 138,
+    cefr: "C1",
+    zipf: 3.50,
+    thesis: "不是直接看見答案，而是從線索合理推出結論。",
+    tags: [
+      "推論",
+      "線索",
+      "assume",
+      "logs",
+      "evidence",
+      "AI",
+      "verb"
+    ]
+  },
+  {
+    id: "inhibit",
+    word: "Inhibit",
+    partOfSpeech: "verb",
+    href: "./inhibit.html",
+    order: 139,
+    cefr: "C1",
+    zipf: 3.54,
+    thesis: "不是完全阻止，而是壓住、限制或讓某個反應不容易發生。",
+    tags: [
+      "抑制",
+      "限制",
+      "prevent",
+      "safety",
+      "control",
+      "behavior",
+      "verb"
+    ]
+  },
+  {
+    id: "integrate",
+    word: "Integrate",
+    partOfSpeech: "verb",
+    href: "./integrate.html",
+    order: 140,
+    cefr: "C1",
+    zipf: 4.12,
+    thesis: "不是只是放在一起，而是讓不同部分真正能作為一個整體運作。",
+    tags: [
+      "整合",
+      "協同",
+      "combine",
+      "systems",
+      "data",
+      "firmware",
+      "verb"
+    ]
+  },
+  {
+    id: "leverage",
+    word: "Leverage",
+    partOfSpeech: "verb",
+    href: "./leverage.html",
+    order: 141,
+    cefr: "C1",
+    zipf: 3.74,
+    thesis: "不是單純使用，而是借力使力，把既有資源轉成更大的效果。",
+    tags: [
+      "借力",
+      "槓桿",
+      "use",
+      "tools",
+      "data",
+      "platform",
+      "verb"
+    ]
+  },
+  {
+    id: "optimize",
+    word: "Optimize",
+    partOfSpeech: "verb",
+    href: "./optimize.html",
+    order: 142,
+    cefr: "C1",
+    zipf: 3.38,
+    thesis: "不是盲目變快，而是在明確目標與限制下調到更好的狀態。",
+    tags: [
+      "最佳化",
+      "限制",
+      "improve",
+      "performance",
+      "power",
+      "trade-off",
+      "verb"
+    ]
+  },
+  {
+    id: "paramount",
+    word: "Paramount",
+    partOfSpeech: "adjective",
+    href: "./paramount.html",
+    order: 143,
+    cefr: "C2",
+    zipf: 3.00,
+    thesis: "不是只是重要，而是在排序裡高到其他考量必須讓位。",
+    tags: [
+      "至關重要",
+      "最高優先",
+      "important",
+      "safety",
+      "quality",
+      "risk",
+      "adjective"
+    ]
+  },
+  {
+    id: "precede",
+    word: "Precede",
+    partOfSpeech: "verb",
+    href: "./precede.html",
+    order: 144,
+    cefr: "C1",
+    zipf: 3.61,
+    thesis: "不是只是較早，而是在順序上走在另一件事前面。",
+    tags: [
+      "先於",
+      "順序",
+      "happen before",
+      "protocol",
+      "sequence",
+      "documentation",
+      "verb"
+    ]
+  },
+  {
+    id: "provoke",
+    word: "Provoke",
+    partOfSpeech: "verb",
+    href: "./provoke.html",
+    order: 145,
+    cefr: "C1",
+    zipf: 3.87,
+    thesis: "不是普通引起，而是刺激出強烈反應，常帶挑動意味。",
+    tags: [
+      "激起",
+      "挑動",
+      "cause",
+      "debate",
+      "emotion",
+      "research",
+      "verb"
+    ]
+  },
+  {
+    id: "rectify",
+    word: "Rectify",
+    partOfSpeech: "verb",
+    href: "./rectify.html",
+    order: 146,
+    cefr: "C1",
+    zipf: 3.08,
+    thesis: "不是隨便修一下，而是把錯誤、偏差或不公正校回正確狀態。",
+    tags: [
+      "糾正",
+      "校正",
+      "fix",
+      "quality",
+      "documentation",
+      "compliance",
+      "verb"
+    ]
+  },
+  {
+    id: "refine",
+    word: "Refine",
+    partOfSpeech: "verb",
+    href: "./refine.html",
+    order: 147,
+    cefr: "C1",
+    zipf: 3.92,
+    thesis: "不是重新開始，而是在既有成果上去除粗糙、提高精度。",
+    tags: [
+      "精煉",
+      "打磨",
+      "improve",
+      "iteration",
+      "design",
+      "model",
+      "verb"
+    ]
+  },
+  {
+    id: "relinquish",
+    word: "Relinquish",
+    partOfSpeech: "verb",
+    href: "./relinquish.html",
+    order: 148,
+    cefr: "C2",
+    zipf: 2.93,
+    thesis: "不是不小心失去，而是把原本握住的東西放手交出去。",
+    tags: [
+      "放棄",
+      "交出",
+      "lose",
+      "ownership",
+      "control",
+      "handoff",
+      "verb"
+    ]
+  },
+  {
+    id: "substantiate",
+    word: "Substantiate",
+    partOfSpeech: "verb",
+    href: "./substantiate.html",
+    order: 149,
+    cefr: "C2",
+    zipf: 2.64,
+    thesis: "不是只是聲稱，而是拿出證據讓主張有實體重量。",
+    tags: [
+      "證實",
+      "證據支撐",
+      "claim",
+      "RCA",
+      "evidence",
+      "audit",
+      "verb"
+    ]
+  },
+  {
+    id: "synthesize",
+    word: "Synthesize",
+    partOfSpeech: "verb",
+    href: "./synthesize.html",
+    order: 150,
+    cefr: "C2",
+    zipf: 2.95,
+    thesis: "不是把資料貼在一起，而是把不同來源整成新的理解。",
+    tags: [
+      "綜合",
+      "合成理解",
+      "summarize",
+      "research",
+      "system design",
+      "AI",
+      "verb"
+    ]
+  },
+  {
+    id: "aberrant",
+    word: "Aberrant",
+    partOfSpeech: "adjective",
+    href: "./aberrant.html",
+    order: 151,
+    cefr: "C2",
+    zipf: 2.73,
+    thesis: "不是普通不同，而是偏離了應有模式，讓人需要停下來追查。",
+    tags: [
+      "異常",
+      "偏離",
+      "anomalous",
+      "data",
+      "signal",
+      "debugging",
+      "adjective"
+    ]
+  },
+  {
+    id: "abrasive",
+    word: "Abrasive",
+    partOfSpeech: "adjective",
+    href: "./abrasive.html",
+    order: 152,
+    cefr: "C2",
+    zipf: 3.00,
+    thesis: "不是只是直接，而是像砂紙一樣磨人，讓互動變得刺痛。",
+    tags: [
+      "刺耳",
+      "磨蝕",
+      "harsh",
+      "feedback",
+      "material",
+      "tone",
+      "adjective"
+    ]
+  },
+  {
+    id: "accrue",
+    word: "Accrue",
+    partOfSpeech: "verb",
+    href: "./accrue.html",
+    order: 153,
+    cefr: "C2",
+    zipf: 2.88,
+    thesis: "不是一次拿到，而是隨時間一點一點累積成量。",
+    tags: [
+      "累積",
+      "利息",
+      "accumulate",
+      "finance",
+      "technical debt",
+      "risk",
+      "verb"
+    ]
+  },
+  {
+    id: "adverse",
+    word: "Adverse",
+    partOfSpeech: "adjective",
+    href: "./adverse.html",
+    order: 154,
+    cefr: "C1",
+    zipf: 3.66,
+    thesis: "不是單純不好，而是會反向施壓、造成不利結果。",
+    tags: [
+      "不利",
+      "負面影響",
+      "negative",
+      "risk",
+      "medical",
+      "conditions",
+      "adjective"
+    ]
+  },
+  {
+    id: "allocate",
+    word: "Allocate",
+    partOfSpeech: "verb",
+    href: "./allocate.html",
+    order: 155,
+    cefr: "C1",
+    zipf: 3.76,
+    thesis: "不是隨便分配，而是在有限資源下決定誰拿多少。",
+    tags: [
+      "分配",
+      "資源",
+      "assign",
+      "memory",
+      "budget",
+      "planning",
+      "verb"
+    ]
+  },
+  {
+    id: "analogous",
+    word: "Analogous",
+    partOfSpeech: "adjective",
+    href: "./analogous.html",
+    order: 156,
+    cefr: "C2",
+    zipf: 2.98,
+    thesis: "不是完全相同，而是在結構或功能上足夠相似，可以互相照亮。",
+    tags: [
+      "類比",
+      "相似結構",
+      "similar",
+      "learning",
+      "systems",
+      "comparison",
+      "adjective"
+    ]
+  },
+  {
+    id: "annotate",
+    word: "Annotate",
+    partOfSpeech: "verb",
+    href: "./annotate.html",
+    order: 157,
+    cefr: "C1",
+    zipf: 2.99,
+    thesis: "不是只看過，而是在文本或資料旁留下理解的痕跡。",
+    tags: [
+      "註解",
+      "標記",
+      "comment",
+      "data labeling",
+      "reading",
+      "AI",
+      "verb"
+    ]
+  },
+  {
+    id: "anticipate",
+    word: "Anticipate",
+    partOfSpeech: "verb",
+    href: "./anticipate.html",
+    order: 158,
+    cefr: "B2",
+    zipf: 4.04,
+    thesis: "不是等事情發生，而是提前看見可能性並準備反應。",
+    tags: [
+      "預期",
+      "提前準備",
+      "expect",
+      "planning",
+      "risk",
+      "product",
+      "verb"
+    ]
+  },
+  {
+    id: "appraise",
+    word: "Appraise",
+    partOfSpeech: "verb",
+    href: "./appraise.html",
+    order: 159,
+    cefr: "C2",
+    zipf: 2.68,
+    thesis: "不是隨口稱讚，而是評估價值、品質或表現。",
+    tags: [
+      "評估",
+      "估價",
+      "assess",
+      "performance",
+      "evidence",
+      "property",
+      "verb"
+    ]
+  },
+  {
+    id: "arbitrate",
+    word: "Arbitrate",
+    partOfSpeech: "verb",
+    href: "./arbitrate.html",
+    order: 160,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是加入爭吵，而是站到中間作出裁決或協調。",
+    tags: [
+      "仲裁",
+      "裁決",
+      "mediate",
+      "law",
+      "bus",
+      "resource",
+      "verb"
+    ]
+  },
+  {
+    id: "ascertain",
+    word: "Ascertain",
+    partOfSpeech: "verb",
+    href: "./ascertain.html",
+    order: 161,
+    cefr: "C2",
+    zipf: 2.95,
+    thesis: "不是猜出答案，而是透過檢查把事實確認下來。",
+    tags: [
+      "查明",
+      "確認",
+      "determine",
+      "RCA",
+      "evidence",
+      "investigation",
+      "verb"
+    ]
+  },
+  {
+    id: "assimilate",
+    word: "Assimilate",
+    partOfSpeech: "verb",
+    href: "./assimilate.html",
+    order: 162,
+    cefr: "C2",
+    zipf: 2.80,
+    thesis: "不是放在旁邊，而是吸收進既有系統，變成能運作的一部分。",
+    tags: [
+      "吸收",
+      "融入",
+      "integrate",
+      "learning",
+      "culture",
+      "system",
+      "verb"
+    ]
+  },
+  {
+    id: "attest",
+    word: "Attest",
+    partOfSpeech: "verb",
+    href: "./attest.html",
+    order: 163,
+    cefr: "C2",
+    zipf: 2.79,
+    thesis: "不是隨口說是真的，而是以證據或見證支持某件事。",
+    tags: [
+      "證明",
+      "見證",
+      "evidence",
+      "audit",
+      "compliance",
+      "claim",
+      "verb"
+    ]
+  },
+  {
+    id: "attribute",
+    word: "Attribute",
+    partOfSpeech: "verb",
+    href: "./attribute.html",
+    order: 164,
+    cefr: "C1",
+    zipf: 4.05,
+    thesis: "不是只看到結果，而是把原因、來源或功勞歸到某處。",
+    tags: [
+      "歸因",
+      "來源",
+      "cause",
+      "RCA",
+      "authorship",
+      "analysis",
+      "verb"
+    ]
+  },
+  {
+    id: "breach",
+    word: "Breach",
+    partOfSpeech: "noun",
+    href: "./breach.html",
+    order: 165,
+    cefr: "C1",
+    zipf: 3.55,
+    thesis: "不是普通問題，而是邊界、規則或信任被打開了一個缺口。",
+    tags: [
+      "破口",
+      "違約",
+      "security",
+      "contract",
+      "trust",
+      "boundary",
+      "noun"
+    ]
+  },
+  {
+    id: "chronicle",
+    word: "Chronicle",
+    partOfSpeech: "verb",
+    href: "./chronicle.html",
+    order: 166,
+    cefr: "C2",
+    zipf: 3.00,
+    thesis: "不是隨便記一筆，而是按時間把事件留下可追溯的紀錄。",
+    tags: [
+      "編年記錄",
+      "時間線",
+      "document",
+      "history",
+      "incident",
+      "report",
+      "verb"
+    ]
+  },
+  {
+    id: "coerce",
+    word: "Coerce",
+    partOfSpeech: "verb",
+    href: "./coerce.html",
+    order: 167,
+    cefr: "C2",
+    zipf: 2.70,
+    thesis: "不是說服，而是用壓力、威脅或權力逼人照做。",
+    tags: [
+      "脅迫",
+      "強迫",
+      "persuade",
+      "consent",
+      "ethics",
+      "power",
+      "verb"
+    ]
+  },
+  {
+    id: "commensurate",
+    word: "Commensurate",
+    partOfSpeech: "adjective",
+    href: "./commensurate.html",
+    order: 168,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是剛好一樣，而是大小、程度或報酬與條件相稱。",
+    tags: [
+      "相稱",
+      "成比例",
+      "proportional",
+      "risk",
+      "pay",
+      "fairness",
+      "adjective"
+    ]
+  },
+  {
+    id: "concur",
+    word: "Concur",
+    partOfSpeech: "verb",
+    href: "./concur.html",
+    order: 169,
+    cefr: "C2",
+    zipf: 2.88,
+    thesis: "不是隨便點頭，而是正式地同意某個判斷或結論。",
+    tags: [
+      "同意",
+      "正式認可",
+      "agree",
+      "review",
+      "law",
+      "decision",
+      "verb"
+    ]
+  },
+  {
+    id: "condense",
+    word: "Condense",
+    partOfSpeech: "verb",
+    href: "./condense.html",
+    order: 170,
+    cefr: "C1",
+    zipf: 3.10,
+    thesis: "不是刪到變少，而是把內容壓縮到更密、更集中。",
+    tags: [
+      "濃縮",
+      "壓縮",
+      "summarize",
+      "writing",
+      "physics",
+      "density",
+      "verb"
+    ]
+  },
+  {
+    id: "confer",
+    word: "Confer",
+    partOfSpeech: "verb",
+    href: "./confer.html",
+    order: 171,
+    cefr: "C1",
+    zipf: 3.25,
+    thesis: "不是單純給予，而是正式授予；也可以是為了判斷而商議。",
+    tags: [
+      "授予",
+      "商議",
+      "grant",
+      "authority",
+      "certificate",
+      "discussion",
+      "verb"
+    ]
+  },
+  {
+    id: "conflate",
+    word: "Conflate",
+    partOfSpeech: "verb",
+    href: "./conflate.html",
+    order: 172,
+    cefr: "C2",
+    zipf: 2.58,
+    thesis: "不是整合，而是把本該分開的概念混成一團。",
+    tags: [
+      "混淆",
+      "混為一談",
+      "combine",
+      "analysis",
+      "causation",
+      "debugging",
+      "verb"
+    ]
+  },
+  {
+    id: "curtail",
+    word: "Curtail",
+    partOfSpeech: "verb",
+    href: "./curtail.html",
+    order: 173,
+    cefr: "C2",
+    zipf: 2.79,
+    thesis: "不是自然變少，而是被刻意縮短、限制或削減。",
+    tags: [
+      "縮減",
+      "限制",
+      "reduce",
+      "budget",
+      "policy",
+      "access",
+      "verb"
+    ]
+  },
+  {
+    id: "decipher",
+    word: "Decipher",
+    partOfSpeech: "verb",
+    href: "./decipher.html",
+    order: 174,
+    cefr: "C2",
+    zipf: 2.91,
+    thesis: "不是看見字而已，而是把難懂的符號或訊息解出意義。",
+    tags: [
+      "解讀",
+      "破譯",
+      "interpret",
+      "logs",
+      "code",
+      "debugging",
+      "verb"
+    ]
+  },
+  {
+    id: "deduce",
+    word: "Deduce",
+    partOfSpeech: "verb",
+    href: "./deduce.html",
+    order: 175,
+    cefr: "C1",
+    zipf: 3.06,
+    thesis: "不是直接看見，而是從已知前提一步步推出結論。",
+    tags: [
+      "推導",
+      "演繹",
+      "infer",
+      "evidence",
+      "logic",
+      "RCA",
+      "verb"
+    ]
+  },
+  {
+    id: "deplete",
+    word: "Deplete",
+    partOfSpeech: "verb",
+    href: "./deplete.html",
+    order: 176,
+    cefr: "C1",
+    zipf: 3.05,
+    thesis: "不是普通用掉，而是把存量消耗到明顯不足。",
+    tags: [
+      "耗盡",
+      "消耗",
+      "battery",
+      "resources",
+      "power",
+      "capacity",
+      "verb"
+    ]
+  },
+  {
+    id: "disclose",
+    word: "Disclose",
+    partOfSpeech: "verb",
+    href: "./disclose.html",
+    order: 177,
+    cefr: "C1",
+    zipf: 3.70,
+    thesis: "不是隨便說出來，而是把原本未公開的資訊正式揭露。",
+    tags: [
+      "揭露",
+      "公開資訊",
+      "reveal",
+      "security",
+      "compliance",
+      "transparency",
+      "verb"
+    ]
+  },
+  {
+    id: "discrepancy",
+    word: "Discrepancy",
+    partOfSpeech: "noun",
+    href: "./discrepancy.html",
+    order: 178,
+    cefr: "C1",
+    zipf: 3.29,
+    thesis: "不是普通差異，而是兩份資料、說法或結果對不起來。",
+    tags: [
+      "不一致",
+      "差異",
+      "data",
+      "audit",
+      "metrics",
+      "records",
+      "noun"
+    ]
+  },
+  {
+    id: "disrupt",
+    word: "Disrupt",
+    partOfSpeech: "verb",
+    href: "./disrupt.html",
+    order: 179,
+    cefr: "C1",
+    zipf: 3.78,
+    thesis: "不是普通改變，而是打斷原本穩定運作的流程或市場。",
+    tags: [
+      "擾亂",
+      "中斷",
+      "interrupt",
+      "service",
+      "market",
+      "communication",
+      "verb"
+    ]
+  },
+  {
+    id: "elicit",
+    word: "Elicit",
+    partOfSpeech: "verb",
+    href: "./elicit.html",
+    order: 180,
+    cefr: "C2",
+    zipf: 3.09,
+    thesis: "不是直接拿到，而是透過提問、刺激或設計把反應引出來。",
+    tags: [
+      "引出",
+      "誘發",
+      "requirements",
+      "interview",
+      "testing",
+      "response",
+      "verb"
+    ]
+  },
+  {
+    id: "encompass",
+    word: "Encompass",
+    partOfSpeech: "verb",
+    href: "./encompass.html",
+    order: 181,
+    cefr: "C1",
+    zipf: 3.37,
+    thesis: "不是只包含一點，而是把一整個範圍包進來。",
+    tags: [
+      "涵蓋",
+      "範圍",
+      "include",
+      "coverage",
+      "policy",
+      "testing",
+      "verb"
+    ]
+  },
+  {
+    id: "entail",
+    word: "Entail",
+    partOfSpeech: "verb",
+    href: "./entail.html",
+    order: 182,
+    cefr: "C1",
+    zipf: 3.25,
+    thesis: "不是順便相關，而是某個選擇必然帶來的要求或後果。",
+    tags: [
+      "牽涉",
+      "必然包含",
+      "require",
+      "trade-off",
+      "risk",
+      "cost",
+      "verb"
+    ]
+  },
+  {
+    id: "erode",
+    word: "Erode",
+    partOfSpeech: "verb",
+    href: "./erode.html",
+    order: 183,
+    cefr: "C1",
+    zipf: 3.39,
+    thesis: "不是一下子毀掉，而是長時間一點一點磨掉基礎。",
+    tags: [
+      "侵蝕",
+      "削弱",
+      "trust",
+      "margin",
+      "quality",
+      "slow damage",
+      "verb"
+    ]
+  },
+  {
+    id: "explicate",
+    word: "Explicate",
+    partOfSpeech: "verb",
+    href: "./explicate.html",
+    order: 184,
+    cefr: "C2",
+    zipf: 2.31,
+    thesis: "不是簡單解釋，而是把隱含結構攤開講清楚。",
+    tags: [
+      "闡釋",
+      "展開說明",
+      "explain",
+      "analysis",
+      "writing",
+      "concept",
+      "verb"
+    ]
+  },
+  {
+    id: "foster",
+    word: "Foster",
+    partOfSpeech: "verb",
+    href: "./foster.html",
+    order: 185,
+    cefr: "C1",
+    zipf: 3.78,
+    thesis: "不是直接製造，而是提供條件讓某件事慢慢長出來。",
+    tags: [
+      "培養",
+      "促成",
+      "promote",
+      "culture",
+      "team",
+      "trust",
+      "verb"
+    ]
+  },
+  {
+    id: "impart",
+    word: "Impart",
+    partOfSpeech: "verb",
+    href: "./impart.html",
+    order: 186,
+    cefr: "C2",
+    zipf: 2.84,
+    thesis: "不是把東西丟給對方，而是把知識、特質或感覺傳遞進去。",
+    tags: [
+      "傳授",
+      "賦予",
+      "convey",
+      "mentorship",
+      "design",
+      "knowledge",
+      "verb"
+    ]
+  },
+  {
+    id: "impose",
+    word: "Impose",
+    partOfSpeech: "verb",
+    href: "./impose.html",
+    order: 187,
+    cefr: "C1",
+    zipf: 4.09,
+    thesis: "不是單純提出，而是把規則、負擔或限制加到別人身上。",
+    tags: [
+      "施加",
+      "強加",
+      "constraints",
+      "policy",
+      "burden",
+      "rules",
+      "verb"
+    ]
+  },
+  {
+    id: "inclination",
+    word: "Inclination",
+    partOfSpeech: "noun",
+    href: "./inclination.html",
+    order: 188,
+    cefr: "C2",
+    zipf: 3.21,
+    thesis: "不是已經做了決定，而是心裡或物理方向上有一個傾向。",
+    tags: [
+      "傾向",
+      "偏好",
+      "preference",
+      "decision",
+      "angle",
+      "judgment",
+      "noun"
+    ]
+  },
+  {
+    id: "inherent",
+    word: "Inherent",
+    partOfSpeech: "adjective",
+    href: "./inherent.html",
+    order: 189,
+    cefr: "C1",
+    zipf: 3.62,
+    thesis: "不是外面加上去的，而是事物本身就帶著的特性。",
+    tags: [
+      "固有",
+      "內在",
+      "intrinsic",
+      "risk",
+      "limitations",
+      "trade-off",
+      "adjective"
+    ]
+  },
+  {
+    id: "invoke",
+    word: "Invoke",
+    partOfSpeech: "verb",
+    href: "./invoke.html",
+    order: 190,
+    cefr: "C1",
+    zipf: 3.68,
+    thesis: "不是只是提到，而是呼叫某個權力、規則、函式或意象來產生效果。",
+    tags: [
+      "呼叫",
+      "援引",
+      "function",
+      "rule",
+      "API",
+      "memory",
+      "verb"
+    ]
+  },
+  {
+    id: "juxtapose",
+    word: "Juxtapose",
+    partOfSpeech: "verb",
+    href: "./juxtapose.html",
+    order: 191,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是只是放一起，而是並置兩者，讓差異或關係自己浮出來。",
+    tags: [
+      "並置",
+      "對比",
+      "compare",
+      "visualization",
+      "writing",
+      "contrast",
+      "verb"
+    ]
+  },
+  {
+    id: "mediate",
+    word: "Mediate",
+    partOfSpeech: "verb",
+    href: "./mediate.html",
+    order: 192,
+    cefr: "C1",
+    zipf: 3.43,
+    thesis: "不是直接決定誰對，而是在中間幫雙方找到可走的路。",
+    tags: [
+      "調解",
+      "中介",
+      "conflict",
+      "teams",
+      "research",
+      "communication",
+      "verb"
+    ]
+  },
+  {
+    id: "misconstrue",
+    word: "Misconstrue",
+    partOfSpeech: "verb",
+    href: "./misconstrue.html",
+    order: 193,
+    cefr: "C2",
+    zipf: 2.16,
+    thesis: "不是沒聽到，而是把意思理解錯方向。",
+    tags: [
+      "誤解",
+      "曲解",
+      "misunderstand",
+      "intent",
+      "communication",
+      "law",
+      "verb"
+    ]
+  },
+  {
+    id: "oblige",
+    word: "Oblige",
+    partOfSpeech: "verb",
+    href: "./oblige.html",
+    order: 194,
+    cefr: "C1",
+    zipf: 3.33,
+    thesis: "不是自願想做，而是因義務、禮貌或壓力而必須做。",
+    tags: [
+      "義務",
+      "迫使",
+      "contract",
+      "politeness",
+      "duty",
+      "rules",
+      "verb"
+    ]
+  },
+  {
+    id: "pertinent",
+    word: "Pertinent",
+    partOfSpeech: "adjective",
+    href: "./pertinent.html",
+    order: 195,
+    cefr: "C1",
+    zipf: 3.13,
+    thesis: "不是所有相關都算，而是對眼前問題真正有用、切題。",
+    tags: [
+      "切題",
+      "相關",
+      "relevant",
+      "evidence",
+      "meeting",
+      "focus",
+      "adjective"
+    ]
+  },
+  {
+    id: "prohibit",
+    word: "Prohibit",
+    partOfSpeech: "verb",
+    href: "./prohibit.html",
+    order: 196,
+    cefr: "C1",
+    zipf: 3.57,
+    thesis: "不是不建議，而是用規則明確禁止。",
+    tags: [
+      "禁止",
+      "規則",
+      "forbid",
+      "security",
+      "policy",
+      "law",
+      "verb"
+    ]
+  },
+  {
+    id: "qualify",
+    word: "Qualify",
+    partOfSpeech: "verb",
+    href: "./qualify.html",
+    order: 197,
+    cefr: "B2",
+    zipf: 4.21,
+    thesis: "不是只有取得資格，也可以是替一句話加上限制條件。",
+    tags: [
+      "資格",
+      "限定",
+      "conditions",
+      "certification",
+      "statement",
+      "scope",
+      "verb"
+    ]
+  },
+  {
+    id: "rebut",
+    word: "Rebut",
+    partOfSpeech: "verb",
+    href: "./rebut.html",
+    order: 198,
+    cefr: "C2",
+    zipf: 2.63,
+    thesis: "不是普通不同意，而是用理由或證據反駁對方主張。",
+    tags: [
+      "反駁",
+      "駁斥",
+      "claim",
+      "evidence",
+      "debate",
+      "RCA",
+      "verb"
+    ]
+  },
+  {
+    id: "supersede",
+    word: "Supersede",
+    partOfSpeech: "verb",
+    href: "./supersede.html",
+    order: 199,
+    cefr: "C2",
+    zipf: 2.70,
+    thesis: "不是單純更新，而是新的版本取代舊版本，讓舊的失效或退場。",
+    tags: [
+      "取代",
+      "新版",
+      "replace",
+      "spec",
+      "document",
+      "version",
+      "verb"
+    ]
+  },
+  {
+    id: "underscore",
+    word: "Underscore",
+    partOfSpeech: "verb",
+    href: "./underscore.html",
+    order: 200,
+    cefr: "C1",
+    zipf: 3.26,
+    thesis: "不是重新說一次，而是用某個事實把重點畫線標出來。",
+    tags: [
+      "強調",
+      "凸顯",
+      "emphasize",
+      "incident",
+      "report",
+      "focus",
+      "verb"
+    ]
   }
 ];

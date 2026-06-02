@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Aesthetic",
+    "slug": "aesthetic",
+    "outputPath": "prototypes/aesthetic.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "es-THET-ik · UK /iːsˈθet.ɪk/ · US /esˈθet̬.ɪk/",
+    "hero": {
+      "thesis": "不是只有「漂亮」，而是關於一件事如何被感知、形成風格與美感秩序。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.70"
+    },
+    "coreIdea": "<code>aesthetic</code> 用來談視覺、聲音、版面、物件或文化風格帶給人的感官與審美經驗。",
+    "definition": {
+      "summary": "形容與美感、風格、感官經驗或審美判斷有關的事物。",
+      "contrast": {
+        "word": "Beautiful",
+        "note": "<code>beautiful</code> 是直接稱讚好看；<code>aesthetic</code> 更像分析它的美感系統與風格語言。"
+      },
+      "flow": [
+        "感官接收到形式",
+        "形成風格感",
+        "產生審美判斷"
+      ]
+    },
+    "origin": {
+      "history": "<code>aesthetic</code> 來自希臘語 <code>aisthētikos</code>，和感知、感覺能力有關。",
+      "memoryLens": "它的根不只是美，而是「你怎麼感覺到這個世界」。"
+    },
+    "memory": {
+      "hook": "<code>aesthetic</code> 是美感背後那套看得見、聽得到、摸得到的秩序。",
+      "explanation": "當你說一個介面有某種 aesthetic，你不是只說它漂亮，而是在說它有一套一致的感官語言。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "咖啡店的燈光、桌面、音樂與菜單字體共同形成一種 <code>aesthetic</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "產品設計裡，<code>aesthetic consistency</code> 會影響使用者是否覺得介面可信、清楚與成熟。"
+      }
+    ],
+    "collocations": {
+      "note": "Aesthetic 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "aesthetic appeal",
+          "register": "設計 / 評論",
+          "note": "吸引人的美感效果。"
+        },
+        {
+          "phrase": "aesthetic choice",
+          "register": "創作 / 產品",
+          "note": "基於風格與感知做出的選擇。"
+        },
+        {
+          "phrase": "aesthetic consistency",
+          "register": "UI / 品牌",
+          "note": "視覺語言前後一致。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "關於感知、風格與美感系統",
+        "use": "談設計、藝術、品牌、介面或空間氛圍時"
+      },
+      "others": [
+        {
+          "word": "Beautiful",
+          "meaning": "直接好看或令人愉悅",
+          "use": "只想稱讚外觀，而不分析風格系統時"
+        }
+      ]
+    },
+    "modernUse": [
+      "社群語境中，<code>aesthetic</code> 也可以指一套可辨識的視覺風格；在產品語境中，它則關係到信任、可讀性與品牌一致性。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 aesthetic 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/aesthetic",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 aesthetic 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/aesthetic",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "aesthetic",
+    "word": "Aesthetic",
+    "partOfSpeech": "adjective",
+    "href": "./aesthetic.html",
+    "thesis": "不是只有「漂亮」，而是關於一件事如何被感知、形成風格與美感秩序。",
+    "tags": [
+      "美感",
+      "風格",
+      "beautiful",
+      "design",
+      "UI",
+      "sensory",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/aesthetic",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/aesthetic",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/aesthetic",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

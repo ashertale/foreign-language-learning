@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Abrasive",
+    "slug": "abrasive",
+    "outputPath": "prototypes/abrasive.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-BRAY-siv · UK /əˈbreɪ.sɪv/ · US /əˈbreɪ.sɪv/",
+    "hero": {
+      "thesis": "不是只是直接，而是像砂紙一樣磨人，讓互動變得刺痛。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.00"
+    },
+    "coreIdea": "<code>abrasive</code> 可以描述材料會磨損表面，也可以描述說話或個性讓人感到粗硬、不舒服。",
+    "definition": {
+      "summary": "形容會磨蝕的材料，或刺耳、粗魯、令人不快的態度。",
+      "contrast": {
+        "word": "Direct",
+        "note": "<code>direct</code> 可以清楚但不傷人；<code>abrasive</code> 強調粗糙到會磨損關係或耐心。"
+      },
+      "flow": [
+        "接觸表面",
+        "產生摩擦",
+        "留下磨損感"
+      ]
+    },
+    "memory": {
+      "hook": "<code>abrasive</code> 是一句話裡藏著砂紙。",
+      "explanation": "它的核心是摩擦感；不論材料或人際，都讓表面被刮過。"
+    },
+    "usage": [
+      {
+        "label": "材料版",
+        "body": "An <code>abrasive</code> pad removes dirt by physically wearing the surface. 這個情境凸顯「會磨蝕的材料，或刺耳、粗魯、令人不快的態度」。"
+      },
+      {
+        "label": "人際版",
+        "body": "An <code>abrasive</code> comment may contain useful feedback, but people first feel the scrape. 讀這句時，焦點在「會磨蝕的材料，或刺耳、粗魯、令人不快的態度」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "abrasive material",
+          "register": "製造 / 維修",
+          "note": "指砂紙、研磨墊等會磨蝕表面的材料。"
+        },
+        {
+          "phrase": "abrasive tone",
+          "register": "溝通 / 管理",
+          "note": "描述語氣刺耳，容易讓對方防衛。"
+        },
+        {
+          "phrase": "abrasive personality",
+          "register": "人際 / 職場",
+          "note": "指互動方式粗硬、讓人難以靠近。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "形容會磨蝕的材料，或刺耳、粗魯、令人不快的態度。",
+        "use": "用在「不是只是直接，而是像砂紙一樣磨人，讓互動變得刺痛」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Harsh",
+          "meaning": "harsh 泛指嚴厲或刺耳；abrasive 更像摩擦造成的不舒服。",
+          "use": "當 Harsh 這邊的語氣更貼近目標時，不要硬套 <code>abrasive</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 feedback culture 裡，<code>abrasive</code> 常提醒一件事：內容可能正確，但傳遞方式會消耗信任。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 abrasive 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/abrasive",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 abrasive 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/abrasive",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>abrasive</code> 來自 <code>abrade</code> 的詞族，追到 Latin <code>abradere</code>，意思是「刮掉、磨掉」。",
+      "memoryLens": "先記物理畫面：砂紙磨掉表面。人際語氣裡的 abrasive 也是同一種刮擦感。"
+    }
+  },
+  "indexEntry": {
+    "id": "abrasive",
+    "word": "Abrasive",
+    "partOfSpeech": "adjective",
+    "href": "./abrasive.html",
+    "thesis": "不是只是直接，而是像砂紙一樣磨人，讓互動變得刺痛。",
+    "tags": [
+      "刺耳",
+      "磨蝕",
+      "harsh",
+      "feedback",
+      "material",
+      "tone",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/abrasive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/abrasive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/abrasive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

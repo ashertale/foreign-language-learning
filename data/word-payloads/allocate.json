@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Allocate",
+    "slug": "allocate",
+    "outputPath": "prototypes/allocate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "AL-uh-kayt · UK /ˈæl.ə.keɪt/ · US /ˈæl.ə.keɪt/",
+    "hero": {
+      "thesis": "不是隨便分配，而是在有限資源下決定誰拿多少。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.76"
+    },
+    "coreIdea": "<code>allocate</code> 描述把時間、預算、記憶體、人力或權限分派到特定用途；重點是資源有限，所以需要取捨。",
+    "definition": {
+      "summary": "表示按計畫或規則分配資源、時間、金錢或工作。",
+      "contrast": {
+        "word": "Give",
+        "note": "<code>give</code> 只是給；<code>allocate</code> 暗示有資源池、用途與分配邏輯。"
+      },
+      "flow": [
+        "資源有限",
+        "用途競爭",
+        "做出分配"
+      ]
+    },
+    "memory": {
+      "hook": "<code>allocate</code> 是把一塊記憶體切給某個任務。",
+      "explanation": "它有工程感：每一份資源都有去處，也有機會成本。"
+    },
+    "usage": [
+      {
+        "label": "專案版",
+        "body": "The team must <code>allocate</code> time for testing before release. 這個情境凸顯「按計畫或規則分配資源、時間、金錢或工作」。"
+      },
+      {
+        "label": "系統版",
+        "body": "The firmware can <code>allocate</code> memory only after checking available space. 讀這句時，焦點在「按計畫或規則分配資源、時間、金錢或工作」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "allocate resources",
+          "register": "管理 / 工程",
+          "note": "把有限資源分派到不同任務。"
+        },
+        {
+          "phrase": "allocate budget",
+          "register": "商務 / 財務",
+          "note": "決定預算如何分配。"
+        },
+        {
+          "phrase": "allocate memory",
+          "register": "軟體 / 韌體",
+          "note": "為程式或資料結構配置記憶體。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示按計畫或規則分配資源、時間、金錢或工作。",
+        "use": "用在「不是隨便分配，而是在有限資源下決定誰拿多少」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Assign",
+          "meaning": "assign 偏向指派工作或責任；allocate 更突出有限資源的分配。",
+          "use": "當 Assign 這邊的語氣更貼近目標時，不要硬套 <code>allocate</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在系統設計裡，<code>allocate</code> 常跟 trade-off 綁在一起，因為資源放到 A，就不能同時完整放到 B。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 allocate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/allocate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 allocate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/allocate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>allocate</code> 來自 Medieval Latin <code>allocare</code>，由「到、向」加上 <code>locare</code>（放置、安排）形成。",
+      "memoryLens": "字源裡的 place 很重要：allocate 是把有限資源放到某個指定位置。"
+    }
+  },
+  "indexEntry": {
+    "id": "allocate",
+    "word": "Allocate",
+    "partOfSpeech": "verb",
+    "href": "./allocate.html",
+    "thesis": "不是隨便分配，而是在有限資源下決定誰拿多少。",
+    "tags": [
+      "分配",
+      "資源",
+      "assign",
+      "memory",
+      "budget",
+      "planning",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/allocate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/allocate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/allocate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

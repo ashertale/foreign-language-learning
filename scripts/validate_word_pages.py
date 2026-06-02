@@ -12,6 +12,7 @@ PAYLOADS = ROOT / "data" / "word-payloads"
 KICKER_RE = re.compile(r'(<p class="kicker">)Word\s+(\d+)(\s*/\s*[^<]+</p>)')
 REMOVED_UI_LABELS = ("今日定位", "概念焦點", "語氣質地", "使用提醒", "字源來源", "主動回想")
 OLD_IPA_LABELS = ("Respelling", "UK IPA", "US IPA")
+WORD_PAGE_SCRIPT = PROTOTYPES / "word-page.js"
 
 
 def preserve_word_number(rendered_page: str, current_page: str) -> str:
@@ -69,6 +70,31 @@ def validate_payload_page(payload_path: Path) -> list[str]:
     return html_errors(output_path, render_page(model))
 
 
+def speech_playback_errors() -> list[str]:
+    source = read_text(WORD_PAGE_SCRIPT)
+    errors: list[str] = []
+
+    if "SPEECH_WARMUP" in source or "startSpeechWithWarmup" in source:
+        errors.append("speech playback must not include an audible warmup utterance")
+
+    if "SPEECH_REPEAT_SEPARATOR" not in source:
+        errors.append("missing repeated actual utterance separator for clipped speech playback")
+
+    if not re.search(r"\$\{\s*text\s*\}\$\{\s*SPEECH_REPEAT_SEPARATOR\s*\}\$\{\s*text\s*\}", source):
+        errors.append("actual speech utterance must repeat the original word in the same utterance")
+
+    if not re.search(r"onStart\(\s*createEnglishUtterance\(\s*text\s*,\s*\{\s*repeatForClipping:\s*true,?\s*\}\s*\)\s*\)", source):
+        errors.append("speech utterance must use repeated playback")
+
+    if re.search(r"volume:\s*0(?:[,}\n])", source) or re.search(r"SPEECH_WARMUP_VOLUME\s*=\s*0(?:[;\n])", source):
+        errors.append("speech playback must not use skipped zero-volume utterances")
+
+    if "speechUtterancesInFlight" not in source or "retainUtterance(utterance)" not in source:
+        errors.append("speech utterances must be retained until end/error to avoid browser GC truncation")
+
+    return errors
+
+
 def payload_paths(args: argparse.Namespace) -> list[Path]:
     if args.payload:
         return [path.resolve() for path in args.payload]
@@ -81,6 +107,9 @@ def main() -> int:
     args = parser.parse_args()
 
     failures: list[str] = []
+    for error in speech_playback_errors():
+        failures.append(f"{WORD_PAGE_SCRIPT.relative_to(ROOT)}: {error}")
+
     paths = payload_paths(args)
     for path in paths:
         errors = validate_payload_page(path)

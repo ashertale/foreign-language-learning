@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Paramount",
+    "slug": "paramount",
+    "outputPath": "prototypes/paramount.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "PAIR-uh-mount · UK /ˈpær.ə.maʊnt/ · US /ˈper.ə.maʊnt/",
+    "hero": {
+      "thesis": "不是只是重要，而是在排序裡高到其他考量必須讓位。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.00"
+    },
+    "coreIdea": "<code>paramount</code> 用來描述安全、信任、品質或原則具有最高優先級，不能被輕易犧牲。",
+    "definition": {
+      "summary": "形容某事最重要、至高無上、優先於其他考量。",
+      "contrast": {
+        "word": "Important",
+        "note": "<code>important</code> 可以很多項並列；<code>paramount</code> 是放在最上層的優先級。"
+      },
+      "flow": [
+        "多個考量競爭",
+        "某一項被放到最上層",
+        "其他選擇要配合它"
+      ]
+    },
+    "origin": {
+      "history": "<code>paramount</code> 來自 Anglo-French 的表達，字面感接近「在上方、最高」。",
+      "memoryLens": "它像 priority stack 最上面的那一層，不能被下面的需求推翻。"
+    },
+    "memory": {
+      "hook": "<code>paramount</code> 是重要到成為排序規則本身。",
+      "explanation": "這個字語氣很強，適合安全、信任、生命、原則這類不能輕放的東西。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "照顧小孩時，safety is <code>paramount</code>，比方便或速度都更先。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在 safety-critical firmware 裡，system integrity is <code>paramount</code>，任何優化都不能越過這條線。"
+      }
+    ],
+    "collocations": {
+      "note": "Paramount 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "of paramount importance",
+          "register": "正式 / 報告",
+          "note": "極其重要，具有最高優先級。"
+        },
+        {
+          "phrase": "safety is paramount",
+          "register": "工程 / 公共",
+          "note": "安全優先於其他考量。"
+        },
+        {
+          "phrase": "paramount concern",
+          "register": "法律 / 管理",
+          "note": "最首要的關切。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "最高優先級、其他考量要讓位",
+        "use": "談安全、原則、信任、生命、品質或核心目標時"
+      },
+      "others": [
+        {
+          "word": "Important",
+          "meaning": "一般重要",
+          "use": "只是需要注意，但不一定排第一時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在風險管理中，<code>paramount</code> 可以幫你把討論拉回排序：不是什麼都重要，而是哪一件事不能輸。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 paramount 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/paramount",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 paramount 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/paramount",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "paramount",
+    "word": "Paramount",
+    "partOfSpeech": "adjective",
+    "href": "./paramount.html",
+    "thesis": "不是只是重要，而是在排序裡高到其他考量必須讓位。",
+    "tags": [
+      "至關重要",
+      "最高優先",
+      "important",
+      "safety",
+      "quality",
+      "risk",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/paramount",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/paramount",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/paramount",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

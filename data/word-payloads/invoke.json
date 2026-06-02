@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Invoke",
+    "slug": "invoke",
+    "outputPath": "prototypes/invoke.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "in-VOHK · UK /ɪnˈvəʊk/ · US /ɪnˈvoʊk/",
+    "hero": {
+      "thesis": "不是只是提到，而是呼叫某個權力、規則、函式或意象來產生效果。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.68"
+    },
+    "coreIdea": "<code>invoke</code> 可以表示援引法律或原則，也可以表示呼叫程式、喚起某種感覺；共同核心是把某個力量叫出來使用。",
+    "definition": {
+      "summary": "表示援引、呼叫、喚起，使某個規則、函式或感覺發揮作用。",
+      "contrast": {
+        "word": "Mention",
+        "note": "<code>mention</code> 只是提到；<code>invoke</code> 是把它叫進場，讓它有作用。"
+      },
+      "flow": [
+        "某力量可用",
+        "被叫出來",
+        "開始產生作用"
+      ]
+    },
+    "memory": {
+      "hook": "<code>invoke</code> 是在程式裡呼叫一個函式，也是在討論裡搬出一條原則。",
+      "explanation": "它的核心是召喚並啟用。"
+    },
+    "usage": [
+      {
+        "label": "程式版",
+        "body": "The handler invokes a callback after the operation completes. 這個情境凸顯「援引、呼叫、喚起，使某個規則、函式或感覺發揮作用」。"
+      },
+      {
+        "label": "法律版",
+        "body": "The company invoked a clause in the contract. 讀這句時，焦點在「援引、呼叫、喚起，使某個規則、函式或感覺發揮作用」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "invoke a function",
+          "register": "程式 / 工程",
+          "note": "呼叫函式。"
+        },
+        {
+          "phrase": "invoke a rule",
+          "register": "法律 / 政策",
+          "note": "援引規則。"
+        },
+        {
+          "phrase": "invoke memories",
+          "register": "寫作 / 情緒",
+          "note": "喚起記憶。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示援引、呼叫、喚起，使某個規則、函式或感覺發揮作用。",
+        "use": "用在「不是只是提到，而是呼叫某個權力、規則、函式或意象來產生效果」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Call",
+          "meaning": "call 在程式可用；invoke 更正式，也可跨到法律與修辭。",
+          "use": "當 Call 這邊的語氣更貼近目標時，不要硬套 <code>invoke</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 software API 文件中，<code>invoke</code> 常表示不只是引用名稱，而是真的觸發行為。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 invoke 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/invoke",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 invoke 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/invoke",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>invoke</code> 來自 Latin <code>invocare</code>，意思是「呼喚、召請」。<code>vocare</code> 與 voice、vocation 的 call 概念相連。",
+      "memoryLens": "不論呼叫函式或援引規則，核心都是把某個力量叫出來使用。"
+    }
+  },
+  "indexEntry": {
+    "id": "invoke",
+    "word": "Invoke",
+    "partOfSpeech": "verb",
+    "href": "./invoke.html",
+    "thesis": "不是只是提到，而是呼叫某個權力、規則、函式或意象來產生效果。",
+    "tags": [
+      "呼叫",
+      "援引",
+      "function",
+      "rule",
+      "API",
+      "memory",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/invoke",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/invoke",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/invoke",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Candor",
+    "slug": "candor",
+    "outputPath": "prototypes/candor.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "KAN-der · UK /ˈkæn.dər/ · US /ˈkæn.dɚ/",
+    "hero": {
+      "thesis": "不是粗魯直白，而是願意把真話乾淨地說出來。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.72"
+    },
+    "coreIdea": "<code>candor</code> 指坦誠、直率與不遮掩，尤其是在困難對話中仍保留尊重與清楚。",
+    "definition": {
+      "summary": "表示坦率、誠實、不迴避真相的說話或態度。",
+      "contrast": {
+        "word": "Bluntness",
+        "note": "<code>bluntness</code> 可能刺人；<code>candor</code> 的直通常帶有正直與清澈。"
+      },
+      "flow": [
+        "真相不舒服",
+        "仍選擇說清楚",
+        "保留信任"
+      ]
+    },
+    "origin": {
+      "history": "<code>candor</code> 來自拉丁語 <code>candor</code>，原本有明亮、潔白的意思，後來延伸到坦白與正直。",
+      "memoryLens": "把它記成把話拿到光下，不藏在陰影裡。"
+    },
+    "memory": {
+      "hook": "<code>candor</code> 是清澈的真話，不是用真話當武器。",
+      "explanation": "這個字的美感在於乾淨：話可能尖銳，但目的不是傷人。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "朋友用 <code>candor</code> 告訴你問題所在，會不舒服，但你知道他不是在羞辱你。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "高信任團隊需要 <code>radical candor</code> 的能力：清楚指出問題，同時保留對人的尊重。"
+      }
+    ],
+    "collocations": {
+      "note": "Candor 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "with candor",
+          "register": "正式 / 人際",
+          "note": "坦率地、沒有遮掩地說。"
+        },
+        {
+          "phrase": "radical candor",
+          "register": "管理 / 團隊",
+          "note": "直接回饋與真正關心並存。"
+        },
+        {
+          "phrase": "lack of candor",
+          "register": "法律 / 組織",
+          "note": "缺乏坦白，可能暗示隱瞞。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "坦誠而清楚地說真話",
+        "use": "談回饋、信任、調查、領導與困難對話時"
+      },
+      "others": [
+        {
+          "word": "Bluntness",
+          "meaning": "不修飾、可能粗硬的直白",
+          "use": "重點是刺耳或不顧感受時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在管理語境中，<code>candor</code> 常和 feedback culture 放在一起；它要求組織能聽見壞消息，而不是只鼓勵漂亮話。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 candor 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/candor",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 candor 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/candor",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "candor",
+    "word": "Candor",
+    "partOfSpeech": "noun",
+    "href": "./candor.html",
+    "thesis": "不是粗魯直白，而是願意把真話乾淨地說出來。",
+    "tags": [
+      "坦誠",
+      "直率",
+      "bluntness",
+      "feedback",
+      "trust",
+      "leadership",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/candor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/candor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/candor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

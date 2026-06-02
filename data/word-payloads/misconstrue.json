@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Misconstrue",
+    "slug": "misconstrue",
+    "outputPath": "prototypes/misconstrue.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "mis-kuhn-STROO · UK /ˌmɪs.kənˈstruː/ · US /ˌmɪs.kənˈstruː/",
+    "hero": {
+      "thesis": "不是沒聽到，而是把意思理解錯方向。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.16"
+    },
+    "coreIdea": "<code>misconstrue</code> 表示誤解某人的話、意圖、規則或資料，把原本意思解讀成另一回事。",
+    "definition": {
+      "summary": "表示誤解、曲解，把某事理解錯。",
+      "contrast": {
+        "word": "Miss",
+        "note": "<code>miss</code> 可以是錯過；<code>misconstrue</code> 是有接收到，但解讀錯了。"
+      },
+      "flow": [
+        "訊息進來",
+        "解讀方向偏掉",
+        "意思被扭曲"
+      ]
+    },
+    "memory": {
+      "hook": "<code>misconstrue</code> 是把路標看成相反方向。",
+      "explanation": "它提醒你：溝通失敗不一定是資訊不足，也可能是解釋框架錯了。"
+    },
+    "usage": [
+      {
+        "label": "溝通版",
+        "body": "A short message can be misconstrued as rude without context. 這個情境凸顯「誤解、曲解，把某事理解錯」。"
+      },
+      {
+        "label": "法務版",
+        "body": "The clause should be clear enough not to be misconstrued. 讀這句時，焦點在「誤解、曲解，把某事理解錯」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "misconstrue a statement",
+          "register": "溝通 / 法律",
+          "note": "誤解一句話。"
+        },
+        {
+          "phrase": "easily misconstrued",
+          "register": "正式 / 寫作",
+          "note": "容易被誤解。"
+        },
+        {
+          "phrase": "misconstrue intent",
+          "register": "人際 / 組織",
+          "note": "誤解意圖。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示誤解、曲解，把某事理解錯。",
+        "use": "用在「不是沒聽到，而是把意思理解錯方向」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Misunderstand",
+          "meaning": "misunderstand 很常用；misconstrue 更正式，常表示把意思解讀錯。",
+          "use": "當 Misunderstand 這邊的語氣更貼近目標時，不要硬套 <code>misconstrue</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在遠端文字溝通裡，<code>misconstrue</code> 很實用，因為缺少語氣時，正確文字也可能被讀錯。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 misconstrue 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/misconstrue",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 misconstrue 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/misconstrue",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>misconstrue</code> 由 <code>mis-</code> 加上 construe 形成；construe 可追到 Latin <code>construere</code>，有「組合、建立解讀」的意思。",
+      "memoryLens": "不是沒收到訊息，而是把意思組裝錯了方向。"
+    }
+  },
+  "indexEntry": {
+    "id": "misconstrue",
+    "word": "Misconstrue",
+    "partOfSpeech": "verb",
+    "href": "./misconstrue.html",
+    "thesis": "不是沒聽到，而是把意思理解錯方向。",
+    "tags": [
+      "誤解",
+      "曲解",
+      "misunderstand",
+      "intent",
+      "communication",
+      "law",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/misconstrue",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/misconstrue",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/misconstrue",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Avert",
+    "slug": "avert",
+    "outputPath": "prototypes/avert.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-VURT · UK /əˈvɜːt/ · US /əˈvɝːt/",
+    "hero": {
+      "thesis": "不是等災難來了再處理，而是在它發生前把方向轉開。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.33"
+    },
+    "coreIdea": "<code>avert</code> 用來描述預先採取行動，避免危機、事故、風險或壞結果真正發生。",
+    "definition": {
+      "summary": "表示避免、阻止或防止某個危險、災難、衝突或壞結果發生。",
+      "contrast": {
+        "word": "Fix",
+        "note": "<code>fix</code> 是問題已經發生後修；<code>avert</code> 是在結果成真前讓它轉向。"
+      },
+      "flow": [
+        "風險正在逼近",
+        "提早介入",
+        "壞結果沒有發生"
+      ]
+    },
+    "origin": {
+      "history": "<code>avert</code> 來自拉丁語 <code>avertere</code>，意思接近「轉開、轉離」。",
+      "memoryLens": "它像在車撞上護欄前，先把方向盤轉走。"
+    },
+    "memory": {
+      "hook": "<code>avert</code> 是在事故成為事故之前改變路線。",
+      "explanation": "這個字的成就常常看不見，因為成功時災難沒有發生。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "及早道歉可能 <code>avert</code> a conflict，讓一場爭吵還沒爆開就降溫。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "監控告警若設計得好，可以 <code>avert</code> an outage，而不是只在事故後記錄損失。"
+      }
+    ],
+    "collocations": {
+      "note": "Avert 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "avert a crisis",
+          "register": "新聞 / 管理",
+          "note": "避免危機真正爆發。"
+        },
+        {
+          "phrase": "avert disaster",
+          "register": "風險 / 安全",
+          "note": "阻止災難性結果。"
+        },
+        {
+          "phrase": "avert one's eyes",
+          "register": "敘事 / 身體動作",
+          "note": "把視線移開，避免直視。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "提前轉開風險以避免壞結果",
+        "use": "談危機管理、事故預防、衝突降溫或安全機制時"
+      },
+      "others": [
+        {
+          "word": "Fix",
+          "meaning": "問題發生後修復",
+          "use": "已經壞掉，需要處理故障時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 reliability 與 safety 語境中，<code>avert</code> 很有價值，因為最好的系統常讓使用者永遠看不見原本可能發生的壞事。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 avert 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/avert",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 avert 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/avert",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "avert",
+    "word": "Avert",
+    "partOfSpeech": "verb",
+    "href": "./avert.html",
+    "thesis": "不是等災難來了再處理，而是在它發生前把方向轉開。",
+    "tags": [
+      "避免危機",
+      "預防",
+      "fix",
+      "risk",
+      "outage",
+      "safety",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/avert",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/avert",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/avert",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

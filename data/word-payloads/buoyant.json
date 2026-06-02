@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Buoyant",
+    "slug": "buoyant",
+    "outputPath": "prototypes/buoyant.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "BOY-uhnt · UK /ˈbɔɪ.ənt/ · US /ˈbɔɪ.ənt/",
+    "hero": {
+      "thesis": "不是只是開心，而是像有浮力一樣，壓力下仍能往上回彈。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.05"
+    },
+    "coreIdea": "<code>buoyant</code> 用來描述物體能浮起，也可形容情緒、市場或團隊在壓力後仍保持上升力。",
+    "definition": {
+      "summary": "形容能浮起、有浮力，或比喻情緒、經濟、氣氛保持樂觀、有活力。",
+      "contrast": {
+        "word": "Cheerful",
+        "note": "<code>cheerful</code> 是心情愉快；<code>buoyant</code> 有被壓下後仍往上浮的力量感。"
+      },
+      "flow": [
+        "受到重量或壓力",
+        "仍有向上力量",
+        "保持漂浮或樂觀"
+      ]
+    },
+    "origin": {
+      "history": "<code>buoyant</code> 來自 <code>buoy</code> 的詞族，和浮標、漂浮支撐有關。",
+      "memoryLens": "記成水面上的浮標：浪再來，它還是會浮回來。"
+    },
+    "memory": {
+      "hook": "<code>buoyant</code> 是壓力按下去後仍會浮起來的狀態。",
+      "explanation": "它比 optimistic 更有物理感：不是想法正面，而是有回彈力。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一個人即使遇到挫折仍保持 <code>buoyant</code>，表示他的精神沒有沉下去。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "市場報告說 demand remains <code>buoyant</code>，意思是需求在壓力下仍然有支撐。"
+      }
+    ],
+    "collocations": {
+      "note": "Buoyant 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "buoyant mood",
+          "register": "日常 / 心理",
+          "note": "輕快、有上升感的心情。"
+        },
+        {
+          "phrase": "buoyant market",
+          "register": "商務 / 經濟",
+          "note": "市場需求或價格保持活力。"
+        },
+        {
+          "phrase": "buoyant material",
+          "register": "物理 / 工程",
+          "note": "具有浮力、能漂浮的材料。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "有浮力或在壓力下保持上升力",
+        "use": "談物理漂浮、心情、市場或團隊士氣時"
+      },
+      "others": [
+        {
+          "word": "Cheerful",
+          "meaning": "單純心情愉快",
+          "use": "只是開朗，不強調回彈或支撐力時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代商業新聞常用 <code>buoyant</code> 寫市場與需求，因為它能把數據上的強韌感說得比 positive 更有畫面。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 buoyant 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/buoyant",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 buoyant 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/buoyant",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "buoyant",
+    "word": "Buoyant",
+    "partOfSpeech": "adjective",
+    "href": "./buoyant.html",
+    "thesis": "不是只是開心，而是像有浮力一樣，壓力下仍能往上回彈。",
+    "tags": [
+      "浮力",
+      "回彈",
+      "cheerful",
+      "market",
+      "mood",
+      "resilience",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/buoyant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/buoyant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/buoyant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

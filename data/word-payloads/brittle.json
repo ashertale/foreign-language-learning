@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Brittle",
+    "slug": "brittle",
+    "outputPath": "prototypes/brittle.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "BRIT-uhl · UK /ˈbrɪt.əl/ · US /ˈbrɪt̬.əl/",
+    "hero": {
+      "thesis": "不是只是硬，而是缺少彈性，一受壓就容易裂開。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.41"
+    },
+    "coreIdea": "<code>brittle</code> 用來描述材料、系統、計畫或關係表面堅硬，卻無法吸收變化與衝擊。",
+    "definition": {
+      "summary": "形容某物硬而易碎，也可比喻系統或狀態缺乏韌性。",
+      "contrast": {
+        "word": "Fragile",
+        "note": "<code>fragile</code> 泛指脆弱；<code>brittle</code> 特別像硬物承受不了變形而斷裂。"
+      },
+      "flow": [
+        "外表硬",
+        "壓力無法被吸收",
+        "突然裂開"
+      ]
+    },
+    "origin": {
+      "history": "<code>brittle</code> 與古英語中容易破裂的語義相連，核心一直圍繞「脆、易斷」。",
+      "memoryLens": "它像乾掉的樹枝，看起來硬，手一折就斷。"
+    },
+    "memory": {
+      "hook": "<code>brittle</code> 是硬到沒有退路的脆弱。",
+      "explanation": "它提醒你：硬不等於強，能變形吸收壓力才是真韌性。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "冬天皮膚乾裂、餅乾一碰就碎，都可以用 <code>brittle</code> 描述。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在軟體與硬體系統裡，<code>brittle tests</code> 或 brittle design 代表小變動就造成大量破裂。"
+      }
+    ],
+    "collocations": {
+      "note": "Brittle 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "brittle material",
+          "register": "材料 / 工程",
+          "note": "硬但缺乏延展性，容易碎裂。"
+        },
+        {
+          "phrase": "brittle test",
+          "register": "軟體 / QA",
+          "note": "對無關變動太敏感的測試。"
+        },
+        {
+          "phrase": "brittle confidence",
+          "register": "心理 / 敘事",
+          "note": "表面自信，壓力一來就崩。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "硬而缺乏彈性，因此容易碎裂",
+        "use": "談材料、測試、系統、關係或心理狀態時"
+      },
+      "others": [
+        {
+          "word": "Fragile",
+          "meaning": "容易受損或需要小心保護",
+          "use": "脆弱但不一定有硬而易裂的質地時"
+        }
+      ]
+    },
+    "modernUse": [
+      "工程裡說某個流程 <code>brittle</code>，通常是在說它沒有容錯空間；它看似可用，其實只適合在理想條件下存在。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 brittle 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/brittle",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 brittle 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/brittle",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "brittle",
+    "word": "Brittle",
+    "partOfSpeech": "adjective",
+    "href": "./brittle.html",
+    "thesis": "不是只是硬，而是缺少彈性，一受壓就容易裂開。",
+    "tags": [
+      "脆",
+      "缺乏彈性",
+      "fragile",
+      "tests",
+      "materials",
+      "resilience",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/brittle",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/brittle",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/brittle",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Substantiate",
+    "slug": "substantiate",
+    "outputPath": "prototypes/substantiate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "suhb-STAN-shee-ayt · UK /səbˈstæn.ʃi.eɪt/ · US /səbˈstæn.ʃi.eɪt/",
+    "hero": {
+      "thesis": "不是只是聲稱，而是拿出證據讓主張有實體重量。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.64"
+    },
+    "coreIdea": "<code>substantiate</code> 用來描述用資料、文件、證詞、實驗或紀錄支持一個 claim，使它不只是口頭說法。",
+    "definition": {
+      "summary": "表示證實、用證據支持或使某個說法有根據。",
+      "contrast": {
+        "word": "Claim",
+        "note": "<code>claim</code> 是提出說法；<code>substantiate</code> 是提供證據讓說法站得住。"
+      },
+      "flow": [
+        "主張被提出",
+        "證據被拿出",
+        "說法變有重量"
+      ]
+    },
+    "origin": {
+      "history": "<code>substantiate</code> 來自 <code>substance</code> 的詞族，核心是讓抽象說法具有實質。",
+      "memoryLens": "它像替一個飄在空中的 claim 加上骨架與重量。"
+    },
+    "memory": {
+      "hook": "<code>substantiate</code> 是讓主張不再只是空話。",
+      "explanation": "這個字最適合問證據：你怎麼 substantiated that claim?"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "如果有人說某產品有效，他需要資料來 <code>substantiate</code> the claim。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在 root cause analysis 裡，每個結論都要被 logs、scope capture 或 experiment <code>substantiated</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Substantiate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "substantiate a claim",
+          "register": "法律 / 論證",
+          "note": "用證據支持主張。"
+        },
+        {
+          "phrase": "substantiate allegations",
+          "register": "法律 / 調查",
+          "note": "證實指控有根據。"
+        },
+        {
+          "phrase": "substantiating evidence",
+          "register": "正式 / 報告",
+          "note": "支撐說法的證據。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用證據讓主張站得住",
+        "use": "談法律、調查、RCA、報告、研究或審查時"
+      },
+      "others": [
+        {
+          "word": "Claim",
+          "meaning": "提出一個說法",
+          "use": "只是說出 claim，還沒有拿出證據時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程事故報告中，<code>substantiate</code> 可以防止故事太漂亮；每個結論都應該能回到證據。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 substantiate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/substantiate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 substantiate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/substantiate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "substantiate",
+    "word": "Substantiate",
+    "partOfSpeech": "verb",
+    "href": "./substantiate.html",
+    "thesis": "不是只是聲稱，而是拿出證據讓主張有實體重量。",
+    "tags": [
+      "證實",
+      "證據支撐",
+      "claim",
+      "RCA",
+      "evidence",
+      "audit",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/substantiate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/substantiate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/substantiate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Abstain",
+    "slug": "abstain",
+    "outputPath": "prototypes/abstain.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ab-STAYN · UK /əbˈsteɪn/ · US /əbˈsteɪn/",
+    "hero": {
+      "thesis": "不是單純的「不做」，而是在有誘惑、壓力或資格時主動選擇不參與。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.34"
+    },
+    "coreIdea": "<code>abstain</code> 用來描述你本來可以投票、飲酒、發言或介入，卻因原則、節制或利益衝突而退一步。",
+    "definition": {
+      "summary": "表示刻意避免做某事，尤其是避免投票、飲酒、表態或參與某個行動。",
+      "contrast": {
+        "word": "Avoid",
+        "note": "<code>avoid</code> 只是避開；<code>abstain</code> 更強調有意識的克制或正式的棄權。"
+      },
+      "flow": [
+        "有參與可能",
+        "主動克制自己",
+        "保持不介入"
+      ]
+    },
+    "origin": {
+      "history": "<code>abstain</code> 來自拉丁語 <code>abstinere</code>，意思接近「從某事物拉開、約束住自己」。",
+      "memoryLens": "把它記成手已經伸到按鈕前，最後仍把手收回來。"
+    },
+    "memory": {
+      "hook": "<code>abstain</code> 是你明明有票，卻選擇不按下任何一邊。",
+      "explanation": "這個字的重點不是能力不足，而是自我約束；沉默本身就是一個立場。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "聚餐時不喝酒、會議中不投票、爭論裡不加入，都可以說 you <code>abstain</code>。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在治理、審查或 code review 裡，利益衝突的人可以 <code>abstain from voting</code>，避免讓判斷失去可信度。"
+      }
+    ],
+    "collocations": {
+      "note": "Abstain 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "abstain from alcohol",
+          "register": "健康 / 日常",
+          "note": "表示因健康、宗教或節制而不喝酒。"
+        },
+        {
+          "phrase": "abstain from voting",
+          "register": "治理 / 會議",
+          "note": "正式表示棄權，不把票投給任何選項。"
+        },
+        {
+          "phrase": "abstain from comment",
+          "register": "法律 / 公關",
+          "note": "刻意不發表評論，常帶有謹慎或避嫌。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在可參與的情況下主動不做",
+        "use": "談棄權、戒除、避嫌或自我節制時"
+      },
+      "others": [
+        {
+          "word": "Avoid",
+          "meaning": "避開某件事，不一定有正式或道德上的克制感",
+          "use": "只是想說不要碰到風險或麻煩時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文常把 <code>abstain</code> 用在治理、健康與倫理情境；它讓「不參與」聽起來像一個經過判斷的動作，而不是被動缺席。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 abstain 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/abstain",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 abstain 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/abstain",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "abstain",
+    "word": "Abstain",
+    "partOfSpeech": "verb",
+    "href": "./abstain.html",
+    "thesis": "不是單純的「不做」，而是在有誘惑、壓力或資格時主動選擇不參與。",
+    "tags": [
+      "克制",
+      "棄權",
+      "avoid",
+      "voting",
+      "ethics",
+      "self-control",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/abstain",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/abstain",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/abstain",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

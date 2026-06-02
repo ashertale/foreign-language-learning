@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Prohibit",
+    "slug": "prohibit",
+    "outputPath": "prototypes/prohibit.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "proh-HIB-it · UK /prəˈhɪb.ɪt/ · US /proʊˈhɪb.ɪt/",
+    "hero": {
+      "thesis": "不是不建議，而是用規則明確禁止。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.57"
+    },
+    "coreIdea": "<code>prohibit</code> 表示透過法律、規則或政策禁止某行為；語氣比 discourage 強很多。",
+    "definition": {
+      "summary": "表示禁止、阻止某行為被允許發生。",
+      "contrast": {
+        "word": "Discourage",
+        "note": "<code>discourage</code> 是不鼓勵；<code>prohibit</code> 是明確不准。"
+      },
+      "flow": [
+        "規則存在",
+        "行為被列為不允許",
+        "違反會有後果"
+      ]
+    },
+    "memory": {
+      "hook": "<code>prohibit</code> 是門口那張寫著「禁止進入」的牌子。",
+      "explanation": "它的核心是正式邊界，不是軟性提醒。"
+    },
+    "usage": [
+      {
+        "label": "政策版",
+        "body": "The policy prohibits storing passwords in plain text. 這個情境凸顯「禁止、阻止某行為被允許發生」。"
+      },
+      {
+        "label": "法律版",
+        "body": "The law prohibits discrimination in hiring. 讀這句時，焦點在「禁止、阻止某行為被允許發生」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "strictly prohibit",
+          "register": "規則 / 法律",
+          "note": "嚴格禁止。"
+        },
+        {
+          "phrase": "prohibit access",
+          "register": "系統 / 安全",
+          "note": "禁止存取。"
+        },
+        {
+          "phrase": "prohibit the use of",
+          "register": "正式 / 政策",
+          "note": "禁止使用某物。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示禁止、阻止某行為被允許發生。",
+        "use": "用在「不是不建議，而是用規則明確禁止」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Forbid",
+          "meaning": "forbid 也表示禁止；prohibit 更正式，常見於法律與政策。",
+          "use": "當 Forbid 這邊的語氣更貼近目標時，不要硬套 <code>prohibit</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 security policy 中，<code>prohibit</code> 要比 avoid 清楚，因為它定義的是不可跨越的邊界。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 prohibit 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/prohibit",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 prohibit 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/prohibit",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>prohibit</code> 來自 Latin <code>prohibere</code>，意思是「擋住、阻止」。",
+      "memoryLens": "它像把手伸出去擋住某個行為：不是不鼓勵，而是不准通過。"
+    }
+  },
+  "indexEntry": {
+    "id": "prohibit",
+    "word": "Prohibit",
+    "partOfSpeech": "verb",
+    "href": "./prohibit.html",
+    "thesis": "不是不建議，而是用規則明確禁止。",
+    "tags": [
+      "禁止",
+      "規則",
+      "forbid",
+      "security",
+      "policy",
+      "law",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/prohibit",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/prohibit",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/prohibit",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

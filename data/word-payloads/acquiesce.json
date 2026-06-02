@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Acquiesce",
+    "slug": "acquiesce",
+    "outputPath": "prototypes/acquiesce.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ak-wee-ES · UK /ˌæk.wiˈes/ · US /ˌæk.wiˈes/",
+    "hero": {
+      "thesis": "不是心甘情願同意，而是在壓力、疲憊或現實面前安靜地讓步。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.42"
+    },
+    "coreIdea": "<code>acquiesce</code> 描述一個人不再反抗，表面接受別人的要求或安排，即使心裡未必完全認同。",
+    "definition": {
+      "summary": "表示默默接受或勉強同意某事，通常帶有不情願或無力改變的感覺。",
+      "contrast": {
+        "word": "Agree",
+        "note": "<code>agree</code> 可以是真心一致；<code>acquiesce</code> 常是「算了，就這樣吧」的讓步。"
+      },
+      "flow": [
+        "原本有抗拒",
+        "壓力或疲憊累積",
+        "安靜接受"
+      ]
+    },
+    "origin": {
+      "history": "<code>acquiesce</code> 來自拉丁語 <code>acquiescere</code>，含有「安靜下來、休息於某事」的意思。",
+      "memoryLens": "它的畫面不是點頭歡呼，而是爭論到最後把肩膀放下。"
+    },
+    "memory": {
+      "hook": "<code>acquiesce</code> 是你沒有被說服，只是已經不想再耗下去。",
+      "explanation": "這個字的陰影在於沉默；表面平靜，底下可能還有保留。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "朋友一直堅持某個餐廳，你最後 <code>acquiesce</code>，不是因為最想去，而是不想再討論。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "專案裡，團隊可能 <code>acquiesce to a deadline</code>，心裡知道風險還在，但現實壓力已經定案。"
+      }
+    ],
+    "collocations": {
+      "note": "Acquiesce 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "acquiesce to a demand",
+          "register": "正式 / 法律",
+          "note": "在要求面前讓步，常帶不情願。"
+        },
+        {
+          "phrase": "quietly acquiesce",
+          "register": "敘事 / 組織",
+          "note": "安靜接受，不再公開反對。"
+        },
+        {
+          "phrase": "acquiesce in a decision",
+          "register": "會議 / 管理",
+          "note": "接受已成定局的決策。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "不情願但停止反抗地接受",
+        "use": "談壓力下的默許、讓步或組織沉默時"
+      },
+      "others": [
+        {
+          "word": "Agree",
+          "meaning": "真心認同或達成一致",
+          "use": "雙方觀點真的一致、沒有勉強感時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在現代職場語境中，<code>acquiesce</code> 很適合描述表面共識背後的沉默成本：會議結束了，但問題未必被解決。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 acquiesce 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/acquiesce",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 acquiesce 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/acquiesce",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "acquiesce",
+    "word": "Acquiesce",
+    "partOfSpeech": "verb",
+    "href": "./acquiesce.html",
+    "thesis": "不是心甘情願同意，而是在壓力、疲憊或現實面前安靜地讓步。",
+    "tags": [
+      "默許",
+      "讓步",
+      "agree",
+      "pressure",
+      "consent",
+      "organization",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/acquiesce",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/acquiesce",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/acquiesce",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

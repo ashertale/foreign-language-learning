@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Advocate",
+    "slug": "advocate",
+    "outputPath": "prototypes/advocate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "AD-vuh-kayt · UK /ˈæd.və.keɪt/ · US /ˈæd.və.keɪt/",
+    "hero": {
+      "thesis": "不是只是喜歡某個想法，而是公開替它提出理由、爭取空間。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.24"
+    },
+    "coreIdea": "<code>advocate</code> 描述你站出來支持某個政策、做法或族群，並用論點讓別人認真看待它。",
+    "definition": {
+      "summary": "表示公開支持、主張或提倡某個想法、行動、政策或群體利益。",
+      "contrast": {
+        "word": "Support",
+        "note": "<code>support</code> 可以只是贊成；<code>advocate</code> 更像主動出面推動與辯護。"
+      },
+      "flow": [
+        "看見值得推動的事",
+        "提出理由",
+        "替它爭取採納"
+      ]
+    },
+    "origin": {
+      "history": "<code>advocate</code> 來自拉丁語 <code>advocare</code>，意思接近「把人叫來協助、為一方發聲」。",
+      "memoryLens": "記成有人站到你旁邊，替你把理由說清楚。"
+    },
+    "memory": {
+      "hook": "<code>advocate</code> 是把支持從心裡拿到桌面上。",
+      "explanation": "這個字有行動感：不只是同意，而是願意替某件事承擔說服成本。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可以 <code>advocate for</code> 更安全的通勤環境，意思是持續提出理由並推動改變。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "工程團隊裡，資深成員可能 <code>advocate for automated testing</code>，不是因為測試時髦，而是因為它降低長期風險。"
+      }
+    ],
+    "collocations": {
+      "note": "Advocate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "advocate for change",
+          "register": "公共議題 / 組織",
+          "note": "主動替改革發聲。"
+        },
+        {
+          "phrase": "advocate a policy",
+          "register": "政治 / 管理",
+          "note": "公開主張某項政策或做法。"
+        },
+        {
+          "phrase": "developer advocate",
+          "register": "科技 / 社群",
+          "note": "在產品與開發者之間替使用者需求發聲的人。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "主動公開支持並提出理由",
+        "use": "談政策、流程、權益、技術實踐或公共倡議時"
+      },
+      "others": [
+        {
+          "word": "Support",
+          "meaning": "支持某事，不一定親自推動",
+          "use": "只是態度上贊成或提供幫助時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在科技公司裡，<code>advocate</code> 也常是角色名稱，強調替開發者、使用者或某種工程實踐發聲。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 advocate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/advocate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 advocate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/advocate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "advocate",
+    "word": "Advocate",
+    "partOfSpeech": "verb",
+    "href": "./advocate.html",
+    "thesis": "不是只是喜歡某個想法，而是公開替它提出理由、爭取空間。",
+    "tags": [
+      "提倡",
+      "發聲",
+      "support",
+      "policy",
+      "developer advocate",
+      "engineering practice",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/advocate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/advocate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/advocate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

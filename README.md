@@ -2,7 +2,7 @@
 
 一個以「每天真的能用」為目標的英文單字深讀原型。它不是傳統後端服務，而是靜態 HTML 學習介面、可審核 JSON payload、Python 產生/驗證工具與瀏覽器 `localStorage` 狀態的組合。
 
-目前 repo 的主要成果是 100 個單字 payload/page pairs、單字庫搜尋管理頁，以及陌生字待補清單。
+目前 repo 的主要成果是以 `prototypes/word-index.js` 管理的一批單字 payload/page pairs、單字庫搜尋管理頁，以及陌生字待補清單。
 
 ## 快速開始
 

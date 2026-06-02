@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Diligent",
+    "slug": "diligent",
+    "outputPath": "prototypes/diligent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "DIL-uh-juhnt · UK /ˈdɪl.ɪ.dʒənt/ · US /ˈdɪl.ə.dʒənt/",
+    "hero": {
+      "thesis": "不是只是努力，而是穩定、細心、願意把必要步驟做到位。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.03"
+    },
+    "coreIdea": "<code>diligent</code> 用來形容人在工作、學習或檢查時持續投入注意力，不靠一時衝刺，而靠可靠的細節習慣。",
+    "definition": {
+      "summary": "形容勤勉、認真、細心且持續地完成工作或責任。",
+      "contrast": {
+        "word": "Hardworking",
+        "note": "<code>hardworking</code> 強調努力；<code>diligent</code> 更強調細心、穩定與責任感。"
+      },
+      "flow": [
+        "知道責任所在",
+        "持續投入注意力",
+        "細節被照顧"
+      ]
+    },
+    "origin": {
+      "history": "<code>diligent</code> 與拉丁語 <code>diligere</code> 有關，原本含有重視、珍惜、仔細選擇的意味。",
+      "memoryLens": "它不是把力氣亂丟，而是因為重視，所以願意慢慢照顧細節。"
+    },
+    "memory": {
+      "hook": "<code>diligent</code> 是把可靠變成日常習慣。",
+      "explanation": "這個字很適合形容能穩定交付的人：他不是最吵，但事情會被照顧好。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "準備考試時，<code>diligent</code> 的人不只熬夜，而是每天固定整理、複習與修正。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "好的 bring-up 或 failure analysis 需要 <code>diligent documentation</code>，否則線索很快就散掉。"
+      }
+    ],
+    "collocations": {
+      "note": "Diligent 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "diligent work",
+          "register": "工作 / 學習",
+          "note": "認真且持續的努力。"
+        },
+        {
+          "phrase": "diligent review",
+          "register": "工程 / 法律",
+          "note": "細心檢查，不草率放過細節。"
+        },
+        {
+          "phrase": "diligent documentation",
+          "register": "工程 / 流程",
+          "note": "可靠、完整、可追溯的紀錄。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "勤勉且細心地持續完成責任",
+        "use": "談學習、工作、審查、紀錄、照護或責任感時"
+      },
+      "others": [
+        {
+          "word": "Hardworking",
+          "meaning": "投入很多努力",
+          "use": "只強調工作量或努力程度時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程團隊中，<code>diligent</code> 是非常實用的稱讚：它指向可追溯、可依賴、少驚喜的工作品質。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 diligent 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/diligent",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 diligent 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/diligent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "diligent",
+    "word": "Diligent",
+    "partOfSpeech": "adjective",
+    "href": "./diligent.html",
+    "thesis": "不是只是努力，而是穩定、細心、願意把必要步驟做到位。",
+    "tags": [
+      "勤勉",
+      "細心",
+      "hardworking",
+      "documentation",
+      "review",
+      "reliability",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/diligent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/diligent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/diligent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

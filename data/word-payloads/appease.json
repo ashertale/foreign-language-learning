@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Appease",
+    "slug": "appease",
+    "outputPath": "prototypes/appease.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-PEEZ · UK /əˈpiːz/ · US /əˈpiːz/",
+    "hero": {
+      "thesis": "不是真正解決衝突，而是先讓憤怒或壓力安靜下來。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.09"
+    },
+    "coreIdea": "<code>appease</code> 用來描述用讓步、安撫或短期補償讓對方不再激烈反應，但根本問題未必消失。",
+    "definition": {
+      "summary": "表示安撫、姑息或用讓步使某人暫時滿意。",
+      "contrast": {
+        "word": "Satisfy",
+        "note": "<code>satisfy</code> 是需求被滿足；<code>appease</code> 常有「先壓住不滿」或「姑息」的陰影。"
+      },
+      "flow": [
+        "不滿或威脅出現",
+        "提供安撫或讓步",
+        "表面平靜"
+      ]
+    },
+    "origin": {
+      "history": "<code>appease</code> 和古法語中「帶來和平」的語義有關，核心畫面是讓衝突先平息。",
+      "memoryLens": "它像把沸騰的鍋蓋壓住，聲音小了，但熱源可能還在。"
+    },
+    "memory": {
+      "hook": "<code>appease</code> 是讓怒氣先降溫，不等於把問題治好。",
+      "explanation": "這個字常帶策略感，也可能帶批評意味：你是在安撫，還是在逃避真正的解法？"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "小孩哭鬧時給糖可能 <code>appease</code> him，但不一定解決他為什麼失控。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "產品團隊若只加一個表面選項來 <code>appease</code> angry users，可能暫時降噪，長期仍要修根因。"
+      }
+    ],
+    "collocations": {
+      "note": "Appease 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "appease critics",
+          "register": "政治 / 公關",
+          "note": "用讓步或說法安撫批評者。"
+        },
+        {
+          "phrase": "appease anger",
+          "register": "情緒 / 衝突",
+          "note": "讓憤怒暫時平息。"
+        },
+        {
+          "phrase": "appeasement strategy",
+          "register": "政治 / 管理",
+          "note": "以讓步換取短期平靜的策略。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "透過讓步或安撫讓不滿暫時平息",
+        "use": "談衝突、抱怨、政治讓步或客訴時"
+      },
+      "others": [
+        {
+          "word": "Satisfy",
+          "meaning": "真正使需求得到滿足",
+          "use": "需求被充分處理，沒有姑息意味時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在現代管理與產品討論中，<code>appease</code> 常帶警訊：如果只是安撫聲量，問題會以別的形式回來。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 appease 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/appease",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 appease 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/appease",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "appease",
+    "word": "Appease",
+    "partOfSpeech": "verb",
+    "href": "./appease.html",
+    "thesis": "不是真正解決衝突，而是先讓憤怒或壓力安靜下來。",
+    "tags": [
+      "安撫",
+      "姑息",
+      "satisfy",
+      "conflict",
+      "critics",
+      "product",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/appease",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/appease",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/appease",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

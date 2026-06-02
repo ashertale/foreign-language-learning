@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Precede",
+    "slug": "precede",
+    "outputPath": "prototypes/precede.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "prih-SEED · UK /prɪˈsiːd/ · US /prɪˈsiːd/",
+    "hero": {
+      "thesis": "不是只是較早，而是在順序上走在另一件事前面。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.61"
+    },
+    "coreIdea": "<code>precede</code> 用來描述事件、步驟、段落、訊號或條件在時間、位置或邏輯順序上先出現。",
+    "definition": {
+      "summary": "表示在時間、位置、順序或重要性上位於某事之前。",
+      "contrast": {
+        "word": "Happen before",
+        "note": "<code>happen before</code> 是口語說法；<code>precede</code> 更正式，常用於流程、文件與事件順序。"
+      },
+      "flow": [
+        "先出現 A",
+        "後面接著 B",
+        "A 成為前置位置"
+      ]
+    },
+    "origin": {
+      "history": "<code>precede</code> 來自拉丁語 <code>praecedere</code>，意思是走在前面。",
+      "memoryLens": "它像隊伍裡走在前面的旗手，後面事件跟著它的位置排。"
+    },
+    "memory": {
+      "hook": "<code>precede</code> 是在順序上先站到前面。",
+      "explanation": "它不只談時間，也能談文件段落、訊號順序與邏輯前提。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "開胃菜 <code>precedes</code> the main course，因為它在上菜順序上先來。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在 protocol trace 裡，某個 handshake must <code>precede</code> data transfer，順序錯了就不是同一個狀態機。"
+      }
+    ],
+    "collocations": {
+      "note": "Precede 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "precede an event",
+          "register": "正式 / 敘事",
+          "note": "在事件之前發生。"
+        },
+        {
+          "phrase": "immediately precede",
+          "register": "文件 / 分析",
+          "note": "緊接在前。"
+        },
+        {
+          "phrase": "preceding section",
+          "register": "文件 / 技術寫作",
+          "note": "前一節或前述部分。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在時間、位置或邏輯順序上位於前面",
+        "use": "談流程、文件、事件、訊號、協定或敘事順序時"
+      },
+      "others": [
+        {
+          "word": "Happen before",
+          "meaning": "在某事之前發生",
+          "use": "口語描述先後，不需要正式順序感時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在規格與測試文件中，<code>precede</code> 很有用，因為很多 bug 不是值錯，而是順序錯。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 precede 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/precede",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 precede 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/precede",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "precede",
+    "word": "Precede",
+    "partOfSpeech": "verb",
+    "href": "./precede.html",
+    "thesis": "不是只是較早，而是在順序上走在另一件事前面。",
+    "tags": [
+      "先於",
+      "順序",
+      "happen before",
+      "protocol",
+      "sequence",
+      "documentation",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/precede",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/precede",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/precede",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

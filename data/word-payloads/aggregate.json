@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Aggregate",
+    "slug": "aggregate",
+    "outputPath": "prototypes/aggregate.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "AG-ri-guht · UK /ˈæɡ.rɪ.ɡət/ · US /ˈæɡ.rə.ɡət/",
+    "hero": {
+      "thesis": "不是隨便一堆東西，而是許多個體合在一起後形成可分析的整體。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.75"
+    },
+    "coreIdea": "<code>aggregate</code> 用來談資料、數量、結果或材料被合併成整體，重點從單筆轉到總量與分布。",
+    "definition": {
+      "summary": "指由多個部分合成的總體，也可用來描述把資料或項目彙總起來。",
+      "contrast": {
+        "word": "Collection",
+        "note": "<code>collection</code> 只是集合；<code>aggregate</code> 更強調合併後可被統計、比較或處理的整體。"
+      },
+      "flow": [
+        "多個個體",
+        "被彙整合併",
+        "形成總體訊號"
+      ]
+    },
+    "origin": {
+      "history": "<code>aggregate</code> 來自拉丁語 <code>aggregare</code>，字面感接近「聚到一群之中」。",
+      "memoryLens": "想成資料點像散落的小石子，被掃成一堆後才看得出形狀。"
+    },
+    "memory": {
+      "hook": "<code>aggregate</code> 是把單筆噪音收成一個能讀的總體。",
+      "explanation": "它的價值在於視角轉換：不再追每個點，而是看整體趨勢。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "很多小支出加總後形成 monthly spending aggregate，才看得出錢流到哪裡。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "監控系統常看 <code>aggregate metrics</code>，因為單一 request 可能太吵，總體曲線更能顯示趨勢。"
+      }
+    ],
+    "collocations": {
+      "note": "Aggregate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "aggregate data",
+          "register": "資料 / 分析",
+          "note": "把多筆資料彙總成可分析的整體。"
+        },
+        {
+          "phrase": "aggregate demand",
+          "register": "經濟 / 商務",
+          "note": "市場或經濟中的總需求。"
+        },
+        {
+          "phrase": "in aggregate",
+          "register": "正式 / 報告",
+          "note": "以總體來看，而不是看個別案例。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "多個部分合併後的總體",
+        "use": "談資料、統計、經濟、材料或總量分析時"
+      },
+      "others": [
+        {
+          "word": "Collection",
+          "meaning": "一組被收集起來的東西",
+          "use": "只是列在一起，不強調總體訊號時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在資料工程與分析裡，<code>aggregate</code> 是核心字：它讓事件、使用者行為與效能數字從零散紀錄變成可決策的訊號。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 aggregate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/aggregate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 aggregate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/aggregate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "aggregate",
+    "word": "Aggregate",
+    "partOfSpeech": "noun",
+    "href": "./aggregate.html",
+    "thesis": "不是隨便一堆東西，而是許多個體合在一起後形成可分析的整體。",
+    "tags": [
+      "彙總",
+      "總體",
+      "collection",
+      "data",
+      "metrics",
+      "statistics",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/aggregate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/aggregate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/aggregate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

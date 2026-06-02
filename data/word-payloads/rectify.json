@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Rectify",
+    "slug": "rectify",
+    "outputPath": "prototypes/rectify.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "REK-tuh-fy · UK /ˈrek.tɪ.faɪ/ · US /ˈrek.tə.faɪ/",
+    "hero": {
+      "thesis": "不是隨便修一下，而是把錯誤、偏差或不公正校回正確狀態。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.08"
+    },
+    "coreIdea": "<code>rectify</code> 用來描述修正錯誤、校正偏差、彌補不公平或讓系統回到應有的位置。",
+    "definition": {
+      "summary": "表示糾正、矯正或修復錯誤、問題、偏差或不公。",
+      "contrast": {
+        "word": "Fix",
+        "note": "<code>fix</code> 很泛用；<code>rectify</code> 更正式，帶有把錯的校正回正的感覺。"
+      },
+      "flow": [
+        "發現錯誤或偏差",
+        "採取校正動作",
+        "回到正確狀態"
+      ]
+    },
+    "origin": {
+      "history": "<code>rectify</code> 來自拉丁語 <code>rectus</code> 的脈絡，意思是直的、正的。",
+      "memoryLens": "它像把歪掉的線重新拉直。"
+    },
+    "memory": {
+      "hook": "<code>rectify</code> 是把歪掉的東西校回正。",
+      "explanation": "這個字常出現在正式通知、品質流程與責任修復裡，語氣比 fix 更慎重。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "帳單算錯時，店家需要 <code>rectify</code> the error，而不是只說抱歉。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "若 release note 漏掉重要限制，團隊應 <code>rectify</code> the documentation and notify users。"
+      }
+    ],
+    "collocations": {
+      "note": "Rectify 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "rectify an error",
+          "register": "正式 / 品質",
+          "note": "修正錯誤。"
+        },
+        {
+          "phrase": "rectify a mistake",
+          "register": "日常 / 工作",
+          "note": "把犯錯造成的問題補正。"
+        },
+        {
+          "phrase": "rectify the situation",
+          "register": "管理 / 客服",
+          "note": "把不正確或不公平的狀況拉回來。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "正式地校正錯誤或偏差",
+        "use": "談品質、文件、帳務、責任、不公或正式修復時"
+      },
+      "others": [
+        {
+          "word": "Fix",
+          "meaning": "一般修理或解決問題",
+          "use": "只是讓東西能用，不強調校正回正時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在品質與合規語境中，<code>rectify</code> 很精準，因為它不只是 make it work，而是讓紀錄、流程與結果回到正確狀態。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 rectify 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/rectify",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 rectify 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/rectify",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "rectify",
+    "word": "Rectify",
+    "partOfSpeech": "verb",
+    "href": "./rectify.html",
+    "thesis": "不是隨便修一下，而是把錯誤、偏差或不公正校回正確狀態。",
+    "tags": [
+      "糾正",
+      "校正",
+      "fix",
+      "quality",
+      "documentation",
+      "compliance",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/rectify",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/rectify",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rectify",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

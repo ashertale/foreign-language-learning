@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Attribute",
+    "slug": "attribute",
+    "outputPath": "prototypes/attribute.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-TRIB-yoot · UK /əˈtrɪb.juːt/ · US /əˈtrɪb.juːt/",
+    "hero": {
+      "thesis": "不是只看到結果，而是把原因、來源或功勞歸到某處。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.05"
+    },
+    "coreIdea": "<code>attribute</code> 作動詞時表示把某結果歸因於某原因，或把作品、話語、功勞歸給某人。",
+    "definition": {
+      "summary": "表示歸因、歸屬，把某事連到原因或來源。",
+      "contrast": {
+        "word": "Blame",
+        "note": "<code>blame</code> 偏責怪；<code>attribute</code> 可以中性地說明來源、原因或功勞。"
+      },
+      "flow": [
+        "看到結果",
+        "尋找來源",
+        "建立歸因"
+      ]
+    },
+    "memory": {
+      "hook": "<code>attribute</code> 是在結果旁寫上「來自哪裡」。",
+      "explanation": "它的重點是連線：結果不是孤立存在。"
+    },
+    "usage": [
+      {
+        "label": "分析版",
+        "body": "The team attributed the crash to a race condition. 這個情境凸顯「歸因、歸屬，把某事連到原因或來源」。"
+      },
+      {
+        "label": "寫作版",
+        "body": "The quote is often attributed to the wrong author. 讀這句時，焦點在「歸因、歸屬，把某事連到原因或來源」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "attribute A to B",
+          "register": "正式 / 分析",
+          "note": "把 A 歸因於 B。"
+        },
+        {
+          "phrase": "wrongly attributed",
+          "register": "寫作 / 歷史",
+          "note": "被錯誤歸給某人。"
+        },
+        {
+          "phrase": "attribute the failure to",
+          "register": "工程 / RCA",
+          "note": "把失敗原因連到特定因素。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示歸因、歸屬，把某事連到原因或來源。",
+        "use": "用在「不是只看到結果，而是把原因、來源或功勞歸到某處」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Assign",
+          "meaning": "assign 是指派；attribute 是把來源或原因歸到某處。",
+          "use": "當 Assign 這邊的語氣更貼近目標時，不要硬套 <code>attribute</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 incident review 裡，<code>attribute</code> 要小心使用，因為錯誤歸因會把修正方向帶偏。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 attribute 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/attribute",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 attribute 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/attribute",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>attribute</code> 來自 Latin <code>attribuere</code>，意思是「分配給、歸給」。",
+      "memoryLens": "它像把一張標籤貼回來源：原因、功勞或作者被歸到某處。"
+    }
+  },
+  "indexEntry": {
+    "id": "attribute",
+    "word": "Attribute",
+    "partOfSpeech": "verb",
+    "href": "./attribute.html",
+    "thesis": "不是只看到結果，而是把原因、來源或功勞歸到某處。",
+    "tags": [
+      "歸因",
+      "來源",
+      "cause",
+      "RCA",
+      "authorship",
+      "analysis",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/attribute",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/attribute",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/attribute",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

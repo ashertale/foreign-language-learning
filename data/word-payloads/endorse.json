@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Endorse",
+    "slug": "endorse",
+    "outputPath": "prototypes/endorse.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "in-DORS · UK /ɪnˈdɔːs/ · US /ɪnˈdɔːrs/",
+    "hero": {
+      "thesis": "不是私下覺得不錯，而是公開把自己的信任放到某個人、產品或主張上。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.97"
+    },
+    "coreIdea": "<code>endorse</code> 用來表示公開支持、背書、推薦或正式簽署，使對象獲得可信度。",
+    "definition": {
+      "summary": "表示公開支持、認可、推薦，或在文件、支票上簽名背書。",
+      "contrast": {
+        "word": "Recommend",
+        "note": "<code>recommend</code> 是建議使用；<code>endorse</code> 多了一層公開背書與名譽承擔。"
+      },
+      "flow": [
+        "看見對象",
+        "公開表示認可",
+        "自己的信任也被放上去"
+      ]
+    },
+    "origin": {
+      "history": "<code>endorse</code> 的早期用法和在文件背面簽署有關，後來延伸到公開支持與背書。",
+      "memoryLens": "記成把名字簽到一件事背後，讓別人知道你願意站在它旁邊。"
+    },
+    "memory": {
+      "hook": "<code>endorse</code> 是用自己的名字替某件事加上可信度。",
+      "explanation": "它比 like 重，因為背書會連動你的判斷與名譽。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "名人 <code>endorse</code> 一個品牌，意思不只是喜歡，而是公開把形象借給它。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "技術負責人 <code>endorse</code> a proposal 時，代表他願意讓團隊相信這個方向值得走。"
+      }
+    ],
+    "collocations": {
+      "note": "Endorse 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "endorse a candidate",
+          "register": "政治 / 公共",
+          "note": "公開支持某位候選人。"
+        },
+        {
+          "phrase": "endorse a proposal",
+          "register": "會議 / 管理",
+          "note": "正式支持某個提案。"
+        },
+        {
+          "phrase": "product endorsement",
+          "register": "行銷 / 品牌",
+          "note": "產品背書或推薦。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "公開支持並以信任背書",
+        "use": "談候選人、提案、產品、政策、文件或品牌合作時"
+      },
+      "others": [
+        {
+          "word": "Recommend",
+          "meaning": "建議別人採用或考慮",
+          "use": "只是給建議，不把自己的名譽放上去時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代社群與企業語境裡，<code>endorse</code> 和 credibility 綁在一起；誰背書，有時比內容本身更影響採納速度。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 endorse 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/endorse",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 endorse 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/endorse",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "endorse",
+    "word": "Endorse",
+    "partOfSpeech": "verb",
+    "href": "./endorse.html",
+    "thesis": "不是私下覺得不錯，而是公開把自己的信任放到某個人、產品或主張上。",
+    "tags": [
+      "背書",
+      "公開支持",
+      "recommend",
+      "proposal",
+      "brand",
+      "credibility",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/endorse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/endorse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/endorse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Impart",
+    "slug": "impart",
+    "outputPath": "prototypes/impart.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "im-PART · UK /ɪmˈpɑːt/ · US /ɪmˈpɑːrt/",
+    "hero": {
+      "thesis": "不是把東西丟給對方，而是把知識、特質或感覺傳遞進去。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.84"
+    },
+    "coreIdea": "<code>impart</code> 表示傳授知識、透露資訊，或賦予某物某種特質；語氣比 give 更細緻。",
+    "definition": {
+      "summary": "表示傳授、告知，或賦予某種品質。",
+      "contrast": {
+        "word": "Tell",
+        "note": "<code>tell</code> 是告訴；<code>impart</code> 更像把重要內容或特質傳遞給對方。"
+      },
+      "flow": [
+        "內容或特質存在",
+        "被傳遞出去",
+        "接受者因此改變"
+      ]
+    },
+    "memory": {
+      "hook": "<code>impart</code> 是把火種交給下一個人。",
+      "explanation": "它重視傳遞後留下的影響。"
+    },
+    "usage": [
+      {
+        "label": "教學版",
+        "body": "A mentor can <code>impart</code> judgment that no checklist captures. 這個情境凸顯「傳授、告知，或賦予某種品質」。"
+      },
+      {
+        "label": "設計版",
+        "body": "Warm colors can <code>impart</code> a sense of calm to the page. 讀這句時，焦點在「傳授、告知，或賦予某種品質」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "impart knowledge",
+          "register": "教育 / 導師",
+          "note": "傳授知識。"
+        },
+        {
+          "phrase": "impart a sense of",
+          "register": "設計 / 寫作",
+          "note": "賦予某種感覺。"
+        },
+        {
+          "phrase": "impart information",
+          "register": "正式 / 溝通",
+          "note": "傳遞資訊。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示傳授、告知，或賦予某種品質。",
+        "use": "用在「不是把東西丟給對方，而是把知識、特質或感覺傳遞進去」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Convey",
+          "meaning": "convey 是傳達；impart 更常帶有傳授或賦予特質的感覺。",
+          "use": "當 Convey 這邊的語氣更貼近目標時，不要硬套 <code>impart</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 mentorship 裡，<code>impart</code> 比 teach 更溫和，因為真正被傳下去的常是判斷力，不只是步驟。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 impart 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/impart",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 impart 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/impart",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>impart</code> 來自 Latin <code>impartire</code>，意思是「分給、分享」。",
+      "memoryLens": "part 是線索：impart 是把自己有的一部分知識、特質或資訊分給對方。"
+    }
+  },
+  "indexEntry": {
+    "id": "impart",
+    "word": "Impart",
+    "partOfSpeech": "verb",
+    "href": "./impart.html",
+    "thesis": "不是把東西丟給對方，而是把知識、特質或感覺傳遞進去。",
+    "tags": [
+      "傳授",
+      "賦予",
+      "convey",
+      "mentorship",
+      "design",
+      "knowledge",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/impart",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/impart",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/impart",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

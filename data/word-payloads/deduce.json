@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Deduce",
+    "slug": "deduce",
+    "outputPath": "prototypes/deduce.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "di-DOOS · UK /dɪˈdʒuːs/ · US /dɪˈduːs/",
+    "hero": {
+      "thesis": "不是直接看見，而是從已知前提一步步推出結論。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.06"
+    },
+    "coreIdea": "<code>deduce</code> 描述根據線索、規則或前提作邏輯推論；它比 guess 更依賴結構。",
+    "definition": {
+      "summary": "表示推論、演繹，從已知資訊得出結論。",
+      "contrast": {
+        "word": "Guess",
+        "note": "<code>guess</code> 可以沒有充分依據；<code>deduce</code> 要能從線索走到結論。"
+      },
+      "flow": [
+        "前提存在",
+        "套用邏輯",
+        "推出結論"
+      ]
+    },
+    "memory": {
+      "hook": "<code>deduce</code> 是順著線索把答案拉出來。",
+      "explanation": "它不靠靈感跳躍，而靠前提與推理路徑。"
+    },
+    "usage": [
+      {
+        "label": "推理版",
+        "body": "From the timestamps, we can <code>deduce</code> that the reset happened before the write completed. 這個情境凸顯「推論、演繹，從已知資訊得出結論」。"
+      },
+      {
+        "label": "日常版",
+        "body": "She deduced from his silence that he already knew the result. 讀這句時，焦點在「推論、演繹，從已知資訊得出結論」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "deduce from evidence",
+          "register": "調查 / 分析",
+          "note": "從證據推論。"
+        },
+        {
+          "phrase": "deduce the cause",
+          "register": "工程 / RCA",
+          "note": "推導出原因。"
+        },
+        {
+          "phrase": "logically deduce",
+          "register": "邏輯 / 學術",
+          "note": "按邏輯推導。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示推論、演繹，從已知資訊得出結論。",
+        "use": "用在「不是直接看見，而是從已知前提一步步推出結論」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Infer",
+          "meaning": "infer 也是推論，範圍更廣；deduce 更像從前提出發的嚴格推導。",
+          "use": "當 Infer 這邊的語氣更貼近目標時，不要硬套 <code>deduce</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程分析裡，<code>deduce</code> 適合用來描述可追溯的推理，而不是憑經驗拍腦袋。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 deduce 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/deduce",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 deduce 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/deduce",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>deduce</code> 來自 Latin <code>deducere</code>，意思是「引導下來、引出」。其中 <code>ducere</code> 是 lead 的概念。",
+      "memoryLens": "把結論想成被前提一路 lead 出來，而不是憑空跳出來。"
+    }
+  },
+  "indexEntry": {
+    "id": "deduce",
+    "word": "Deduce",
+    "partOfSpeech": "verb",
+    "href": "./deduce.html",
+    "thesis": "不是直接看見，而是從已知前提一步步推出結論。",
+    "tags": [
+      "推導",
+      "演繹",
+      "infer",
+      "evidence",
+      "logic",
+      "RCA",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/deduce",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/deduce",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deduce",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

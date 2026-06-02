@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Juxtapose",
+    "slug": "juxtapose",
+    "outputPath": "prototypes/juxtapose.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "JUK-stuh-pohz · UK /ˌdʒʌk.stəˈpəʊz/ · US /ˌdʒʌk.stəˈpoʊz/",
+    "hero": {
+      "thesis": "不是只是放一起，而是並置兩者，讓差異或關係自己浮出來。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.41"
+    },
+    "coreIdea": "<code>juxtapose</code> 表示把兩個影像、概念、段落或資料並排放置，使對比、張力或相似處變得明顯。",
+    "definition": {
+      "summary": "表示並置、並列，常為了產生對比或凸顯關係。",
+      "contrast": {
+        "word": "Place",
+        "note": "<code>place</code> 只是放；<code>juxtapose</code> 是有意識地並排，讓比較發生。"
+      },
+      "flow": [
+        "兩件事分開存在",
+        "被並排放置",
+        "差異或關係變清楚"
+      ]
+    },
+    "memory": {
+      "hook": "<code>juxtapose</code> 是把兩張照片並排，讓你自己看出差別。",
+      "explanation": "它不一定直接評論，但排列本身就在說話。"
+    },
+    "usage": [
+      {
+        "label": "設計版",
+        "body": "The chart juxtaposes expected and actual values. 這個情境凸顯「並置、並列，常為了產生對比或凸顯關係」。"
+      },
+      {
+        "label": "寫作版",
+        "body": "The essay juxtaposes ambition with loneliness. 讀這句時，焦點在「並置、並列，常為了產生對比或凸顯關係」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "juxtapose A with B",
+          "register": "寫作 / 分析",
+          "note": "把 A 與 B 並置比較。"
+        },
+        {
+          "phrase": "juxtaposed images",
+          "register": "設計 / 攝影",
+          "note": "並排後形成對比的影像。"
+        },
+        {
+          "phrase": "sharp juxtaposition",
+          "register": "評論 / 藝術",
+          "note": "強烈並置造成的張力。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示並置、並列，常為了產生對比或凸顯關係。",
+        "use": "用在「不是只是放一起，而是並置兩者，讓差異或關係自己浮出來」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Compare",
+          "meaning": "compare 是比較；juxtapose 是透過放置方式讓比較自然發生。",
+          "use": "當 Compare 這邊的語氣更貼近目標時，不要硬套 <code>juxtapose</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在資料視覺化中，<code>juxtapose</code> 是設計手法：把兩組資料放近，讀者才看得見偏差。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 juxtapose 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/juxtapose",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 juxtapose 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/juxtapose",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>juxtapose</code> 由 Latin <code>juxta</code>（next to）加上 pose 的「放置」概念形成。",
+      "memoryLens": "juxta 就是 next to；juxtapose 是有意識地把兩件事放到彼此旁邊。"
+    }
+  },
+  "indexEntry": {
+    "id": "juxtapose",
+    "word": "Juxtapose",
+    "partOfSpeech": "verb",
+    "href": "./juxtapose.html",
+    "thesis": "不是只是放一起，而是並置兩者，讓差異或關係自己浮出來。",
+    "tags": [
+      "並置",
+      "對比",
+      "compare",
+      "visualization",
+      "writing",
+      "contrast",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/juxtapose",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/juxtapose",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/juxtapose",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

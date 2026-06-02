@@ -1,12 +1,12 @@
 let selectedEnglishVoice = null;
 let speechRetryTimer = 0;
+let speechStartTimer = 0;
+const speechUtterancesInFlight = new Set();
 const SPEECH_IDLE_POLL_MS = 40;
 const SPEECH_IDLE_MAX_POLLS = 25;
 const SPEECH_POST_CANCEL_DELAY_MS = 160;
-const SPEECH_PRIME_DELAY_MS = 80;
-const SPEECH_PRIME_STALE_MS = 45000;
-const SPEECH_PRIME_TEXT = ".";
-let speechPrimedAt = 0;
+const SPEECH_REPEAT_SEPARATOR = ". ";
+let speechSequenceId = 0;
 
 function chooseEnglishVoice() {
   if (!("speechSynthesis" in window)) return null;
@@ -39,8 +39,17 @@ function waitForSpeechIdle(remainingPolls, callback) {
   }, SPEECH_IDLE_POLL_MS);
 }
 
+function retainUtterance(utterance) {
+  speechUtterancesInFlight.add(utterance);
+}
+
+function releaseUtterance(utterance) {
+  speechUtterancesInFlight.delete(utterance);
+}
+
 function createEnglishUtterance(text, options = {}) {
-  const utterance = new SpeechSynthesisUtterance(text);
+  const utteranceText = options.repeatForClipping ? `${text}${SPEECH_REPEAT_SEPARATOR}${text}` : text;
+  const utterance = new SpeechSynthesisUtterance(utteranceText);
   const voice = selectedEnglishVoice || chooseEnglishVoice();
   utterance.lang = voice?.lang || "en-US";
   if (voice) {
@@ -52,48 +61,24 @@ function createEnglishUtterance(text, options = {}) {
   return utterance;
 }
 
-function startSpeechWithPrimer(synth, text, onStart) {
-  const now = Date.now();
-  const needsPrimer = !speechPrimedAt || now - speechPrimedAt > SPEECH_PRIME_STALE_MS;
-
-  const speakActual = () => {
-    speechPrimedAt = Date.now();
-    onStart(createEnglishUtterance(text));
-  };
-
-  if (!needsPrimer) {
-    speakActual();
-    return;
-  }
-
-  const primer = createEnglishUtterance(SPEECH_PRIME_TEXT, {
-    rate: 1,
-    volume: 0,
-  });
-
-  let didFinishPrimer = false;
-  const finishPrimer = () => {
-    if (didFinishPrimer) return;
-    didFinishPrimer = true;
-    window.setTimeout(speakActual, SPEECH_PRIME_DELAY_MS);
-  };
-
-  const primerTimer = window.setTimeout(finishPrimer, 320);
-  primer.onend = primer.onerror = () => {
-    window.clearTimeout(primerTimer);
-    finishPrimer();
-  };
-
-  synth.speak(primer);
+function startSpeechWithRepeat(text, sequenceId, onStart) {
+  if (sequenceId !== speechSequenceId) return;
+  // Some Windows/Chrome Web Speech voices clip the first phoneme after a cold
+  // start. Keep playback to one normal-volume utterance, but repeat the word so
+  // the second copy stays complete even if the first copy is clipped.
+  onStart(createEnglishUtterance(text, { repeatForClipping: true }));
 }
 
 function speakEnglishText(text, onReset) {
   if (!("speechSynthesis" in window)) return;
   window.clearTimeout(speechRetryTimer);
+  window.clearTimeout(speechStartTimer);
 
   const synth = window.speechSynthesis;
+  const sequenceId = ++speechSequenceId;
   const beginSpeaking = () => {
-    startSpeechWithPrimer(synth, text, (utterance) => {
+    if (sequenceId !== speechSequenceId) return;
+    startSpeechWithRepeat(text, sequenceId, (utterance) => {
       let didReset = false;
       function resetOnce() {
         if (didReset) return;
@@ -103,10 +88,12 @@ function speakEnglishText(text, onReset) {
 
       const resetTimer = window.setTimeout(resetOnce, 4000);
       utterance.onend = utterance.onerror = () => {
+        releaseUtterance(utterance);
         window.clearTimeout(resetTimer);
         resetOnce();
       };
 
+      retainUtterance(utterance);
       synth.resume();
       synth.speak(utterance);
     });
@@ -114,9 +101,9 @@ function speakEnglishText(text, onReset) {
 
   if (synth.speaking || synth.pending) {
     synth.cancel();
-    speechPrimedAt = 0;
+    speechUtterancesInFlight.clear();
     waitForSpeechIdle(SPEECH_IDLE_MAX_POLLS, () => {
-      window.setTimeout(beginSpeaking, SPEECH_POST_CANCEL_DELAY_MS);
+      speechStartTimer = window.setTimeout(beginSpeaking, SPEECH_POST_CANCEL_DELAY_MS);
     });
     return;
   }

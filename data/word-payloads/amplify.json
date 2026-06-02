@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Amplify",
+    "slug": "amplify",
+    "outputPath": "prototypes/amplify.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "AM-pluh-fy · UK /ˈæm.plɪ.faɪ/ · US /ˈæm.plə.faɪ/",
+    "hero": {
+      "thesis": "不是只把聲音變大，而是把訊號、效果或影響推得更遠、更強。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.89"
+    },
+    "coreIdea": "<code>amplify</code> 用來描述聲音、訊號、情緒、問題或訊息被放大，讓原本的效果變得更明顯。",
+    "definition": {
+      "summary": "表示放大、增強或擴大某個聲音、訊號、效果、訊息或影響力。",
+      "contrast": {
+        "word": "Increase",
+        "note": "<code>increase</code> 只是數量變多；<code>amplify</code> 有把訊號或效果放大的畫面。"
+      },
+      "flow": [
+        "原始訊號存在",
+        "被系統放大",
+        "影響範圍變強"
+      ]
+    },
+    "origin": {
+      "history": "<code>amplify</code> 來自拉丁語 <code>amplus</code> 的脈絡，和寬大、擴展有關。",
+      "memoryLens": "它像把微弱聲音接上擴大器，讓房間裡每個人都聽見。"
+    },
+    "memory": {
+      "hook": "<code>amplify</code> 是讓一個原本小的訊號開始佔據空間。",
+      "explanation": "這個字可正可負：好想法能被放大，壞設計的問題也會被放大。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "社群分享可以 <code>amplify</code> 一個人的聲音，讓原本小圈子的想法被更多人看見。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在電子與系統語境中，<code>amplify a signal</code> 很直覺；在產品裡，複雜流程也可能 amplify user frustration。"
+      }
+    ],
+    "collocations": {
+      "note": "Amplify 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "amplify a signal",
+          "register": "電子 / 通訊",
+          "note": "把訊號放大到可用或可讀。"
+        },
+        {
+          "phrase": "amplify the effect",
+          "register": "分析 / 報告",
+          "note": "讓某個效果變得更強。"
+        },
+        {
+          "phrase": "amplify a voice",
+          "register": "社群 / 公共議題",
+          "note": "讓某個觀點被更多人聽見。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把既有訊號或效果放大",
+        "use": "談聲音、電子訊號、社群傳播、情緒或風險擴散時"
+      },
+      "others": [
+        {
+          "word": "Increase",
+          "meaning": "使數量或程度上升",
+          "use": "只需要中性表示變多，不強調訊號放大時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代語境裡，<code>amplify</code> 橫跨硬體、社群平台與組織溝通；同一個字可以寫 signal gain，也可以寫 attention gain。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 amplify 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/amplify",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 amplify 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/amplify",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "amplify",
+    "word": "Amplify",
+    "partOfSpeech": "verb",
+    "href": "./amplify.html",
+    "thesis": "不是只把聲音變大，而是把訊號、效果或影響推得更遠、更強。",
+    "tags": [
+      "放大",
+      "訊號",
+      "increase",
+      "signal",
+      "social media",
+      "impact",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/amplify",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/amplify",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/amplify",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

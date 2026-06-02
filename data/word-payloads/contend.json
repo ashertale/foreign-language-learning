@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Contend",
+    "slug": "contend",
+    "outputPath": "prototypes/contend.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuhn-TEND · UK /kənˈtend/ · US /kənˈtend/",
+    "hero": {
+      "thesis": "不是普通地說，而是在競爭或論證中用力主張。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.53"
+    },
+    "coreIdea": "<code>contend</code> 可以表示爭奪、競爭，也可以表示在論述中提出一個需要被正視的主張。",
+    "definition": {
+      "summary": "表示競爭、爭奪，或正式主張某件事為真。",
+      "contrast": {
+        "word": "Claim",
+        "note": "<code>claim</code> 是提出主張；<code>contend</code> 更有爭論、對抗或競爭的張力。"
+      },
+      "flow": [
+        "存在對手或反方",
+        "提出主張或投入競爭",
+        "爭取成立或勝出"
+      ]
+    },
+    "origin": {
+      "history": "<code>contend</code> 來自拉丁語 <code>contendere</code>，有拉緊、奮力爭取的意味。",
+      "memoryLens": "它像兩邊拉同一條繩子，主張不是輕飄飄放著，而是在用力。"
+    },
+    "memory": {
+      "hook": "<code>contend</code> 是把主張放進拉力之中。",
+      "explanation": "這個字的語氣比 say 更緊，因為它假設有阻力、有對手或有待證明的地方。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "有人可能 <code>contend</code> that remote work improves focus，表示這不是隨口聊，而是在提出可辯論的主張。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在技術選型裡，不同方案 <code>contend for</code> adoption；每個方案都要用證據爭取位置。"
+      }
+    ],
+    "collocations": {
+      "note": "Contend 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "contend that",
+          "register": "正式寫作 / 論證",
+          "note": "提出一個需要被討論的主張。"
+        },
+        {
+          "phrase": "contend for a title",
+          "register": "競賽 / 體育",
+          "note": "競爭冠軍或頭銜。"
+        },
+        {
+          "phrase": "contend with constraints",
+          "register": "工程 / 專案",
+          "note": "面對並處理限制。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在阻力或競爭中主張、爭取或處理",
+        "use": "談論證、競爭、限制與方案比較時"
+      },
+      "others": [
+        {
+          "word": "Claim",
+          "meaning": "提出某個說法",
+          "use": "只需要中性說明有人主張什麼時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代專業寫作常用 <code>contend</code> 讓觀點更有論證重量；工程裡 contend with constraints 則提醒你限制不是背景，而是工作本身。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 contend 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/contend",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 contend 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/contend",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "contend",
+    "word": "Contend",
+    "partOfSpeech": "verb",
+    "href": "./contend.html",
+    "thesis": "不是普通地說，而是在競爭或論證中用力主張。",
+    "tags": [
+      "主張",
+      "競爭",
+      "claim",
+      "argument",
+      "constraints",
+      "trade-off",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/contend",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/contend",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/contend",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

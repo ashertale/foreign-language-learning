@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Inhibit",
+    "slug": "inhibit",
+    "outputPath": "prototypes/inhibit.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "in-HIB-it · UK /ɪnˈhɪb.ɪt/ · US /ɪnˈhɪb.ɪt/",
+    "hero": {
+      "thesis": "不是完全阻止，而是壓住、限制或讓某個反應不容易發生。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.54"
+    },
+    "coreIdea": "<code>inhibit</code> 用來描述化學反應、行為、成長、表達或系統動作受到抑制。",
+    "definition": {
+      "summary": "表示抑制、限制、阻礙某個過程、反應、行為或發展。",
+      "contrast": {
+        "word": "Prevent",
+        "note": "<code>prevent</code> 是防止發生；<code>inhibit</code> 常是降低活性或讓反應變弱。"
+      },
+      "flow": [
+        "反應或行為有可能發生",
+        "受到抑制因素影響",
+        "強度或機率降低"
+      ]
+    },
+    "origin": {
+      "history": "<code>inhibit</code> 來自拉丁語 <code>inhibere</code>，有 hold in、restrain 的意味。",
+      "memoryLens": "它像踩著剎車，不一定讓車不存在，而是讓它動不起來。"
+    },
+    "memory": {
+      "hook": "<code>inhibit</code> 是把反應的油門壓低。",
+      "explanation": "這個字特別適合科學與系統語境，因為它描述的是活性被壓住。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "緊張可能 <code>inhibit</code> your ability to speak freely，讓原本會說的話卡住。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "硬體設計裡，一個 enable pin 或 safety interlock can <code>inhibit</code> unsafe operation。"
+      }
+    ],
+    "collocations": {
+      "note": "Inhibit 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "inhibit growth",
+          "register": "生物 / 商務",
+          "note": "抑制成長。"
+        },
+        {
+          "phrase": "inhibit expression",
+          "register": "心理 / 社會",
+          "note": "讓人不敢表達。"
+        },
+        {
+          "phrase": "inhibit operation",
+          "register": "工程 / 安全",
+          "note": "限制或禁止某動作啟動。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "抑制活性、行為或反應",
+        "use": "談化學、生物、心理、控制邏輯、安全機制或成長時"
+      },
+      "others": [
+        {
+          "word": "Prevent",
+          "meaning": "完全防止某事發生",
+          "use": "結果被完全擋下，而非只是被壓低時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在安全關鍵系統中，<code>inhibit</code> 常是必要設計：它讓系統在條件不對時不輕易進入危險狀態。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 inhibit 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/inhibit",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 inhibit 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/inhibit",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "inhibit",
+    "word": "Inhibit",
+    "partOfSpeech": "verb",
+    "href": "./inhibit.html",
+    "thesis": "不是完全阻止，而是壓住、限制或讓某個反應不容易發生。",
+    "tags": [
+      "抑制",
+      "限制",
+      "prevent",
+      "safety",
+      "control",
+      "behavior",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/inhibit",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/inhibit",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/inhibit",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

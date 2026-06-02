@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Clarify",
+    "slug": "clarify",
+    "outputPath": "prototypes/clarify.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "KLAR-uh-fy · UK /ˈklær.ɪ.faɪ/ · US /ˈkler.ə.faɪ/",
+    "hero": {
+      "thesis": "不是多說幾句，而是把混濁的地方變得可看清、可決定。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "4.10"
+    },
+    "coreIdea": "<code>clarify</code> 用來描述把需求、責任、意思、資料或誤會說清楚，降低解讀空間。",
+    "definition": {
+      "summary": "表示澄清、使清楚，讓原本模糊或混亂的事情更容易理解。",
+      "contrast": {
+        "word": "Explain",
+        "note": "<code>explain</code> 是說明；<code>clarify</code> 專門處理混亂、模糊或誤解。"
+      },
+      "flow": [
+        "資訊混濁",
+        "釐清關鍵",
+        "能看見下一步"
+      ]
+    },
+    "origin": {
+      "history": "<code>clarify</code> 來自拉丁語 <code>clarus</code> 的脈絡，意思是清楚、明亮。",
+      "memoryLens": "它像把混水靜置過濾，底下的形狀終於看得見。"
+    },
+    "memory": {
+      "hook": "<code>clarify</code> 是讓模糊不再替人做決定。",
+      "explanation": "這個字的核心不是資訊變多，而是不必要的混亂變少。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可以請對方 <code>clarify</code> what they mean，因為你聽見了句子，卻還沒抓到意思。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "需求討論裡，<code>clarify acceptance criteria</code> 可以避免每個人用自己的想像開工。"
+      }
+    ],
+    "collocations": {
+      "note": "Clarify 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "clarify a point",
+          "register": "會議 / 寫作",
+          "note": "把某個細節說清楚。"
+        },
+        {
+          "phrase": "clarify requirements",
+          "register": "產品 / 工程",
+          "note": "釐清需求邊界與驗收標準。"
+        },
+        {
+          "phrase": "clarify responsibility",
+          "register": "管理 / 協作",
+          "note": "讓誰負責什麼不再模糊。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "移除模糊與誤解，使事情清楚",
+        "use": "談需求、意思、責任、資料或會議共識時"
+      },
+      "others": [
+        {
+          "word": "Explain",
+          "meaning": "把事情講解給別人聽",
+          "use": "重點是教學或背景說明，不一定有混亂需要釐清時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在遠距協作與非同步文件裡，<code>clarify</code> 幾乎是工程生存技能：越早釐清，越少靠返工付學費。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 clarify 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 clarify 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/clarify",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "clarify",
+    "word": "Clarify",
+    "partOfSpeech": "verb",
+    "href": "./clarify.html",
+    "thesis": "不是多說幾句，而是把混濁的地方變得可看清、可決定。",
+    "tags": [
+      "澄清",
+      "釐清",
+      "explain",
+      "requirements",
+      "meeting",
+      "communication",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/clarify",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/clarify",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/clarify",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

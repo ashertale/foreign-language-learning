@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Galvanize",
+    "slug": "galvanize",
+    "outputPath": "prototypes/galvanize.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "GAL-vuh-nyz · UK /ˈɡæl.və.naɪz/ · US /ˈɡæl.və.naɪz/",
+    "hero": {
+      "thesis": "不是溫和鼓勵，而是像電流一樣讓人突然動起來。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.63"
+    },
+    "coreIdea": "<code>galvanize</code> 用來描述事件、危機、言論或領導行動激發群體採取快速而有力的反應。",
+    "definition": {
+      "summary": "表示激勵、刺激某人或群體立即採取行動。",
+      "contrast": {
+        "word": "Encourage",
+        "note": "<code>encourage</code> 可以溫和支持；<code>galvanize</code> 有被電到般突然行動的力量。"
+      },
+      "flow": [
+        "原本分散或停滯",
+        "受到強烈刺激",
+        "集體開始行動"
+      ]
+    },
+    "origin": {
+      "history": "<code>galvanize</code> 來自科學家 Luigi Galvani 的名字，早期和電刺激肌肉有關，後來延伸為激發行動。",
+      "memoryLens": "它的畫面很直接：電流一接上，原本靜止的東西突然動了。"
+    },
+    "memory": {
+      "hook": "<code>galvanize</code> 是讓沉睡的群體像被通電一樣行動。",
+      "explanation": "這個字通常有集體感與急迫感，不只是讓某人心情變好。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "一場災難可能 <code>galvanize</code> volunteers，讓很多人立刻投入救援。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "嚴重 incident 可以 <code>galvanize</code> an organization to fix neglected reliability debt。"
+      }
+    ],
+    "collocations": {
+      "note": "Galvanize 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "galvanize support",
+          "register": "政治 / 公共",
+          "note": "激發支持力量。"
+        },
+        {
+          "phrase": "galvanize action",
+          "register": "組織 / 危機",
+          "note": "促成快速行動。"
+        },
+        {
+          "phrase": "galvanize a team",
+          "register": "管理 / 專案",
+          "note": "讓團隊從停滯轉入行動。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "強烈刺激，使人或群體立刻行動",
+        "use": "談危機、運動、團隊、公共支持或組織轉變時"
+      },
+      "others": [
+        {
+          "word": "Encourage",
+          "meaning": "給予支持或鼓勵",
+          "use": "語氣較溫和，不強調突然動員時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在組織變革裡，<code>galvanize</code> 常描述某個事件終於讓大家停止觀望，願意投入真正的修復。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 galvanize 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/galvanize",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 galvanize 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/galvanize",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "galvanize",
+    "word": "Galvanize",
+    "partOfSpeech": "verb",
+    "href": "./galvanize.html",
+    "thesis": "不是溫和鼓勵，而是像電流一樣讓人突然動起來。",
+    "tags": [
+      "激發行動",
+      "動員",
+      "encourage",
+      "incident",
+      "organization",
+      "action",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/galvanize",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/galvanize",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/galvanize",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

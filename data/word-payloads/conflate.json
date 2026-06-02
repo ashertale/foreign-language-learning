@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Conflate",
+    "slug": "conflate",
+    "outputPath": "prototypes/conflate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuhn-FLAYT · UK /kənˈfleɪt/ · US /kənˈfleɪt/",
+    "hero": {
+      "thesis": "不是整合，而是把本該分開的概念混成一團。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.58"
+    },
+    "coreIdea": "<code>conflate</code> 表示把兩個不同概念、問題或類別混為一談，常造成推論錯誤。",
+    "definition": {
+      "summary": "表示混淆、合併不同事物，尤其是不該混在一起時。",
+      "contrast": {
+        "word": "Combine",
+        "note": "<code>combine</code> 可以是有益整合；<code>conflate</code> 通常批評把差異抹掉。"
+      },
+      "flow": [
+        "兩件事有差異",
+        "被混在一起",
+        "判斷開始失真"
+      ]
+    },
+    "memory": {
+      "hook": "<code>conflate</code> 是把 bug cause 和 symptom 攪成同一坨。",
+      "explanation": "它是分析裡的危險字：一混淆，修正方向就歪了。"
+    },
+    "usage": [
+      {
+        "label": "分析版",
+        "body": "Do not <code>conflate</code> correlation with causation. 這個情境凸顯「混淆、合併不同事物，尤其是不該混在一起時」。"
+      },
+      {
+        "label": "產品版",
+        "body": "Users may <code>conflate</code> account deletion with subscription cancellation. 讀這句時，焦點在「混淆、合併不同事物，尤其是不該混在一起時」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "conflate A with B",
+          "register": "分析 / 寫作",
+          "note": "把 A 和 B 混為一談。"
+        },
+        {
+          "phrase": "conflate issues",
+          "register": "會議 / 政策",
+          "note": "把不同問題混在一起討論。"
+        },
+        {
+          "phrase": "easily conflated",
+          "register": "學術 / 教學",
+          "note": "容易被混淆。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示混淆、合併不同事物，尤其是不該混在一起時。",
+        "use": "用在「不是整合，而是把本該分開的概念混成一團」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Integrate",
+          "meaning": "integrate 是讓不同部分協作；conflate 是錯誤地抹掉差異。",
+          "use": "當 Integrate 這邊的語氣更貼近目標時，不要硬套 <code>conflate</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在系統除錯裡，<code>conflate</code> 是常見陷阱：把症狀當原因，會讓修補永遠打在表面。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 conflate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/conflate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 conflate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/conflate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>conflate</code> 來自 Latin <code>conflare</code>，字面接近「一起吹、熔合」。",
+      "memoryLens": "想成把兩股氣吹成一團；現代用法常是在批評不該混合的概念被混成一團。"
+    }
+  },
+  "indexEntry": {
+    "id": "conflate",
+    "word": "Conflate",
+    "partOfSpeech": "verb",
+    "href": "./conflate.html",
+    "thesis": "不是整合，而是把本該分開的概念混成一團。",
+    "tags": [
+      "混淆",
+      "混為一談",
+      "combine",
+      "analysis",
+      "causation",
+      "debugging",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/conflate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/conflate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/conflate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

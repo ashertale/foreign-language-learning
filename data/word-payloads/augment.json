@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Augment",
+    "slug": "augment",
+    "outputPath": "prototypes/augment.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "awg-MENT · UK /ɔːɡˈment/ · US /ɑːɡˈment/",
+    "hero": {
+      "thesis": "不是替換原本的東西，而是在它上面加能力、加量或加支援。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.25"
+    },
+    "coreIdea": "<code>augment</code> 用來描述在既有系統、能力或資源上補強，使整體更有力量。",
+    "definition": {
+      "summary": "表示增加、補強或擴充某個原本已存在的事物。",
+      "contrast": {
+        "word": "Replace",
+        "note": "<code>replace</code> 是換掉；<code>augment</code> 是保留原本，再加一層能力。"
+      },
+      "flow": [
+        "原本能力存在",
+        "額外資源加入",
+        "整體被補強"
+      ]
+    },
+    "origin": {
+      "history": "<code>augment</code> 來自拉丁語 <code>augere</code>，意思是增加、使變大。",
+      "memoryLens": "它像替工具加上附件，不是丟掉工具重買。"
+    },
+    "memory": {
+      "hook": "<code>augment</code> 是在原本的力量旁邊再接上一股力量。",
+      "explanation": "這個字常帶工程感：不是全盤推翻，而是加模組、加資料、加能力。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可以用筆記 app <code>augment</code> your memory，不是取代記憶，而是替它補一層外部支援。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "AI tools can <code>augment</code> engineers by handling repetitive checks，讓人把注意力放在判斷與架構上。"
+      }
+    ],
+    "collocations": {
+      "note": "Augment 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "augment capacity",
+          "register": "營運 / 系統",
+          "note": "增加可承受的量。"
+        },
+        {
+          "phrase": "augment human judgment",
+          "register": "AI / 決策",
+          "note": "補強人的判斷，而不是取代。"
+        },
+        {
+          "phrase": "augment a dataset",
+          "register": "資料 / ML",
+          "note": "擴充資料量或多樣性。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在既有基礎上增加或補強",
+        "use": "談能力、資源、資料、系統容量或工具支援時"
+      },
+      "others": [
+        {
+          "word": "Replace",
+          "meaning": "用新的東西取代舊的",
+          "use": "原本的東西被移除或換掉時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代科技討論常說 augmented intelligence，重點正是讓工具補強人的能力，而不是把人從流程裡刪掉。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 augment 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/augment",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 augment 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/augment",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "augment",
+    "word": "Augment",
+    "partOfSpeech": "verb",
+    "href": "./augment.html",
+    "thesis": "不是替換原本的東西，而是在它上面加能力、加量或加支援。",
+    "tags": [
+      "補強",
+      "擴充",
+      "replace",
+      "AI",
+      "capacity",
+      "dataset",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/augment",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/augment",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/augment",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

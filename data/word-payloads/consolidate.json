@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Consolidate",
+    "slug": "consolidate",
+    "outputPath": "prototypes/consolidate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuhn-SOL-uh-dayt · UK /kənˈsɒl.ɪ.deɪt/ · US /kənˈsɑː.lə.deɪt/",
+    "hero": {
+      "thesis": "不是只是合併，而是把分散的東西整成更穩、更好管理的整體。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.73"
+    },
+    "coreIdea": "<code>consolidate</code> 用來描述資料、權力、資源、債務、服務或知識被整併，減少碎片化並增加穩定性。",
+    "definition": {
+      "summary": "表示整併、鞏固或使某物更穩固、更集中。",
+      "contrast": {
+        "word": "Merge",
+        "note": "<code>merge</code> 只是合在一起；<code>consolidate</code> 強調合併後更穩、更集中、更可控。"
+      },
+      "flow": [
+        "原本分散",
+        "整併到一起",
+        "結構變穩"
+      ]
+    },
+    "origin": {
+      "history": "<code>consolidate</code> 來自拉丁語 <code>consolidare</code>，字面感是「使成為堅固的一體」。",
+      "memoryLens": "它像把鬆散碎石壓成一塊可承重的地基。"
+    },
+    "memory": {
+      "hook": "<code>consolidate</code> 是把碎片合成可以承重的整體。",
+      "explanation": "這個字有管理感：少一點散亂，多一點穩定與可維護。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "整理個人文件時，把散落在不同資料夾的收據 <code>consolidate</code> 起來，報稅會輕鬆很多。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "平台團隊可能 <code>consolidate services</code>，把重複功能收斂成一個共用模組。"
+      }
+    ],
+    "collocations": {
+      "note": "Consolidate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "consolidate data",
+          "register": "資料 / 分析",
+          "note": "把分散資料整併成一致來源。"
+        },
+        {
+          "phrase": "consolidate power",
+          "register": "政治 / 組織",
+          "note": "把權力集中並鞏固。"
+        },
+        {
+          "phrase": "consolidate debt",
+          "register": "金融 / 個人財務",
+          "note": "把多筆債務整併管理。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "整併並鞏固分散的東西",
+        "use": "談資料、服務、資源、權力、債務或知識整理時"
+      },
+      "others": [
+        {
+          "word": "Merge",
+          "meaning": "把兩個或多個東西合併",
+          "use": "只強調合在一起，不強調穩固與集中時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在系統演進中，<code>consolidate</code> 常是清理技術債的字：把重複、分裂、難維護的部分收回到清楚的中心。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 consolidate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/consolidate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 consolidate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/consolidate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "consolidate",
+    "word": "Consolidate",
+    "partOfSpeech": "verb",
+    "href": "./consolidate.html",
+    "thesis": "不是只是合併，而是把分散的東西整成更穩、更好管理的整體。",
+    "tags": [
+      "整併",
+      "鞏固",
+      "merge",
+      "data",
+      "services",
+      "technical debt",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/consolidate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/consolidate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/consolidate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

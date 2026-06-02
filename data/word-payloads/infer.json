@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Infer",
+    "slug": "infer",
+    "outputPath": "prototypes/infer.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "in-FUR · UK /ɪnˈfɜːr/ · US /ɪnˈfɝː/",
+    "hero": {
+      "thesis": "不是直接看見答案，而是從線索合理推出結論。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.50"
+    },
+    "coreIdea": "<code>infer</code> 用來描述根據證據、語境、資料或行為推論出沒有明說的意思。",
+    "definition": {
+      "summary": "表示推論、推斷，從已有線索得出結論。",
+      "contrast": {
+        "word": "Assume",
+        "note": "<code>assume</code> 可以缺少證據；<code>infer</code> 應該能指出線索如何支持結論。"
+      },
+      "flow": [
+        "觀察到線索",
+        "連結背景知識",
+        "推出結論"
+      ]
+    },
+    "origin": {
+      "history": "<code>infer</code> 來自拉丁語 <code>inferre</code>，有帶入、引出結論的意思。",
+      "memoryLens": "它像把幾條線索帶到桌上，最後合成一個合理答案。"
+    },
+    "memory": {
+      "hook": "<code>infer</code> 是從痕跡讀出沒有被明說的事。",
+      "explanation": "這個字要求證據；如果說不出線索，只是在 assume。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "朋友回覆很短，你可能 <code>infer</code> that they are busy，但最好不要過度解讀。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "debug 時，工程師從 logs <code>infer</code> the likely failure point，再用實驗驗證。"
+      }
+    ],
+    "collocations": {
+      "note": "Infer 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "infer from evidence",
+          "register": "法律 / 科學",
+          "note": "從證據推論。"
+        },
+        {
+          "phrase": "infer meaning",
+          "register": "閱讀 / 語言",
+          "note": "從上下文推斷意思。"
+        },
+        {
+          "phrase": "infer behavior",
+          "register": "工程 / 資料",
+          "note": "從紀錄推斷系統行為。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "根據線索合理推論",
+        "use": "談閱讀、證據、logs、資料、行為與除錯時"
+      },
+      "others": [
+        {
+          "word": "Assume",
+          "meaning": "未經證據先當成真的假設",
+          "use": "只是暫時假定，還沒有線索支撐時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在資料分析與 AI 語境中，<code>infer</code> 很常見；它提醒你結論來自模型或線索，不等於直接觀察到真相。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 infer 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/infer",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 infer 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/infer",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "infer",
+    "word": "Infer",
+    "partOfSpeech": "verb",
+    "href": "./infer.html",
+    "thesis": "不是直接看見答案，而是從線索合理推出結論。",
+    "tags": [
+      "推論",
+      "線索",
+      "assume",
+      "logs",
+      "evidence",
+      "AI",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/infer",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/infer",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/infer",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

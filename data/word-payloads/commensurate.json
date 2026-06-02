@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Commensurate",
+    "slug": "commensurate",
+    "outputPath": "prototypes/commensurate.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "kuh-MEN-ser-uht · UK /kəˈmen.sjər.ət/ · US /kəˈmen.sɚ.ət/",
+    "hero": {
+      "thesis": "不是剛好一樣，而是大小、程度或報酬與條件相稱。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.40"
+    },
+    "coreIdea": "<code>commensurate</code> 描述兩件事在比例上相符，例如責任與權限、風險與控制、薪資與經驗相稱。",
+    "definition": {
+      "summary": "形容程度、大小或價值相稱、成比例。",
+      "contrast": {
+        "word": "Equal",
+        "note": "<code>equal</code> 是相等；<code>commensurate</code> 是依比例相稱，不一定數量相同。"
+      },
+      "flow": [
+        "兩個量被比較",
+        "看比例是否合理",
+        "判斷是否相稱"
+      ]
+    },
+    "memory": {
+      "hook": "<code>commensurate</code> 是天平兩端不必同形，但重量要合理。",
+      "explanation": "它關心公平比例，而不是表面一樣。"
+    },
+    "usage": [
+      {
+        "label": "職場版",
+        "body": "Pay should be <code>commensurate</code> with responsibility. 這個情境凸顯「程度、大小或價值相稱、成比例」。"
+      },
+      {
+        "label": "風險版",
+        "body": "Controls must be <code>commensurate</code> with the level of risk. 讀這句時，焦點在「程度、大小或價值相稱、成比例」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "commensurate with",
+          "register": "正式 / 商務",
+          "note": "最常見搭配，表示與某事相稱。"
+        },
+        {
+          "phrase": "commensurate risk",
+          "register": "風險 / 法規",
+          "note": "與情境相稱的風險。"
+        },
+        {
+          "phrase": "commensurate compensation",
+          "register": "人資 / 職場",
+          "note": "與經驗或責任相稱的薪酬。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "形容程度、大小或價值相稱、成比例。",
+        "use": "用在「不是剛好一樣，而是大小、程度或報酬與條件相稱」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Proportional",
+          "meaning": "proportional 強調比例關係；commensurate 更常用來評估是否合理相稱。",
+          "use": "當 Proportional 這邊的語氣更貼近目標時，不要硬套 <code>commensurate</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在安全設計裡，<code>commensurate</code> 能避免過度或不足：控制強度要配得上真正風險。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 commensurate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/commensurate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 commensurate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/commensurate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>commensurate</code> 來自 Latin <code>commensuratus</code>，意思是「一起量過、可用同一尺度衡量」。",
+      "memoryLens": "mensur- 是 measure 的線索；commensurate 關心的是兩件事量起來是否相稱。"
+    }
+  },
+  "indexEntry": {
+    "id": "commensurate",
+    "word": "Commensurate",
+    "partOfSpeech": "adjective",
+    "href": "./commensurate.html",
+    "thesis": "不是剛好一樣，而是大小、程度或報酬與條件相稱。",
+    "tags": [
+      "相稱",
+      "成比例",
+      "proportional",
+      "risk",
+      "pay",
+      "fairness",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/commensurate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/commensurate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/commensurate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "target": {
+    "word": "Decipher",
+    "slug": "decipher",
+    "outputPath": "prototypes/decipher.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "di-SY-fur · UK /dɪˈsaɪ.fər/ · US /dɪˈsaɪ.fɚ/",
+    "hero": {
+      "thesis": "不是看見字而已，而是把難懂的符號或訊息解出意義。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.91"
+    },
+    "coreIdea": "<code>decipher</code> 表示解讀難懂文字、密碼、訊號或狀況，讓原本混亂的東西變成可理解資訊。",
+    "definition": {
+      "summary": "表示解讀、破譯、辨認難懂的文字或訊息。",
+      "contrast": {
+        "word": "Read",
+        "note": "<code>read</code> 是閱讀；<code>decipher</code> 是在難以辨識或加密的情況下解出來。"
+      },
+      "flow": [
+        "訊息難懂",
+        "找出規律",
+        "解出意義"
+      ]
+    },
+    "memory": {
+      "hook": "<code>decipher</code> 是從一串亂碼裡讀出真正訊息。",
+      "explanation": "它有破譯感，適合任何需要耐心解碼的情境。"
+    },
+    "usage": [
+      {
+        "label": "文字版",
+        "body": "It took minutes to <code>decipher</code> the handwritten note. 這個情境凸顯「解讀、破譯、辨認難懂的文字或訊息」。"
+      },
+      {
+        "label": "工程版",
+        "body": "Logs help engineers <code>decipher</code> what happened before the crash. 讀這句時，焦點在「解讀、破譯、辨認難懂的文字或訊息」。"
+      }
+    ],
+    "collocations": {
+      "items": [
+        {
+          "phrase": "decipher a code",
+          "register": "密碼 / 歷史",
+          "note": "破譯密碼。"
+        },
+        {
+          "phrase": "decipher handwriting",
+          "register": "日常 / 文件",
+          "note": "辨認難讀的筆跡。"
+        },
+        {
+          "phrase": "decipher logs",
+          "register": "工程 / 除錯",
+          "note": "從 log 中解讀事件。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示解讀、破譯、辨認難懂的文字或訊息。",
+        "use": "用在「不是看見字而已，而是把難懂的符號或訊息解出意義」這類判斷上。"
+      },
+      "others": [
+        {
+          "word": "Interpret",
+          "meaning": "interpret 是解釋意義；decipher 更強調先把難懂訊息解碼。",
+          "use": "當 Interpret 這邊的語氣更貼近目標時，不要硬套 <code>decipher</code>。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 debugging 裡，<code>decipher</code> 很貼切：log 不是答案本身，而是需要被讀出模式的線索。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 decipher 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/decipher",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 decipher 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/decipher",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "<code>decipher</code> 由 <code>de-</code> 加上 cipher 形成；cipher 可追到 Arabic <code>sifr</code>，原本與 zero、空位概念有關。",
+      "memoryLens": "cipher 是密碼或符號；decipher 就是把符號外殼拆開，讀出意思。"
+    }
+  },
+  "indexEntry": {
+    "id": "decipher",
+    "word": "Decipher",
+    "partOfSpeech": "verb",
+    "href": "./decipher.html",
+    "thesis": "不是看見字而已，而是把難懂的符號或訊息解出意義。",
+    "tags": [
+      "解讀",
+      "破譯",
+      "interpret",
+      "logs",
+      "code",
+      "debugging",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/decipher",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/decipher",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/decipher",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

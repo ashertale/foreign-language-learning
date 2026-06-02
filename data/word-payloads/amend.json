@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Amend",
+    "slug": "amend",
+    "outputPath": "prototypes/amend.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-MEND · UK /əˈmend/ · US /əˈmend/",
+    "hero": {
+      "thesis": "不是重新寫掉一切，而是在既有文本、規則或計畫上正式修正。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.53"
+    },
+    "coreIdea": "<code>amend</code> 用來描述對合約、法律、文件、設定或計畫做有意識的修補，讓它更正確或更合用。",
+    "definition": {
+      "summary": "表示修正、修改或補充正式文件、規則、法律或計畫。",
+      "contrast": {
+        "word": "Edit",
+        "note": "<code>edit</code> 可以是一般編輯；<code>amend</code> 更正式，常涉及規則、條文或已發布內容。"
+      },
+      "flow": [
+        "既有版本存在",
+        "發現缺口或錯誤",
+        "正式修補"
+      ]
+    },
+    "origin": {
+      "history": "<code>amend</code> 與拉丁語 <code>emendare</code> 有關，核心是把錯誤或缺陷修正掉。",
+      "memoryLens": "它像在文件邊上補上一筆，讓原本的承諾不再漏水。"
+    },
+    "memory": {
+      "hook": "<code>amend</code> 是把已經成立的東西修到更站得住。",
+      "explanation": "這個字保留原本框架，只修正需要補強的地方。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "你可以 <code>amend</code> a plan，把出發時間改掉，但不是整個旅行推翻。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在規格或合約裡，<code>amend the document</code> 表示正式更新條文，讓版本與實際決策一致。"
+      }
+    ],
+    "collocations": {
+      "note": "Amend 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "amend a contract",
+          "register": "法律 / 商務",
+          "note": "正式修改合約內容。"
+        },
+        {
+          "phrase": "amend a policy",
+          "register": "治理 / 管理",
+          "note": "調整已存在的政策。"
+        },
+        {
+          "phrase": "amend the wording",
+          "register": "文件 / 寫作",
+          "note": "修正措辭以避免誤解。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "正式修正既有文本或規則",
+        "use": "談合約、法規、政策、規格或正式文件時"
+      },
+      "others": [
+        {
+          "word": "Edit",
+          "meaning": "一般地修改內容",
+          "use": "只是調整文字或格式，不需要正式語氣時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 issue、spec 與 legal review 裡，<code>amend</code> 很適合表示小而正式的修正，避免聽起來像整份重寫。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 amend 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/amend",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 amend 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/amend",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "amend",
+    "word": "Amend",
+    "partOfSpeech": "verb",
+    "href": "./amend.html",
+    "thesis": "不是重新寫掉一切，而是在既有文本、規則或計畫上正式修正。",
+    "tags": [
+      "修正",
+      "正式修改",
+      "edit",
+      "contract",
+      "policy",
+      "spec",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/amend",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/amend",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/amend",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

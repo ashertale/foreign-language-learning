@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Synthesize",
+    "slug": "synthesize",
+    "outputPath": "prototypes/synthesize.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "SIN-thuh-syz · UK /ˈsɪn.θə.saɪz/ · US /ˈsɪn.θə.saɪz/",
+    "hero": {
+      "thesis": "不是把資料貼在一起，而是把不同來源整成新的理解。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.95"
+    },
+    "coreIdea": "<code>synthesize</code> 用來描述把研究、觀點、資料、限制或素材整合成一個新的結論、設計或敘述。",
+    "definition": {
+      "summary": "表示綜合、合成，把不同元素結合成新的整體。",
+      "contrast": {
+        "word": "Summarize",
+        "note": "<code>summarize</code> 是摘要既有內容；<code>synthesize</code> 會產生新的整體理解。"
+      },
+      "flow": [
+        "多個來源進來",
+        "找出關係與張力",
+        "形成新的整體"
+      ]
+    },
+    "origin": {
+      "history": "<code>synthesize</code> 來自希臘語 <code>synthesis</code> 的詞族，意思是放在一起、組合成整體。",
+      "memoryLens": "它像把不同金屬熔成合金，結果不是清單，而是新材料。"
+    },
+    "memory": {
+      "hook": "<code>synthesize</code> 是把很多片段煉成一個新的理解。",
+      "explanation": "這個字的關鍵是新整體；如果只是列點，那還沒有 synthesize。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "讀完幾篇文章後，你可以 <code>synthesize</code> the main ideas，形成自己的判斷。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "系統設計需要 <code>synthesize</code> user needs, hardware limits, schedule, and reliability risks，才會得到真正可行的方案。"
+      }
+    ],
+    "collocations": {
+      "note": "Synthesize 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "synthesize information",
+          "register": "研究 / 學習",
+          "note": "綜合資訊形成理解。"
+        },
+        {
+          "phrase": "synthesize findings",
+          "register": "報告 / 分析",
+          "note": "把研究結果整成結論。"
+        },
+        {
+          "phrase": "synthesize a solution",
+          "register": "設計 / 工程",
+          "note": "綜合限制後形成解法。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把不同來源整合成新的整體理解",
+        "use": "談研究、策略、系統設計、學習、報告或跨域判斷時"
+      },
+      "others": [
+        {
+          "word": "Summarize",
+          "meaning": "把內容縮短成摘要",
+          "use": "只是壓縮資訊，不產生新結構時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 AI 與知識工作裡，<code>synthesize</code> 是比 summarize 更高階的動作：它要求你看見關係、衝突與可行結論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 synthesize 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/synthesize",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 synthesize 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/synthesize",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "synthesize",
+    "word": "Synthesize",
+    "partOfSpeech": "verb",
+    "href": "./synthesize.html",
+    "thesis": "不是把資料貼在一起，而是把不同來源整成新的理解。",
+    "tags": [
+      "綜合",
+      "合成理解",
+      "summarize",
+      "research",
+      "system design",
+      "AI",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/synthesize",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/synthesize",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/synthesize",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

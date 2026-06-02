@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Refine",
+    "slug": "refine",
+    "outputPath": "prototypes/refine.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-FYN · UK /rɪˈfaɪn/ · US /rɪˈfaɪn/",
+    "hero": {
+      "thesis": "不是重新開始，而是在既有成果上去除粗糙、提高精度。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.92"
+    },
+    "coreIdea": "<code>refine</code> 用來描述把想法、設計、文字、模型或流程打磨得更準、更乾淨、更成熟。",
+    "definition": {
+      "summary": "表示精煉、改進、打磨，使某物更精確、純淨或成熟。",
+      "contrast": {
+        "word": "Improve",
+        "note": "<code>improve</code> 是變好；<code>refine</code> 有去雜質、調細節、提高精度的手感。"
+      },
+      "flow": [
+        "已有初版",
+        "去除粗糙與雜質",
+        "變得更準更成熟"
+      ]
+    },
+    "origin": {
+      "history": "<code>refine</code> 與讓事物變得更 fine、更純淨的語義相連，常從材料精煉延伸到想法打磨。",
+      "memoryLens": "它像把金屬反覆提煉，雜質少一點，亮度就多一點。"
+    },
+    "memory": {
+      "hook": "<code>refine</code> 是讓已經存在的東西變得更乾淨、更準。",
+      "explanation": "這個字適合第二版、第三版；它不是推翻，而是打磨。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "寫信前再 <code>refine</code> the wording，能讓語氣更準、不傷人。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "模型、規格或測試流程都需要 <code>refine</code>，因為第一版通常只證明方向，不保證精度。"
+      }
+    ],
+    "collocations": {
+      "note": "Refine 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "refine a design",
+          "register": "產品 / 工程",
+          "note": "打磨設計細節。"
+        },
+        {
+          "phrase": "refine wording",
+          "register": "寫作 / 溝通",
+          "note": "修到語氣與意思更精準。"
+        },
+        {
+          "phrase": "refine a model",
+          "register": "資料 / AI",
+          "note": "改善模型的精度或適用性。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在既有基礎上打磨、去粗、提高精度",
+        "use": "談文字、設計、模型、流程、假設或工藝時"
+      },
+      "others": [
+        {
+          "word": "Improve",
+          "meaning": "泛泛地改善",
+          "use": "只是變好，不特別強調精煉與細節時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品迭代裡，<code>refine</code> 是成熟工作的節奏：不是每次都要新方向，而是把重要方向做準。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 refine 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/refine",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 refine 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/refine",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "refine",
+    "word": "Refine",
+    "partOfSpeech": "verb",
+    "href": "./refine.html",
+    "thesis": "不是重新開始，而是在既有成果上去除粗糙、提高精度。",
+    "tags": [
+      "精煉",
+      "打磨",
+      "improve",
+      "iteration",
+      "design",
+      "model",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/refine",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/refine",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/refine",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "target": {
+    "word": "Compensate",
+    "slug": "compensate",
+    "outputPath": "prototypes/compensate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "KOM-pen-sayt · UK /ˈkɒm.pen.seɪt/ · US /ˈkɑːm.pen.seɪt/",
+    "hero": {
+      "thesis": "不是單純付錢，而是用某種補償把失衡拉回來。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "4.03"
+    },
+    "coreIdea": "<code>compensate</code> 用來描述以金錢、措施、調整或額外能力抵消損失、缺陷或偏差。",
+    "definition": {
+      "summary": "表示補償、賠償，或用某種方式抵消不足、損失或偏差。",
+      "contrast": {
+        "word": "Pay",
+        "note": "<code>pay</code> 只是付款；<code>compensate</code> 強調彌補損失或平衡不足。"
+      },
+      "flow": [
+        "出現損失或不足",
+        "加入補償因素",
+        "整體重新平衡"
+      ]
+    },
+    "origin": {
+      "history": "<code>compensate</code> 來自拉丁語 <code>compensare</code>，有「一起稱重、互相抵銷」的意思。",
+      "memoryLens": "想成天平一邊變輕了，你在另一邊加砝碼讓它回穩。"
+    },
+    "memory": {
+      "hook": "<code>compensate</code> 是用一個力量補回另一個地方的缺口。",
+      "explanation": "它可以是薪水、賠償，也可以是工程上的校正與抵消。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "航班延誤後，航空公司可能 <code>compensate</code> passengers with vouchers。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "控制系統裡，演算法可能 <code>compensate for drift</code>，用校正量抵消感測器偏移。"
+      }
+    ],
+    "collocations": {
+      "note": "Compensate 的搭配重點在於看見它自然連到哪些名詞、場景或動作，而不是只記中文翻譯。",
+      "items": [
+        {
+          "phrase": "compensate for loss",
+          "register": "法律 / 保險",
+          "note": "補償損失。"
+        },
+        {
+          "phrase": "compensate employees",
+          "register": "HR / 商務",
+          "note": "給予薪酬或報酬。"
+        },
+        {
+          "phrase": "compensate for drift",
+          "register": "工程 / 控制",
+          "note": "抵消漂移或偏差。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用某種補償抵消失衡或損失",
+        "use": "談賠償、薪酬、校正、缺陷補足或控制系統時"
+      },
+      "others": [
+        {
+          "word": "Pay",
+          "meaning": "支付金錢",
+          "use": "只是交易付款，不強調彌補時"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程語境裡，<code>compensate</code> 很常見，因為真實系統很少完美；我們常靠補償機制讓偏差不至於破壞結果。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文重新整理 compensate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/compensate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 compensate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/compensate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "compensate",
+    "word": "Compensate",
+    "partOfSpeech": "verb",
+    "href": "./compensate.html",
+    "thesis": "不是單純付錢，而是用某種補償把失衡拉回來。",
+    "tags": [
+      "補償",
+      "抵消",
+      "pay",
+      "drift",
+      "control",
+      "salary",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/compensate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/compensate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/compensate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}
