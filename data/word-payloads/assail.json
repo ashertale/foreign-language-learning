@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Assail",
+    "slug": "assail",
+    "outputPath": "prototypes/assail.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-SAYL · UK /əˈseɪl/ · US /əˈseɪl/",
+    "hero": {
+      "thesis": "不是普通批評，而是成串地從各方向打過來。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.69"
+    },
+    "coreIdea": "<code>assail</code> 表示猛烈攻擊、抨擊或襲擊。",
+    "definition": {
+      "summary": "表示猛烈攻擊、抨擊或襲擊。",
+      "contrast": {
+        "word": "Attack",
+        "note": "<code>attack</code> 多半只是 攻擊；<code>assail</code> 則更偏向 attack with force physically or verbally。"
+      },
+      "flow": [
+        "先有情況、對象或目標",
+        "用 attack with force physically or verbally 的方式推進",
+        "結果慢慢變得可見或可感"
+      ]
+    },
+    "memory": {
+      "hook": "<code>assail</code> 的畫面是：像暴雨不是一滴一滴落，而是整片斜打到你身上。",
+      "explanation": "只要你記得這個畫面，下次看到 assail，就不會只把它翻成單薄的中文對應。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "日常英文裡，你會看到像 <code>assail the proposal</code> 這樣的搭配。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在專業語境裡，也常會用到 <code>assailed by doubts</code> 來表達更精確的意思。"
+      },
+      {
+        "label": "延伸版",
+        "body": "公共批評、新聞壓力與敘事動作 這類場景特別適合放進 <code>assail the target</code>，因為那裡常需要描述 attack with force physically or verbally。"
+      }
+    ],
+    "collocations": {
+      "note": "Assail 很適合透過固定搭配來抓語感，尤其是你想把 attack with force physically or verbally 說得更自然時。",
+      "items": [
+        {
+          "phrase": "assail the proposal",
+          "register": "評論 / 公共",
+          "note": "這個搭配能把 attack with force physically or verbally 的語感直接帶出來。"
+        },
+        {
+          "phrase": "assailed by doubts",
+          "register": "心理 / 情緒",
+          "note": "放到 公共批評、新聞壓力與敘事動作 的語境裡，這個搭配特別自然。"
+        },
+        {
+          "phrase": "assail the target",
+          "register": "敘事 / 動作",
+          "note": "這個搭配很適合拿來練 assail 的實際使用邊界。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示猛烈攻擊、抨擊或襲擊。",
+        "use": "當你想說的不只是 攻擊，而是 attack with force physically or verbally 這層語感時"
+      },
+      "others": [
+        {
+          "word": "Attack",
+          "meaning": "攻擊",
+          "use": "只想表達 攻擊，而不需要 attack with force physically or verbally 這層細節時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>assail</code> 常和 <code>assail the proposal</code>、<code>assailed by doubts</code>、<code>assail the target</code> 這類搭配一起出現。",
+      "放到 公共批評、新聞壓力與敘事動作 的語境裡，這個字能比一般近義詞更精準地抓住 attack with force physically or verbally。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/assail",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "url": "https://www.merriam-webster.com/dictionary/assail",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "assail",
+    "word": "Assail",
+    "partOfSpeech": "verb",
+    "href": "./assail.html",
+    "thesis": "不是普通批評，而是成串地從各方向打過來。",
+    "tags": [
+      "猛烈抨擊",
+      "從各方向打來",
+      "attack",
+      "criticism",
+      "pressure",
+      "verb",
+      "assail"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assail",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/assail",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/assail",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Enshrine",
+    "slug": "enshrine",
+    "outputPath": "prototypes/enshrine.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "en-SHRYN · UK /ɪnˈʃraɪn/ · US /ɪnˈʃraɪn/",
+    "hero": {
+      "thesis": "不是暫時保留，而是把它放進不易被動搖的位置。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.46"
+    },
+    "coreIdea": "<code>enshrine</code> 表示把價值、權利或記憶正式寫進制度或珍藏。",
+    "definition": {
+      "summary": "表示把價值、權利或記憶正式寫進制度或珍藏。",
+      "contrast": {
+        "word": "Preserve",
+        "note": "<code>preserve</code> 多半只是 保存；<code>enshrine</code> 則更偏向 set something in a protected place of lasting honor。"
+      },
+      "flow": [
+        "先有情況、對象或目標",
+        "用 set something in a protected place of lasting honor 的方式推進",
+        "結果慢慢變得可見或可感"
+      ]
+    },
+    "memory": {
+      "hook": "<code>enshrine</code> 的畫面是：像把一張重要紙頁放進玻璃框裡，從此不再只是隨手放著。",
+      "explanation": "只要你記得這個畫面，下次看到 enshrine，就不會只把它翻成單薄的中文對應。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "日常英文裡，你會看到像 <code>enshrine the right</code> 這樣的搭配。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在專業語境裡，也常會用到 <code>enshrine the principle</code> 來表達更精確的意思。"
+      },
+      {
+        "label": "延伸版",
+        "body": "憲政條文、組織價值與紀念保存 這類場景特別適合放進 <code>enshrine in memory</code>，因為那裡常需要描述 set something in a protected place of lasting honor。"
+      }
+    ],
+    "collocations": {
+      "note": "Enshrine 很適合透過固定搭配來抓語感，尤其是你想把 set something in a protected place of lasting honor 說得更自然時。",
+      "items": [
+        {
+          "phrase": "enshrine the right",
+          "register": "法規 / 制度",
+          "note": "這個搭配能把 set something in a protected place of lasting honor 的語感直接帶出來。"
+        },
+        {
+          "phrase": "enshrine the principle",
+          "register": "治理 / 文化",
+          "note": "放到 憲政條文、組織價值與紀念保存 的語境裡，這個搭配特別自然。"
+        },
+        {
+          "phrase": "enshrine in memory",
+          "register": "敘事 / 情感",
+          "note": "這個搭配很適合拿來練 enshrine 的實際使用邊界。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示把價值、權利或記憶正式寫進制度或珍藏。",
+        "use": "當你想說的不只是 保存，而是 set something in a protected place of lasting honor 這層語感時"
+      },
+      "others": [
+        {
+          "word": "Preserve",
+          "meaning": "保存",
+          "use": "只想表達 保存，而不需要 set something in a protected place of lasting honor 這層細節時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>enshrine</code> 常和 <code>enshrine the right</code>、<code>enshrine the principle</code>、<code>enshrine in memory</code> 這類搭配一起出現。",
+      "放到 憲政條文、組織價值與紀念保存 的語境裡，這個字能比一般近義詞更精準地抓住 set something in a protected place of lasting honor。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/enshrine",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "url": "https://www.merriam-webster.com/dictionary/enshrine",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "enshrine",
+    "word": "Enshrine",
+    "partOfSpeech": "verb",
+    "href": "./enshrine.html",
+    "thesis": "不是暫時保留，而是把它放進不易被動搖的位置。",
+    "tags": [
+      "正式珍藏",
+      "放進玻璃框裡",
+      "preserve",
+      "rights",
+      "memory",
+      "verb",
+      "enshrine"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/enshrine",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/enshrine",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/enshrine",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

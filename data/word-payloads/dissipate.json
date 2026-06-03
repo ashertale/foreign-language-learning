@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Dissipate",
+    "slug": "dissipate",
+    "outputPath": "prototypes/dissipate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "DIS-uh-payt · UK /ˈdɪs.ɪ.peɪt/ · US /ˈdɪs.ə.peɪt/",
+    "hero": {
+      "thesis": "不是瞬間消失，而是慢慢散開、散淡。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.92"
+    },
+    "coreIdea": "<code>dissipate</code> 表示雲霧、能量、恐懼或怒氣逐漸消散。",
+    "definition": {
+      "summary": "表示雲霧、能量、恐懼或怒氣逐漸消散。",
+      "contrast": {
+        "word": "Disperse",
+        "note": "<code>disperse</code> 多半只是 散去；<code>dissipate</code> 則更偏向 scatter until force or tension thins out。"
+      },
+      "flow": [
+        "先有情況、對象或目標",
+        "用 scatter until force or tension thins out 的方式推進",
+        "結果慢慢變得可見或可感"
+      ]
+    },
+    "memory": {
+      "hook": "<code>dissipate</code> 的畫面是：像晨霧不是被切掉，而是被日光一層層推薄。",
+      "explanation": "只要你記得這個畫面，下次看到 dissipate，就不會只把它翻成單薄的中文對應。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "日常英文裡，你會看到像 <code>dissipate the tension</code> 這樣的搭配。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在專業語境裡，也常會用到 <code>dissipate heat</code> 來表達更精確的意思。"
+      },
+      {
+        "label": "延伸版",
+        "body": "情緒調節、氣象描寫與熱能流失 這類場景特別適合放進 <code>mist dissipates</code>，因為那裡常需要描述 scatter until force or tension thins out。"
+      }
+    ],
+    "collocations": {
+      "note": "Dissipate 很適合透過固定搭配來抓語感，尤其是你想把 scatter until force or tension thins out 說得更自然時。",
+      "items": [
+        {
+          "phrase": "dissipate the tension",
+          "register": "人際 / 溝通",
+          "note": "這個搭配能把 scatter until force or tension thins out 的語感直接帶出來。"
+        },
+        {
+          "phrase": "dissipate heat",
+          "register": "工程 / 熱設計",
+          "note": "放到 情緒調節、氣象描寫與熱能流失 的語境裡，這個搭配特別自然。"
+        },
+        {
+          "phrase": "mist dissipates",
+          "register": "自然 / 描寫",
+          "note": "這個搭配很適合拿來練 dissipate 的實際使用邊界。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示雲霧、能量、恐懼或怒氣逐漸消散。",
+        "use": "當你想說的不只是 散去，而是 scatter until force or tension thins out 這層語感時"
+      },
+      "others": [
+        {
+          "word": "Disperse",
+          "meaning": "散去",
+          "use": "只想表達 散去，而不需要 scatter until force or tension thins out 這層細節時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>dissipate</code> 常和 <code>dissipate the tension</code>、<code>dissipate heat</code>、<code>mist dissipates</code> 這類搭配一起出現。",
+      "放到 情緒調節、氣象描寫與熱能流失 的語境裡，這個字能比一般近義詞更精準地抓住 scatter until force or tension thins out。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/dissipate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "url": "https://www.merriam-webster.com/dictionary/dissipate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "dissipate",
+    "word": "Dissipate",
+    "partOfSpeech": "verb",
+    "href": "./dissipate.html",
+    "thesis": "不是瞬間消失，而是慢慢散開、散淡。",
+    "tags": [
+      "慢慢散開",
+      "日光把霧一層層推薄",
+      "disperse",
+      "heat",
+      "tension",
+      "verb",
+      "dissipate"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/dissipate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/dissipate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/dissipate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

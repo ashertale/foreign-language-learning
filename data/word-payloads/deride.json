@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Deride",
+    "slug": "deride",
+    "outputPath": "prototypes/deride.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-RYD · UK /dɪˈraɪd/ · US /dɪˈraɪd/",
+    "hero": {
+      "thesis": "不是開玩笑，而是把對方當成值得被看低的對象。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.54"
+    },
+    "coreIdea": "<code>deride</code> 表示嘲弄、譏笑、輕蔑地取笑。",
+    "definition": {
+      "summary": "表示嘲弄、譏笑、輕蔑地取笑。",
+      "contrast": {
+        "word": "Mock",
+        "note": "<code>mock</code> 多半只是 嘲笑；<code>deride</code> 則更偏向 mock with open contempt。"
+      },
+      "flow": [
+        "先有情況、對象或目標",
+        "用 mock with open contempt 的方式推進",
+        "結果慢慢變得可見或可感"
+      ]
+    },
+    "memory": {
+      "hook": "<code>deride</code> 的畫面是：像有人剛開口，旁邊就先傳來一陣帶刺的笑聲。",
+      "explanation": "只要你記得這個畫面，下次看到 deride，就不會只把它翻成單薄的中文對應。"
+    },
+    "usage": [
+      {
+        "label": "日常版",
+        "body": "日常英文裡，你會看到像 <code>deride the proposal</code> 這樣的搭配。"
+      },
+      {
+        "label": "數位 / 專業版",
+        "body": "在專業語境裡，也常會用到 <code>deride as naive</code> 來表達更精確的意思。"
+      },
+      {
+        "label": "延伸版",
+        "body": "公共輿論、校園互動與人物衝突 這類場景特別適合放進 <code>deride the effort</code>，因為那裡常需要描述 mock with open contempt。"
+      }
+    ],
+    "collocations": {
+      "note": "Deride 很適合透過固定搭配來抓語感，尤其是你想把 mock with open contempt 說得更自然時。",
+      "items": [
+        {
+          "phrase": "deride the proposal",
+          "register": "評論 / 公共",
+          "note": "這個搭配能把 mock with open contempt 的語感直接帶出來。"
+        },
+        {
+          "phrase": "deride as naive",
+          "register": "辯論 / 媒體",
+          "note": "放到 公共輿論、校園互動與人物衝突 的語境裡，這個搭配特別自然。"
+        },
+        {
+          "phrase": "deride the effort",
+          "register": "人際 / 團隊",
+          "note": "這個搭配很適合拿來練 deride 的實際使用邊界。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表示嘲弄、譏笑、輕蔑地取笑。",
+        "use": "當你想說的不只是 嘲笑，而是 mock with open contempt 這層語感時"
+      },
+      "others": [
+        {
+          "word": "Mock",
+          "meaning": "嘲笑",
+          "use": "只想表達 嘲笑，而不需要 mock with open contempt 這層細節時"
+        }
+      ]
+    },
+    "modernUse": [
+      "現代英文裡，<code>deride</code> 常和 <code>deride the proposal</code>、<code>deride as naive</code>、<code>deride the effort</code> 這類搭配一起出現。",
+      "放到 公共輿論、校園互動與人物衝突 的語境裡，這個字能比一般近義詞更精準地抓住 mock with open contempt。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "基本定義與發音參考 Merriam-Webster。",
+        "url": "https://www.merriam-webster.com/dictionary/deride",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "url": "https://www.merriam-webster.com/dictionary/deride",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "deride",
+    "word": "Deride",
+    "partOfSpeech": "verb",
+    "href": "./deride.html",
+    "thesis": "不是開玩笑，而是把對方當成值得被看低的對象。",
+    "tags": [
+      "輕蔑嘲弄",
+      "帶刺的笑聲先出來",
+      "mock",
+      "contempt",
+      "conflict",
+      "verb",
+      "deride"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deride",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/deride",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/deride",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

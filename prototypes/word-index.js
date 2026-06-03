@@ -6705,5 +6705,2855 @@ window.WORD_INDEX = [
       "adjective",
       "adjective"
     ]
+  },
+  {
+    id: "abdicate",
+    word: "Abdicate",
+    partOfSpeech: "verb",
+    href: "./abdicate.html",
+    order: 351,
+    cefr: "C2",
+    zipf: 2.90,
+    thesis: "不是單純離開，而是把原本握在手上的位置、權力或責任正式交出去。",
+    tags: [
+      "放棄權位",
+      "交出責任",
+      "resign",
+      "power",
+      "leadership",
+      "verb",
+      "abdicate"
+    ]
+  },
+  {
+    id: "abide",
+    word: "Abide",
+    partOfSpeech: "verb",
+    href: "./abide.html",
+    order: 352,
+    cefr: "C1",
+    zipf: 3.21,
+    thesis: "不是口頭接受一下，而是之後真的照那個規則、承諾或判決去做。",
+    tags: [
+      "遵守約定",
+      "持續照辦",
+      "obey",
+      "rules",
+      "agreement",
+      "verb",
+      "abide"
+    ]
+  },
+  {
+    id: "abound",
+    word: "Abound",
+    partOfSpeech: "verb",
+    href: "./abound.html",
+    order: 353,
+    cefr: "C1",
+    zipf: 2.95,
+    thesis: "不是只有幾個，而是多到你一看四周都是。",
+    tags: [
+      "大量存在",
+      "四處都是",
+      "exist",
+      "opportunity",
+      "observation",
+      "verb",
+      "abound"
+    ]
+  },
+  {
+    id: "abstruse",
+    word: "Abstruse",
+    partOfSpeech: "adjective",
+    href: "./abstruse.html",
+    order: 354,
+    cefr: "C2",
+    zipf: 2.48,
+    thesis: "不是單純專業，而是抽象到一般入口幾乎抓不到。",
+    tags: [
+      "深奧難懂",
+      "入口很少",
+      "complicated",
+      "theory",
+      "reading",
+      "adjective",
+      "abstruse"
+    ]
+  },
+  {
+    id: "accede",
+    word: "Accede",
+    partOfSpeech: "verb",
+    href: "./accede.html",
+    order: 355,
+    cefr: "C2",
+    zipf: 2.71,
+    thesis: "不是主動提議，而是在對方要求、情勢或壓力下點頭接受。",
+    tags: [
+      "讓步同意",
+      "壓力下點頭",
+      "agree",
+      "negotiation",
+      "policy",
+      "verb",
+      "accede"
+    ]
+  },
+  {
+    id: "accolade",
+    word: "Accolade",
+    partOfSpeech: "noun",
+    href: "./accolade.html",
+    order: 356,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是普通稱讚，而是被公開看見、帶有份量的肯定。",
+    tags: [
+      "公開肯定",
+      "正式榮譽",
+      "praise",
+      "recognition",
+      "career",
+      "noun",
+      "accolade"
+    ]
+  },
+  {
+    id: "adroit",
+    word: "Adroit",
+    partOfSpeech: "adjective",
+    href: "./adroit.html",
+    order: 357,
+    cefr: "C2",
+    zipf: 2.63,
+    thesis: "不是單純會做，而是動作與判斷都靈巧、乾淨、拿捏得住。",
+    tags: [
+      "靈巧熟練",
+      "拿捏得住",
+      "skilled",
+      "technique",
+      "negotiation",
+      "adjective",
+      "adroit"
+    ]
+  },
+  {
+    id: "affable",
+    word: "Affable",
+    partOfSpeech: "adjective",
+    href: "./affable.html",
+    order: 358,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是表面客氣，而是讓人很自然就敢靠近和開口。",
+    tags: [
+      "親切好相處",
+      "自然可親",
+      "polite",
+      "teamwork",
+      "impression",
+      "adjective",
+      "affable"
+    ]
+  },
+  {
+    id: "alacrity",
+    word: "Alacrity",
+    partOfSpeech: "noun",
+    href: "./alacrity.html",
+    order: 359,
+    cefr: "C2",
+    zipf: 2.42,
+    thesis: "不是只有快，而是帶著爽快、毫不拖泥帶水的願意。",
+    tags: [
+      "爽快迅速",
+      "樂意接住",
+      "eagerness",
+      "response",
+      "attitude",
+      "noun",
+      "alacrity"
+    ]
+  },
+  {
+    id: "alienate",
+    word: "Alienate",
+    partOfSpeech: "verb",
+    href: "./alienate.html",
+    order: 360,
+    cefr: "C1",
+    zipf: 3.11,
+    thesis: "不是一時不合，而是讓對方慢慢覺得自己不再被接納。",
+    tags: [
+      "使人疏離",
+      "慢慢推遠",
+      "offend",
+      "relationships",
+      "audience",
+      "verb",
+      "alienate"
+    ]
+  },
+  {
+    id: "allay",
+    word: "Allay",
+    partOfSpeech: "verb",
+    href: "./allay.html",
+    order: 361,
+    cefr: "C2",
+    zipf: 2.60,
+    thesis: "不是完全解決，而是先把尖銳的擔心放下來。",
+    tags: [
+      "緩和疑慮",
+      "先把刺放下",
+      "ease",
+      "communication",
+      "anxiety",
+      "verb",
+      "allay"
+    ]
+  },
+  {
+    id: "allot",
+    word: "Allot",
+    partOfSpeech: "verb",
+    href: "./allot.html",
+    order: 362,
+    cefr: "C1",
+    zipf: 2.99,
+    thesis: "不是隨手給一些，而是從有限總量中切出一份明確額度。",
+    tags: [
+      "切出份額",
+      "明確分配",
+      "assign",
+      "resources",
+      "scheduling",
+      "verb",
+      "allot"
+    ]
+  },
+  {
+    id: "aloof",
+    word: "Aloof",
+    partOfSpeech: "adjective",
+    href: "./aloof.html",
+    order: 363,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是害羞，而是刻意或自然地保持距離，不讓人太靠近。",
+    tags: [
+      "保持距離",
+      "不讓靠近",
+      "shy",
+      "personality",
+      "social",
+      "adjective",
+      "aloof"
+    ]
+  },
+  {
+    id: "altruistic",
+    word: "Altruistic",
+    partOfSpeech: "adjective",
+    href: "./altruistic.html",
+    order: 364,
+    cefr: "C2",
+    zipf: 2.52,
+    thesis: "不是一般大方，而是把他人的利益放在很前面。",
+    tags: [
+      "利他導向",
+      "先想別人",
+      "generous",
+      "ethics",
+      "society",
+      "adjective",
+      "altruistic"
+    ]
+  },
+  {
+    id: "amalgamate",
+    word: "Amalgamate",
+    partOfSpeech: "verb",
+    href: "./amalgamate.html",
+    order: 365,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是並排放在一起，而是把原本分開的部分真正揉成一體。",
+    tags: [
+      "融合成體",
+      "不再分開",
+      "combine",
+      "integration",
+      "organization",
+      "verb",
+      "amalgamate"
+    ]
+  },
+  {
+    id: "ameliorate",
+    word: "Ameliorate",
+    partOfSpeech: "verb",
+    href: "./ameliorate.html",
+    order: 366,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是徹底翻盤，而是把原本糟的情況往較可承受的方向拉回來。",
+    tags: [
+      "讓情況好一些",
+      "從糟拉回",
+      "improve",
+      "policy",
+      "repair",
+      "verb",
+      "ameliorate"
+    ]
+  },
+  {
+    id: "amenable",
+    word: "Amenable",
+    partOfSpeech: "adjective",
+    href: "./amenable.html",
+    order: 367,
+    cefr: "C1",
+    zipf: 2.81,
+    thesis: "不是被迫配合，而是對調整、協商或新方案有接受空間。",
+    tags: [
+      "可協商可調整",
+      "沒有鎖死",
+      "willing",
+      "feedback",
+      "change",
+      "adjective",
+      "amenable"
+    ]
+  },
+  {
+    id: "amicable",
+    word: "Amicable",
+    partOfSpeech: "adjective",
+    href: "./amicable.html",
+    order: 368,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是沒有分歧，而是即使立場不同，仍能平和處理。",
+    tags: [
+      "和氣處理",
+      "沒有敵意",
+      "friendly",
+      "settlement",
+      "relationships",
+      "adjective",
+      "amicable"
+    ]
+  },
+  {
+    id: "amiss",
+    word: "Amiss",
+    partOfSpeech: "adjective",
+    href: "./amiss.html",
+    order: 369,
+    cefr: "C1",
+    zipf: 3.02,
+    thesis: "不是災難級錯誤，而是你直覺先感到哪裡不太對。",
+    tags: [
+      "哪裡不對勁",
+      "視線先卡住",
+      "wrong",
+      "quality",
+      "intuition",
+      "adjective",
+      "amiss"
+    ]
+  },
+  {
+    id: "ancillary",
+    word: "Ancillary",
+    partOfSpeech: "adjective",
+    href: "./ancillary.html",
+    order: 370,
+    cefr: "C2",
+    zipf: 2.47,
+    thesis: "不是核心主體，而是在旁邊補足、支撐主要任務。",
+    tags: [
+      "附屬支援",
+      "在旁邊補足",
+      "secondary",
+      "services",
+      "tools",
+      "adjective",
+      "ancillary"
+    ]
+  },
+  {
+    id: "antagonize",
+    word: "Antagonize",
+    partOfSpeech: "verb",
+    href: "./antagonize.html",
+    order: 371,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是惹到一下，而是把對方推進對立或反感狀態。",
+    tags: [
+      "激起敵意",
+      "把人推到對立",
+      "annoy",
+      "conflict",
+      "communication",
+      "verb",
+      "antagonize"
+    ]
+  },
+  {
+    id: "apprehend",
+    word: "Apprehend",
+    partOfSpeech: "verb",
+    href: "./apprehend.html",
+    order: 372,
+    cefr: "C2",
+    zipf: 2.78,
+    thesis: "不是只聽過，而是終於把複雜東西真正抓進腦中。",
+    tags: [
+      "終於抓住意思",
+      "從霧裡摸到把手",
+      "understand",
+      "analysis",
+      "learning",
+      "verb",
+      "apprehend"
+    ]
+  },
+  {
+    id: "apropos",
+    word: "Apropos",
+    partOfSpeech: "adjective",
+    href: "./apropos.html",
+    order: 373,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是勉強相關，而是剛好切中這個時機或話題。",
+    tags: [
+      "切題剛好",
+      "時機完全對上",
+      "relevant",
+      "writing",
+      "timing",
+      "adjective",
+      "apropos"
+    ]
+  },
+  {
+    id: "ardent",
+    word: "Ardent",
+    partOfSpeech: "adjective",
+    href: "./ardent.html",
+    order: 374,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是一般喜歡，而是情感或支持力度都很熱。",
+    tags: [
+      "熱切投入",
+      "穩穩發熱",
+      "enthusiastic",
+      "support",
+      "interest",
+      "adjective",
+      "ardent"
+    ]
+  },
+  {
+    id: "arduous",
+    word: "Arduous",
+    partOfSpeech: "adjective",
+    href: "./arduous.html",
+    order: 375,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是一時難，而是要長時間扛著重度努力往前走。",
+    tags: [
+      "艱鉅費力",
+      "一路都重",
+      "difficult",
+      "effort",
+      "project",
+      "adjective",
+      "arduous"
+    ]
+  },
+  {
+    id: "ascribe",
+    word: "Ascribe",
+    partOfSpeech: "verb",
+    href: "./ascribe.html",
+    order: 376,
+    cefr: "C2",
+    zipf: 2.58,
+    thesis: "不是只描述現象，而是把它歸到某個原因、來源或動機上。",
+    tags: [
+      "歸因到來源",
+      "往上游找原因",
+      "attribute",
+      "cause",
+      "analysis",
+      "verb",
+      "ascribe"
+    ]
+  },
+  {
+    id: "assail",
+    word: "Assail",
+    partOfSpeech: "verb",
+    href: "./assail.html",
+    order: 377,
+    cefr: "C2",
+    zipf: 2.69,
+    thesis: "不是普通批評，而是成串地從各方向打過來。",
+    tags: [
+      "猛烈抨擊",
+      "從各方向打來",
+      "attack",
+      "criticism",
+      "pressure",
+      "verb",
+      "assail"
+    ]
+  },
+  {
+    id: "atone",
+    word: "Atone",
+    partOfSpeech: "verb",
+    href: "./atone.html",
+    order: 378,
+    cefr: "C2",
+    zipf: 2.55,
+    thesis: "不是說對不起就算，而是用後續行動把失衡慢慢補回來。",
+    tags: [
+      "彌補過錯",
+      "用行動補回",
+      "apologize",
+      "repair",
+      "ethics",
+      "verb",
+      "atone"
+    ]
+  },
+  {
+    id: "attrition",
+    word: "Attrition",
+    partOfSpeech: "noun",
+    href: "./attrition.html",
+    order: 379,
+    cefr: "C1",
+    zipf: 2.88,
+    thesis: "不是突然崩掉，而是每天磨一點、少一點，最後整體變薄。",
+    tags: [
+      "逐步磨損",
+      "每天少一點",
+      "decline",
+      "retention",
+      "wear",
+      "noun",
+      "attrition"
+    ]
+  },
+  {
+    id: "auspicious",
+    word: "Auspicious",
+    partOfSpeech: "adjective",
+    href: "./auspicious.html",
+    order: 380,
+    cefr: "C2",
+    zipf: 2.48,
+    thesis: "不是已經成功，而是一開場就讓人覺得這是好兆頭。",
+    tags: [
+      "好兆頭",
+      "一開場就順",
+      "promising",
+      "start",
+      "sign",
+      "adjective",
+      "auspicious"
+    ]
+  },
+  {
+    id: "avail",
+    word: "Avail",
+    partOfSpeech: "verb",
+    href: "./avail.html",
+    order: 381,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是理論上有幫助，而是真的足以讓結果不一樣。",
+    tags: [
+      "實際起作用",
+      "真的幫上忙",
+      "help",
+      "effort",
+      "resources",
+      "verb",
+      "avail"
+    ]
+  },
+  {
+    id: "avid",
+    word: "Avid",
+    partOfSpeech: "adjective",
+    href: "./avid.html",
+    order: 382,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是有興趣而已，而是會主動追著資訊、活動或機會跑。",
+    tags: [
+      "熱衷渴求",
+      "主動追著跑",
+      "interested",
+      "learning",
+      "interest",
+      "adjective",
+      "avid"
+    ]
+  },
+  {
+    id: "banal",
+    word: "Banal",
+    partOfSpeech: "adjective",
+    href: "./banal.html",
+    order: 383,
+    cefr: "C2",
+    zipf: 2.52,
+    thesis: "不是普通，而是因為講太多次，已經沒有力道也沒有新意。",
+    tags: [
+      "陳腔濫調",
+      "講太多失去力道",
+      "common",
+      "writing",
+      "creativity",
+      "adjective",
+      "banal"
+    ]
+  },
+  {
+    id: "barrage",
+    word: "Barrage",
+    partOfSpeech: "noun",
+    href: "./barrage.html",
+    order: 384,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是零星幾下，而是一整排密集地同時打過來。",
+    tags: [
+      "密集轟炸",
+      "一整排打來",
+      "stream",
+      "questions",
+      "media",
+      "noun",
+      "barrage"
+    ]
+  },
+  {
+    id: "belie",
+    word: "Belie",
+    partOfSpeech: "verb",
+    href: "./belie.html",
+    order: 385,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是直接說謊，而是表面看起來像 A，實際卻是 B。",
+    tags: [
+      "表象騙人",
+      "平靜底下有暗流",
+      "hide",
+      "appearance",
+      "data",
+      "verb",
+      "belie"
+    ]
+  },
+  {
+    id: "bereft",
+    word: "Bereft",
+    partOfSpeech: "adjective",
+    href: "./bereft.html",
+    order: 386,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是短暫沒有，而是失去了原本很重要的依靠。",
+    tags: [
+      "失去依靠",
+      "那盞燈忽然熄掉",
+      "deprived",
+      "loss",
+      "support",
+      "adjective",
+      "bereft"
+    ]
+  },
+  {
+    id: "blatant",
+    word: "Blatant",
+    partOfSpeech: "adjective",
+    href: "./blatant.html",
+    order: 387,
+    cefr: "C1",
+    zipf: 3.07,
+    thesis: "不是看得出來而已，而是明顯到近乎不把規則放在眼裡。",
+    tags: [
+      "公然明顯",
+      "根本不打算藏",
+      "obvious",
+      "bias",
+      "quality",
+      "adjective",
+      "blatant"
+    ]
+  },
+  {
+    id: "blithe",
+    word: "Blithe",
+    partOfSpeech: "adjective",
+    href: "./blithe.html",
+    order: 388,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是自在，而是有點太不在乎後果。",
+    tags: [
+      "輕率不在乎",
+      "站在邊緣還吹口哨",
+      "carefree",
+      "risk",
+      "attitude",
+      "adjective",
+      "blithe"
+    ]
+  },
+  {
+    id: "brazen",
+    word: "Brazen",
+    partOfSpeech: "adjective",
+    href: "./brazen.html",
+    order: 389,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是勇敢，而是明知道會被罵，還是大剌剌地做給你看。",
+    tags: [
+      "厚顏公然",
+      "被看著也照做",
+      "bold",
+      "conflict",
+      "criticism",
+      "adjective",
+      "brazen"
+    ]
+  },
+  {
+    id: "brevity",
+    word: "Brevity",
+    partOfSpeech: "noun",
+    href: "./brevity.html",
+    order: 390,
+    cefr: "C1",
+    zipf: 2.72,
+    thesis: "不是少講而已，而是把必要內容壓得短卻不失核心。",
+    tags: [
+      "短小精煉",
+      "只留必要刀鋒",
+      "conciseness",
+      "writing",
+      "clarity",
+      "noun",
+      "brevity"
+    ]
+  },
+  {
+    id: "broach",
+    word: "Broach",
+    partOfSpeech: "verb",
+    href: "./broach.html",
+    order: 391,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是隨口提一下，而是小心把某個敏感話題推到桌面上。",
+    tags: [
+      "開敏感話題",
+      "把盒蓋掀開一角",
+      "mention",
+      "conversation",
+      "feedback",
+      "verb",
+      "broach"
+    ]
+  },
+  {
+    id: "brood",
+    word: "Brood",
+    partOfSpeech: "verb",
+    href: "./brood.html",
+    order: 392,
+    cefr: "C1",
+    zipf: 3.06,
+    thesis: "不是想一下就過，而是反覆把同一件事含在心裡，越想越沉。",
+    tags: [
+      "悶著反覆想",
+      "越想越沉",
+      "worry",
+      "emotion",
+      "reflection",
+      "verb",
+      "brood"
+    ]
+  },
+  {
+    id: "brusque",
+    word: "Brusque",
+    partOfSpeech: "adjective",
+    href: "./brusque.html",
+    order: 393,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是有效率而已，而是快得幾乎不留情面。",
+    tags: [
+      "生硬短促",
+      "門只開一道縫",
+      "blunt",
+      "communication",
+      "impression",
+      "adjective",
+      "brusque"
+    ]
+  },
+  {
+    id: "bungle",
+    word: "Bungle",
+    partOfSpeech: "verb",
+    href: "./bungle.html",
+    order: 394,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是單純失敗，而是因為處理笨拙，把事情越弄越亂。",
+    tags: [
+      "拙劣搞砸",
+      "越弄越亂",
+      "fumble",
+      "execution",
+      "repair",
+      "verb",
+      "bungle"
+    ]
+  },
+  {
+    id: "burgeon",
+    word: "Burgeon",
+    partOfSpeech: "verb",
+    href: "./burgeon.html",
+    order: 395,
+    cefr: "C2",
+    zipf: 2.61,
+    thesis: "不是穩穩增加，而是像一口氣冒出很多新枝節。",
+    tags: [
+      "迅速萌發",
+      "枝頭一口氣爆開",
+      "expand",
+      "growth",
+      "interest",
+      "verb",
+      "burgeon"
+    ]
+  },
+  {
+    id: "byzantine",
+    word: "Byzantine",
+    partOfSpeech: "adjective",
+    href: "./byzantine.html",
+    order: 396,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是複雜而已，而是彎來彎去，規則像迷宮一樣。",
+    tags: [
+      "迷宮式繁複",
+      "每個轉角還藏規則",
+      "complex",
+      "process",
+      "systems",
+      "adjective",
+      "byzantine"
+    ]
+  },
+  {
+    id: "cajole",
+    word: "Cajole",
+    partOfSpeech: "verb",
+    href: "./cajole.html",
+    order: 397,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是硬逼，而是半哄半推，把對方慢慢帶到你要的方向。",
+    tags: [
+      "半哄半推",
+      "把抽屜慢慢晃開",
+      "persuade",
+      "negotiation",
+      "teamwork",
+      "verb",
+      "cajole"
+    ]
+  },
+  {
+    id: "canvass",
+    word: "Canvass",
+    partOfSpeech: "verb",
+    href: "./canvass.html",
+    order: 398,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是坐著等回覆，而是主動一個一個去摸清意見。",
+    tags: [
+      "逐一徵詢",
+      "一戶一戶敲門",
+      "survey",
+      "interviews",
+      "election",
+      "verb",
+      "canvass"
+    ]
+  },
+  {
+    id: "capitulate",
+    word: "Capitulate",
+    partOfSpeech: "verb",
+    href: "./capitulate.html",
+    order: 399,
+    cefr: "C2",
+    zipf: 2.55,
+    thesis: "不是爽快讓步，而是撐了一段之後終於放棄抵抗。",
+    tags: [
+      "撐到最後放棄",
+      "堤防終究被蓋過",
+      "yield",
+      "pressure",
+      "conflict",
+      "verb",
+      "capitulate"
+    ]
+  },
+  {
+    id: "cede",
+    word: "Cede",
+    partOfSpeech: "verb",
+    href: "./cede.html",
+    order: 400,
+    cefr: "C2",
+    zipf: 2.63,
+    thesis: "不是暫借，而是把原本屬於自己的控制權正式交出去。",
+    tags: [
+      "正式讓出",
+      "整串鑰匙交出去",
+      "give",
+      "power",
+      "control",
+      "verb",
+      "cede"
+    ]
+  },
+  {
+    id: "censure",
+    word: "Censure",
+    partOfSpeech: "verb",
+    href: "./censure.html",
+    order: 401,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是私下念兩句，而是公開而且帶有權威地譴責。",
+    tags: [
+      "正式譴責",
+      "紅筆蓋在正中央",
+      "criticize",
+      "governance",
+      "ethics",
+      "verb",
+      "censure"
+    ]
+  },
+  {
+    id: "cerebral",
+    word: "Cerebral",
+    partOfSpeech: "adjective",
+    href: "./cerebral.html",
+    order: 402,
+    cefr: "C2",
+    zipf: 2.71,
+    thesis: "不是冷冰冰，而是重心在推理、概念和腦中的結構。",
+    tags: [
+      "偏思辨",
+      "桌上排滿圖表",
+      "intellectual",
+      "analysis",
+      "style",
+      "adjective",
+      "cerebral"
+    ]
+  },
+  {
+    id: "chafe",
+    word: "Chafe",
+    partOfSpeech: "verb",
+    href: "./chafe.html",
+    order: 403,
+    cefr: "C1",
+    zipf: 2.59,
+    thesis: "不是一次刺到，而是反覆摩擦，久了就又痛又煩。",
+    tags: [
+      "反覆摩擦",
+      "越走越痛越煩",
+      "irritate",
+      "friction",
+      "frustration",
+      "verb",
+      "chafe"
+    ]
+  },
+  {
+    id: "chastise",
+    word: "Chastise",
+    partOfSpeech: "verb",
+    href: "./chastise.html",
+    order: 404,
+    cefr: "C2",
+    zipf: 2.57,
+    thesis: "不是普通提醒，而是帶著責備力道地糾正。",
+    tags: [
+      "嚴厲糾正",
+      "尺敲桌面拉界線",
+      "rebuke",
+      "discipline",
+      "feedback",
+      "verb",
+      "chastise"
+    ]
+  },
+  {
+    id: "condone",
+    word: "Condone",
+    partOfSpeech: "verb",
+    href: "./condone.html",
+    order: 405,
+    cefr: "C2",
+    zipf: 2.62,
+    thesis: "不是喜歡，而是明知道有問題卻選擇不阻止。",
+    tags: [
+      "明知有問題卻放過",
+      "拿布蓋住裂縫",
+      "excuse",
+      "ethics",
+      "behavior",
+      "verb",
+      "condone"
+    ]
+  },
+  {
+    id: "construe",
+    word: "Construe",
+    partOfSpeech: "verb",
+    href: "./construe.html",
+    order: 406,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是單純看見，而是把它讀成某一種意思。",
+    tags: [
+      "讀成某種意思",
+      "陰影決定情緒",
+      "interpret",
+      "meaning",
+      "law",
+      "verb",
+      "construe"
+    ]
+  },
+  {
+    id: "contravene",
+    word: "Contravene",
+    partOfSpeech: "verb",
+    href: "./contravene.html",
+    order: 407,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是不小心偏掉，而是直接和既定規範相抵觸。",
+    tags: [
+      "與規則相抵觸",
+      "箭頭往右卻硬扳左",
+      "violate",
+      "law",
+      "policy",
+      "verb",
+      "contravene"
+    ]
+  },
+  {
+    id: "contrition",
+    word: "Contrition",
+    partOfSpeech: "noun",
+    href: "./contrition.html",
+    order: 408,
+    cefr: "C2",
+    zipf: 2.44,
+    thesis: "不是嘴上說抱歉，而是心裡真的被自己的錯刺到。",
+    tags: [
+      "真誠悔意",
+      "手碰到自己打碎的碎片",
+      "regret",
+      "apology",
+      "ethics",
+      "noun",
+      "contrition"
+    ]
+  },
+  {
+    id: "covet",
+    word: "Covet",
+    partOfSpeech: "verb",
+    href: "./covet.html",
+    order: 409,
+    cefr: "C2",
+    zipf: 2.53,
+    thesis: "不是普通想要，而是盯上了別人已經擁有的東西。",
+    tags: [
+      "覬覦別人的",
+      "視線黏在那把鑰匙上",
+      "want",
+      "desire",
+      "competition",
+      "verb",
+      "covet"
+    ]
+  },
+  {
+    id: "cower",
+    word: "Cower",
+    partOfSpeech: "verb",
+    href: "./cower.html",
+    order: 410,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是單純躲，而是整個人因害怕而縮起來。",
+    tags: [
+      "因害怕縮起來",
+      "連呼吸都變小聲",
+      "hide",
+      "fear",
+      "power",
+      "verb",
+      "cower"
+    ]
+  },
+  {
+    id: "cursory",
+    word: "Cursory",
+    partOfSpeech: "adjective",
+    href: "./cursory.html",
+    order: 411,
+    cefr: "C1",
+    zipf: 2.64,
+    thesis: "不是精簡，而是快到只擦過表面。",
+    tags: [
+      "草率粗略",
+      "只從門口掃過一下",
+      "superficial",
+      "review",
+      "inspection",
+      "adjective",
+      "cursory"
+    ]
+  },
+  {
+    id: "cynical",
+    word: "Cynical",
+    partOfSpeech: "adjective",
+    href: "./cynical.html",
+    order: 412,
+    cefr: "C1",
+    zipf: 3.08,
+    thesis: "不是保留懷疑，而是先假定背後多半沒有那麼好。",
+    tags: [
+      "先假定沒那麼好",
+      "收到禮物先猜你想換什麼",
+      "skeptical",
+      "trust",
+      "politics",
+      "adjective",
+      "cynical"
+    ]
+  },
+  {
+    id: "daunt",
+    word: "Daunt",
+    partOfSpeech: "verb",
+    href: "./daunt.html",
+    order: 413,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是直接打倒，而是先把勇氣往下壓。",
+    tags: [
+      "先把勇氣壓下去",
+      "抬頭就覺得腿軟",
+      "intimidate",
+      "challenge",
+      "scale",
+      "verb",
+      "daunt"
+    ]
+  },
+  {
+    id: "debase",
+    word: "Debase",
+    partOfSpeech: "verb",
+    href: "./debase.html",
+    order: 414,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是單純降低，而是把原本有分量的東西拉得更廉價或更低俗。",
+    tags: [
+      "拉低價值",
+      "純金裡摻太多雜質",
+      "degrade",
+      "value",
+      "ethics",
+      "verb",
+      "debase"
+    ]
+  },
+  {
+    id: "debilitate",
+    word: "Debilitate",
+    partOfSpeech: "verb",
+    href: "./debilitate.html",
+    order: 415,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是累而已，而是弱到原本能做的事開始做不動。",
+    tags: [
+      "弱到影響功能",
+      "電池掉到開機都吃力",
+      "weaken",
+      "health",
+      "systems",
+      "verb",
+      "debilitate"
+    ]
+  },
+  {
+    id: "debunk",
+    word: "Debunk",
+    partOfSpeech: "verb",
+    href: "./debunk.html",
+    order: 416,
+    cefr: "C1",
+    zipf: 2.79,
+    thesis: "不是單純不同意，而是把它拆到大家看見原來站不住。",
+    tags: [
+      "揭穿站不住",
+      "拉開布幕只剩紙板",
+      "disprove",
+      "myth",
+      "fact-checking",
+      "verb",
+      "debunk"
+    ]
+  },
+  {
+    id: "decadent",
+    word: "Decadent",
+    partOfSpeech: "adjective",
+    href: "./decadent.html",
+    order: 417,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是精緻享受而已，而是過度華麗到有點腐敗。",
+    tags: [
+      "奢靡到過量",
+      "奶油堆到太多",
+      "luxury",
+      "culture",
+      "style",
+      "adjective",
+      "decadent"
+    ]
+  },
+  {
+    id: "defiant",
+    word: "Defiant",
+    partOfSpeech: "adjective",
+    href: "./defiant.html",
+    order: 418,
+    cefr: "C1",
+    zipf: 2.91,
+    thesis: "不是低調不服，而是把不服寫在表情和動作上。",
+    tags: [
+      "公開不服",
+      "旗子往反方向張開",
+      "stubborn",
+      "resistance",
+      "authority",
+      "adjective",
+      "defiant"
+    ]
+  },
+  {
+    id: "denounce",
+    word: "Denounce",
+    partOfSpeech: "verb",
+    href: "./denounce.html",
+    order: 419,
+    cefr: "C1",
+    zipf: 2.93,
+    thesis: "不是私下抱怨，而是站出來明白說這件事不行。",
+    tags: [
+      "公開斥責",
+      "把警報器按下去",
+      "condemn",
+      "public",
+      "ethics",
+      "verb",
+      "denounce"
+    ]
+  },
+  {
+    id: "deprecate",
+    word: "Deprecate",
+    partOfSpeech: "verb",
+    href: "./deprecate.html",
+    order: 420,
+    cefr: "C2",
+    zipf: 2.38,
+    thesis: "不是隨便嫌，而是認為它不該再被鼓勵或使用。",
+    tags: [
+      "表達不贊成",
+      "裂橋前掛警示牌",
+      "criticize",
+      "maintenance",
+      "ethics",
+      "verb",
+      "deprecate"
+    ]
+  },
+  {
+    id: "deride",
+    word: "Deride",
+    partOfSpeech: "verb",
+    href: "./deride.html",
+    order: 421,
+    cefr: "C2",
+    zipf: 2.54,
+    thesis: "不是開玩笑，而是把對方當成值得被看低的對象。",
+    tags: [
+      "輕蔑嘲弄",
+      "帶刺的笑聲先出來",
+      "mock",
+      "contempt",
+      "conflict",
+      "verb",
+      "deride"
+    ]
+  },
+  {
+    id: "desist",
+    word: "Desist",
+    partOfSpeech: "verb",
+    href: "./desist.html",
+    order: 422,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是自然結束，而是明確收手。",
+    tags: [
+      "明確收手",
+      "按下前把手停住",
+      "stop",
+      "warning",
+      "restraint",
+      "verb",
+      "desist"
+    ]
+  },
+  {
+    id: "desolate",
+    word: "Desolate",
+    partOfSpeech: "adjective",
+    href: "./desolate.html",
+    order: 423,
+    cefr: "C1",
+    zipf: 2.82,
+    thesis: "不是安靜，而是安靜到只剩荒涼。",
+    tags: [
+      "荒涼空掉",
+      "風穿過空屋",
+      "lonely",
+      "landscape",
+      "emotion",
+      "adjective",
+      "desolate"
+    ]
+  },
+  {
+    id: "dissipate",
+    word: "Dissipate",
+    partOfSpeech: "verb",
+    href: "./dissipate.html",
+    order: 424,
+    cefr: "C1",
+    zipf: 2.92,
+    thesis: "不是瞬間消失，而是慢慢散開、散淡。",
+    tags: [
+      "慢慢散開",
+      "日光把霧一層層推薄",
+      "disperse",
+      "heat",
+      "tension",
+      "verb",
+      "dissipate"
+    ]
+  },
+  {
+    id: "divest",
+    word: "Divest",
+    partOfSpeech: "verb",
+    href: "./divest.html",
+    order: 425,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是丟掉，而是有計畫地把持有的東西卸出去。",
+    tags: [
+      "有計畫卸出去",
+      "修掉過重枝條",
+      "sell",
+      "assets",
+      "restructuring",
+      "verb",
+      "divest"
+    ]
+  },
+  {
+    id: "dogged",
+    word: "Dogged",
+    partOfSpeech: "adjective",
+    href: "./dogged.html",
+    order: 426,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是熱血一陣，而是被擋住很多次還繼續往前鑽。",
+    tags: [
+      "頑強不放棄",
+      "鞋重了步子還沒停",
+      "determined",
+      "persistence",
+      "effort",
+      "adjective",
+      "dogged"
+    ]
+  },
+  {
+    id: "dovetail",
+    word: "Dovetail",
+    partOfSpeech: "verb",
+    href: "./dovetail.html",
+    order: 427,
+    cefr: "C1",
+    zipf: 2.51,
+    thesis: "不是碰巧相近，而是像本來就設計成能扣在一起。",
+    tags: [
+      "自然扣合",
+      "像榫接一推就卡住",
+      "match",
+      "integration",
+      "scheduling",
+      "verb",
+      "dovetail"
+    ]
+  },
+  {
+    id: "drastic",
+    word: "Drastic",
+    partOfSpeech: "adjective",
+    href: "./drastic.html",
+    order: 428,
+    cefr: "C1",
+    zipf: 3.14,
+    thesis: "不是大動作而已，而是會把整個局面一下拉到另一邊。",
+    tags: [
+      "劇烈改變",
+      "直接把桿子扳到底",
+      "severe",
+      "change",
+      "crisis",
+      "adjective",
+      "drastic"
+    ]
+  },
+  {
+    id: "ebb",
+    word: "Ebb",
+    partOfSpeech: "verb",
+    href: "./ebb.html",
+    order: 429,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是啪地消失，而是慢慢往後退，露出原本被蓋住的地方。",
+    tags: [
+      "逐漸退去",
+      "石頭慢慢重新露出",
+      "fade",
+      "energy",
+      "tide",
+      "verb",
+      "ebb"
+    ]
+  },
+  {
+    id: "efface",
+    word: "Efface",
+    partOfSpeech: "verb",
+    href: "./efface.html",
+    order: 430,
+    cefr: "C2",
+    zipf: 2.31,
+    thesis: "不是遮一下，而是把痕跡盡量抹到看不見。",
+    tags: [
+      "抹去痕跡",
+      "腳印被海水洗平",
+      "erase",
+      "trace",
+      "cleanup",
+      "verb",
+      "efface"
+    ]
+  },
+  {
+    id: "elapse",
+    word: "Elapse",
+    partOfSpeech: "verb",
+    href: "./elapse.html",
+    order: 431,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是做了什麼，而是時間自己默默走過去。",
+    tags: [
+      "時間流逝",
+      "沙漏自己穩穩往下掉",
+      "pass",
+      "time",
+      "process",
+      "verb",
+      "elapse"
+    ]
+  },
+  {
+    id: "elucidate",
+    word: "Elucidate",
+    partOfSpeech: "verb",
+    href: "./elucidate.html",
+    order: 432,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是只丟答案，而是把原本混霧的地方一層層照亮。",
+    tags: [
+      "層層講清楚",
+      "把霧裡路標擦乾淨",
+      "clarify",
+      "teaching",
+      "research",
+      "verb",
+      "elucidate"
+    ]
+  },
+  {
+    id: "emanate",
+    word: "Emanate",
+    partOfSpeech: "verb",
+    href: "./emanate.html",
+    order: 433,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是突然掉下來，而是從某個中心往外散出去。",
+    tags: [
+      "從源頭散出",
+      "亮意慢慢推開四周",
+      "radiate",
+      "source",
+      "atmosphere",
+      "verb",
+      "emanate"
+    ]
+  },
+  {
+    id: "embitter",
+    word: "Embitter",
+    partOfSpeech: "verb",
+    href: "./embitter.html",
+    order: 434,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是只讓人難過，而是讓心裡整體變苦。",
+    tags: [
+      "讓心裡變苦",
+      "整杯茶都苦掉了",
+      "upset",
+      "resentment",
+      "relationships",
+      "verb",
+      "embitter"
+    ]
+  },
+  {
+    id: "embellish",
+    word: "Embellish",
+    partOfSpeech: "verb",
+    href: "./embellish.html",
+    order: 435,
+    cefr: "C1",
+    zipf: 2.69,
+    thesis: "不是補必要資訊，而是再多加一些裝飾或戲劇性。",
+    tags: [
+      "額外加花",
+      "素布上縫亮線",
+      "decorate",
+      "writing",
+      "design",
+      "verb",
+      "embellish"
+    ]
+  },
+  {
+    id: "enact",
+    word: "Enact",
+    partOfSpeech: "verb",
+    href: "./enact.html",
+    order: 436,
+    cefr: "C1",
+    zipf: 3.01,
+    thesis: "不是只提案，而是把文字真正變成現實中的效力。",
+    tags: [
+      "讓文字生效",
+      "藍圖變成路牌",
+      "implement",
+      "policy",
+      "law",
+      "verb",
+      "enact"
+    ]
+  },
+  {
+    id: "endeavor",
+    word: "Endeavor",
+    partOfSpeech: "noun",
+    href: "./endeavor.html",
+    order: 437,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是隨手試試，而是帶著目的和投入往前推的一件事。",
+    tags: [
+      "有方向的努力",
+      "明知有浪還穩穩划",
+      "effort",
+      "project",
+      "pursuit",
+      "noun",
+      "endeavor"
+    ]
+  },
+  {
+    id: "enigma",
+    word: "Enigma",
+    partOfSpeech: "noun",
+    href: "./enigma.html",
+    order: 438,
+    cefr: "C2",
+    zipf: 2.66,
+    thesis: "不是一個小問題，而是整體都透著解不開的感覺。",
+    tags: [
+      "難解之謎",
+      "看見輪廓卻看不清臉",
+      "mystery",
+      "analysis",
+      "persona",
+      "noun",
+      "enigma"
+    ]
+  },
+  {
+    id: "ennui",
+    word: "Ennui",
+    partOfSpeech: "noun",
+    href: "./ennui.html",
+    order: 439,
+    cefr: "C2",
+    zipf: 2.31,
+    thesis: "不是一時無聊，而是整個人對周圍失去鮮味。",
+    tags: [
+      "深層倦怠",
+      "味覺像被薄霧蓋住",
+      "boredom",
+      "emotion",
+      "culture",
+      "noun",
+      "ennui"
+    ]
+  },
+  {
+    id: "enshrine",
+    word: "Enshrine",
+    partOfSpeech: "verb",
+    href: "./enshrine.html",
+    order: 440,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是暫時保留，而是把它放進不易被動搖的位置。",
+    tags: [
+      "正式珍藏",
+      "放進玻璃框裡",
+      "preserve",
+      "rights",
+      "memory",
+      "verb",
+      "enshrine"
+    ]
+  },
+  {
+    id: "equivocal",
+    word: "Equivocal",
+    partOfSpeech: "adjective",
+    href: "./equivocal.html",
+    order: 441,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是細膩，而是模稜到你抓不到他到底站哪邊。",
+    tags: [
+      "模稜兩可",
+      "箭頭同時偏左右",
+      "ambiguous",
+      "language",
+      "stance",
+      "adjective",
+      "equivocal"
+    ]
+  },
+  {
+    id: "exacerbate",
+    word: "Exacerbate",
+    partOfSpeech: "verb",
+    href: "./exacerbate.html",
+    order: 442,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是造成新問題，而是把原來就有的痛點再往上推。",
+    tags: [
+      "讓壞的更壞",
+      "傷口被碰到更紅腫",
+      "worsen",
+      "conflict",
+      "symptoms",
+      "verb",
+      "exacerbate"
+    ]
+  },
+  {
+    id: "exalt",
+    word: "Exalt",
+    partOfSpeech: "verb",
+    href: "./exalt.html",
+    order: 443,
+    cefr: "C2",
+    zipf: 2.37,
+    thesis: "不是肯定而已，而是幾乎把它捧到很高的位置。",
+    tags: [
+      "高高捧起",
+      "放上高臺打燈",
+      "praise",
+      "culture",
+      "brand",
+      "verb",
+      "exalt"
+    ]
+  },
+  {
+    id: "exasperate",
+    word: "Exasperate",
+    partOfSpeech: "verb",
+    href: "./exasperate.html",
+    order: 444,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是惹煩而已，而是煩到忍耐層被磨穿。",
+    tags: [
+      "把耐心磨穿",
+      "鬧鐘一直反覆敲",
+      "annoy",
+      "frustration",
+      "delays",
+      "verb",
+      "exasperate"
+    ]
+  },
+  {
+    id: "exonerate",
+    word: "Exonerate",
+    partOfSpeech: "verb",
+    href: "./exonerate.html",
+    order: 445,
+    cefr: "C2",
+    zipf: 2.51,
+    thesis: "不是原諒，而是證明他本來就不該背這個鍋。",
+    tags: [
+      "證明無辜",
+      "把陰影從頭上掀開",
+      "clear",
+      "justice",
+      "responsibility",
+      "verb",
+      "exonerate"
+    ]
+  },
+  {
+    id: "expound",
+    word: "Expound",
+    partOfSpeech: "verb",
+    href: "./expound.html",
+    order: 446,
+    cefr: "C2",
+    zipf: 2.34,
+    thesis: "不是回答一句，而是把整套想法完整展開。",
+    tags: [
+      "完整展開",
+      "把折疊地圖慢慢攤平",
+      "explain",
+      "theory",
+      "teaching",
+      "verb",
+      "expound"
+    ]
+  },
+  {
+    id: "extol",
+    word: "Extol",
+    partOfSpeech: "verb",
+    href: "./extol.html",
+    order: 447,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是簡單稱讚，而是一路把它的好往上堆。",
+    tags: [
+      "盛讚稱頌",
+      "一層層掛上花環",
+      "celebrate",
+      "praise",
+      "marketing",
+      "verb",
+      "extol"
+    ]
+  },
+  {
+    id: "extraneous",
+    word: "Extraneous",
+    partOfSpeech: "adjective",
+    href: "./extraneous.html",
+    order: 448,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是多一點而已，而是多到和核心無關。",
+    tags: [
+      "多餘無關",
+      "機殼裡多塞不接端點的線",
+      "irrelevant",
+      "editing",
+      "noise",
+      "adjective",
+      "extraneous"
+    ]
+  },
+  {
+    id: "exuberant",
+    word: "Exuberant",
+    partOfSpeech: "adjective",
+    href: "./exuberant.html",
+    order: 449,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是開心而已，而是整個人或整個場景都滿到往外溢。",
+    tags: [
+      "活力滿溢",
+      "泡泡滿到還一直冒",
+      "energetic",
+      "style",
+      "mood",
+      "adjective",
+      "exuberant"
+    ]
+  },
+  {
+    id: "feign",
+    word: "Feign",
+    partOfSpeech: "verb",
+    href: "./feign.html",
+    order: 450,
+    cefr: "C2",
+    zipf: 2.54,
+    thesis: "不是真的感受，而是演出來讓人相信。",
+    tags: [
+      "佯裝假裝",
+      "臉上貼了一層臨時表情",
+      "pretend",
+      "emotion",
+      "strategy",
+      "verb",
+      "feign"
+    ]
+  },
+  {
+    id: "fervent",
+    word: "Fervent",
+    partOfSpeech: "adjective",
+    href: "./fervent.html",
+    order: 451,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是熱情一下，而是心裡長時間都燒得很亮。",
+    tags: [
+      "熱烈真摯",
+      "整夜都穩穩發熱",
+      "passionate",
+      "belief",
+      "support",
+      "adjective",
+      "fervent"
+    ]
+  },
+  {
+    id: "foreshadow",
+    word: "Foreshadow",
+    partOfSpeech: "verb",
+    href: "./foreshadow.html",
+    order: 452,
+    cefr: "C1",
+    zipf: 2.62,
+    thesis: "不是直接公布，而是先投下一道影子。",
+    tags: [
+      "先投下影子",
+      "風向先變了",
+      "hint",
+      "narrative",
+      "signals",
+      "verb",
+      "foreshadow"
+    ]
+  },
+  {
+    id: "forfeit",
+    word: "Forfeit",
+    partOfSpeech: "verb",
+    href: "./forfeit.html",
+    order: 453,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是一般失去，而是因為違規、放棄或代價交換而失掉。",
+    tags: [
+      "因代價而喪失",
+      "票被收回去了",
+      "lose",
+      "penalty",
+      "opportunity",
+      "verb",
+      "forfeit"
+    ]
+  },
+  {
+    id: "forsake",
+    word: "Forsake",
+    partOfSpeech: "verb",
+    href: "./forsake.html",
+    order: 454,
+    cefr: "C2",
+    zipf: 2.47,
+    thesis: "不是單純離開，而是離開一個你原本曾經依附或承諾過的東西。",
+    tags: [
+      "背離舊依附",
+      "把舊地圖折起來",
+      "abandon",
+      "change",
+      "principle",
+      "verb",
+      "forsake"
+    ]
+  },
+  {
+    id: "fortify",
+    word: "Fortify",
+    partOfSpeech: "verb",
+    href: "./fortify.html",
+    order: 455,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是修補一下，而是提前把它補到更能撐。",
+    tags: [
+      "提前補強",
+      "暴風前先多釘幾道",
+      "strengthen",
+      "protection",
+      "argument",
+      "verb",
+      "fortify"
+    ]
+  },
+  {
+    id: "fracture",
+    word: "Fracture",
+    partOfSpeech: "verb",
+    href: "./fracture.html",
+    order: 456,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是完全粉碎，而是先裂開，內部連續性被打斷。",
+    tags: [
+      "裂開出痕",
+      "玻璃出現第一道白線",
+      "break",
+      "materials",
+      "relationships",
+      "verb",
+      "fracture"
+    ]
+  },
+  {
+    id: "fray",
+    word: "Fray",
+    partOfSpeech: "verb",
+    href: "./fray.html",
+    order: 457,
+    cefr: "C1",
+    zipf: 2.61,
+    thesis: "不是突然斷，而是邊緣慢慢起毛、失去整齊。",
+    tags: [
+      "邊緣起毛",
+      "繩子先從端點散開",
+      "wear",
+      "stress",
+      "materials",
+      "verb",
+      "fray"
+    ]
+  },
+  {
+    id: "frenetic",
+    word: "Frenetic",
+    partOfSpeech: "adjective",
+    href: "./frenetic.html",
+    order: 458,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是忙而已，而是忙到節奏都快失控。",
+    tags: [
+      "忙到快失控",
+      "齒輪高速咬合不停",
+      "hectic",
+      "pace",
+      "market",
+      "adjective",
+      "frenetic"
+    ]
+  },
+  {
+    id: "futile",
+    word: "Futile",
+    partOfSpeech: "adjective",
+    href: "./futile.html",
+    order: 459,
+    cefr: "C1",
+    zipf: 2.85,
+    thesis: "不是難成功，而是做了也很難改變結果。",
+    tags: [
+      "徒勞無效",
+      "拿小杯子去擋決堤水",
+      "useless",
+      "effort",
+      "strategy",
+      "adjective",
+      "futile"
+    ]
+  },
+  {
+    id: "gamut",
+    word: "Gamut",
+    partOfSpeech: "noun",
+    href: "./gamut.html",
+    order: 460,
+    cefr: "C1",
+    zipf: 2.60,
+    thesis: "不是幾種，而是整條範圍都包進去。",
+    tags: [
+      "完整光譜",
+      "鋼琴鍵一整排都打開",
+      "range",
+      "scope",
+      "services",
+      "noun",
+      "gamut"
+    ]
+  },
+  {
+    id: "glib",
+    word: "Glib",
+    partOfSpeech: "adjective",
+    href: "./glib.html",
+    order: 461,
+    cefr: "C2",
+    zipf: 2.41,
+    thesis: "不是會說，而是說得太順，順到讓人懷疑是不是沒真正想過。",
+    tags: [
+      "流利但空",
+      "桌面太亮反而可疑",
+      "slick",
+      "communication",
+      "sincerity",
+      "adjective",
+      "glib"
+    ]
+  },
+  {
+    id: "gratify",
+    word: "Gratify",
+    partOfSpeech: "verb",
+    href: "./gratify.html",
+    order: 462,
+    cefr: "C1",
+    zipf: 2.65,
+    thesis: "不是只讓人開心，而是剛好滿足那個期待或欲望。",
+    tags: [
+      "帶來滿足",
+      "卡住的鎖終於順開",
+      "please",
+      "satisfaction",
+      "experience",
+      "verb",
+      "gratify"
+    ]
+  },
+  {
+    id: "gregarious",
+    word: "Gregarious",
+    partOfSpeech: "adjective",
+    href: "./gregarious.html",
+    order: 463,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是不怕人，而是從和人互動裡得到能量。",
+    tags: [
+      "天生合群",
+      "進人群就亮起來",
+      "sociable",
+      "personality",
+      "social",
+      "adjective",
+      "gregarious"
+    ]
+  },
+  {
+    id: "gullible",
+    word: "Gullible",
+    partOfSpeech: "adjective",
+    href: "./gullible.html",
+    order: 464,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是善良而已，而是警覺門檻低到容易被帶走。",
+    tags: [
+      "容易輕信",
+      "門鎖還沒裝好就先信了",
+      "naive",
+      "trust",
+      "scam",
+      "adjective",
+      "gullible"
+    ]
+  },
+  {
+    id: "hubris",
+    word: "Hubris",
+    partOfSpeech: "noun",
+    href: "./hubris.html",
+    order: 465,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是自信，而是高到開始看不見自己的限度。",
+    tags: [
+      "傲慢失明",
+      "把雲層當成地面",
+      "arrogance",
+      "power",
+      "tragedy",
+      "noun",
+      "hubris"
+    ]
+  },
+  {
+    id: "illicit",
+    word: "Illicit",
+    partOfSpeech: "adjective",
+    href: "./illicit.html",
+    order: 466,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是偷偷而已，而是本身就不被允許。",
+    tags: [
+      "非法違規",
+      "後門本來就不該開",
+      "illegal",
+      "compliance",
+      "security",
+      "adjective",
+      "illicit"
+    ]
+  },
+  {
+    id: "immutable",
+    word: "Immutable",
+    partOfSpeech: "adjective",
+    href: "./immutable.html",
+    order: 467,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是暫時穩定，而是設定後就不打算再動。",
+    tags: [
+      "不可變更",
+      "刻在石頭上的痕",
+      "fixed",
+      "data",
+      "principle",
+      "adjective",
+      "immutable"
+    ]
+  },
+  {
+    id: "impasse",
+    word: "Impasse",
+    partOfSpeech: "noun",
+    href: "./impasse.html",
+    order: 468,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是慢下來，而是雙方或整件事卡到沒有出口。",
+    tags: [
+      "卡到沒出口",
+      "窄巷裡兩車對住",
+      "deadlock",
+      "negotiation",
+      "blocker",
+      "noun",
+      "impasse"
+    ]
+  },
+  {
+    id: "impede",
+    word: "Impede",
+    partOfSpeech: "verb",
+    href: "./impede.html",
+    order: 469,
+    cefr: "C1",
+    zipf: 2.79,
+    thesis: "不是完全阻止，而是讓前進變得很難。",
+    tags: [
+      "拖慢前進",
+      "鞋底黏到厚泥",
+      "hinder",
+      "progress",
+      "recovery",
+      "verb",
+      "impede"
+    ]
+  },
+  {
+    id: "imperil",
+    word: "Imperil",
+    partOfSpeech: "verb",
+    href: "./imperil.html",
+    order: 470,
+    cefr: "C1",
+    zipf: 2.53,
+    thesis: "不是已經毀掉，而是把它推到危險邊緣。",
+    tags: [
+      "推到危險邊緣",
+      "玻璃杯被移到桌角",
+      "endanger",
+      "safety",
+      "risk",
+      "verb",
+      "imperil"
+    ]
+  },
+  {
+    id: "impinge",
+    word: "Impinge",
+    partOfSpeech: "verb",
+    href: "./impinge.html",
+    order: 471,
+    cefr: "C2",
+    zipf: 2.40,
+    thesis: "不是單純接觸，而是伸進去碰到了原本不該被碰的邊界。",
+    tags: [
+      "壓到別人邊界",
+      "牆長到擋住鄰居的光",
+      "encroach",
+      "privacy",
+      "boundary",
+      "verb",
+      "impinge"
+    ]
+  },
+  {
+    id: "impute",
+    word: "Impute",
+    partOfSpeech: "verb",
+    href: "./impute.html",
+    order: 472,
+    cefr: "C2",
+    zipf: 2.34,
+    thesis: "不是只是看到結果，而是把背後原因算到某人頭上。",
+    tags: [
+      "把原因算到誰頭上",
+      "帳本缺口要追名下",
+      "attribute",
+      "blame",
+      "motive",
+      "verb",
+      "impute"
+    ]
+  },
+  {
+    id: "inane",
+    word: "Inane",
+    partOfSpeech: "adjective",
+    href: "./inane.html",
+    order: 473,
+    cefr: "C2",
+    zipf: 2.35,
+    thesis: "不是簡單，而是空到幾乎沒有內容。",
+    tags: [
+      "空洞無意義",
+      "盒子裡只剩泡棉",
+      "silly",
+      "commentary",
+      "media",
+      "adjective",
+      "inane"
+    ]
+  },
+  {
+    id: "indict",
+    word: "Indict",
+    partOfSpeech: "verb",
+    href: "./indict.html",
+    order: 474,
+    cefr: "C2",
+    zipf: 2.61,
+    thesis: "不是一般指責，而是進入正式程序，準備追究。",
+    tags: [
+      "正式起訴",
+      "檔案被推上審判桌",
+      "charge",
+      "law",
+      "accountability",
+      "verb",
+      "indict"
+    ]
+  },
+  {
+    id: "indignant",
+    word: "Indignant",
+    partOfSpeech: "adjective",
+    href: "./indignant.html",
+    order: 475,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是單純生氣，而是氣裡面帶著被冒犯和不公平感。",
+    tags: [
+      "因不公平而怒",
+      "被壓上一塊不該承受的石頭",
+      "angry",
+      "justice",
+      "response",
+      "adjective",
+      "indignant"
+    ]
+  },
+  {
+    id: "ineffable",
+    word: "Ineffable",
+    partOfSpeech: "adjective",
+    href: "./ineffable.html",
+    order: 476,
+    cefr: "C2",
+    zipf: 2.43,
+    thesis: "不是不知道怎麼說，而是說了也會失掉那個感覺。",
+    tags: [
+      "難以言喻",
+      "越想抓緊越先散開",
+      "unspeakable",
+      "emotion",
+      "art",
+      "adjective",
+      "ineffable"
+    ]
+  },
+  {
+    id: "inert",
+    word: "Inert",
+    partOfSpeech: "adjective",
+    href: "./inert.html",
+    order: 477,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是安靜，而是幾乎完全不動、不起反應。",
+    tags: [
+      "不動不反應",
+      "按下去也不回彈",
+      "inactive",
+      "materials",
+      "response",
+      "adjective",
+      "inert"
+    ]
+  },
+  {
+    id: "infiltrate",
+    word: "Infiltrate",
+    partOfSpeech: "verb",
+    href: "./infiltrate.html",
+    order: 478,
+    cefr: "C1",
+    zipf: 2.81,
+    thesis: "不是正面衝進去，而是從縫裡慢慢滲入。",
+    tags: [
+      "悄悄滲入",
+      "先從細縫一滴滴進來",
+      "invade",
+      "security",
+      "systems",
+      "verb",
+      "infiltrate"
+    ]
+  },
+  {
+    id: "infuse",
+    word: "Infuse",
+    partOfSpeech: "verb",
+    href: "./infuse.html",
+    order: 479,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是塞進一點，而是讓那種氣質整體滲開。",
+    tags: [
+      "注入氣質",
+      "香氣慢慢走滿整杯",
+      "fill",
+      "design",
+      "meaning",
+      "verb",
+      "infuse"
+    ]
+  },
+  {
+    id: "inimical",
+    word: "Inimical",
+    partOfSpeech: "adjective",
+    href: "./inimical.html",
+    order: 480,
+    cefr: "C2",
+    zipf: 2.36,
+    thesis: "不是不配合而已，而是和你的目標本身相沖。",
+    tags: [
+      "本質相沖",
+      "土壤對種子很不友善",
+      "hostile",
+      "conditions",
+      "progress",
+      "adjective",
+      "inimical"
+    ]
+  },
+  {
+    id: "inscrutable",
+    word: "Inscrutable",
+    partOfSpeech: "adjective",
+    href: "./inscrutable.html",
+    order: 481,
+    cefr: "C2",
+    zipf: 2.44,
+    thesis: "不是神秘有趣，而是你怎麼看都看不穿。",
+    tags: [
+      "看不穿",
+      "一扇沒有把手的門",
+      "mysterious",
+      "expression",
+      "behavior",
+      "adjective",
+      "inscrutable"
+    ]
+  },
+  {
+    id: "instigate",
+    word: "Instigate",
+    partOfSpeech: "verb",
+    href: "./instigate.html",
+    order: 482,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是事情自己起來，而是有人在背後把火點著。",
+    tags: [
+      "點起開頭那根火柴",
+      "乾草知道要燒起來",
+      "start",
+      "change",
+      "conflict",
+      "verb",
+      "instigate"
+    ]
+  },
+  {
+    id: "intercede",
+    word: "Intercede",
+    partOfSpeech: "verb",
+    href: "./intercede.html",
+    order: 483,
+    cefr: "C2",
+    zipf: 2.39,
+    thesis: "不是旁觀，而是主動站到中間替某人說話。",
+    tags: [
+      "站到中間求情",
+      "先把快合上的門撐開",
+      "intervene",
+      "mediation",
+      "advocacy",
+      "verb",
+      "intercede"
+    ]
+  },
+  {
+    id: "intermittent",
+    word: "Intermittent",
+    partOfSpeech: "adjective",
+    href: "./intermittent.html",
+    order: 484,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是持續存在，而是一陣一陣地回來。",
+    tags: [
+      "一陣一陣",
+      "雨點敲幾聲又停",
+      "occasional",
+      "signal",
+      "symptoms",
+      "adjective",
+      "intermittent"
+    ]
+  },
+  {
+    id: "inundate",
+    word: "Inundate",
+    partOfSpeech: "verb",
+    href: "./inundate.html",
+    order: 485,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是多一點，而是多到整個空間都被蓋住。",
+    tags: [
+      "大量淹沒",
+      "信件一路溢到地板",
+      "flood",
+      "requests",
+      "disaster",
+      "verb",
+      "inundate"
+    ]
+  },
+  {
+    id: "irate",
+    word: "Irate",
+    partOfSpeech: "adjective",
+    href: "./irate.html",
+    order: 486,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是不高興而已，而是怒氣已經寫在臉上。",
+    tags: [
+      "怒氣外露",
+      "壓力鍋閥門開始尖叫",
+      "angry",
+      "customer",
+      "emotion",
+      "adjective",
+      "irate"
+    ]
+  },
+  {
+    id: "ironclad",
+    word: "Ironclad",
+    partOfSpeech: "adjective",
+    href: "./ironclad.html",
+    order: 487,
+    cefr: "C1",
+    zipf: 2.51,
+    thesis: "不是還不錯，而是硬到幾乎挑不出破口。",
+    tags: [
+      "嚴密無破口",
+      "一層層上鎖找不到縫",
+      "solid",
+      "proof",
+      "contract",
+      "adjective",
+      "ironclad"
+    ]
+  },
+  {
+    id: "jaded",
+    word: "Jaded",
+    partOfSpeech: "adjective",
+    href: "./jaded.html",
+    order: 488,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是累而已，而是看太多、做太多之後感覺變鈍。",
+    tags: [
+      "看多做到麻木",
+      "同一首歌重播太多次",
+      "tired",
+      "burnout",
+      "emotion",
+      "adjective",
+      "jaded"
+    ]
+  },
+  {
+    id: "jarring",
+    word: "Jarring",
+    partOfSpeech: "adjective",
+    href: "./jarring.html",
+    order: 489,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是大聲而已，而是和周圍不搭到讓你整個被拉醒。",
+    tags: [
+      "突兀刺耳",
+      "樂章裡忽然砸進金屬聲",
+      "unsettling",
+      "contrast",
+      "tone",
+      "adjective",
+      "jarring"
+    ]
+  },
+  {
+    id: "laud",
+    word: "Laud",
+    partOfSpeech: "verb",
+    href: "./laud.html",
+    order: 490,
+    cefr: "C1",
+    zipf: 2.47,
+    thesis: "不是輕輕帶過，而是明白把好的地方抬出來講。",
+    tags: [
+      "公開稱讚",
+      "聚光燈特意打上去",
+      "praise",
+      "recognition",
+      "public",
+      "verb",
+      "laud"
+    ]
+  },
+  {
+    id: "lax",
+    word: "Lax",
+    partOfSpeech: "adjective",
+    href: "./lax.html",
+    order: 491,
+    cefr: "C1",
+    zipf: 2.82,
+    thesis: "不是寬鬆友善，而是鬆到該守的邊界也沒守住。",
+    tags: [
+      "鬆到守不住",
+      "圍欄有門卻沒上鎖",
+      "loose",
+      "security",
+      "standards",
+      "adjective",
+      "lax"
+    ]
+  },
+  {
+    id: "liaison",
+    word: "Liaison",
+    partOfSpeech: "noun",
+    href: "./liaison.html",
+    order: 492,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是多一個旁觀者，而是專門負責把兩邊接起來的人或線。",
+    tags: [
+      "兩邊的橋梁",
+      "兩座樓之間架走道",
+      "contact",
+      "coordination",
+      "teams",
+      "noun",
+      "liaison"
+    ]
+  },
+  {
+    id: "lucrative",
+    word: "Lucrative",
+    partOfSpeech: "adjective",
+    href: "./lucrative.html",
+    order: 493,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是有收入，而是回報高到很吸引人。",
+    tags: [
+      "收益豐厚",
+      "水量足到灌滿水塔",
+      "profitable",
+      "career",
+      "market",
+      "adjective",
+      "lucrative"
+    ]
+  },
+  {
+    id: "lull",
+    word: "Lull",
+    partOfSpeech: "noun",
+    href: "./lull.html",
+    order: 494,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是結束，而是先短暫安靜下來。",
+    tags: [
+      "短暫平靜",
+      "浪退半拍下一波又來",
+      "pause",
+      "activity",
+      "timing",
+      "noun",
+      "lull"
+    ]
+  },
+  {
+    id: "lurid",
+    word: "Lurid",
+    partOfSpeech: "adjective",
+    href: "./lurid.html",
+    order: 495,
+    cefr: "C2",
+    zipf: 2.42,
+    thesis: "不是鮮明，而是鮮明到讓人不舒服或覺得被炒作。",
+    tags: [
+      "聳動刺眼",
+      "還沒看懂就先被刺到",
+      "vivid",
+      "media",
+      "visual",
+      "adjective",
+      "lurid"
+    ]
+  },
+  {
+    id: "malign",
+    word: "Malign",
+    partOfSpeech: "verb",
+    href: "./malign.html",
+    order: 496,
+    cefr: "C2",
+    zipf: 2.33,
+    thesis: "不是普通批評，而是惡意地把對方描黑。",
+    tags: [
+      "惡意描黑",
+      "往白牆甩一桶墨",
+      "slander",
+      "reputation",
+      "conflict",
+      "verb",
+      "malign"
+    ]
+  },
+  {
+    id: "meld",
+    word: "Meld",
+    partOfSpeech: "verb",
+    href: "./meld.html",
+    order: 497,
+    cefr: "C1",
+    zipf: 2.39,
+    thesis: "不是堆在一起，而是混到分不太出界線。",
+    tags: [
+      "融合成一體",
+      "顏色在水裡捲成新色",
+      "merge",
+      "integration",
+      "ideas",
+      "verb",
+      "meld"
+    ]
+  },
+  {
+    id: "mire",
+    word: "Mire",
+    partOfSpeech: "verb",
+    href: "./mire.html",
+    order: 498,
+    cefr: "C1",
+    zipf: 2.45,
+    thesis: "不是停一下，而是陷進去後每一步都更難抽身。",
+    tags: [
+      "陷進泥淖",
+      "車輪越轉越深",
+      "trap",
+      "delay",
+      "trouble",
+      "verb",
+      "mire"
+    ]
+  },
+  {
+    id: "modulate",
+    word: "Modulate",
+    partOfSpeech: "verb",
+    href: "./modulate.html",
+    order: 499,
+    cefr: "C1",
+    zipf: 2.52,
+    thesis: "不是切換成另一種，而是細緻地把強弱拉到合適位置。",
+    tags: [
+      "細緻調節",
+      "像轉調光旋鈕",
+      "adjust",
+      "tone",
+      "signal",
+      "verb",
+      "modulate"
+    ]
+  },
+  {
+    id: "mollify",
+    word: "Mollify",
+    partOfSpeech: "verb",
+    href: "./mollify.html",
+    order: 500,
+    cefr: "C2",
+    zipf: 2.38,
+    thesis: "不是完全說服，而是先把火氣往下壓。",
+    tags: [
+      "把火氣壓下去",
+      "熱鍋邊慢慢澆水",
+      "appease",
+      "conflict",
+      "service",
+      "verb",
+      "mollify"
+    ]
   }
 ];
