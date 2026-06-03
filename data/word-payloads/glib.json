@@ -12,73 +12,73 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.41"
     },
-    "coreIdea": "<code>glib</code> 表示油滑、空泛、過度流利而不夠真誠。",
+    "coreIdea": "<code>glib</code> 真正抓住的，不是程度高低，而是整體怎麼被「說得太順，順到讓人懷疑是不是沒真正想過」這個感覺支配。",
     "definition": {
-      "summary": "表示油滑、空泛、過度流利而不夠真誠。",
+      "summary": "表示油滑、空泛、過度流利而不夠真誠。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
       "contrast": {
         "word": "Slick",
-        "note": "<code>slick</code> 多半只是 油滑；<code>glib</code> 則更偏向 smoothly fluent without enough depth or sincerity。"
+        "note": "如果語境只需要比較平的「油滑」，用 <code>Slick</code> 往往就夠了；<code>glib</code> 則會把「說得太順，順到讓人懷疑是不是沒真正想過」講得更明確。"
       },
       "flow": [
-        "先有對象或情境",
-        "它呈現 smoothly fluent without enough depth or sincerity 的狀態",
-        "因此語氣、判斷或效果被拉向那個方向"
+        "先有一個對象看起來還能用普通形容詞描述",
+        "接著這個字把它往「說得太順，順到讓人懷疑是不是沒真正想過」這種更具體的樣子收緊",
+        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
       ]
     },
     "memory": {
       "hook": "<code>glib</code> 的畫面是：像桌面擦得很亮，卻亮到你懷疑底下是不是沒放真正的東西。",
-      "explanation": "只要你記得這個畫面，下次看到 glib，就不會只把它翻成單薄的中文對應。"
+      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 glib 時，能先抓到「流利但空」這個核心，再回頭讀細節。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>glib answer</code> 這樣的搭配。"
+        "body": "看到 <code>glib answer</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「流利但空」這層氣質壓到前景。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>glib remark</code> 來表達更精確的意思。"
+        "body": "<code>glib remark</code> 放進 評論 / 人際 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
       },
       {
         "label": "延伸版",
-        "body": "評論語氣、面試印象與公共回應 這類場景特別適合放進 <code>glib reassurance</code>，因為那裡常需要描述 smoothly fluent without enough depth or sincerity。"
+        "body": "如果你想把這個字放進 危機 / 回應 的情境，從 <code>glib reassurance</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
       }
     ],
     "collocations": {
-      "note": "Glib 很適合透過固定搭配來抓語感，尤其是你想把 smoothly fluent without enough depth or sincerity 說得更自然時。",
+      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
       "items": [
         {
           "phrase": "glib answer",
           "register": "面試 / 溝通",
-          "note": "這個搭配能把 smoothly fluent without enough depth or sincerity 的語感直接帶出來。"
+          "note": "這個搭配會讓「流利但空」不再停在抽象定義，而是直接貼到具體名詞上。"
         },
         {
           "phrase": "glib remark",
           "register": "評論 / 人際",
-          "note": "放到 評論語氣、面試印象與公共回應 的語境裡，這個搭配特別自然。"
+          "note": "在 評論 / 人際 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
         },
         {
           "phrase": "glib reassurance",
           "register": "危機 / 回應",
-          "note": "這個搭配很適合拿來練 glib 的實際使用邊界。"
+          "note": "如果你想把這個字用穩，從 危機 / 回應 常見的這個搭配進場通常最自然。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示油滑、空泛、過度流利而不夠真誠。",
-        "use": "當你想說的不只是 油滑，而是 smoothly fluent without enough depth or sincerity 這層語感時"
+        "meaning": "流利但空",
+        "use": "當你要強調整體帶著「說得太順，順到讓人懷疑是不是沒真正想過」這種質地，而不只是 油滑 時"
       },
       "others": [
         {
           "word": "Slick",
           "meaning": "油滑",
-          "use": "只想表達 油滑，而不需要 smoothly fluent without enough depth or sincerity 這層細節時"
+          "use": "當句子只需要 油滑 這個中性描述，不必把「說得太順，順到讓人懷疑是不是沒真正想過」這種氣質壓到前景時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>glib</code> 常和 <code>glib answer</code>、<code>glib remark</code>、<code>glib reassurance</code> 這類搭配一起出現。",
-      "放到 評論語氣、面試印象與公共回應 的語境裡，這個字能比一般近義詞更精準地抓住 smoothly fluent without enough depth or sincerity。"
+      "<code>glib</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>glib answer</code>、<code>glib remark</code> 這些搭配，就會讓那種氣質立刻落地。",
+      "如果只說比較平的「油滑」，<code>Slick</code> 也許夠用；但當你需要的是更具體的「說得太順，順到讓人懷疑是不是沒真正想過」，<code>glib</code> 會更準。"
     ],
     "sources": {
       "dictionary": {

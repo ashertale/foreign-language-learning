@@ -12,73 +12,73 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>extraneous</code> 表示外來的、無關的、多餘的。",
+    "coreIdea": "<code>extraneous</code> 用來說某個人、系統或局面帶著「多餘無關」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
     "definition": {
-      "summary": "表示外來的、無關的、多餘的。",
+      "summary": "表示外來的、無關的、多餘的。重點不是程度加強，而是整個對象都帶著「多餘無關」這種質地。",
       "contrast": {
         "word": "Irrelevant",
-        "note": "<code>irrelevant</code> 多半只是 不相關；<code>extraneous</code> 則更偏向 coming from outside what is relevant or needed。"
+        "note": "<code>Irrelevant</code> 可以只是在說「不相關」；換成 <code>extraneous</code>，句子通常是在補上「多餘無關」這層更具體的意思。"
       },
       "flow": [
-        "先有對象或情境",
-        "它呈現 coming from outside what is relevant or needed 的狀態",
-        "因此語氣、判斷或效果被拉向那個方向"
+        "先有一個人、流程、系統或局面",
+        "它在語境裡露出「多餘無關」這種質地",
+        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
       ]
     },
     "memory": {
       "hook": "<code>extraneous</code> 的畫面是：像機殼裡多塞了幾根不接任何端點的線，只會增加雜亂。",
-      "explanation": "只要你記得這個畫面，下次看到 extraneous，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這個畫面有用，因為它把 extraneous 從翻譯拉回場面：你先看到「機殼裡多塞不接端點的線」，再比較容易記住它其實在說「多餘無關」。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>extraneous detail</code> 這樣的搭配。"
+        "body": "<code>extraneous detail</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「不相關」，而是整個對象都帶著「多餘無關」這種質地。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>extraneous variable</code> 來表達更精確的意思。"
+        "body": "在 研究 / 分析 裡，<code>extraneous variable</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
       },
       {
         "label": "延伸版",
-        "body": "文件編輯、系統雜訊與會議聚焦 這類場景特別適合放進 <code>extraneous noise</code>，因為那裡常需要描述 coming from outside what is relevant or needed。"
+        "body": "到了 工程 / 訊號 的場景，<code>extraneous noise</code> 很適合用來練邊界：你要講的到底是一般的「不相關」，還是更具體的「多餘無關」。"
       }
     ],
     "collocations": {
-      "note": "Extraneous 很適合透過固定搭配來抓語感，尤其是你想把 coming from outside what is relevant or needed 說得更自然時。",
+      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
       "items": [
         {
           "phrase": "extraneous detail",
           "register": "寫作 / 編輯",
-          "note": "這個搭配能把 coming from outside what is relevant or needed 的語感直接帶出來。"
+          "note": "這個搭配會讓「多餘無關」不再停在抽象定義，而是直接貼到具體名詞上。"
         },
         {
           "phrase": "extraneous variable",
           "register": "研究 / 分析",
-          "note": "放到 文件編輯、系統雜訊與會議聚焦 的語境裡，這個搭配特別自然。"
+          "note": "在 研究 / 分析 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
         },
         {
           "phrase": "extraneous noise",
           "register": "工程 / 訊號",
-          "note": "這個搭配很適合拿來練 extraneous 的實際使用邊界。"
+          "note": "如果你想把這個字用穩，從 工程 / 訊號 常見的這個搭配進場通常最自然。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示外來的、無關的、多餘的。",
-        "use": "當你想說的不只是 不相關，而是 coming from outside what is relevant or needed 這層語感時"
+        "meaning": "多餘無關",
+        "use": "當你要強調整體帶著「多到和核心無關」這種質地，而不只是 不相關 時"
       },
       "others": [
         {
           "word": "Irrelevant",
           "meaning": "不相關",
-          "use": "只想表達 不相關，而不需要 coming from outside what is relevant or needed 這層細節時"
+          "use": "當句子只需要 不相關 這個中性描述，不必把「多到和核心無關」這種氣質壓到前景時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>extraneous</code> 常和 <code>extraneous detail</code>、<code>extraneous variable</code>、<code>extraneous noise</code> 這類搭配一起出現。",
-      "放到 文件編輯、系統雜訊與會議聚焦 的語境裡，這個字能比一般近義詞更精準地抓住 coming from outside what is relevant or needed。"
+      "現在看到 <code>extraneous</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「多餘無關」這種質地。",
+      "也因此，它和 <code>Irrelevant</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
     ],
     "sources": {
       "dictionary": {

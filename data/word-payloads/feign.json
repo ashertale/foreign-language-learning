@@ -12,73 +12,73 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.54"
     },
-    "coreIdea": "<code>feign</code> 表示假裝、佯裝某種情緒、病痛或興趣。",
+    "coreIdea": "<code>feign</code> 常用在句子需要把動作往「佯裝假裝」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
     "definition": {
-      "summary": "表示假裝、佯裝某種情緒、病痛或興趣。",
+      "summary": "表示假裝、佯裝某種情緒、病痛或興趣。這個字常不是在描述機械動作，而是在說事情怎麼往「佯裝假裝」這個方向走。",
       "contrast": {
         "word": "Pretend",
-        "note": "<code>pretend</code> 多半只是 假裝；<code>feign</code> 則更偏向 pretend a feeling or condition you do not have。"
+        "note": "<code>Pretend</code> 可以只是在說「假裝」；換成 <code>feign</code>，句子通常是在補上「佯裝假裝」這層更具體的意思。"
       },
       "flow": [
-        "先有情況、對象或目標",
-        "用 pretend a feeling or condition you do not have 的方式推進",
-        "結果慢慢變得可見或可感"
+        "先有一個人、做法、關係或局面",
+        "句子接著把動作往「佯裝假裝」這個方向推進",
+        "所以最後留下的，不只是動作完成，還有那個轉向本身"
       ]
     },
     "memory": {
       "hook": "<code>feign</code> 的畫面是：像臉上貼了一層臨時表情，底下真實的神色還藏著。",
-      "explanation": "只要你記得這個畫面，下次看到 feign，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這個畫面有用，因為它把 feign 從翻譯拉回場面：你先看到「臉上貼了一層臨時表情」，再比較容易記住它其實在說「佯裝假裝」。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>feign ignorance</code> 這樣的搭配。"
+        "body": "<code>feign ignorance</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「佯裝假裝」收過去。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>feign surprise</code> 來表達更精確的意思。"
+        "body": "在 敘事 / 表演 裡，<code>feign surprise</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「演出來讓人相信」。"
       },
       {
         "label": "延伸版",
-        "body": "人際互動、敘事動作與策略應對 這類場景特別適合放進 <code>feign illness</code>，因為那裡常需要描述 pretend a feeling or condition you do not have。"
+        "body": "到了 日常 / 情境 的場景，<code>feign illness</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「假裝」跟更具體的「佯裝假裝」差在哪。"
       }
     ],
     "collocations": {
-      "note": "Feign 很適合透過固定搭配來抓語感，尤其是你想把 pretend a feeling or condition you do not have 說得更自然時。",
+      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
       "items": [
         {
           "phrase": "feign ignorance",
           "register": "人際 / 溝通",
-          "note": "這個搭配能把 pretend a feeling or condition you do not have 的語感直接帶出來。"
+          "note": "這個搭配常出現在需要把事情往「佯裝假裝」講清楚的句子裡。"
         },
         {
           "phrase": "feign surprise",
           "register": "敘事 / 表演",
-          "note": "放到 人際互動、敘事動作與策略應對 的語境裡，這個搭配特別自然。"
+          "note": "放到 敘事 / 表演 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
         },
         {
           "phrase": "feign illness",
           "register": "日常 / 情境",
-          "note": "這個搭配很適合拿來練 feign 的實際使用邊界。"
+          "note": "在 日常 / 情境 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示假裝、佯裝某種情緒、病痛或興趣。",
-        "use": "當你想說的不只是 假裝，而是 pretend a feeling or condition you do not have 這層語感時"
+        "meaning": "佯裝假裝",
+        "use": "當你要把事情說成「演出來讓人相信」而不只是 假裝 時"
       },
       "others": [
         {
           "word": "Pretend",
           "meaning": "假裝",
-          "use": "只想表達 假裝，而不需要 pretend a feeling or condition you do not have 這層細節時"
+          "use": "當句子只需要 假裝 這個動作，不必補上「演出來讓人相信」那層走向時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>feign</code> 常和 <code>feign ignorance</code>、<code>feign surprise</code>、<code>feign illness</code> 這類搭配一起出現。",
-      "放到 人際互動、敘事動作與策略應對 的語境裡，這個字能比一般近義詞更精準地抓住 pretend a feeling or condition you do not have。"
+      "在今天的英文裡，<code>feign</code> 常出現在 <code>feign ignorance</code>、<code>feign surprise</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「佯裝假裝」這個方向收緊。",
+      "如果一句話只想表達比較平的「假裝」，<code>Pretend</code> 往往就夠了；但當語境需要那層更具體的「演出來讓人相信」，<code>feign</code> 會更準。"
     ],
     "sources": {
       "dictionary": {

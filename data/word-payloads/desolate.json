@@ -12,73 +12,73 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.82"
     },
-    "coreIdea": "<code>desolate</code> 表示荒蕪、淒涼，或情感上感到被掏空。",
+    "coreIdea": "<code>desolate</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「荒涼空掉」這層氣質。",
     "definition": {
-      "summary": "表示荒蕪、淒涼，或情感上感到被掏空。",
+      "summary": "表示荒蕪、淒涼，或情感上感到被掏空。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
       "contrast": {
         "word": "Lonely",
-        "note": "<code>lonely</code> 多半只是 孤單；<code>desolate</code> 則更偏向 emptied of life, warmth, or comfort。"
+        "note": "<code>Lonely</code> 比較像基礎說法；<code>desolate</code> 常用來把那層更具體的「荒涼空掉」拉到前景。"
       },
       "flow": [
-        "先有對象或情境",
-        "它呈現 emptied of life, warmth, or comfort 的狀態",
-        "因此語氣、判斷或效果被拉向那個方向"
+        "先有一個場面本身已經帶著某種性格",
+        "這個形容詞把那層「荒涼空掉」清楚地壓到前景",
+        "結果不是多一個修飾，而是整個觀感都被重新定調"
       ]
     },
     "memory": {
       "hook": "<code>desolate</code> 的畫面是：像風穿過空屋，不是沒聲音，而是每一聲都顯得更空。",
-      "explanation": "只要你記得這個畫面，下次看到 desolate，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「安靜到只剩荒涼」看成一個會發生的場面。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>desolate landscape</code> 這樣的搭配。"
+        "body": "與其單背形容詞意思，不如記 <code>desolate landscape</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>feel desolate</code> 來表達更精確的意思。"
+        "body": "在 情緒 / 日常 裡，<code>feel desolate</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
       },
       {
         "label": "延伸版",
-        "body": "風景描寫、失落情緒與災後場景 這類場景特別適合放進 <code>desolate street</code>，因為那裡常需要描述 emptied of life, warmth, or comfort。"
+        "body": "到了 新聞 / 描寫 場景時，<code>desolate street</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
       }
     ],
     "collocations": {
-      "note": "Desolate 很適合透過固定搭配來抓語感，尤其是你想把 emptied of life, warmth, or comfort 說得更自然時。",
+      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
       "items": [
         {
           "phrase": "desolate landscape",
           "register": "敘事 / 場景",
-          "note": "這個搭配能把 emptied of life, warmth, or comfort 的語感直接帶出來。"
+          "note": "這個搭配會讓「荒涼空掉」不再停在抽象定義，而是直接貼到具體名詞上。"
         },
         {
           "phrase": "feel desolate",
           "register": "情緒 / 日常",
-          "note": "放到 風景描寫、失落情緒與災後場景 的語境裡，這個搭配特別自然。"
+          "note": "在 情緒 / 日常 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
         },
         {
           "phrase": "desolate street",
           "register": "新聞 / 描寫",
-          "note": "這個搭配很適合拿來練 desolate 的實際使用邊界。"
+          "note": "如果你想把這個字用穩，從 新聞 / 描寫 常見的這個搭配進場通常最自然。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示荒蕪、淒涼，或情感上感到被掏空。",
-        "use": "當你想說的不只是 孤單，而是 emptied of life, warmth, or comfort 這層語感時"
+        "meaning": "荒涼空掉",
+        "use": "當你要強調整體帶著「安靜到只剩荒涼」這種質地，而不只是 孤單 時"
       },
       "others": [
         {
           "word": "Lonely",
           "meaning": "孤單",
-          "use": "只想表達 孤單，而不需要 emptied of life, warmth, or comfort 這層細節時"
+          "use": "當句子只需要 孤單 這個中性描述，不必把「安靜到只剩荒涼」這種氣質壓到前景時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>desolate</code> 常和 <code>desolate landscape</code>、<code>feel desolate</code>、<code>desolate street</code> 這類搭配一起出現。",
-      "放到 風景描寫、失落情緒與災後場景 的語境裡，這個字能比一般近義詞更精準地抓住 emptied of life, warmth, or comfort。"
+      "現在的 <code>desolate</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「荒涼空掉」這個角度重新看待眼前的對象。",
+      "所以它和 <code>Lonely</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
     ],
     "sources": {
       "dictionary": {

@@ -12,73 +12,73 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.63"
     },
-    "coreIdea": "<code>liaison</code> 表示聯絡人、聯繫角色，或兩方之間的溝通橋梁。",
+    "coreIdea": "<code>liaison</code> 不只是替好壞下評語；它是在替「兩邊的橋梁」這種分量找一個正式的名字。",
     "definition": {
-      "summary": "表示聯絡人、聯繫角色，或兩方之間的溝通橋梁。",
+      "summary": "表示聯絡人、聯繫角色，或兩方之間的溝通橋梁。用到它時，句子通常已經不只是感受描述，而是在點出某個可被談論的對象。",
       "contrast": {
         "word": "Contact",
-        "note": "<code>contact</code> 多半只是 聯絡窗口；<code>liaison</code> 則更偏向 a linking role or channel between groups。"
+        "note": "<code>Contact</code> 比較像基礎說法；<code>liaison</code> 常用來把那層更具體的「兩邊的橋梁」拉到前景。"
       },
       "flow": [
-        "先有情境或觀察",
-        "用這個詞抓住 a linking role or channel between groups 的核心",
-        "讓理解與表達更聚焦"
+        "先有一個場面裡明顯存在的分量",
+        "接著用這個名詞把「兩邊的橋梁」收進語言裡",
+        "結果你讀到的，就不只是評語，而是一個被正式點出的東西"
       ]
     },
     "memory": {
       "hook": "<code>liaison</code> 的畫面是：像兩座樓之間架起一條走道，讓原本各走各的人終於能互通。",
-      "explanation": "只要你記得這個畫面，下次看到 liaison，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「專門負責把兩邊接起來的人或線」看成一個會發生的場面。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>act as liaison</code> 這樣的搭配。"
+        "body": "與其只背名詞對應的中文，不如先記 <code>act as liaison</code> 這個搭配：它會直接示範這個字通常怎麼被點出。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>liaison officer</code> 來表達更精確的意思。"
+        "body": "在 治理 / 組織 的語境裡，<code>liaison officer</code> 常用來把場面裡的「兩邊的橋梁」收成一句能被接住的話。"
       },
       {
         "label": "延伸版",
-        "body": "跨部門合作、客戶對接與專案協調 這類場景特別適合放進 <code>liaison between teams</code>，因為那裡常需要描述 a linking role or channel between groups。"
+        "body": "到了 專案 / 溝通，<code>liaison between teams</code> 會幫你看見：這個字不是修辭，而是把某種分量正式命名。"
       }
     ],
     "collocations": {
-      "note": "Liaison 很適合透過固定搭配來抓語感，尤其是你想把 a linking role or channel between groups 說得更自然時。",
+      "note": "把這些搭配一起看，比單背中文更有用，因為你會知道這個名詞通常在哪裡真正站得住。",
       "items": [
         {
           "phrase": "act as liaison",
           "register": "工作 / 協作",
-          "note": "這個搭配能把 a linking role or channel between groups 的語感直接帶出來。"
+          "note": "放到 工作 / 協作 的場景裡，這個搭配會把「兩邊的橋梁」具體點出來。"
         },
         {
           "phrase": "liaison officer",
           "register": "治理 / 組織",
-          "note": "放到 跨部門合作、客戶對接與專案協調 的語境裡，這個搭配特別自然。"
+          "note": "在 治理 / 組織 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
         },
         {
           "phrase": "liaison between teams",
           "register": "專案 / 溝通",
-          "note": "這個搭配很適合拿來練 liaison 的實際使用邊界。"
+          "note": "到了 專案 / 溝通 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示聯絡人、聯繫角色，或兩方之間的溝通橋梁。",
-        "use": "當你想說的不只是 聯絡窗口，而是 a linking role or channel between groups 這層語感時"
+        "meaning": "兩邊的橋梁",
+        "use": "當你要把「專門負責把兩邊接起來的人或線」當成一個可被點出的東西來說，而不只是 聯絡窗口 時"
       },
       "others": [
         {
           "word": "Contact",
           "meaning": "聯絡窗口",
-          "use": "只想表達 聯絡窗口，而不需要 a linking role or channel between groups 這層細節時"
+          "use": "當句子只需要 聯絡窗口 這個比較平的說法，不必把那份「專門負責把兩邊接起來的人或線」正式點名時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>liaison</code> 常和 <code>act as liaison</code>、<code>liaison officer</code>、<code>liaison between teams</code> 這類搭配一起出現。",
-      "放到 跨部門合作、客戶對接與專案協調 的語境裡，這個字能比一般近義詞更精準地抓住 a linking role or channel between groups。"
+      "現在看到 <code>liaison</code>，可以先看它出現在哪些固定搭配裡。像 <code>act as liaison</code>、<code>liaison officer</code> 都在示範：這個名詞最擅長把某種分量明確命名。",
+      "它和 <code>Contact</code> 的差別，不只在字面，而在句子是否要把那份「專門負責把兩邊接起來的人或線」當成一個可以被接住的東西來說。"
     ],
     "sources": {
       "dictionary": {

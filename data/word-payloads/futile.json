@@ -12,73 +12,73 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.85"
     },
-    "coreIdea": "<code>futile</code> 表示徒勞、無效、白費力氣。",
+    "coreIdea": "<code>futile</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「徒勞無效」這層氣質。",
     "definition": {
-      "summary": "表示徒勞、無效、白費力氣。",
+      "summary": "表示徒勞、無效、白費力氣。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
       "contrast": {
         "word": "Useless",
-        "note": "<code>useless</code> 多半只是 沒用的；<code>futile</code> 則更偏向 incapable of producing the needed result。"
+        "note": "<code>Useless</code> 比較像基礎說法；<code>futile</code> 常用來把那層更具體的「徒勞無效」拉到前景。"
       },
       "flow": [
-        "先有對象或情境",
-        "它呈現 incapable of producing the needed result 的狀態",
-        "因此語氣、判斷或效果被拉向那個方向"
+        "先有一個場面本身已經帶著某種性格",
+        "這個形容詞把那層「徒勞無效」清楚地壓到前景",
+        "結果不是多一個修飾，而是整個觀感都被重新定調"
       ]
     },
     "memory": {
       "hook": "<code>futile</code> 的畫面是：像用小杯子去擋決堤的水，不是你不努力，而是量級根本不對。",
-      "explanation": "只要你記得這個畫面，下次看到 futile，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「做了也很難改變結果」看成一個會發生的場面。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>futile effort</code> 這樣的搭配。"
+        "body": "與其單背形容詞意思，不如記 <code>futile effort</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>futile attempt</code> 來表達更精確的意思。"
+        "body": "在 評論 / 分析 裡，<code>futile attempt</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
       },
       {
         "label": "延伸版",
-        "body": "資源判斷、策略調整與情緒挫敗 這類場景特別適合放進 <code>futile resistance</code>，因為那裡常需要描述 incapable of producing the needed result。"
+        "body": "到了 衝突 / 歷史 場景時，<code>futile resistance</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
       }
     ],
     "collocations": {
-      "note": "Futile 很適合透過固定搭配來抓語感，尤其是你想把 incapable of producing the needed result 說得更自然時。",
+      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
       "items": [
         {
           "phrase": "futile effort",
           "register": "工作 / 執行",
-          "note": "這個搭配能把 incapable of producing the needed result 的語感直接帶出來。"
+          "note": "這個搭配會讓「徒勞無效」不再停在抽象定義，而是直接貼到具體名詞上。"
         },
         {
           "phrase": "futile attempt",
           "register": "評論 / 分析",
-          "note": "放到 資源判斷、策略調整與情緒挫敗 的語境裡，這個搭配特別自然。"
+          "note": "在 評論 / 分析 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
         },
         {
           "phrase": "futile resistance",
           "register": "衝突 / 歷史",
-          "note": "這個搭配很適合拿來練 futile 的實際使用邊界。"
+          "note": "如果你想把這個字用穩，從 衝突 / 歷史 常見的這個搭配進場通常最自然。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示徒勞、無效、白費力氣。",
-        "use": "當你想說的不只是 沒用的，而是 incapable of producing the needed result 這層語感時"
+        "meaning": "徒勞無效",
+        "use": "當你要強調整體帶著「做了也很難改變結果」這種質地，而不只是 沒用的 時"
       },
       "others": [
         {
           "word": "Useless",
           "meaning": "沒用的",
-          "use": "只想表達 沒用的，而不需要 incapable of producing the needed result 這層細節時"
+          "use": "當句子只需要 沒用的 這個中性描述，不必把「做了也很難改變結果」這種氣質壓到前景時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>futile</code> 常和 <code>futile effort</code>、<code>futile attempt</code>、<code>futile resistance</code> 這類搭配一起出現。",
-      "放到 資源判斷、策略調整與情緒挫敗 的語境裡，這個字能比一般近義詞更精準地抓住 incapable of producing the needed result。"
+      "現在的 <code>futile</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「徒勞無效」這個角度重新看待眼前的對象。",
+      "所以它和 <code>Useless</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
     ],
     "sources": {
       "dictionary": {

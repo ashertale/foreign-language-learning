@@ -12,73 +12,73 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.73"
     },
-    "coreIdea": "<code>forfeit</code> 表示喪失權利、金錢、機會或資格。",
+    "coreIdea": "<code>forfeit</code> 的力道，在於它會把動作背後那層「因為違規、放棄或代價交換而失掉」說得更清楚，不讓句子只停在表面的中文對應。",
     "definition": {
-      "summary": "表示喪失權利、金錢、機會或資格。",
+      "summary": "表示喪失權利、金錢、機會或資格。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
       "contrast": {
         "word": "Lose",
-        "note": "<code>lose</code> 多半只是 失去；<code>forfeit</code> 則更偏向 lose something because of a fault or choice。"
+        "note": "<code>Lose</code> 比較像基礎說法；<code>forfeit</code> 常用來把那層更具體的「因代價而喪失」拉到前景。"
       },
       "flow": [
-        "先有情況、對象或目標",
-        "用 lose something because of a fault or choice 的方式推進",
-        "結果慢慢變得可見或可感"
+        "先有一個原本還能用一般動詞帶過的場景",
+        "接著句子選擇用「因代價而喪失」來講它",
+        "結果語感會從平鋪直述，變成更有方向感的描述"
       ]
     },
     "memory": {
       "hook": "<code>forfeit</code> 的畫面是：像手上握著的票不是掉了，而是因為一步走錯被收回去。",
-      "explanation": "只要你記得這個畫面，下次看到 forfeit，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「因為違規、放棄或代價交換而失掉」看成一個會發生的場面。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>forfeit the deposit</code> 這樣的搭配。"
+        "body": "與其背這個動詞的中文，不如記 <code>forfeit the deposit</code>：它會直接告訴你這個字最自然的落點在哪裡。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>forfeit the game</code> 來表達更精確的意思。"
+        "body": "在 競賽 / 規則 裡，<code>forfeit the game</code> 讓句子多出的，不只是資訊，而是那股往「因代價而喪失」推進的語氣。"
       },
       {
         "label": "延伸版",
-        "body": "合約處罰、比賽資格與代價選擇 這類場景特別適合放進 <code>forfeit the chance</code>，因為那裡常需要描述 lose something because of a fault or choice。"
+        "body": "碰到 人生 / 選擇 場景時，<code>forfeit the chance</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
       }
     ],
     "collocations": {
-      "note": "Forfeit 很適合透過固定搭配來抓語感，尤其是你想把 lose something because of a fault or choice 說得更自然時。",
+      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
       "items": [
         {
           "phrase": "forfeit the deposit",
           "register": "財務 / 合約",
-          "note": "這個搭配能把 lose something because of a fault or choice 的語感直接帶出來。"
+          "note": "這個搭配常出現在需要把事情往「因代價而喪失」講清楚的句子裡。"
         },
         {
           "phrase": "forfeit the game",
           "register": "競賽 / 規則",
-          "note": "放到 合約處罰、比賽資格與代價選擇 的語境裡，這個搭配特別自然。"
+          "note": "放到 競賽 / 規則 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
         },
         {
           "phrase": "forfeit the chance",
           "register": "人生 / 選擇",
-          "note": "這個搭配很適合拿來練 forfeit 的實際使用邊界。"
+          "note": "在 人生 / 選擇 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示喪失權利、金錢、機會或資格。",
-        "use": "當你想說的不只是 失去，而是 lose something because of a fault or choice 這層語感時"
+        "meaning": "因代價而喪失",
+        "use": "當你要把事情說成「因為違規、放棄或代價交換而失掉」而不只是 失去 時"
       },
       "others": [
         {
           "word": "Lose",
           "meaning": "失去",
-          "use": "只想表達 失去，而不需要 lose something because of a fault or choice 這層細節時"
+          "use": "當句子只需要 失去 這個動作，不必補上「因為違規、放棄或代價交換而失掉」那層走向時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>forfeit</code> 常和 <code>forfeit the deposit</code>、<code>forfeit the game</code>、<code>forfeit the chance</code> 這類搭配一起出現。",
-      "放到 合約處罰、比賽資格與代價選擇 的語境裡，這個字能比一般近義詞更精準地抓住 lose something because of a fault or choice。"
+      "現在看到 <code>forfeit</code>，可以先看它黏著哪些搭配出現。像 <code>forfeit the deposit</code>、<code>forfeit the game</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
+      "也因此，它不只是 <code>Lose</code> 的華麗版本，而是專門拿來補上「因為違規、放棄或代價交換而失掉」這層語氣。"
     ],
     "sources": {
       "dictionary": {

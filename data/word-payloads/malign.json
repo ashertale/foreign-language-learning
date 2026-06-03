@@ -12,73 +12,73 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.33"
     },
-    "coreIdea": "<code>malign</code> 表示誣衊、中傷、惡意詆毀。",
+    "coreIdea": "<code>malign</code> 的力道，在於它會把動作背後那層「惡意地把對方描黑」說得更清楚，不讓句子只停在表面的中文對應。",
     "definition": {
-      "summary": "表示誣衊、中傷、惡意詆毀。",
+      "summary": "表示誣衊、中傷、惡意詆毀。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
       "contrast": {
         "word": "Slander",
-        "note": "<code>slander</code> 多半只是 毀謗；<code>malign</code> 則更偏向 speak harmful falsehood or contempt about someone。"
+        "note": "<code>Slander</code> 比較像基礎說法；<code>malign</code> 常用來把那層更具體的「惡意描黑」拉到前景。"
       },
       "flow": [
-        "先有情況、對象或目標",
-        "用 speak harmful falsehood or contempt about someone 的方式推進",
-        "結果慢慢變得可見或可感"
+        "先有一個原本還能用一般動詞帶過的場景",
+        "接著句子選擇用「惡意描黑」來講它",
+        "結果語感會從平鋪直述，變成更有方向感的描述"
       ]
     },
     "memory": {
       "hook": "<code>malign</code> 的畫面是：像往白牆上甩一桶墨，不管真假，先讓整面牆看起來髒掉。",
-      "explanation": "只要你記得這個畫面，下次看到 malign，就不會只把它翻成單薄的中文對應。"
+      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「惡意地把對方描黑」看成一個會發生的場面。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>malign a rival</code> 這樣的搭配。"
+        "body": "與其背這個動詞的中文，不如記 <code>malign a rival</code>：它會直接告訴你這個字最自然的落點在哪裡。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>malign the witness</code> 來表達更精確的意思。"
+        "body": "在 法務 / 攻防 裡，<code>malign the witness</code> 讓句子多出的，不只是資訊，而是那股往「惡意描黑」推進的語氣。"
       },
       {
         "label": "延伸版",
-        "body": "名譽攻擊、媒體戰與人際衝突 這類場景特別適合放進 <code>malign the team online</code>，因為那裡常需要描述 speak harmful falsehood or contempt about someone。"
+        "body": "碰到 社群 / 衝突 場景時，<code>malign the team online</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
       }
     ],
     "collocations": {
-      "note": "Malign 很適合透過固定搭配來抓語感，尤其是你想把 speak harmful falsehood or contempt about someone 說得更自然時。",
+      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
       "items": [
         {
           "phrase": "malign a rival",
           "register": "公共 / 競爭",
-          "note": "這個搭配能把 speak harmful falsehood or contempt about someone 的語感直接帶出來。"
+          "note": "這個搭配常出現在需要把事情往「惡意描黑」講清楚的句子裡。"
         },
         {
           "phrase": "malign the witness",
           "register": "法務 / 攻防",
-          "note": "放到 名譽攻擊、媒體戰與人際衝突 的語境裡，這個搭配特別自然。"
+          "note": "放到 法務 / 攻防 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
         },
         {
           "phrase": "malign the team online",
           "register": "社群 / 衝突",
-          "note": "這個搭配很適合拿來練 malign 的實際使用邊界。"
+          "note": "在 社群 / 衝突 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示誣衊、中傷、惡意詆毀。",
-        "use": "當你想說的不只是 毀謗，而是 speak harmful falsehood or contempt about someone 這層語感時"
+        "meaning": "惡意描黑",
+        "use": "當你要把事情說成「惡意地把對方描黑」而不只是 毀謗 時"
       },
       "others": [
         {
           "word": "Slander",
           "meaning": "毀謗",
-          "use": "只想表達 毀謗，而不需要 speak harmful falsehood or contempt about someone 這層細節時"
+          "use": "當句子只需要 毀謗 這個動作，不必補上「惡意地把對方描黑」那層走向時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>malign</code> 常和 <code>malign a rival</code>、<code>malign the witness</code>、<code>malign the team online</code> 這類搭配一起出現。",
-      "放到 名譽攻擊、媒體戰與人際衝突 的語境裡，這個字能比一般近義詞更精準地抓住 speak harmful falsehood or contempt about someone。"
+      "現在看到 <code>malign</code>，可以先看它黏著哪些搭配出現。像 <code>malign a rival</code>、<code>malign the witness</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
+      "也因此，它不只是 <code>Slander</code> 的華麗版本，而是專門拿來補上「惡意地把對方描黑」這層語氣。"
     ],
     "sources": {
       "dictionary": {

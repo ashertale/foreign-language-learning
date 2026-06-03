@@ -12,73 +12,73 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.14"
     },
-    "coreIdea": "<code>drastic</code> 表示激烈、劇烈，帶來顯著而強硬的改變。",
+    "coreIdea": "<code>drastic</code> 真正抓住的，不是程度高低，而是整體怎麼被「會把整個局面一下拉到另一邊」這個感覺支配。",
     "definition": {
-      "summary": "表示激烈、劇烈，帶來顯著而強硬的改變。",
+      "summary": "表示激烈、劇烈，帶來顯著而強硬的改變。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
       "contrast": {
         "word": "Severe",
-        "note": "<code>severe</code> 多半只是 嚴重；<code>drastic</code> 則更偏向 severe enough to change the situation sharply。"
+        "note": "如果語境只需要比較平的「嚴重」，用 <code>Severe</code> 往往就夠了；<code>drastic</code> 則會把「會把整個局面一下拉到另一邊」講得更明確。"
       },
       "flow": [
-        "先有對象或情境",
-        "它呈現 severe enough to change the situation sharply 的狀態",
-        "因此語氣、判斷或效果被拉向那個方向"
+        "先有一個對象看起來還能用普通形容詞描述",
+        "接著這個字把它往「會把整個局面一下拉到另一邊」這種更具體的樣子收緊",
+        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
       ]
     },
     "memory": {
       "hook": "<code>drastic</code> 的畫面是：像不是微調旋鈕，而是直接把整條桿子扳到底。",
-      "explanation": "只要你記得這個畫面，下次看到 drastic，就不會只把它翻成單薄的中文對應。"
+      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 drastic 時，能先抓到「劇烈改變」這個核心，再回頭讀細節。"
     },
     "usage": [
       {
         "label": "日常版",
-        "body": "日常英文裡，你會看到像 <code>drastic measure</code> 這樣的搭配。"
+        "body": "看到 <code>drastic measure</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「劇烈改變」這層氣質壓到前景。"
       },
       {
         "label": "數位 / 專業版",
-        "body": "在專業語境裡，也常會用到 <code>drastic cut</code> 來表達更精確的意思。"
+        "body": "<code>drastic cut</code> 放進 財務 / 成本 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
       },
       {
         "label": "延伸版",
-        "body": "成本控制、政策調整與危機應對 這類場景特別適合放進 <code>drastic change</code>，因為那裡常需要描述 severe enough to change the situation sharply。"
+        "body": "如果你想把這個字放進 生活 / 轉折 的情境，從 <code>drastic change</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
       }
     ],
     "collocations": {
-      "note": "Drastic 很適合透過固定搭配來抓語感，尤其是你想把 severe enough to change the situation sharply 說得更自然時。",
+      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
       "items": [
         {
           "phrase": "drastic measure",
           "register": "管理 / 危機",
-          "note": "這個搭配能把 severe enough to change the situation sharply 的語感直接帶出來。"
+          "note": "這個搭配會讓「劇烈改變」不再停在抽象定義，而是直接貼到具體名詞上。"
         },
         {
           "phrase": "drastic cut",
           "register": "財務 / 成本",
-          "note": "放到 成本控制、政策調整與危機應對 的語境裡，這個搭配特別自然。"
+          "note": "在 財務 / 成本 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
         },
         {
           "phrase": "drastic change",
           "register": "生活 / 轉折",
-          "note": "這個搭配很適合拿來練 drastic 的實際使用邊界。"
+          "note": "如果你想把這個字用穩，從 生活 / 轉折 常見的這個搭配進場通常最自然。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "表示激烈、劇烈，帶來顯著而強硬的改變。",
-        "use": "當你想說的不只是 嚴重，而是 severe enough to change the situation sharply 這層語感時"
+        "meaning": "劇烈改變",
+        "use": "當你要強調整體帶著「會把整個局面一下拉到另一邊」這種質地，而不只是 嚴重 時"
       },
       "others": [
         {
           "word": "Severe",
           "meaning": "嚴重",
-          "use": "只想表達 嚴重，而不需要 severe enough to change the situation sharply 這層細節時"
+          "use": "當句子只需要 嚴重 這個中性描述，不必把「會把整個局面一下拉到另一邊」這種氣質壓到前景時"
         }
       ]
     },
     "modernUse": [
-      "現代英文裡，<code>drastic</code> 常和 <code>drastic measure</code>、<code>drastic cut</code>、<code>drastic change</code> 這類搭配一起出現。",
-      "放到 成本控制、政策調整與危機應對 的語境裡，這個字能比一般近義詞更精準地抓住 severe enough to change the situation sharply。"
+      "<code>drastic</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>drastic measure</code>、<code>drastic cut</code> 這些搭配，就會讓那種氣質立刻落地。",
+      "如果只說比較平的「嚴重」，<code>Severe</code> 也許夠用；但當你需要的是更具體的「會把整個局面一下拉到另一邊」，<code>drastic</code> 會更準。"
     ],
     "sources": {
       "dictionary": {
