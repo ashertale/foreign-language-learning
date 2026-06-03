@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Credible",
+    "slug": "credible",
+    "outputPath": "prototypes/credible.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "KRED-uh-bul · UK /ˈkred.ə.bəl/ · US /ˈkred.ə.bəl/",
+    "hero": {
+      "thesis": "不是聽起來好，而是有足夠理由讓人相信。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.68"
+    },
+    "coreIdea": "<code>credible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「可信的、有證據支撐」。",
+    "definition": {
+      "summary": "形容可信的、有證據支撐的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Plausible",
+        "note": "<code>plausible</code> 是聽起來可能；<code>credible</code> 還要能承受信任。"
+      },
+      "flow": [
+        "說法出現",
+        "證據支撐",
+        "信任成立"
+      ]
+    },
+    "memory": {
+      "hook": "<code>credible</code> 可以先記成一個畫面：說法出現，接著證據支撐，最後信任成立。",
+      "explanation": "這個畫面只用來幫你抓住「可信的、有證據支撐」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "credible root cause 需要能解釋現象，也要能被實驗或資料支持。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>credible</code> 和 <code>credible source</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>credible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「可信的、有證據支撐」落地。",
+      "items": [
+        {
+          "phrase": "credible source",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「可信的、有證據支撐」有明確對象。"
+        },
+        {
+          "phrase": "credible threat",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "credible explanation",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "可信的、有證據支撐的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Plausible",
+          "meaning": "<code>plausible</code> 是聽起來可能；<code>credible</code> 還要能承受信任。",
+          "use": "如果句子只需要 plausible 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>credible</code> 常把一段觀察收斂成可討論的判斷。credible root cause 需要能解釋現象，也要能被實驗或資料支持。",
+      "像 <code>credible source</code>、<code>credible threat</code>、<code>credible explanation</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 credible 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/credible",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 credible 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/credible",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "與 Latin <code>credere</code>「相信」相關；核心就是能不能被信任。",
+      "memoryLens": "記憶時先抓「可信的、有證據支撐的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "credible",
+    "word": "Credible",
+    "partOfSpeech": "adjective",
+    "href": "./credible.html",
+    "thesis": "不是聽起來好，而是有足夠理由讓人相信。",
+    "tags": [
+      "可信",
+      "證據",
+      "plausible",
+      "source",
+      "root cause",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/credible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/credible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/credible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

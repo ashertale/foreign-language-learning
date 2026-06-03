@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Momentum",
+    "slug": "momentum",
+    "outputPath": "prototypes/momentum.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "moh-MEN-tum · UK /məˈmen.təm/ · US /moʊˈmen.t̬əm/",
+    "hero": {
+      "thesis": "不是速度本身，而是事情已經動起來後持續往前的力。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.72"
+    },
+    "coreIdea": "<code>momentum</code> 把「動量、推進力或發展勢頭」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指動量、推進力或發展勢頭。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Speed",
+        "note": "<code>speed</code> 是速度；<code>momentum</code> 是持續推進的慣性。"
+      },
+      "flow": [
+        "開始移動",
+        "力量累積",
+        "更容易繼續前進"
+      ]
+    },
+    "memory": {
+      "hook": "<code>momentum</code> 可以先記成一個畫面：開始移動，接著力量累積，最後更容易繼續前進。",
+      "explanation": "這個畫面只用來幫你抓住「動量、推進力或發展勢頭」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "專案 build momentum 後，小勝利會讓下一個改動更容易發生。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>momentum</code> 和 <code>build momentum</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>momentum</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「動量、推進力或發展勢頭」落地。",
+      "items": [
+        {
+          "phrase": "build momentum",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「動量、推進力或發展勢頭」有明確對象。"
+        },
+        {
+          "phrase": "lose momentum",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "market momentum",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "動量、推進力或發展勢頭",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Speed",
+          "meaning": "<code>speed</code> 是速度；<code>momentum</code> 是持續推進的慣性。",
+          "use": "如果句子只需要 speed 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>momentum</code> 常把一段觀察收斂成可討論的判斷。專案 build momentum 後，小勝利會讓下一個改動更容易發生。",
+      "像 <code>build momentum</code>、<code>lose momentum</code>、<code>market momentum</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 momentum 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/momentum",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 momentum 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/momentum",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>movimentum</code>，和移動、推動相關。",
+      "memoryLens": "記憶時先抓「動量、推進力或發展勢頭」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "momentum",
+    "word": "Momentum",
+    "partOfSpeech": "noun",
+    "href": "./momentum.html",
+    "thesis": "不是速度本身，而是事情已經動起來後持續往前的力。",
+    "tags": [
+      "動量",
+      "勢頭",
+      "speed",
+      "project",
+      "progress",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/momentum",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/momentum",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/momentum",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

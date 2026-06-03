@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Fragment",
+    "slug": "fragment",
+    "outputPath": "prototypes/fragment.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "FRAG-munt · UK /ˈfræɡ.mənt/ · US /ˈfræɡ.mənt/",
+    "hero": {
+      "thesis": "不是完整部分，而是從整體裂出來的一小片。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.76"
+    },
+    "coreIdea": "<code>fragment</code> 把「碎片、片段或不完整的部分」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指碎片、片段或不完整的部分。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Piece",
+        "note": "<code>piece</code> 可以是完整的一塊；<code>fragment</code> 暗示原本整體已破裂或被切開。"
+      },
+      "flow": [
+        "整體存在",
+        "裂出小片",
+        "只剩局部線索"
+      ]
+    },
+    "memory": {
+      "hook": "<code>fragment</code> 可以先記成一個畫面：整體存在，接著裂出小片，最後只剩局部線索。",
+      "explanation": "這個畫面只用來幫你抓住「碎片、片段或不完整的部分」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "log fragment 有價值，但不能把一小段片段當完整故事。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>fragment</code> 和 <code>memory fragment</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>fragment</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「碎片、片段或不完整的部分」落地。",
+      "items": [
+        {
+          "phrase": "memory fragment",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「碎片、片段或不完整的部分」有明確對象。"
+        },
+        {
+          "phrase": "fragment of code",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "fragmented data",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "碎片、片段或不完整的部分",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Piece",
+          "meaning": "<code>piece</code> 可以是完整的一塊；<code>fragment</code> 暗示原本整體已破裂或被切開。",
+          "use": "如果句子只需要 piece 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>fragment</code> 常把一段觀察收斂成可討論的判斷。log fragment 有價值，但不能把一小段片段當完整故事。",
+      "像 <code>memory fragment</code>、<code>fragment of code</code>、<code>fragmented data</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 fragment 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/fragment",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 fragment 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/fragment",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>frangere</code>「打破」。",
+      "memoryLens": "記憶時先抓「碎片、片段或不完整的部分」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "fragment",
+    "word": "Fragment",
+    "partOfSpeech": "noun",
+    "href": "./fragment.html",
+    "thesis": "不是完整部分，而是從整體裂出來的一小片。",
+    "tags": [
+      "碎片",
+      "片段",
+      "piece",
+      "memory",
+      "log",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/fragment",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/fragment",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/fragment",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

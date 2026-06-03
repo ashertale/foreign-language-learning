@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Baffle",
+    "slug": "baffle",
+    "outputPath": "prototypes/baffle.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "BAF-ul · UK /ˈbæf.əl/ · US /ˈbæf.əl/",
+    "hero": {
+      "thesis": "不是普通不懂，而是資訊進來後被擋住，怎麼對都對不起來。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>baffle</code> 關心的是「使人困惑到難以解釋」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示使人困惑到難以解釋。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Confuse",
+        "note": "<code>confuse</code> 泛指混淆；<code>baffle</code> 更像問題把理解路徑堵住。"
+      },
+      "flow": [
+        "看到現象",
+        "套不上解釋",
+        "理解被卡住"
+      ]
+    },
+    "memory": {
+      "hook": "<code>baffle</code> 可以先記成一個畫面：看到現象，接著套不上解釋，最後理解被卡住。",
+      "explanation": "這個畫面只用來幫你抓住「使人困惑到難以解釋」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "偶發 reset 沒有 log、沒有 pattern，就會 baffle 整個 debug team。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>baffle</code> 和 <code>baffle engineers</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>baffle</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「使人困惑到難以解釋」落地。",
+      "items": [
+        {
+          "phrase": "baffle engineers",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「使人困惑到難以解釋」有明確對象。"
+        },
+        {
+          "phrase": "baffle investigators",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "utterly baffle",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "使人困惑到難以解釋",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Confuse",
+          "meaning": "<code>confuse</code> 泛指混淆；<code>baffle</code> 更像問題把理解路徑堵住。",
+          "use": "如果句子只需要 confuse 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>baffle</code> 常把一段觀察收斂成可討論的判斷。偶發 reset 沒有 log、沒有 pattern，就會 baffle 整個 debug team。",
+      "像 <code>baffle engineers</code>、<code>baffle investigators</code>、<code>utterly baffle</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 baffle 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/baffle",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 baffle 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/baffle",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "詞史不必硬背；現代畫面像一塊擋板讓理解過不去。",
+      "memoryLens": "記憶時先抓「使人困惑到難以解釋」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "baffle",
+    "word": "Baffle",
+    "partOfSpeech": "verb",
+    "href": "./baffle.html",
+    "thesis": "不是普通不懂，而是資訊進來後被擋住，怎麼對都對不起來。",
+    "tags": [
+      "困惑",
+      "卡住",
+      "confuse",
+      "debug",
+      "mystery",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/baffle",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/baffle",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/baffle",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

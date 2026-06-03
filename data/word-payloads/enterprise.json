@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Enterprise",
+    "slug": "enterprise",
+    "outputPath": "prototypes/enterprise.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "EN-ter-prize · UK /ˈen.tə.praɪz/ · US /ˈen.t̬ɚ.praɪz/",
+    "hero": {
+      "thesis": "不是任何公司，而是帶有規模、風險和組織能力的事業。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.48"
+    },
+    "coreIdea": "<code>enterprise</code> 把「企業、事業或有風險的計畫」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指企業、事業或有風險的計畫。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Business",
+        "note": "<code>business</code> 很廣；<code>enterprise</code> 常帶規模、企圖與組織性。"
+      },
+      "flow": [
+        "看見機會",
+        "投入資源",
+        "承擔風險"
+      ]
+    },
+    "memory": {
+      "hook": "<code>enterprise</code> 可以先記成一個畫面：看見機會，接著投入資源，最後承擔風險。",
+      "explanation": "這個畫面只用來幫你抓住「企業、事業或有風險的計畫」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "enterprise software 的難點常不是功能，而是權限、治理與長期維護。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>enterprise</code> 和 <code>enterprise software</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>enterprise</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「企業、事業或有風險的計畫」落地。",
+      "items": [
+        {
+          "phrase": "enterprise software",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「企業、事業或有風險的計畫」有明確對象。"
+        },
+        {
+          "phrase": "business enterprise",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "ambitious enterprise",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "企業、事業或有風險的計畫",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Business",
+          "meaning": "<code>business</code> 很廣；<code>enterprise</code> 常帶規模、企圖與組織性。",
+          "use": "如果句子只需要 business 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>enterprise</code> 常把一段觀察收斂成可討論的判斷。enterprise software 的難點常不是功能，而是權限、治理與長期維護。",
+      "像 <code>enterprise software</code>、<code>business enterprise</code>、<code>ambitious enterprise</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 enterprise 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/enterprise",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 enterprise 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/enterprise",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Old French，和承擔、著手進行有關；不只是公司名詞。",
+      "memoryLens": "記憶時先抓「企業、事業或有風險的計畫」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "enterprise",
+    "word": "Enterprise",
+    "partOfSpeech": "noun",
+    "href": "./enterprise.html",
+    "thesis": "不是任何公司，而是帶有規模、風險和組織能力的事業。",
+    "tags": [
+      "企業",
+      "事業",
+      "business",
+      "software",
+      "scale",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/enterprise",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/enterprise",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/enterprise",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

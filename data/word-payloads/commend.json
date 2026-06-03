@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Commend",
+    "slug": "commend",
+    "outputPath": "prototypes/commend.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-MEND · UK /kəˈmend/ · US /kəˈmend/",
+    "hero": {
+      "thesis": "不是普通稱讚，而是正式肯定某個值得尊重的行動或品質。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>commend</code> 關心的是「公開或正式地稱許、推薦」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示公開或正式地稱許、推薦。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Praise",
+        "note": "<code>praise</code> 泛指稱讚；<code>commend</code> 更正式，也常暗示理由充分。"
+      },
+      "flow": [
+        "看見值得肯定之處",
+        "用正式語氣標出",
+        "提高可信度"
+      ]
+    },
+    "memory": {
+      "hook": "<code>commend</code> 可以先記成一個畫面：看見值得肯定之處，接著用正式語氣標出，最後提高可信度。",
+      "explanation": "這個畫面只用來幫你抓住「公開或正式地稱許、推薦」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "postmortem 裡 commend 主動揭露問題的人，能把文化從找戰犯拉回修系統。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>commend</code> 和 <code>commend the team</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>commend</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「公開或正式地稱許、推薦」落地。",
+      "items": [
+        {
+          "phrase": "commend the team",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「公開或正式地稱許、推薦」有明確對象。"
+        },
+        {
+          "phrase": "highly commend",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "commend someone for",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "公開或正式地稱許、推薦",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Praise",
+          "meaning": "<code>praise</code> 泛指稱讚；<code>commend</code> 更正式，也常暗示理由充分。",
+          "use": "如果句子只需要 praise 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>commend</code> 常把一段觀察收斂成可討論的判斷。postmortem 裡 commend 主動揭露問題的人，能把文化從找戰犯拉回修系統。",
+      "像 <code>commend the team</code>、<code>highly commend</code>、<code>commend someone for</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 commend 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/commend",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 commend 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/commend",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "與 Latin <code>commendare</code> 有關，含有託付、推薦、稱許的方向。",
+      "memoryLens": "記憶時先抓「公開或正式地稱許、推薦」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "commend",
+    "word": "Commend",
+    "partOfSpeech": "verb",
+    "href": "./commend.html",
+    "thesis": "不是普通稱讚，而是正式肯定某個值得尊重的行動或品質。",
+    "tags": [
+      "稱許",
+      "肯定",
+      "praise",
+      "recognition",
+      "culture",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/commend",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/commend",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/commend",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

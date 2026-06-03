@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Omission",
+    "slug": "omission",
+    "outputPath": "prototypes/omission.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "oh-MISH-un · UK /əʊˈmɪʃ.ən/ · US /oʊˈmɪʃ.ən/",
+    "hero": {
+      "thesis": "不是寫錯，而是該出現的東西缺席。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.72"
+    },
+    "coreIdea": "<code>omission</code> 把「遺漏、省略或未包含」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指遺漏、省略或未包含。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Error",
+        "note": "<code>error</code> 是錯；<code>omission</code> 是少了某個本該存在的部分。"
+      },
+      "flow": [
+        "預期某物存在",
+        "實際缺席",
+        "造成誤解或風險"
+      ]
+    },
+    "memory": {
+      "hook": "<code>omission</code> 可以先記成一個畫面：預期某物存在，接著實際缺席，最後造成誤解或風險。",
+      "explanation": "這個畫面只用來幫你抓住「遺漏、省略或未包含」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "release note 的 omission 可能讓 support 以為某個限制不存在。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>omission</code> 和 <code>omission of detail</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>omission</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「遺漏、省略或未包含」落地。",
+      "items": [
+        {
+          "phrase": "omission of detail",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「遺漏、省略或未包含」有明確對象。"
+        },
+        {
+          "phrase": "material omission",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "accidental omission",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "遺漏、省略或未包含",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Error",
+          "meaning": "<code>error</code> 是錯；<code>omission</code> 是少了某個本該存在的部分。",
+          "use": "如果句子只需要 error 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>omission</code> 常把一段觀察收斂成可討論的判斷。release note 的 omission 可能讓 support 以為某個限制不存在。",
+      "像 <code>omission of detail</code>、<code>material omission</code>、<code>accidental omission</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 omission 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/omission",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 omission 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/omission",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>omittere</code>，有放過、略去的意思。",
+      "memoryLens": "記憶時先抓「遺漏、省略或未包含」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "omission",
+    "word": "Omission",
+    "partOfSpeech": "noun",
+    "href": "./omission.html",
+    "thesis": "不是寫錯，而是該出現的東西缺席。",
+    "tags": [
+      "遺漏",
+      "省略",
+      "error",
+      "detail",
+      "release",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/omission",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/omission",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/omission",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

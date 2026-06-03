@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Infrastructure",
+    "slug": "infrastructure",
+    "outputPath": "prototypes/infrastructure.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "IN-fruh-struk-chur · UK /ˈɪn.frəˌstrʌk.tʃər/ · US /ˈɪn.frəˌstrʌk.tʃɚ/",
+    "hero": {
+      "thesis": "不是使用者看到的功能，而是讓功能能穩定存在的底層支撐。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.36"
+    },
+    "coreIdea": "<code>infrastructure</code> 把「基礎設施、底層支撐系統」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指基礎設施、底層支撐系統。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Feature",
+        "note": "<code>feature</code> 是看得見的功能；<code>infrastructure</code> 是讓功能能跑、能維護的底層。"
+      },
+      "flow": [
+        "底層被建立",
+        "服務在上面運作",
+        "穩定性變可能"
+      ]
+    },
+    "memory": {
+      "hook": "<code>infrastructure</code> 可以先記成一個畫面：底層被建立，接著服務在上面運作，最後穩定性變可能。",
+      "explanation": "這個畫面只用來幫你抓住「基礎設施、底層支撐系統」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "test infrastructure 做得好，工程師才敢快速改 code。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>infrastructure</code> 和 <code>test infrastructure</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>infrastructure</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「基礎設施、底層支撐系統」落地。",
+      "items": [
+        {
+          "phrase": "test infrastructure",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「基礎設施、底層支撐系統」有明確對象。"
+        },
+        {
+          "phrase": "network infrastructure",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "infrastructure cost",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "基礎設施、底層支撐系統",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Feature",
+          "meaning": "<code>feature</code> 是看得見的功能；<code>infrastructure</code> 是讓功能能跑、能維護的底層。",
+          "use": "如果句子只需要 feature 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>infrastructure</code> 常把一段觀察收斂成可討論的判斷。test infrastructure 做得好，工程師才敢快速改 code。",
+      "像 <code>test infrastructure</code>、<code>network infrastructure</code>、<code>infrastructure cost</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 infrastructure 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/infrastructure",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 infrastructure 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/infrastructure",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "由 infra「下面」與 structure「結構」組合；字面就是底下的結構。",
+      "memoryLens": "記憶時先抓「基礎設施、底層支撐系統」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "infrastructure",
+    "word": "Infrastructure",
+    "partOfSpeech": "noun",
+    "href": "./infrastructure.html",
+    "thesis": "不是使用者看到的功能，而是讓功能能穩定存在的底層支撐。",
+    "tags": [
+      "基礎設施",
+      "底層",
+      "feature",
+      "test",
+      "system",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/infrastructure",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/infrastructure",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/infrastructure",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

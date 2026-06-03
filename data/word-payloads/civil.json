@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Civil",
+    "slug": "civil",
+    "outputPath": "prototypes/civil.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "SIV-ul · UK /ˈsɪv.əl/ · US /ˈsɪv.əl/",
+    "hero": {
+      "thesis": "不是熱情友好，而是在公共互動裡保持基本禮貌和秩序。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "4.19"
+    },
+    "coreIdea": "<code>civil</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「公民的、民事的，或有禮貌」。",
+    "definition": {
+      "summary": "形容公民的、民事的，或有禮貌的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Polite",
+        "note": "<code>polite</code> 是有禮；<code>civil</code> 常帶公共秩序與最低尊重。"
+      },
+      "flow": [
+        "有人不同意",
+        "仍保留禮貌",
+        "讓討論能繼續"
+      ]
+    },
+    "memory": {
+      "hook": "<code>civil</code> 可以先記成一個畫面：有人不同意，接著仍保留禮貌，最後讓討論能繼續。",
+      "explanation": "這個畫面只用來幫你抓住「公民的、民事的，或有禮貌」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "review 可以尖銳，但 civil tone 讓問題被修掉，而不是讓人防衛。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>civil</code> 和 <code>civil discussion</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>civil</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「公民的、民事的，或有禮貌」落地。",
+      "items": [
+        {
+          "phrase": "civil discussion",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「公民的、民事的，或有禮貌」有明確對象。"
+        },
+        {
+          "phrase": "civil rights",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "civil case",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "公民的、民事的，或有禮貌的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Polite",
+          "meaning": "<code>polite</code> 是有禮；<code>civil</code> 常帶公共秩序與最低尊重。",
+          "use": "如果句子只需要 polite 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>civil</code> 常把一段觀察收斂成可討論的判斷。review 可以尖銳，但 civil tone 讓問題被修掉，而不是讓人防衛。",
+      "像 <code>civil discussion</code>、<code>civil rights</code>、<code>civil case</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 civil 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/civil",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 civil 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/civil",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>civis</code>「公民」；公共生活是它的底色。",
+      "memoryLens": "記憶時先抓「公民的、民事的，或有禮貌的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "civil",
+    "word": "Civil",
+    "partOfSpeech": "adjective",
+    "href": "./civil.html",
+    "thesis": "不是熱情友好，而是在公共互動裡保持基本禮貌和秩序。",
+    "tags": [
+      "文明",
+      "公民",
+      "polite",
+      "rights",
+      "discussion",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/civil",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/civil",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/civil",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

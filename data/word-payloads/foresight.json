@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Foresight",
+    "slug": "foresight",
+    "outputPath": "prototypes/foresight.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "FOR-syte · UK /ˈfɔː.saɪt/ · US /ˈfɔːr.saɪt/",
+    "hero": {
+      "thesis": "不是預知未來，而是提前看見後果並替未來留路。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>foresight</code> 把「遠見、預見與提前準備」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指遠見、預見與提前準備。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Prediction",
+        "note": "<code>prediction</code> 是預測結果；<code>foresight</code> 是因為預見而做出準備。"
+      },
+      "flow": [
+        "想像後果",
+        "提前留選項",
+        "未來阻力變小"
+      ]
+    },
+    "memory": {
+      "hook": "<code>foresight</code> 可以先記成一個畫面：想像後果，接著提前留選項，最後未來阻力變小。",
+      "explanation": "這個畫面只用來幫你抓住「遠見、預見與提前準備」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "在 board layout 預留 debug pins 是 foresight，未必今天會用，但明天會救命。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>foresight</code> 和 <code>strategic foresight</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>foresight</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「遠見、預見與提前準備」落地。",
+      "items": [
+        {
+          "phrase": "strategic foresight",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「遠見、預見與提前準備」有明確對象。"
+        },
+        {
+          "phrase": "lack of foresight",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "show foresight",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "遠見、預見與提前準備",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Prediction",
+          "meaning": "<code>prediction</code> 是預測結果；<code>foresight</code> 是因為預見而做出準備。",
+          "use": "如果句子只需要 prediction 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>foresight</code> 常把一段觀察收斂成可討論的判斷。在 board layout 預留 debug pins 是 foresight，未必今天會用，但明天會救命。",
+      "像 <code>strategic foresight</code>、<code>lack of foresight</code>、<code>show foresight</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 foresight 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/foresight",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 foresight 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/foresight",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "由 fore 與 sight 組成；字面就是往前看。",
+      "memoryLens": "記憶時先抓「遠見、預見與提前準備」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "foresight",
+    "word": "Foresight",
+    "partOfSpeech": "noun",
+    "href": "./foresight.html",
+    "thesis": "不是預知未來，而是提前看見後果並替未來留路。",
+    "tags": [
+      "遠見",
+      "預見",
+      "future",
+      "planning",
+      "debug",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/foresight",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/foresight",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/foresight",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Delegate",
+    "slug": "delegate",
+    "outputPath": "prototypes/delegate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "DEL-uh-gate · UK /ˈdel.ɪ.ɡeɪt/ · US /ˈdel.ə.ɡeɪt/",
+    "hero": {
+      "thesis": "不是把事情丟出去，而是把責任和權限一起交給合適的人。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.68"
+    },
+    "coreIdea": "<code>delegate</code> 關心的是「委派任務、責任或權限」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示委派任務、責任或權限。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Assign",
+        "note": "<code>assign</code> 是分派；<code>delegate</code> 應該包含信任、責任與足夠權限。"
+      },
+      "flow": [
+        "選定任務",
+        "交出權限",
+        "追蹤結果"
+      ]
+    },
+    "memory": {
+      "hook": "<code>delegate</code> 可以先記成一個畫面：選定任務，接著交出權限，最後追蹤結果。",
+      "explanation": "這個畫面只用來幫你抓住「委派任務、責任或權限」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "delegate debugging work 時，如果不給背景和權限，只是把壓力轉手。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>delegate</code> 和 <code>delegate authority</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>delegate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「委派任務、責任或權限」落地。",
+      "items": [
+        {
+          "phrase": "delegate authority",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「委派任務、責任或權限」有明確對象。"
+        },
+        {
+          "phrase": "delegate tasks",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "delegate effectively",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "委派任務、責任或權限",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Assign",
+          "meaning": "<code>assign</code> 是分派；<code>delegate</code> 應該包含信任、責任與足夠權限。",
+          "use": "如果句子只需要 assign 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>delegate</code> 常把一段觀察收斂成可討論的判斷。delegate debugging work 時，如果不給背景和權限，只是把壓力轉手。",
+      "像 <code>delegate authority</code>、<code>delegate tasks</code>、<code>delegate effectively</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 delegate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/delegate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 delegate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/delegate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>delegare</code>，意思接近派遣、託付。",
+      "memoryLens": "記憶時先抓「委派任務、責任或權限」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "delegate",
+    "word": "Delegate",
+    "partOfSpeech": "verb",
+    "href": "./delegate.html",
+    "thesis": "不是把事情丟出去，而是把責任和權限一起交給合適的人。",
+    "tags": [
+      "委派",
+      "授權",
+      "assign",
+      "task",
+      "authority",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/delegate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/delegate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/delegate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

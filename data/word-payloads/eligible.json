@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Eligible",
+    "slug": "eligible",
+    "outputPath": "prototypes/eligible.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "EL-ih-juh-bul · UK /ˈel.ɪ.dʒə.bəl/ · US /ˈel.ə.dʒə.bəl/",
+    "hero": {
+      "thesis": "不是已經被選中，而是符合條件、有資格被考慮。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.80"
+    },
+    "coreIdea": "<code>eligible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「符合資格或條件」。",
+    "definition": {
+      "summary": "形容符合資格或條件的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Selected",
+        "note": "<code>selected</code> 是已選上；<code>eligible</code> 只是有資格進入選擇池。"
+      },
+      "flow": [
+        "條件被列出",
+        "個體符合條件",
+        "可被考慮"
+      ]
+    },
+    "memory": {
+      "hook": "<code>eligible</code> 可以先記成一個畫面：條件被列出，接著個體符合條件，最後可被考慮。",
+      "explanation": "這個畫面只用來幫你抓住「符合資格或條件」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "device eligible for update，表示條件符合，但不代表一定會立刻推送。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>eligible</code> 和 <code>eligible for upgrade</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>eligible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「符合資格或條件」落地。",
+      "items": [
+        {
+          "phrase": "eligible for upgrade",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「符合資格或條件」有明確對象。"
+        },
+        {
+          "phrase": "eligible candidate",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "eligibility criteria",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "符合資格或條件的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Selected",
+          "meaning": "<code>selected</code> 是已選上；<code>eligible</code> 只是有資格進入選擇池。",
+          "use": "如果句子只需要 selected 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>eligible</code> 常把一段觀察收斂成可討論的判斷。device eligible for update，表示條件符合，但不代表一定會立刻推送。",
+      "像 <code>eligible for upgrade</code>、<code>eligible candidate</code>、<code>eligibility criteria</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 eligible 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/eligible",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 eligible 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/eligible",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "與 Latin <code>eligere</code>「挑選」相關；先有可被挑選，才有被選中。",
+      "memoryLens": "記憶時先抓「符合資格或條件的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "eligible",
+    "word": "Eligible",
+    "partOfSpeech": "adjective",
+    "href": "./eligible.html",
+    "thesis": "不是已經被選中，而是符合條件、有資格被考慮。",
+    "tags": [
+      "資格",
+      "條件",
+      "selected",
+      "candidate",
+      "upgrade",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/eligible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/eligible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/eligible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

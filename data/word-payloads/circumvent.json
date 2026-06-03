@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Circumvent",
+    "slug": "circumvent",
+    "outputPath": "prototypes/circumvent.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "sur-kum-VENT · UK /ˌsɜː.kəmˈvent/ · US /ˌsɝː.kəmˈvent/",
+    "hero": {
+      "thesis": "不是正面解決，而是繞過限制、規則或障礙。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.52"
+    },
+    "coreIdea": "<code>circumvent</code> 關心的是「避開既有限制而達成目」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示避開既有限制而達成目的。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Avoid",
+        "note": "<code>avoid</code> 是避開；<code>circumvent</code> 像繞一圈找旁門路徑。"
+      },
+      "flow": [
+        "遇到限制",
+        "不正面穿過",
+        "繞路達成"
+      ]
+    },
+    "memory": {
+      "hook": "<code>circumvent</code> 可以先記成一個畫面：遇到限制，接著不正面穿過，最後繞路達成。",
+      "explanation": "這個畫面只用來幫你抓住「避開既有限制而達成目」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "用 hack circumvent a limitation 可能短期有效，但也可能留下難維護的暗門。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>circumvent</code> 和 <code>circumvent rules</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>circumvent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「避開既有限制而達成目」落地。",
+      "items": [
+        {
+          "phrase": "circumvent rules",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「避開既有限制而達成目」有明確對象。"
+        },
+        {
+          "phrase": "circumvent restrictions",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "circumvent the problem",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "避開既有限制而達成目的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Avoid",
+          "meaning": "<code>avoid</code> 是避開；<code>circumvent</code> 像繞一圈找旁門路徑。",
+          "use": "如果句子只需要 avoid 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>circumvent</code> 常把一段觀察收斂成可討論的判斷。用 hack circumvent a limitation 可能短期有效，但也可能留下難維護的暗門。",
+      "像 <code>circumvent rules</code>、<code>circumvent restrictions</code>、<code>circumvent the problem</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 circumvent 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/circumvent",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 circumvent 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/circumvent",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>circum</code>「周圍」與 <code>venire</code>「來」。",
+      "memoryLens": "記憶時先抓「避開既有限制而達成目的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "circumvent",
+    "word": "Circumvent",
+    "partOfSpeech": "verb",
+    "href": "./circumvent.html",
+    "thesis": "不是正面解決，而是繞過限制、規則或障礙。",
+    "tags": [
+      "繞過",
+      "限制",
+      "avoid",
+      "rules",
+      "workaround",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/circumvent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/circumvent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/circumvent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

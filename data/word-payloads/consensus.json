@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Consensus",
+    "slug": "consensus",
+    "outputPath": "prototypes/consensus.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "kun-SEN-sus · UK /kənˈsen.səs/ · US /kənˈsen.səs/",
+    "hero": {
+      "thesis": "不是每個人都熱烈同意，而是足夠多人接受同一個方向。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>consensus</code> 把「共同接受的看法或決策方向」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指共同接受的看法或決策方向。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Unanimity",
+        "note": "<code>unanimity</code> 是一致同意；<code>consensus</code> 可以是可工作的共同接受。"
+      },
+      "flow": [
+        "分歧被說清",
+        "共同方向形成",
+        "大家願意前進"
+      ]
+    },
+    "memory": {
+      "hook": "<code>consensus</code> 可以先記成一個畫面：分歧被說清，接著共同方向形成，最後大家願意前進。",
+      "explanation": "這個畫面只用來幫你抓住「共同接受的看法或決策方向」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "工程決策常靠 rough consensus，不是等到每個人都完全滿意。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>consensus</code> 和 <code>rough consensus</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>consensus</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「共同接受的看法或決策方向」落地。",
+      "items": [
+        {
+          "phrase": "rough consensus",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「共同接受的看法或決策方向」有明確對象。"
+        },
+        {
+          "phrase": "build consensus",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "consensus view",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "共同接受的看法或決策方向",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Unanimity",
+          "meaning": "<code>unanimity</code> 是一致同意；<code>consensus</code> 可以是可工作的共同接受。",
+          "use": "如果句子只需要 unanimity 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>consensus</code> 常把一段觀察收斂成可討論的判斷。工程決策常靠 rough consensus，不是等到每個人都完全滿意。",
+      "像 <code>rough consensus</code>、<code>build consensus</code>、<code>consensus view</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 consensus 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/consensus",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 consensus 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/consensus",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "源自 Latin <code>consentire</code>，有「一起感受、一起同意」的意思。",
+      "memoryLens": "記憶時先抓「共同接受的看法或決策方向」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "consensus",
+    "word": "Consensus",
+    "partOfSpeech": "noun",
+    "href": "./consensus.html",
+    "thesis": "不是每個人都熱烈同意，而是足夠多人接受同一個方向。",
+    "tags": [
+      "共識",
+      "決策",
+      "unanimity",
+      "team",
+      "agreement",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/consensus",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/consensus",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/consensus",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

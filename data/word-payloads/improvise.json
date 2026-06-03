@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Improvise",
+    "slug": "improvise",
+    "outputPath": "prototypes/improvise.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "IM-pruh-vize · UK /ˈɪm.prə.vaɪz/ · US /ˈɪm.prə.vaɪz/",
+    "hero": {
+      "thesis": "不是亂來，而是在沒有完整準備時即時組合可用方案。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.72"
+    },
+    "coreIdea": "<code>improvise</code> 關心的是「即興處理、臨場創作或變通」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示即興處理、臨場創作或變通。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Plan",
+        "note": "<code>plan</code> 是事前安排；<code>improvise</code> 是現場用手上資源組出路。"
+      },
+      "flow": [
+        "準備不完整",
+        "現場限制出現",
+        "即時組合方案"
+      ]
+    },
+    "memory": {
+      "hook": "<code>improvise</code> 可以先記成一個畫面：準備不完整，接著現場限制出現，最後即時組合方案。",
+      "explanation": "這個畫面只用來幫你抓住「即興處理、臨場創作或變通」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "lab 裡沒有剛好的 fixture 時，工程師常要 improvise，但要記得之後補成可靠流程。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>improvise</code> 和 <code>improvise a solution</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>improvise</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「即興處理、臨場創作或變通」落地。",
+      "items": [
+        {
+          "phrase": "improvise a solution",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「即興處理、臨場創作或變通」有明確對象。"
+        },
+        {
+          "phrase": "improvise on stage",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "improvised tool",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "即興處理、臨場創作或變通",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Plan",
+          "meaning": "<code>plan</code> 是事前安排；<code>improvise</code> 是現場用手上資源組出路。",
+          "use": "如果句子只需要 plan 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>improvise</code> 常把一段觀察收斂成可討論的判斷。lab 裡沒有剛好的 fixture 時，工程師常要 improvise，但要記得之後補成可靠流程。",
+      "像 <code>improvise a solution</code>、<code>improvise on stage</code>、<code>improvised tool</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 improvise 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/improvise",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 improvise 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/improvise",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin 與「未預見」有關；即興的前提就是沒有事先完整看見。",
+      "memoryLens": "記憶時先抓「即興處理、臨場創作或變通」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "improvise",
+    "word": "Improvise",
+    "partOfSpeech": "verb",
+    "href": "./improvise.html",
+    "thesis": "不是亂來，而是在沒有完整準備時即時組合可用方案。",
+    "tags": [
+      "即興",
+      "變通",
+      "plan",
+      "lab",
+      "solution",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/improvise",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/improvise",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/improvise",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

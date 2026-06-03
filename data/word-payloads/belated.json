@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Belated",
+    "slug": "belated",
+    "outputPath": "prototypes/belated.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "bih-LAY-tid · UK /bɪˈleɪ.tɪd/ · US /bɪˈleɪ.t̬ɪd/",
+    "hero": {
+      "thesis": "不是遲到而已，而是本該更早出現的東西拖到現在才來。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.80"
+    },
+    "coreIdea": "<code>belated</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「晚於應有時間才發生或送達」。",
+    "definition": {
+      "summary": "形容晚於應有時間才發生或送達。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Late",
+        "note": "<code>late</code> 只是晚；<code>belated</code> 帶著錯過原本時機的感覺。"
+      },
+      "flow": [
+        "原本該出現",
+        "時間已經過去",
+        "現在才補上"
+      ]
+    },
+    "memory": {
+      "hook": "<code>belated</code> 可以先記成一個畫面：原本該出現，接著時間已經過去，最後現在才補上。",
+      "explanation": "這個畫面只用來幫你抓住「晚於應有時間才發生或送達」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "belated fix 可能有效，但使用者已經承受過那段痛苦。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>belated</code> 和 <code>belated apology</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>belated</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「晚於應有時間才發生或送達」落地。",
+      "items": [
+        {
+          "phrase": "belated apology",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「晚於應有時間才發生或送達」有明確對象。"
+        },
+        {
+          "phrase": "belated recognition",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "belated response",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "晚於應有時間才發生或送達",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Late",
+          "meaning": "<code>late</code> 只是晚；<code>belated</code> 帶著錯過原本時機的感覺。",
+          "use": "如果句子只需要 late 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>belated</code> 常把一段觀察收斂成可討論的判斷。belated fix 可能有效，但使用者已經承受過那段痛苦。",
+      "像 <code>belated apology</code>、<code>belated recognition</code>、<code>belated response</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 belated 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/belated",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 belated 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/belated",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "由 <code>be-</code> 與 <code>late</code> 發展而來；語感重點是錯過原本窗口。",
+      "memoryLens": "記憶時先抓「晚於應有時間才發生或送達」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "belated",
+    "word": "Belated",
+    "partOfSpeech": "adjective",
+    "href": "./belated.html",
+    "thesis": "不是遲到而已，而是本該更早出現的東西拖到現在才來。",
+    "tags": [
+      "遲來",
+      "補救",
+      "late",
+      "timing",
+      "response",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/belated",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/belated",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/belated",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

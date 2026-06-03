@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Integrity",
+    "slug": "integrity",
+    "outputPath": "prototypes/integrity.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "in-TEG-rih-tee · UK /ɪnˈteɡ.rə.ti/ · US /ɪnˈteɡ.rə.t̬i/",
+    "hero": {
+      "thesis": "不是形象良好，而是內外一致、沒有被破壞。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.68"
+    },
+    "coreIdea": "<code>integrity</code> 把「誠信、完整性或資料未被篡改」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指誠信、完整性或資料未被篡改。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Honesty",
+        "note": "<code>honesty</code> 是誠實；<code>integrity</code> 還包含整體完整、不被破壞。"
+      },
+      "flow": [
+        "整體保持一致",
+        "沒有暗中破損",
+        "信任可以成立"
+      ]
+    },
+    "memory": {
+      "hook": "<code>integrity</code> 可以先記成一個畫面：整體保持一致，接著沒有暗中破損，最後信任可以成立。",
+      "explanation": "這個畫面只用來幫你抓住「誠信、完整性或資料未被篡改」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "data integrity 壞掉時，系統可能還能跑，但你已經不能信任結果。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>integrity</code> 和 <code>data integrity</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>integrity</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「誠信、完整性或資料未被篡改」落地。",
+      "items": [
+        {
+          "phrase": "data integrity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「誠信、完整性或資料未被篡改」有明確對象。"
+        },
+        {
+          "phrase": "personal integrity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "structural integrity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "誠信、完整性或資料未被篡改",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Honesty",
+          "meaning": "<code>honesty</code> 是誠實；<code>integrity</code> 還包含整體完整、不被破壞。",
+          "use": "如果句子只需要 honesty 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>integrity</code> 常把一段觀察收斂成可討論的判斷。data integrity 壞掉時，系統可能還能跑，但你已經不能信任結果。",
+      "像 <code>data integrity</code>、<code>personal integrity</code>、<code>structural integrity</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 integrity 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/integrity",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 integrity 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/integrity",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>integer</code>，意思接近完整、未受損。",
+      "memoryLens": "記憶時先抓「誠信、完整性或資料未被篡改」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "integrity",
+    "word": "Integrity",
+    "partOfSpeech": "noun",
+    "href": "./integrity.html",
+    "thesis": "不是形象良好，而是內外一致、沒有被破壞。",
+    "tags": [
+      "完整性",
+      "誠信",
+      "data",
+      "trust",
+      "structure",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/integrity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/integrity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/integrity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Bias",
+    "slug": "bias",
+    "outputPath": "prototypes/bias.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "BY-us · UK /ˈbaɪ.əs/ · US /ˈbaɪ.əs/",
+    "hero": {
+      "thesis": "不是明顯偏袒而已，也可能是資料、判斷或流程裡的系統性偏斜。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "4.17"
+    },
+    "coreIdea": "<code>bias</code> 把「讓判斷偏向某一邊的傾向」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指讓判斷偏向某一邊的傾向。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Preference",
+        "note": "<code>preference</code> 是偏好；<code>bias</code> 常暗示判斷被扭斜，未必公平。"
+      },
+      "flow": [
+        "看似中立",
+        "某方向被放大",
+        "結果偏斜"
+      ]
+    },
+    "memory": {
+      "hook": "<code>bias</code> 可以先記成一個畫面：看似中立，接著某方向被放大，最後結果偏斜。",
+      "explanation": "這個畫面只用來幫你抓住「讓判斷偏向某一邊的傾向」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "測試只挑成功案例會造成 sampling bias，讓品質看起來比實際更好。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>bias</code> 和 <code>confirmation bias</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>bias</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「讓判斷偏向某一邊的傾向」落地。",
+      "items": [
+        {
+          "phrase": "confirmation bias",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「讓判斷偏向某一邊的傾向」有明確對象。"
+        },
+        {
+          "phrase": "sampling bias",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "implicit bias",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓判斷偏向某一邊的傾向",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Preference",
+          "meaning": "<code>preference</code> 是偏好；<code>bias</code> 常暗示判斷被扭斜，未必公平。",
+          "use": "如果句子只需要 preference 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>bias</code> 常把一段觀察收斂成可討論的判斷。測試只挑成功案例會造成 sampling bias，讓品質看起來比實際更好。",
+      "像 <code>confirmation bias</code>、<code>sampling bias</code>、<code>implicit bias</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 bias 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/bias",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 bias 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/bias",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "原指斜線或斜向；現代延伸到心理、資料與制度上的偏斜。",
+      "memoryLens": "記憶時先抓「讓判斷偏向某一邊的傾向」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "bias",
+    "word": "Bias",
+    "partOfSpeech": "noun",
+    "href": "./bias.html",
+    "thesis": "不是明顯偏袒而已，也可能是資料、判斷或流程裡的系統性偏斜。",
+    "tags": [
+      "偏差",
+      "偏見",
+      "data",
+      "judgment",
+      "fairness",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/bias",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/bias",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/bias",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

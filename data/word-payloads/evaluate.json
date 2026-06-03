@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Evaluate",
+    "slug": "evaluate",
+    "outputPath": "prototypes/evaluate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-VAL-yoo-ate · UK /ɪˈvæl.ju.eɪt/ · US /ɪˈvæl.ju.eɪt/",
+    "hero": {
+      "thesis": "不是看一看，而是用標準判斷價值、效果或風險。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.80"
+    },
+    "coreIdea": "<code>evaluate</code> 關心的是「評估、衡量並形成判斷」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示評估、衡量並形成判斷。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Check",
+        "note": "<code>check</code> 可以只是確認；<code>evaluate</code> 要有標準和判斷。"
+      },
+      "flow": [
+        "設定標準",
+        "收集證據",
+        "形成判斷"
+      ]
+    },
+    "memory": {
+      "hook": "<code>evaluate</code> 可以先記成一個畫面：設定標準，接著收集證據，最後形成判斷。",
+      "explanation": "這個畫面只用來幫你抓住「評估、衡量並形成判斷」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "evaluate options 時，不能只看速度，也要看維護成本和失敗模式。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>evaluate</code> 和 <code>evaluate performance</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>evaluate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「評估、衡量並形成判斷」落地。",
+      "items": [
+        {
+          "phrase": "evaluate performance",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「評估、衡量並形成判斷」有明確對象。"
+        },
+        {
+          "phrase": "evaluate options",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "evaluate risk",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "評估、衡量並形成判斷",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Check",
+          "meaning": "<code>check</code> 可以只是確認；<code>evaluate</code> 要有標準和判斷。",
+          "use": "如果句子只需要 check 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>evaluate</code> 常把一段觀察收斂成可討論的判斷。evaluate options 時，不能只看速度，也要看維護成本和失敗模式。",
+      "像 <code>evaluate performance</code>、<code>evaluate options</code>、<code>evaluate risk</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 evaluate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/evaluate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 evaluate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/evaluate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "由 value 的價值概念延伸；評估就是把價值或風險量出來。",
+      "memoryLens": "記憶時先抓「評估、衡量並形成判斷」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "evaluate",
+    "word": "Evaluate",
+    "partOfSpeech": "verb",
+    "href": "./evaluate.html",
+    "thesis": "不是看一看，而是用標準判斷價值、效果或風險。",
+    "tags": [
+      "評估",
+      "判斷",
+      "check",
+      "risk",
+      "option",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/evaluate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/evaluate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/evaluate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

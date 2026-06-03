@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Aversion",
+    "slug": "aversion",
+    "outputPath": "prototypes/aversion.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-VER-zhun · UK /əˈvɜː.ʒən/ · US /əˈvɝː.ʒən/",
+    "hero": {
+      "thesis": "不是普通不喜歡，而是身體和判斷都想避開。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.88"
+    },
+    "coreIdea": "<code>aversion</code> 把「強烈不願接近某事的排斥感」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指強烈不願接近某事的排斥感。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Dislike",
+        "note": "<code>dislike</code> 是不喜歡；<code>aversion</code> 有往外轉、想避開的力道。"
+      },
+      "flow": [
+        "遇到對象",
+        "產生排斥",
+        "主動避開"
+      ]
+    },
+    "memory": {
+      "hook": "<code>aversion</code> 可以先記成一個畫面：遇到對象，接著產生排斥，最後主動避開。",
+      "explanation": "這個畫面只用來幫你抓住「強烈不願接近某事的排斥感」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "risk aversion 高的人不一定保守，只是對下行風險更敏感。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>aversion</code> 和 <code>risk aversion</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>aversion</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「強烈不願接近某事的排斥感」落地。",
+      "items": [
+        {
+          "phrase": "risk aversion",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「強烈不願接近某事的排斥感」有明確對象。"
+        },
+        {
+          "phrase": "aversion to conflict",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "strong aversion",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "強烈不願接近某事的排斥感",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Dislike",
+          "meaning": "<code>dislike</code> 是不喜歡；<code>aversion</code> 有往外轉、想避開的力道。",
+          "use": "如果句子只需要 dislike 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>aversion</code> 常把一段觀察收斂成可討論的判斷。risk aversion 高的人不一定保守，只是對下行風險更敏感。",
+      "像 <code>risk aversion</code>、<code>aversion to conflict</code>、<code>strong aversion</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 aversion 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/aversion",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 aversion 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/aversion",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "與 Latin <code>avert</code> 同源，有「轉開」的方向感。",
+      "memoryLens": "記憶時先抓「強烈不願接近某事的排斥感」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "aversion",
+    "word": "Aversion",
+    "partOfSpeech": "noun",
+    "href": "./aversion.html",
+    "thesis": "不是普通不喜歡，而是身體和判斷都想避開。",
+    "tags": [
+      "厭惡",
+      "避開",
+      "dislike",
+      "risk",
+      "reaction",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/aversion",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/aversion",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/aversion",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

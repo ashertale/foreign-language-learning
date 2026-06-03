@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Compatible",
+    "slug": "compatible",
+    "outputPath": "prototypes/compatible.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "kum-PAT-uh-bul · UK /kəmˈpæt.ə.bəl/ · US /kəmˈpæt̬.ə.bəl/",
+    "hero": {
+      "thesis": "不是看起來相似，而是放在一起能正常運作。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.52"
+    },
+    "coreIdea": "<code>compatible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「彼此能共存、互通或不衝突」。",
+    "definition": {
+      "summary": "形容彼此能共存、互通或不衝突。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Similar",
+        "note": "<code>similar</code> 是相像；<code>compatible</code> 是能一起用。"
+      },
+      "flow": [
+        "兩者接在一起",
+        "介面或目標不衝突",
+        "共同運作"
+      ]
+    },
+    "memory": {
+      "hook": "<code>compatible</code> 可以先記成一個畫面：兩者接在一起，接著介面或目標不衝突，最後共同運作。",
+      "explanation": "這個畫面只用來幫你抓住「彼此能共存、互通或不衝突」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "firmware update backward compatible，代表舊工具或舊資料仍能被正確處理。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>compatible</code> 和 <code>backward compatible</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>compatible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「彼此能共存、互通或不衝突」落地。",
+      "items": [
+        {
+          "phrase": "backward compatible",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「彼此能共存、互通或不衝突」有明確對象。"
+        },
+        {
+          "phrase": "compatible with",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "compatible devices",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "彼此能共存、互通或不衝突",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Similar",
+          "meaning": "<code>similar</code> 是相像；<code>compatible</code> 是能一起用。",
+          "use": "如果句子只需要 similar 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>compatible</code> 常把一段觀察收斂成可討論的判斷。firmware update backward compatible，代表舊工具或舊資料仍能被正確處理。",
+      "像 <code>backward compatible</code>、<code>compatible with</code>、<code>compatible devices</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 compatible 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/compatible",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 compatible 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/compatible",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "詞史和「能一起受苦、能共處」有關；現代常用在系統相容性。",
+      "memoryLens": "記憶時先抓「彼此能共存、互通或不衝突」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "compatible",
+    "word": "Compatible",
+    "partOfSpeech": "adjective",
+    "href": "./compatible.html",
+    "thesis": "不是看起來相似，而是放在一起能正常運作。",
+    "tags": [
+      "相容",
+      "共存",
+      "similar",
+      "interface",
+      "device",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/compatible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/compatible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/compatible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

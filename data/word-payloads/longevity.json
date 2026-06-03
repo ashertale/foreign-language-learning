@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Longevity",
+    "slug": "longevity",
+    "outputPath": "prototypes/longevity.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "lon-JEV-ih-tee · UK /lɒnˈdʒev.ə.ti/ · US /lɑːnˈdʒev.ə.t̬i/",
+    "hero": {
+      "thesis": "不是現在能活，而是能活多久、撐多久。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.72"
+    },
+    "coreIdea": "<code>longevity</code> 把「長壽、持久性或生命週期長度」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指長壽、持久性或生命週期長度。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Durability",
+        "note": "<code>durability</code> 看耐不耐用；<code>longevity</code> 更看時間長度和生命週期。"
+      },
+      "flow": [
+        "生命週期開始",
+        "時間被拉長",
+        "仍能維持"
+      ]
+    },
+    "memory": {
+      "hook": "<code>longevity</code> 可以先記成一個畫面：生命週期開始，接著時間被拉長，最後仍能維持。",
+      "explanation": "這個畫面只用來幫你抓住「長壽、持久性或生命週期長度」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "battery longevity 不是單次續航，而是多次循環後還剩多少健康度。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>longevity</code> 和 <code>product longevity</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>longevity</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「長壽、持久性或生命週期長度」落地。",
+      "items": [
+        {
+          "phrase": "product longevity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「長壽、持久性或生命週期長度」有明確對象。"
+        },
+        {
+          "phrase": "battery longevity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "longevity of",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "長壽、持久性或生命週期長度",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Durability",
+          "meaning": "<code>durability</code> 看耐不耐用；<code>longevity</code> 更看時間長度和生命週期。",
+          "use": "如果句子只需要 durability 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>longevity</code> 常把一段觀察收斂成可討論的判斷。battery longevity 不是單次續航，而是多次循環後還剩多少健康度。",
+      "像 <code>product longevity</code>、<code>battery longevity</code>、<code>longevity of</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 longevity 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/longevity",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 longevity 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/longevity",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>longaevitas</code>，和長時間生命有關。",
+      "memoryLens": "記憶時先抓「長壽、持久性或生命週期長度」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "longevity",
+    "word": "Longevity",
+    "partOfSpeech": "noun",
+    "href": "./longevity.html",
+    "thesis": "不是現在能活，而是能活多久、撐多久。",
+    "tags": [
+      "長壽",
+      "生命週期",
+      "battery",
+      "product",
+      "time",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/longevity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/longevity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/longevity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

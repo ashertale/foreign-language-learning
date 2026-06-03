@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Collaborate",
+    "slug": "collaborate",
+    "outputPath": "prototypes/collaborate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-LAB-uh-rate · UK /kəˈlæb.ə.reɪt/ · US /kəˈlæb.ə.reɪt/",
+    "hero": {
+      "thesis": "不是各做各的再合併，而是在同一個問題上共同思考與產出。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.60"
+    },
+    "coreIdea": "<code>collaborate</code> 關心的是「共同工作、一起完成某件事」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示共同工作、一起完成某件事。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Cooperate",
+        "note": "<code>cooperate</code> 是配合；<code>collaborate</code> 更強調共同創作與共同承擔。"
+      },
+      "flow": [
+        "問題被共享",
+        "知識互補",
+        "一起產出"
+      ]
+    },
+    "memory": {
+      "hook": "<code>collaborate</code> 可以先記成一個畫面：問題被共享，接著知識互補，最後一起產出。",
+      "explanation": "這個畫面只用來幫你抓住「共同工作、一起完成某件事」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "硬體、韌體、測試一起 collaborate，規格漏洞才不會在交界處逃走。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>collaborate</code> 和 <code>collaborate with</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>collaborate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「共同工作、一起完成某件事」落地。",
+      "items": [
+        {
+          "phrase": "collaborate with",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「共同工作、一起完成某件事」有明確對象。"
+        },
+        {
+          "phrase": "cross-team collaboration",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "collaborate on design",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "共同工作、一起完成某件事",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Cooperate",
+          "meaning": "<code>cooperate</code> 是配合；<code>collaborate</code> 更強調共同創作與共同承擔。",
+          "use": "如果句子只需要 cooperate 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>collaborate</code> 常把一段觀察收斂成可討論的判斷。硬體、韌體、測試一起 collaborate，規格漏洞才不會在交界處逃走。",
+      "像 <code>collaborate with</code>、<code>cross-team collaboration</code>、<code>collaborate on design</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 collaborate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/collaborate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 collaborate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/collaborate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>collaborare</code>，意思接近「一起工作」。",
+      "memoryLens": "記憶時先抓「共同工作、一起完成某件事」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "collaborate",
+    "word": "Collaborate",
+    "partOfSpeech": "verb",
+    "href": "./collaborate.html",
+    "thesis": "不是各做各的再合併，而是在同一個問題上共同思考與產出。",
+    "tags": [
+      "協作",
+      "共同產出",
+      "cooperate",
+      "team",
+      "design",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/collaborate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/collaborate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/collaborate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

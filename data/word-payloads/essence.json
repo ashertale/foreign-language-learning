@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Essence",
+    "slug": "essence",
+    "outputPath": "prototypes/essence.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "ES-uns · UK /ˈes.əns/ · US /ˈes.əns/",
+    "hero": {
+      "thesis": "不是表面細節，而是拿掉裝飾後仍然成立的核心。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>essence</code> 把「本質、精華或核心特性」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指本質、精華或核心特性。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Detail",
+        "note": "<code>detail</code> 是細節；<code>essence</code> 是讓一件事成其為它的核心。"
+      },
+      "flow": [
+        "剝開表面",
+        "留下核心",
+        "判斷本質"
+      ]
+    },
+    "memory": {
+      "hook": "<code>essence</code> 可以先記成一個畫面：剝開表面，接著留下核心，最後判斷本質。",
+      "explanation": "這個畫面只用來幫你抓住「本質、精華或核心特性」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "design review 要 capture the essence of the problem，不然容易在枝節裡打轉。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>essence</code> 和 <code>the essence of</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>essence</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「本質、精華或核心特性」落地。",
+      "items": [
+        {
+          "phrase": "the essence of",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「本質、精華或核心特性」有明確對象。"
+        },
+        {
+          "phrase": "capture the essence",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "essentially",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "本質、精華或核心特性",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Detail",
+          "meaning": "<code>detail</code> 是細節；<code>essence</code> 是讓一件事成其為它的核心。",
+          "use": "如果句子只需要 detail 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>essence</code> 常把一段觀察收斂成可討論的判斷。design review 要 capture the essence of the problem，不然容易在枝節裡打轉。",
+      "像 <code>the essence of</code>、<code>capture the essence</code>、<code>essentially</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 essence 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/essence",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 essence 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/essence",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>esse</code>「存在、是」；本質是讓東西成為它自己的那一部分。",
+      "memoryLens": "記憶時先抓「本質、精華或核心特性」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "essence",
+    "word": "Essence",
+    "partOfSpeech": "noun",
+    "href": "./essence.html",
+    "thesis": "不是表面細節，而是拿掉裝飾後仍然成立的核心。",
+    "tags": [
+      "本質",
+      "核心",
+      "detail",
+      "design",
+      "meaning",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/essence",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/essence",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/essence",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

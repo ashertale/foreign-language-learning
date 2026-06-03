@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Conviction",
+    "slug": "conviction",
+    "outputPath": "prototypes/conviction.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "kun-VIK-shun · UK /kənˈvɪk.ʃən/ · US /kənˈvɪk.ʃən/",
+    "hero": {
+      "thesis": "不是一時看法，而是願意站穩的深層信念；在法律裡也可指定罪。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.48"
+    },
+    "coreIdea": "<code>conviction</code> 把「堅定信念，或法律上的定罪」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指堅定信念，或法律上的定罪。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Opinion",
+        "note": "<code>opinion</code> 可以很輕；<code>conviction</code> 有內在重量或法律結果。"
+      },
+      "flow": [
+        "理由累積",
+        "信念站穩",
+        "行動跟上"
+      ]
+    },
+    "memory": {
+      "hook": "<code>conviction</code> 可以先記成一個畫面：理由累積，接著信念站穩，最後行動跟上。",
+      "explanation": "這個畫面只用來幫你抓住「堅定信念，或法律上的定罪」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "說 with conviction，不是音量大，而是你知道自己為什麼相信。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>conviction</code> 和 <code>deep conviction</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>conviction</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「堅定信念，或法律上的定罪」落地。",
+      "items": [
+        {
+          "phrase": "deep conviction",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「堅定信念，或法律上的定罪」有明確對象。"
+        },
+        {
+          "phrase": "criminal conviction",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "speak with conviction",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "堅定信念，或法律上的定罪",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Opinion",
+          "meaning": "<code>opinion</code> 可以很輕；<code>conviction</code> 有內在重量或法律結果。",
+          "use": "如果句子只需要 opinion 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>conviction</code> 常把一段觀察收斂成可討論的判斷。說 with conviction，不是音量大，而是你知道自己為什麼相信。",
+      "像 <code>deep conviction</code>、<code>criminal conviction</code>、<code>speak with conviction</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 conviction 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/conviction",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 conviction 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/conviction",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>convincere</code>，和證明、使信服相關。",
+      "memoryLens": "記憶時先抓「堅定信念，或法律上的定罪」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "conviction",
+    "word": "Conviction",
+    "partOfSpeech": "noun",
+    "href": "./conviction.html",
+    "thesis": "不是一時看法，而是願意站穩的深層信念；在法律裡也可指定罪。",
+    "tags": [
+      "信念",
+      "定罪",
+      "opinion",
+      "belief",
+      "law",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/conviction",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/conviction",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/conviction",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

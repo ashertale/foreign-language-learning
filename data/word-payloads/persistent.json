@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Persistent",
+    "slug": "persistent",
+    "outputPath": "prototypes/persistent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "per-SIS-tunt · UK /pəˈsɪs.tənt/ · US /pɚˈsɪs.tənt/",
+    "hero": {
+      "thesis": "不是偶爾出現，而是一直留著、不容易消失。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.56"
+    },
+    "coreIdea": "<code>persistent</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「持續存在、堅持不退或反覆出現」。",
+    "definition": {
+      "summary": "形容持續存在、堅持不退或反覆出現的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Frequent",
+        "note": "<code>frequent</code> 是常發生；<code>persistent</code> 是不消退、一直黏在那裡。"
+      },
+      "flow": [
+        "問題或態度出現",
+        "時間過去仍在",
+        "需要正面處理"
+      ]
+    },
+    "memory": {
+      "hook": "<code>persistent</code> 可以先記成一個畫面：問題或態度出現，接著時間過去仍在，最後需要正面處理。",
+      "explanation": "這個畫面只用來幫你抓住「持續存在、堅持不退或反覆出現」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "persistent bug 最怕被當成 random noise，因為它其實一直在留下線索。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>persistent</code> 和 <code>persistent bug</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>persistent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「持續存在、堅持不退或反覆出現」落地。",
+      "items": [
+        {
+          "phrase": "persistent bug",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「持續存在、堅持不退或反覆出現」有明確對象。"
+        },
+        {
+          "phrase": "persistent memory",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "persistent effort",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "持續存在、堅持不退或反覆出現的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Frequent",
+          "meaning": "<code>frequent</code> 是常發生；<code>persistent</code> 是不消退、一直黏在那裡。",
+          "use": "如果句子只需要 frequent 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>persistent</code> 常把一段觀察收斂成可討論的判斷。persistent bug 最怕被當成 random noise，因為它其實一直在留下線索。",
+      "像 <code>persistent bug</code>、<code>persistent memory</code>、<code>persistent effort</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 persistent 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/persistent",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 persistent 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/persistent",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>persistere</code>，有持續站住、堅持的意思。",
+      "memoryLens": "記憶時先抓「持續存在、堅持不退或反覆出現的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "persistent",
+    "word": "Persistent",
+    "partOfSpeech": "adjective",
+    "href": "./persistent.html",
+    "thesis": "不是偶爾出現，而是一直留著、不容易消失。",
+    "tags": [
+      "持續",
+      "不消退",
+      "bug",
+      "memory",
+      "effort",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/persistent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/persistent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/persistent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Induce",
+    "slug": "induce",
+    "outputPath": "prototypes/induce.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "in-DOOS · UK /ɪnˈdjuːs/ · US /ɪnˈduːs/",
+    "hero": {
+      "thesis": "不是直接命令，而是創造條件讓某反應發生。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.88"
+    },
+    "coreIdea": "<code>induce</code> 關心的是「引發、誘導或歸納」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "definition": {
+      "summary": "表示引發、誘導或歸納。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "contrast": {
+        "word": "Cause",
+        "note": "<code>cause</code> 是造成；<code>induce</code> 常像把系統推到會產生反應的條件。"
+      },
+      "flow": [
+        "條件被設計",
+        "反應被觸發",
+        "結果出現"
+      ]
+    },
+    "memory": {
+      "hook": "<code>induce</code> 可以先記成一個畫面：條件被設計，接著反應被觸發，最後結果出現。",
+      "explanation": "這個畫面只用來幫你抓住「引發、誘導或歸納」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "stress test can induce failure，因為它刻意把系統推到邊界。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>induce</code> 和 <code>induce failure</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>induce</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「引發、誘導或歸納」落地。",
+      "items": [
+        {
+          "phrase": "induce failure",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「引發、誘導或歸納」有明確對象。"
+        },
+        {
+          "phrase": "induce sleep",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "induce a response",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "引發、誘導或歸納",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Cause",
+          "meaning": "<code>cause</code> 是造成；<code>induce</code> 常像把系統推到會產生反應的條件。",
+          "use": "如果句子只需要 cause 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>induce</code> 常把一段觀察收斂成可討論的判斷。stress test can induce failure，因為它刻意把系統推到邊界。",
+      "像 <code>induce failure</code>、<code>induce sleep</code>、<code>induce a response</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 induce 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/induce",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 induce 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/induce",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>inducere</code>，有引入、帶進去的意思。",
+      "memoryLens": "記憶時先抓「引發、誘導或歸納」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "induce",
+    "word": "Induce",
+    "partOfSpeech": "verb",
+    "href": "./induce.html",
+    "thesis": "不是直接命令，而是創造條件讓某反應發生。",
+    "tags": [
+      "引發",
+      "誘導",
+      "cause",
+      "test",
+      "response",
+      "verb",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/induce",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/induce",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/induce",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

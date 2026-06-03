@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Gravity",
+    "slug": "gravity",
+    "outputPath": "prototypes/gravity.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "GRAV-ih-tee · UK /ˈɡræv.ə.ti/ · US /ˈɡræv.ə.t̬i/",
+    "hero": {
+      "thesis": "不是只有地心引力，也可以是事情的嚴重重量。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>gravity</code> 把「重力、嚴重性或莊重感」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指重力、嚴重性或莊重感。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Seriousness",
+        "note": "<code>seriousness</code> 是嚴肅程度；<code>gravity</code> 像重量一樣壓下來。"
+      },
+      "flow": [
+        "事件發生",
+        "後果有重量",
+        "態度必須變沉"
+      ]
+    },
+    "memory": {
+      "hook": "<code>gravity</code> 可以先記成一個畫面：事件發生，接著後果有重量，最後態度必須變沉。",
+      "explanation": "這個畫面只用來幫你抓住「重力、嚴重性或莊重感」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "資安外洩的 gravity 在於信任被破壞，不只是修一個 bug。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>gravity</code> 和 <code>gravity of the situation</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>gravity</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「重力、嚴重性或莊重感」落地。",
+      "items": [
+        {
+          "phrase": "gravity of the situation",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「重力、嚴重性或莊重感」有明確對象。"
+        },
+        {
+          "phrase": "center of gravity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "moral gravity",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "重力、嚴重性或莊重感",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Seriousness",
+          "meaning": "<code>seriousness</code> 是嚴肅程度；<code>gravity</code> 像重量一樣壓下來。",
+          "use": "如果句子只需要 seriousness 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>gravity</code> 常把一段觀察收斂成可討論的判斷。資安外洩的 gravity 在於信任被破壞，不只是修一個 bug。",
+      "像 <code>gravity of the situation</code>、<code>center of gravity</code>、<code>moral gravity</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 gravity 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/gravity",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 gravity 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/gravity",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>gravis</code>「重的、嚴肅的」。",
+      "memoryLens": "記憶時先抓「重力、嚴重性或莊重感」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "gravity",
+    "word": "Gravity",
+    "partOfSpeech": "noun",
+    "href": "./gravity.html",
+    "thesis": "不是只有地心引力，也可以是事情的嚴重重量。",
+    "tags": [
+      "重力",
+      "嚴重",
+      "weight",
+      "incident",
+      "trust",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/gravity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/gravity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/gravity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

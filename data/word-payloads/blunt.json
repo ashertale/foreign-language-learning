@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Blunt",
+    "slug": "blunt",
+    "outputPath": "prototypes/blunt.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "BLUNT · UK /blʌnt/ · US /blʌnt/",
+    "hero": {
+      "thesis": "不是誠實那麼簡單，而是沒有修飾、可能直接撞到人的說法。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.80"
+    },
+    "coreIdea": "<code>blunt</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「直接、不圓滑，或物理上不尖銳」。",
+    "definition": {
+      "summary": "形容直接、不圓滑，或物理上不尖銳。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Honest",
+        "note": "<code>honest</code> 重點是真實；<code>blunt</code> 重點是邊緣沒有修飾。"
+      },
+      "flow": [
+        "修飾被拿掉",
+        "話直接落下",
+        "對方感到衝擊"
+      ]
+    },
+    "memory": {
+      "hook": "<code>blunt</code> 可以先記成一個畫面：修飾被拿掉，接著話直接落下，最後對方感到衝擊。",
+      "explanation": "這個畫面只用來幫你抓住「直接、不圓滑，或物理上不尖銳」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "blunt feedback 可以節省時間，也可能讓合作關係多一道傷口。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>blunt</code> 和 <code>blunt feedback</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>blunt</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「直接、不圓滑，或物理上不尖銳」落地。",
+      "items": [
+        {
+          "phrase": "blunt feedback",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「直接、不圓滑，或物理上不尖銳」有明確對象。"
+        },
+        {
+          "phrase": "blunt instrument",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "blunt assessment",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "直接、不圓滑，或物理上不尖銳",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Honest",
+          "meaning": "<code>honest</code> 重點是真實；<code>blunt</code> 重點是邊緣沒有修飾。",
+          "use": "如果句子只需要 honest 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>blunt</code> 常把一段觀察收斂成可討論的判斷。blunt feedback 可以節省時間，也可能讓合作關係多一道傷口。",
+      "像 <code>blunt feedback</code>、<code>blunt instrument</code>、<code>blunt assessment</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 blunt 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/blunt",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 blunt 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/blunt",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "原本可指不鋒利；用到語氣時，就是把柔邊拿掉。",
+      "memoryLens": "記憶時先抓「直接、不圓滑，或物理上不尖銳」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "blunt",
+    "word": "Blunt",
+    "partOfSpeech": "adjective",
+    "href": "./blunt.html",
+    "thesis": "不是誠實那麼簡單，而是沒有修飾、可能直接撞到人的說法。",
+    "tags": [
+      "直白",
+      "不尖銳",
+      "honest",
+      "feedback",
+      "tone",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/blunt",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/blunt",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/blunt",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

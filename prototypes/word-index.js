@@ -3855,5 +3855,2855 @@ window.WORD_INDEX = [
       "focus",
       "verb"
     ]
+  },
+  {
+    id: "aberration",
+    word: "Aberration",
+    partOfSpeech: "noun",
+    href: "./aberration.html",
+    order: 201,
+    cefr: "C1",
+    zipf: 3.64,
+    thesis: "不是普通錯誤，而是偏離正常模式、需要被解釋的異常點。",
+    tags: [
+      "異常",
+      "偏差",
+      "anomaly",
+      "data",
+      "debug",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "adherence",
+    word: "Adherence",
+    partOfSpeech: "noun",
+    href: "./adherence.html",
+    order: 202,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是口頭同意，而是實際黏在規範、流程或承諾上。",
+    tags: [
+      "遵守",
+      "流程",
+      "protocol",
+      "discipline",
+      "quality",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "adjacent",
+    word: "Adjacent",
+    partOfSpeech: "adjective",
+    href: "./adjacent.html",
+    order: 203,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是大致附近，而是邊界相鄰、下一格就碰到。",
+    tags: [
+      "相鄰",
+      "邊界",
+      "nearby",
+      "memory",
+      "risk",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "agenda",
+    word: "Agenda",
+    partOfSpeech: "noun",
+    href: "./agenda.html",
+    order: 204,
+    cefr: "B2",
+    zipf: 4.32,
+    thesis: "不是單純行程表，而是某場討論真正要推進的事項。",
+    tags: [
+      "議程",
+      "事項",
+      "meeting",
+      "priority",
+      "decision",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "agile",
+    word: "Agile",
+    partOfSpeech: "adjective",
+    href: "./agile.html",
+    order: 205,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是只跑得快，而是能在變化來時迅速轉向。",
+    tags: [
+      "敏捷",
+      "變化",
+      "flexible",
+      "process",
+      "team",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "allude",
+    word: "Allude",
+    partOfSpeech: "verb",
+    href: "./allude.html",
+    order: 206,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是直接說破，而是用一句話輕輕指向某個意思。",
+    tags: [
+      "暗示",
+      "間接",
+      "mention",
+      "writing",
+      "reference",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "ambivalent",
+    word: "Ambivalent",
+    partOfSpeech: "adjective",
+    href: "./ambivalent.html",
+    order: 207,
+    cefr: "B2",
+    zipf: 3.40,
+    thesis: "不是沒有意見，而是心裡同時拉著兩股相反力量。",
+    tags: [
+      "矛盾",
+      "混合感受",
+      "indifferent",
+      "decision",
+      "tradeoff",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "analogy",
+    word: "Analogy",
+    partOfSpeech: "noun",
+    href: "./analogy.html",
+    order: 208,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是例子，而是拿另一個結構相似的東西幫你理解。",
+    tags: [
+      "類比",
+      "理解",
+      "example",
+      "model",
+      "teaching",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "antidote",
+    word: "Antidote",
+    partOfSpeech: "noun",
+    href: "./antidote.html",
+    order: 209,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是普通解法，而是專門抵消某種毒性或壞影響的東西。",
+    tags: [
+      "解藥",
+      "抵消",
+      "cure",
+      "risk",
+      "fear",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "appetite",
+    word: "Appetite",
+    partOfSpeech: "noun",
+    href: "./appetite.html",
+    order: 210,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是只有食慾，也可以是願意承擔某種需求或風險的胃口。",
+    tags: [
+      "胃口",
+      "需求",
+      "risk",
+      "business",
+      "desire",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "apprehensive",
+    word: "Apprehensive",
+    partOfSpeech: "adjective",
+    href: "./apprehensive.html",
+    order: 211,
+    cefr: "B2",
+    zipf: 3.36,
+    thesis: "不是單純害怕，而是預感事情可能出錯的緊繃。",
+    tags: [
+      "不安",
+      "預感",
+      "afraid",
+      "risk",
+      "release",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "aptitude",
+    word: "Aptitude",
+    partOfSpeech: "noun",
+    href: "./aptitude.html",
+    order: 212,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是已經會了，而是很適合學會某件事的潛力。",
+    tags: [
+      "適性",
+      "潛力",
+      "skill",
+      "learning",
+      "talent",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "aspiration",
+    word: "Aspiration",
+    partOfSpeech: "noun",
+    href: "./aspiration.html",
+    order: 213,
+    cefr: "B2",
+    zipf: 3.44,
+    thesis: "不是短期目標，而是把人往上拉的長期嚮往。",
+    tags: [
+      "志向",
+      "嚮往",
+      "goal",
+      "career",
+      "future",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "assiduous",
+    word: "Assiduous",
+    partOfSpeech: "adjective",
+    href: "./assiduous.html",
+    order: 214,
+    cefr: "C1",
+    zipf: 3.68,
+    thesis: "不是偶爾努力，而是細密、持續、不偷懶地照顧每個角落。",
+    tags: [
+      "勤勉",
+      "細節",
+      "diligent",
+      "review",
+      "practice",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "autonomous",
+    word: "Autonomous",
+    partOfSpeech: "adjective",
+    href: "./autonomous.html",
+    order: 215,
+    cefr: "B2",
+    zipf: 3.64,
+    thesis: "不是沒人管，而是能在既定邊界內自己作決定。",
+    tags: [
+      "自主",
+      "決策",
+      "independent",
+      "system",
+      "control",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "aversion",
+    word: "Aversion",
+    partOfSpeech: "noun",
+    href: "./aversion.html",
+    order: 216,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是普通不喜歡，而是身體和判斷都想避開。",
+    tags: [
+      "厭惡",
+      "避開",
+      "dislike",
+      "risk",
+      "reaction",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "baffle",
+    word: "Baffle",
+    partOfSpeech: "verb",
+    href: "./baffle.html",
+    order: 217,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是普通不懂，而是資訊進來後被擋住，怎麼對都對不起來。",
+    tags: [
+      "困惑",
+      "卡住",
+      "confuse",
+      "debug",
+      "mystery",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "belated",
+    word: "Belated",
+    partOfSpeech: "adjective",
+    href: "./belated.html",
+    order: 218,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是遲到而已，而是本該更早出現的東西拖到現在才來。",
+    tags: [
+      "遲來",
+      "補救",
+      "late",
+      "timing",
+      "response",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "benign",
+    word: "Benign",
+    partOfSpeech: "adjective",
+    href: "./benign.html",
+    order: 219,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是完全沒事，而是性質溫和、不會造成嚴重傷害。",
+    tags: [
+      "良性",
+      "溫和",
+      "harmless",
+      "risk",
+      "medical",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "bias",
+    word: "Bias",
+    partOfSpeech: "noun",
+    href: "./bias.html",
+    order: 220,
+    cefr: "B2",
+    zipf: 4.17,
+    thesis: "不是明顯偏袒而已，也可能是資料、判斷或流程裡的系統性偏斜。",
+    tags: [
+      "偏差",
+      "偏見",
+      "data",
+      "judgment",
+      "fairness",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "blunt",
+    word: "Blunt",
+    partOfSpeech: "adjective",
+    href: "./blunt.html",
+    order: 221,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是誠實那麼簡單，而是沒有修飾、可能直接撞到人的說法。",
+    tags: [
+      "直白",
+      "不尖銳",
+      "honest",
+      "feedback",
+      "tone",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "boundary",
+    word: "Boundary",
+    partOfSpeech: "noun",
+    href: "./boundary.html",
+    order: 222,
+    cefr: "B2",
+    zipf: 4.06,
+    thesis: "不是牆，而是告訴你哪裡算裡面、哪裡開始算外面的線。",
+    tags: [
+      "邊界",
+      "範圍",
+      "limit",
+      "module",
+      "responsibility",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "capricious",
+    word: "Capricious",
+    partOfSpeech: "adjective",
+    href: "./capricious.html",
+    order: 223,
+    cefr: "C1",
+    zipf: 3.60,
+    thesis: "不是單純多變，而是變得沒有理由、讓人難以預測。",
+    tags: [
+      "反覆無常",
+      "任性",
+      "unpredictable",
+      "decision",
+      "behavior",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "cautious",
+    word: "Cautious",
+    partOfSpeech: "adjective",
+    href: "./cautious.html",
+    order: 224,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是膽小，而是在行動前先把風險看清楚。",
+    tags: [
+      "謹慎",
+      "風險",
+      "timid",
+      "rollout",
+      "safety",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "circumvent",
+    word: "Circumvent",
+    partOfSpeech: "verb",
+    href: "./circumvent.html",
+    order: 225,
+    cefr: "C1",
+    zipf: 3.52,
+    thesis: "不是正面解決，而是繞過限制、規則或障礙。",
+    tags: [
+      "繞過",
+      "限制",
+      "avoid",
+      "rules",
+      "workaround",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "cite",
+    word: "Cite",
+    partOfSpeech: "verb",
+    href: "./cite.html",
+    order: 226,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是隨口提到，而是指出來源、證據或正式依據。",
+    tags: [
+      "引用",
+      "來源",
+      "quote",
+      "evidence",
+      "spec",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "civil",
+    word: "Civil",
+    partOfSpeech: "adjective",
+    href: "./civil.html",
+    order: 227,
+    cefr: "B2",
+    zipf: 4.19,
+    thesis: "不是熱情友好，而是在公共互動裡保持基本禮貌和秩序。",
+    tags: [
+      "文明",
+      "公民",
+      "polite",
+      "rights",
+      "discussion",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "coalition",
+    word: "Coalition",
+    partOfSpeech: "noun",
+    href: "./coalition.html",
+    order: 228,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是自然同一群，而是為了共同目的暫時站到一起。",
+    tags: [
+      "聯盟",
+      "合作",
+      "alliance",
+      "team",
+      "policy",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "coincide",
+    word: "Coincide",
+    partOfSpeech: "verb",
+    href: "./coincide.html",
+    order: 229,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是互相造成，而是時間、位置或看法剛好落在一起。",
+    tags: [
+      "重合",
+      "同時",
+      "cause",
+      "correlation",
+      "time",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "collaborate",
+    word: "Collaborate",
+    partOfSpeech: "verb",
+    href: "./collaborate.html",
+    order: 230,
+    cefr: "B2",
+    zipf: 3.60,
+    thesis: "不是各做各的再合併，而是在同一個問題上共同思考與產出。",
+    tags: [
+      "協作",
+      "共同產出",
+      "cooperate",
+      "team",
+      "design",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "commend",
+    word: "Commend",
+    partOfSpeech: "verb",
+    href: "./commend.html",
+    order: 231,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是普通稱讚，而是正式肯定某個值得尊重的行動或品質。",
+    tags: [
+      "稱許",
+      "肯定",
+      "praise",
+      "recognition",
+      "culture",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "compatible",
+    word: "Compatible",
+    partOfSpeech: "adjective",
+    href: "./compatible.html",
+    order: 232,
+    cefr: "B2",
+    zipf: 3.52,
+    thesis: "不是看起來相似，而是放在一起能正常運作。",
+    tags: [
+      "相容",
+      "共存",
+      "similar",
+      "interface",
+      "device",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "complacent",
+    word: "Complacent",
+    partOfSpeech: "adjective",
+    href: "./complacent.html",
+    order: 233,
+    cefr: "C2",
+    zipf: 3.48,
+    thesis: "不是安心，而是因為太滿意現狀而失去警覺。",
+    tags: [
+      "自滿",
+      "警覺",
+      "confident",
+      "safety",
+      "risk",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "comply",
+    word: "Comply",
+    partOfSpeech: "verb",
+    href: "./comply.html",
+    order: 234,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是認同，而是照規定、要求或命令去做。",
+    tags: [
+      "遵從",
+      "合規",
+      "agree",
+      "standard",
+      "regulation",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "concise",
+    word: "Concise",
+    partOfSpeech: "adjective",
+    href: "./concise.html",
+    order: 235,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是短就好，而是拿掉多餘後仍保留必要資訊。",
+    tags: [
+      "精簡",
+      "清楚",
+      "short",
+      "writing",
+      "report",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "concurrent",
+    word: "Concurrent",
+    partOfSpeech: "adjective",
+    href: "./concurrent.html",
+    order: 236,
+    cefr: "B2",
+    zipf: 3.64,
+    thesis: "不是先後很近，而是多件事在同一段時間內一起發生。",
+    tags: [
+      "並行",
+      "同時",
+      "sequential",
+      "tasks",
+      "access",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "conducive",
+    word: "Conducive",
+    partOfSpeech: "adjective",
+    href: "./conducive.html",
+    order: 237,
+    cefr: "C1",
+    zipf: 3.88,
+    thesis: "不是直接造成，而是讓某件事更容易發生。",
+    tags: [
+      "有助於",
+      "環境",
+      "cause",
+      "learning",
+      "debug",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "consensus",
+    word: "Consensus",
+    partOfSpeech: "noun",
+    href: "./consensus.html",
+    order: 238,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是每個人都熱烈同意，而是足夠多人接受同一個方向。",
+    tags: [
+      "共識",
+      "決策",
+      "unanimity",
+      "team",
+      "agreement",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "consequential",
+    word: "Consequential",
+    partOfSpeech: "adjective",
+    href: "./consequential.html",
+    order: 239,
+    cefr: "C1",
+    zipf: 3.36,
+    thesis: "不是大聲或顯眼，而是會帶來後果、值得認真處理。",
+    tags: [
+      "後果",
+      "重要",
+      "impact",
+      "decision",
+      "change",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "conserve",
+    word: "Conserve",
+    partOfSpeech: "verb",
+    href: "./conserve.html",
+    order: 240,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是不用，而是有意識地少耗損、保留下來。",
+    tags: [
+      "保存",
+      "節約",
+      "save",
+      "energy",
+      "resource",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "consistent",
+    word: "Consistent",
+    partOfSpeech: "adjective",
+    href: "./consistent.html",
+    order: 241,
+    cefr: "B2",
+    zipf: 4.18,
+    thesis: "不是永遠一樣，而是在同一規則下不互相打架。",
+    tags: [
+      "一致",
+      "穩定",
+      "identical",
+      "naming",
+      "result",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "constitute",
+    word: "Constitute",
+    partOfSpeech: "verb",
+    href: "./constitute.html",
+    order: 242,
+    cefr: "B2",
+    zipf: 3.40,
+    thesis: "不是剛好相關，而是足以構成某種狀態或分類。",
+    tags: [
+      "構成",
+      "成立",
+      "represent",
+      "risk",
+      "law",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "contextualize",
+    word: "Contextualize",
+    partOfSpeech: "verb",
+    href: "./contextualize.html",
+    order: 243,
+    cefr: "B2",
+    zipf: 3.48,
+    thesis: "不是補一堆背景，而是把資訊放回能被正確理解的位置。",
+    tags: [
+      "脈絡化",
+      "背景",
+      "explain",
+      "data",
+      "decision",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "contradict",
+    word: "Contradict",
+    partOfSpeech: "verb",
+    href: "./contradict.html",
+    order: 244,
+    cefr: "B2",
+    zipf: 3.60,
+    thesis: "不是補充不同角度，而是直接和前一個說法互相撞上。",
+    tags: [
+      "矛盾",
+      "相反",
+      "disagree",
+      "evidence",
+      "logic",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "contrive",
+    word: "Contrive",
+    partOfSpeech: "verb",
+    href: "./contrive.html",
+    order: 245,
+    cefr: "C1",
+    zipf: 3.84,
+    thesis: "不是自然形成，而是費力設計出來，常帶一點不自然。",
+    tags: [
+      "設計",
+      "硬湊",
+      "devise",
+      "example",
+      "solution",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "conventional",
+    word: "Conventional",
+    partOfSpeech: "adjective",
+    href: "./conventional.html",
+    order: 246,
+    cefr: "B2",
+    zipf: 3.36,
+    thesis: "不是一定正確，而是符合大多數人習慣接受的方式。",
+    tags: [
+      "慣例",
+      "傳統",
+      "standard",
+      "design",
+      "method",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "conviction",
+    word: "Conviction",
+    partOfSpeech: "noun",
+    href: "./conviction.html",
+    order: 247,
+    cefr: "B2",
+    zipf: 3.48,
+    thesis: "不是一時看法，而是願意站穩的深層信念；在法律裡也可指定罪。",
+    tags: [
+      "信念",
+      "定罪",
+      "opinion",
+      "belief",
+      "law",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "coordinate",
+    word: "Coordinate",
+    partOfSpeech: "verb",
+    href: "./coordinate.html",
+    order: 248,
+    cefr: "B2",
+    zipf: 3.44,
+    thesis: "不是單純通知大家，而是把多方動作排到能互相配合。",
+    tags: [
+      "協調",
+      "配合",
+      "organize",
+      "release",
+      "team",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "credible",
+    word: "Credible",
+    partOfSpeech: "adjective",
+    href: "./credible.html",
+    order: 249,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是聽起來好，而是有足夠理由讓人相信。",
+    tags: [
+      "可信",
+      "證據",
+      "plausible",
+      "source",
+      "root cause",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "criterion",
+    word: "Criterion",
+    partOfSpeech: "noun",
+    href: "./criterion.html",
+    order: 250,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是一般條件，而是用來判斷是否合格的標準。",
+    tags: [
+      "標準",
+      "判準",
+      "requirement",
+      "evaluation",
+      "acceptance",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "cultivate",
+    word: "Cultivate",
+    partOfSpeech: "verb",
+    href: "./cultivate.html",
+    order: 251,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是立刻製造，而是像照顧土壤一樣慢慢養成。",
+    tags: [
+      "培養",
+      "耕耘",
+      "develop",
+      "habit",
+      "trust",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "decentralize",
+    word: "Decentralize",
+    partOfSpeech: "verb",
+    href: "./decentralize.html",
+    order: 252,
+    cefr: "C1",
+    zipf: 3.40,
+    thesis: "不是拆散，而是把權力、資料或決策從中心分散出去。",
+    tags: [
+      "去中心化",
+      "分權",
+      "system",
+      "authority",
+      "decision",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "declarative",
+    word: "Declarative",
+    partOfSpeech: "adjective",
+    href: "./declarative.html",
+    order: 253,
+    cefr: "C1",
+    zipf: 3.52,
+    thesis: "不是一步步命令，而是直接描述希望成立的狀態。",
+    tags: [
+      "宣告式",
+      "陳述",
+      "imperative",
+      "config",
+      "syntax",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "defer",
+    word: "Defer",
+    partOfSpeech: "verb",
+    href: "./defer.html",
+    order: 254,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是放棄，而是把決定、行動或優先權往後移。",
+    tags: [
+      "延後",
+      "讓位",
+      "delay",
+      "decision",
+      "expert",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "deficit",
+    word: "Deficit",
+    partOfSpeech: "noun",
+    href: "./deficit.html",
+    order: 255,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是普通不足，而是和應有水準相比出現缺口。",
+    tags: [
+      "赤字",
+      "缺口",
+      "shortage",
+      "budget",
+      "skill",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "delegate",
+    word: "Delegate",
+    partOfSpeech: "verb",
+    href: "./delegate.html",
+    order: 256,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是把事情丟出去，而是把責任和權限一起交給合適的人。",
+    tags: [
+      "委派",
+      "授權",
+      "assign",
+      "task",
+      "authority",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "depict",
+    word: "Depict",
+    partOfSpeech: "verb",
+    href: "./depict.html",
+    order: 257,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是說明規格，而是用文字、圖像或敘事把畫面呈現出來。",
+    tags: [
+      "描繪",
+      "呈現",
+      "describe",
+      "diagram",
+      "scene",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "derive",
+    word: "Derive",
+    partOfSpeech: "verb",
+    href: "./derive.html",
+    order: 258,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是憑空得到，而是從某個來源、規則或前提出來。",
+    tags: [
+      "推導",
+      "衍生",
+      "source",
+      "formula",
+      "data",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "designate",
+    word: "Designate",
+    partOfSpeech: "verb",
+    href: "./designate.html",
+    order: 259,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是隨便叫它，而是正式指定某個身份、用途或角色。",
+    tags: [
+      "指定",
+      "標明",
+      "name",
+      "role",
+      "area",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "deteriorate",
+    word: "Deteriorate",
+    partOfSpeech: "verb",
+    href: "./deteriorate.html",
+    order: 260,
+    cefr: "B2",
+    zipf: 3.52,
+    thesis: "不是突然壞掉，而是品質或狀態一路變差。",
+    tags: [
+      "惡化",
+      "退化",
+      "break",
+      "performance",
+      "quality",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "devise",
+    word: "Devise",
+    partOfSpeech: "verb",
+    href: "./devise.html",
+    order: 261,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是找到現成答案，而是自己設計一個可行方法。",
+    tags: [
+      "設計",
+      "想出",
+      "plan",
+      "test",
+      "strategy",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "diagnose",
+    word: "Diagnose",
+    partOfSpeech: "verb",
+    href: "./diagnose.html",
+    order: 262,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是猜原因，而是根據症狀和證據判斷問題本質。",
+    tags: [
+      "診斷",
+      "根因",
+      "guess",
+      "fault",
+      "symptom",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "diffuse",
+    word: "Diffuse",
+    partOfSpeech: "verb",
+    href: "./diffuse.html",
+    order: 263,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是集中傳遞，而是向四周散開、變得分散。",
+    tags: [
+      "擴散",
+      "分散",
+      "spread",
+      "light",
+      "responsibility",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "diminish",
+    word: "Diminish",
+    partOfSpeech: "verb",
+    href: "./diminish.html",
+    order: 264,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是消失，而是重要性、數量或力量逐漸變小。",
+    tags: [
+      "削弱",
+      "減少",
+      "reduce",
+      "trust",
+      "risk",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "discreet",
+    word: "Discreet",
+    partOfSpeech: "adjective",
+    href: "./discreet.html",
+    order: 265,
+    cefr: "C1",
+    zipf: 3.88,
+    thesis: "不是秘密兮兮，而是知道什麼該低調處理。",
+    tags: [
+      "謹慎",
+      "低調",
+      "secret",
+      "message",
+      "privacy",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "distinct",
+    word: "Distinct",
+    partOfSpeech: "adjective",
+    href: "./distinct.html",
+    order: 266,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是稍微不同，而是邊界清楚、可以分開辨認。",
+    tags: [
+      "清楚不同",
+      "區分",
+      "different",
+      "category",
+      "root cause",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "diversify",
+    word: "Diversify",
+    partOfSpeech: "verb",
+    href: "./diversify.html",
+    order: 267,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是隨便增加種類，而是降低單一路徑或單一來源的風險。",
+    tags: [
+      "多樣化",
+      "分散風險",
+      "supply",
+      "portfolio",
+      "skills",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "doctrine",
+    word: "Doctrine",
+    partOfSpeech: "noun",
+    href: "./doctrine.html",
+    order: 268,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是一條規則，而是一整套指導判斷的原則。",
+    tags: [
+      "原則體系",
+      "信條",
+      "rule",
+      "policy",
+      "architecture",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "durable",
+    word: "Durable",
+    partOfSpeech: "adjective",
+    href: "./durable.html",
+    order: 269,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是一時能用，而是經得起時間、壓力和重複使用。",
+    tags: [
+      "耐用",
+      "持久",
+      "strong",
+      "fix",
+      "design",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "earnest",
+    word: "Earnest",
+    partOfSpeech: "adjective",
+    href: "./earnest.html",
+    order: 270,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是表面熱情，而是真心認真、沒有玩笑或敷衍。",
+    tags: [
+      "真誠",
+      "認真",
+      "serious",
+      "effort",
+      "conversation",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "eclectic",
+    word: "Eclectic",
+    partOfSpeech: "adjective",
+    href: "./eclectic.html",
+    order: 271,
+    cefr: "C1",
+    zipf: 3.92,
+    thesis: "不是雜亂拼貼，而是從不同來源挑出有用的東西組合。",
+    tags: [
+      "兼收並蓄",
+      "挑選",
+      "random",
+      "toolkit",
+      "style",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "efficient",
+    word: "Efficient",
+    partOfSpeech: "adjective",
+    href: "./efficient.html",
+    order: 272,
+    cefr: "B2",
+    zipf: 4.22,
+    thesis: "不是忙得快，而是用較少資源完成真正的工作。",
+    tags: [
+      "效率",
+      "資源",
+      "fast",
+      "algorithm",
+      "workflow",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "elevate",
+    word: "Elevate",
+    partOfSpeech: "verb",
+    href: "./elevate.html",
+    order: 273,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是普通提高，而是把層級、品質或注意力往上抬。",
+    tags: [
+      "提升",
+      "抬高",
+      "raise",
+      "priority",
+      "quality",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "eligible",
+    word: "Eligible",
+    partOfSpeech: "adjective",
+    href: "./eligible.html",
+    order: 274,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是已經被選中，而是符合條件、有資格被考慮。",
+    tags: [
+      "資格",
+      "條件",
+      "selected",
+      "candidate",
+      "upgrade",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "emulate",
+    word: "Emulate",
+    partOfSpeech: "verb",
+    href: "./emulate.html",
+    order: 275,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是單純模仿外表，而是努力達到對方的效果或水準。",
+    tags: [
+      "仿效",
+      "模擬",
+      "imitate",
+      "emulator",
+      "behavior",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "enable",
+    word: "Enable",
+    partOfSpeech: "verb",
+    href: "./enable.html",
+    order: 276,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是替人完成，而是讓某件事變得可以發生。",
+    tags: [
+      "使能",
+      "允許",
+      "feature",
+      "access",
+      "API",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "encounter",
+    word: "Encounter",
+    partOfSpeech: "verb",
+    href: "./encounter.html",
+    order: 277,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是刻意尋找，而是在路上遇到問題、人或情況。",
+    tags: [
+      "遭遇",
+      "遇到",
+      "find",
+      "problem",
+      "test",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "enduring",
+    word: "Enduring",
+    partOfSpeech: "adjective",
+    href: "./enduring.html",
+    order: 278,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是暫時撐住，而是時間過去後仍然存在。",
+    tags: [
+      "持久",
+      "經得起",
+      "lasting",
+      "principle",
+      "value",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "enforce",
+    word: "Enforce",
+    partOfSpeech: "verb",
+    href: "./enforce.html",
+    order: 279,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是寫下規則，而是讓規則真的被執行。",
+    tags: [
+      "執行",
+      "強制",
+      "policy",
+      "constraint",
+      "rule",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "enhance",
+    word: "Enhance",
+    partOfSpeech: "verb",
+    href: "./enhance.html",
+    order: 280,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是從無到有，而是在既有基礎上讓效果更好。",
+    tags: [
+      "增強",
+      "改善",
+      "performance",
+      "security",
+      "quality",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "enrich",
+    word: "Enrich",
+    partOfSpeech: "verb",
+    href: "./enrich.html",
+    order: 281,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是加更多東西，而是讓內容、經驗或資料更有養分。",
+    tags: [
+      "豐富",
+      "加值",
+      "data",
+      "context",
+      "experience",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "enterprise",
+    word: "Enterprise",
+    partOfSpeech: "noun",
+    href: "./enterprise.html",
+    order: 282,
+    cefr: "B2",
+    zipf: 3.48,
+    thesis: "不是任何公司，而是帶有規模、風險和組織能力的事業。",
+    tags: [
+      "企業",
+      "事業",
+      "business",
+      "software",
+      "scale",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "enumerate",
+    word: "Enumerate",
+    partOfSpeech: "verb",
+    href: "./enumerate.html",
+    order: 283,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是大概列出，而是逐項數清楚。",
+    tags: [
+      "列舉",
+      "編號",
+      "list",
+      "device",
+      "case",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "equitable",
+    word: "Equitable",
+    partOfSpeech: "adjective",
+    href: "./equitable.html",
+    order: 284,
+    cefr: "C1",
+    zipf: 3.68,
+    thesis: "不是每個人都拿一樣，而是按情境分配到公平。",
+    tags: [
+      "公平",
+      "合理",
+      "equal",
+      "access",
+      "workload",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "eradicate",
+    word: "Eradicate",
+    partOfSpeech: "verb",
+    href: "./eradicate.html",
+    order: 285,
+    cefr: "C1",
+    zipf: 3.92,
+    thesis: "不是減少，而是連根拔起到不再存在。",
+    tags: [
+      "根除",
+      "消滅",
+      "root",
+      "defect",
+      "disease",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "escalate",
+    word: "Escalate",
+    partOfSpeech: "verb",
+    href: "./escalate.html",
+    order: 286,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是單純變多，而是層級、嚴重度或處理權限往上升。",
+    tags: [
+      "升級",
+      "上報",
+      "increase",
+      "issue",
+      "severity",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "essence",
+    word: "Essence",
+    partOfSpeech: "noun",
+    href: "./essence.html",
+    order: 287,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是表面細節，而是拿掉裝飾後仍然成立的核心。",
+    tags: [
+      "本質",
+      "核心",
+      "detail",
+      "design",
+      "meaning",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "evaluate",
+    word: "Evaluate",
+    partOfSpeech: "verb",
+    href: "./evaluate.html",
+    order: 288,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是看一看，而是用標準判斷價值、效果或風險。",
+    tags: [
+      "評估",
+      "判斷",
+      "check",
+      "risk",
+      "option",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "exacting",
+    word: "Exacting",
+    partOfSpeech: "adjective",
+    href: "./exacting.html",
+    order: 289,
+    cefr: "C1",
+    zipf: 3.76,
+    thesis: "不是普通困難，而是標準很高、容錯很小。",
+    tags: [
+      "嚴格",
+      "精準",
+      "difficult",
+      "standard",
+      "requirement",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "exceptional",
+    word: "Exceptional",
+    partOfSpeech: "adjective",
+    href: "./exceptional.html",
+    order: 290,
+    cefr: "B2",
+    zipf: 3.44,
+    thesis: "不是普通好，而是好到脫離一般範圍；也可指例外。",
+    tags: [
+      "例外",
+      "卓越",
+      "good",
+      "case",
+      "performance",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "exempt",
+    word: "Exempt",
+    partOfSpeech: "adjective",
+    href: "./exempt.html",
+    order: 291,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是沒關係，而是被正式排除在某項要求之外。",
+    tags: [
+      "豁免",
+      "免除",
+      "excluded",
+      "policy",
+      "status",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "exert",
+    word: "Exert",
+    partOfSpeech: "verb",
+    href: "./exert.html",
+    order: 292,
+    cefr: "B2",
+    zipf: 4.04,
+    thesis: "不是擁有力量，而是把力量實際施加出去。",
+    tags: [
+      "施加",
+      "用力",
+      "influence",
+      "pressure",
+      "effort",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "explicit",
+    word: "Explicit",
+    partOfSpeech: "adjective",
+    href: "./explicit.html",
+    order: 293,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是大家心裡知道，而是被清楚說出來、寫出來。",
+    tags: [
+      "明確",
+      "清楚",
+      "implicit",
+      "dependency",
+      "instruction",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "exploit",
+    word: "Exploit",
+    partOfSpeech: "verb",
+    href: "./exploit.html",
+    order: 294,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是單純使用，而是利用某個資源、機會或漏洞取得利益。",
+    tags: [
+      "利用",
+      "漏洞",
+      "use",
+      "security",
+      "opportunity",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "exposure",
+    word: "Exposure",
+    partOfSpeech: "noun",
+    href: "./exposure.html",
+    order: 295,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是已經受害，而是被放到風險、光線或經驗面前。",
+    tags: [
+      "暴露",
+      "接觸",
+      "risk",
+      "security",
+      "experience",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "fabricate",
+    word: "Fabricate",
+    partOfSpeech: "verb",
+    href: "./fabricate.html",
+    order: 296,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是普通製作，而是建造出來；在負面語境裡也指捏造。",
+    tags: [
+      "製造",
+      "捏造",
+      "make",
+      "evidence",
+      "parts",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "fallacy",
+    word: "Fallacy",
+    partOfSpeech: "noun",
+    href: "./fallacy.html",
+    order: 297,
+    cefr: "C1",
+    zipf: 3.72,
+    thesis: "不是單純錯誤，而是推理看似合理、其實有漏洞。",
+    tags: [
+      "謬誤",
+      "推理",
+      "mistake",
+      "logic",
+      "causation",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "fidelity",
+    word: "Fidelity",
+    partOfSpeech: "noun",
+    href: "./fidelity.html",
+    order: 298,
+    cefr: "C1",
+    zipf: 3.68,
+    thesis: "不是漂亮程度，而是和原本對象保持多高的一致性。",
+    tags: [
+      "忠實度",
+      "保真",
+      "quality",
+      "signal",
+      "prototype",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "finite",
+    word: "Finite",
+    partOfSpeech: "adjective",
+    href: "./finite.html",
+    order: 299,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是很少，而是有清楚邊界、終究會用完。",
+    tags: [
+      "有限",
+      "邊界",
+      "limited",
+      "resource",
+      "state",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "flexible",
+    word: "Flexible",
+    partOfSpeech: "adjective",
+    href: "./flexible.html",
+    order: 300,
+    cefr: "B2",
+    zipf: 4.01,
+    thesis: "不是沒有原則，而是能在不斷裂的情況下調整。",
+    tags: [
+      "彈性",
+      "可調",
+      "loose",
+      "interface",
+      "design",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "foresight",
+    word: "Foresight",
+    partOfSpeech: "noun",
+    href: "./foresight.html",
+    order: 301,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是預知未來，而是提前看見後果並替未來留路。",
+    tags: [
+      "遠見",
+      "預見",
+      "future",
+      "planning",
+      "debug",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "formidable",
+    word: "Formidable",
+    partOfSpeech: "adjective",
+    href: "./formidable.html",
+    order: 302,
+    cefr: "C1",
+    zipf: 3.52,
+    thesis: "不是普通困難，而是強大到讓人必須認真面對。",
+    tags: [
+      "艱鉅",
+      "強大",
+      "difficult",
+      "challenge",
+      "opponent",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "fragment",
+    word: "Fragment",
+    partOfSpeech: "noun",
+    href: "./fragment.html",
+    order: 303,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是完整部分，而是從整體裂出來的一小片。",
+    tags: [
+      "碎片",
+      "片段",
+      "piece",
+      "memory",
+      "log",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "framework",
+    word: "Framework",
+    partOfSpeech: "noun",
+    href: "./framework.html",
+    order: 304,
+    cefr: "B2",
+    zipf: 4.03,
+    thesis: "不是答案本身，而是讓答案能被放進來的骨架。",
+    tags: [
+      "框架",
+      "架構",
+      "tool",
+      "thinking",
+      "software",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "generous",
+    word: "Generous",
+    partOfSpeech: "adjective",
+    href: "./generous.html",
+    order: 305,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是剛好夠，而是願意多給一點空間、資源或善意。",
+    tags: [
+      "慷慨",
+      "寬裕",
+      "kind",
+      "margin",
+      "support",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "genuine",
+    word: "Genuine",
+    partOfSpeech: "adjective",
+    href: "./genuine.html",
+    order: 306,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是看起來像，而是真的、不假裝。",
+    tags: [
+      "真實",
+      "真誠",
+      "real",
+      "concern",
+      "parts",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "gradual",
+    word: "Gradual",
+    partOfSpeech: "adjective",
+    href: "./gradual.html",
+    order: 307,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是突然改變，而是一階一階慢慢累積。",
+    tags: [
+      "漸進",
+      "逐步",
+      "sudden",
+      "rollout",
+      "change",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "gravity",
+    word: "Gravity",
+    partOfSpeech: "noun",
+    href: "./gravity.html",
+    order: 308,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是只有地心引力，也可以是事情的嚴重重量。",
+    tags: [
+      "重力",
+      "嚴重",
+      "weight",
+      "incident",
+      "trust",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "grounded",
+    word: "Grounded",
+    partOfSpeech: "adjective",
+    href: "./grounded.html",
+    order: 309,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是缺乏想像，而是想法踩在證據和現實上。",
+    tags: [
+      "穩健",
+      "有根據",
+      "evidence",
+      "proposal",
+      "reality",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "harmonize",
+    word: "Harmonize",
+    partOfSpeech: "verb",
+    href: "./harmonize.html",
+    order: 310,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是讓所有東西相同，而是讓不同部分能協調共存。",
+    tags: [
+      "調和",
+      "協調",
+      "unify",
+      "standard",
+      "naming",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "hierarchical",
+    word: "Hierarchical",
+    partOfSpeech: "adjective",
+    href: "./hierarchical.html",
+    order: 311,
+    cefr: "C1",
+    zipf: 3.28,
+    thesis: "不是只是分層，而是每一層都有上下關係。",
+    tags: [
+      "階層",
+      "層級",
+      "layered",
+      "structure",
+      "data",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "holistic",
+    word: "Holistic",
+    partOfSpeech: "adjective",
+    href: "./holistic.html",
+    order: 312,
+    cefr: "C1",
+    zipf: 3.68,
+    thesis: "不是什麼都看，而是把部分放回整體關係中判斷。",
+    tags: [
+      "整體",
+      "關聯",
+      "complete",
+      "system",
+      "assessment",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "humble",
+    word: "Humble",
+    partOfSpeech: "adjective",
+    href: "./humble.html",
+    order: 313,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是看低自己，而是知道自己還可能錯。",
+    tags: [
+      "謙遜",
+      "限制",
+      "modest",
+      "learning",
+      "debug",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "hypothesis",
+    word: "Hypothesis",
+    partOfSpeech: "noun",
+    href: "./hypothesis.html",
+    order: 314,
+    cefr: "B2",
+    zipf: 3.60,
+    thesis: "不是結論，而是等待證據考驗的暫時解釋。",
+    tags: [
+      "假說",
+      "驗證",
+      "conclusion",
+      "debug",
+      "evidence",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "impartial",
+    word: "Impartial",
+    partOfSpeech: "adjective",
+    href: "./impartial.html",
+    order: 315,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是沒有感覺，而是不讓偏好影響判斷。",
+    tags: [
+      "公正",
+      "不偏袒",
+      "neutral",
+      "review",
+      "evidence",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "implement",
+    word: "Implement",
+    partOfSpeech: "verb",
+    href: "./implement.html",
+    order: 316,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是只有想法，而是把設計變成可運作的東西。",
+    tags: [
+      "實作",
+      "落實",
+      "plan",
+      "feature",
+      "policy",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "implicit",
+    word: "Implicit",
+    partOfSpeech: "adjective",
+    href: "./implicit.html",
+    order: 317,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是沒有，而是藏在脈絡裡、沒有明說。",
+    tags: [
+      "隱含",
+      "未明說",
+      "assumption",
+      "dependency",
+      "meaning",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "improvise",
+    word: "Improvise",
+    partOfSpeech: "verb",
+    href: "./improvise.html",
+    order: 318,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是亂來，而是在沒有完整準備時即時組合可用方案。",
+    tags: [
+      "即興",
+      "變通",
+      "plan",
+      "lab",
+      "solution",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "inadequate",
+    word: "Inadequate",
+    partOfSpeech: "adjective",
+    href: "./inadequate.html",
+    order: 319,
+    cefr: "C2",
+    zipf: 3.40,
+    thesis: "不是完全沒有，而是低於需求、撐不起任務。",
+    tags: [
+      "不足",
+      "不達標",
+      "testing",
+      "resource",
+      "quality",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "indispensable",
+    word: "Indispensable",
+    partOfSpeech: "adjective",
+    href: "./indispensable.html",
+    order: 320,
+    cefr: "C1",
+    zipf: 3.48,
+    thesis: "不是有用，而是少了它整件事就難以成立。",
+    tags: [
+      "不可或缺",
+      "必要",
+      "useful",
+      "tool",
+      "role",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "induce",
+    word: "Induce",
+    partOfSpeech: "verb",
+    href: "./induce.html",
+    order: 321,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是直接命令，而是創造條件讓某反應發生。",
+    tags: [
+      "引發",
+      "誘導",
+      "cause",
+      "test",
+      "response",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "inevitable",
+    word: "Inevitable",
+    partOfSpeech: "adjective",
+    href: "./inevitable.html",
+    order: 322,
+    cefr: "B2",
+    zipf: 3.56,
+    thesis: "不是很可能，而是在目前條件下幾乎避不開。",
+    tags: [
+      "不可避免",
+      "必然",
+      "likely",
+      "consequence",
+      "tradeoff",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "infrastructure",
+    word: "Infrastructure",
+    partOfSpeech: "noun",
+    href: "./infrastructure.html",
+    order: 323,
+    cefr: "B2",
+    zipf: 3.36,
+    thesis: "不是使用者看到的功能，而是讓功能能穩定存在的底層支撐。",
+    tags: [
+      "基礎設施",
+      "底層",
+      "feature",
+      "test",
+      "system",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "initiative",
+    word: "Initiative",
+    partOfSpeech: "noun",
+    href: "./initiative.html",
+    order: 324,
+    cefr: "B2",
+    zipf: 3.48,
+    thesis: "不是被交辦的任務，而是主動開始推進的能力或計畫。",
+    tags: [
+      "主動",
+      "倡議",
+      "task",
+      "project",
+      "leadership",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "insight",
+    word: "Insight",
+    partOfSpeech: "noun",
+    href: "./insight.html",
+    order: 325,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是更多資訊，而是突然看懂資訊背後的結構。",
+    tags: [
+      "洞察",
+      "理解",
+      "information",
+      "pattern",
+      "data",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "integrity",
+    word: "Integrity",
+    partOfSpeech: "noun",
+    href: "./integrity.html",
+    order: 326,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是形象良好，而是內外一致、沒有被破壞。",
+    tags: [
+      "完整性",
+      "誠信",
+      "data",
+      "trust",
+      "structure",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "intricate",
+    word: "Intricate",
+    partOfSpeech: "adjective",
+    href: "./intricate.html",
+    order: 327,
+    cefr: "C1",
+    zipf: 3.92,
+    thesis: "不是單純複雜，而是很多細節交纏在一起。",
+    tags: [
+      "精細複雜",
+      "交錯",
+      "complicated",
+      "timing",
+      "design",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "intuitive",
+    word: "Intuitive",
+    partOfSpeech: "adjective",
+    href: "./intuitive.html",
+    order: 328,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是不用學，而是符合人的自然預期。",
+    tags: [
+      "直覺",
+      "設計",
+      "obvious",
+      "interface",
+      "user",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "legitimate",
+    word: "Legitimate",
+    partOfSpeech: "adjective",
+    href: "./legitimate.html",
+    order: 329,
+    cefr: "B2",
+    zipf: 3.56,
+    thesis: "不是看起來合理，而是有正當性、資格或合法基礎。",
+    tags: [
+      "正當",
+      "合法",
+      "reasonable",
+      "authority",
+      "concern",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "liability",
+    word: "Liability",
+    partOfSpeech: "noun",
+    href: "./liability.html",
+    order: 330,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是普通缺點，而是可能帶來責任、成本或風險的負擔。",
+    tags: [
+      "責任",
+      "負擔",
+      "risk",
+      "legal",
+      "legacy",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "linear",
+    word: "Linear",
+    partOfSpeech: "adjective",
+    href: "./linear.html",
+    order: 331,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是只是直線，而是一步接一步、關係不分岔。",
+    tags: [
+      "線性",
+      "直線",
+      "sequence",
+      "memory",
+      "relationship",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "longevity",
+    word: "Longevity",
+    partOfSpeech: "noun",
+    href: "./longevity.html",
+    order: 332,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是現在能活，而是能活多久、撐多久。",
+    tags: [
+      "長壽",
+      "生命週期",
+      "battery",
+      "product",
+      "time",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "manifest",
+    word: "Manifest",
+    partOfSpeech: "verb",
+    href: "./manifest.html",
+    order: 333,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是內心存在而已，而是變成外界能看見的跡象。",
+    tags: [
+      "顯現",
+      "跡象",
+      "show",
+      "symptom",
+      "behavior",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "marginal",
+    word: "Marginal",
+    partOfSpeech: "adjective",
+    href: "./marginal.html",
+    order: 334,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是完全無用，而是在邊緣、增量很小或勉強可接受。",
+    tags: [
+      "邊際",
+      "微小",
+      "minor",
+      "cost",
+      "improvement",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "mature",
+    word: "Mature",
+    partOfSpeech: "adjective",
+    href: "./mature.html",
+    order: 335,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是年紀大，而是經過發展後穩定、可靠、知道限制。",
+    tags: [
+      "成熟",
+      "穩定",
+      "old",
+      "technology",
+      "judgment",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "merit",
+    word: "Merit",
+    partOfSpeech: "noun",
+    href: "./merit.html",
+    order: 336,
+    cefr: "B2",
+    zipf: 3.96,
+    thesis: "不是受歡迎，而是本身有值得肯定的理由。",
+    tags: [
+      "價值",
+      "優點",
+      "worth",
+      "proposal",
+      "technical",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "migration",
+    word: "Migration",
+    partOfSpeech: "noun",
+    href: "./migration.html",
+    order: 337,
+    cefr: "B2",
+    zipf: 3.80,
+    thesis: "不是複製資料，而是從舊環境搬到新環境並保持可用。",
+    tags: [
+      "遷移",
+      "搬遷",
+      "data",
+      "system",
+      "compatibility",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "modest",
+    word: "Modest",
+    partOfSpeech: "adjective",
+    href: "./modest.html",
+    order: 338,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是沒價值，而是不誇大、保持適度。",
+    tags: [
+      "謙遜",
+      "適中",
+      "small",
+      "claim",
+      "improvement",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "momentum",
+    word: "Momentum",
+    partOfSpeech: "noun",
+    href: "./momentum.html",
+    order: 339,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是速度本身，而是事情已經動起來後持續往前的力。",
+    tags: [
+      "動量",
+      "勢頭",
+      "speed",
+      "project",
+      "progress",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "navigate",
+    word: "Navigate",
+    partOfSpeech: "verb",
+    href: "./navigate.html",
+    order: 340,
+    cefr: "B2",
+    zipf: 3.68,
+    thesis: "不是知道目的地而已，而是在限制和變化中找到路。",
+    tags: [
+      "導航",
+      "穿越",
+      "uncertainty",
+      "complexity",
+      "route",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "negligible",
+    word: "Negligible",
+    partOfSpeech: "adjective",
+    href: "./negligible.html",
+    order: 341,
+    cefr: "B2",
+    zipf: 3.64,
+    thesis: "不是等於零，而是小到在這個判斷裡可以忽略。",
+    tags: [
+      "可忽略",
+      "微小",
+      "small",
+      "impact",
+      "risk",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "neutral",
+    word: "Neutral",
+    partOfSpeech: "adjective",
+    href: "./neutral.html",
+    order: 342,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是沒有影響，而是不偏向任何一邊。",
+    tags: [
+      "中立",
+      "不偏",
+      "language",
+      "position",
+      "fairness",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "novice",
+    word: "Novice",
+    partOfSpeech: "noun",
+    href: "./novice.html",
+    order: 343,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是能力差，而是剛進入某領域、還在建立基本模型的人。",
+    tags: [
+      "新手",
+      "初學",
+      "beginner",
+      "user",
+      "learning",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "objective",
+    word: "Objective",
+    partOfSpeech: "adjective",
+    href: "./objective.html",
+    order: 344,
+    cefr: "B2",
+    zipf: 4.10,
+    thesis: "不是沒有立場，而是判斷盡量靠外部證據，而不是個人感覺。",
+    tags: [
+      "客觀",
+      "證據",
+      "metric",
+      "assessment",
+      "subjective",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "obsolete",
+    word: "Obsolete",
+    partOfSpeech: "adjective",
+    href: "./obsolete.html",
+    order: 345,
+    cefr: "B2",
+    zipf: 3.76,
+    thesis: "不是老，而是已經被新方法或需求淘汰。",
+    tags: [
+      "過時",
+      "淘汰",
+      "old",
+      "API",
+      "technology",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "omission",
+    word: "Omission",
+    partOfSpeech: "noun",
+    href: "./omission.html",
+    order: 346,
+    cefr: "B2",
+    zipf: 3.72,
+    thesis: "不是寫錯，而是該出現的東西缺席。",
+    tags: [
+      "遺漏",
+      "省略",
+      "error",
+      "detail",
+      "release",
+      "noun",
+      "noun"
+    ]
+  },
+  {
+    id: "opaque",
+    word: "Opaque",
+    partOfSpeech: "adjective",
+    href: "./opaque.html",
+    order: 347,
+    cefr: "C1",
+    zipf: 3.68,
+    thesis: "不是單純難，而是看不穿、看不到裡面發生什麼。",
+    tags: [
+      "不透明",
+      "難懂",
+      "complex",
+      "error",
+      "system",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "orient",
+    word: "Orient",
+    partOfSpeech: "verb",
+    href: "./orient.html",
+    order: 348,
+    cefr: "B2",
+    zipf: 3.92,
+    thesis: "不是告訴方向而已，而是讓人知道自己在整個系統裡的位置。",
+    tags: [
+      "定位",
+      "方向",
+      "onboarding",
+      "context",
+      "position",
+      "verb",
+      "verb"
+    ]
+  },
+  {
+    id: "partial",
+    word: "Partial",
+    partOfSpeech: "adjective",
+    href: "./partial.html",
+    order: 349,
+    cefr: "B2",
+    zipf: 3.88,
+    thesis: "不是完整失敗或完整成功，而是只涵蓋一部分。",
+    tags: [
+      "部分",
+      "不完整",
+      "fix",
+      "view",
+      "bias",
+      "adjective",
+      "adjective"
+    ]
+  },
+  {
+    id: "persistent",
+    word: "Persistent",
+    partOfSpeech: "adjective",
+    href: "./persistent.html",
+    order: 350,
+    cefr: "B2",
+    zipf: 3.56,
+    thesis: "不是偶爾出現，而是一直留著、不容易消失。",
+    tags: [
+      "持續",
+      "不消退",
+      "bug",
+      "memory",
+      "effort",
+      "adjective",
+      "adjective"
+    ]
   }
 ];

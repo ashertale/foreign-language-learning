@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Merit",
+    "slug": "merit",
+    "outputPath": "prototypes/merit.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "MER-it · UK /ˈmer.ɪt/ · US /ˈmer.ɪt/",
+    "hero": {
+      "thesis": "不是受歡迎，而是本身有值得肯定的理由。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.96"
+    },
+    "coreIdea": "<code>merit</code> 把「價值、優點或值得之處」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指價值、優點或值得之處。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Popularity",
+        "note": "<code>popularity</code> 是受歡迎；<code>merit</code> 看的是內在理由站不站得住。"
+      },
+      "flow": [
+        "主張被提出",
+        "檢查本身價值",
+        "判斷是否值得"
+      ]
+    },
+    "memory": {
+      "hook": "<code>merit</code> 可以先記成一個畫面：主張被提出，接著檢查本身價值，最後判斷是否值得。",
+      "explanation": "這個畫面只用來幫你抓住「價值、優點或值得之處」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "一個 proposal 有 technical merit，即使現在不採用，也值得保存。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>merit</code> 和 <code>on merit</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>merit</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「價值、優點或值得之處」落地。",
+      "items": [
+        {
+          "phrase": "on merit",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「價值、優點或值得之處」有明確對象。"
+        },
+        {
+          "phrase": "technical merit",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "merit consideration",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "價值、優點或值得之處",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Popularity",
+          "meaning": "<code>popularity</code> 是受歡迎；<code>merit</code> 看的是內在理由站不站得住。",
+          "use": "如果句子只需要 popularity 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>merit</code> 常把一段觀察收斂成可討論的判斷。一個 proposal 有 technical merit，即使現在不採用，也值得保存。",
+      "像 <code>on merit</code>、<code>technical merit</code>、<code>merit consideration</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 merit 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/merit",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 merit 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/merit",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>meritum</code>，和應得、值得相關。",
+      "memoryLens": "記憶時先抓「價值、優點或值得之處」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "merit",
+    "word": "Merit",
+    "partOfSpeech": "noun",
+    "href": "./merit.html",
+    "thesis": "不是受歡迎，而是本身有值得肯定的理由。",
+    "tags": [
+      "價值",
+      "優點",
+      "worth",
+      "proposal",
+      "technical",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/merit",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/merit",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/merit",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

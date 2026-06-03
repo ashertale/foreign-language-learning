@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Agile",
+    "slug": "agile",
+    "outputPath": "prototypes/agile.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "AJ-ile · UK /ˈædʒ.aɪl/ · US /ˈædʒ.əl/",
+    "hero": {
+      "thesis": "不是只跑得快，而是能在變化來時迅速轉向。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.88"
+    },
+    "coreIdea": "<code>agile</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「面對變化時保持快速、靈活與可調整」。",
+    "definition": {
+      "summary": "形容面對變化時保持快速、靈活與可調整。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Flexible",
+        "note": "<code>flexible</code> 是可彎曲、可調；<code>agile</code> 多了反應快與移動感。"
+      },
+      "flow": [
+        "變化出現",
+        "快速理解",
+        "調整方向"
+      ]
+    },
+    "memory": {
+      "hook": "<code>agile</code> 可以先記成一個畫面：變化出現，接著快速理解，最後調整方向。",
+      "explanation": "這個畫面只用來幫你抓住「面對變化時保持快速、靈活與可調整」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "在產品排程裡，agile 不是會議變多，而是能用短回饋修正方向。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>agile</code> 和 <code>agile team</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>agile</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「面對變化時保持快速、靈活與可調整」落地。",
+      "items": [
+        {
+          "phrase": "agile team",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「面對變化時保持快速、靈活與可調整」有明確對象。"
+        },
+        {
+          "phrase": "agile response",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "agile development",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "面對變化時保持快速、靈活與可調整",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Flexible",
+          "meaning": "<code>flexible</code> 是可彎曲、可調；<code>agile</code> 多了反應快與移動感。",
+          "use": "如果句子只需要 flexible 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>agile</code> 常把一段觀察收斂成可討論的判斷。在產品排程裡，agile 不是會議變多，而是能用短回饋修正方向。",
+      "像 <code>agile team</code>、<code>agile response</code>、<code>agile development</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 agile 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/agile",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 agile 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/agile",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "詞史與「敏捷、容易移動」的概念相連；現代用法延伸到團隊與流程。",
+      "memoryLens": "記憶時先抓「面對變化時保持快速、靈活與可調整」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "agile",
+    "word": "Agile",
+    "partOfSpeech": "adjective",
+    "href": "./agile.html",
+    "thesis": "不是只跑得快，而是能在變化來時迅速轉向。",
+    "tags": [
+      "敏捷",
+      "變化",
+      "flexible",
+      "process",
+      "team",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/agile",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/agile",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/agile",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

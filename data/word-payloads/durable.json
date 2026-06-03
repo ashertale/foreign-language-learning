@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Durable",
+    "slug": "durable",
+    "outputPath": "prototypes/durable.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "DUR-uh-bul · UK /ˈdjʊə.rə.bəl/ · US /ˈdʊr.ə.bəl/",
+    "hero": {
+      "thesis": "不是一時能用，而是經得起時間、壓力和重複使用。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.72"
+    },
+    "coreIdea": "<code>durable</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「耐用、持久、能承受磨耗」。",
+    "definition": {
+      "summary": "形容耐用、持久、能承受磨耗。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Strong",
+        "note": "<code>strong</code> 是強；<code>durable</code> 看的是時間和使用後還能不能撐住。"
+      },
+      "flow": [
+        "承受使用",
+        "時間拉長",
+        "品質仍保留"
+      ]
+    },
+    "memory": {
+      "hook": "<code>durable</code> 可以先記成一個畫面：承受使用，接著時間拉長，最後品質仍保留。",
+      "explanation": "這個畫面只用來幫你抓住「耐用、持久、能承受磨耗」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "durable fix 不只讓今天測試通過，也能避免同類問題下次重來。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>durable</code> 和 <code>durable material</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>durable</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「耐用、持久、能承受磨耗」落地。",
+      "items": [
+        {
+          "phrase": "durable material",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「耐用、持久、能承受磨耗」有明確對象。"
+        },
+        {
+          "phrase": "durable solution",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "durable design",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "耐用、持久、能承受磨耗",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Strong",
+          "meaning": "<code>strong</code> 是強；<code>durable</code> 看的是時間和使用後還能不能撐住。",
+          "use": "如果句子只需要 strong 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>durable</code> 常把一段觀察收斂成可討論的判斷。durable fix 不只讓今天測試通過，也能避免同類問題下次重來。",
+      "像 <code>durable material</code>、<code>durable solution</code>、<code>durable design</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 durable 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/durable",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 durable 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/durable",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>durare</code>，意思是持續、忍受。",
+      "memoryLens": "記憶時先抓「耐用、持久、能承受磨耗」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "durable",
+    "word": "Durable",
+    "partOfSpeech": "adjective",
+    "href": "./durable.html",
+    "thesis": "不是一時能用，而是經得起時間、壓力和重複使用。",
+    "tags": [
+      "耐用",
+      "持久",
+      "strong",
+      "fix",
+      "design",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/durable",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/durable",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/durable",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

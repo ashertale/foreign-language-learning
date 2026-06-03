@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Intricate",
+    "slug": "intricate",
+    "outputPath": "prototypes/intricate.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "IN-trih-kut · UK /ˈɪn.trɪ.kət/ · US /ˈɪn.trə.kət/",
+    "hero": {
+      "thesis": "不是單純複雜，而是很多細節交纏在一起。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.92"
+    },
+    "coreIdea": "<code>intricate</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「精細複雜、細節交錯」。",
+    "definition": {
+      "summary": "形容精細複雜、細節交錯的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Complicated",
+        "note": "<code>complicated</code> 是複雜；<code>intricate</code> 更像細線互相纏住。"
+      },
+      "flow": [
+        "細節很多",
+        "關係交錯",
+        "需要慢慢拆解"
+      ]
+    },
+    "memory": {
+      "hook": "<code>intricate</code> 可以先記成一個畫面：細節很多，接著關係交錯，最後需要慢慢拆解。",
+      "explanation": "這個畫面只用來幫你抓住「精細複雜、細節交錯」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "intricate timing issue 不能只看一個 signal，因為多個邊界互相咬住。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>intricate</code> 和 <code>intricate design</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>intricate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「精細複雜、細節交錯」落地。",
+      "items": [
+        {
+          "phrase": "intricate design",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「精細複雜、細節交錯」有明確對象。"
+        },
+        {
+          "phrase": "intricate pattern",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "intricate relationship",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "精細複雜、細節交錯的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Complicated",
+          "meaning": "<code>complicated</code> 是複雜；<code>intricate</code> 更像細線互相纏住。",
+          "use": "如果句子只需要 complicated 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>intricate</code> 常把一段觀察收斂成可討論的判斷。intricate timing issue 不能只看一個 signal，因為多個邊界互相咬住。",
+      "像 <code>intricate design</code>、<code>intricate pattern</code>、<code>intricate relationship</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 intricate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/intricate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 intricate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/intricate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "源自 Latin 與纏繞、打結相關的概念。",
+      "memoryLens": "記憶時先抓「精細複雜、細節交錯的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "intricate",
+    "word": "Intricate",
+    "partOfSpeech": "adjective",
+    "href": "./intricate.html",
+    "thesis": "不是單純複雜，而是很多細節交纏在一起。",
+    "tags": [
+      "精細複雜",
+      "交錯",
+      "complicated",
+      "timing",
+      "design",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/intricate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/intricate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/intricate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

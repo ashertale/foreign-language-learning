@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Flexible",
+    "slug": "flexible",
+    "outputPath": "prototypes/flexible.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "FLEK-suh-bul · UK /ˈflek.sə.bəl/ · US /ˈflek.sə.bəl/",
+    "hero": {
+      "thesis": "不是沒有原則，而是能在不斷裂的情況下調整。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "4.01"
+    },
+    "coreIdea": "<code>flexible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「可彎曲、可調整、能適應變化」。",
+    "definition": {
+      "summary": "形容可彎曲、可調整、能適應變化。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Loose",
+        "note": "<code>loose</code> 是鬆散；<code>flexible</code> 是有結構但能調整。"
+      },
+      "flow": [
+        "結構存在",
+        "外力或需求改變",
+        "調整但不斷裂"
+      ]
+    },
+    "memory": {
+      "hook": "<code>flexible</code> 可以先記成一個畫面：結構存在，接著外力或需求改變，最後調整但不斷裂。",
+      "explanation": "這個畫面只用來幫你抓住「可彎曲、可調整、能適應變化」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "flexible interface 能支援變化，但太鬆也會讓契約失去保護。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>flexible</code> 和 <code>flexible schedule</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>flexible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「可彎曲、可調整、能適應變化」落地。",
+      "items": [
+        {
+          "phrase": "flexible schedule",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「可彎曲、可調整、能適應變化」有明確對象。"
+        },
+        {
+          "phrase": "flexible design",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "flexible enough",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "可彎曲、可調整、能適應變化",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Loose",
+          "meaning": "<code>loose</code> 是鬆散；<code>flexible</code> 是有結構但能調整。",
+          "use": "如果句子只需要 loose 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>flexible</code> 常把一段觀察收斂成可討論的判斷。flexible interface 能支援變化，但太鬆也會讓契約失去保護。",
+      "像 <code>flexible schedule</code>、<code>flexible design</code>、<code>flexible enough</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 flexible 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/flexible",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 flexible 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/flexible",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>flectere</code>「彎曲」。",
+      "memoryLens": "記憶時先抓「可彎曲、可調整、能適應變化」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "flexible",
+    "word": "Flexible",
+    "partOfSpeech": "adjective",
+    "href": "./flexible.html",
+    "thesis": "不是沒有原則，而是能在不斷裂的情況下調整。",
+    "tags": [
+      "彈性",
+      "可調",
+      "loose",
+      "interface",
+      "design",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/flexible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/flexible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/flexible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

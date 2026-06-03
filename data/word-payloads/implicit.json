@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Implicit",
+    "slug": "implicit",
+    "outputPath": "prototypes/implicit.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PLIS-it · UK /ɪmˈplɪs.ɪt/ · US /ɪmˈplɪs.ɪt/",
+    "hero": {
+      "thesis": "不是沒有，而是藏在脈絡裡、沒有明說。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.76"
+    },
+    "coreIdea": "<code>implicit</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「含蓄的、未明說但可推知」。",
+    "definition": {
+      "summary": "形容含蓄的、未明說但可推知的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Explicit",
+        "note": "<code>explicit</code> 是明說；<code>implicit</code> 是靠背景、慣例或結構讓人推到。"
+      },
+      "flow": [
+        "規則未寫出",
+        "脈絡提供線索",
+        "讀者自行推知"
+      ]
+    },
+    "memory": {
+      "hook": "<code>implicit</code> 可以先記成一個畫面：規則未寫出，接著脈絡提供線索，最後讀者自行推知。",
+      "explanation": "這個畫面只用來幫你抓住「含蓄的、未明說但可推知」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "implicit dependency 最麻煩：它平常能跑，換環境才突然露出來。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>implicit</code> 和 <code>implicit assumption</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>implicit</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「含蓄的、未明說但可推知」落地。",
+      "items": [
+        {
+          "phrase": "implicit assumption",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「含蓄的、未明說但可推知」有明確對象。"
+        },
+        {
+          "phrase": "implicit dependency",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "implicit meaning",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "含蓄的、未明說但可推知的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Explicit",
+          "meaning": "<code>explicit</code> 是明說；<code>implicit</code> 是靠背景、慣例或結構讓人推到。",
+          "use": "如果句子只需要 explicit 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>implicit</code> 常把一段觀察收斂成可討論的判斷。implicit dependency 最麻煩：它平常能跑，換環境才突然露出來。",
+      "像 <code>implicit assumption</code>、<code>implicit dependency</code>、<code>implicit meaning</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 implicit 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/implicit",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 implicit 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/implicit",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>implicare</code>，有折進、纏入的意思；像意義被折在句子裡。",
+      "memoryLens": "記憶時先抓「含蓄的、未明說但可推知的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "implicit",
+    "word": "Implicit",
+    "partOfSpeech": "adjective",
+    "href": "./implicit.html",
+    "thesis": "不是沒有，而是藏在脈絡裡、沒有明說。",
+    "tags": [
+      "隱含",
+      "未明說",
+      "assumption",
+      "dependency",
+      "meaning",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/implicit",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/implicit",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/implicit",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

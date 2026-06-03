@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Aberration",
+    "slug": "aberration",
+    "outputPath": "prototypes/aberration.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "ab-er-RAY-shun · UK /ˌæb.əˈreɪ.ʃən/ · US /ˌæb.əˈreɪ.ʃən/",
+    "hero": {
+      "thesis": "不是普通錯誤，而是偏離正常模式、需要被解釋的異常點。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.64"
+    },
+    "coreIdea": "<code>aberration</code> 把「偏離穩定模式的異常現象」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指偏離穩定模式的異常現象。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Anomaly",
+        "note": "<code>anomaly</code> 泛稱異常；<code>aberration</code> 更像原本穩定的軌道突然偏出去。"
+      },
+      "flow": [
+        "先有正常基準",
+        "出現偏離",
+        "判斷是否偶發"
+      ]
+    },
+    "memory": {
+      "hook": "<code>aberration</code> 可以先記成一個畫面：先有正常基準，接著出現偏離，最後判斷是否偶發。",
+      "explanation": "這個畫面只用來幫你抓住「偏離穩定模式的異常現象」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "在 log、影像或測量資料裡，aberration 讓你先問：這是雜訊，還是系統開始失準。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>aberration</code> 和 <code>statistical aberration</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>aberration</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「偏離穩定模式的異常現象」落地。",
+      "items": [
+        {
+          "phrase": "statistical aberration",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「偏離穩定模式的異常現象」有明確對象。"
+        },
+        {
+          "phrase": "temporary aberration",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "visual aberration",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "偏離穩定模式的異常現象",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Anomaly",
+          "meaning": "<code>anomaly</code> 泛稱異常；<code>aberration</code> 更像原本穩定的軌道突然偏出去。",
+          "use": "如果句子只需要 anomaly 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>aberration</code> 常把一段觀察收斂成可討論的判斷。在 log、影像或測量資料裡，aberration 讓你先問：這是雜訊，還是系統開始失準。",
+      "像 <code>statistical aberration</code>、<code>temporary aberration</code>、<code>visual aberration</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 aberration 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/aberration",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 aberration 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/aberration",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>aberrare</code>，有「走離、偏離」的意思；字源畫面正好對應偏離軌道。",
+      "memoryLens": "記憶時先抓「偏離穩定模式的異常現象」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "aberration",
+    "word": "Aberration",
+    "partOfSpeech": "noun",
+    "href": "./aberration.html",
+    "thesis": "不是普通錯誤，而是偏離正常模式、需要被解釋的異常點。",
+    "tags": [
+      "異常",
+      "偏差",
+      "anomaly",
+      "data",
+      "debug",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/aberration",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/aberration",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/aberration",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

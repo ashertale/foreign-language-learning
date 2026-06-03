@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Inadequate",
+    "slug": "inadequate",
+    "outputPath": "prototypes/inadequate.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-AD-ih-kwut · UK /ɪˈnæd.ə.kwət/ · US /ɪˈnæd.ə.kwət/",
+    "hero": {
+      "thesis": "不是完全沒有，而是低於需求、撐不起任務。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "3.40"
+    },
+    "coreIdea": "<code>inadequate</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「不足以滿足需求或標準」。",
+    "definition": {
+      "summary": "形容不足以滿足需求或標準。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Insufficient",
+        "note": "<code>insufficient</code> 是不夠；<code>inadequate</code> 常帶品質或能力不達標的判斷。"
+      },
+      "flow": [
+        "需求被定義",
+        "現有能力不足",
+        "風險或失敗出現"
+      ]
+    },
+    "memory": {
+      "hook": "<code>inadequate</code> 可以先記成一個畫面：需求被定義，接著現有能力不足，最後風險或失敗出現。",
+      "explanation": "這個畫面只用來幫你抓住「不足以滿足需求或標準」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "inadequate testing 不是測試數量少而已，而是沒有覆蓋真正會失敗的地方。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>inadequate</code> 和 <code>inadequate testing</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>inadequate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「不足以滿足需求或標準」落地。",
+      "items": [
+        {
+          "phrase": "inadequate testing",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「不足以滿足需求或標準」有明確對象。"
+        },
+        {
+          "phrase": "inadequate explanation",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "inadequate resources",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "不足以滿足需求或標準",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Insufficient",
+          "meaning": "<code>insufficient</code> 是不夠；<code>inadequate</code> 常帶品質或能力不達標的判斷。",
+          "use": "如果句子只需要 insufficient 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>inadequate</code> 常把一段觀察收斂成可討論的判斷。inadequate testing 不是測試數量少而已，而是沒有覆蓋真正會失敗的地方。",
+      "像 <code>inadequate testing</code>、<code>inadequate explanation</code>、<code>inadequate resources</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 inadequate 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/inadequate",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 inadequate 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/inadequate",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "由 adequate 加否定前綴組成；核心是沒有達到足夠程度。",
+      "memoryLens": "記憶時先抓「不足以滿足需求或標準」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "inadequate",
+    "word": "Inadequate",
+    "partOfSpeech": "adjective",
+    "href": "./inadequate.html",
+    "thesis": "不是完全沒有，而是低於需求、撐不起任務。",
+    "tags": [
+      "不足",
+      "不達標",
+      "testing",
+      "resource",
+      "quality",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/inadequate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/inadequate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/inadequate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

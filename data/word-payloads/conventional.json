@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Conventional",
+    "slug": "conventional",
+    "outputPath": "prototypes/conventional.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "kun-VEN-shuh-nul · UK /kənˈven.ʃən.əl/ · US /kənˈven.ʃən.əl/",
+    "hero": {
+      "thesis": "不是一定正確，而是符合大多數人習慣接受的方式。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.36"
+    },
+    "coreIdea": "<code>conventional</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「傳統、慣例式或一般標準」。",
+    "definition": {
+      "summary": "形容傳統、慣例式或一般標準的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "contrast": {
+        "word": "Traditional",
+        "note": "<code>traditional</code> 強調歷史延續；<code>conventional</code> 強調符合慣例。"
+      },
+      "flow": [
+        "社群形成做法",
+        "多數人照做",
+        "被視為正常"
+      ]
+    },
+    "memory": {
+      "hook": "<code>conventional</code> 可以先記成一個畫面：社群形成做法，接著多數人照做，最後被視為正常。",
+      "explanation": "這個畫面只用來幫你抓住「傳統、慣例式或一般標準」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "conventional design 容易被理解，但未必是限制條件下最好的選擇。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>conventional</code> 和 <code>conventional wisdom</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>conventional</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「傳統、慣例式或一般標準」落地。",
+      "items": [
+        {
+          "phrase": "conventional wisdom",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「傳統、慣例式或一般標準」有明確對象。"
+        },
+        {
+          "phrase": "conventional method",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "conventional design",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "傳統、慣例式或一般標準的",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Traditional",
+          "meaning": "<code>traditional</code> 強調歷史延續；<code>conventional</code> 強調符合慣例。",
+          "use": "如果句子只需要 traditional 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>conventional</code> 常把一段觀察收斂成可討論的判斷。conventional design 容易被理解，但未必是限制條件下最好的選擇。",
+      "像 <code>conventional wisdom</code>、<code>conventional method</code>、<code>conventional design</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 conventional 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/conventional",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 conventional 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/conventional",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 convention 的慣例概念；重點是大家約定俗成。",
+      "memoryLens": "記憶時先抓「傳統、慣例式或一般標準的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "conventional",
+    "word": "Conventional",
+    "partOfSpeech": "adjective",
+    "href": "./conventional.html",
+    "thesis": "不是一定正確，而是符合大多數人習慣接受的方式。",
+    "tags": [
+      "慣例",
+      "傳統",
+      "standard",
+      "design",
+      "method",
+      "adjective",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/conventional",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/conventional",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/conventional",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

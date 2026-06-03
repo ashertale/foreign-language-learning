@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Initiative",
+    "slug": "initiative",
+    "outputPath": "prototypes/initiative.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "ih-NISH-uh-tiv · UK /ɪˈnɪʃ.ə.tɪv/ · US /ɪˈnɪʃ.ə.t̬ɪv/",
+    "hero": {
+      "thesis": "不是被交辦的任務，而是主動開始推進的能力或計畫。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.48"
+    },
+    "coreIdea": "<code>initiative</code> 把「主動性、倡議或新計畫」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指主動性、倡議或新計畫。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Task",
+        "note": "<code>task</code> 是任務；<code>initiative</code> 有主動開始和推動方向的意味。"
+      },
+      "flow": [
+        "看見需要",
+        "主動開局",
+        "推動事情前進"
+      ]
+    },
+    "memory": {
+      "hook": "<code>initiative</code> 可以先記成一個畫面：看見需要，接著主動開局，最後推動事情前進。",
+      "explanation": "這個畫面只用來幫你抓住「主動性、倡議或新計畫」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "take initiative 不是搶做所有事，而是在沒人收斂時先把下一步打開。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>initiative</code> 和 <code>take initiative</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>initiative</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「主動性、倡議或新計畫」落地。",
+      "items": [
+        {
+          "phrase": "take initiative",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「主動性、倡議或新計畫」有明確對象。"
+        },
+        {
+          "phrase": "strategic initiative",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "new initiative",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "主動性、倡議或新計畫",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Task",
+          "meaning": "<code>task</code> 是任務；<code>initiative</code> 有主動開始和推動方向的意味。",
+          "use": "如果句子只需要 task 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>initiative</code> 常把一段觀察收斂成可討論的判斷。take initiative 不是搶做所有事，而是在沒人收斂時先把下一步打開。",
+      "像 <code>take initiative</code>、<code>strategic initiative</code>、<code>new initiative</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 initiative 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/initiative",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 initiative 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/initiative",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 initiate 的開始概念；核心是主動開端。",
+      "memoryLens": "記憶時先抓「主動性、倡議或新計畫」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "initiative",
+    "word": "Initiative",
+    "partOfSpeech": "noun",
+    "href": "./initiative.html",
+    "thesis": "不是被交辦的任務，而是主動開始推進的能力或計畫。",
+    "tags": [
+      "主動",
+      "倡議",
+      "task",
+      "project",
+      "leadership",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/initiative",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/initiative",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/initiative",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

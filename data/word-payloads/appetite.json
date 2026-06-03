@@ -1,0 +1,138 @@
+{
+  "target": {
+    "word": "Appetite",
+    "slug": "appetite",
+    "outputPath": "prototypes/appetite.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "AP-uh-tite · UK /ˈæp.ə.taɪt/ · US /ˈæp.ə.taɪt/",
+    "hero": {
+      "thesis": "不是只有食慾，也可以是願意承擔某種需求或風險的胃口。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>appetite</code> 把「對食物、機會、風險或投入的需求程度」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "definition": {
+      "summary": "指對食物、機會、風險或投入的需求程度。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "contrast": {
+        "word": "Hunger",
+        "note": "<code>hunger</code> 更像生理或強烈渴望；<code>appetite</code> 可用在商業與風險胃口。"
+      },
+      "flow": [
+        "需求升起",
+        "願意接受",
+        "形成取捨"
+      ]
+    },
+    "memory": {
+      "hook": "<code>appetite</code> 可以先記成一個畫面：需求升起，接著願意接受，最後形成取捨。",
+      "explanation": "這個畫面只用來幫你抓住「對食物、機會、風險或投入的需求程度」；真正使用時，要回到句子裡看它標出的邊界。"
+    },
+    "usage": [
+      {
+        "label": "實務判斷",
+        "body": "公司說 risk appetite 很低，意思是收益再高也不想承擔那種風險。"
+      },
+      {
+        "label": "寫作語氣",
+        "body": "寫作時可以讓 <code>appetite</code> 和 <code>risk appetite</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+      }
+    ],
+    "collocations": {
+      "note": "<code>appetite</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「對食物、機會、風險或投入的需求程度」落地。",
+      "items": [
+        {
+          "phrase": "risk appetite",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "適合放在正式文件或分析裡，讓「對食物、機會、風險或投入的需求程度」有明確對象。"
+        },
+        {
+          "phrase": "strong appetite",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+        },
+        {
+          "phrase": "appetite for growth",
+          "register": "正式 / 專業 / 日常寫作",
+          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "對食物、機會、風險或投入的需求程度",
+        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+      },
+      "others": [
+        {
+          "word": "Hunger",
+          "meaning": "<code>hunger</code> 更像生理或強烈渴望；<code>appetite</code> 可用在商業與風險胃口。",
+          "use": "如果句子只需要 hunger 的普通意思，就保留那個較簡單的字。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工作英文裡，<code>appetite</code> 常把一段觀察收斂成可討論的判斷。公司說 risk appetite 很低，意思是收益再高也不想承擔那種風險。",
+      "像 <code>risk appetite</code>、<code>strong appetite</code>、<code>appetite for growth</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 appetite 的概念邊界與常見語境。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/appetite",
+        "label": "Cambridge Dictionary"
+      },
+      "modern": {
+        "note": "Merriam-Webster 的現代定義與例句用來校準 appetite 在正式、日常與專業英文中的使用邊界。",
+        "url": "https://www.merriam-webster.com/dictionary/appetite",
+        "label": "Merriam-Webster"
+      }
+    },
+    "origin": {
+      "history": "來自 Latin <code>appetere</code>，有「追向、渴求」的意思。",
+      "memoryLens": "記憶時先抓「對食物、機會、風險或投入的需求程度」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+    }
+  },
+  "indexEntry": {
+    "id": "appetite",
+    "word": "Appetite",
+    "partOfSpeech": "noun",
+    "href": "./appetite.html",
+    "thesis": "不是只有食慾，也可以是願意承擔某種需求或風險的胃口。",
+    "tags": [
+      "胃口",
+      "需求",
+      "risk",
+      "business",
+      "desire",
+      "noun",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/appetite",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/appetite",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/appetite",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}
