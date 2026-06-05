@@ -8,89 +8,103 @@
     "partOfSpeech": "noun",
     "pronunciation": "uh-JEN-duh · UK /əˈdʒen.də/ · US /əˈdʒen.də/",
     "hero": {
-      "thesis": "不是單純行程表，而是某場討論真正要推進的事項。",
+      "thesis": "不是時間表，而是這場討論真正要處理、推動，甚至暗中想完成的事。",
       "cefrLevel": "B2",
       "zipfFrequency": "4.32"
     },
-    "coreIdea": "<code>agenda</code> 把「待處理事項與背後要推動的方向」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>agenda</code> 問的不是「幾點開始」，而是「這場局想把注意力推向哪裡」。它可以是會議清單，也可以是政策方向，更可以是沒有明說的目的。",
     "definition": {
-      "summary": "指待處理事項與背後要推動的方向。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指會議、組織或個人想要討論、處理或推進的事項。它可以是公開列出的議程，也可以是較隱性的目的或立場。",
       "contrast": {
         "word": "Schedule",
-        "note": "<code>schedule</code> 安排時間；<code>agenda</code> 放的是要談、要推、要決定的事。"
+        "note": "<code>schedule</code> 管時間；<code>agenda</code> 管要處理的事與背後方向。"
       },
       "flow": [
-        "列出事項",
-        "安排優先順序",
-        "推動決策"
+        "選出要談什麼",
+        "決定優先順序",
+        "把注意力推向某個結果"
       ]
     },
     "memory": {
-      "hook": "<code>agenda</code> 可以先記成一個畫面：列出事項，接著安排優先順序，最後推動決策。",
-      "explanation": "這個畫面只用來幫你抓住「待處理事項與背後要推動的方向」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>agenda</code> 是會議桌上的那張紙，但真正重要的是：誰決定紙上有哪些項目，哪些項目被排到最後。",
+      "explanation": "好的 agenda 讓討論有方向；壞的 agenda 會讓會議看似有序，實際上只是把最重要的衝突藏到時間用完。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "會議前看 agenda，可以知道這場會議是同步資訊，還是要逼出一個決定。"
+        "label": "會議",
+        "body": "Please send the <code>agenda</code> before the meeting 不是要知道日曆時間，而是要知道要準備哪些議題、誰需要做決定。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>agenda</code> 和 <code>meeting agenda</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "政治 / 組織",
+        "body": "<code>policy agenda</code> 指一組政策優先事項；它不是單一法案，而是一段時間內想推動的方向。"
+      },
+      {
+        "label": "隱性目的",
+        "body": "A <code>hidden agenda</code> 表示表面理由之外還有沒說出口的目的，語氣通常帶懷疑。"
       }
     ],
     "collocations": {
-      "note": "<code>agenda</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「待處理事項與背後要推動的方向」落地。",
+      "note": "agenda 的搭配會告訴你它是公開清單、權力排序，還是未說出口的目的。",
       "items": [
         {
+          "phrase": "set the agenda",
+          "register": "管理 / 政治 / 媒體",
+          "note": "不是只排清單，而是決定哪些議題值得被討論，哪些議題被擠到旁邊。"
+        },
+        {
           "phrase": "meeting agenda",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「待處理事項與背後要推動的方向」有明確對象。"
+          "register": "商務 / 專案",
+          "note": "會議前的議題清單，通常包含討論項目、決策點與時間分配。"
         },
         {
           "phrase": "hidden agenda",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
-        },
-        {
-          "phrase": "policy agenda",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "評論 / 人際 / 組織政治",
+          "note": "暗示某人表面說一套，實際上想推另一件事。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "待處理事項與背後要推動的方向",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "要處理、討論或推動的事項與方向",
+        "use": "當重點是議題選擇、優先順序或背後目的，而不是時間安排。"
       },
       "others": [
         {
           "word": "Schedule",
-          "meaning": "<code>schedule</code> 安排時間；<code>agenda</code> 放的是要談、要推、要決定的事。",
-          "use": "如果句子只需要 schedule 的普通意思，就保留那個較簡單的字。"
+          "meaning": "時間安排",
+          "use": "告訴你何時發生，不一定告訴你為什麼要談。"
+        },
+        {
+          "word": "Itinerary",
+          "meaning": "旅行或活動行程",
+          "use": "多用於移動路線、景點、交通與活動順序。"
+        },
+        {
+          "word": "Plan",
+          "meaning": "做事方案或安排",
+          "use": "範圍較廣；不一定是會議、組織或政策優先事項。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>agenda</code> 常把一段觀察收斂成可討論的判斷。會議前看 agenda，可以知道這場會議是同步資訊，還是要逼出一個決定。",
-      "像 <code>meeting agenda</code>、<code>hidden agenda</code>、<code>policy agenda</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在工作裡，<code>agenda</code> 是會議效率的前置條件。沒有 agenda 的會議通常會把同步、討論、決策混在一起，最後每個人都以為自己參加了不同的會。",
+      "在公共討論中，agenda 也和權力有關。能 set the agenda 的人，往往不是直接決定答案，而是先決定大家有資格問哪些問題。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 agenda 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 agenda 整理成「待處理事項與推動方向」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/agenda",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 agenda 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 agenda 在會議、政策與隱性目的語境中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/agenda",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "源自 Latin <code>agendum</code>，意思是「要被做的事」。",
-      "memoryLens": "記憶時先抓「待處理事項與背後要推動的方向」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>agenda</code> 源自 Latin <code>agendum</code>，意思是「要被做的事」；agenda 原本是複數形式，現代英文通常當單數名詞使用。",
+      "memoryLens": "記憶時不要只想成會議表格；把它想成「things to be done」的清單，以及清單背後的推力。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Agenda",
     "partOfSpeech": "noun",
     "href": "./agenda.html",
-    "thesis": "不是單純行程表，而是某場討論真正要推進的事項。",
+    "thesis": "不是時間表，而是這場討論真正要處理、推動，甚至暗中想完成的事。",
     "tags": [
       "議程",
       "事項",
-      "meeting",
+      "meeting agenda",
+      "hidden agenda",
+      "set the agenda",
       "priority",
       "decision",
-      "noun",
       "noun"
     ]
   },

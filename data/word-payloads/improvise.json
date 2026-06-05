@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.72"
     },
-    "coreIdea": "<code>improvise</code> 關心的是「即興處理、臨場創作或變通」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>improvise</code> 不是亂做，而是在準備不完整、條件變動時，用手上資源即時組出可用方案。",
     "definition": {
-      "summary": "表示即興處理、臨場創作或變通。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示即興創作、臨場發揮或臨時設法解決，常在缺少完整準備或工具時發生。",
       "contrast": {
         "word": "Plan",
         "note": "<code>plan</code> 是事前安排；<code>improvise</code> 是現場用手上資源組出路。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>improvise</code> 可以先記成一個畫面：準備不完整，接著現場限制出現，最後即時組合方案。",
-      "explanation": "這個畫面只用來幫你抓住「即興處理、臨場創作或變通」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>improvise</code> 想成 lab 裡少了一個 fixture，只好先用現有材料搭出能測的東西。",
+      "explanation": "它可以救急，但之後要補成可靠流程。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "lab 裡沒有剛好的 fixture 時，工程師常要 improvise，但要記得之後補成可靠流程。"
+        "label": "Lab",
+        "body": "lab 裡沒有剛好的 fixture 時，工程師常要 <code>improvise</code>，但要記得之後補成可靠流程。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>improvise</code> 和 <code>improvise a solution</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "舞台",
+        "body": "Musicians improvise on stage by using structure they have practiced deeply."
+      },
+      {
+        "label": "工具",
+        "body": "An"
       }
     ],
     "collocations": {
-      "note": "<code>improvise</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「即興處理、臨場創作或變通」落地。",
+      "note": "improvise 常接 solution、on stage、tool。搭配會分成創作即興和工程臨場解法。",
       "items": [
         {
           "phrase": "improvise a solution",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「即興處理、臨場創作或變通」有明確對象。"
+          "register": "通用 / 工程",
+          "note": "臨時組出解法，通常在條件不完整時。"
         },
         {
           "phrase": "improvise on stage",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "音樂 / 表演",
+          "note": "舞台上即興創作或發揮。"
         },
         {
           "phrase": "improvised tool",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工程 / 日常",
+          "note": "臨時做出的工具，需注意可靠性。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "即興處理、臨場創作或變通",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在現場條件不完整，需要即時組合可用方案時。"
       },
       "others": [
         {
           "word": "Plan",
-          "meaning": "<code>plan</code> 是事前安排；<code>improvise</code> 是現場用手上資源組出路。",
-          "use": "如果句子只需要 plan 的普通意思，就保留那個較簡單的字。"
+          "meaning": "規劃",
+          "use": "事前安排。"
+        },
+        {
+          "word": "Wing it",
+          "meaning": "臨場亂撐",
+          "use": "口語，常較隨便。"
+        },
+        {
+          "word": "Adapt",
+          "meaning": "適應調整",
+          "use": "較廣，不一定即興創作。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>improvise</code> 常把一段觀察收斂成可討論的判斷。lab 裡沒有剛好的 fixture 時，工程師常要 improvise，但要記得之後補成可靠流程。",
-      "像 <code>improvise a solution</code>、<code>improvise on stage</code>、<code>improvised tool</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Improvise</code> 不等於沒有技術。好的即興常來自深厚基本功，因為你知道哪些東西可以臨時換，哪些不能碰。",
+      "工程上要把 improvised workaround 和 durable fix 分開，不然救急會變成技術債。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 improvise 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 improvise 整理成「即興處理、臨場創作或變通」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/improvise",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin 與「未預見」有關；即興的前提就是沒有事先完整看見。",
-      "memoryLens": "記憶時先抓「即興處理、臨場創作或變通」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "未預見的字源提醒你：improvise 的舞台，正是計畫沒完全覆蓋的地方。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "plan",
       "lab",
       "solution",
-      "verb",
       "verb"
     ]
   },

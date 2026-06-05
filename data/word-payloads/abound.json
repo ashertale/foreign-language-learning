@@ -12,82 +12,92 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.95"
     },
-    "coreIdea": "<code>abound</code> 常用在句子需要把動作往「大量存在」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>abound</code> 是多到四周都看得到，不是零星存在幾個。",
     "definition": {
-      "summary": "表示某物大量存在、四處可見，數量多得很明顯。這個字常不是在描述機械動作，而是在說事情怎麼往「大量存在」這個方向走。",
+      "summary": "表示大量存在、充滿，常用於 opportunities、rumors、wildflowers 等自然或社會現象。",
       "contrast": {
         "word": "Exist",
-        "note": "<code>Exist</code> 可以只是在說「存在」；換成 <code>abound</code>，句子通常是在補上「大量存在」這層更具體的意思。"
+        "note": "<code>exist</code> 只說存在；<code>abound</code> 說存在得很多，四周都看得到。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「大量存在」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "某類事物出現",
+        "數量多到顯眼",
+        "形成到處都是的感覺"
       ]
     },
     "memory": {
-      "hook": "<code>abound</code> 的畫面是：像草地上的露珠一樣，不用特地找，視線所及到處都有。",
-      "explanation": "這個畫面有用，因為它把 abound 從翻譯拉回場面：你先看到「四處都是」，再比較容易記住它其實在說「大量存在」。"
+      "hook": "把 <code>abound</code> 想成 debug 線索不是只有一個，而是 log、trace、repro steps 到處都有。",
+      "explanation": "數量感是這個字的核心。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>opportunities abound</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「大量存在」收過去。"
+        "label": "機會",
+        "body": "<code>Opportunities abound</code> 表示機會很多，像四周都能看到入口。"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 媒體 / 社群 裡，<code>rumors abound</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「多到你一看四周都是」。"
+        "label": "傳聞",
+        "body": "Rumors abound when information is scarce and stakes are high."
       },
       {
-        "label": "延伸版",
-        "body": "到了 自然 / 描寫 的場景，<code>wildflowers abound</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「存在」跟更具體的「大量存在」差在哪。"
+        "label": "自然",
+        "body": "Wildflowers"
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "abound 的主詞常是複數或不可數現象。搭配會直接帶出大量存在的畫面。",
       "items": [
         {
           "phrase": "opportunities abound",
-          "register": "職涯 / 成長",
-          "note": "這個搭配常出現在需要把事情往「大量存在」講清楚的句子裡。"
+          "register": "正式 / 商務 / 日常",
+          "note": "機會很多。"
         },
         {
           "phrase": "rumors abound",
-          "register": "媒體 / 社群",
-          "note": "放到 媒體 / 社群 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "新聞 / 組織",
+          "note": "傳聞四起。"
         },
         {
           "phrase": "wildflowers abound",
           "register": "自然 / 描寫",
-          "note": "在 自然 / 描寫 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "note": "野花大量盛開或遍布。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "大量存在",
-        "use": "當你要把事情說成「多到你一看四周都是」而不只是 存在 時"
+        "use": "用在某類事物大量存在、到處可見時。"
       },
       "others": [
         {
           "word": "Exist",
           "meaning": "存在",
-          "use": "當句子只需要 存在 這個動作，不必補上「多到你一看四周都是」那層走向時"
+          "use": "只說有。"
+        },
+        {
+          "word": "Proliferate",
+          "meaning": "迅速增生",
+          "use": "更強調快速擴散。"
+        },
+        {
+          "word": "Flourish",
+          "meaning": "繁盛",
+          "use": "重蓬勃生長或發展。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>abound</code> 常出現在 <code>opportunities abound</code>、<code>rumors abound</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「大量存在」這個方向收緊。",
-      "如果一句話只想表達比較平的「存在」，<code>Exist</code> 往往就夠了；但當語境需要那層更具體的「多到你一看四周都是」，<code>abound</code> 會更準。"
+      "<code>Abound</code> 帶有比較文學和書面感，適合寫機會、謠言、例子、生命跡象很多。",
+      "它不適合精準數量報告；如果要說幾個，用 numbers，不用 abound。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 abound 整理成「大量存在」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/abound",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 abound 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/abound",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "exist",
       "opportunity",
       "observation",
-      "verb",
-      "abound"
+      "abound",
+      "verb"
     ]
   },
   "sourceAudit": [

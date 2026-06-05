@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.52"
     },
-    "coreIdea": "<code>declarative</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「陳述式、描述目標狀態」。",
+    "coreIdea": "<code>declarative</code> 說的是描述想要成立的狀態，而不是一步步命令系統怎麼走到那裡。",
     "definition": {
-      "summary": "形容陳述式、描述目標狀態的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容語句、語法、設定或風格以宣告狀態或事實為主，而非逐步指示操作流程。",
       "contrast": {
         "word": "Imperative",
         "note": "<code>imperative</code> 告訴系統怎麼做；<code>declarative</code> 告訴系統要成為什麼樣。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>declarative</code> 可以先記成一個畫面：描述目標，接著隱藏步驟，最後由系統求出做法。",
-      "explanation": "這個畫面只用來幫你抓住「陳述式、描述目標狀態」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>declarative</code> config 想成告訴系統 desired state。",
+      "explanation": "你說要什麼，系統自己求怎麼到；這和逐行下命令不同。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "declarative config 說 desired state，而不是逐行指揮每個操作。"
+        "label": "設定",
+        "body": "<code>Declarative</code> config 說 desired state，而不是逐行指揮每個操作。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>declarative</code> 和 <code>declarative syntax</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "語法",
+        "body": "SQL feels declarative because you describe what data you want, not every step to fetch it。"
+      },
+      {
+        "label": "語句",
+        "body": "A declarative statement simply states something; it is not a question or command。"
       }
     ],
     "collocations": {
-      "note": "<code>declarative</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「陳述式、描述目標狀態」落地。",
+      "note": "declarative 的搭配會在語言學和工程間切換，但核心都和「宣告狀態」有關。",
       "items": [
         {
           "phrase": "declarative syntax",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「陳述式、描述目標狀態」有明確對象。"
+          "register": "程式語言 / 設定",
+          "note": "語法重點在描述結果或關係，而不是控制流程。"
         },
         {
           "phrase": "declarative configuration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "DevOps / 系統",
+          "note": "寫 desired state，由工具負責收斂。"
         },
         {
           "phrase": "declarative statement",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "語法 / 語言學",
+          "note": "陳述句，用來說出事實或主張。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "陳述式、描述目標狀態的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在重點是宣告狀態、事實或目標，而不是列出操作步驟時。"
       },
       "others": [
         {
           "word": "Imperative",
-          "meaning": "<code>imperative</code> 告訴系統怎麼做；<code>declarative</code> 告訴系統要成為什麼樣。",
-          "use": "如果句子只需要 imperative 的普通意思，就保留那個較簡單的字。"
+          "meaning": "命令式",
+          "use": "告訴系統一步步怎麼做。"
+        },
+        {
+          "word": "Procedural",
+          "meaning": "程序式",
+          "use": "強調執行步驟和流程。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>declarative</code> 常把一段觀察收斂成可討論的判斷。declarative config 說 desired state，而不是逐行指揮每個操作。",
-      "像 <code>declarative syntax</code>、<code>declarative configuration</code>、<code>declarative statement</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Declarative</code> 在現代基礎設施、UI 和資料查詢裡很常見，因為它把維護焦點從步驟轉到狀態。",
+      "但 declarative 不代表沒有邏輯；邏輯只是被放到工具、runtime 或 solver 裡處理。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 declarative 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 declarative 整理成「陳述式、描述目標狀態的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/declarative",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "來自 declare 的宣告概念；重點是說出狀態，而不是指揮流程。",
-      "memoryLens": "記憶時先抓「陳述式、描述目標狀態的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "declare 像把旗子插下去：declarative 直接把要成立的事說出口。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "imperative",
       "config",
       "syntax",
-      "adjective",
       "adjective"
     ]
   },

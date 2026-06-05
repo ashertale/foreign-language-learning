@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.56"
     },
-    "coreIdea": "<code>persistent</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「持續存在、堅持不退或反覆出現」。",
+    "coreIdea": "<code>persistent</code> 不是常來一下，而是待著不走：問題、努力、記憶或狀態都可能一直黏在那裡。",
     "definition": {
-      "summary": "形容持續存在、堅持不退或反覆出現的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容持續存在、反覆不退或堅持不懈；技術上也可指資料持久保存。",
       "contrast": {
         "word": "Frequent",
         "note": "<code>frequent</code> 是常發生；<code>persistent</code> 是不消退、一直黏在那裡。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>persistent</code> 可以先記成一個畫面：問題或態度出現，接著時間過去仍在，最後需要正面處理。",
-      "explanation": "這個畫面只用來幫你抓住「持續存在、堅持不退或反覆出現」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>persistent</code> bug 想成你每次以為它是 random noise，它又留下同一種味道。",
+      "explanation": "它不是吵一次，而是一直在要求你正視。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "persistent bug 最怕被當成 random noise，因為它其實一直在留下線索。"
+        "label": "Bug",
+        "body": "<code>Persistent</code> bug 最怕被當成 random noise，因為它其實一直在留下線索。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>persistent</code> 和 <code>persistent bug</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "資料",
+        "body": "Persistent memory keeps data after power loss."
+      },
+      {
+        "label": "努力",
+        "body": "Persistent"
       }
     ],
     "collocations": {
-      "note": "<code>persistent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「持續存在、堅持不退或反覆出現」落地。",
+      "note": "persistent 常接 bug、memory、effort。搭配會分成不退的問題、可保存的資料、持續的努力。",
       "items": [
         {
           "phrase": "persistent bug",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「持續存在、堅持不退或反覆出現」有明確對象。"
+          "register": "工程 / 品質",
+          "note": "持續存在、不容易消失的 bug。"
         },
         {
           "phrase": "persistent memory",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "硬體 / 系統",
+          "note": "斷電後仍保留資料的記憶體。"
         },
         {
           "phrase": "persistent effort",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "職場 / 學習",
+          "note": "持續不懈的努力。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "持續存在、堅持不退或反覆出現的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某事不退場、反覆存在，或資料需要持久保存時。"
       },
       "others": [
         {
           "word": "Frequent",
-          "meaning": "<code>frequent</code> 是常發生；<code>persistent</code> 是不消退、一直黏在那裡。",
-          "use": "如果句子只需要 frequent 的普通意思，就保留那個較簡單的字。"
+          "meaning": "頻繁",
+          "use": "常發生，但不一定一直存在。"
+        },
+        {
+          "word": "Constant",
+          "meaning": "持續不變",
+          "use": "更像沒有間斷。"
+        },
+        {
+          "word": "Tenacious",
+          "meaning": "頑強",
+          "use": "多形容人或行動不放棄。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>persistent</code> 常把一段觀察收斂成可討論的判斷。persistent bug 最怕被當成 random noise，因為它其實一直在留下線索。",
-      "像 <code>persistent bug</code>、<code>persistent memory</code>、<code>persistent effort</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Persistent</code> 在工程裡有兩種很常見的味道：persistent bug 是麻煩，persistent storage 是能力。",
+      "它的共同點是時間：過了一段時間，它仍然在。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 persistent 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 persistent 整理成「持續存在、堅持不退或反覆出現的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/persistent",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>persistere</code>，有持續站住、堅持的意思。",
-      "memoryLens": "記憶時先抓「持續存在、堅持不退或反覆出現的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "持續站住的字源畫面很穩；persistent 是不輕易離開。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "bug",
       "memory",
       "effort",
-      "adjective",
       "adjective"
     ]
   },

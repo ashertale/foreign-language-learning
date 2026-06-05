@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.68"
     },
-    "coreIdea": "<code>exuberant</code> 真正抓住的，不是程度高低，而是整體怎麼被「整個人或整個場景都滿到往外溢」這個感覺支配。",
+    "coreIdea": "<code>exuberant</code> 是活力或生長滿到溢出來；它常讓場景變亮、變多、變熱鬧。",
     "definition": {
-      "summary": "表示生氣勃勃、旺盛、洋溢著活力或豐富感。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容人、情緒、成長或設計生氣勃勃、旺盛、洋溢。",
       "contrast": {
         "word": "Energetic",
-        "note": "如果語境只需要比較平的「有活力」，用 <code>Energetic</code> 往往就夠了；<code>exuberant</code> 則會把「整個人或整個場景都滿到往外溢」講得更明確。"
+        "note": "<code>energetic</code> 是有活力；<code>exuberant</code> 是活力多到溢出。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「整個人或整個場景都滿到往外溢」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "能量或生長累積",
+        "它向外表現得很滿",
+        "場景變得明亮而旺盛"
       ]
     },
     "memory": {
-      "hook": "<code>exuberant</code> 的畫面是：像杯口已經滿了，泡泡還在一直冒上來。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 exuberant 時，能先抓到「活力滿溢」這個核心，再回頭讀細節。"
+      "hook": "把 <code>exuberant growth</code> 想成植物或市場不是穩定增加，而是枝葉整個冒出來。",
+      "explanation": "exuberant 的能量很滿。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>exuberant mood</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「活力滿溢」這層氣質壓到前景。"
+        "label": "情緒",
+        "body": "The team was <code>exuberant</code> after the first successful field test."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>exuberant growth</code> 放進 自然 / 描寫 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "成長",
+        "body": "Exuberant growth can be exciting and still require pruning."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 設計 / 視覺 的情境，從 <code>exuberant design</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "設計",
+        "body": "An"
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "exuberant 常修飾 mood、growth、design；搭配都帶外溢的生命力。",
       "items": [
         {
           "phrase": "exuberant mood",
-          "register": "情緒 / 日常",
-          "note": "這個搭配會讓「活力滿溢」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "情緒 / 團隊",
+          "note": "洋溢喜悅的氣氛。"
         },
         {
           "phrase": "exuberant growth",
-          "register": "自然 / 描寫",
-          "note": "在 自然 / 描寫 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "自然 / 商務",
+          "note": "旺盛成長。"
         },
         {
           "phrase": "exuberant design",
-          "register": "設計 / 視覺",
-          "note": "如果你想把這個字用穩，從 設計 / 視覺 常見的這個搭配進場通常最自然。"
+          "register": "設計 / 評論",
+          "note": "活力強、表現豐富的設計。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "活力滿溢",
-        "use": "當你要強調整體帶著「整個人或整個場景都滿到往外溢」這種質地，而不只是 有活力 時"
+        "use": "用在活力、喜悅或成長旺盛到明顯向外溢出時。"
       },
       "others": [
         {
           "word": "Energetic",
           "meaning": "有活力",
-          "use": "當句子只需要 有活力 這個中性描述，不必把「整個人或整個場景都滿到往外溢」這種氣質壓到前景時"
+          "use": "通用；<code>exuberant</code> 更滿、更外放。"
+        },
+        {
+          "word": "Lively",
+          "meaning": "熱鬧、有生氣",
+          "use": "較輕；<code>exuberant</code> 有溢出的旺盛感。"
         }
       ]
     },
     "modernUse": [
-      "<code>exuberant</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>exuberant mood</code>、<code>exuberant growth</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「有活力」，<code>Energetic</code> 也許夠用；但當你需要的是更具體的「整個人或整個場景都滿到往外溢」，<code>exuberant</code> 會更準。"
+      "<code>Exuberant</code> 可用於人、自然、藝術、市場。",
+      "它通常正面，但也可能暗示過度，需要修剪或控制。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 exuberant 整理成「活力滿溢」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/exuberant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 exuberant 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/exuberant",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "energetic",
       "style",
       "mood",
-      "adjective",
-      "exuberant"
+      "exuberant",
+      "adjective"
     ]
   },
   "sourceAudit": [

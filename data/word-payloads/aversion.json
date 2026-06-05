@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>aversion</code> 把「強烈不願接近某事的排斥感」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>aversion</code> 是帶著轉身離開動作的不喜歡。它不只是口味不合，而是人或系統會主動避開那個東西。",
     "definition": {
-      "summary": "指強烈不願接近某事的排斥感。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指強烈不喜歡、排斥或想避開某事。它比 <code>dislike</code> 更有身體和判斷一起往外轉的力道。",
       "contrast": {
         "word": "Dislike",
         "note": "<code>dislike</code> 是不喜歡；<code>aversion</code> 有往外轉、想避開的力道。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>aversion</code> 可以先記成一個畫面：遇到對象，接著產生排斥，最後主動避開。",
-      "explanation": "這個畫面只用來幫你抓住「強烈不願接近某事的排斥感」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>aversion</code> 像手碰到燙的東西時自動縮回來。",
+      "explanation": "那不是單純評價不好，而是身體和決策都在說：離它遠一點。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "risk aversion 高的人不一定保守，只是對下行風險更敏感。"
+        "label": "風險",
+        "body": "High risk <code>aversion</code> 不一定等於保守；它可能只是對 downside、不可逆損失或責任暴露特別敏感。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>aversion</code> 和 <code>risk aversion</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "人際",
+        "body": "An <code>aversion to conflict</code> 會讓人避免開必要的難題，短期和平，長期問題變厚。"
+      },
+      {
+        "label": "語氣",
+        "body": "說 someone has a strong <code>aversion</code> to X，比 saying they dislike X 更像 X 會讓他主動後退。"
       }
     ],
     "collocations": {
-      "note": "<code>aversion</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「強烈不願接近某事的排斥感」落地。",
+      "note": "它常接 to：aversion to risk、conflict、change。to 後面不是普通對象，而是那股排斥力要避開的方向。",
       "items": [
         {
           "phrase": "risk aversion",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「強烈不願接近某事的排斥感」有明確對象。"
+          "register": "金融 / 決策 / 管理",
+          "note": "對風險下行面特別敏感，因此偏好較穩或可控的選項。"
         },
         {
           "phrase": "aversion to conflict",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "人際 / 組織",
+          "note": "不是禮貌，而是碰到衝突就想閃，可能會拖延必要溝通。"
         },
         {
           "phrase": "strong aversion",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "日常 / 分析",
+          "note": "強調排斥程度高，常會直接影響選擇。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "強烈不願接近某事的排斥感",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在不只是負面評價，而是會主動避開的排斥感。"
       },
       "others": [
         {
           "word": "Dislike",
-          "meaning": "<code>dislike</code> 是不喜歡；<code>aversion</code> 有往外轉、想避開的力道。",
-          "use": "如果句子只需要 dislike 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不喜歡",
+          "use": "普通偏好或口味不合，用 <code>dislike</code> 就夠。"
+        },
+        {
+          "word": "Repulsion",
+          "meaning": "厭惡到被推開",
+          "use": "語氣更強，更接近生理或道德上的反感。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>aversion</code> 常把一段觀察收斂成可討論的判斷。risk aversion 高的人不一定保守，只是對下行風險更敏感。",
-      "像 <code>risk aversion</code>、<code>aversion to conflict</code>、<code>strong aversion</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在決策語言裡，<code>aversion</code> 很有用，因為它能說明一個選項不是收益不夠，而是心理或制度上承受不了。",
+      "它也能揭露盲點：過度 aversion to failure 會讓團隊只做安全小事；過低 risk aversion 又可能把系統推向不可恢復的錯。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 aversion 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 aversion 整理成「強烈不願接近某事的排斥感」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/aversion",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "與 Latin <code>avert</code> 同源，有「轉開」的方向感。",
-      "memoryLens": "記憶時先抓「強烈不願接近某事的排斥感」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "把它和 avert 的「轉開」放在一起記：aversion 不是坐著討厭，而是身體已經轉向另一邊。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "dislike",
       "risk",
       "reaction",
-      "noun",
       "noun"
     ]
   },

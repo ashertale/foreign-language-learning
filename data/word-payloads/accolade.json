@@ -12,82 +12,92 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>accolade</code> 用來把場面裡的「公開肯定」正式點出來，讓它從感受或評語變成可以被命名的東西。",
+    "coreIdea": "<code>accolade</code> 是公開、帶份量的肯定。它不是一句好棒，而是某種正式可被看見的讚賞。",
     "definition": {
-      "summary": "表示獎項、榮譽或正式的高度讚譽。這個名詞把場面裡那份「公開肯定」收成一個可以被指出的東西。",
+      "summary": "指榮譽、獎項、讚譽或公開肯定，常來自評論界、業界或正式機構。",
       "contrast": {
         "word": "Praise",
-        "note": "<code>Praise</code> 可以只是在說「稱讚」；換成 <code>accolade</code>，句子通常是在補上「公開肯定」這層更具體的意思。"
+        "note": "<code>praise</code> 可以很私人；<code>accolade</code> 是公開、帶聲望的肯定。"
       },
       "flow": [
-        "先有一個值得被點出的結果、狀態或評價",
-        "這個名詞把它收成「公開肯定」這樣一個可指稱的東西",
-        "所以句子不是在補修飾，而是在正式命名"
+        "表現被看見",
+        "外部給出肯定",
+        "聲望被正式加上"
       ]
     },
     "memory": {
-      "hook": "<code>accolade</code> 的畫面是：像胸前別上一枚勳章，不只是有人喜歡，而是整個場域都承認你的分量。",
-      "explanation": "這個畫面有用，因為它把 accolade 從翻譯拉回場面：你先看到「正式榮譽」，再比較容易記住它其實在說「公開肯定」。"
+      "hook": "把 <code>accolade</code> 想成作品被業界點名，而不是同事私下說不錯。",
+      "explanation": "它有外部可見度，也有一點聲望。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>receive an accolade</code> 聽起來不像隨口描述，更像是把場面裡那份「公開肯定」正式點出來。"
+        "label": "得獎 / 肯定",
+        "body": "<code>Receive an accolade</code> 表示獲得公開肯定，不是隨口被稱讚。"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 出版 / 評論 裡，<code>critical accolades</code> 常不是某個人的一時看法，而是已經可以被辨認、被談論的東西。"
+        "label": "評論",
+        "body": "Critical accolades can change how a work is received by a wider audience."
       },
       {
-        "label": "延伸版",
-        "body": "到了 產業 / 獎項 的場景，<code>industry accolade</code> 會讓這個字從抽象印象變成語境裡具體可指的對象。"
+        "label": "產業",
+        "body": "An industry accolade may help credibility, but it is not the same as user value."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個名詞通常在哪些場面被點出。",
+      "note": "accolade 常接 receive、critical、industry。搭配會指出肯定來自哪個公共場域。",
       "items": [
         {
           "phrase": "receive an accolade",
-          "register": "職涯 / 成就",
-          "note": "放到 職涯 / 成就 的場景裡，這個搭配會把「公開肯定」具體點出來。"
+          "register": "正式 / 媒體",
+          "note": "獲得榮譽或讚譽。"
         },
         {
           "phrase": "critical accolades",
-          "register": "出版 / 評論",
-          "note": "在 出版 / 評論 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "藝術 / 媒體",
+          "note": "評論界讚譽。"
         },
         {
           "phrase": "industry accolade",
-          "register": "產業 / 獎項",
-          "note": "到了 產業 / 獎項 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "商業 / 專業",
+          "note": "業界獎項或肯定。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "公開肯定",
-        "use": "當你要把「被公開看見、帶有份量的肯定」當成一個可被點出的東西來說，而不只是 稱讚 時"
+        "use": "用在公開、正式或有聲望的肯定時。"
       },
       "others": [
         {
           "word": "Praise",
           "meaning": "稱讚",
-          "use": "當句子只需要 稱讚 這個比較平的說法，不必把那份「被公開看見、帶有份量的肯定」正式點名時"
+          "use": "範圍廣，可私人可公開。"
+        },
+        {
+          "word": "Award",
+          "meaning": "獎項",
+          "use": "具體獎。"
+        },
+        {
+          "word": "Recognition",
+          "meaning": "認可",
+          "use": "較廣，可正式或非正式。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>accolade</code> 常黏在 <code>receive an accolade</code>、<code>critical accolades</code> 這些搭配附近，因為它擅長把場面裡那份「公開肯定」正式點名。",
-      "所以它和 <code>Praise</code> 的差別，通常不在難易，而在你要不要把那件事說成一個可被指出、可被談論的對象。"
+      "<code>Accolade</code> 常出現在作品、產品、職涯成就的描述中。它帶光環，但也要小心別把獎項當成品質本身。",
+      "User trust 和 accolade 可以互相支持，但不是同一件事。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 accolade 整理成「公開肯定」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/accolade",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 accolade 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/accolade",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "praise",
       "recognition",
       "career",
-      "noun",
-      "accolade"
+      "accolade",
+      "noun"
     ]
   },
   "sourceAudit": [

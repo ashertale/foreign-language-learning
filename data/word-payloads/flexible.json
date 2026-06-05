@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "4.01"
     },
-    "coreIdea": "<code>flexible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「可彎曲、可調整、能適應變化」。",
+    "coreIdea": "<code>flexible</code> 不是沒有原則，而是在結構不斷裂的前提下能調整。",
     "definition": {
-      "summary": "形容可彎曲、可調整、能適應變化。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容物體、計畫、時間、設計或人能適應變化、可彎曲或可調整。",
       "contrast": {
         "word": "Loose",
         "note": "<code>loose</code> 是鬆散；<code>flexible</code> 是有結構但能調整。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>flexible</code> 可以先記成一個畫面：結構存在，接著外力或需求改變，最後調整但不斷裂。",
-      "explanation": "這個畫面只用來幫你抓住「可彎曲、可調整、能適應變化」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>flexible</code> interface 想成有清楚 contract，但能容納未來選項。",
+      "explanation": "太硬會裂，太鬆會失去保護。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "flexible interface 能支援變化，但太鬆也會讓契約失去保護。"
+        "label": "介面",
+        "body": "<code>Flexible</code> interface 能支援變化，但太鬆也會讓契約失去保護。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>flexible</code> 和 <code>flexible schedule</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "排程",
+        "body": "Flexible schedule helps real life fit around work, but still needs coordination."
+      },
+      {
+        "label": "設計",
+        "body": "Flexible design leaves room for change without turning every decision into runtime chaos."
       }
     ],
     "collocations": {
-      "note": "<code>flexible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「可彎曲、可調整、能適應變化」落地。",
+      "note": "flexible 常接 schedule、design、enough。搭配會問可調整性是優點，還是契約變得太鬆。",
       "items": [
         {
           "phrase": "flexible schedule",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「可彎曲、可調整、能適應變化」有明確對象。"
+          "register": "職場 / 日常",
+          "note": "時間安排可調整。"
         },
         {
           "phrase": "flexible design",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 產品",
+          "note": "能適應變化的設計，但仍需邊界。"
         },
         {
           "phrase": "flexible enough",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 評估",
+          "note": "彈性是否足夠應付需求。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "可彎曲、可調整、能適應變化",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在需要保留結構，同時能對變化作出調整時。"
       },
       "others": [
         {
           "word": "Loose",
-          "meaning": "<code>loose</code> 是鬆散；<code>flexible</code> 是有結構但能調整。",
-          "use": "如果句子只需要 loose 的普通意思，就保留那個較簡單的字。"
+          "meaning": "鬆散",
+          "use": "可能缺乏結構。"
+        },
+        {
+          "word": "Adaptable",
+          "meaning": "適應力強",
+          "use": "更重面對變化時能調整。"
+        },
+        {
+          "word": "Rigid",
+          "meaning": "僵硬",
+          "use": "反義，不能或不願調整。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>flexible</code> 常把一段觀察收斂成可討論的判斷。flexible interface 能支援變化，但太鬆也會讓契約失去保護。",
-      "像 <code>flexible schedule</code>、<code>flexible design</code>、<code>flexible enough</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Flexible</code> 是正面字，但工程上不能無限追求。過度 flexible 會把清楚 contract 變成模糊責任。",
+      "好設計通常是 flexible at the right boundary, strict at the right boundary。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 flexible 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 flexible 整理成「可彎曲、可調整、能適應變化」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/flexible",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>flectere</code>「彎曲」。",
-      "memoryLens": "記憶時先抓「可彎曲、可調整、能適應變化」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>flectere</code> 是彎曲；記成能彎但不斷。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "loose",
       "interface",
       "design",
-      "adjective",
       "adjective"
     ]
   },

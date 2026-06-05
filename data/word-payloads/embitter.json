@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.37"
     },
-    "coreIdea": "<code>embitter</code> 常用在句子需要把動作往「讓心裡變苦」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>embitter</code> 是讓人的心變苦；傷害沒有只停在事件，而是滲進性情或關係。",
     "definition": {
-      "summary": "表示使人怨恨、憤懣或因受傷而性情轉苦。這個字常不是在描述機械動作，而是在說事情怎麼往「讓心裡變苦」這個方向走。",
+      "summary": "表示使怨恨、使憤懣、使人因受傷而變得尖刻痛苦。",
       "contrast": {
         "word": "Upset",
-        "note": "<code>Upset</code> 可以只是在說「使難過」；換成 <code>embitter</code>，句子通常是在補上「讓心裡變苦」這層更具體的意思。"
+        "note": "<code>upset</code> 是不高興；<code>embitter</code> 是不高興發酵成苦。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「讓心裡變苦」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "傷害或失望發生",
+        "情緒沒有被修復",
+        "怨苦滲進人或關係"
       ]
     },
     "memory": {
-      "hook": "<code>embitter</code> 的畫面是：像茶本來溫熱可入口，卻被滴進太多苦汁，整杯味道都變了。",
-      "explanation": "這個畫面有用，因為它把 embitter 從翻譯拉回場面：你先看到「整杯茶都苦掉了」，再比較容易記住它其實在說「讓心裡變苦」。"
+      "hook": "把 <code>embittered by loss</code> 想成失去沒有被消化，反而慢慢變成看世界的苦味。",
+      "explanation": "embitter 的結果會留在心裡很久。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>embitter a generation</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「讓心裡變苦」收過去。"
+        "label": "世代",
+        "body": "Broken promises can <code>embitter</code> a generation more than a single defeat."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 情緒 / 敘事 裡，<code>embittered by loss</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「讓心裡整體變苦」。"
+        "label": "失去",
+        "body": "He"
       },
       {
-        "label": "延伸版",
-        "body": "到了 人際 / 關係 的場景，<code>embitter the relationship</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「使難過」跟更具體的「讓心裡變苦」差在哪。"
+        "label": "關係",
+        "body": "Unresolved blame can embitter the relationship even after the practical issue is fixed."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "embitter 常接 generation、relationship，或用 embittered by loss；搭配都描述傷害變成怨。",
       "items": [
         {
           "phrase": "embitter a generation",
-          "register": "公共 / 社會",
-          "note": "這個搭配常出現在需要把事情往「讓心裡變苦」講清楚的句子裡。"
+          "register": "歷史 / 社會",
+          "note": "使一代人憤懣。"
         },
         {
           "phrase": "embittered by loss",
-          "register": "情緒 / 敘事",
-          "note": "放到 情緒 / 敘事 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "敘事 / 情緒",
+          "note": "因失去而變得怨苦。"
         },
         {
           "phrase": "embitter the relationship",
-          "register": "人際 / 關係",
-          "note": "在 人際 / 關係 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "人際 / 工作",
+          "note": "使關係變苦、充滿怨氣。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "讓心裡變苦",
-        "use": "當你要把事情說成「讓心裡整體變苦」而不只是 使難過 時"
+        "use": "用在傷害或失望長期留在人心裡，改變態度與關係時。"
       },
       "others": [
         {
           "word": "Upset",
-          "meaning": "使難過",
-          "use": "當句子只需要 使難過 這個動作，不必補上「讓心裡整體變苦」那層走向時"
+          "meaning": "使不高興",
+          "use": "太輕；<code>embitter</code> 是長期怨恨。"
+        },
+        {
+          "word": "Resent",
+          "meaning": "怨恨",
+          "use": "resent 是感受；embitter 是使人變得怨苦。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>embitter</code> 常出現在 <code>embitter a generation</code>、<code>embittered by loss</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「讓心裡變苦」這個方向收緊。",
-      "如果一句話只想表達比較平的「使難過」，<code>Upset</code> 往往就夠了；但當語境需要那層更具體的「讓心裡整體變苦」，<code>embitter</code> 會更準。"
+      "<code>Embittered</code> 常用於人物描寫，帶有時間累積。",
+      "不要用它描述短暫不爽；它的苦味會留下來。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 embitter 整理成「讓心裡變苦」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/embitter",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 embitter 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/embitter",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "upset",
       "resentment",
       "relationships",
-      "verb",
-      "embitter"
+      "embitter",
+      "verb"
     ]
   },
   "sourceAudit": [

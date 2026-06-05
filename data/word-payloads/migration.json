@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.80"
     },
-    "coreIdea": "<code>migration</code> 把「遷移、移動到新系統或地點」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>migration</code> 不是把資料複製過去而已，而是把狀態、語意、權限和使用者連續性一起搬到新環境。",
     "definition": {
-      "summary": "指遷移、移動到新系統或地點。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指遷移、移轉，可用於資料、系統、人口、動物或平台轉換。",
       "contrast": {
         "word": "Copy",
         "note": "<code>copy</code> 是複製；<code>migration</code> 要處理狀態、相容性和切換。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>migration</code> 可以先記成一個畫面：舊環境存在，接著移到新環境，最後保持連續性。",
-      "explanation": "這個畫面只用來幫你抓住「遷移、移動到新系統或地點」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>migration</code> 想成資料搬完後，舊權限、新 schema 和下游報表都還要對得起來。",
+      "explanation": "搬動檔案只是最容易看見的一層。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "data migration 最怕不是搬資料，而是搬完後語意和權限對不起來。"
+        "label": "資料",
+        "body": "data <code>migration</code> 最怕不是搬資料，而是搬完後語意和權限對不起來。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>migration</code> 和 <code>data migration</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "系統",
+        "body": "System migration needs rollback, compatibility, and user communication."
+      },
+      {
+        "label": "計畫",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "<code>migration</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「遷移、移動到新系統或地點」落地。",
+      "note": "migration 常接 data、system、plan。搭配會說明遷移的是資料、整個系統，還是遷移路線本身。",
       "items": [
         {
           "phrase": "data migration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「遷移、移動到新系統或地點」有明確對象。"
+          "register": "資料 / 系統",
+          "note": "資料從舊環境移到新環境並保持語意可用。"
         },
         {
           "phrase": "system migration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "IT / 工程",
+          "note": "系統平台或架構移轉。"
         },
         {
           "phrase": "migration plan",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "專案 / 工程",
+          "note": "遷移計畫，包含順序、驗證和回退。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "遷移、移動到新系統或地點",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在從舊環境移到新環境，且需要維持可用性和語意連續時。"
       },
       "others": [
         {
           "word": "Copy",
-          "meaning": "<code>copy</code> 是複製；<code>migration</code> 要處理狀態、相容性和切換。",
-          "use": "如果句子只需要 copy 的普通意思，就保留那個較簡單的字。"
+          "meaning": "複製",
+          "use": "只建立副本。"
+        },
+        {
+          "word": "Transfer",
+          "meaning": "轉移",
+          "use": "較通用，可指所有權、資料或人。"
+        },
+        {
+          "word": "Porting",
+          "meaning": "移植",
+          "use": "常指軟體移到新平台。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>migration</code> 常把一段觀察收斂成可討論的判斷。data migration 最怕不是搬資料，而是搬完後語意和權限對不起來。",
-      "像 <code>data migration</code>、<code>system migration</code>、<code>migration plan</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Migration</code> 的真正風險通常在 invisible contract。資料有沒有同義？權限有沒有等價？下游有沒有假設舊格式？",
+      "好的 migration 不只問怎麼搬，也問怎麼驗、怎麼停、怎麼回。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 migration 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 migration 整理成「遷移、移動到新系統或地點」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/migration",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>migrare</code>，意思是移動、遷徙。",
-      "memoryLens": "記憶時先抓「遷移、移動到新系統或地點」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "移動、遷徙的字源很直覺；現代工程用法重連續性。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "data",
       "system",
       "compatibility",
-      "noun",
       "noun"
     ]
   },

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>doctrine</code> 把「教義、信條或政策原則體系」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>doctrine</code> 不是單條規則，而是一套會反覆指導判斷的原則體系。",
     "definition": {
-      "summary": "指教義、信條或政策原則體系。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指學說、教義、政策原則或某組織穩定採用的判斷框架，常見於法律、軍事、宗教與組織策略。",
       "contrast": {
         "word": "Rule",
         "note": "<code>rule</code> 是單條規則；<code>doctrine</code> 是背後那套穩定原則。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>doctrine</code> 可以先記成一個畫面：原則被建立，接著多個案例套用，最後形成判斷體系。",
-      "explanation": "這個畫面只用來幫你抓住「教義、信條或政策原則體系」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>doctrine</code> 想成架構決策背後那本看不見的 playbook。",
+      "explanation": "新問題來時，不是翻一條死規則，而是用同一套原則判斷。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "架構 doctrine 說明團隊怎麼取捨，比零散規則更能處理新問題。"
+        "label": "架構",
+        "body": "架構 <code>doctrine</code> 說明團隊怎麼取捨，比零散規則更能處理新問題。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>doctrine</code> 和 <code>legal doctrine</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "法律",
+        "body": "A legal doctrine guides how courts interpret recurring issues。"
+      },
+      {
+        "label": "公司",
+        "body": "Company doctrine can be useful if it explains trade-offs, not just slogans。"
       }
     ],
     "collocations": {
-      "note": "<code>doctrine</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「教義、信條或政策原則體系」落地。",
+      "note": "doctrine 常接 legal、military、company。搭配會標出哪個領域把原則體系化。",
       "items": [
         {
           "phrase": "legal doctrine",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「教義、信條或政策原則體系」有明確對象。"
+          "register": "法律",
+          "note": "法院或法學中反覆使用的原則體系。"
         },
         {
           "phrase": "military doctrine",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "軍事",
+          "note": "軍隊如何作戰、組織與判斷的基本原則。"
         },
         {
           "phrase": "company doctrine",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "組織 / 策略",
+          "note": "公司內部穩定的做事原則或信條。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "教義、信條或政策原則體系",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在一組穩定原則會反覆指導判斷，而不是只處理單一情況時。"
       },
       "others": [
         {
           "word": "Rule",
-          "meaning": "<code>rule</code> 是單條規則；<code>doctrine</code> 是背後那套穩定原則。",
-          "use": "如果句子只需要 rule 的普通意思，就保留那個較簡單的字。"
+          "meaning": "規則",
+          "use": "單條要求；doctrine 是多案例可套用的原則群。"
+        },
+        {
+          "word": "Policy",
+          "meaning": "政策",
+          "use": "更偏正式規定或管理安排。"
+        },
+        {
+          "word": "Principle",
+          "meaning": "原則",
+          "use": "單一或較抽象；doctrine 更像一套原則。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>doctrine</code> 常把一段觀察收斂成可討論的判斷。架構 doctrine 說明團隊怎麼取捨，比零散規則更能處理新問題。",
-      "像 <code>legal doctrine</code>、<code>military doctrine</code>、<code>company doctrine</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Doctrine</code> 在公司語境裡要小心。它可以讓取捨一致，也可能變成僵化口號。",
+      "好的 doctrine 應該幫人面對新問題，而不是阻止人重新思考。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 doctrine 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 doctrine 整理成「教義、信條或政策原則體系」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/doctrine",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>doctrina</code>，與教導、學說相關。",
-      "memoryLens": "記憶時先抓「教義、信條或政策原則體系」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "教導與學說的字源提供背景；現代重點是可反覆套用的判斷原則。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "rule",
       "policy",
       "architecture",
-      "noun",
       "noun"
     ]
   },

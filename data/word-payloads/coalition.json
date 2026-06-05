@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>coalition</code> 把「不同團體為共同目標形成的聯盟」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>coalition</code> 是為了某個目的形成的暫時同站。成員不必同質，但在這件事上要靠得夠近，才能一起行動。",
     "definition": {
-      "summary": "指不同團體為共同目標形成的聯盟。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指不同政黨、團體、部門或個人為了共同目標組成的聯盟。它常帶任務性和暫時性，不一定代表深層一致。",
       "contrast": {
         "word": "Alliance",
         "note": "<code>alliance</code> 可長期正式；<code>coalition</code> 常有為特定議題集合的感覺。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>coalition</code> 可以先記成一個畫面：各方分散，接著找到共同目標，最後暫時合力。",
-      "explanation": "這個畫面只用來幫你抓住「不同團體為共同目標形成的聯盟」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>coalition</code> 像跨部門把各自工具帶到同一張桌上。",
+      "explanation": "大家不需要變成同一個團隊文化，但需要在這個問題上合力。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "跨部門推動品質改善，常要 build a coalition，而不是只發一封通知。"
+        "label": "組織",
+        "body": "跨部門推動品質改善，常要 build a <code>coalition</code>，而不是只發一封通知。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>coalition</code> 和 <code>coalition government</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "政治",
+        "body": "A <code>coalition</code> government 由多個政黨合作組成，合作背後通常有取捨。"
+      },
+      {
+        "label": "社會倡議",
+        "body": "A broad <code>coalition</code> can include groups that disagree on many things but share one urgent goal。"
       }
     ],
     "collocations": {
-      "note": "<code>coalition</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「不同團體為共同目標形成的聯盟」落地。",
+      "note": "coalition 常接 build、broad、government。搭配會顯示它是被建立出來的合作，而不是自然同質群體。",
       "items": [
         {
           "phrase": "coalition government",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「不同團體為共同目標形成的聯盟」有明確對象。"
+          "register": "政治",
+          "note": "多個政黨共同組閣，穩定性取決於協議和利益平衡。"
         },
         {
           "phrase": "broad coalition",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "倡議 / 政治",
+          "note": "成員來源廣，能擴大支持，但內部差異也更大。"
         },
         {
           "phrase": "build a coalition",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "管理 / 政治 / 社群",
+          "note": "主動把不同利害關係人拉到同一目標旁邊。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "不同團體為共同目標形成的聯盟",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在不同成員為特定目的暫時或策略性合力時。"
       },
       "others": [
         {
           "word": "Alliance",
-          "meaning": "<code>alliance</code> 可長期正式；<code>coalition</code> 常有為特定議題集合的感覺。",
-          "use": "如果句子只需要 alliance 的普通意思，就保留那個較簡單的字。"
+          "meaning": "聯盟，可長期正式",
+          "use": "國家、公司或組織的長期合作常用 <code>alliance</code>。"
+        },
+        {
+          "word": "Partnership",
+          "meaning": "合作關係",
+          "use": "通常較雙邊、較穩定，也常用在商務。"
+        },
+        {
+          "word": "Faction",
+          "meaning": "派系",
+          "use": "強調內部分裂或特定派別，不是合作集合。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>coalition</code> 常把一段觀察收斂成可討論的判斷。跨部門推動品質改善，常要 build a coalition，而不是只發一封通知。",
-      "像 <code>coalition government</code>、<code>broad coalition</code>、<code>build a coalition</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在公司裡，<code>coalition</code> 不只屬於政治。推一個跨組織改變時，你需要的不只是 approval，而是願意一起承擔成本的人。",
+      "它也提醒你：coalition 的共同點可能很窄。目標達成後，成員未必會繼續站在一起。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 coalition 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 coalition 整理成「不同團體為共同目標形成的聯盟」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/coalition",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>coalescere</code>，有「合在一起成長」的意思。",
-      "memoryLens": "記憶時先抓「不同團體為共同目標形成的聯盟」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>coalescere</code> 的「合在一起成長」很適合記，但現代 coalition 更常是為了目的聚合。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "alliance",
       "team",
       "policy",
-      "noun",
       "noun"
     ]
   },

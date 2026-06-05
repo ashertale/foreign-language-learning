@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.72"
     },
-    "coreIdea": "<code>fallacy</code> 把「謬誤、錯誤推理或迷思」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>fallacy</code> 不是任何錯誤，而是推理本身看似順、實際上藏了漏洞。",
     "definition": {
-      "summary": "指謬誤、錯誤推理或迷思。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指謬誤，尤其是推理結構、前提或因果判斷上的錯誤。",
       "contrast": {
         "word": "Mistake",
         "note": "<code>mistake</code> 是錯；<code>fallacy</code> 特別指推理結構有問題。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>fallacy</code> 可以先記成一個畫面：論點看似順，接著隱藏錯誤前提，最後結論不成立。",
-      "explanation": "這個畫面只用來幫你抓住「謬誤、錯誤推理或迷思」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>fallacy</code> 想成 debug 時 correlation 看起來太誘人，讓人忘了查 causation。",
+      "explanation": "錯不在資料存在，而在推理跳太快。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "把 correlation 當 causation 是常見 fallacy，尤其在 debug 時很誘人。"
+        "label": "Debug",
+        "body": "把 correlation 當 causation 是常見 <code>fallacy</code>，尤其在 debug 時很誘人。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>fallacy</code> 和 <code>logical fallacy</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "論證",
+        "body": "A logical fallacy can make a confident argument collapse."
+      },
+      {
+        "label": "常見錯法",
+        "body": "The"
       }
     ],
     "collocations": {
-      "note": "<code>fallacy</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「謬誤、錯誤推理或迷思」落地。",
+      "note": "fallacy 常接 logical、common、fallacy of。搭配會指向哪一種推理錯法。",
       "items": [
         {
           "phrase": "logical fallacy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「謬誤、錯誤推理或迷思」有明確對象。"
+          "register": "邏輯 / 辯論",
+          "note": "推理形式或結構有問題。"
         },
         {
           "phrase": "common fallacy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "教學 / 評論",
+          "note": "常見謬誤，容易反覆出現。"
         },
         {
           "phrase": "fallacy of",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 分析",
+          "note": "後面接具體謬誤內容。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "謬誤、錯誤推理或迷思",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在錯誤來自推理方式，而不是單純資料輸入錯時。"
       },
       "others": [
         {
           "word": "Mistake",
-          "meaning": "<code>mistake</code> 是錯；<code>fallacy</code> 特別指推理結構有問題。",
-          "use": "如果句子只需要 mistake 的普通意思，就保留那個較簡單的字。"
+          "meaning": "錯誤",
+          "use": "任何錯都可用。"
+        },
+        {
+          "word": "Error",
+          "meaning": "錯誤",
+          "use": "更通用，可技術可行為。"
+        },
+        {
+          "word": "Falsehood",
+          "meaning": "不真實的說法",
+          "use": "重真假，不一定重推理結構。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>fallacy</code> 常把一段觀察收斂成可討論的判斷。把 correlation 當 causation 是常見 fallacy，尤其在 debug 時很誘人。",
-      "像 <code>logical fallacy</code>、<code>common fallacy</code>、<code>fallacy of</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Fallacy</code> 是思考訓練裡的好字。它讓你不是只問結論對不對，也問走到結論的路有沒有裂。",
+      "在工程裡，很多事故報告的壞 root cause 都藏著 fallacy：單點事件被誤讀成完整原因。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 fallacy 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 fallacy 整理成「謬誤、錯誤推理或迷思」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/fallacy",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>fallacia</code>，有欺騙、誤導的意思。",
-      "memoryLens": "記憶時先抓「謬誤、錯誤推理或迷思」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "欺騙、誤導的字源提醒你：fallacy 常讓人覺得合理，所以更危險。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "mistake",
       "logic",
       "causation",
-      "noun",
       "noun"
     ]
   },

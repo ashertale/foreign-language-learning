@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>enforce</code> 關心的是「強制執行、落實規則或限制」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>enforce</code> 讓規則不只存在於文件裡，而是真的擋得住違規行為。",
     "definition": {
-      "summary": "表示強制執行、落實規則或限制。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示執行、強制實施或使規則、法律、限制生效。",
       "contrast": {
         "word": "State",
         "note": "<code>state</code> 是宣告；<code>enforce</code> 是讓違反規則的人或系統過不去。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>enforce</code> 可以先記成一個畫面：規則存在，接著檢查違規，最後讓規則生效。",
-      "explanation": "這個畫面只用來幫你抓住「強制執行、落實規則或限制」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>enforce</code> 想成 compiler 不讓 type error 混進 build。",
+      "explanation": "規則如果沒被執行，就只是建議。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "compiler enforce type rules，讓錯誤在 build time 被擋下。"
+        "label": "編譯器",
+        "body": "compiler <code>enforce</code> type rules，讓錯誤在 build time 被擋下。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>enforce</code> 和 <code>enforce policy</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "政策",
+        "body": "A"
+      },
+      {
+        "label": "限制",
+        "body": "To enforce constraints, the system must reject invalid states, not merely warn about them."
       }
     ],
     "collocations": {
-      "note": "<code>enforce</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「強制執行、落實規則或限制」落地。",
+      "note": "enforce 常接 policy、constraints、strictly。搭配都在問規則背後有沒有真正的力。",
       "items": [
         {
           "phrase": "enforce policy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「強制執行、落實規則或限制」有明確對象。"
+          "register": "組織 / 系統",
+          "note": "讓政策被實際遵守，而不是只寫在文件裡。"
         },
         {
           "phrase": "enforce constraints",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 設計",
+          "note": "用系統機制擋住不合法狀態。"
         },
         {
           "phrase": "strictly enforce",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "法律 / 管理",
+          "note": "嚴格執行，少留例外空間。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "強制執行、落實規則或限制",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在規則必須真的被執行、違反時會被擋下或處理時。"
       },
       "others": [
         {
           "word": "State",
-          "meaning": "<code>state</code> 是宣告；<code>enforce</code> 是讓違反規則的人或系統過不去。",
-          "use": "如果句子只需要 state 的普通意思，就保留那個較簡單的字。"
+          "meaning": "陳述、聲明",
+          "use": "只把規則說出來。"
+        },
+        {
+          "word": "Apply",
+          "meaning": "套用",
+          "use": "範圍較廣；enforce 更重強制生效。"
+        },
+        {
+          "word": "Implement",
+          "meaning": "實作、落實",
+          "use": "做出機制；enforce 是讓規則有約束力。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>enforce</code> 常把一段觀察收斂成可討論的判斷。compiler enforce type rules，讓錯誤在 build time 被擋下。",
-      "像 <code>enforce policy</code>、<code>enforce constraints</code>、<code>strictly enforce</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Enforce</code> 是工程品質的關鍵字。Style guide 不 enforce，久了就是願望清單；type system enforce，錯誤才過不了門。",
+      "它也提醒管理者：規則越多，如果缺少 enforcement，信任反而會下降。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 enforce 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enforce 整理成「強制執行、落實規則或限制」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enforce",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 force 的力量概念延伸；重點是規則背後真的有力。",
-      "memoryLens": "記憶時先抓「強制執行、落實規則或限制」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "force 在字裡留下力量感；enforce 是把那股力量放到規則後面，讓它真的被執行。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "policy",
       "constraint",
       "rule",
-      "verb",
       "verb"
     ]
   },

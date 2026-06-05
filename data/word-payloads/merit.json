@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.96"
     },
-    "coreIdea": "<code>merit</code> 把「價值、優點或值得之處」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>merit</code> 看的是事物本身有沒有值得肯定的理由，而不是它受不受歡迎。",
     "definition": {
-      "summary": "指價值、優點或值得之處。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指優點、價值、值得之處；也可作動詞表示值得某種處理或評價。",
       "contrast": {
         "word": "Popularity",
         "note": "<code>popularity</code> 是受歡迎；<code>merit</code> 看的是內在理由站不站得住。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>merit</code> 可以先記成一個畫面：主張被提出，接著檢查本身價值，最後判斷是否值得。",
-      "explanation": "這個畫面只用來幫你抓住「價值、優點或值得之處」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>merit</code> 想成 proposal 即使這次不採用，技術理由仍值得保存。",
+      "explanation": "它的價值不靠投票熱度成立。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "一個 proposal 有 technical merit，即使現在不採用，也值得保存。"
+        "label": "提案",
+        "body": "一個 proposal 有 technical <code>merit</code>，即使現在不採用，也值得保存。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>merit</code> 和 <code>on merit</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "評估",
+        "body": "Judge the design on merit before asking who proposed it."
+      },
+      {
+        "label": "考慮",
+        "body": "This issue merits consideration if it can affect user trust."
       }
     ],
     "collocations": {
-      "note": "<code>merit</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「價值、優點或值得之處」落地。",
+      "note": "merit 常接 on merit、technical、consideration。搭配都在把注意力拉回本身理由。",
       "items": [
         {
           "phrase": "on merit",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「價值、優點或值得之處」有明確對象。"
+          "register": "正式 / 評估",
+          "note": "根據本身優劣，而非身份或關係。"
         },
         {
           "phrase": "technical merit",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 評審",
+          "note": "技術上的價值或可取之處。"
         },
         {
           "phrase": "merit consideration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 決策",
+          "note": "值得被考慮。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "價值、優點或值得之處",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在要判斷某事本身是否有值得肯定或處理的理由時。"
       },
       "others": [
         {
           "word": "Popularity",
-          "meaning": "<code>popularity</code> 是受歡迎；<code>merit</code> 看的是內在理由站不站得住。",
-          "use": "如果句子只需要 popularity 的普通意思，就保留那個較簡單的字。"
+          "meaning": "受歡迎",
+          "use": "外部反應，不等於本身價值。"
+        },
+        {
+          "word": "Value",
+          "meaning": "價值",
+          "use": "更廣。"
+        },
+        {
+          "word": "Virtue",
+          "meaning": "德性、優點",
+          "use": "較道德或哲學。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>merit</code> 常把一段觀察收斂成可討論的判斷。一個 proposal 有 technical merit，即使現在不採用，也值得保存。",
-      "像 <code>on merit</code>、<code>technical merit</code>、<code>merit consideration</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Merit</code> 是公平評估的好字。on merit 表示先看事情本身，不先看提出者資歷、政治位置或聲量。",
+      "工程討論裡，technical merit 可以和 timing 分開：現在不做，不代表它沒有價值。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 merit 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 merit 整理成「價值、優點或值得之處」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/merit",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>meritum</code>，和應得、值得相關。",
-      "memoryLens": "記憶時先抓「價值、優點或值得之處」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源裡有「值得、應得」的判斷；merit 看的是一件事本身站不站得住。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "worth",
       "proposal",
       "technical",
-      "noun",
       "noun"
     ]
   },

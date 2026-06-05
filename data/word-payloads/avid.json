@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.89"
     },
-    "coreIdea": "<code>avid</code> 用來說某個人、系統或局面帶著「熱衷渴求」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>avid</code> 的熱不是禮貌性興趣，而是人會主動追、一直看、很快抓住下一個機會。",
     "definition": {
-      "summary": "表示熱衷、渴求、非常感興趣。重點不是程度加強，而是整個對象都帶著「熱衷渴求」這種質地。",
+      "summary": "形容人對某活動、主題或取得某物有強烈而持續的熱衷。",
       "contrast": {
         "word": "Interested",
-        "note": "<code>Interested</code> 可以只是在說「有興趣」；換成 <code>avid</code>，句子通常是在補上「熱衷渴求」這層更具體的意思。"
+        "note": "<code>interested</code> 可以是輕輕打開門；<code>avid</code> 是人已經走進去，還想待久一點。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「熱衷渴求」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "對象引起強烈吸引",
+        "人主動反覆靠近",
+        "興趣變成穩定行為"
       ]
     },
     "memory": {
-      "hook": "<code>avid</code> 的畫面是：像看到新書上架就立刻伸手，不是順便看，而是早就在等。",
-      "explanation": "這個畫面有用，因為它把 avid 從翻譯拉回場面：你先看到「主動追著跑」，再比較容易記住它其實在說「熱衷渴求」。"
+      "hook": "把 <code>avid reader</code> 想成書不是任務，而是他會自己找空檔回去的地方。",
+      "explanation": "avid 的能量會讓人主動靠近。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>avid reader</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「有興趣」，而是整個對象都帶著「熱衷渴求」這種質地。"
+        "label": "閱讀",
+        "body": "An <code>avid</code> reader does not need a reading assignment to keep going."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 娛樂 / 社群 裡，<code>avid fan</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "粉絲",
+        "body": "Avid fans notice small changes because they have been watching for a long time."
       },
       {
-        "label": "延伸版",
-        "body": "到了 研究 / 興趣 的場景，<code>avid curiosity</code> 很適合用來練邊界：你要講的到底是一般的「有興趣」，還是更具體的「熱衷渴求」。"
+        "label": "好奇心",
+        "body": "Avid"
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "avid 常接 reader、fan、collector、interest、curiosity；名詞後面通常是一個人會持續投入的場域。",
       "items": [
         {
           "phrase": "avid reader",
-          "register": "閱讀 / 學習",
-          "note": "這個搭配會讓「熱衷渴求」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "日常 / 教育",
+          "note": "大量且主動閱讀的人。"
         },
         {
           "phrase": "avid fan",
-          "register": "娛樂 / 社群",
-          "note": "在 娛樂 / 社群 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "媒體 / 社群",
+          "note": "持續關注、投入度高的粉絲。"
         },
         {
           "phrase": "avid curiosity",
-          "register": "研究 / 興趣",
-          "note": "如果你想把這個字用穩，從 研究 / 興趣 常見的這個搭配進場通常最自然。"
+          "register": "寫作 / 學習",
+          "note": "不是一時好奇，而是很想繼續追問。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "熱衷渴求",
-        "use": "當你要強調整體帶著「會主動追著資訊、活動或機會跑」這種質地，而不只是 有興趣 時"
+        "use": "用在興趣強到會改變人的行為頻率，而不是只停在口頭喜歡時。"
       },
       "others": [
         {
           "word": "Interested",
-          "meaning": "有興趣",
-          "use": "當句子只需要 有興趣 這個中性描述，不必把「會主動追著資訊、活動或機會跑」這種氣質壓到前景時"
+          "meaning": "感興趣",
+          "use": "程度較低，可能只是願意聽；<code>avid</code> 已經會主動靠近。"
+        },
+        {
+          "word": "Eager",
+          "meaning": "急切",
+          "use": "偏當下想做；<code>avid</code> 可描述長期興趣。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>avid</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「熱衷渴求」這種質地。",
-      "也因此，它和 <code>Interested</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Avid</code> 在履歷或介紹裡可用，但不要把所有 hobby 都寫成 avid；它暗示投入很深。",
+      "它也可有貪求感，例如 avid for power，語氣會變得不只是正面熱情。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 avid 整理成「熱衷渴求」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/avid",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 avid 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/avid",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "interested",
       "learning",
       "interest",
-      "adjective",
-      "avid"
+      "avid",
+      "adjective"
     ]
   },
   "sourceAudit": [

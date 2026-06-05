@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.45"
     },
-    "coreIdea": "<code>hubris</code> 不只是替好壞下評語；它是在替「傲慢失明」這種分量找一個正式的名字。",
+    "coreIdea": "<code>hubris</code> 是傲慢到忘記限制，故事裡常在它後面接著跌落。",
     "definition": {
-      "summary": "表示傲慢、自大到近乎招禍。用到它時，句子通常已經不只是感受描述，而是在點出某個可被談論的對象。",
+      "summary": "指過度自信、傲慢自大，尤其是無視限制而招致失敗的傲慢。",
       "contrast": {
         "word": "Arrogance",
-        "note": "<code>Arrogance</code> 比較像基礎說法；<code>hubris</code> 常用來把那層更具體的「傲慢失明」拉到前景。"
+        "note": "<code>arrogance</code> 是傲慢；<code>hubris</code> 是傲慢高到會摔下來。"
       },
       "flow": [
-        "先有一個場面裡明顯存在的分量",
-        "接著用這個名詞把「傲慢失明」收進語言裡",
-        "結果你讀到的，就不只是評語，而是一個被正式點出的東西"
+        "成功或權力累積",
+        "人忘記限制與他人",
+        "傲慢開始製造失敗"
       ]
     },
     "memory": {
-      "hook": "<code>hubris</code> 的畫面是：像飛得太高的人誤把雲層當地面，以為再往上也不會有事。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「高到開始看不見自己的限度」看成一個會發生的場面。"
+      "hook": "把 <code>corporate hubris</code> 想成公司以為市場會永遠照它的規則走，直到使用者離開。",
+      "explanation": "hubris 的傲慢會招禍。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其只背名詞對應的中文，不如先記 <code>hubris of power</code> 這個搭配：它會直接示範這個字通常怎麼被點出。"
+        "label": "權力",
+        "body": "The <code>hubris</code> of power appears when leaders stop hearing constraints."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 商業 / 評價 的語境裡，<code>corporate hubris</code> 常用來把場面裡的「傲慢失明」收成一句能被接住的話。"
+        "label": "企業",
+        "body": "Corporate hubris made the company dismiss the small competitor as a toy."
       },
       {
-        "label": "延伸版",
-        "body": "到了 文學 / 敘事，<code>tragic hubris</code> 會幫你看見：這個字不是修辭，而是把某種分量正式命名。"
+        "label": "悲劇",
+        "body": "Tragic"
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比單背中文更有用，因為你會知道這個名詞通常在哪裡真正站得住。",
+      "note": "hubris 常接 power、corporate、tragic；搭配都暗示過度自信會反噬。",
       "items": [
         {
           "phrase": "hubris of power",
-          "register": "政治 / 評論",
-          "note": "放到 政治 / 評論 的場景裡，這個搭配會把「傲慢失明」具體點出來。"
+          "register": "政治 / 歷史",
+          "note": "權力帶來的傲慢。"
         },
         {
           "phrase": "corporate hubris",
-          "register": "商業 / 評價",
-          "note": "在 商業 / 評價 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "商務 / 評論",
+          "note": "企業自大。"
         },
         {
           "phrase": "tragic hubris",
-          "register": "文學 / 敘事",
-          "note": "到了 文學 / 敘事 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "文學 / 戲劇",
+          "note": "悲劇性的傲慢缺陷。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "傲慢失明",
-        "use": "當你要把「高到開始看不見自己的限度」當成一個可被點出的東西來說，而不只是 傲慢 時"
+        "use": "用在傲慢已經遮住限制，並可能導向懲罰性後果時。"
       },
       "others": [
         {
           "word": "Arrogance",
           "meaning": "傲慢",
-          "use": "當句子只需要 傲慢 這個比較平的說法，不必把那份「高到開始看不見自己的限度」正式點名時"
+          "use": "通用；<code>hubris</code> 更像導致失敗的傲慢。"
+        },
+        {
+          "word": "Pride",
+          "meaning": "驕傲",
+          "use": "可正面；<code>hubris</code> 幾乎總是過度。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>hubris</code>，可以先看它出現在哪些固定搭配裡。像 <code>hubris of power</code>、<code>corporate hubris</code> 都在示範：這個名詞最擅長把某種分量明確命名。",
-      "它和 <code>Arrogance</code> 的差別，不只在字面，而在句子是否要把那份「高到開始看不見自己的限度」當成一個可以被接住的東西來說。"
+      "<code>Hubris</code> 在商業失敗、政治崩盤、悲劇人物分析裡非常好用。",
+      "它比 arrogance 更有敘事感：你幾乎能看見跌落正在路上。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 hubris 整理成「傲慢失明」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/hubris",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 hubris 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/hubris",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "arrogance",
       "power",
       "tragedy",
-      "noun",
-      "hubris"
+      "hubris",
+      "noun"
     ]
   },
   "sourceAudit": [

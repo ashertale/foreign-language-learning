@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.44"
     },
-    "coreIdea": "<code>inscrutable</code> 真正抓住的，不是程度高低，而是整體怎麼被「你怎麼看都看不穿」這個感覺支配。",
+    "coreIdea": "<code>inscrutable</code> 是看不穿；表情、沉默或行為在你面前，意思卻不打開。",
     "definition": {
-      "summary": "表示難以理解、難以解讀的。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容難以理解、難以解讀、看不透。",
       "contrast": {
         "word": "Mysterious",
-        "note": "如果語境只需要比較平的「神秘」，用 <code>Mysterious</code> 往往就夠了；<code>inscrutable</code> 則會把「你怎麼看都看不穿」講得更明確。"
+        "note": "<code>mysterious</code> 可以迷人；<code>inscrutable</code> 讓人卡在解讀失敗。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「你怎麼看都看不穿」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "表情或行為可被觀察",
+        "線索不足以解碼",
+        "意圖與原因保持封閉"
       ]
     },
     "memory": {
-      "hook": "<code>inscrutable</code> 的畫面是：像一扇沒有把手也沒有窗的門，站在外面只能猜裡面是什麼。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 inscrutable 時，能先抓到「看不穿」這個核心，再回頭讀細節。"
+      "hook": "把 <code>inscrutable silence</code> 想成對方不說話，但你完全判斷不出是同意、反對，還是在等。",
+      "explanation": "inscrutable 的焦點是 unreadability。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>inscrutable expression</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「看不穿」這層氣質壓到前景。"
+        "label": "表情",
+        "body": "His <code>inscrutable</code> expression made the room work harder than the answer did."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>inscrutable silence</code> 放進 人際 / 情緒 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "沉默",
+        "body": "Inscrutable silence can be more destabilizing than open disagreement."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 分析 / 觀察 的情境，從 <code>inscrutable behavior</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "行為",
+        "body": "The"
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "inscrutable 常修飾 expression、silence、behavior；搭配都和無法讀出意圖有關。",
       "items": [
         {
           "phrase": "inscrutable expression",
-          "register": "人物 / 描寫",
-          "note": "這個搭配會讓「看不穿」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "敘事 / 人際",
+          "note": "看不透的表情。"
         },
         {
           "phrase": "inscrutable silence",
-          "register": "人際 / 情緒",
-          "note": "在 人際 / 情緒 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "人際 / 文學",
+          "note": "難以解讀的沉默。"
         },
         {
           "phrase": "inscrutable behavior",
-          "register": "分析 / 觀察",
-          "note": "如果你想把這個字用穩，從 分析 / 觀察 常見的這個搭配進場通常最自然。"
+          "register": "UX / 評論",
+          "note": "難以理解的行為。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "看不穿",
-        "use": "當你要強調整體帶著「你怎麼看都看不穿」這種質地，而不只是 神秘 時"
+        "use": "用在資訊就在眼前，但意圖、原因或意義仍無法讀出來時。"
       },
       "others": [
         {
           "word": "Mysterious",
           "meaning": "神秘",
-          "use": "當句子只需要 神秘 這個中性描述，不必把「你怎麼看都看不穿」這種氣質壓到前景時"
+          "use": "可有吸引力；<code>inscrutable</code> 更重無法解讀。"
+        },
+        {
+          "word": "Opaque",
+          "meaning": "不透明",
+          "use": "常指資訊或系統；<code>inscrutable</code> 更可指人與表情。"
         }
       ]
     },
     "modernUse": [
-      "<code>inscrutable</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>inscrutable expression</code>、<code>inscrutable silence</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「神秘」，<code>Mysterious</code> 也許夠用；但當你需要的是更具體的「你怎麼看都看不穿」，<code>inscrutable</code> 會更準。"
+      "<code>Inscrutable</code> 對 UX 也很有用：system behavior can be inscrutable。",
+      "它比 mysterious 少一點浪漫，多一點讀不懂的挫折。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 inscrutable 整理成「看不穿」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/inscrutable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 inscrutable 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/inscrutable",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "mysterious",
       "expression",
       "behavior",
-      "adjective",
-      "inscrutable"
+      "inscrutable",
+      "adjective"
     ]
   },
   "sourceAudit": [

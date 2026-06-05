@@ -63,7 +63,7 @@
       <section class="chapter" id="core">
         <div class="core-card">
           <p class="section-label">Core Idea</p>
-          <p><code>enhance</code> 關心的是「提升、增強或改善品質」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。</p>
+          <p><code>enhance</code> 是在已有基礎上把效果、品質或可用性往上推。它不是從零創造，而是讓原本的東西更好用、更強或更清楚。</p>
         </div>
       </section>
 
@@ -73,7 +73,7 @@
         <div class="definition-grid">
           <div class="tile">
             <strong>Enhance</strong>
-            <p>表示提升、增強或改善品質。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。</p>
+            <p>表示提升、增強、改善或加強既有事物的性能、品質、安全性、可讀性或體驗。</p>
           </div>
           <div class="tile">
             <strong>不是 Create</strong>
@@ -93,14 +93,14 @@
         <p class="section-label">Origin</p>
         <h2>字源</h2>
         <p>詞史有抬高、增加價值的方向；現代常用在品質改善。</p>
-        <p>記憶時先抓「提升、增強或改善品質」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。</p>
+        <p>抬高、增加價值的方向可記；現代用法要落在具體品質上。</p>
       </section>
 
       <section class="chapter" id="memory">
         <p class="section-label">Memory Hook</p>
         <h2>記憶鉤子</h2>
-        <p class="quote-line"><code>enhance</code> 可以先記成一個畫面：基礎已存在，接著加入改善，最後效果被放大。</p>
-        <p>這個畫面只用來幫你抓住「提升、增強或改善品質」；真正使用時，要回到句子裡看它標出的邊界。</p>
+        <p class="quote-line">把 <code>enhance</code> 想成加上 meaningful logs 讓同一個功能更容易 debug。</p>
+        <p>核心功能還是原本那個，但可理解性變好了。</p>
       </section>
 
       <section class="chapter" id="usage">
@@ -108,12 +108,16 @@
         <h2>生活與專業情境</h2>
         <div class="example-grid">
           <div class="example">
-            <strong>實務判斷</strong>
-            <p>加上 meaningful logs can enhance debuggability，不代表核心功能變了。</p>
+            <strong>Debuggability</strong>
+            <p>加上 meaningful logs can <code>enhance</code> debuggability，不代表核心功能變了。</p>
           </div>
           <div class="example">
-            <strong>寫作語氣</strong>
-            <p>寫作時可以讓 <code>enhance</code> 和 <code>enhance performance</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。</p>
+            <strong>安全</strong>
+            <p>Enhance security usually means strengthening an existing surface, not magically making it safe.</p>
+          </div>
+          <div class="example">
+            <strong>可讀性</strong>
+            <p>Small naming changes can enhance readability more than a clever abstraction.</p>
           </div>
         </div>
       </section>
@@ -121,28 +125,28 @@
       <section class="chapter" id="collocations">
         <p class="section-label">Collocations</p>
         <h2>常見搭配與語域</h2>
-        <p class="overlap-note"><code>enhance</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「提升、增強或改善品質」落地。</p>
+        <p class="overlap-note">enhance 常接 performance、security、readability。搭配通常表示既有東西被加強，而不是換成另一個東西。</p>
         <div class="collocation-list" aria-label="enhance collocations">
           <article class="collocation-card">
             <div>
               <strong>enhance performance</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">工程 / 產品</span>
             </div>
-            <p>適合放在正式文件或分析裡，讓「提升、增強或改善品質」有明確對象。</p>
+            <p>提高性能，可能是速度、吞吐或反應時間。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>enhance security</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">資安 / 系統</span>
             </div>
-            <p>語氣比一般說法更收斂，通常用來標出問題的範圍或程度。</p>
+            <p>加強安全性，但仍需說明威脅模型。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>enhance readability</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">程式碼 / 文件</span>
             </div>
-            <p>可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。</p>
+            <p>讓人更容易讀懂和維護。</p>
           </article>
         </div>
       </section>
@@ -163,12 +167,22 @@
               <tr>
                 <td>Enhance</td>
                 <td>提升、增強或改善品質</td>
-                <td>當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。</td>
+                <td>用在已有基礎存在，而你要讓它的效果或品質變強時。</td>
               </tr>
               <tr>
                 <td>Create</td>
-                <td><code>create</code> 是創造；<code>enhance</code> 是把已有的東西變得更強或更清楚。</td>
-                <td>如果句子只需要 create 的普通意思，就保留那個較簡單的字。</td>
+                <td>創造</td>
+                <td>從無到有。</td>
+              </tr>
+              <tr>
+                <td>Improve</td>
+                <td>改善</td>
+                <td>最通用；enhance 稍正式，常指加強效果或品質。</td>
+              </tr>
+              <tr>
+                <td>Optimize</td>
+                <td>最佳化</td>
+                <td>針對某目標調整到更佳狀態。</td>
               </tr>
             </tbody>
           </table>
@@ -178,8 +192,8 @@
       <section class="chapter" id="modern">
         <p class="section-label">Modern Use</p>
         <h2>現代延伸</h2>
-        <p>在工作英文裡，<code>enhance</code> 常把一段觀察收斂成可討論的判斷。加上 meaningful logs can enhance debuggability，不代表核心功能變了。</p>
-        <p>像 <code>enhance performance</code>、<code>enhance security</code>、<code>enhance readability</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。</p>
+        <p><code>Enhance</code> 在產品和技術文件裡很常見，但容易空。最好接可觀察面向：enhance logging、security、readability、performance。</p>
+        <p>如果沒有明確改善對象，enhance 會變成華麗版 improve。</p>
       </section>
 
       <section class="chapter" id="sources">
@@ -188,7 +202,7 @@
         <div class="source-grid">
           <article class="source-card">
             <strong>詞典來源</strong>
-            <p>定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 enhance 的概念邊界與常見語境。</p>
+            <p>定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enhance 整理成「提升、增強或改善品質」的學習概念。</p>
             <a href="https://dictionary.cambridge.org/dictionary/english/enhance" target="_blank" rel="noreferrer">Cambridge Dictionary</a>
           </article>
           <article class="source-card">

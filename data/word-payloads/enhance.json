@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>enhance</code> 關心的是「提升、增強或改善品質」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>enhance</code> 是在已有基礎上把效果、品質或可用性往上推。它不是從零創造，而是讓原本的東西更好用、更強或更清楚。",
     "definition": {
-      "summary": "表示提升、增強或改善品質。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示提升、增強、改善或加強既有事物的性能、品質、安全性、可讀性或體驗。",
       "contrast": {
         "word": "Create",
         "note": "<code>create</code> 是創造；<code>enhance</code> 是把已有的東西變得更強或更清楚。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>enhance</code> 可以先記成一個畫面：基礎已存在，接著加入改善，最後效果被放大。",
-      "explanation": "這個畫面只用來幫你抓住「提升、增強或改善品質」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>enhance</code> 想成加上 meaningful logs 讓同一個功能更容易 debug。",
+      "explanation": "核心功能還是原本那個，但可理解性變好了。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "加上 meaningful logs can enhance debuggability，不代表核心功能變了。"
+        "label": "Debuggability",
+        "body": "加上 meaningful logs can <code>enhance</code> debuggability，不代表核心功能變了。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>enhance</code> 和 <code>enhance performance</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "安全",
+        "body": "Enhance security usually means strengthening an existing surface, not magically making it safe."
+      },
+      {
+        "label": "可讀性",
+        "body": "Small naming changes can enhance readability more than a clever abstraction."
       }
     ],
     "collocations": {
-      "note": "<code>enhance</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「提升、增強或改善品質」落地。",
+      "note": "enhance 常接 performance、security、readability。搭配通常表示既有東西被加強，而不是換成另一個東西。",
       "items": [
         {
           "phrase": "enhance performance",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「提升、增強或改善品質」有明確對象。"
+          "register": "工程 / 產品",
+          "note": "提高性能，可能是速度、吞吐或反應時間。"
         },
         {
           "phrase": "enhance security",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "資安 / 系統",
+          "note": "加強安全性，但仍需說明威脅模型。"
         },
         {
           "phrase": "enhance readability",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "程式碼 / 文件",
+          "note": "讓人更容易讀懂和維護。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "提升、增強或改善品質",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在已有基礎存在，而你要讓它的效果或品質變強時。"
       },
       "others": [
         {
           "word": "Create",
-          "meaning": "<code>create</code> 是創造；<code>enhance</code> 是把已有的東西變得更強或更清楚。",
-          "use": "如果句子只需要 create 的普通意思，就保留那個較簡單的字。"
+          "meaning": "創造",
+          "use": "從無到有。"
+        },
+        {
+          "word": "Improve",
+          "meaning": "改善",
+          "use": "最通用；enhance 稍正式，常指加強效果或品質。"
+        },
+        {
+          "word": "Optimize",
+          "meaning": "最佳化",
+          "use": "針對某目標調整到更佳狀態。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>enhance</code> 常把一段觀察收斂成可討論的判斷。加上 meaningful logs can enhance debuggability，不代表核心功能變了。",
-      "像 <code>enhance performance</code>、<code>enhance security</code>、<code>enhance readability</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Enhance</code> 在產品和技術文件裡很常見，但容易空。最好接可觀察面向：enhance logging、security、readability、performance。",
+      "如果沒有明確改善對象，enhance 會變成華麗版 improve。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 enhance 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enhance 整理成「提升、增強或改善品質」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enhance",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "詞史有抬高、增加價值的方向；現代常用在品質改善。",
-      "memoryLens": "記憶時先抓「提升、增強或改善品質」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "抬高、增加價值的方向可記；現代用法要落在具體品質上。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "performance",
       "security",
       "quality",
-      "verb",
       "verb"
     ]
   },

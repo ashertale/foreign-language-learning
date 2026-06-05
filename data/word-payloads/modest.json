@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>modest</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「謙遜的、適中的、不誇張」。",
+    "coreIdea": "<code>modest</code> 不是沒價值，而是不誇張、幅度適中，或對自己不過度膨脹。",
     "definition": {
-      "summary": "形容謙遜的、適中的、不誇張的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容程度、成果、預算、主張或人謙遜、適度、不誇大。",
       "contrast": {
         "word": "Small",
         "note": "<code>small</code> 是小；<code>modest</code> 常是刻意不誇大或幅度適中。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>modest</code> 可以先記成一個畫面：有成果或需求，接著控制表達幅度，最後避免過度膨脹。",
-      "explanation": "這個畫面只用來幫你抓住「謙遜的、適中的、不誇張」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>modest</code> improvement 想成只快一點，但每次操作都會受益。",
+      "explanation": "小幅度不等於不重要。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "modest improvement 仍可能重要，尤其當它降低的是長期操作成本。"
+        "label": "改善",
+        "body": "<code>Modest</code> improvement 仍可能重要，尤其當它降低的是長期操作成本。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>modest</code> 和 <code>modest improvement</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "預算",
+        "body": "A"
+      },
+      {
+        "label": "主張",
+        "body": "A modest claim is easier to trust because it does not overreach."
       }
     ],
     "collocations": {
-      "note": "<code>modest</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「謙遜的、適中的、不誇張」落地。",
+      "note": "modest 常接 improvement、budget、claim。搭配會在幅度、資源和語氣之間切換。",
       "items": [
         {
           "phrase": "modest improvement",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「謙遜的、適中的、不誇張」有明確對象。"
+          "register": "工程 / 評估",
+          "note": "小幅改善，但可能仍有價值。"
         },
         {
           "phrase": "modest budget",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "財務 / 專案",
+          "note": "預算不大或較克制。"
         },
         {
           "phrase": "modest claim",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "研究 / 寫作",
+          "note": "主張不誇大，保留邊界。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "謙遜的、適中的、不誇張的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在幅度或表達保持適度、不過度誇大時。"
       },
       "others": [
         {
           "word": "Small",
-          "meaning": "<code>small</code> 是小；<code>modest</code> 常是刻意不誇大或幅度適中。",
-          "use": "如果句子只需要 small 的普通意思，就保留那個較簡單的字。"
+          "meaning": "小",
+          "use": "只看大小。"
+        },
+        {
+          "word": "Humble",
+          "meaning": "謙遜",
+          "use": "更重承認限制。"
+        },
+        {
+          "word": "Moderate",
+          "meaning": "中等、適度",
+          "use": "重程度不極端。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>modest</code> 常把一段觀察收斂成可討論的判斷。modest improvement 仍可能重要，尤其當它降低的是長期操作成本。",
-      "像 <code>modest improvement</code>、<code>modest budget</code>、<code>modest claim</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Modest</code> 是個有分寸的字。modest gain 不會假裝世界改變，但也不把小改善歸零。",
+      "寫報告時，modest claim 反而能增加可信度，因為它承認證據邊界。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 modest 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 modest 整理成「謙遜的、適中的、不誇張的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/modest",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>modus</code>「尺度、方式」；核心是適度。",
-      "memoryLens": "記憶時先抓「謙遜的、適中的、不誇張的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>modus</code> 的尺度感很好記；modest 就是守住尺度。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "small",
       "claim",
       "improvement",
-      "adjective",
       "adjective"
     ]
   },

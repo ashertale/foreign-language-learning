@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.84"
     },
-    "coreIdea": "<code>elapse</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「時間流逝」這條線走。",
+    "coreIdea": "<code>elapse</code> 讓時間自己走過去；人沒有做動作，時間在背景裡流完一段。",
     "definition": {
-      "summary": "表示一段時間過去、流逝。它要補上的，通常不是動作本身，而是那層更具體的「時間自己默默走過去」。",
+      "summary": "表示一段時間流逝、過去。",
       "contrast": {
         "word": "Pass",
-        "note": "如果語境只需要比較平的「過去」，用 <code>Pass</code> 往往就夠了；<code>elapse</code> 則會把「時間自己默默走過去」講得更明確。"
+        "note": "<code>pass</code> 日常又廣；<code>elapse</code> 像紀錄器冷靜標出時間經過。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「時間自己默默走過去」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "一段時間開始計算",
+        "期間沒有被事件打斷成焦點",
+        "時間段完成流逝"
       ]
     },
     "memory": {
-      "hook": "<code>elapse</code> 的畫面是：像沙漏不是誰在推它，卻還是一粒一粒穩穩往下掉。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 elapse 時，能先抓到「時間流逝」這個核心，再回頭讀細節。"
+      "hook": "把 <code>hours elapsed</code> 想成 spinner 還在轉，而你只能看著時間從旁邊流掉。",
+      "explanation": "elapse 的主角是時間。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>hours elapsed</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「時間流逝」這個方向講清楚。"
+        "label": "小時",
+        "body": "Several hours <code>elapsed</code> before the first useful log arrived."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>time elapses quickly</code> 放進 生活 / 描寫 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "快速",
+        "body": "Time"
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 程序 / 文件 的情境，從 <code>before long elapsed</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "等待",
+        "body": "Before long elapsed, the team had already changed the plan twice."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "elapse 常讓時間名詞作主詞：hours、time、days。搭配通常不強調人做了什麼。",
       "items": [
         {
           "phrase": "hours elapsed",
-          "register": "日常 / 時間",
-          "note": "這個搭配常出現在需要把事情往「時間流逝」講清楚的句子裡。"
+          "register": "正式 / 敘事",
+          "note": "幾個小時過去。"
         },
         {
           "phrase": "time elapses quickly",
-          "register": "生活 / 描寫",
-          "note": "放到 生活 / 描寫 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "日常 / 反思",
+          "note": "時間過得快。"
         },
         {
           "phrase": "before long elapsed",
-          "register": "程序 / 文件",
-          "note": "在 程序 / 文件 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "敘事 / 書面",
+          "note": "不久之後。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "時間流逝",
-        "use": "當你要把事情說成「時間自己默默走過去」而不只是 過去 時"
+        "use": "用在你要讓時間段成為句子的主角，而不是人為動作時。"
       },
       "others": [
         {
           "word": "Pass",
           "meaning": "過去",
-          "use": "當句子只需要 過去 這個動作，不必補上「時間自己默默走過去」那層走向時"
+          "use": "最通用；<code>elapse</code> 較正式，特別指時間段流逝。"
+        },
+        {
+          "word": "Expire",
+          "meaning": "到期",
+          "use": "時間限制結束；<code>elapse</code> 只是時間經過。"
         }
       ]
     },
     "modernUse": [
-      "<code>elapse</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>hours elapsed</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Pass</code> 的差別，通常不在難度，而在句子要不要把那層「時間流逝」明白說出來。"
+      "<code>Elapsed time</code> 是技術語境裡非常常見的名詞片語。",
+      "它乾淨、客觀，適合 log、測試、流程紀錄。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 elapse 整理成「時間流逝」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/elapse",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 elapse 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/elapse",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "pass",
       "time",
       "process",
-      "verb",
-      "elapse"
+      "elapse",
+      "verb"
     ]
   },
   "sourceAudit": [

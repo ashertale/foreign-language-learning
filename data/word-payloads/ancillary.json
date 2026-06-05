@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.47"
     },
-    "coreIdea": "<code>ancillary</code> 用來說某個人、系統或局面帶著「附屬支援」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>ancillary</code> 不是主角，而是在旁邊支撐主任務，讓整體能運作得更完整。",
     "definition": {
-      "summary": "表示附屬但有支援功能，協助主要事物運作。重點不是程度加強，而是整個對象都帶著「附屬支援」這種質地。",
+      "summary": "形容附屬的、輔助的、支援性的服務、工具、文件或設備。",
       "contrast": {
         "word": "Secondary",
-        "note": "<code>Secondary</code> 可以只是在說「次要」；換成 <code>ancillary</code>，句子通常是在補上「附屬支援」這層更具體的意思。"
+        "note": "<code>secondary</code> 只是次要；<code>ancillary</code> 是在旁邊支撐主任務。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「附屬支援」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "主任務存在",
+        "旁支提供支援",
+        "整體更能運作"
       ]
     },
     "memory": {
-      "hook": "<code>ancillary</code> 的畫面是：像主舞台旁邊那圈燈光，不是表演本身，卻讓整場看得見。",
-      "explanation": "這個畫面有用，因為它把 ancillary 從翻譯拉回場面：你先看到「在旁邊補足」，再比較容易記住它其實在說「附屬支援」。"
+      "hook": "把 <code>ancillary</code> tools 想成不是產品核心功能，卻讓測試、部署和支援少很多摩擦。",
+      "explanation": "旁邊不代表不重要。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>ancillary services</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「次要」，而是整個對象都帶著「附屬支援」這種質地。"
+        "label": "服務",
+        "body": "<code>Ancillary</code> services often decide whether the main service is usable in real life."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 工程 / 工具 裡，<code>ancillary tools</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "工具",
+        "body": "Ancillary"
       },
       {
-        "label": "延伸版",
-        "body": "到了 文件 / 程序 的場景，<code>ancillary document</code> 很適合用來練邊界：你要講的到底是一般的「次要」，還是更具體的「附屬支援」。"
+        "label": "文件",
+        "body": "An ancillary document can carry migration notes that do not belong in the main spec."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "ancillary 常接 services、tools、document。搭配都在講支援主體的旁支。",
       "items": [
         {
           "phrase": "ancillary services",
-          "register": "營運 / 服務",
-          "note": "這個搭配會讓「附屬支援」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "商務 / 醫療 / 系統",
+          "note": "輔助服務。"
         },
         {
           "phrase": "ancillary tools",
-          "register": "工程 / 工具",
-          "note": "在 工程 / 工具 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "工程 / 工作流",
+          "note": "支援主要工作的工具。"
         },
         {
           "phrase": "ancillary document",
-          "register": "文件 / 程序",
-          "note": "如果你想把這個字用穩，從 文件 / 程序 常見的這個搭配進場通常最自然。"
+          "register": "文件 / 專案",
+          "note": "輔助文件，補充主文件。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "附屬支援",
-        "use": "當你要強調整體帶著「在旁邊補足、支撐主要任務」這種質地，而不只是 次要 時"
+        "use": "用在某物不是核心主體，但負責支援主體運作時。"
       },
       "others": [
         {
           "word": "Secondary",
           "meaning": "次要",
-          "use": "當句子只需要 次要 這個中性描述，不必把「在旁邊補足、支撐主要任務」這種氣質壓到前景時"
+          "use": "只說不是第一順位。"
+        },
+        {
+          "word": "Auxiliary",
+          "meaning": "輔助的",
+          "use": "和 ancillary 接近，技術語氣常見。"
+        },
+        {
+          "word": "Peripheral",
+          "meaning": "周邊的",
+          "use": "在邊緣，可能不核心。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>ancillary</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「附屬支援」這種質地。",
-      "也因此，它和 <code>Secondary</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Ancillary</code> 對工程專案很實在。主功能能不能長期使用，常取決於 ancillary tooling、docs、support。",
+      "不要把 ancillary 自動讀成可有可無；有些支援件一拿掉，核心就會變難用。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ancillary 整理成「附屬支援」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/ancillary",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 ancillary 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/ancillary",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "secondary",
       "services",
       "tools",
-      "adjective",
-      "ancillary"
+      "ancillary",
+      "adjective"
     ]
   },
   "sourceAudit": [

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.72"
     },
-    "coreIdea": "<code>insight</code> 把「洞察、深入理解」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>insight</code> 不是更多資訊，而是你突然看見資訊背後的結構，判斷因此變清楚。",
     "definition": {
-      "summary": "指洞察、深入理解。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指洞察、深刻理解或看穿問題本質的能力 / 結果。",
       "contrast": {
         "word": "Information",
         "note": "<code>information</code> 是資料；<code>insight</code> 是資料被理解後露出的模式。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>insight</code> 可以先記成一個畫面：資料堆在眼前，接著看見關係，最後判斷變清楚。",
-      "explanation": "這個畫面只用來幫你抓住「洞察、深入理解」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>insight</code> 想成一張圖讓你第一次看見 latency spikes 其實跟 thermal throttling 同步。",
+      "explanation": "資料原本就在那裡，但關係現在才亮起來。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "一張圖如果帶來 insight，代表它不只顯示資料，還讓原因變得可見。"
+        "label": "資料",
+        "body": "一張圖如果帶來 <code>insight</code>，代表它不只顯示資料，還讓原因變得可見。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>insight</code> 和 <code>gain insight</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "學習",
+        "body": "Valuable insight often feels simple after it has been found."
+      },
+      {
+        "label": "介系詞",
+        "body": "<code>Insight into</code> 後面接你看進去的問題或系統。"
       }
     ],
     "collocations": {
-      "note": "<code>insight</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「洞察、深入理解」落地。",
+      "note": "insight 常接 gain、valuable、into。搭配會說明洞察是被獲得、被評價，還是指向某問題內部。",
       "items": [
         {
           "phrase": "gain insight",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「洞察、深入理解」有明確對象。"
+          "register": "學習 / 分析",
+          "note": "獲得洞察，理解變深。"
         },
         {
           "phrase": "valuable insight",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "商務 / 研究",
+          "note": "有價值的洞察，能改變判斷或行動。"
         },
         {
           "phrase": "insight into",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 分析",
+          "note": "看進某主題、問題或系統內部。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "洞察、深入理解",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在資料或經驗被理解後，讓背後模式變得可見時。"
       },
       "others": [
         {
           "word": "Information",
-          "meaning": "<code>information</code> 是資料；<code>insight</code> 是資料被理解後露出的模式。",
-          "use": "如果句子只需要 information 的普通意思，就保留那個較簡單的字。"
+          "meaning": "資訊",
+          "use": "原料，不等於理解。"
+        },
+        {
+          "word": "Knowledge",
+          "meaning": "知識",
+          "use": "更廣，可累積；insight 常是看見關係。"
+        },
+        {
+          "word": "Understanding",
+          "meaning": "理解",
+          "use": "通用；insight 更像深入或突然看透。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>insight</code> 常把一段觀察收斂成可討論的判斷。一張圖如果帶來 insight，代表它不只顯示資料，還讓原因變得可見。",
-      "像 <code>gain insight</code>、<code>valuable insight</code>、<code>insight into</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Insight</code> 不該只是 dashboard 上的漂亮字。真正的 insight 會改變你下一步做什麼。",
+      "如果一張圖只是重複顯示已知數字，它提供的是 information，不一定是 insight。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 insight 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 insight 整理成「洞察、深入理解」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/insight",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 in 與 sight 組成；字面像往裡面看見。",
-      "memoryLens": "記憶時先抓「洞察、深入理解」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "往裡面看的字面很貼切；insight 是看見內部關係。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "information",
       "pattern",
       "data",
-      "noun",
       "noun"
     ]
   },

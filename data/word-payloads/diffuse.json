@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>diffuse</code> 關心的是「擴散、散布或使分散」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>diffuse</code> 描述東西從集中狀態散開：光線、氣味、責任、緊張感，都可能因此變得不再聚成一點。",
     "definition": {
-      "summary": "表示擴散、散布或使分散。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示散開、擴散、使分散；也可形容光線或注意力不集中。",
       "contrast": {
         "word": "Spread",
         "note": "<code>spread</code> 很廣；<code>diffuse</code> 更像濃度、光線或注意力慢慢散開。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>diffuse</code> 可以先記成一個畫面：中心存在，接著往外散開，最後濃度降低。",
-      "explanation": "這個畫面只用來幫你抓住「擴散、散布或使分散」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>diffuse</code> 想成強光經過霧面罩後，不再刺成一點。",
+      "explanation": "能量還在，但集中度變低了。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "一個清楚的 owner 能避免責任 diffuse 到每個人身上後沒人真正處理。"
+        "label": "責任",
+        "body": "一個清楚的 owner 能避免責任 <code>diffuse</code> 到每個人身上後沒人真正處理。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>diffuse</code> 和 <code>diffuse light</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "光線",
+        "body": "<code>Diffuse</code>"
+      },
+      {
+        "label": "緊張",
+        "body": "A careful explanation can diffuse tension before people harden their positions。"
       }
     ],
     "collocations": {
-      "note": "<code>diffuse</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「擴散、散布或使分散」落地。",
+      "note": "diffuse 的搭配會在物理和抽象之間移動：light、tension、through。共同畫面都是從集中變分散。",
       "items": [
         {
           "phrase": "diffuse light",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「擴散、散布或使分散」有明確對象。"
+          "register": "攝影 / 物理",
+          "note": "散射光，陰影較柔。"
         },
         {
           "phrase": "diffuse tension",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "人際 / 管理",
+          "note": "讓緊張不再集中升高，語氣常偏正面。"
         },
         {
           "phrase": "diffuse through",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "科學 / 技術",
+          "note": "某物穿過介質慢慢擴散。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "擴散、散布或使分散",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在集中度降低、向外散開，或緊張被緩和時。"
       },
       "others": [
         {
           "word": "Spread",
-          "meaning": "<code>spread</code> 很廣；<code>diffuse</code> 更像濃度、光線或注意力慢慢散開。",
-          "use": "如果句子只需要 spread 的普通意思，就保留那個較簡單的字。"
+          "meaning": "散布、蔓延",
+          "use": "最通用；diffuse 更有濃度變淡或集中度降低的感覺。"
+        },
+        {
+          "word": "Disperse",
+          "meaning": "分散",
+          "use": "常指群體或粒子散開。"
+        },
+        {
+          "word": "Defuse",
+          "meaning": "拆除危險、緩和",
+          "use": "拼字相近；defuse tension 也常見，但原意是拆引信。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>diffuse</code> 常把一段觀察收斂成可討論的判斷。一個清楚的 owner 能避免責任 diffuse 到每個人身上後沒人真正處理。",
-      "像 <code>diffuse light</code>、<code>diffuse tension</code>、<code>diffuse through</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Diffuse</code> 在工程溝通裡有一個很好的提醒：責任太 diffuse，最後就沒有人真正負責。",
+      "它也常和 defuse 混淆。diffuse 是散開；defuse 是拆掉危險源。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 diffuse 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 diffuse 整理成「擴散、散布或使分散」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/diffuse",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>diffundere</code>，意思接近倒出、散布。",
-      "memoryLens": "記憶時先抓「擴散、散布或使分散」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>diffundere</code> 的倒出、散布畫面很直觀；記成液體或光往外散。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "spread",
       "light",
       "responsibility",
-      "verb",
       "verb"
     ]
   },

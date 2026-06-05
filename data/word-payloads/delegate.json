@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>delegate</code> 關心的是「委派任務、責任或權限」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>delegate</code> 不是把麻煩丟出去，而是把任務、責任和足夠的權限交給合適的人。",
     "definition": {
-      "summary": "表示委派任務、責任或權限。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示委派任務、權限或責任。好的 delegate 包含信任、背景和可執行的授權。",
       "contrast": {
         "word": "Assign",
         "note": "<code>assign</code> 是分派；<code>delegate</code> 應該包含信任、責任與足夠權限。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>delegate</code> 可以先記成一個畫面：選定任務，接著交出權限，最後追蹤結果。",
-      "explanation": "這個畫面只用來幫你抓住「委派任務、責任或權限」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>delegate</code> 想成把 issue 交出去時連 debug context 和決策權一起給。",
+      "explanation": "只轉交壓力，不叫委派；那只是甩鍋。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "delegate debugging work 時，如果不給背景和權限，只是把壓力轉手。"
+        "label": "管理",
+        "body": "<code>Delegate</code> debugging work 時，如果不給背景和權限，只是把壓力轉手。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>delegate</code> 和 <code>delegate authority</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "權限",
+        "body": "To delegate authority means the other person can actually decide within a boundary。"
+      },
+      {
+        "label": "效率",
+        "body": "Delegating tasks well frees senior people without leaving juniors blind。"
       }
     ],
     "collocations": {
-      "note": "<code>delegate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「委派任務、責任或權限」落地。",
+      "note": "delegate 的搭配通常同時碰任務和權力：authority、tasks、effectively。",
       "items": [
         {
           "phrase": "delegate authority",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「委派任務、責任或權限」有明確對象。"
+          "register": "管理 / 組織",
+          "note": "把決策權交出一部分，不只是叫人做事。"
         },
         {
           "phrase": "delegate tasks",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "職場 / 專案",
+          "note": "分派任務，但品質取決於背景和邊界是否清楚。"
         },
         {
           "phrase": "delegate effectively",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "管理 / 領導",
+          "note": "有效委派，包含目標、權限、支援與追蹤。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "委派任務、責任或權限",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在交出任務時也交出必要權限與責任邊界。"
       },
       "others": [
         {
           "word": "Assign",
-          "meaning": "<code>assign</code> 是分派；<code>delegate</code> 應該包含信任、責任與足夠權限。",
-          "use": "如果句子只需要 assign 的普通意思，就保留那個較簡單的字。"
+          "meaning": "分派",
+          "use": "可只是把工作指定給某人。"
+        },
+        {
+          "word": "Outsource",
+          "meaning": "外包",
+          "use": "交給外部完成，通常是組織外。"
+        },
+        {
+          "word": "Dump",
+          "meaning": "丟給別人",
+          "use": "口語負面，表示不負責任地轉移。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>delegate</code> 常把一段觀察收斂成可討論的判斷。delegate debugging work 時，如果不給背景和權限，只是把壓力轉手。",
-      "像 <code>delegate authority</code>、<code>delegate tasks</code>、<code>delegate effectively</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Delegate</code> 是管理裡最常被說、也最常被做壞的字。真正的委派會讓人更能完成工作，而不是只讓問題離開你的桌面。",
+      "它和 decentralize 有關但範圍較小：delegate 是把某件事交給某人；decentralize 是系統性把中心權力外移。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 delegate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 delegate 整理成「委派任務、責任或權限」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/delegate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>delegare</code>，意思接近派遣、託付。",
-      "memoryLens": "記憶時先抓「委派任務、責任或權限」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "託付、派遣的字源很好記：delegate 的核心是 trust plus authority。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "assign",
       "task",
       "authority",
-      "verb",
       "verb"
     ]
   },

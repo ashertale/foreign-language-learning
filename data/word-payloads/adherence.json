@@ -8,89 +8,103 @@
     "partOfSpeech": "noun",
     "pronunciation": "ad-HEER-ens · UK /ədˈhɪə.rəns/ · US /ədˈhɪr.əns/",
     "hero": {
-      "thesis": "不是口頭同意，而是實際黏在規範、流程或承諾上。",
+      "thesis": "不是簽名說有遵守，而是行為真的貼在規範上，時間久了也不滑開。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>adherence</code> 把「遵守並持續貼合某套規則或原則」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>adherence</code> 的畫面是「黏住」。規範、療程、原則或流程不是放在旁邊參考，而是被持續貼在實際行動上；這個字關心的不是你知不知道規則，而是你有沒有一路照著走。",
     "definition": {
-      "summary": "指遵守並持續貼合某套規則或原則。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指持續遵守規則、流程、原則、療程或承諾；也可指物理上的附著。用在工作或醫療語境時，它常帶有「一段時間內是否穩定做到」的判斷。",
       "contrast": {
         "word": "Compliance",
-        "note": "<code>compliance</code> 偏向符合要求；<code>adherence</code> 更強調長時間不偏離。"
+        "note": "<code>compliance</code> 偏向符合外部要求、通過檢查；<code>adherence</code> 更像長時間貼著某套做法不偏離，語感多一點持續性。"
       },
       "flow": [
-        "規則存在",
-        "行為貼合",
-        "持續不偏離"
+        "先有規範",
+        "行動貼上去",
+        "持續不滑開"
       ]
     },
     "memory": {
-      "hook": "<code>adherence</code> 可以先記成一個畫面：規則存在，接著行為貼合，最後持續不偏離。",
-      "explanation": "這個畫面只用來幫你抓住「遵守並持續貼合某套規則或原則」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>adherence</code> 像標籤貼在板子上：真正的問題不是貼上那一秒，而是熱、濕氣和時間過去後，它還黏不黏。",
+      "explanation": "用在流程時也是一樣。一次照做不難；難的是在 deadline、例外狀況與壓力底下，仍然不把關鍵步驟偷偷省掉。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "在 firmware release checklist 裡，adherence 指的是每一步都照流程走，不是最後才補簽名。"
+        "label": "流程 / 品質",
+        "body": "release checklist 上每格都有勾，不等於有 <code>adherence</code>。如果測試紀錄是事後補的，那只是表面符合，流程其實已經鬆動。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>adherence</code> 和 <code>strict adherence</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "醫療 / 習慣",
+        "body": "<code>medication adherence</code> 指病人是否按時、按量持續用藥；它不是醫囑寫得好不好，而是實際生活中能不能跟上。"
+      },
+      {
+        "label": "原則 / 團隊文化",
+        "body": "A team's <code>adherence to principles</code> 不是看口號，而是看壓力來時，原則有沒有被拿來約束決策。"
       }
     ],
     "collocations": {
-      "note": "<code>adherence</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「遵守並持續貼合某套規則或原則」落地。",
+      "note": "這個字常接 <code>to</code>，後面放規則、流程、原則或療程。搭配的重點是「貼住哪一套東西」。",
       "items": [
         {
-          "phrase": "strict adherence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「遵守並持續貼合某套規則或原則」有明確對象。"
+          "phrase": "strict adherence to protocol",
+          "register": "醫療 / 實驗 / 安全流程",
+          "note": "強調每一步都照 protocol 走，適合高風險、可追溯、不能靠臨場感的場景。"
         },
         {
-          "phrase": "adherence to protocol",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "phrase": "medication adherence",
+          "register": "醫療 / 公衛",
+          "note": "指病人實際服藥行為是否跟醫囑一致，常用於長期治療與照護研究。"
         },
         {
-          "phrase": "poor adherence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "phrase": "adherence to standards",
+          "register": "工程 / 品質 / 合規",
+          "note": "比 simply following standards 更正式，暗示標準不是一次性檢查，而是長期做法。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "遵守並持續貼合某套規則或原則",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "持續貼合規則、流程、原則或療程",
+        "use": "當你要強調長時間照做、沒有偏離，而不是只在某次檢查時符合要求。"
       },
       "others": [
         {
           "word": "Compliance",
-          "meaning": "<code>compliance</code> 偏向符合要求；<code>adherence</code> 更強調長時間不偏離。",
-          "use": "如果句子只需要 compliance 的普通意思，就保留那個較簡單的字。"
+          "meaning": "符合外部規定、政策或要求",
+          "use": "適合 audit、法規、公司政策；重點是有沒有達標。"
+        },
+        {
+          "word": "Obedience",
+          "meaning": "服從命令或權威",
+          "use": "重點在人對權威的服從，不一定表示流程品質或長期一致性。"
+        },
+        {
+          "word": "Conformity",
+          "meaning": "和群體、標準或慣例一致",
+          "use": "常帶社會或文化語感；不一定有明確 protocol。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>adherence</code> 常把一段觀察收斂成可討論的判斷。在 firmware release checklist 裡，adherence 指的是每一步都照流程走，不是最後才補簽名。",
-      "像 <code>strict adherence</code>、<code>adherence to protocol</code>、<code>poor adherence</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在工程文件裡，<code>adherence</code> 很適合用來談 process discipline：不是每個人都知道流程，而是流程有沒有真的進到日常行為裡。",
+      "這個字也能戳破漂亮報告。A team may claim compliance, but poor adherence shows up in skipped reviews, late test evidence, and undocumented exceptions."
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 adherence 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 adherence 整理成「持續貼合規範、療程或原則」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/adherence",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 adherence 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 adherence 在規則遵守、醫療用藥與附著義上的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/adherence",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "與 Latin <code>haerere</code>「黏住」有關；記成把行為黏在規範上。",
-      "memoryLens": "記憶時先抓「遵守並持續貼合某套規則或原則」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>adherence</code> 和 Latin <code>adhaerere</code> 有關，意思接近「黏附、貼住」；其中 <code>haerere</code> 帶有 stick 的概念。",
+      "memoryLens": "字源的黏著感很好用：把 rule、protocol、principle 想成表面，把 action 想成要貼上去的東西。貼得住，才叫 adherence。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Adherence",
     "partOfSpeech": "noun",
     "href": "./adherence.html",
-    "thesis": "不是口頭同意，而是實際黏在規範、流程或承諾上。",
+    "thesis": "不是簽名說有遵守，而是行為真的貼在規範上，時間久了也不滑開。",
     "tags": [
       "遵守",
-      "流程",
+      "持續",
       "protocol",
-      "discipline",
+      "standards",
+      "process discipline",
+      "medication adherence",
       "quality",
-      "noun",
       "noun"
     ]
   },

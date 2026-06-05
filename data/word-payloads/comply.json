@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.72"
     },
-    "coreIdea": "<code>comply</code> 關心的是「遵從外部要求或規範」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>comply</code> 說的是行為對齊要求，不是內心同意。規範在前，人或產品把自己調到符合它。",
     "definition": {
-      "summary": "表示遵從外部要求或規範。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示遵守規定、命令、要求或標準。它重在外部行為符合，不保證主觀認同。",
       "contrast": {
         "word": "Agree",
         "note": "<code>agree</code> 是同意；<code>comply</code> 是即使不喜歡也按要求執行。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>comply</code> 可以先記成一個畫面：要求出現，接著調整行為，最後符合規定。",
-      "explanation": "這個畫面只用來幫你抓住「遵從外部要求或規範」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>comply</code> 想成測試規格前的 check mark。",
+      "explanation": "打勾表示符合要求，不表示你喜歡那條要求，也不表示要求本身完美。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "產品 comply with safety standard，重點是符合規範，不是團隊主觀覺得安全。"
+        "label": "法規 / 安全",
+        "body": "產品 <code>comply with</code> safety standard，重點是符合規範，不是團隊主觀覺得安全。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>comply</code> 和 <code>comply with</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "組織",
+        "body": "An employee may <code>comply</code> with a policy while privately disagreeing with it。"
+      },
+      {
+        "label": "失敗",
+        "body": "<code>Fail to comply</code> 常出現在法律、稽核或流程警告裡。"
       }
     ],
     "collocations": {
-      "note": "<code>comply</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「遵從外部要求或規範」落地。",
+      "note": "comply 幾乎總是在要求和行為之間拉線。with 後面通常就是那條要求：law、standard、order、policy。",
       "items": [
         {
           "phrase": "comply with",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「遵從外部要求或規範」有明確對象。"
+          "register": "法律 / 流程 / 安全",
+          "note": "後面接規範、標準或命令，是最常見結構。"
         },
         {
           "phrase": "regulatory compliance",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "法規 / 商務",
+          "note": "名詞型，指符合法規要求的狀態或工作。"
         },
         {
           "phrase": "fail to comply",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "法律 / 稽核",
+          "note": "未遵守要求，語氣正式且可能有後果。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "遵從外部要求或規範",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在重點是是否符合外部要求，而不是是否贊成要求時。"
       },
       "others": [
         {
           "word": "Agree",
-          "meaning": "<code>agree</code> 是同意；<code>comply</code> 是即使不喜歡也按要求執行。",
-          "use": "如果句子只需要 agree 的普通意思，就保留那個較簡單的字。"
+          "meaning": "同意",
+          "use": "內心或立場接受；comply 可完全沒有認同。"
+        },
+        {
+          "word": "Obey",
+          "meaning": "服從",
+          "use": "更直接指聽命令，語氣可能較強。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>comply</code> 常把一段觀察收斂成可討論的判斷。產品 comply with safety standard，重點是符合規範，不是團隊主觀覺得安全。",
-      "像 <code>comply with</code>、<code>regulatory compliance</code>、<code>fail to comply</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Comply</code> 在法規、資安、醫療和製造裡非常常見，因為這些場景都需要可稽核的符合狀態。",
+      "它也提醒你分清楚 compliance 和 safety：符合規範是必要條件，不一定等於沒有風險。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 comply 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 comply 整理成「遵從外部要求或規範」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/comply",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "詞史含有「折向、順從」的方向；現代常見於法規與流程。",
-      "memoryLens": "記憶時先抓「遵從外部要求或規範」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "詞史裡的順從方向可以記，但現代重點是行為和外部要求對齊。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "agree",
       "standard",
       "regulation",
-      "verb",
       "verb"
     ]
   },

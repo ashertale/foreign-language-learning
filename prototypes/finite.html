@@ -63,7 +63,7 @@
       <section class="chapter" id="core">
         <div class="core-card">
           <p class="section-label">Core Idea</p>
-          <p><code>finite</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「有限的、有終點」。</p>
+          <p><code>finite</code> 不是很少，而是有邊界、有終點、不能假裝無限。</p>
         </div>
       </section>
 
@@ -73,7 +73,7 @@
         <div class="definition-grid">
           <div class="tile">
             <strong>Finite</strong>
-            <p>形容有限的、有終點的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。</p>
+            <p>形容數量、資源、狀態或時間有限，可被界定或終究會用完。</p>
           </div>
           <div class="tile">
             <strong>不是 Limited</strong>
@@ -93,14 +93,14 @@
         <p class="section-label">Origin</p>
         <h2>字源</h2>
         <p>來自 Latin <code>finis</code>「邊界、終點」。</p>
-        <p>記憶時先抓「有限的、有終點的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。</p>
+        <p><code>finis</code> 是邊界、終點；finite 就是有終點。</p>
       </section>
 
       <section class="chapter" id="memory">
         <p class="section-label">Memory Hook</p>
         <h2>記憶鉤子</h2>
-        <p class="quote-line"><code>finite</code> 可以先記成一個畫面：邊界存在，接著資源可數，最後終點會到。</p>
-        <p>這個畫面只用來幫你抓住「有限的、有終點」；真正使用時，要回到句子裡看它標出的邊界。</p>
+        <p class="quote-line">把 <code>finite</code> 想成 RAM：不是哲學概念，而是每個 allocation 都會碰到的牆。</p>
+        <p>有限性會逼設計做取捨。</p>
       </section>
 
       <section class="chapter" id="usage">
@@ -108,12 +108,16 @@
         <h2>生活與專業情境</h2>
         <div class="example-grid">
           <div class="example">
-            <strong>實務判斷</strong>
-            <p>RAM is finite，所以設計必須承認每一個 allocation 都有代價。</p>
+            <strong>記憶體</strong>
+            <p>RAM is <code>finite</code>，所以設計必須承認每一個 allocation 都有代價。</p>
           </div>
           <div class="example">
-            <strong>寫作語氣</strong>
-            <p>寫作時可以讓 <code>finite</code> 和 <code>finite resource</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。</p>
+            <strong>狀態機</strong>
+            <p>A finite state machine has a defined set of states, which makes behavior easier to reason about.</p>
+          </div>
+          <div class="example">
+            <strong>時間</strong>
+            <p>Attention is finite; every meeting spends some of it.</p>
           </div>
         </div>
       </section>
@@ -121,28 +125,28 @@
       <section class="chapter" id="collocations">
         <p class="section-label">Collocations</p>
         <h2>常見搭配與語域</h2>
-        <p class="overlap-note"><code>finite</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「有限的、有終點」落地。</p>
+        <p class="overlap-note">finite 常接 resource、state、amount。搭配都在強調邊界和可數性。</p>
         <div class="collocation-list" aria-label="finite collocations">
           <article class="collocation-card">
             <div>
               <strong>finite resource</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">工程 / 經濟</span>
             </div>
-            <p>適合放在正式文件或分析裡，讓「有限的、有終點」有明確對象。</p>
+            <p>有限資源，使用需要取捨。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>finite state</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">電腦科學 / 系統</span>
             </div>
-            <p>語氣比一般說法更收斂，通常用來標出問題的範圍或程度。</p>
+            <p>有限狀態，行為被限制在明確集合中。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>finite amount</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">通用 / 數量</span>
             </div>
-            <p>可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。</p>
+            <p>有限數量，不可無限延伸。</p>
           </article>
         </div>
       </section>
@@ -163,12 +167,22 @@
               <tr>
                 <td>Finite</td>
                 <td>有限的、有終點的</td>
-                <td>當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。</td>
+                <td>用在必須承認邊界、終點或資源不可無限使用時。</td>
               </tr>
               <tr>
                 <td>Limited</td>
-                <td><code>limited</code> 是受限制；<code>finite</code> 更直接說它不是無限。</td>
-                <td>如果句子只需要 limited 的普通意思，就保留那個較簡單的字。</td>
+                <td>受限制的</td>
+                <td>可泛指限制；finite 直接表示不是無限。</td>
+              </tr>
+              <tr>
+                <td>Scarce</td>
+                <td>稀缺</td>
+                <td>不只有限，還不夠用。</td>
+              </tr>
+              <tr>
+                <td>Bounded</td>
+                <td>有界的</td>
+                <td>數學或工程語氣，強調上下界。</td>
               </tr>
             </tbody>
           </table>
@@ -178,8 +192,8 @@
       <section class="chapter" id="modern">
         <p class="section-label">Modern Use</p>
         <h2>現代延伸</h2>
-        <p>在工作英文裡，<code>finite</code> 常把一段觀察收斂成可討論的判斷。RAM is finite，所以設計必須承認每一個 allocation 都有代價。</p>
-        <p>像 <code>finite resource</code>、<code>finite state</code>、<code>finite amount</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。</p>
+        <p><code>Finite</code> 是工程設計裡非常實在的字。CPU time、RAM、battery、human attention 都 finite，所以取捨不能靠願望。</p>
+        <p>它不等於 scarce；有限的東西可能暫時夠用，但仍需要邊界意識。</p>
       </section>
 
       <section class="chapter" id="sources">
@@ -188,7 +202,7 @@
         <div class="source-grid">
           <article class="source-card">
             <strong>詞典來源</strong>
-            <p>定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 finite 的概念邊界與常見語境。</p>
+            <p>定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 finite 整理成「有限的、有終點的」的學習概念。</p>
             <a href="https://dictionary.cambridge.org/dictionary/english/finite" target="_blank" rel="noreferrer">Cambridge Dictionary</a>
           </article>
           <article class="source-card">

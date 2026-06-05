@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>cautious</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「小心、審慎，避免不必要風險」。",
+    "coreIdea": "<code>cautious</code> 讓行動先慢到足以看見風險。它不是膽怯，而是油門旁邊一直留著煞車。",
     "definition": {
-      "summary": "形容小心、審慎，避免不必要風險。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人或做法謹慎、審慎，會先注意可能風險再行動。它可以是成熟判斷，不等於膽小。",
       "contrast": {
         "word": "Timid",
         "note": "<code>timid</code> 偏膽怯；<code>cautious</code> 可以是成熟的風險管理。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>cautious</code> 可以先記成一個畫面：看見風險，接著放慢動作，最後保留安全餘裕。",
-      "explanation": "這個畫面只用來幫你抓住「小心、審慎，避免不必要風險」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>cautious</code> 像 staged rollout：不是不敢上線，而是不想一次把未知風險推給所有人。",
+      "explanation": "這個字的好感來自風險意識；如果只是怕到不動，那就接近 timid。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "cautious rollout 不是沒信心，而是不想讓未知 bug 一次影響全部使用者。"
+        "label": "Release",
+        "body": "A <code>cautious</code> rollout 不是沒信心，而是不想讓未知 bug 一次影響全部使用者。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>cautious</code> 和 <code>cautious optimism</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "市場 / 判斷",
+        "body": "<code>Cautious optimism</code> 表示有希望，但還不把好消息講滿。"
+      },
+      {
+        "label": "人際",
+        "body": "Be <code>cautious about</code> sharing private logs，重點是先想清楚資訊暴露的後果。"
       }
     ],
     "collocations": {
-      "note": "<code>cautious</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「小心、審慎，避免不必要風險」落地。",
+      "note": "cautious 常和 optimism、approach、about 搭配。它把態度放在油門和煞車之間。",
       "items": [
         {
           "phrase": "cautious optimism",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「小心、審慎，避免不必要風險」有明確對象。"
+          "register": "新聞 / 商務 / 評論",
+          "note": "有正面期待，但保留條件與風險意識。"
         },
         {
           "phrase": "cautious approach",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "管理 / 工程 / 政策",
+          "note": "做法不衝動，通常會先試、小步、留回退路徑。"
         },
         {
           "phrase": "be cautious about",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "日常 / 建議",
+          "note": "後面接需要先想清楚的對象，例如 cost、privacy、timing。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "小心、審慎，避免不必要風險",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在行動仍會發生，但會先替風險留餘裕時。"
       },
       "others": [
         {
+          "word": "Careful",
+          "meaning": "小心、仔細",
+          "use": "最通用，可指避免錯誤或注意細節。"
+        },
+        {
           "word": "Timid",
-          "meaning": "<code>timid</code> 偏膽怯；<code>cautious</code> 可以是成熟的風險管理。",
-          "use": "如果句子只需要 timid 的普通意思，就保留那個較簡單的字。"
+          "meaning": "膽怯",
+          "use": "重點是害怕造成退縮，通常比 cautious 負面。"
+        },
+        {
+          "word": "Prudent",
+          "meaning": "審慎、明智",
+          "use": "更正式，常指成熟的長期風險判斷。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>cautious</code> 常把一段觀察收斂成可討論的判斷。cautious rollout 不是沒信心，而是不想讓未知 bug 一次影響全部使用者。",
-      "像 <code>cautious optimism</code>、<code>cautious approach</code>、<code>be cautious about</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "商務和工程語境中，<code>cautious</code> 常是好字。它表示你沒有被樂觀沖昏，也沒有因恐懼停住。",
+      "但它也可能被用來包裝拖延。若 cautious 沒有明確的風險清單、檢查點或下一步，就可能只是 delay。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 cautious 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 cautious 整理成「小心、審慎，避免不必要風險」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/cautious",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "與 caution 同源，核心是警戒與注意，不是恐懼。",
-      "memoryLens": "記憶時先抓「小心、審慎，避免不必要風險」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "caution 的警戒感是核心：看見風險，放慢，但不一定停下。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "timid",
       "rollout",
       "safety",
-      "adjective",
       "adjective"
     ]
   },

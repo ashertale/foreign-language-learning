@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>partial</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「部分的、不完整的，或偏袒」。",
+    "coreIdea": "<code>partial</code> 提醒你：這不是全貌，只處理、看見或偏向其中一部分。",
     "definition": {
-      "summary": "形容部分的、不完整的，或偏袒的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容部分的、不完整的，也可表示偏袒某一方。",
       "contrast": {
         "word": "Complete",
         "note": "<code>complete</code> 是完整；<code>partial</code> 提醒你還有沒涵蓋的部分。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>partial</code> 可以先記成一個畫面：整體存在，接著只處理一部分，最後留下缺口。",
-      "explanation": "這個畫面只用來幫你抓住「部分的、不完整的，或偏袒」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>partial</code> fix 想成先止血，但 root cause 仍有一段沒有碰到。",
+      "explanation": "有價值，但不能包裝成完全解決。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "partial fix 可以先止血，但不能讓人誤以為 root cause 已經解決。"
+        "label": "修復",
+        "body": "<code>Partial</code> fix 可以先止血，但不能讓人誤以為 root cause 已經解決。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>partial</code> 和 <code>partial fix</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "視角",
+        "body": "A partial view may be true and still misleading."
+      },
+      {
+        "label": "偏好",
+        "body": "Be partial to something 表示偏愛某物，這是另一條用法。"
       }
     ],
     "collocations": {
-      "note": "<code>partial</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「部分的、不完整的，或偏袒」落地。",
+      "note": "partial 常接 fix、view、to。前兩個談不完整，partial to 則是偏愛。",
       "items": [
         {
           "phrase": "partial fix",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「部分的、不完整的，或偏袒」有明確對象。"
+          "register": "工程 / 品質",
+          "note": "只修一部分問題。"
         },
         {
           "phrase": "partial view",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "分析 / 討論",
+          "note": "局部視角，可能缺上下文。"
         },
         {
           "phrase": "partial to",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "片語 / 日常",
+          "note": "偏愛、較喜歡。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "部分的、不完整的，或偏袒的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在只涵蓋一部分，或表示偏向某一方 / 某物時。"
       },
       "others": [
         {
           "word": "Complete",
-          "meaning": "<code>complete</code> 是完整；<code>partial</code> 提醒你還有沒涵蓋的部分。",
-          "use": "如果句子只需要 complete 的普通意思，就保留那個較簡單的字。"
+          "meaning": "完整",
+          "use": "反義。"
+        },
+        {
+          "word": "Incomplete",
+          "meaning": "不完整",
+          "use": "直接說未完成。"
+        },
+        {
+          "word": "Biased",
+          "meaning": "有偏見",
+          "use": "partial 作偏袒時可接近 biased。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>partial</code> 常把一段觀察收斂成可討論的判斷。partial fix 可以先止血，但不能讓人誤以為 root cause 已經解決。",
-      "像 <code>partial fix</code>、<code>partial view</code>、<code>partial to</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Partial</code> 對工程溝通很重要。partial mitigation、partial fix、partial data 都應該明說，避免團隊把剩餘風險忘掉。",
+      "它不一定負面；局部處理在 incident 中常必要，只要不假裝完整。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 partial 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 partial 整理成「部分的、不完整的，或偏袒的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/partial",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 part 的部分概念；也可延伸為偏向某一邊。",
-      "memoryLens": "記憶時先抓「部分的、不完整的，或偏袒的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "part 把它拉回「部分」；partial 提醒你眼前只是一塊，不是完整全貌。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "fix",
       "view",
       "bias",
-      "adjective",
       "adjective"
     ]
   },

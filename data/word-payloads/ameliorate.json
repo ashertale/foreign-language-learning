@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.39"
     },
-    "coreIdea": "<code>ameliorate</code> 的力道，在於它會把動作背後那層「把原本糟的情況往較可承受的方向拉回來」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>ameliorate</code> 不是徹底翻盤，而是把原本糟的情況往比較能承受的方向拉回來。",
     "definition": {
-      "summary": "表示改善不良情況、減輕問題，使其沒那麼嚴重。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示改善、緩和壞情況、減輕損害或壓力，語氣較正式。",
       "contrast": {
         "word": "Improve",
-        "note": "<code>Improve</code> 比較像基礎說法；<code>ameliorate</code> 常用來把那層更具體的「讓情況好一些」拉到前景。"
+        "note": "<code>improve</code> 很廣；<code>ameliorate</code> 常指把壞情況緩和到較可承受。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「讓情況好一些」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "壞情況存在",
+        "傷害或壓力下降",
+        "局面變得可承受"
       ]
     },
     "memory": {
-      "hook": "<code>ameliorate</code> 的畫面是：像把漏雨的屋頂先補住最破的地方，還沒完美，但不再一直滴。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「把原本糟的情況往較可承受的方向拉回來」看成一個會發生的場面。"
+      "hook": "把 <code>ameliorate</code> damage 想成根因還在查，但先加保護讓傷害不再擴大。",
+      "explanation": "它改善局面，不一定宣告勝利。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>ameliorate the damage</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "損害",
+        "body": "A patch can <code>ameliorate</code> the damage before a full redesign is ready."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 政策 裡，<code>ameliorate conditions</code> 讓句子多出的，不只是資訊，而是那股往「讓情況好一些」推進的語氣。"
+        "label": "條件",
+        "body": "Better tooling can ameliorate working conditions without solving every organizational problem."
       },
       {
-        "label": "延伸版",
-        "body": "碰到 工作 / 壓力 場景時，<code>ameliorate the strain</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "壓力",
+        "body": "Clear"
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "ameliorate 常接 damage、conditions、strain。搭配都在把壞局面往較好方向拉。",
       "items": [
         {
           "phrase": "ameliorate the damage",
-          "register": "風險 / 修復",
-          "note": "這個搭配常出現在需要把事情往「讓情況好一些」講清楚的句子裡。"
+          "register": "風險 / 事故",
+          "note": "減輕損害。"
         },
         {
           "phrase": "ameliorate conditions",
-          "register": "公共 / 政策",
-          "note": "放到 公共 / 政策 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "政策 / 職場",
+          "note": "改善條件。"
         },
         {
           "phrase": "ameliorate the strain",
-          "register": "工作 / 壓力",
-          "note": "在 工作 / 壓力 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "職場 / 人際",
+          "note": "減輕壓力或負擔。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "讓情況好一些",
-        "use": "當你要把事情說成「把原本糟的情況往較可承受的方向拉回來」而不只是 改善 時"
+        "use": "用在原本不好的狀況被改善到較可承受，但不一定完全解決時。"
       },
       "others": [
         {
           "word": "Improve",
           "meaning": "改善",
-          "use": "當句子只需要 改善 這個動作，不必補上「把原本糟的情況往較可承受的方向拉回來」那層走向時"
+          "use": "最通用。"
+        },
+        {
+          "word": "Mitigate",
+          "meaning": "緩解風險或影響",
+          "use": "常用於風險控制。"
+        },
+        {
+          "word": "Remedy",
+          "meaning": "補救、治療",
+          "use": "更像提供解方。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>ameliorate</code>，可以先看它黏著哪些搭配出現。像 <code>ameliorate the damage</code>、<code>ameliorate conditions</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Improve</code> 的華麗版本，而是專門拿來補上「把原本糟的情況往較可承受的方向拉回來」這層語氣。"
+      "<code>Ameliorate</code> 很適合正式寫作，尤其你不想誇大成 solve。",
+      "工程事故中，很多措施先 ameliorate impact，真正 root cause fix 還在後面。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ameliorate 整理成「讓情況好一些」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/ameliorate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 ameliorate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/ameliorate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "improve",
       "policy",
       "repair",
-      "verb",
-      "ameliorate"
+      "ameliorate",
+      "verb"
     ]
   },
   "sourceAudit": [

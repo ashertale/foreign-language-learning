@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.64"
     },
-    "coreIdea": "<code>autonomous</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「具有自我管理或自我決策能力」。",
+    "coreIdea": "<code>autonomous</code> 不是孤立無援，而是在明確邊界內能自己判斷、自己行動，並承擔結果。",
     "definition": {
-      "summary": "形容具有自我管理或自我決策能力。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容個體、團隊、系統或機器在一定邊界內能自行判斷與行動。它強調自我治理或控制權，不等於完全不受限制。",
       "contrast": {
         "word": "Independent",
         "note": "<code>independent</code> 強調不依賴；<code>autonomous</code> 強調自己有決策權或控制權。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>autonomous</code> 可以先記成一個畫面：邊界被定義，接著系統自行判斷，最後結果由自己負責。",
-      "explanation": "這個畫面只用來幫你抓住「具有自我管理或自我決策能力」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>autonomous</code> 想成有 guardrails 的自動駕駛，而不是沒有路的亂開。",
+      "explanation": "真正的自主需要邊界、感測、決策和責任。少了邊界，它就不是成熟自主，只是沒人管。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "autonomous device 不代表完全孤立，而是很多情境下能自己完成判斷。"
+        "label": "系統",
+        "body": "An <code>autonomous</code> device 不代表永遠離線，而是能在常見情境下自己感測、判斷並完成動作。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>autonomous</code> 和 <code>autonomous system</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "團隊",
+        "body": "An <code>autonomous</code> team 仍需要目標和約束；差別在於它不用每一步都等上層批准。"
+      },
+      {
+        "label": "政治 / 制度",
+        "body": "<code>Autonomous</code> regions 有某種自我治理權，但權力邊界通常仍由更大的法律框架定義。"
       }
     ],
     "collocations": {
-      "note": "<code>autonomous</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「具有自我管理或自我決策能力」落地。",
+      "note": "autonomous 常和 system、vehicle、team、region 搭配。每個搭配都會問同一件事：誰能自己決定，邊界在哪裡？",
       "items": [
         {
           "phrase": "autonomous system",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「具有自我管理或自我決策能力」有明確對象。"
+          "register": "工程 / AI / 控制",
+          "note": "重點是系統能根據環境自行做決策，不只是自動執行固定步驟。"
         },
         {
           "phrase": "autonomous decision",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "管理 / 倫理",
+          "note": "指不靠外部逐項批准的判斷，也因此需要責任歸屬。"
         },
         {
           "phrase": "autonomous team",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "組織 / 產品開發",
+          "note": "團隊擁有實作和取捨空間，但仍要對結果負責。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "具有自我管理或自我決策能力",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在有自我決策權、但仍存在明確邊界的個體或系統。"
       },
       "others": [
         {
           "word": "Independent",
-          "meaning": "<code>independent</code> 強調不依賴；<code>autonomous</code> 強調自己有決策權或控制權。",
-          "use": "如果句子只需要 independent 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不依賴、獨立",
+          "use": "強調沒有外部依靠或關聯時，用 <code>independent</code>。"
+        },
+        {
+          "word": "Automatic",
+          "meaning": "自動發生或執行",
+          "use": "只是不用人手操作，不一定有判斷權。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>autonomous</code> 常把一段觀察收斂成可討論的判斷。autonomous device 不代表完全孤立，而是很多情境下能自己完成判斷。",
-      "像 <code>autonomous system</code>、<code>autonomous decision</code>、<code>autonomous team</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Autonomous</code> 在 AI、車輛、機器人和組織設計裡都很常見，但好句子通常會補上 operating limits。",
+      "說一個系統 autonomous 時，也是在開一個責任問題：它能自己決定，出了問題誰設計邊界、誰監控、誰接手？"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 autonomous 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 autonomous 整理成「具有自我管理或自我決策能力」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/autonomous",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "源自 Greek <code>autos</code>「自己」與 <code>nomos</code>「法則」。",
-      "memoryLens": "記憶時先抓「具有自我管理或自我決策能力」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>autos</code> 加 <code>nomos</code> 的「自己 + 法則」很好用：自主不是沒有法，而是自己按某套法則運作。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "independent",
       "system",
       "control",
-      "adjective",
       "adjective"
     ]
   },

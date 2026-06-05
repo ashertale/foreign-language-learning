@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.63"
     },
-    "coreIdea": "<code>cede</code> 的力道，在於它會把動作背後那層「把原本屬於自己的控制權正式交出去」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>cede</code> 是把原本握在自己手裡的權利、控制或領土讓出去。",
     "definition": {
-      "summary": "表示割讓、讓出主導權、地位或領土。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示割讓、讓出、交出控制權、地位、市場或領土。",
       "contrast": {
         "word": "Give",
-        "note": "<code>Give</code> 比較像基礎說法；<code>cede</code> 常用來把那層更具體的「正式讓出」拉到前景。"
+        "note": "<code>give</code> 只是交出去；<code>cede</code> 讓人看到原本的權位或控制被移交。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「正式讓出」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "一方原本掌握某物",
+        "它被正式或實際交出",
+        "主導權移到別處"
       ]
     },
     "memory": {
-      "hook": "<code>cede</code> 的畫面是：像手上鑰匙不是借人保管，而是整串交出去不再拿回來。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「把原本屬於自己的控制權正式交出去」看成一個會發生的場面。"
+      "hook": "把 <code>cede control</code> 想成 owner 權限從你手上移到另一個團隊，之後決策權不再在你這裡。",
+      "explanation": "cede 的重點是控制權轉移。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>cede control</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "控制",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 政治 / 歷史 裡，<code>cede territory</code> 讓句子多出的，不只是資訊，而是那股往「正式讓出」推進的語氣。"
+        "label": "領土",
+        "body": "Ceding territory is literal and political: land moves out of one authority."
       },
       {
-        "label": "延伸版",
-        "body": "碰到 商業 / 競爭 場景時，<code>cede market share</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "市場",
+        "body": "A company can cede market share slowly by ignoring a small competitor for too long."
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "cede 常接 control、territory、market share；搭配都和某種持有或主導權有關。",
       "items": [
         {
           "phrase": "cede control",
-          "register": "管理 / 權責",
-          "note": "這個搭配常出現在需要把事情往「正式讓出」講清楚的句子裡。"
+          "register": "組織 / 技術",
+          "note": "讓出控制權。"
         },
         {
           "phrase": "cede territory",
           "register": "政治 / 歷史",
-          "note": "放到 政治 / 歷史 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "note": "割讓領土。"
         },
         {
           "phrase": "cede market share",
-          "register": "商業 / 競爭",
-          "note": "在 商業 / 競爭 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "商務 / 分析",
+          "note": "讓出市占。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "正式讓出",
-        "use": "當你要把事情說成「把原本屬於自己的控制權正式交出去」而不只是 給出 時"
+        "use": "用在權力、控制、位置或領土從一方移到另一方時。"
       },
       "others": [
         {
           "word": "Give",
-          "meaning": "給出",
-          "use": "當句子只需要 給出 這個動作，不必補上「把原本屬於自己的控制權正式交出去」那層走向時"
+          "meaning": "給",
+          "use": "太通用；<code>cede</code> 通常是正式讓出原本掌握的權力或位置。"
+        },
+        {
+          "word": "Concede",
+          "meaning": "承認 / 讓步",
+          "use": "可指承認敗選或讓步；<code>cede</code> 更偏實際交出控制。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>cede</code>，可以先看它黏著哪些搭配出現。像 <code>cede control</code>、<code>cede territory</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Give</code> 的華麗版本，而是專門拿來補上「把原本屬於自己的控制權正式交出去」這層語氣。"
+      "<code>Cede</code> 在政治、商務、技術治理裡都好用，因為它精準標記權限的移交。",
+      "它通常比 give 更正式，也更能保留原本擁有者的失去感。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cede 整理成「正式讓出」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/cede",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 cede 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/cede",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "give",
       "power",
       "control",
-      "verb",
-      "cede"
+      "cede",
+      "verb"
     ]
   },
   "sourceAudit": [

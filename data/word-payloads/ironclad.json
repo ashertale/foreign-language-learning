@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.51"
     },
-    "coreIdea": "<code>ironclad</code> 真正抓住的，不是程度高低，而是整體怎麼被「硬到幾乎挑不出破口」這個感覺支配。",
+    "coreIdea": "<code>ironclad</code> 是像包了鐵甲一樣難以打穿：合約、證據、防線都可以。",
     "definition": {
-      "summary": "表示嚴密、堅不可摧、不可推翻。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容嚴密、堅固、幾乎無法推翻或突破。",
       "contrast": {
         "word": "Solid",
-        "note": "如果語境只需要比較平的「穩固」，用 <code>Solid</code> 往往就夠了；<code>ironclad</code> 則會把「硬到幾乎挑不出破口」講得更明確。"
+        "note": "<code>solid</code> 是穩；<code>ironclad</code> 是穩到像穿鐵甲。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「硬到幾乎挑不出破口」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "可能受到攻擊或質疑",
+        "結構被做得很嚴密",
+        "對方難以突破"
       ]
     },
     "memory": {
-      "hook": "<code>ironclad</code> 的畫面是：像箱子外面一層一層上鎖，拿著工具繞一圈也找不到縫。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 ironclad 時，能先抓到「嚴密無破口」這個核心，再回頭讀細節。"
+      "hook": "把 <code>ironclad proof</code> 想成不是看起來合理，而是對方很難找到可攻擊的缺口。",
+      "explanation": "ironclad 的重點是 no easy breach。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>ironclad contract</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「嚴密無破口」這層氣質壓到前景。"
+        "label": "合約",
+        "body": "An <code>ironclad</code> contract leaves little room for interpretive escape."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>ironclad proof</code> 放進 分析 / 證據 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "證據",
+        "body": "Ironclad"
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 工程 / 安全 的情境，從 <code>ironclad defense</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "防線",
+        "body": "An ironclad defense depends on the weak points no one sees in the demo."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "ironclad 常修飾 contract、proof、defense；搭配都指向難以突破。",
       "items": [
         {
           "phrase": "ironclad contract",
-          "register": "法務 / 合約",
-          "note": "這個搭配會讓「嚴密無破口」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "法律 / 商務",
+          "note": "嚴密合約。"
         },
         {
           "phrase": "ironclad proof",
-          "register": "分析 / 證據",
-          "note": "在 分析 / 證據 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "論證 / 法律",
+          "note": "鐵證、無懈可擊的證據。"
         },
         {
           "phrase": "ironclad defense",
-          "register": "工程 / 安全",
-          "note": "如果你想把這個字用穩，從 工程 / 安全 常見的這個搭配進場通常最自然。"
+          "register": "安全 / 法律",
+          "note": "堅固防線或辯護。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "嚴密無破口",
-        "use": "當你要強調整體帶著「硬到幾乎挑不出破口」這種質地，而不只是 穩固 時"
+        "use": "用在某物經得起攻擊、質疑或突破時。"
       },
       "others": [
         {
           "word": "Solid",
           "meaning": "穩固",
-          "use": "當句子只需要 穩固 這個中性描述，不必把「硬到幾乎挑不出破口」這種氣質壓到前景時"
+          "use": "較廣、較輕；<code>ironclad</code> 表示幾乎挑不出洞。"
+        },
+        {
+          "word": "Unassailable",
+          "meaning": "無可攻擊",
+          "use": "更正式；ironclad 更具體像鐵甲。"
         }
       ]
     },
     "modernUse": [
-      "<code>ironclad</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>ironclad contract</code>、<code>ironclad proof</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「穩固」，<code>Solid</code> 也許夠用；但當你需要的是更具體的「硬到幾乎挑不出破口」，<code>ironclad</code> 會更準。"
+      "<code>Ironclad</code> 常用於 argument、proof、contract、guarantee。",
+      "它語氣很滿，不要拿來形容普通 good evidence。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ironclad 整理成「嚴密無破口」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/ironclad",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 ironclad 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/ironclad",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "solid",
       "proof",
       "contract",
-      "adjective",
-      "ironclad"
+      "ironclad",
+      "adjective"
     ]
   },
   "sourceAudit": [

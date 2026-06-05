@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>earnest</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「真誠而認真」。",
+    "coreIdea": "<code>earnest</code> 是真心認真，沒有把事情當表演或玩笑。它比 serious 多一點溫度。",
     "definition": {
-      "summary": "形容真誠而認真的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人、努力、談話或態度真誠而認真，帶有投入感，不敷衍。",
       "contrast": {
         "word": "Serious",
         "note": "<code>serious</code> 是嚴肅；<code>earnest</code> 多了真心投入的溫度。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>earnest</code> 可以先記成一個畫面：在乎某事，接著不裝樣子，最後認真投入。",
-      "explanation": "這個畫面只用來幫你抓住「真誠而認真」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>earnest</code> 想成 retrospective 裡真的願意承認問題的人。",
+      "explanation": "那不是漂亮話，而是想讓下一次變好。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "一場 earnest retrospective 不是找漂亮話，而是真的想讓下一次更好。"
+        "label": "回顧",
+        "body": "一場 <code>earnest</code> retrospective 不是找漂亮話，而是真的想讓下一次更好。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>earnest</code> 和 <code>earnest effort</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "對話",
+        "body": "An earnest conversation can be uncomfortable because people stop hiding behind jokes。"
+      },
+      {
+        "label": "開始",
+        "body": "<code>In earnest</code> 表示事情真正開始認真進行。"
       }
     ],
     "collocations": {
-      "note": "<code>earnest</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「真誠而認真」落地。",
+      "note": "earnest 常接 effort、conversation、in earnest。搭配裡都有真心投入、開始動真格的感覺。",
       "items": [
         {
           "phrase": "earnest effort",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「真誠而認真」有明確對象。"
+          "register": "正式 / 日常",
+          "note": "真心投入的努力，不是做樣子。"
         },
         {
           "phrase": "earnest conversation",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "人際 / 職場",
+          "note": "認真且真誠的談話。"
         },
         {
           "phrase": "in earnest",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "固定片語",
+          "note": "正式開始、認真地開始。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "真誠而認真的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在想強調真心投入、不是敷衍或表演時。"
       },
       "others": [
         {
           "word": "Serious",
-          "meaning": "<code>serious</code> 是嚴肅；<code>earnest</code> 多了真心投入的溫度。",
-          "use": "如果句子只需要 serious 的普通意思，就保留那個較簡單的字。"
+          "meaning": "嚴肅、認真",
+          "use": "可冷、可正式；earnest 更真心。"
+        },
+        {
+          "word": "Sincere",
+          "meaning": "真誠",
+          "use": "重不假；earnest 還包含認真投入。"
+        },
+        {
+          "word": "Grave",
+          "meaning": "嚴重、凝重",
+          "use": "語氣更沉重。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>earnest</code> 常把一段觀察收斂成可討論的判斷。一場 earnest retrospective 不是找漂亮話，而是真的想讓下一次更好。",
-      "像 <code>earnest effort</code>、<code>earnest conversation</code>、<code>in earnest</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Earnest</code> 在現代英文裡常帶一點老派但可愛的真誠感。它可以稱讚，也可能輕微暗示不夠世故。",
+      "用在團隊文化時，它是好字：earnest effort 比 performative concern 更值得信任。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 earnest 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 earnest 整理成「真誠而認真的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/earnest",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "詞史帶有認真、熱切的力量；現代語氣常比 serious 更有人味。",
-      "memoryLens": "記憶時先抓「真誠而認真的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "詞史裡的認真力量可當背景；現代記成真心動真格。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "serious",
       "effort",
       "conversation",
-      "adjective",
       "adjective"
     ]
   },

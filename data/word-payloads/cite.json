@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>cite</code> 關心的是「引用、舉出或依法提及某個來源」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>cite</code> 把一句主張接回可追查的來源。它不是順口提到，而是指出證據、判例、權威或原始依據。",
     "definition": {
-      "summary": "表示引用、舉出或依法提及某個來源。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示引用、舉出或援引來源、證據、例子、法律或判例。重點是讓主張可以被追查，而不只是順口提到。",
       "contrast": {
         "word": "Quote",
         "note": "<code>quote</code> 多是逐字引用；<code>cite</code> 重點是把來源或依據標出來。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>cite</code> 可以先記成一個畫面：提出主張，接著標出來源，最後讓人可追查。",
-      "explanation": "這個畫面只用來幫你抓住「引用、舉出或依法提及某個來源」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>cite</code> 像 spec 裡那個 section number：它讓讀者知道限制從哪裡來。",
+      "explanation": "引用不是裝飾，而是把話接回可驗證的依據。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "設計文件 cite spec，讀者才能追到限制從哪裡來。"
+        "label": "文件",
+        "body": "設計文件 <code>cite</code> spec，讀者才能追到限制從哪裡來。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>cite</code> 和 <code>cite evidence</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "法律 / 判例",
+        "body": "A court may <code>cite</code> precedent to show that a decision follows earlier reasoning。"
+      },
+      {
+        "label": "研究",
+        "body": "<code>Cite evidence</code> 不一定逐字 quote；重點是把證據來源標出來。"
       }
     ],
     "collocations": {
-      "note": "<code>cite</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「引用、舉出或依法提及某個來源」落地。",
+      "note": "cite 的對象通常是可追查的東西：source、evidence、precedent、example。搭配越清楚，句子越有責任感。",
       "items": [
         {
           "phrase": "cite evidence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「引用、舉出或依法提及某個來源」有明確對象。"
+          "register": "研究 / 辯論 / 報告",
+          "note": "用證據支撐主張，而不是只表示意見。"
         },
         {
           "phrase": "cite a source",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "學術 / 文件",
+          "note": "把資訊來源標明，讓讀者可以檢查。"
         },
         {
           "phrase": "cite precedent",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "法律",
+          "note": "援引過去判例或先例，讓現在的判斷有法律脈絡。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "引用、舉出或依法提及某個來源",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在主張需要接上可追查來源、證據或權威時。"
       },
       "others": [
         {
           "word": "Quote",
-          "meaning": "<code>quote</code> 多是逐字引用；<code>cite</code> 重點是把來源或依據標出來。",
-          "use": "如果句子只需要 quote 的普通意思，就保留那個較簡單的字。"
+          "meaning": "逐字引用",
+          "use": "要保留原文句子時，用 <code>quote</code>。"
+        },
+        {
+          "word": "Mention",
+          "meaning": "提到",
+          "use": "只是帶過某人某事，不一定提供依據。"
+        },
+        {
+          "word": "Reference",
+          "meaning": "參照、提及來源",
+          "use": "範圍較廣，可名詞可動詞；cite 的依據感更強。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>cite</code> 常把一段觀察收斂成可討論的判斷。設計文件 cite spec，讀者才能追到限制從哪裡來。",
-      "像 <code>cite evidence</code>、<code>cite a source</code>、<code>cite precedent</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在技術文件裡，<code>cite</code> 是抗模糊的字。它讓限制、數據或設計選擇有來源，不必靠口耳相傳。",
+      "它也能用在批評：The report cited several failures。這時 cite 不是學術格式，而是舉出具體事例。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 cite 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 cite 整理成「引用、舉出或依法提及某個來源」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/cite",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "源自 Latin <code>citare</code>，有召喚、傳喚、引用的方向。",
-      "memoryLens": "記憶時先抓「引用、舉出或依法提及某個來源」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "Latin <code>citare</code> 有召喚、傳喚的方向；現代用法裡，你是在把來源叫到句子旁邊作證。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "quote",
       "evidence",
       "spec",
-      "verb",
       "verb"
     ]
   },

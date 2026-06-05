@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.48"
     },
-    "coreIdea": "<code>indispensable</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「不可或缺的、不能省掉」。",
+    "coreIdea": "<code>indispensable</code> 不是很有幫助，而是少了它，整件事就很難成立。",
     "definition": {
-      "summary": "形容不可或缺的、不能省掉的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容不可或缺、不能省掉的人、工具、條件或能力。",
       "contrast": {
         "word": "Useful",
         "note": "<code>useful</code> 是有幫助；<code>indispensable</code> 是缺了會出問題。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>indispensable</code> 可以先記成一個畫面：目標要成立，接著某元素不可少，最後移除就失效。",
-      "explanation": "這個畫面只用來幫你抓住「不可或缺的、不能省掉」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>indispensable</code> logging 想成 field debug 的眼睛。",
+      "explanation": "現場問題不能靠想像重現；少了它，整個調查會失明。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "可靠的 logging 對 field debug 幾乎 indispensable，因為現場問題不能靠想像重現。"
+        "label": "Field debug",
+        "body": "可靠的 logging 對 field debug 幾乎 <code>indispensable</code>，因為現場問題不能靠想像重現。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>indispensable</code> 和 <code>indispensable tool</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "工具",
+        "body": "An indispensable tool becomes part of how the work is even possible."
+      },
+      {
+        "label": "角色",
+        "body": "An indispensable role is dangerous if no one else can cover it."
       }
     ],
     "collocations": {
-      "note": "<code>indispensable</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「不可或缺的、不能省掉」落地。",
+      "note": "indispensable 常接 tool、role、to。搭配都在測試「能不能省掉」。",
       "items": [
         {
           "phrase": "indispensable tool",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「不可或缺的、不能省掉」有明確對象。"
+          "register": "工作 / 工程",
+          "note": "不可或缺的工具，少了會嚴重影響工作。"
         },
         {
           "phrase": "indispensable role",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "組織",
+          "note": "關鍵角色，可能也代表單點風險。"
         },
         {
           "phrase": "indispensable to",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 通用",
+          "note": "to 後面接它支撐的目標或系統。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "不可或缺的、不能省掉的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在移除後系統、工作或目標會明顯失去成立條件時。"
       },
       "others": [
         {
           "word": "Useful",
-          "meaning": "<code>useful</code> 是有幫助；<code>indispensable</code> 是缺了會出問題。",
-          "use": "如果句子只需要 useful 的普通意思，就保留那個較簡單的字。"
+          "meaning": "有用",
+          "use": "有幫助但可替代。"
+        },
+        {
+          "word": "Essential",
+          "meaning": "必要的",
+          "use": "和 indispensable 接近，較常用。"
+        },
+        {
+          "word": "Critical",
+          "meaning": "關鍵的",
+          "use": "重風險或重要程度。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>indispensable</code> 常把一段觀察收斂成可討論的判斷。可靠的 logging 對 field debug 幾乎 indispensable，因為現場問題不能靠想像重現。",
-      "像 <code>indispensable tool</code>、<code>indispensable role</code>、<code>indispensable to</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Indispensable</code> 是很強的稱讚，也可能是風險訊號。Indispensable person 聽起來厲害，但也代表 bus factor 太低。",
+      "工程設計裡，真正 indispensable 的東西應該被保護、監控，並盡量有替代路徑。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 indispensable 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 indispensable 整理成「不可或缺的、不能省掉的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/indispensable",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 dispense 的分配、免除概念；加上否定後表示不能被免除。",
-      "memoryLens": "記憶時先抓「不可或缺的、不能省掉的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "不能被免除的字源方向很貼切；indispensable 是不能省。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "useful",
       "tool",
       "role",
-      "adjective",
       "adjective"
     ]
   },

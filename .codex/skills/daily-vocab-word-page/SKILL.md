@@ -35,10 +35,11 @@ Default to Payload Mode: prepare one reusable JSON payload shaped like the seman
 4. Format `page.pronunciation` as `ih-FEM-er-uhl · UK /.../ · US /.../`. Do not include the literal labels `Respelling`, `UK IPA`, or `US IPA`.
 5. Prefer plain text values with light inline HTML such as `<code>` only where the learning object benefits from it.
 6. Keep prose concept-first and reading-oriented. Do not write study-script lines such as `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
-7. Let the word decide the emphasis. `usage`, `collocations.items`, `neighbors.others`, and `modernUse` are containers, not quotas.
-8. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
-9. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
-10. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run sync scripts, start a server, or parse existing word page HTML in this mode.
+7. Do not satisfy validation by appending standardized Chinese tails to English examples. Avoid usage-body endings like `（情境｜用在...）`, `這句要讀成`, `焦點落在`, `例句示範的是`, or `核心就是`. If a usage body is a natural English example, the Chinese learning context may live in the usage `label` or nearby prose.
+8. Let the word decide the emphasis. `usage`, `collocations.items`, `neighbors.others`, and `modernUse` are containers, not quotas.
+9. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
+10. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
+11. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run sync scripts, start a server, or parse existing word page HTML in this mode.
 
 ## Render Mode
 
@@ -74,6 +75,8 @@ When asking LLM mode to create payloads:
 - Use collocations as usage anchors and neighbors as confusion boundaries.
 - Keep source notes factual and mnemonic images clearly separate from history.
 - The final artifact still has to be a valid payload JSON because the renderer and validators need semantic structure, but that structure is not a prose template.
+- For batches, pause and rewrite by word if repeated connector phrases start appearing. Batch speed must not be paid for with prose templates.
+- Treat `scripts/realign_formulaic_payloads.py` as deprecated historical repair tooling; do not use it for new content generation.
 
 You can print the local guidance with:
 
@@ -113,3 +116,4 @@ data/word-payloads/abstain.json
 - If you do not have real origin information, omit `page.origin` instead of filling the section with meta guidance or mnemonic-only prose.
 - Source notes should be transparent but unobtrusive.
 - Treat memory hooks as learning aids, not historical claims.
+- Usage cards are validated at the card level (`label + body`). Do not force every `body` to contain Chinese if that creates artificial endings; keep examples natural and let labels carry compact Chinese context when appropriate.

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>neutral</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「中立的、不帶偏向」。",
+    "coreIdea": "<code>neutral</code> 不是不在乎，而是不把語氣、位置或系統推向任何一邊。",
     "definition": {
-      "summary": "形容中立的、不帶偏向的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容立場、語言、顏色、效果或狀態中立，不偏向特定一方。",
       "contrast": {
         "word": "Indifferent",
         "note": "<code>indifferent</code> 是不在乎；<code>neutral</code> 是站位不偏，仍可能很關心結果。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>neutral</code> 可以先記成一個畫面：多方存在，接著不偏任何一方，最後保持可被信任。",
-      "explanation": "這個畫面只用來幫你抓住「中立的、不帶偏向」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>neutral</code> language 想成 incident report 先讓證據站出來，而不是先把人推到防衛位置。",
+      "explanation": "中立不是冷淡，是保留信任。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "incident report 用 neutral language，能降低防衛心，讓證據先說話。"
+        "label": "報告",
+        "body": "incident report 用 <code>neutral</code> language，能降低防衛心，讓證據先說話。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>neutral</code> 和 <code>neutral language</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "立場",
+        "body": "A neutral position can still care about the outcome; it just does not favor a side."
+      },
+      {
+        "label": "環境",
+        "body": "Carbon"
       }
     ],
     "collocations": {
-      "note": "<code>neutral</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「中立的、不帶偏向」落地。",
+      "note": "neutral 常接 language、position、carbon。搭配會分辨是語氣中立、立場中立，還是碳平衡。",
       "items": [
         {
           "phrase": "neutral language",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「中立的、不帶偏向」有明確對象。"
+          "register": "文件 / 調查",
+          "note": "不帶責備或偏見的語言。"
         },
         {
           "phrase": "neutral position",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "政治 / 人際",
+          "note": "不偏向任一方的位置。"
         },
         {
           "phrase": "carbon neutral",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "環境 / 商務",
+          "note": "碳排放透過減量或抵換達到平衡。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "中立的、不帶偏向的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在不偏向任一方，或效果被平衡掉時。"
       },
       "others": [
         {
           "word": "Indifferent",
-          "meaning": "<code>indifferent</code> 是不在乎；<code>neutral</code> 是站位不偏，仍可能很關心結果。",
-          "use": "如果句子只需要 indifferent 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不在乎",
+          "use": "重缺乏關心；neutral 可以很關心但不偏。"
+        },
+        {
+          "word": "Impartial",
+          "meaning": "公正不偏",
+          "use": "重判斷過程。"
+        },
+        {
+          "word": "Objective",
+          "meaning": "客觀",
+          "use": "重可被外部證據檢查。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>neutral</code> 常把一段觀察收斂成可討論的判斷。incident report 用 neutral language，能降低防衛心，讓證據先說話。",
-      "像 <code>neutral language</code>、<code>neutral position</code>、<code>carbon neutral</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Neutral</code> 在寫 incident 和 review 時很重要。中立語言能讓討論先處理系統，而不是先處理面子。",
+      "但 neutral 不等於沒價值判斷；你仍可以中立描述一個很嚴重的事。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 neutral 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 neutral 整理成「中立的、不帶偏向的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/neutral",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>neuter</code>，意思接近「兩者都不是」。",
-      "memoryLens": "記憶時先抓「中立的、不帶偏向的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "neuter 的「兩者都不是」提供方向；neutral 是不站到任一邊。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "language",
       "position",
       "fairness",
-      "adjective",
       "adjective"
     ]
   },

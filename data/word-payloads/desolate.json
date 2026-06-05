@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.82"
     },
-    "coreIdea": "<code>desolate</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「荒涼空掉」這層氣質。",
+    "coreIdea": "<code>desolate</code> 是空到冷的狀態；可以是地方荒涼，也可以是人心被掏空。",
     "definition": {
-      "summary": "表示荒蕪、淒涼，或情感上感到被掏空。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
+      "summary": "形容地方荒蕪淒涼，或人因失落而孤絕、悲涼。",
       "contrast": {
         "word": "Lonely",
-        "note": "<code>Lonely</code> 比較像基礎說法；<code>desolate</code> 常用來把那層更具體的「荒涼空掉」拉到前景。"
+        "note": "<code>lonely</code> 是孤單；<code>desolate</code> 像孤單擴散成一整片荒地。"
       },
       "flow": [
-        "先有一個場面本身已經帶著某種性格",
-        "這個形容詞把那層「荒涼空掉」清楚地壓到前景",
-        "結果不是多一個修飾，而是整個觀感都被重新定調"
+        "人或地方失去陪伴與支撐",
+        "空曠感變得刺人",
+        "悲涼成為主色"
       ]
     },
     "memory": {
-      "hook": "<code>desolate</code> 的畫面是：像風穿過空屋，不是沒聲音，而是每一聲都顯得更空。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「安靜到只剩荒涼」看成一個會發生的場面。"
+      "hook": "把 <code>desolate street</code> 想成不是人少，而是安靜到像生活撤走了。",
+      "explanation": "desolate 的空有情緒溫度。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其單背形容詞意思，不如記 <code>desolate landscape</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
+        "label": "景色",
+        "body": "A <code>desolate</code> landscape makes distance feel heavier than space alone."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 情緒 / 日常 裡，<code>feel desolate</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
+        "label": "感受",
+        "body": "After"
       },
       {
-        "label": "延伸版",
-        "body": "到了 新聞 / 描寫 場景時，<code>desolate street</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
+        "label": "街道",
+        "body": "The desolate street made the outage feel larger than the failed lights."
       }
     ],
     "collocations": {
-      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
+      "note": "desolate 常修飾 landscape、street，也可用 feel desolate；搭配在外在空曠和內在孤絕間移動。",
       "items": [
         {
           "phrase": "desolate landscape",
-          "register": "敘事 / 場景",
-          "note": "這個搭配會讓「荒涼空掉」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "文學 / 地理",
+          "note": "荒涼景色。"
         },
         {
           "phrase": "feel desolate",
-          "register": "情緒 / 日常",
-          "note": "在 情緒 / 日常 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "情緒 / 敘事",
+          "note": "感到孤絕悲涼。"
         },
         {
           "phrase": "desolate street",
-          "register": "新聞 / 描寫",
-          "note": "如果你想把這個字用穩，從 新聞 / 描寫 常見的這個搭配進場通常最自然。"
+          "register": "敘事 / 場景",
+          "note": "空寂荒涼的街道。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "荒涼空掉",
-        "use": "當你要強調整體帶著「安靜到只剩荒涼」這種質地，而不只是 孤單 時"
+        "use": "用在空、冷、孤絕的感覺主導整個場景或心境時。"
       },
       "others": [
         {
           "word": "Lonely",
           "meaning": "孤單",
-          "use": "當句子只需要 孤單 這個中性描述，不必把「安靜到只剩荒涼」這種氣質壓到前景時"
+          "use": "多指人；<code>desolate</code> 可形容地方，也更荒涼沉重。"
+        },
+        {
+          "word": "Bleak",
+          "meaning": "陰冷無望",
+          "use": "和 desolate 接近；bleak 更重前景黯淡。"
         }
       ]
     },
     "modernUse": [
-      "現在的 <code>desolate</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「荒涼空掉」這個角度重新看待眼前的對象。",
-      "所以它和 <code>Lonely</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
+      "<code>Desolate</code> 不是 empty 的華麗版；它讓空間帶上悲涼。",
+      "寫人時它比 lonely 更重，常有失去或被拋下的背景。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 desolate 整理成「荒涼空掉」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/desolate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 desolate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/desolate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "lonely",
       "landscape",
       "emotion",
-      "adjective",
-      "desolate"
+      "desolate",
+      "adjective"
     ]
   },
   "sourceAudit": [

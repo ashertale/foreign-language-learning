@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.46"
     },
-    "coreIdea": "<code>bereft</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「失去依靠」這層氣質。",
+    "coreIdea": "<code>bereft</code> 裡有被拿走後留下的空位；它常不只是缺少，而是缺到人或場景失去支撐。",
     "definition": {
-      "summary": "表示被奪走、失去依托，常帶有空缺與哀傷感。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
+      "summary": "形容失去某人、某種支持、希望或必要元素後顯得空落、無依。",
       "contrast": {
         "word": "Deprived",
-        "note": "<code>Deprived</code> 比較像基礎說法；<code>bereft</code> 常用來把那層更具體的「失去依靠」拉到前景。"
+        "note": "<code>deprived</code> 說被剝奪；<code>bereft</code> 更像剝奪之後，空位還在那裡疼。"
       },
       "flow": [
-        "先有一個場面本身已經帶著某種性格",
-        "這個形容詞把那層「失去依靠」清楚地壓到前景",
-        "結果不是多一個修飾，而是整個觀感都被重新定調"
+        "重要支撐被拿走",
+        "留下可感的空缺",
+        "人或場景因此失去安定"
       ]
     },
     "memory": {
-      "hook": "<code>bereft</code> 的畫面是：像屋裡最穩定的那盞燈忽然熄掉，空間瞬間變得很大也很冷。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「失去了原本很重要的依靠」看成一個會發生的場面。"
+      "hook": "把 <code>bereft of support</code> 想成一個模組被拔掉所有 maintainer，只剩 issue 不斷堆高。",
+      "explanation": "缺少的是支撐，不是小配件。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其單背形容詞意思，不如記 <code>bereft of hope</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
+        "label": "希望",
+        "body": "A plan <code>bereft</code> of hope feels technically possible but emotionally abandoned."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 新聞 / 人際 裡，<code>bereft family</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
+        "label": "家庭",
+        "body": "A"
       },
       {
-        "label": "延伸版",
-        "body": "到了 組織 / 協作 場景時，<code>bereft of support</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
+        "label": "支援",
+        "body": "A team bereft of support can keep moving for a while, but the cost shows quickly."
       }
     ],
     "collocations": {
-      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
+      "note": "bereft 常接 of hope、of support，也常直接修飾 family、community、person。",
       "items": [
         {
           "phrase": "bereft of hope",
-          "register": "情緒 / 敘事",
-          "note": "這個搭配會讓「失去依靠」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "文學 / 反思",
+          "note": "失去希望，語氣沉。"
         },
         {
           "phrase": "bereft family",
           "register": "新聞 / 人際",
-          "note": "在 新聞 / 人際 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "note": "喪失親人後的家庭。"
         },
         {
           "phrase": "bereft of support",
-          "register": "組織 / 協作",
-          "note": "如果你想把這個字用穩，從 組織 / 協作 常見的這個搭配進場通常最自然。"
+          "register": "工作 / 社會",
+          "note": "沒有支援，帶無依感。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "失去依靠",
-        "use": "當你要強調整體帶著「失去了原本很重要的依靠」這種質地，而不只是 被剝奪 時"
+        "use": "用在缺少某物造成明顯空洞、哀傷或無依感時。"
       },
       "others": [
         {
           "word": "Deprived",
           "meaning": "被剝奪",
-          "use": "當句子只需要 被剝奪 這個中性描述，不必把「失去了原本很重要的依靠」這種氣質壓到前景時"
+          "use": "偏條件或權利不足；<code>bereft</code> 情感空缺更強。"
+        },
+        {
+          "word": "Without",
+          "meaning": "沒有",
+          "use": "中性；<code>bereft</code> 帶被奪走後的失落。"
         }
       ]
     },
     "modernUse": [
-      "現在的 <code>bereft</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「失去依靠」這個角度重新看待眼前的對象。",
-      "所以它和 <code>Deprived</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
+      "<code>Bereft</code> 比 without 重很多，不適合用在少一支筆那種小缺口。",
+      "它也可用於抽象場景，例如 bereft of context，表示少了某個使理解站得住的東西。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 bereft 整理成「失去依靠」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/bereft",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 bereft 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/bereft",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "deprived",
       "loss",
       "support",
-      "adjective",
-      "bereft"
+      "bereft",
+      "adjective"
     ]
   },
   "sourceAudit": [

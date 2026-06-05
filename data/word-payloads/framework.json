@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "4.03"
     },
-    "coreIdea": "<code>framework</code> 把「框架、結構或思考架構」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>framework</code> 不是答案，而是讓答案能被放進來、比較、重用的骨架。",
     "definition": {
-      "summary": "指框架、結構或思考架構。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指框架、架構或思考模型，可用於軟體、決策、分析、政策或學習。",
       "contrast": {
         "word": "Tool",
         "note": "<code>tool</code> 是工具；<code>framework</code> 是組織工具與判斷的架構。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>framework</code> 可以先記成一個畫面：建立骨架，接著放入細節，最後形成可重用方式。",
-      "explanation": "這個畫面只用來幫你抓住「框架、結構或思考架構」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>framework</code> 想成 debug 時那組固定問題：現象在哪裡、何時開始、如何重現、哪個假設可測。",
+      "explanation": "它不替你回答，但讓你知道下一步該問什麼。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "好的 debug framework 讓新人知道下一步該問什麼，而不是背別人的解法。"
+        "label": "Debug",
+        "body": "好的 debug <code>framework</code> 讓新人知道下一步該問什麼，而不是背別人的解法。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>framework</code> 和 <code>decision framework</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "決策",
+        "body": "A decision framework makes trade-offs visible before opinions harden."
+      },
+      {
+        "label": "軟體",
+        "body": "A software framework gives structure, but it also brings assumptions you must live with."
       }
     ],
     "collocations": {
-      "note": "<code>framework</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「框架、結構或思考架構」落地。",
+      "note": "framework 常接 decision、software、analytical。搭配會說明這副骨架服務的是判斷、程式，還是分析。",
       "items": [
         {
           "phrase": "decision framework",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「框架、結構或思考架構」有明確對象。"
+          "register": "管理 / 設計",
+          "note": "幫助比較選項和取捨的判斷框架。"
         },
         {
           "phrase": "software framework",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "軟體",
+          "note": "提供程式架構與常用功能的框架。"
         },
         {
           "phrase": "analytical framework",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "研究 / 分析",
+          "note": "組織分析問題的概念架構。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "框架、結構或思考架構",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在需要一副可重用骨架來組織問題、工具或判斷時。"
       },
       "others": [
         {
           "word": "Tool",
-          "meaning": "<code>tool</code> 是工具；<code>framework</code> 是組織工具與判斷的架構。",
-          "use": "如果句子只需要 tool 的普通意思，就保留那個較簡單的字。"
+          "meaning": "工具",
+          "use": "用來做特定事；framework 組織一整套做事方式。"
+        },
+        {
+          "word": "Model",
+          "meaning": "模型",
+          "use": "對現實的抽象；framework 可包含多個模型和步驟。"
+        },
+        {
+          "word": "Structure",
+          "meaning": "結構",
+          "use": "更廣，可物理可抽象。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>framework</code> 常把一段觀察收斂成可討論的判斷。好的 debug framework 讓新人知道下一步該問什麼，而不是背別人的解法。",
-      "像 <code>decision framework</code>、<code>software framework</code>、<code>analytical framework</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Framework</code> 容易被說空，但好的 framework 會讓下一步更清楚。它應該減少迷路，而不是增加術語。",
+      "軟體 framework 也不是免費：它給你速度，同時也把某些設計選擇預先替你做掉。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 framework 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 framework 整理成「框架、結構或思考架構」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/framework",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 frame 與 work 組合；畫面是一個能支撐工作的框。",
-      "memoryLens": "記憶時先抓「框架、結構或思考架構」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "frame + work 的畫面很清楚：支撐工作的一個框。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "tool",
       "thinking",
       "software",
-      "noun",
       "noun"
     ]
   },

@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.62"
     },
-    "coreIdea": "<code>condone</code> 常用在句子需要把動作往「明知有問題卻放過」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>condone</code> 最危險的地方是安靜：你沒有大聲支持，但你的放過可能等於默許。",
     "definition": {
-      "summary": "表示縱容、默許錯誤行為或不當做法。這個字常不是在描述機械動作，而是在說事情怎麼往「明知有問題卻放過」這個方向走。",
+      "summary": "表示縱容、寬恕或默許錯誤、不當行為。",
       "contrast": {
         "word": "Excuse",
-        "note": "<code>Excuse</code> 可以只是在說「替錯誤找理由」；換成 <code>condone</code>，句子通常是在補上「明知有問題卻放過」這層更具體的意思。"
+        "note": "<code>excuse</code> 可能只是替一次錯找理由；<code>condone</code> 是讓那種錯站在可接受區。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「明知有問題卻放過」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "錯誤行為出現",
+        "旁人選擇放過或不處理",
+        "默許感開始形成"
       ]
     },
     "memory": {
-      "hook": "<code>condone</code> 的畫面是：像看見裂縫卻把布蓋上，表面安靜了，但問題其實被放過了。",
-      "explanation": "這個畫面有用，因為它把 condone 從翻譯拉回場面：你先看到「拿布蓋住裂縫」，再比較容易記住它其實在說「明知有問題卻放過」。"
+      "hook": "把 <code>refuse to condone</code> 想成你不只是不喜歡，而是明確說這條線不能被放過。",
+      "explanation": "condone 關心的是容忍會不會變成許可。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>condone misconduct</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「明知有問題卻放過」收過去。"
+        "label": "不當行為",
+        "body": "A policy that ignores repeated abuse may effectively <code>condone</code> misconduct."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 教育 / 規範 裡，<code>condone the behavior</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「明知道有問題卻選擇不阻止」。"
+        "label": "行為",
+        "body": "To condone the behavior is to let it remain inside the acceptable boundary."
       },
       {
-        "label": "延伸版",
-        "body": "到了 公共 / 評論 的場景，<code>refuse to condone</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「替錯誤找理由」跟更具體的「明知有問題卻放過」差在哪。"
+        "label": "拒絕",
+        "body": "Refusing to condone a shortcut matters when the shortcut saves time but damages trust."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "condone 常接 misconduct、behavior，或放在 refuse to condone 中；搭配都和道德或規範邊界有關。",
       "items": [
         {
           "phrase": "condone misconduct",
-          "register": "職場 / 倫理",
-          "note": "這個搭配常出現在需要把事情往「明知有問題卻放過」講清楚的句子裡。"
+          "register": "職場 / 法規",
+          "note": "縱容不當行為。"
         },
         {
           "phrase": "condone the behavior",
-          "register": "教育 / 規範",
-          "note": "放到 教育 / 規範 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "日常 / 組織",
+          "note": "默許該行為。"
         },
         {
           "phrase": "refuse to condone",
-          "register": "公共 / 評論",
-          "note": "在 公共 / 評論 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "正式 / 聲明",
+          "note": "拒絕縱容。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "明知有問題卻放過",
-        "use": "當你要把事情說成「明知道有問題卻選擇不阻止」而不只是 替錯誤找理由 時"
+        "use": "用在你要指出某種容忍會讓錯誤被視為可接受時。"
       },
       "others": [
         {
           "word": "Excuse",
-          "meaning": "替錯誤找理由",
-          "use": "當句子只需要 替錯誤找理由 這個動作，不必補上「明知道有問題卻選擇不阻止」那層走向時"
+          "meaning": "原諒、找理由",
+          "use": "可指替錯誤開脫；<code>condone</code> 更像允許它繼續存在。"
+        },
+        {
+          "word": "Approve",
+          "meaning": "批准、認可",
+          "use": "明確同意；<code>condone</code> 可是沉默的默許。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>condone</code> 常出現在 <code>condone misconduct</code>、<code>condone the behavior</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「明知有問題卻放過」這個方向收緊。",
-      "如果一句話只想表達比較平的「替錯誤找理由」，<code>Excuse</code> 往往就夠了；但當語境需要那層更具體的「明知道有問題卻選擇不阻止」，<code>condone</code> 會更準。"
+      "<code>Condone</code> 常出現在否定句：we do not condone...，因為它是劃清界線的字。",
+      "它很適合談文化和治理：what you tolerate, you teach."
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 condone 整理成「明知有問題卻放過」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/condone",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 condone 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/condone",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "excuse",
       "ethics",
       "behavior",
-      "verb",
-      "condone"
+      "condone",
+      "verb"
     ]
   },
   "sourceAudit": [

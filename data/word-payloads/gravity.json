@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>gravity</code> 把「重力、嚴重性或莊重感」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>gravity</code> 除了物理引力，也能表示一件事沉甸甸的嚴重性，讓人的態度自然變得更慎重。",
     "definition": {
-      "summary": "指重力、嚴重性或莊重感。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "可指重力、引力，也可指嚴重性、莊重感或道德重量。",
       "contrast": {
         "word": "Seriousness",
         "note": "<code>seriousness</code> 是嚴肅程度；<code>gravity</code> 像重量一樣壓下來。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>gravity</code> 可以先記成一個畫面：事件發生，接著後果有重量，最後態度必須變沉。",
-      "explanation": "這個畫面只用來幫你抓住「重力、嚴重性或莊重感」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>gravity</code> 想成資安外洩後，整個房間的語氣突然變重。",
+      "explanation": "問題不只是 bug，而是信任被拉下來。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "資安外洩的 gravity 在於信任被破壞，不只是修一個 bug。"
+        "label": "資安",
+        "body": "資安外洩的 <code>gravity</code> 在於信任被破壞，不只是修一個 bug。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>gravity</code> 和 <code>gravity of the situation</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "情勢",
+        "body": "The gravity of the situation becomes clear when rollback is no longer enough."
+      },
+      {
+        "label": "策略",
+        "body": "Center of gravity is the point a system or campaign turns around."
       }
     ],
     "collocations": {
-      "note": "<code>gravity</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「重力、嚴重性或莊重感」落地。",
+      "note": "gravity 的搭配會在嚴重性、物理和策略之間切換：situation、center、moral。",
       "items": [
         {
           "phrase": "gravity of the situation",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「重力、嚴重性或莊重感」有明確對象。"
+          "register": "正式 / 風險",
+          "note": "情勢的嚴重性。"
         },
         {
           "phrase": "center of gravity",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "物理 / 策略",
+          "note": "重心；也可比喻力量或注意力中心。"
         },
         {
           "phrase": "moral gravity",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "評論 / 哲學",
+          "note": "道德上的重量與嚴肅性。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "重力、嚴重性或莊重感",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在事情的後果或道德重量讓人不能輕率處理時。"
       },
       "others": [
         {
           "word": "Seriousness",
-          "meaning": "<code>seriousness</code> 是嚴肅程度；<code>gravity</code> 像重量一樣壓下來。",
-          "use": "如果句子只需要 seriousness 的普通意思，就保留那個較簡單的字。"
+          "meaning": "嚴重性",
+          "use": "直接但較普通。"
+        },
+        {
+          "word": "Weight",
+          "meaning": "重量 / 分量",
+          "use": "比喻時和 gravity 接近。"
+        },
+        {
+          "word": "Severity",
+          "meaning": "嚴重程度",
+          "use": "更常用於風險、bug、醫療等分級。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>gravity</code> 常把一段觀察收斂成可討論的判斷。資安外洩的 gravity 在於信任被破壞，不只是修一個 bug。",
-      "像 <code>gravity of the situation</code>、<code>center of gravity</code>、<code>moral gravity</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Gravity</code> 是很好用的正式字，能把嚴重性寫得有重量而不誇張。",
+      "但它不適合小事。若每個問題都有 gravity，真正的大事反而失去語氣。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 gravity 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 gravity 整理成「重力、嚴重性或莊重感」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/gravity",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>gravis</code>「重的、嚴肅的」。",
-      "memoryLens": "記憶時先抓「重力、嚴重性或莊重感」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>gravis</code> 帶著重量與嚴肅；gravity 讓事情不再輕飄，像有重量把它往下壓。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "weight",
       "incident",
       "trust",
-      "noun",
       "noun"
     ]
   },

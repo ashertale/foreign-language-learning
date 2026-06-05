@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>equitable</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「公平、合理，考慮差異後的分配」。",
+    "coreIdea": "<code>equitable</code> 追求的是公平結果，不是機械式一樣。不同起點有時需要不同分配。",
     "definition": {
-      "summary": "形容公平、合理，考慮差異後的分配。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容安排、分配、待遇或機會公平合理，會考慮情境差異，而不只是表面相等。",
       "contrast": {
         "word": "Equal",
         "note": "<code>equal</code> 是相同；<code>equitable</code> 是公平，可能需要不同對待。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>equitable</code> 可以先記成一個畫面：看見差異，接著調整分配，最後結果更公平。",
-      "explanation": "這個畫面只用來幫你抓住「公平、合理，考慮差異後的分配」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>equitable</code> workload 想成不只數 ticket，也看難度、背景和支援成本。",
+      "explanation": "每人數字一樣，結果未必公平。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "equitable workload 不一定每人 ticket 數一樣，而是難度和背景也要算進去。"
+        "label": "工作量",
+        "body": "<code>Equitable</code> workload 不一定每人 ticket 數一樣，而是難度和背景也要算進去。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>equitable</code> 和 <code>equitable access</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "機會",
+        "body": "Equitable access asks whether people can actually use the opportunity, not only whether it exists。"
+      },
+      {
+        "label": "待遇",
+        "body": "Equitable treatment may require accommodations when people face different constraints。"
       }
     ],
     "collocations": {
-      "note": "<code>equitable</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「公平、合理，考慮差異後的分配」落地。",
+      "note": "equitable 常接 access、distribution、treatment。搭配都在處理公平，而不是單純相同。",
       "items": [
         {
           "phrase": "equitable access",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「公平、合理，考慮差異後的分配」有明確對象。"
+          "register": "教育 / 科技 / 政策",
+          "note": "機會不只開放，還要實際可達。"
         },
         {
           "phrase": "equitable distribution",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "資源 / 政策",
+          "note": "依需求和情境合理分配。"
         },
         {
           "phrase": "equitable treatment",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "組織 / 法律",
+          "note": "待遇公平，可能需要考慮差異。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "公平、合理，考慮差異後的分配",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在公平需要考慮差異，而不是只做表面相同分配時。"
       },
       "others": [
         {
           "word": "Equal",
-          "meaning": "<code>equal</code> 是相同；<code>equitable</code> 是公平，可能需要不同對待。",
-          "use": "如果句子只需要 equal 的普通意思，就保留那個較簡單的字。"
+          "meaning": "相等",
+          "use": "每份一樣；equitable 追求合理公平。"
+        },
+        {
+          "word": "Fair",
+          "meaning": "公平",
+          "use": "最通用；equitable 較正式，常有制度或分配感。"
+        },
+        {
+          "word": "Just",
+          "meaning": "公正的",
+          "use": "道德或法律重量更強。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>equitable</code> 常把一段觀察收斂成可討論的判斷。equitable workload 不一定每人 ticket 數一樣，而是難度和背景也要算進去。",
-      "像 <code>equitable access</code>、<code>equitable distribution</code>、<code>equitable treatment</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Equitable</code> 在組織管理裡很重要，因為 equal workload 常常只是懶得看難度。",
+      "這個字也要求透明：如果分配不同，要能說明差異是為了公平，而不是偏袒。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 equitable 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 equitable 整理成「公平、合理，考慮差異後的分配」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/equitable",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "源自 equity 的公平概念；重點是合理，而不只是相等。",
-      "memoryLens": "記憶時先抓「公平、合理，考慮差異後的分配」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "equity 的公平概念是核心；記住它不是 identical。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "equal",
       "access",
       "workload",
-      "adjective",
       "adjective"
     ]
   },

@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.58"
     },
-    "coreIdea": "<code>frenetic</code> 真正抓住的，不是程度高低，而是整體怎麼被「忙到節奏都快失控」這個感覺支配。",
+    "coreIdea": "<code>frenetic</code> 是速度太快、能量太亂的忙；它不是有效率，而是近乎失控的急促。",
     "definition": {
-      "summary": "表示狂亂、急促、忙亂而充滿壓迫感。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容活動、節奏或氣氛狂亂、忙亂、急促而緊張。",
       "contrast": {
         "word": "Hectic",
-        "note": "如果語境只需要比較平的「忙亂」，用 <code>Hectic</code> 往往就夠了；<code>frenetic</code> 則會把「忙到節奏都快失控」講得更明確。"
+        "note": "<code>hectic</code> 是很忙；<code>frenetic</code> 是忙得節奏快到近乎亂。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「忙到節奏都快失控」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "活動速度升高",
+        "多個動作同時發生",
+        "焦躁與失控感浮現"
       ]
     },
     "memory": {
-      "hook": "<code>frenetic</code> 的畫面是：像整排齒輪都在高速咬合，聲音大到讓人分不清哪個先壞。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 frenetic 時，能先抓到「忙到快失控」這個核心，再回頭讀細節。"
+      "hook": "把 <code>frenetic pace</code> 想成每個人都在跑，但沒人確定跑向哪裡。",
+      "explanation": "frenetic 的速度有焦躁感。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>frenetic pace</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「忙到快失控」這層氣質壓到前景。"
+        "label": "節奏",
+        "body": "The <code>frenetic</code> pace made coordination look like progress."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>frenetic trading</code> 放進 市場 / 財務 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "交易",
+        "body": "Frenetic"
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 活動 / 現場 的情境，從 <code>frenetic atmosphere</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "氣氛",
+        "body": "A frenetic atmosphere is loud with motion, not necessarily with purpose."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "frenetic 常修飾 pace、trading、atmosphere；搭配都帶高速與混亂。",
       "items": [
         {
           "phrase": "frenetic pace",
-          "register": "工作 / 節奏",
-          "note": "這個搭配會讓「忙到快失控」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "工作 / 新聞",
+          "note": "狂亂急促的節奏。"
         },
         {
           "phrase": "frenetic trading",
-          "register": "市場 / 財務",
-          "note": "在 市場 / 財務 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "金融 / 市場",
+          "note": "瘋狂交易。"
         },
         {
           "phrase": "frenetic atmosphere",
-          "register": "活動 / 現場",
-          "note": "如果你想把這個字用穩，從 活動 / 現場 常見的這個搭配進場通常最自然。"
+          "register": "敘事 / 活動",
+          "note": "忙亂緊繃的氣氛。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "忙到快失控",
-        "use": "當你要強調整體帶著「忙到節奏都快失控」這種質地，而不只是 忙亂 時"
+        "use": "用在活動量很高，但那種高帶混亂與焦躁，而不是穩定效率時。"
       },
       "others": [
         {
           "word": "Hectic",
           "meaning": "忙亂",
-          "use": "當句子只需要 忙亂 這個中性描述，不必把「忙到節奏都快失控」這種氣質壓到前景時"
+          "use": "常用且較輕；<code>frenetic</code> 更狂、更失控。"
+        },
+        {
+          "word": "Frantic",
+          "meaning": "慌亂",
+          "use": "重恐慌；<code>frenetic</code> 重高速躁動。"
         }
       ]
     },
     "modernUse": [
-      "<code>frenetic</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>frenetic pace</code>、<code>frenetic trading</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「忙亂」，<code>Hectic</code> 也許夠用；但當你需要的是更具體的「忙到節奏都快失控」，<code>frenetic</code> 會更準。"
+      "<code>Frenetic</code> 很適合形容 trading floor、war room、launch week。",
+      "它通常不是讚美；它提醒速度正在吃掉判斷。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 frenetic 整理成「忙到快失控」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/frenetic",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 frenetic 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/frenetic",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "hectic",
       "pace",
       "market",
-      "adjective",
-      "frenetic"
+      "frenetic",
+      "adjective"
     ]
   },
   "sourceAudit": [

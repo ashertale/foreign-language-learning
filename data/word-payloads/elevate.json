@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>elevate</code> 關心的是「提升、抬高或提高重要性」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>elevate</code> 把某事往更高層級抬：優先權、品質、討論層次或注意力都可能被抬上去。",
     "definition": {
-      "summary": "表示提升、抬高或提高重要性。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示提高、提升或抬升某事的層級、品質、地位、重要性或討論水準。",
       "contrast": {
         "word": "Raise",
         "note": "<code>raise</code> 是提高；<code>elevate</code> 常讓語氣、層級或品質變得更高。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>elevate</code> 可以先記成一個畫面：原本在低位，接著被往上帶，最後獲得更高層級。",
-      "explanation": "這個畫面只用來幫你抓住「提升、抬高或提高重要性」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>elevate</code> 想成把 customer impact 從旁註拉到 release priority。",
+      "explanation": "位置變了，後續資源和注意力也會變。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "把 customer impact elevate to priority，代表它不再只是 nice-to-have。"
+        "label": "優先權",
+        "body": "把 customer impact <code>elevate</code> to priority，代表它不再只是 nice-to-have。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>elevate</code> 和 <code>elevate priority</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "標準",
+        "body": "To elevate standards, you must change what gets accepted, not just what gets praised。"
+      },
+      {
+        "label": "討論",
+        "body": "A good question can elevate the discussion from blame to system design。"
       }
     ],
     "collocations": {
-      "note": "<code>elevate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「提升、抬高或提高重要性」落地。",
+      "note": "elevate 常接 priority、standards、discussion。搭配都表示某物被推到更高層次處理。",
       "items": [
         {
           "phrase": "elevate priority",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「提升、抬高或提高重要性」有明確對象。"
+          "register": "管理 / 專案",
+          "note": "提高優先權，讓資源和注意力跟上。"
         },
         {
           "phrase": "elevate standards",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "品質 / 組織",
+          "note": "提高接受門檻或期待水準。"
         },
         {
           "phrase": "elevate the discussion",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "會議 / 寫作",
+          "note": "把討論拉到更有價值或更高層次。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "提升、抬高或提高重要性",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某事被放到更高層級、更高品質或更高注意力位置時。"
       },
       "others": [
         {
           "word": "Raise",
-          "meaning": "<code>raise</code> 是提高；<code>elevate</code> 常讓語氣、層級或品質變得更高。",
-          "use": "如果句子只需要 raise 的普通意思，就保留那個較簡單的字。"
+          "meaning": "提高",
+          "use": "最通用。"
+        },
+        {
+          "word": "Promote",
+          "meaning": "提升、推廣",
+          "use": "可指職位、產品或想法。"
+        },
+        {
+          "word": "Escalate",
+          "meaning": "升級",
+          "use": "常因嚴重度或權限不足而往上處理。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>elevate</code> 常把一段觀察收斂成可討論的判斷。把 customer impact elevate to priority，代表它不再只是 nice-to-have。",
-      "像 <code>elevate priority</code>、<code>elevate standards</code>、<code>elevate the discussion</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Elevate</code> 在職場英文裡比 raise 更有質感，但不要濫用。它最好接真正變高的東西：priority、quality、standards。",
+      "如果只是把事情丟給上級處理，多半是 escalate，不是 elevate。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 elevate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 elevate 整理成「提升、抬高或提高重要性」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/elevate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>elevare</code>，有抬起、減輕的意思。",
-      "memoryLens": "記憶時先抓「提升、抬高或提高重要性」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "抬起的字源畫面很好記；現代用法可抬層級，也可抬品質。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "raise",
       "priority",
       "quality",
-      "verb",
       "verb"
     ]
   },

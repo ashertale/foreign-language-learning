@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.66"
     },
-    "coreIdea": "<code>fervent</code> 用來說某個人、系統或局面帶著「熱烈真摯」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>fervent</code> 是熱而真誠的信念或希望，像內部溫度一直很高。",
     "definition": {
-      "summary": "表示熱烈、真摯、充滿強烈情感的。重點不是程度加強，而是整個對象都帶著「熱烈真摯」這種質地。",
+      "summary": "形容支持、希望、信念或祈願熱烈、真摯、強烈。",
       "contrast": {
         "word": "Passionate",
-        "note": "<code>Passionate</code> 可以只是在說「熱情的」；換成 <code>fervent</code>，句子通常是在補上「熱烈真摯」這層更具體的意思。"
+        "note": "<code>passionate</code> 很廣；<code>fervent</code> 更像一股真摯而持續的熱。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「熱烈真摯」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "信念或希望升高",
+        "情感保持真誠高溫",
+        "行動或語氣被熱度支撐"
       ]
     },
     "memory": {
-      "hook": "<code>fervent</code> 的畫面是：像火爐不是閃一瞬，而是整夜都穩穩發熱。",
-      "explanation": "這個畫面有用，因為它把 fervent 從翻譯拉回場面：你先看到「整夜都穩穩發熱」，再比較容易記住它其實在說「熱烈真摯」。"
+      "hook": "把 <code>fervent hope</code> 想成不是 wish 一下，而是心裡真的用力盼著那件事成真。",
+      "explanation": "fervent 的熱度很真。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>fervent supporter</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「熱情的」，而是整個對象都帶著「熱烈真摯」這種質地。"
+        "label": "支持者",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 情感 / 敘事 裡，<code>fervent hope</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "希望",
+        "body": "Their fervent hope was that the apology would lead to repair, not just headlines."
       },
       {
-        "label": "延伸版",
-        "body": "到了 宗教 / 思想 的場景，<code>fervent belief</code> 很適合用來練邊界：你要講的到底是一般的「熱情的」，還是更具體的「熱烈真摯」。"
+        "label": "信念",
+        "body": "Fervent belief can inspire courage, but it can also resist evidence."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "fervent 常修飾 supporter、hope、belief；搭配都帶真誠熱度。",
       "items": [
         {
           "phrase": "fervent supporter",
-          "register": "公共 / 政治",
-          "note": "這個搭配會讓「熱烈真摯」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "政治 / 社群",
+          "note": "熱烈支持者。"
         },
         {
           "phrase": "fervent hope",
-          "register": "情感 / 敘事",
-          "note": "在 情感 / 敘事 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "正式 / 情感",
+          "note": "熱切希望。"
         },
         {
           "phrase": "fervent belief",
-          "register": "宗教 / 思想",
-          "note": "如果你想把這個字用穩，從 宗教 / 思想 常見的這個搭配進場通常最自然。"
+          "register": "宗教 / 理念",
+          "note": "強烈真摯的信念。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "熱烈真摯",
-        "use": "當你要強調整體帶著「心裡長時間都燒得很亮」這種質地，而不只是 熱情的 時"
+        "use": "用在情感或信念強烈，而且不只是短暫興奮時。"
       },
       "others": [
         {
           "word": "Passionate",
-          "meaning": "熱情的",
-          "use": "當句子只需要 熱情的 這個中性描述，不必把「心裡長時間都燒得很亮」這種氣質壓到前景時"
+          "meaning": "熱情",
+          "use": "更常用、更廣；<code>fervent</code> 較正式，帶信念或祈願。"
+        },
+        {
+          "word": "Ardent",
+          "meaning": "熱切",
+          "use": "很接近；fervent 常有更真摯、近乎祈禱的熱。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>fervent</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「熱烈真摯」這種質地。",
-      "也因此，它和 <code>Passionate</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Fervent</code> 適合希望、祈禱、信仰、支持者，不太適合普通喜好。",
+      "它可正可負：熱度真誠，不代表判斷一定準。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 fervent 整理成「熱烈真摯」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/fervent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 fervent 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/fervent",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "passionate",
       "belief",
       "support",
-      "adjective",
-      "fervent"
+      "fervent",
+      "adjective"
     ]
   },
   "sourceAudit": [

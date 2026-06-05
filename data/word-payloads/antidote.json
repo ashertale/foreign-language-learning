@@ -8,16 +8,16 @@
     "partOfSpeech": "noun",
     "pronunciation": "AN-ti-doht · UK /ˈæn.ti.dəʊt/ · US /ˈæn.t̬i.doʊt/",
     "hero": {
-      "thesis": "不是普通解法，而是專門抵消某種毒性或壞影響的東西。",
+      "thesis": "不是泛泛解法，而是對準某種毒性或壞影響，把它中和掉的東西。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>antidote</code> 把「抵消毒性、風險或負面影響的對抗物」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>antidote</code> 的核心是「對抗」。先有 poison、fear、cynicism、panic 這類會侵蝕人的東西，然後 antidote 出現，用相反力量把它中和。",
     "definition": {
-      "summary": "指抵消毒性、風險或負面影響的對抗物。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "原指解毒劑；延伸可指能抵消某種壞影響、負面情緒或危險傾向的事物。它比 solution 更有針對性，像是專門對付某種毒。",
       "contrast": {
         "word": "Cure",
-        "note": "<code>cure</code> 泛指治好；<code>antidote</code> 更像對準某種毒性去中和。"
+        "note": "<code>cure</code> 泛指治好疾病或問題；<code>antidote</code> 更像對準特定毒性去中和。"
       },
       "flow": [
         "辨認毒性",
@@ -26,71 +26,85 @@
       ]
     },
     "memory": {
-      "hook": "<code>antidote</code> 可以先記成一個畫面：辨認毒性，接著找到對抗物，最後中和影響。",
-      "explanation": "這個畫面只用來幫你抓住「抵消毒性、風險或負面影響的對抗物」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>antidote</code> 是 panic 的反向藥：不是再塞更多資訊，而是給出下一個可執行步驟。",
+      "explanation": "這個字的好處是很有方向性。你不是隨便改善氣氛，而是問：現在真正有毒的是什麼？恐懼、混亂、拖延，還是不信任？"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "對焦慮的 antidote 可能不是更多資訊，而是一個可執行的下一步。"
+        "label": "醫療 / 原義",
+        "body": "An <code>antidote</code> to poison is given to counteract a specific toxic effect; 它不是一般保健品。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>antidote</code> 和 <code>antidote to fear</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "情緒 / 行動",
+        "body": "焦慮的 <code>antidote</code> 有時不是更多資訊，而是一個小而具體的動作；行動會讓腦子有比較安全的東西可以抓住。"
+      },
+      {
+        "label": "團隊文化",
+        "body": "Transparency can be an <code>antidote to rumors</code>: 它不是讓每個人都開心，而是切斷猜測擴散的條件。"
       }
     ],
     "collocations": {
-      "note": "<code>antidote</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「抵消毒性、風險或負面影響的對抗物」落地。",
+      "note": "antidote 常接 <code>to</code>，後面放要被中和的毒性、情緒或社會問題。",
       "items": [
         {
-          "phrase": "antidote to fear",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「抵消毒性、風險或負面影響的對抗物」有明確對象。"
+          "phrase": "an antidote to fear",
+          "register": "評論 / 心理 / 領導",
+          "note": "表示某件事能抵消恐懼的擴散，例如資訊透明、訓練或可行步驟。"
         },
         {
-          "phrase": "effective antidote",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "phrase": "an effective antidote",
+          "register": "醫療 / 評論 / 實務",
+          "note": "強調真的能中和目標問題，不只是聽起來舒服。"
         },
         {
-          "phrase": "cultural antidote",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "phrase": "the antidote to cynicism",
+          "register": "文化 / 組織 / 寫作",
+          "note": "常用在抽象壞影響：犬儒、冷漠、過度悲觀等。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "抵消毒性、風險或負面影響的對抗物",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "對準特定毒性或壞影響的中和物",
+        "use": "當你要說某物不是一般改善，而是專門抵消某種負面力量。"
       },
       "others": [
         {
           "word": "Cure",
-          "meaning": "<code>cure</code> 泛指治好；<code>antidote</code> 更像對準某種毒性去中和。",
-          "use": "如果句子只需要 cure 的普通意思，就保留那個較簡單的字。"
+          "meaning": "治癒疾病或解決問題",
+          "use": "範圍較廣；不一定有毒性與中和的畫面。"
+        },
+        {
+          "word": "Remedy",
+          "meaning": "補救方法或改善措施",
+          "use": "比 antidote 溫和，常用於法律、醫療或一般問題修正。"
+        },
+        {
+          "word": "Solution",
+          "meaning": "解法",
+          "use": "最通用；如果沒有「抵消壞影響」的語感，用 solution 就夠。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>antidote</code> 常把一段觀察收斂成可討論的判斷。對焦慮的 antidote 可能不是更多資訊，而是一個可執行的下一步。",
-      "像 <code>antidote to fear</code>、<code>effective antidote</code>、<code>cultural antidote</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "現代英文裡，<code>antidote</code> 常被拿來寫抽象問題：the antidote to burnout、the antidote to misinformation、the antidote to fear。它讓句子帶有「對症下藥」的感覺。",
+      "但這個字也要求你說清楚 poison 是什麼。若沒有明確壞影響，antidote 會顯得誇張；普通的 improvement 或 solution 反而更自然。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 antidote 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 antidote 整理成「中和特定毒性或壞影響」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/antidote",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 antidote 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 antidote 在醫療原義與抽象延伸中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/antidote",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "源自 Greek <code>antidoton</code>，意思接近「拿來對抗而給出的東西」。",
-      "memoryLens": "記憶時先抓「抵消毒性、風險或負面影響的對抗物」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>antidote</code> 源自 Greek <code>antidoton</code>，意思接近「拿來對抗而給出的東西」。<code>anti-</code> 的 against 感很清楚。",
+      "memoryLens": "記成「given against」。先有毒，再有對抗物；這個順序能幫你分清 antidote 和普通解法。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Antidote",
     "partOfSpeech": "noun",
     "href": "./antidote.html",
-    "thesis": "不是普通解法，而是專門抵消某種毒性或壞影響的東西。",
+    "thesis": "不是泛泛解法，而是對準某種毒性或壞影響，把它中和掉的東西。",
     "tags": [
       "解藥",
-      "抵消",
+      "中和",
       "cure",
+      "remedy",
+      "antidote to fear",
       "risk",
-      "fear",
-      "noun",
+      "culture",
       "noun"
     ]
   },

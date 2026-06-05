@@ -7,6 +7,12 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parents[1]
+DEPRECATED_NOTICE = (
+    "scripts/realign_formulaic_payloads.py is deprecated because it can create "
+    "template-like prose. Prefer hand-authored semantic payloads plus "
+    "scripts/generate_batch_word_pages.py validation. Re-run with --force only "
+    "for intentional legacy repair, then validate and review the rendered pages."
+)
 
 
 def load_payload(path: Path) -> dict[str, Any]:
@@ -477,7 +483,15 @@ def main() -> int:
     )
     parser.add_argument("inputs", nargs="+", type=Path, help="Payload JSON files or manifests")
     parser.add_argument("--check", action="store_true", help="Print touched files without writing")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Allow this deprecated legacy rewrite tool to write payload files.",
+    )
     args = parser.parse_args()
+
+    if not args.check and not args.force:
+        parser.error(DEPRECATED_NOTICE)
 
     payload_paths = resolve_payloads(args.inputs)
     for path in payload_paths:

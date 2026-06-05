@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.52"
     },
-    "coreIdea": "<code>banal</code> 用來說某個人、系統或局面帶著「陳腔濫調」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>banal</code> 不是普通，而是普通到失去味道；句子裡常帶一點失望或嫌棄。",
     "definition": {
-      "summary": "表示陳腔濫調、平庸到乏味。重點不是程度加強，而是整個對象都帶著「陳腔濫調」這種質地。",
+      "summary": "形容想法、台詞、情節或建議陳腐、老套、乏味。",
       "contrast": {
         "word": "Common",
-        "note": "<code>Common</code> 可以只是在說「常見」；換成 <code>banal</code>，句子通常是在補上「陳腔濫調」這層更具體的意思。"
+        "note": "<code>common</code> 可中性；<code>banal</code> 已經在評價它無聊、老套、沒有啟發。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「陳腔濫調」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "內容看似完整",
+        "讀者感到早已聽過",
+        "新意和力量消失"
       ]
     },
     "memory": {
-      "hook": "<code>banal</code> 的畫面是：像牆上貼滿同一句口號，字沒錯，但再也沒人會停下來看。",
-      "explanation": "這個畫面有用，因為它把 banal 從翻譯拉回場面：你先看到「講太多失去力道」，再比較容易記住它其實在說「陳腔濫調」。"
+      "hook": "把 <code>banal advice</code> 想成那種聽完只剩「早就知道了」的建議。",
+      "explanation": "banal 的問題不是錯，而是沒有新鮮感、沒有咬合力。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>banal remark</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「常見」，而是整個對象都帶著「陳腔濫調」這種質地。"
+        "label": "評論",
+        "body": "Calling a plot <code>banal</code> says it follows old moves without making them feel alive."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 影視 / 敘事 裡，<code>banal plot</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "建議",
+        "body": "Banal"
       },
       {
-        "label": "延伸版",
-        "body": "到了 人際 / 對話 的場景，<code>banal advice</code> 很適合用來練邊界：你要講的到底是一般的「常見」，還是更具體的「陳腔濫調」。"
+        "label": "會議",
+        "body": "A banal remark fills airtime without changing anyone's understanding."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "這個字常接 remark、plot、advice、phrase；搭配都指向內容失去新意。",
       "items": [
         {
           "phrase": "banal remark",
-          "register": "寫作 / 評論",
-          "note": "這個搭配會讓「陳腔濫調」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "評論 / 日常",
+          "note": "平庸、無新意的話。"
         },
         {
           "phrase": "banal plot",
-          "register": "影視 / 敘事",
-          "note": "在 影視 / 敘事 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "影評 / 文學",
+          "note": "套路太熟、缺少新鮮轉折的情節。"
         },
         {
           "phrase": "banal advice",
-          "register": "人際 / 對話",
-          "note": "如果你想把這個字用穩，從 人際 / 對話 常見的這個搭配進場通常最自然。"
+          "register": "工作 / 反思",
+          "note": "正確但空泛，對現場問題沒有幫助。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "陳腔濫調",
-        "use": "當你要強調整體帶著「因為講太多次，已經沒有力道也沒有新意」這種質地，而不只是 常見 時"
+        "use": "用在你要指出內容因過度熟悉而失去力量時。"
       },
       "others": [
         {
           "word": "Common",
           "meaning": "常見",
-          "use": "當句子只需要 常見 這個中性描述，不必把「因為講太多次，已經沒有力道也沒有新意」這種氣質壓到前景時"
+          "use": "只是頻率高；<code>banal</code> 帶乏味評價。"
+        },
+        {
+          "word": "Trite",
+          "meaning": "陳腔濫調",
+          "use": "和 banal 接近，常指句子或想法用到發膩。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>banal</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「陳腔濫調」這種質地。",
-      "也因此，它和 <code>Common</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Banal</code> 是批評字，對人說話要小心；它會讓對方覺得你在說內容沒有價值。",
+      "在寫作裡，它提醒你：不是每個真句子都有教學力，太平的句子也會耗掉讀者注意力。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 banal 整理成「陳腔濫調」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/banal",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 banal 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/banal",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "common",
       "writing",
       "creativity",
-      "adjective",
-      "banal"
+      "banal",
+      "adjective"
     ]
   },
   "sourceAudit": [

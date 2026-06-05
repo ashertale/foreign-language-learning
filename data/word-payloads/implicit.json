@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>implicit</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「含蓄的、未明說但可推知」。",
+    "coreIdea": "<code>implicit</code> 不是不存在，而是被折進脈絡、慣例或結構裡，沒有直接說出口。",
     "definition": {
-      "summary": "形容含蓄的、未明說但可推知的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容意義、規則、假設、依賴或同意是隱含的，需靠背景推知，而非明確寫出。",
       "contrast": {
         "word": "Explicit",
         "note": "<code>explicit</code> 是明說；<code>implicit</code> 是靠背景、慣例或結構讓人推到。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>implicit</code> 可以先記成一個畫面：規則未寫出，接著脈絡提供線索，最後讀者自行推知。",
-      "explanation": "這個畫面只用來幫你抓住「含蓄的、未明說但可推知」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>implicit</code> dependency 想成本機能 build，換 CI 才發現原來靠環境默默幫忙。",
+      "explanation": "沒寫出來的關係最會在換場景時露出來。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "implicit dependency 最麻煩：它平常能跑，換環境才突然露出來。"
+        "label": "Build",
+        "body": "<code>Implicit</code> dependency 最麻煩：它平常能跑，換環境才突然露出來。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>implicit</code> 和 <code>implicit assumption</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "假設",
+        "body": "Implicit assumptions are dangerous because no one knows when they are being changed."
+      },
+      {
+        "label": "語意",
+        "body": "Implicit meaning can be clear to insiders and invisible to newcomers."
       }
     ],
     "collocations": {
-      "note": "<code>implicit</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「含蓄的、未明說但可推知」落地。",
+      "note": "implicit 常接 assumption、dependency、meaning。搭配都在處理未明說卻正在發揮作用的東西。",
       "items": [
         {
           "phrase": "implicit assumption",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「含蓄的、未明說但可推知」有明確對象。"
+          "register": "分析 / 溝通",
+          "note": "未說出的前提，常影響判斷。"
         },
         {
           "phrase": "implicit dependency",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "軟體 / build",
+          "note": "未宣告但實際存在的依賴。"
         },
         {
           "phrase": "implicit meaning",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "語言 / 閱讀",
+          "note": "靠脈絡推知的含義。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "含蓄的、未明說但可推知的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某事未明說，但靠脈絡、慣例或結構仍然存在時。"
       },
       "others": [
         {
           "word": "Explicit",
-          "meaning": "<code>explicit</code> 是明說；<code>implicit</code> 是靠背景、慣例或結構讓人推到。",
-          "use": "如果句子只需要 explicit 的普通意思，就保留那個較簡單的字。"
+          "meaning": "明確說出",
+          "use": "反義，清楚寫出或說出。"
+        },
+        {
+          "word": "Hidden",
+          "meaning": "隱藏的",
+          "use": "可能刻意藏起；implicit 不一定刻意。"
+        },
+        {
+          "word": "Tacit",
+          "meaning": "默會的",
+          "use": "靠共同理解存在，常用於知識或同意。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>implicit</code> 常把一段觀察收斂成可討論的判斷。implicit dependency 最麻煩：它平常能跑，換環境才突然露出來。",
-      "像 <code>implicit assumption</code>、<code>implicit dependency</code>、<code>implicit meaning</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Implicit</code> 是工程可維護性的警告字。Implicit dependency、implicit contract、implicit ownership 都會增加新人和工具的負擔。",
+      "有些 implicit knowledge 無法完全避免，但關鍵路徑上的 implicit assumption 應該被寫出來。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 implicit 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 implicit 整理成「含蓄的、未明說但可推知的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/implicit",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>implicare</code>，有折進、纏入的意思；像意義被折在句子裡。",
-      "memoryLens": "記憶時先抓「含蓄的、未明說但可推知的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "折進、纏入的字源畫面很好記：implicit 的意思被折在裡面。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "assumption",
       "dependency",
       "meaning",
-      "adjective",
       "adjective"
     ]
   },

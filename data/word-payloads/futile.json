@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.85"
     },
-    "coreIdea": "<code>futile</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「徒勞無效」這層氣質。",
+    "coreIdea": "<code>futile</code> 是努力碰到一堵不會動的牆；不是你沒努力，而是努力不會改變結果。",
     "definition": {
-      "summary": "表示徒勞、無效、白費力氣。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
+      "summary": "形容徒勞、無效、沒有成功希望的行動或抵抗。",
       "contrast": {
         "word": "Useless",
-        "note": "<code>Useless</code> 比較像基礎說法；<code>futile</code> 常用來把那層更具體的「徒勞無效」拉到前景。"
+        "note": "<code>useless</code> 直接說沒用；<code>futile</code> 讓人看到努力仍撞上無效結局。"
       },
       "flow": [
-        "先有一個場面本身已經帶著某種性格",
-        "這個形容詞把那層「徒勞無效」清楚地壓到前景",
-        "結果不是多一個修飾，而是整個觀感都被重新定調"
+        "目標被設定",
+        "努力投入後缺少有效路徑",
+        "結果仍無法改變"
       ]
     },
     "memory": {
-      "hook": "<code>futile</code> 的畫面是：像用小杯子去擋決堤的水，不是你不努力，而是量級根本不對。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「做了也很難改變結果」看成一個會發生的場面。"
+      "hook": "把 <code>futile attempt</code> 想成腳本重跑十次，但缺的權限一次都不會自己出現。",
+      "explanation": "futile 的痛點在 no path to effect。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其單背形容詞意思，不如記 <code>futile effort</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
+        "label": "努力",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 評論 / 分析 裡，<code>futile attempt</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
+        "label": "嘗試",
+        "body": "It was futile to tune the cache before fixing the invalidation bug."
       },
       {
-        "label": "延伸版",
-        "body": "到了 衝突 / 歷史 場景時，<code>futile resistance</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
+        "label": "抵抗",
+        "body": "Futile resistance sometimes preserves dignity, but not the outcome."
       }
     ],
     "collocations": {
-      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
+      "note": "futile 常修飾 effort、attempt、resistance；搭配都把努力和無效並排。",
       "items": [
         {
           "phrase": "futile effort",
-          "register": "工作 / 執行",
-          "note": "這個搭配會讓「徒勞無效」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "日常 / 正式",
+          "note": "徒勞努力。"
         },
         {
           "phrase": "futile attempt",
-          "register": "評論 / 分析",
-          "note": "在 評論 / 分析 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "工作 / 敘事",
+          "note": "無望嘗試。"
         },
         {
           "phrase": "futile resistance",
-          "register": "衝突 / 歷史",
-          "note": "如果你想把這個字用穩，從 衝突 / 歷史 常見的這個搭配進場通常最自然。"
+          "register": "政治 / 敘事",
+          "note": "徒勞抵抗。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "徒勞無效",
-        "use": "當你要強調整體帶著「做了也很難改變結果」這種質地，而不只是 沒用的 時"
+        "use": "用在行動即使付出努力，也幾乎不可能改變結果時。"
       },
       "others": [
         {
           "word": "Useless",
-          "meaning": "沒用的",
-          "use": "當句子只需要 沒用的 這個中性描述，不必把「做了也很難改變結果」這種氣質壓到前景時"
+          "meaning": "沒用",
+          "use": "口語直接；<code>futile</code> 更正式，常指努力不可能成功。"
+        },
+        {
+          "word": "Pointless",
+          "meaning": "無意義",
+          "use": "重目的缺失；<code>futile</code> 重無法達成結果。"
         }
       ]
     },
     "modernUse": [
-      "現在的 <code>futile</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「徒勞無效」這個角度重新看待眼前的對象。",
-      "所以它和 <code>Useless</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
+      "<code>Futile</code> 很適合做 decision log 的停止理由：continuing is futile because the premise is false.。",
+      "它不是懶惰字，而是結果路徑不存在的判斷。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 futile 整理成「徒勞無效」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/futile",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 futile 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/futile",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "useless",
       "effort",
       "strategy",
-      "adjective",
-      "futile"
+      "futile",
+      "adjective"
     ]
   },
   "sourceAudit": [

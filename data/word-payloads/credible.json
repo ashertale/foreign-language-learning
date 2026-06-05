@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>credible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「可信的、有證據支撐」。",
+    "coreIdea": "<code>credible</code> 不是聽起來順，而是有足夠支撐讓人願意相信。",
     "definition": {
-      "summary": "形容可信的、有證據支撐的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容來源、說法、威脅、解釋或人可信，能承受檢查，不只是表面合理。",
       "contrast": {
         "word": "Plausible",
         "note": "<code>plausible</code> 是聽起來可能；<code>credible</code> 還要能承受信任。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>credible</code> 可以先記成一個畫面：說法出現，接著證據支撐，最後信任成立。",
-      "explanation": "這個畫面只用來幫你抓住「可信的、有證據支撐」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>credible</code> 想成 root cause 後面有 log、實驗和重現步驟。",
+      "explanation": "故事講得漂亮不夠；它要能被查。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "credible root cause 需要能解釋現象，也要能被實驗或資料支持。"
+        "label": "Root cause",
+        "body": "<code>Credible</code> root cause 需要能解釋現象，也要能被實驗或資料支持。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>credible</code> 和 <code>credible source</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "來源",
+        "body": "A credible source has a track record, access, or evidence that makes trust reasonable。"
+      },
+      {
+        "label": "威脅",
+        "body": "A credible threat 不是隨口恐嚇，而是有能力或跡象支撐。"
       }
     ],
     "collocations": {
-      "note": "<code>credible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「可信的、有證據支撐」落地。",
+      "note": "credible 常接 source、threat、explanation。搭配會問同一件事：相信它的理由在哪裡？",
       "items": [
         {
           "phrase": "credible source",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「可信的、有證據支撐」有明確對象。"
+          "register": "新聞 / 研究 / 文件",
+          "note": "來源有可信紀錄、方法或可查證依據。"
         },
         {
           "phrase": "credible threat",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "安全 / 法律",
+          "note": "威脅有實現可能，不只是空話。"
         },
         {
           "phrase": "credible explanation",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "debug / 分析",
+          "note": "解釋能涵蓋證據，也能經得起追問。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "可信的、有證據支撐的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某說法、來源或風險有足夠理由讓人相信時。"
       },
       "others": [
         {
           "word": "Plausible",
-          "meaning": "<code>plausible</code> 是聽起來可能；<code>credible</code> 還要能承受信任。",
-          "use": "如果句子只需要 plausible 的普通意思，就保留那個較簡單的字。"
+          "meaning": "聽起來可能",
+          "use": "可能只是合理；credible 還需要信任支撐。"
+        },
+        {
+          "word": "Reliable",
+          "meaning": "可靠",
+          "use": "偏長期穩定表現；credible 偏當下可相信。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>credible</code> 常把一段觀察收斂成可討論的判斷。credible root cause 需要能解釋現象，也要能被實驗或資料支持。",
-      "像 <code>credible source</code>、<code>credible threat</code>、<code>credible explanation</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Credible</code> 是 incident review 裡的好字。它讓團隊避免把順耳的故事當原因，而是要求 evidence chain。",
+      "在新聞和安全語境中，credible 也常是門檻字：可信不等於確定，但已足以認真處理。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 credible 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 credible 整理成「可信的、有證據支撐的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/credible",
         "label": "Cambridge Dictionary"
       },
@@ -89,8 +98,8 @@
       }
     },
     "origin": {
-      "history": "與 Latin <code>credere</code>「相信」相關；核心就是能不能被信任。",
-      "memoryLens": "記憶時先抓「可信的、有證據支撐的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "與 Latin <code>credere</code>「相信」相關；英文一路保留了「能否被信任」這條線。",
+      "memoryLens": "<code>credere</code> 帶著「相信」的底色；credible 說的是值得被信，不只是說法好聽。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "plausible",
       "source",
       "root cause",
-      "adjective",
       "adjective"
     ]
   },

@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.81"
     },
-    "coreIdea": "<code>infiltrate</code> 常用在句子需要把動作往「悄悄滲入」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>infiltrate</code> 是悄悄滲進去，不是正面闖入；它靠隱蔽、耐心和縫隙。",
     "definition": {
-      "summary": "表示潛入、滲透某個群體、區域或系統。這個字常不是在描述機械動作，而是在說事情怎麼往「悄悄滲入」這個方向走。",
+      "summary": "表示潛入、滲透組織、群體、網路或系統。",
       "contrast": {
         "word": "Invade",
-        "note": "<code>Invade</code> 可以只是在說「入侵」；換成 <code>infiltrate</code>，句子通常是在補上「悄悄滲入」這層更具體的意思。"
+        "note": "<code>invade</code> 像大門被撞開；<code>infiltrate</code> 像水從縫裡滲進來。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「悄悄滲入」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "邊界或防線存在",
+        "進入者隱蔽穿過縫隙",
+        "內部被慢慢滲透"
       ]
     },
     "memory": {
-      "hook": "<code>infiltrate</code> 的畫面是：像雨水不是砸破屋頂，而是先從細縫一滴一滴滲進來。",
-      "explanation": "這個畫面有用，因為它把 infiltrate 從翻譯拉回場面：你先看到「先從細縫一滴滴進來」，再比較容易記住它其實在說「悄悄滲入」。"
+      "hook": "把 <code>infiltrate the network</code> 想成攻擊者不是敲正門，而是從一個被忽略的小入口慢慢進來。",
+      "explanation": "infiltrate 的路徑是 covert entry。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>infiltrate the network</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「悄悄滲入」收過去。"
+        "label": "網路",
+        "body": "Attackers <code>infiltrated</code> the network through an abandoned credential."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 社會 / 組織 裡，<code>infiltrate the group</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「從縫裡慢慢滲入」。"
+        "label": "群體",
+        "body": "The group was infiltrated by someone who gained trust over months."
       },
       {
-        "label": "延伸版",
-        "body": "到了 政治 / 敘事 的場景，<code>infiltrate the system</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「入侵」跟更具體的「悄悄滲入」差在哪。"
+        "label": "系統",
+        "body": "Malicious"
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "infiltrate 常接 network、group、system；搭配都涉及進入本不該進入的內部。",
       "items": [
         {
           "phrase": "infiltrate the network",
-          "register": "工程 / 安全",
-          "note": "這個搭配常出現在需要把事情往「悄悄滲入」講清楚的句子裡。"
+          "register": "資安 / 工程",
+          "note": "滲透網路。"
         },
         {
           "phrase": "infiltrate the group",
-          "register": "社會 / 組織",
-          "note": "放到 社會 / 組織 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "政治 / 社會",
+          "note": "潛入群體。"
         },
         {
           "phrase": "infiltrate the system",
-          "register": "政治 / 敘事",
-          "note": "在 政治 / 敘事 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "工程 / 安全",
+          "note": "滲入系統。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "悄悄滲入",
-        "use": "當你要把事情說成「從縫裡慢慢滲入」而不只是 入侵 時"
+        "use": "用在進入是隱蔽、逐步、違反邊界的時候。"
       },
       "others": [
         {
           "word": "Invade",
           "meaning": "入侵",
-          "use": "當句子只需要 入侵 這個動作，不必補上「從縫裡慢慢滲入」那層走向時"
+          "use": "較正面、明顯；<code>infiltrate</code> 更隱蔽、更慢。"
+        },
+        {
+          "word": "Penetrate",
+          "meaning": "穿透",
+          "use": "可技術或物理；<code>infiltrate</code> 重秘密進入內部。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>infiltrate</code> 常出現在 <code>infiltrate the network</code>、<code>infiltrate the group</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「悄悄滲入」這個方向收緊。",
-      "如果一句話只想表達比較平的「入侵」，<code>Invade</code> 往往就夠了；但當語境需要那層更具體的「從縫裡慢慢滲入」，<code>infiltrate</code> 會更準。"
+      "<code>Infiltrate</code> 對資安非常自然，也常見於政治與間諜語境。",
+      "它不只是 enter；它暗示防線被悄悄越過。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 infiltrate 整理成「悄悄滲入」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/infiltrate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 infiltrate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/infiltrate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "invade",
       "security",
       "systems",
-      "verb",
-      "infiltrate"
+      "infiltrate",
+      "verb"
     ]
   },
   "sourceAudit": [

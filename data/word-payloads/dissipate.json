@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.92"
     },
-    "coreIdea": "<code>dissipate</code> 常用在句子需要把動作往「慢慢散開」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>dissipate</code> 是原本聚在一起的東西慢慢散開，像霧、熱、怒氣或緊張失去密度。",
     "definition": {
-      "summary": "表示雲霧、能量、恐懼或怒氣逐漸消散。這個字常不是在描述機械動作，而是在說事情怎麼往「慢慢散開」這個方向走。",
+      "summary": "表示消散、散去、逐漸消失；也可指浪費、揮霍。",
       "contrast": {
         "word": "Disperse",
-        "note": "<code>Disperse</code> 可以只是在說「散去」；換成 <code>dissipate</code>，句子通常是在補上「慢慢散開」這層更具體的意思。"
+        "note": "<code>disappear</code> 說不見了；<code>dissipate</code> 讓你看到它如何變淡。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「慢慢散開」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "能量或情緒原本聚集",
+        "它開始擴散變薄",
+        "強度逐漸下降"
       ]
     },
     "memory": {
-      "hook": "<code>dissipate</code> 的畫面是：像晨霧不是被切掉，而是被日光一層層推薄。",
-      "explanation": "這個畫面有用，因為它把 dissipate 從翻譯拉回場面：你先看到「日光把霧一層層推薄」，再比較容易記住它其實在說「慢慢散開」。"
+      "hook": "把 <code>dissipate heat</code> 想成熱不是被按掉，而是靠路徑慢慢散到別處。",
+      "explanation": "dissipate 的消失有擴散過程。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>dissipate the tension</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「慢慢散開」收過去。"
+        "label": "緊張",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 工程 / 熱設計 裡，<code>dissipate heat</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「慢慢散開、散淡」。"
+        "label": "熱",
+        "body": "The enclosure must dissipate heat before temperature becomes a reliability issue."
       },
       {
-        "label": "延伸版",
-        "body": "到了 自然 / 描寫 的場景，<code>mist dissipates</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「散去」跟更具體的「慢慢散開」差在哪。"
+        "label": "霧",
+        "body": "Mist dissipates as sunlight and air movement break its density."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "dissipate 常接 tension、heat，也可讓 mist 作主詞；搭配都指向濃度下降。",
       "items": [
         {
           "phrase": "dissipate the tension",
-          "register": "人際 / 溝通",
-          "note": "這個搭配常出現在需要把事情往「慢慢散開」講清楚的句子裡。"
+          "register": "人際 / 管理",
+          "note": "讓緊張慢慢散掉。"
         },
         {
           "phrase": "dissipate heat",
-          "register": "工程 / 熱設計",
-          "note": "放到 工程 / 熱設計 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "工程 / 物理",
+          "note": "散熱。"
         },
         {
           "phrase": "mist dissipates",
-          "register": "自然 / 描寫",
-          "note": "在 自然 / 描寫 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "自然 / 敘事",
+          "note": "霧氣消散。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "慢慢散開",
-        "use": "當你要把事情說成「慢慢散開、散淡」而不只是 散去 時"
+        "use": "用在某種集中能量、情緒或物質逐漸散掉、變弱時。"
       },
       "others": [
         {
           "word": "Disperse",
-          "meaning": "散去",
-          "use": "當句子只需要 散去 這個動作，不必補上「慢慢散開、散淡」那層走向時"
+          "meaning": "散開",
+          "use": "中性、偏分布；<code>dissipate</code> 更常含強度逐漸降低。"
+        },
+        {
+          "word": "Disappear",
+          "meaning": "消失",
+          "use": "只看結果；<code>dissipate</code> 看見散開過程。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>dissipate</code> 常出現在 <code>dissipate the tension</code>、<code>dissipate heat</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「慢慢散開」這個方向收緊。",
-      "如果一句話只想表達比較平的「散去」，<code>Disperse</code> 往往就夠了；但當語境需要那層更具體的「慢慢散開、散淡」，<code>dissipate</code> 會更準。"
+      "工程裡的 heat dissipation 很實用；情緒語境裡 tension dissipates 也非常自然。",
+      "不要把所有 disappear 換成 dissipate；它需要有散開、變薄的畫面。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 dissipate 整理成「慢慢散開」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/dissipate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 dissipate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/dissipate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "disperse",
       "heat",
       "tension",
-      "verb",
-      "dissipate"
+      "dissipate",
+      "verb"
     ]
   },
   "sourceAudit": [

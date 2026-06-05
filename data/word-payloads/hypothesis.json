@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.60"
     },
-    "coreIdea": "<code>hypothesis</code> 把「假說、待驗證的解釋」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>hypothesis</code> 是暫時放在桌上的解釋，等證據來測。它不是結論，而是可被淘汰的候選答案。",
     "definition": {
-      "summary": "指假說、待驗證的解釋。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指假設、假說或暫時解釋，通常應能被測試、驗證或反駁。",
       "contrast": {
         "word": "Conclusion",
         "note": "<code>conclusion</code> 是結論；<code>hypothesis</code> 是先拿來測的解釋。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>hypothesis</code> 可以先記成一個畫面：現象需要解釋，接著提出可測說法，最後用證據淘汰或保留。",
-      "explanation": "這個畫面只用來幫你抓住「假說、待驗證的解釋」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>hypothesis</code> 想成 debug 白板上的第一張便利貼。",
+      "explanation": "它的價值不在於看起來聰明，而在於能不能設計測試。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "debug hypothesis 必須能被測試；不能測的說法只會讓討論原地轉。"
+        "label": "Debug",
+        "body": "debug <code>hypothesis</code> 必須能被測試；不能測的說法只會讓討論原地轉。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>hypothesis</code> 和 <code>test a hypothesis</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "研究",
+        "body": "A"
+      },
+      {
+        "label": "關於",
+        "body": "A hypothesis about timing drift should predict what logs would look like if it were true."
       }
     ],
     "collocations": {
-      "note": "<code>hypothesis</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「假說、待驗證的解釋」落地。",
+      "note": "hypothesis 常接 test、working、about。搭配會提醒你它應該能被證據處理。",
       "items": [
         {
           "phrase": "test a hypothesis",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「假說、待驗證的解釋」有明確對象。"
+          "register": "研究 / debug",
+          "note": "用實驗或證據檢驗假設。"
         },
         {
           "phrase": "working hypothesis",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "研究 / 分析",
+          "note": "暫時採用、方便往下查的假設。"
         },
         {
           "phrase": "hypothesis about",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 學術",
+          "note": "about 後面接假設要解釋的對象。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "假說、待驗證的解釋",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在解釋還未定案，且需要被測試或證據淘汰時。"
       },
       "others": [
         {
           "word": "Conclusion",
-          "meaning": "<code>conclusion</code> 是結論；<code>hypothesis</code> 是先拿來測的解釋。",
-          "use": "如果句子只需要 conclusion 的普通意思，就保留那個較簡單的字。"
+          "meaning": "結論",
+          "use": "已經形成的判斷。"
+        },
+        {
+          "word": "Theory",
+          "meaning": "理論",
+          "use": "可更成熟、更廣，也可口語指想法。"
+        },
+        {
+          "word": "Assumption",
+          "meaning": "假定",
+          "use": "可能未經測試，常被拿來當前提。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>hypothesis</code> 常把一段觀察收斂成可討論的判斷。debug hypothesis 必須能被測試；不能測的說法只會讓討論原地轉。",
-      "像 <code>test a hypothesis</code>、<code>working hypothesis</code>、<code>hypothesis about</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Hypothesis</code> 是 debug 的核心衛生習慣。你可以有直覺，但一旦寫成 hypothesis，就要讓它接受測試。",
+      "好的 hypothesis 會產生 prediction：如果它是真的，我應該看到什麼？"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 hypothesis 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 hypothesis 整理成「假說、待驗證的解釋」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/hypothesis",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "源自 Greek，意思接近「放在下面作為基礎的東西」。",
-      "memoryLens": "記憶時先抓「假說、待驗證的解釋」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "Greek 的「放在下面作基礎」可記成暫時支撐下一步調查的說法。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "conclusion",
       "debug",
       "evidence",
-      "noun",
       "noun"
     ]
   },

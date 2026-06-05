@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.64"
     },
-    "coreIdea": "<code>cursory</code> 用來說某個人、系統或局面帶著「草率粗略」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>cursory</code> 是看過，但看得太快太淺；它常暗示這種檢查不足以讓人放心。",
     "definition": {
-      "summary": "表示草率、粗略、沒有深入檢查。重點不是程度加強，而是整個對象都帶著「草率粗略」這種質地。",
+      "summary": "形容檢查、瀏覽、審閱草率粗略，沒有深入細節。",
       "contrast": {
         "word": "Superficial",
-        "note": "<code>Superficial</code> 可以只是在說「表面化」；換成 <code>cursory</code>，句子通常是在補上「草率粗略」這層更具體的意思。"
+        "note": "<code>brief</code> 只是短；<code>cursory</code> 是短到不夠負責。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「草率粗略」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "檢查確實發生",
+        "速度快、深度淺",
+        "判斷可靠度不足"
       ]
     },
     "memory": {
-      "hook": "<code>cursory</code> 的畫面是：像手電只從房間門口掃過一下，亮過的地方不代表真的看清了。",
-      "explanation": "這個畫面有用，因為它把 cursory 從翻譯拉回場面：你先看到「只從門口掃過一下」，再比較容易記住它其實在說「草率粗略」。"
+      "hook": "把 <code>cursory review</code> 想成只掃過 diff 標題，沒有真的追資料流。",
+      "explanation": "cursory 的問題是深度不足。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>cursory review</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「表面化」，而是整個對象都帶著「草率粗略」這種質地。"
+        "label": "審閱",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 日常 / 觀察 裡，<code>cursory glance</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "一瞥",
+        "body": "A cursory glance at the chart can make a trend look simpler than it is."
       },
       {
-        "label": "延伸版",
-        "body": "到了 品質 / 檢查 的場景，<code>cursory inspection</code> 很適合用來練邊界：你要講的到底是一般的「表面化」，還是更具體的「草率粗略」。"
+        "label": "檢查",
+        "body": "Cursory inspection is risky when failure hides in edge cases."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "cursory 常修飾 review、glance、inspection；搭配都和快速掃過有關。",
       "items": [
         {
           "phrase": "cursory review",
-          "register": "工程 / 審查",
-          "note": "這個搭配會讓「草率粗略」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "工作 / 文件",
+          "note": "粗略審閱。"
         },
         {
           "phrase": "cursory glance",
-          "register": "日常 / 觀察",
-          "note": "在 日常 / 觀察 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "日常 / 分析",
+          "note": "匆匆一瞥。"
         },
         {
           "phrase": "cursory inspection",
-          "register": "品質 / 檢查",
-          "note": "如果你想把這個字用穩，從 品質 / 檢查 常見的這個搭配進場通常最自然。"
+          "register": "工程 / 品管",
+          "note": "粗略檢查。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "草率粗略",
-        "use": "當你要強調整體帶著「快到只擦過表面」這種質地，而不只是 表面化 時"
+        "use": "用在某人確實看了，但看得太匆忙、不足以支撐判斷時。"
       },
       "others": [
         {
           "word": "Superficial",
-          "meaning": "表面化",
-          "use": "當句子只需要 表面化 這個中性描述，不必把「快到只擦過表面」這種氣質壓到前景時"
+          "meaning": "表面的",
+          "use": "可指理解或關係很淺；<code>cursory</code> 特別指看得快、查得粗。"
+        },
+        {
+          "word": "Brief",
+          "meaning": "短暫",
+          "use": "中性；<code>cursory</code> 常批評不夠深入。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>cursory</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「草率粗略」這種質地。",
-      "也因此，它和 <code>Superficial</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Cursory</code> 在 review、audit、inspection 裡很好用，因為它抓的是驗證深度。",
+      "它不是稱讚效率；多數情況下，它在提醒風險。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cursory 整理成「草率粗略」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/cursory",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 cursory 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/cursory",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "superficial",
       "review",
       "inspection",
-      "adjective",
-      "cursory"
+      "cursory",
+      "adjective"
     ]
   },
   "sourceAudit": [

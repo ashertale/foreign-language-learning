@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>holistic</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「整體性的、重視各部分互相影響」。",
+    "coreIdea": "<code>holistic</code> 不是什麼都看一點，而是把各部分放回彼此牽動的整體裡判斷。",
     "definition": {
-      "summary": "形容整體性的、重視各部分互相影響的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容觀點、方法或評估重視整體關係，而不只拆開看單一部分。",
       "contrast": {
         "word": "Complete",
         "note": "<code>complete</code> 是完整；<code>holistic</code> 更重視整體關係和互相牽動。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>holistic</code> 可以先記成一個畫面：看見各部分，接著理解互相影響，最後回到整體判斷。",
-      "explanation": "這個畫面只用來幫你抓住「整體性的、重視各部分互相影響」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>holistic</code> performance analysis 想成 CPU、IO、thermal、user behavior 一起看。",
+      "explanation": "單一指標可能是真，但不一定足夠。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "holistic performance analysis 會看 CPU、IO、thermal 和 user behavior，而不是只看一個指標。"
+        "label": "效能",
+        "body": "<code>Holistic</code> performance analysis 會看 CPU、IO、thermal 和 user behavior，而不是只看一個指標。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>holistic</code> 和 <code>holistic view</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "健康",
+        "body": "A holistic view of reliability includes design, process, monitoring, and support."
+      },
+      {
+        "label": "評估",
+        "body": "Holistic assessment can reveal that a local optimization hurts the whole system."
       }
     ],
     "collocations": {
-      "note": "<code>holistic</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「整體性的、重視各部分互相影響」落地。",
+      "note": "holistic 常接 view、approach、assessment。搭配都提醒你不要把部分誤當整體。",
       "items": [
         {
           "phrase": "holistic view",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「整體性的、重視各部分互相影響」有明確對象。"
+          "register": "管理 / 分析",
+          "note": "從整體關係看問題。"
         },
         {
           "phrase": "holistic approach",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "醫療 / 教育 / 工程",
+          "note": "方法會考慮多個互相牽動的面向。"
         },
         {
           "phrase": "holistic assessment",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "評估 / 組織",
+          "note": "整體評估，不只看單一指標。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "整體性的、重視各部分互相影響的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在部分之間的關係比單一部分本身更重要時。"
       },
       "others": [
         {
           "word": "Complete",
-          "meaning": "<code>complete</code> 是完整；<code>holistic</code> 更重視整體關係和互相牽動。",
-          "use": "如果句子只需要 complete 的普通意思，就保留那個較簡單的字。"
+          "meaning": "完整",
+          "use": "表示不缺；holistic 更重整體關係。"
+        },
+        {
+          "word": "Comprehensive",
+          "meaning": "全面",
+          "use": "涵蓋面廣；holistic 重相互關聯。"
+        },
+        {
+          "word": "Systemic",
+          "meaning": "系統性的",
+          "use": "偏系統結構與根因。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>holistic</code> 常把一段觀察收斂成可討論的判斷。holistic performance analysis 會看 CPU、IO、thermal 和 user behavior，而不是只看一個指標。",
-      "像 <code>holistic view</code>、<code>holistic approach</code>、<code>holistic assessment</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Holistic</code> 容易變空話，所以使用時最好說明哪些部分被一起看。",
+      "在工程裡，holistic thinking 通常意味著看 downstream、operations、human workflow，而不只看 module local optimum。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 holistic 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 holistic 整理成「整體性的、重視各部分互相影響的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/holistic",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 whole 的整體概念；重點是整體大於零件清單。",
-      "memoryLens": "記憶時先抓「整體性的、重視各部分互相影響的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "whole 的影子在這裡很明顯；holistic 不是多看幾個零件，而是把零件放回整體關係。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "complete",
       "system",
       "assessment",
-      "adjective",
       "adjective"
     ]
   },

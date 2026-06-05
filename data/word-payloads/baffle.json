@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>baffle</code> 關心的是「使人困惑到難以解釋」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>baffle</code> 描述理解路徑被堵住的瞬間：資料看得到，卻怎麼排都排不成合理解釋。",
     "definition": {
-      "summary": "表示使人困惑到難以解釋。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示使人困惑到找不到解釋路徑。它比 <code>confuse</code> 更像現象把理解堵住，尤其適合用在怪問題、離奇結果或難解行為。",
       "contrast": {
         "word": "Confuse",
         "note": "<code>confuse</code> 泛指混淆；<code>baffle</code> 更像問題把理解路徑堵住。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>baffle</code> 可以先記成一個畫面：看到現象，接著套不上解釋，最後理解被卡住。",
-      "explanation": "這個畫面只用來幫你抓住「使人困惑到難以解釋」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>baffle</code> 像 trace 裡出現一個完全對不上 timing diagram 的跳點。",
+      "explanation": "不是資訊太少而已，而是已有資訊互相打架。這種卡住感就是 baffle 的味道。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "偶發 reset 沒有 log、沒有 pattern，就會 baffle 整個 debug team。"
+        "label": "Debug",
+        "body": "偶發 reset 沒有 log、沒有 pattern，就會 <code>baffle</code> 整個 debug team。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>baffle</code> 和 <code>baffle engineers</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "調查",
+        "body": "The motive baffled investigators 表示線索在手，卻還是拼不出合理動機。"
+      },
+      {
+        "label": "語氣",
+        "body": "<code>Utterly baffle</code> 把困惑推到很高：不是一時沒看懂，而是所有常見解釋都失效。"
       }
     ],
     "collocations": {
-      "note": "<code>baffle</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「使人困惑到難以解釋」落地。",
+      "note": "baffle 常把人放在受詞位置：baffle engineers、doctors、investigators。焦點是理解者被問題擋住。",
       "items": [
         {
           "phrase": "baffle engineers",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「使人困惑到難以解釋」有明確對象。"
+          "register": "工程 / 報導",
+          "note": "問題行為不符合既有模型，讓工程判斷暫時失去抓手。"
         },
         {
           "phrase": "baffle investigators",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "新聞 / 調查",
+          "note": "線索存在，但還無法拼成可說服人的解釋。"
         },
         {
           "phrase": "utterly baffle",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "日常 / 書面",
+          "note": "加強語氣，表示困惑程度不是普通。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "使人困惑到難以解釋",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在現象讓理解路徑被擋住、暫時拼不出原因時。"
       },
       "others": [
         {
           "word": "Confuse",
-          "meaning": "<code>confuse</code> 泛指混淆；<code>baffle</code> 更像問題把理解路徑堵住。",
-          "use": "如果句子只需要 confuse 的普通意思，就保留那個較簡單的字。"
+          "meaning": "使混淆",
+          "use": "一般不清楚、弄錯或資訊太亂，用 <code>confuse</code>。"
+        },
+        {
+          "word": "Puzzle",
+          "meaning": "使人費解，也可帶解謎感",
+          "use": "<code>puzzle</code> 較中性；<code>baffle</code> 更有堵住、難以突破的感覺。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>baffle</code> 常把一段觀察收斂成可討論的判斷。偶發 reset 沒有 log、沒有 pattern，就會 baffle 整個 debug team。",
-      "像 <code>baffle engineers</code>、<code>baffle investigators</code>、<code>utterly baffle</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Baffle</code> 很常出現在新聞、醫療、工程與調查語境，因為它讓讀者感到：專家不是沒看，是看了仍然對不上。",
+      "在工作溝通裡不要濫用它。如果只是文件沒寫清楚，confusing 就好；baffling 比較像模型本身被現象挑戰。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 baffle 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 baffle 整理成「使人困惑到難以解釋」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/baffle",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "詞史不必硬背；現代畫面像一塊擋板讓理解過不去。",
-      "memoryLens": "記憶時先抓「使人困惑到難以解釋」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "詞史不一定要硬背；把現代畫面記成一片擋板，讓理解過不去，就足夠好用。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "confuse",
       "debug",
       "mystery",
-      "verb",
       "verb"
     ]
   },

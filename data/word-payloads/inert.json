@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>inert</code> 用來說某個人、系統或局面帶著「不動不反應」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>inert</code> 是不動、不反應、沒有活性；它可以是材料安全，也可以是組織麻木。",
     "definition": {
-      "summary": "表示惰性的、靜止的、缺乏活性。重點不是程度加強，而是整個對象都帶著「不動不反應」這種質地。",
+      "summary": "形容物質惰性、靜止，或人與系統缺乏反應與活力。",
       "contrast": {
         "word": "Inactive",
-        "note": "<code>Inactive</code> 可以只是在說「不活躍」；換成 <code>inert</code>，句子通常是在補上「不動不反應」這層更具體的意思。"
+        "note": "<code>inactive</code> 是沒活動；<code>inert</code> 像內部沒有會回應的機制。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「不動不反應」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "刺激或環境存在",
+        "對象沒有主動反應",
+        "靜止或惰性成為特徵"
       ]
     },
     "memory": {
-      "hook": "<code>inert</code> 的畫面是：像一顆按下去也不回彈的按鈕，表面在那裡，回應卻沒有來。",
-      "explanation": "這個畫面有用，因為它把 inert 從翻譯拉回場面：你先看到「按下去也不回彈」，再比較容易記住它其實在說「不動不反應」。"
+      "hook": "把 <code>inert response</code> 想成告警叫了三次，流程卻像沒有神經一樣不動。",
+      "explanation": "inert 的重點是 no active reaction。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>inert material</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「不活躍」，而是整個對象都帶著「不動不反應」這種質地。"
+        "label": "材料",
+        "body": "An <code>inert</code> material does not readily react with other substances."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 組織 / 反應 裡，<code>inert response</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "回應",
+        "body": "The inert response worried users more than the original bug."
       },
       {
-        "label": "延伸版",
-        "body": "到了 敘事 / 描寫 的場景，<code>remain inert</code> 很適合用來練邊界：你要講的到底是一般的「不活躍」，還是更具體的「不動不反應」。"
+        "label": "保持",
+        "body": "A process can remain inert when no one owns the next action."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "inert 常修飾 material、response，也常用 remain inert；搭配在化學惰性和行動停滯間移動。",
       "items": [
         {
           "phrase": "inert material",
-          "register": "工程 / 材料",
-          "note": "這個搭配會讓「不動不反應」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "化學 / 工程",
+          "note": "惰性材料。"
         },
         {
           "phrase": "inert response",
-          "register": "組織 / 反應",
-          "note": "在 組織 / 反應 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "組織 / 批評",
+          "note": "毫無活性或反應的回應。"
         },
         {
           "phrase": "remain inert",
-          "register": "敘事 / 描寫",
-          "note": "如果你想把這個字用穩，從 敘事 / 描寫 常見的這個搭配進場通常最自然。"
+          "register": "正式 / 分析",
+          "note": "保持不動、不反應。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "不動不反應",
-        "use": "當你要強調整體帶著「幾乎完全不動、不起反應」這種質地，而不只是 不活躍 時"
+        "use": "用在某物不只是暫停，而是本身缺少反應性或活力時。"
       },
       "others": [
         {
           "word": "Inactive",
           "meaning": "不活躍",
-          "use": "當句子只需要 不活躍 這個中性描述，不必把「幾乎完全不動、不起反應」這種氣質壓到前景時"
+          "use": "通用；<code>inert</code> 更像缺乏內在活性。"
+        },
+        {
+          "word": "Passive",
+          "meaning": "被動",
+          "use": "可能仍會被推動；<code>inert</code> 更像不會反應。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>inert</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「不動不反應」這種質地。",
-      "也因此，它和 <code>Inactive</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "工程上 <code>inert</code> 很常見於化學與材料；組織語境中它是強烈批評。",
+      "它可正可負：inert gas 很安全，inert leadership 很糟。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 inert 整理成「不動不反應」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/inert",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 inert 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/inert",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "inactive",
       "materials",
       "response",
-      "adjective",
-      "inert"
+      "inert",
+      "adjective"
     ]
   },
   "sourceAudit": [

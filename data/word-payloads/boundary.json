@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "4.06"
     },
-    "coreIdea": "<code>boundary</code> 把「區分內外、責任或範圍的界線」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>boundary</code> 畫出讓責任、空間或身份變得可讀的線。沒有邊界，內外和 ownership 很快就會糊在一起。",
     "definition": {
-      "summary": "指區分內外、責任或範圍的界線。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指界線、邊界或分際，用來區分內外、責任範圍、私人空間或系統模組。它不一定是牆，更多時候是一條讓判斷可成立的線。",
       "contrast": {
         "word": "Limit",
         "note": "<code>limit</code> 強調上限；<code>boundary</code> 強調內外分界。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>boundary</code> 可以先記成一個畫面：劃出範圍，接著判斷內外，最後避免越界。",
-      "explanation": "這個畫面只用來幫你抓住「區分內外、責任或範圍的界線」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>boundary</code> 像 module interface：不是為了隔絕世界，而是讓責任清楚。",
+      "explanation": "好邊界能讓協作變容易；壞邊界會讓 bug、情緒或責任到處滲。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "module boundary 清楚，bug 才容易判斷是誰的責任與誰能改。"
+        "label": "工程",
+        "body": "module <code>boundary</code> 清楚，bug 才容易判斷是誰的責任與誰能改。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>boundary</code> 和 <code>clear boundary</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "人際",
+        "body": "Personal <code>boundaries</code> 不是冷漠，而是讓關係不靠猜測和耗損維持。"
+      },
+      {
+        "label": "地理 / 政治",
+        "body": "A national <code>boundary</code> 把土地和管轄權切出內外，但實際爭議常比線條更複雜。"
       }
     ],
     "collocations": {
-      "note": "<code>boundary</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「區分內外、責任或範圍的界線」落地。",
+      "note": "boundary 可以很具體，也可以很心理。搭配會告訴你這條線切的是空間、責任、模組，還是人際距離。",
       "items": [
         {
           "phrase": "clear boundary",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「區分內外、責任或範圍的界線」有明確對象。"
+          "register": "通用 / 管理 / 人際",
+          "note": "線畫得清楚，讓期待、責任或範圍不必靠猜。"
         },
         {
           "phrase": "module boundary",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 架構",
+          "note": "模組之間的責任切點；設計不好時會造成耦合和 ownership 混亂。"
         },
         {
           "phrase": "personal boundary",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "心理 / 人際",
+          "note": "個人能接受與不能接受的分際，常需要被說清楚。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "區分內外、責任或範圍的界線",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在需要說清內外、責任或可接受範圍的地方。"
       },
       "others": [
         {
           "word": "Limit",
-          "meaning": "<code>limit</code> 強調上限；<code>boundary</code> 強調內外分界。",
-          "use": "如果句子只需要 limit 的普通意思，就保留那個較簡單的字。"
+          "meaning": "限制、上限",
+          "use": "重點是最多到哪裡，常和容量、時間、權限有關。"
+        },
+        {
+          "word": "Border",
+          "meaning": "邊境、邊線",
+          "use": "多用於地理或政治邊界，比 boundary 更具體。"
+        },
+        {
+          "word": "Interface",
+          "meaning": "介面、交界",
+          "use": "工程裡強調兩邊如何互動，而不只是在哪裡分開。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>boundary</code> 常把一段觀察收斂成可討論的判斷。module boundary 清楚，bug 才容易判斷是誰的責任與誰能改。",
-      "像 <code>clear boundary</code>、<code>module boundary</code>、<code>personal boundary</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Boundary</code> 在軟體架構、心理健康和組織管理裡都很常見，因為三者都怕同一件事：範圍不清。",
+      "好的 boundary 不是越硬越好，而是讓互動可預期。過硬會阻斷合作，過鬆會讓責任和情緒互相污染。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 boundary 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 boundary 整理成「區分內外、責任或範圍的界線」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/boundary",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "與 bound 的界限概念相關；記成把系統框出可理解的邊。",
-      "memoryLens": "記憶時先抓「區分內外、責任或範圍的界線」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "把它和 bound 的「界限」放在一起即可；重點是它畫出可理解的內外。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "limit",
       "module",
       "responsibility",
-      "noun",
       "noun"
     ]
   },

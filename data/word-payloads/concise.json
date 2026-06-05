@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>concise</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「精簡、清楚且不浪費字句」。",
+    "coreIdea": "<code>concise</code> 不是把句子剪短而已，而是把雜訊切掉後，必要資訊仍然留在正確位置。",
     "definition": {
-      "summary": "形容精簡、清楚且不浪費字句。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容文字或說明簡潔、精煉，不浪費字句但仍保留核心資訊。",
       "contrast": {
         "word": "Short",
         "note": "<code>short</code> 只是短；<code>concise</code> 是短得有效率。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>concise</code> 可以先記成一個畫面：辨認重點，接著刪掉雜訊，最後留下必要資訊。",
-      "explanation": "這個畫面只用來幫你抓住「精簡、清楚且不浪費字句」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>concise</code> 想成剪線，不是拔零件。",
+      "explanation": "剪掉的是多餘，不是功能；少了必要資訊就只是 short，不是 concise。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "concise bug report 讓人快速重現問題，而不是在長文裡找線索。"
+        "label": "Bug report",
+        "body": "<code>Concise</code> bug report 讓人快速重現問題，而不是在長文裡找線索。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>concise</code> 和 <code>concise summary</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "文件",
+        "body": "A concise explanation can still include constraints, examples, and failure cases。"
+      },
+      {
+        "label": "溝通",
+        "body": "<code>Clear and concise</code> 不是口號，而是讓讀者少花力氣抓重點。"
       }
     ],
     "collocations": {
-      "note": "<code>concise</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「精簡、清楚且不浪費字句」落地。",
+      "note": "concise 常和 summary、explanation、clear 搭配。這些搭配的共同要求是：短，但不能讓讀者失去判斷所需資訊。",
       "items": [
         {
           "phrase": "concise summary",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「精簡、清楚且不浪費字句」有明確對象。"
+          "register": "文件 / 報告",
+          "note": "把主旨壓到短而完整，適合放在開頭。"
         },
         {
           "phrase": "concise explanation",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "教學 / 技術",
+          "note": "說明短，但仍讓人懂因果或操作邏輯。"
         },
         {
           "phrase": "clear and concise",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 文件",
+          "note": "同時要求清楚與精煉，常見於寫作規範。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "精簡、清楚且不浪費字句",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在資訊被壓縮後仍完整、清楚、可使用時。"
       },
       "others": [
         {
           "word": "Short",
-          "meaning": "<code>short</code> 只是短；<code>concise</code> 是短得有效率。",
-          "use": "如果句子只需要 short 的普通意思，就保留那個較簡單的字。"
+          "meaning": "短",
+          "use": "只描述長度，不保證有效。"
+        },
+        {
+          "word": "Brief",
+          "meaning": "簡短",
+          "use": "語氣較中性，可指時間或篇幅短。"
+        },
+        {
+          "word": "Terse",
+          "meaning": "短到生硬",
+          "use": "可能讓人覺得冷或不耐煩。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>concise</code> 常把一段觀察收斂成可討論的判斷。concise bug report 讓人快速重現問題，而不是在長文裡找線索。",
-      "像 <code>concise summary</code>、<code>concise explanation</code>、<code>clear and concise</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "工程文件最需要的不是越短越好，而是 concise：讀者能快速找到限制、步驟和判斷點。",
+      "一句話若短到留下歧義，就不是 concise；它只是省掉了該負責的資訊。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 concise 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 concise 整理成「精簡、清楚且不浪費字句」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/concise",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>concidere</code>，有「切下、削短」的概念。",
-      "memoryLens": "記憶時先抓「精簡、清楚且不浪費字句」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源裡的切削感很好記：concise 是把多餘切下，不是把骨架切斷。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "short",
       "writing",
       "report",
-      "adjective",
       "adjective"
     ]
   },

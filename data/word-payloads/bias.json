@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "4.17"
     },
-    "coreIdea": "<code>bias</code> 把「讓判斷偏向某一邊的傾向」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>bias</code> 是判斷、資料或流程裡的斜度。危險之處在於：站在系統裡面的人，常把那個斜度看成正常。",
     "definition": {
-      "summary": "指讓判斷偏向某一邊的傾向。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指判斷、資料、流程或制度朝某個方向偏斜。它不一定是故意偏袒，也可能是樣本、設計或習慣造成的系統性失真。",
       "contrast": {
         "word": "Preference",
         "note": "<code>preference</code> 是偏好；<code>bias</code> 常暗示判斷被扭斜，未必公平。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>bias</code> 可以先記成一個畫面：看似中立，接著某方向被放大，最後結果偏斜。",
-      "explanation": "這個畫面只用來幫你抓住「讓判斷偏向某一邊的傾向」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>bias</code> 像水平儀本身歪了，所以每次量出來都偏同一邊。",
+      "explanation": "你看到的不是單一錯誤，而是一種重複把結果推向某方向的斜度。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "測試只挑成功案例會造成 sampling bias，讓品質看起來比實際更好。"
+        "label": "資料",
+        "body": "測試只挑成功案例會造成 sampling <code>bias</code>，讓品質看起來比實際更好。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>bias</code> 和 <code>confirmation bias</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "心理",
+        "body": "<code>Confirmation bias</code> 會讓人特別看見支持自己想法的 evidence，忽略反例。"
+      },
+      {
+        "label": "制度",
+        "body": "Hiring <code>bias</code> 不一定來自惡意；有時是篩選條件把某些背景的人系統性排除。"
       }
     ],
     "collocations": {
-      "note": "<code>bias</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「讓判斷偏向某一邊的傾向」落地。",
+      "note": "bias 常和資料來源、認知習慣、制度設計連在一起。讀搭配時要問：偏斜是從哪個環節進來的？",
       "items": [
         {
           "phrase": "confirmation bias",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「讓判斷偏向某一邊的傾向」有明確對象。"
+          "register": "心理 / 決策",
+          "note": "只偏好支持既有信念的資訊，讓判斷越來越封閉。"
         },
         {
           "phrase": "sampling bias",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "資料 / 研究",
+          "note": "樣本取得方式已經偏掉，導致結果不能代表整體。"
         },
         {
           "phrase": "implicit bias",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "社會 / 組織",
+          "note": "未被明說、甚至本人未察覺的偏見或傾向。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "讓判斷偏向某一邊的傾向",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在偏斜會影響判斷、資料代表性或公平性的時候。"
       },
       "others": [
         {
           "word": "Preference",
-          "meaning": "<code>preference</code> 是偏好；<code>bias</code> 常暗示判斷被扭斜，未必公平。",
-          "use": "如果句子只需要 preference 的普通意思，就保留那個較簡單的字。"
+          "meaning": "偏好",
+          "use": "只是喜歡某選項，不一定造成不公平或失真。"
+        },
+        {
+          "word": "Prejudice",
+          "meaning": "偏見，常指對人群的預設負面判斷",
+          "use": "道德和社會批判更強；<code>bias</code> 可用在資料與模型。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>bias</code> 常把一段觀察收斂成可討論的判斷。測試只挑成功案例會造成 sampling bias，讓品質看起來比實際更好。",
-      "像 <code>confirmation bias</code>、<code>sampling bias</code>、<code>implicit bias</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在 AI、研究和組織管理裡，<code>bias</code> 幾乎是核心風險詞。它提醒你：輸出偏掉，可能不是模型最後一步才錯，而是資料和流程一開始就歪了。",
+      "好用法會把 bias 接到來源：selection bias、measurement bias、confirmation bias。只說 biased 有時太籠統，追不到可修的地方。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 bias 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 bias 整理成「讓判斷偏向某一邊的傾向」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/bias",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "原指斜線或斜向；現代延伸到心理、資料與制度上的偏斜。",
-      "memoryLens": "記憶時先抓「讓判斷偏向某一邊的傾向」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "原本的斜向畫面很適合記：bias 不是偶然撞歪一下，而是基準線帶著角度。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "data",
       "judgment",
       "fairness",
-      "noun",
       "noun"
     ]
   },

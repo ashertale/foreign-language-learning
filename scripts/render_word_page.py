@@ -31,6 +31,17 @@ BANNED_META_PHRASES = (
     "真正掌握它的標準是",
     "先讓這個畫面浮上來",
     "先造句，再回頭檢查",
+    "｜用在",
+    "這句要讀成",
+    "焦點落在",
+    "例句示範的是",
+    "這個字帶出",
+    "讀到這句，留意",
+    "語境讓這個字落在",
+    "這種用法中，語氣會靠近",
+    "這句把",
+    "核心就是",
+    "就是核心",
 )
 SOURCE_POLICY_ORDER = (
     "dictionary-pronunciation",
@@ -368,8 +379,8 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
         item_obj = require_object(item, f"page.usage[{index}]")
         label = require_string(item_obj.get("label"), f"page.usage[{index}].label")
         body = require_string(item_obj.get("body"), f"page.usage[{index}].body")
-        ensure_cjk(body, f"page.usage[{index}].body")
-        ensure_narrative_voice(body, f"page.usage[{index}].body")
+        ensure_cjk(f"{label} {body}", f"page.usage[{index}]")
+        ensure_narrative_voice(f"{label} {body}", f"page.usage[{index}]")
         usage_items.append({"label": label, "body": body})
 
     collocations_raw = require_object(page.get("collocations"), "page.collocations")

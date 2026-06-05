@@ -8,89 +8,103 @@
     "partOfSpeech": "noun",
     "pronunciation": "uh-NAL-uh-jee · UK /əˈnæl.ə.dʒi/ · US /əˈnæl.ə.dʒi/",
     "hero": {
-      "thesis": "不是例子，而是拿另一個結構相似的東西幫你理解。",
+      "thesis": "不是舉例而已，而是借另一個結構相似的東西，讓陌生概念有路可走。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>analogy</code> 把「用相似結構建立理解橋梁」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>analogy</code> 是理解用的橋。它不說兩件事一模一樣，而是說：這裡有一段關係或結構很像，我們可以先借那個熟悉結構來看懂這個陌生問題。",
     "definition": {
-      "summary": "指用相似結構建立理解橋梁。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指兩件不同事物之間因結構、功能或關係相似而建立的比較。好的 analogy 幫助理解；壞的 analogy 會把不該相同的地方也偷渡進來。",
       "contrast": {
         "word": "Example",
-        "note": "<code>example</code> 是同一類裡的一個案例；<code>analogy</code> 是跨到另一類找相似結構。"
+        "note": "<code>example</code> 是同一類裡的一個案例；<code>analogy</code> 是跨到另一個領域找相似結構。"
       },
       "flow": [
-        "找到陌生概念",
+        "遇到陌生概念",
         "借用熟悉結構",
-        "看見共同關係"
+        "看清相似處與失效邊界"
       ]
     },
     "memory": {
-      "hook": "<code>analogy</code> 可以先記成一個畫面：找到陌生概念，接著借用熟悉結構，最後看見共同關係。",
-      "explanation": "這個畫面只用來幫你抓住「用相似結構建立理解橋梁」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>analogy</code> 像把 scheduler 比成交通號誌：它能幫你理解誰先走、誰等待，但不能把整座城市都搬進 CPU。",
+      "explanation": "記這個字時一定要連同邊界一起記。analogy 的價值在於照亮結構；危險在於讓人忘記兩件事終究不同。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "把 scheduler 比成交通號誌是一個 analogy；它有幫助，但也有失效邊界。"
+        "label": "教學 / 解釋",
+        "body": "好的 <code>analogy</code> 會把抽象機制變成聽者能在腦中跑一遍的東西，不只是把句子說得比較漂亮。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>analogy</code> 和 <code>draw an analogy</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "工程討論",
+        "body": "把 interrupt priority 比成排隊規則是一個 analogy；它能快速建立直覺，但遇到 nesting、latency、masking 時就要補真正模型。"
+      },
+      {
+        "label": "批判思考",
+        "body": "When an <code>analogy breaks down</code>, 不是表示它完全沒用，而是它能照亮的範圍到此為止。"
       }
     ],
     "collocations": {
-      "note": "<code>analogy</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「用相似結構建立理解橋梁」落地。",
+      "note": "analogy 常和 draw、make、use、break down 搭配；這些動詞剛好標出類比的生命周期。",
       "items": [
         {
           "phrase": "draw an analogy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「用相似結構建立理解橋梁」有明確對象。"
+          "register": "正式 / 教學 / 評論",
+          "note": "主動建立兩件事之間的相似關係，常用於解釋或論證。"
         },
         {
-          "phrase": "useful analogy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "phrase": "a useful analogy",
+          "register": "教學 / 技術溝通",
+          "note": "表示這個類比能幫人建立直覺，但不保證每個細節都對應。"
         },
         {
-          "phrase": "analogy breaks down",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "phrase": "the analogy breaks down",
+          "register": "分析 / 討論",
+          "note": "表示類比到某處開始失效，需要回到真正的模型或條件。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "用相似結構建立理解橋梁",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "跨領域的結構比較，用來建立理解",
+        "use": "當你要把陌生概念接到熟悉結構上，同時保留失效邊界。"
       },
       "others": [
         {
           "word": "Example",
-          "meaning": "<code>example</code> 是同一類裡的一個案例；<code>analogy</code> 是跨到另一類找相似結構。",
-          "use": "如果句子只需要 example 的普通意思，就保留那個較簡單的字。"
+          "meaning": "同類事物中的一個案例",
+          "use": "用來展示某概念如何出現，不一定跨領域比較。"
+        },
+        {
+          "word": "Metaphor",
+          "meaning": "把一物說成另一物，語感更修辭、更濃縮",
+          "use": "適合文學、說服或概念框架；不一定逐項映射結構。"
+        },
+        {
+          "word": "Model",
+          "meaning": "簡化後可推理或預測的表示法",
+          "use": "比 analogy 更系統化，通常需要明確假設與可驗證結果。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>analogy</code> 常把一段觀察收斂成可討論的判斷。把 scheduler 比成交通號誌是一個 analogy；它有幫助，但也有失效邊界。",
-      "像 <code>draw an analogy</code>、<code>useful analogy</code>、<code>analogy breaks down</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在技術溝通中，<code>analogy</code> 是很強的啟動器，但不是終點。它可以降低理解門檻，卻不能取代規格、時序圖或真實限制。",
+      "好用的說法是先給 analogy，再說 boundary：This is a rough analogy, but it breaks down when interrupts are nested. 這樣既幫人進門，也不讓人帶著錯模型離開。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 analogy 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 analogy 整理成「跨領域的結構比較」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/analogy",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 analogy 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 analogy 在教學、論證與技術溝通中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/analogy",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "源自 Greek <code>analogia</code>，和比例、對應關係有關。",
-      "memoryLens": "記憶時先抓「用相似結構建立理解橋梁」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>analogy</code> 源自 Greek <code>analogia</code>，和 proportion、ratio、對應關係有關。",
+      "memoryLens": "字源提醒你：analogy 不只是像，而是有某種比例、關係或結構的對應。記得一起記住 where it breaks。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Analogy",
     "partOfSpeech": "noun",
     "href": "./analogy.html",
-    "thesis": "不是例子，而是拿另一個結構相似的東西幫你理解。",
+    "thesis": "不是舉例而已，而是借另一個結構相似的東西，讓陌生概念有路可走。",
     "tags": [
       "類比",
       "理解",
       "example",
+      "metaphor",
       "model",
       "teaching",
-      "noun",
+      "analogy breaks down",
       "noun"
     ]
   },

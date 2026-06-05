@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.42"
     },
-    "coreIdea": "<code>lurid</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「聳動刺眼」這層氣質。",
+    "coreIdea": "<code>lurid</code> 是顏色、細節或標題強烈到刺眼，常帶聳動、廉價或不舒服。",
     "definition": {
-      "summary": "表示駭人、聳動、過度誇張而強烈。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
+      "summary": "形容聳動駭人、過度鮮明刺眼、渲染得令人不安。",
       "contrast": {
         "word": "Vivid",
-        "note": "<code>Vivid</code> 比較像基礎說法；<code>lurid</code> 常用來把那層更具體的「聳動刺眼」拉到前景。"
+        "note": "<code>vivid</code> 是鮮明；<code>lurid</code> 是鮮明到刺眼或聳動。"
       },
       "flow": [
-        "先有一個場面本身已經帶著某種性格",
-        "這個形容詞把那層「聳動刺眼」清楚地壓到前景",
-        "結果不是多一個修飾，而是整個觀感都被重新定調"
+        "內容或顏色被加強",
+        "強烈程度超過需要",
+        "觀感變得刺眼或聳動"
       ]
     },
     "memory": {
-      "hook": "<code>lurid</code> 的畫面是：像霓虹色被打得太滿，眼睛還沒看懂內容就先被刺到。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「鮮明到讓人不舒服或覺得被炒作」看成一個會發生的場面。"
+      "hook": "把 <code>lurid headline</code> 想成標題不是為了精準，而是為了讓你被拖去點。",
+      "explanation": "lurid 的強烈常不乾淨。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其單背形容詞意思，不如記 <code>lurid detail</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
+        "label": "細節",
+        "body": "The article used <code>lurid</code> detail to turn suffering into spectacle."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 新聞 / 評論 裡，<code>lurid headline</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
+        "label": "標題",
+        "body": "A"
       },
       {
-        "label": "延伸版",
-        "body": "到了 設計 / 視覺 場景時，<code>lurid colors</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
+        "label": "顏色",
+        "body": "Lurid colors may fit a poster and ruin a reading interface."
       }
     ],
     "collocations": {
-      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
+      "note": "lurid 常修飾 detail、headline、colors；搭配都帶過度刺激。",
       "items": [
         {
           "phrase": "lurid detail",
-          "register": "媒體 / 報導",
-          "note": "這個搭配會讓「聳動刺眼」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "新聞 / 批評",
+          "note": "聳動細節。"
         },
         {
           "phrase": "lurid headline",
-          "register": "新聞 / 評論",
-          "note": "在 新聞 / 評論 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "媒體 / 評論",
+          "note": "聳動標題。"
         },
         {
           "phrase": "lurid colors",
-          "register": "設計 / 視覺",
-          "note": "如果你想把這個字用穩，從 設計 / 視覺 常見的這個搭配進場通常最自然。"
+          "register": "視覺 / 設計",
+          "note": "刺眼誇張的顏色。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "聳動刺眼",
-        "use": "當你要強調整體帶著「鮮明到讓人不舒服或覺得被炒作」這種質地，而不只是 鮮明 時"
+        "use": "用在強烈呈現不是精準，而是讓人被刺到、被煽動時。"
       },
       "others": [
         {
           "word": "Vivid",
           "meaning": "鮮明",
-          "use": "當句子只需要 鮮明 這個中性描述，不必把「鮮明到讓人不舒服或覺得被炒作」這種氣質壓到前景時"
+          "use": "可正面；<code>lurid</code> 常刺眼、聳動、低俗。"
+        },
+        {
+          "word": "Sensational",
+          "meaning": "聳動",
+          "use": "接近媒體語境；lurid 也可指顏色刺眼。"
         }
       ]
     },
     "modernUse": [
-      "現在的 <code>lurid</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「聳動刺眼」這個角度重新看待眼前的對象。",
-      "所以它和 <code>Vivid</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
+      "<code>Lurid</code> 對媒體素養和視覺設計都很好用。",
+      "它提醒你：強烈不等於有效，有時只是把注意力粗暴抓走。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 lurid 整理成「聳動刺眼」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/lurid",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 lurid 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/lurid",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "vivid",
       "media",
       "visual",
-      "adjective",
-      "lurid"
+      "lurid",
+      "adjective"
     ]
   },
   "sourceAudit": [

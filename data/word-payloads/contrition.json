@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.44"
     },
-    "coreIdea": "<code>contrition</code> 不只是替好壞下評語；它是在替「真誠悔意」這種分量找一個正式的名字。",
+    "coreIdea": "<code>contrition</code> 是真正覺得自己錯了的悔意，不只是公關稿裡的抱歉。",
     "definition": {
-      "summary": "表示真誠悔意，並伴隨想補救的心情。用到它時，句子通常已經不只是感受描述，而是在點出某個可被談論的對象。",
+      "summary": "指深切、真誠的悔過之意，常伴隨承認傷害與願意補救。",
       "contrast": {
         "word": "Regret",
-        "note": "<code>Regret</code> 比較像基礎說法；<code>contrition</code> 常用來把那層更具體的「真誠悔意」拉到前景。"
+        "note": "<code>regret</code> 可以後悔結果；<code>contrition</code> 是承認自己造成了錯。"
       },
       "flow": [
-        "先有一個場面裡明顯存在的分量",
-        "接著用這個名詞把「真誠悔意」收進語言裡",
-        "結果你讀到的，就不只是評語，而是一個被正式點出的東西"
+        "過錯被看見",
+        "人承認責任",
+        "悔意指向修補"
       ]
     },
     "memory": {
-      "hook": "<code>contrition</code> 的畫面是：像手碰到自己打破的碎片，不只知道它碎了，還會真切感到那道痛。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「心裡真的被自己的錯刺到」看成一個會發生的場面。"
+      "hook": "把 <code>genuine contrition</code> 想成不是說 sorry，而是能具體說出自己造成了什麼、要怎麼修。",
+      "explanation": "contrition 的重量在真誠悔悟。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其只背名詞對應的中文，不如先記 <code>show contrition</code> 這個搭配：它會直接示範這個字通常怎麼被點出。"
+        "label": "表現",
+        "body": "The"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 危機 的語境裡，<code>public contrition</code> 常用來把場面裡的「真誠悔意」收成一句能被接住的話。"
+        "label": "公開場合",
+        "body": "Public contrition can be meaningful, but only if private behavior changes too."
       },
       {
-        "label": "延伸版",
-        "body": "到了 倫理 / 評價，<code>genuine contrition</code> 會幫你看見：這個字不是修辭，而是把某種分量正式命名。"
+        "label": "真誠",
+        "body": "Genuine contrition usually lowers defensiveness and raises responsibility."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比單背中文更有用，因為你會知道這個名詞通常在哪裡真正站得住。",
+      "note": "contrition 常接 show、public、genuine；搭配會檢查悔意是否只是表演。",
       "items": [
         {
           "phrase": "show contrition",
-          "register": "人際 / 修復",
-          "note": "放到 人際 / 修復 的場景裡，這個搭配會把「真誠悔意」具體點出來。"
+          "register": "正式 / 人際",
+          "note": "表現悔意。"
         },
         {
           "phrase": "public contrition",
-          "register": "公共 / 危機",
-          "note": "在 公共 / 危機 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "政治 / 公關",
+          "note": "公開悔過。"
         },
         {
           "phrase": "genuine contrition",
-          "register": "倫理 / 評價",
-          "note": "到了 倫理 / 評價 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "道德 / 人際",
+          "note": "真誠悔意。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "真誠悔意",
-        "use": "當你要把「心裡真的被自己的錯刺到」當成一個可被點出的東西來說，而不只是 懊悔 時"
+        "use": "用在悔意需要有道德深度，而不是普通遺憾時。"
       },
       "others": [
         {
           "word": "Regret",
+          "meaning": "後悔",
+          "use": "可只是覺得結果不好；<code>contrition</code> 更道德、更承認自己有錯。"
+        },
+        {
+          "word": "Remorse",
           "meaning": "懊悔",
-          "use": "當句子只需要 懊悔 這個比較平的說法，不必把那份「心裡真的被自己的錯刺到」正式點名時"
+          "use": "非常接近；<code>contrition</code> 常帶宗教或正式語氣。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>contrition</code>，可以先看它出現在哪些固定搭配裡。像 <code>show contrition</code>、<code>public contrition</code> 都在示範：這個名詞最擅長把某種分量明確命名。",
-      "它和 <code>Regret</code> 的差別，不只在字面，而在句子是否要把那份「心裡真的被自己的錯刺到」當成一個可以被接住的東西來說。"
+      "<code>Contrition</code> 常出現在道歉、醜聞、修復關係的語境。",
+      "它能幫你區分 regret the outcome 和 own the wrongdoing。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 contrition 整理成「真誠悔意」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/contrition",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 contrition 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/contrition",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "regret",
       "apology",
       "ethics",
-      "noun",
-      "contrition"
+      "contrition",
+      "noun"
     ]
   },
   "sourceAudit": [

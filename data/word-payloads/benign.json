@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>benign</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「溫和、無惡性或風險不大的狀態」。",
+    "coreIdea": "<code>benign</code> 會把警報降下來，但不會假裝什麼都沒發生。它說的是性質溫和、目前看來不具嚴重傷害性。",
     "definition": {
-      "summary": "形容溫和、無惡性或風險不大的狀態。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容性質溫和、不具嚴重傷害性。醫學上可指非惡性的腫瘤；一般語境也可說某錯誤、情況或影響相對無害。",
       "contrast": {
         "word": "Harmless",
         "note": "<code>harmless</code> 說沒有傷害；<code>benign</code> 更常用在風險判斷和性質分類。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>benign</code> 可以先記成一個畫面：觀察現象，接著判斷性質溫和，最後降低警戒等級。",
-      "explanation": "這個畫面只用來幫你抓住「溫和、無惡性或風險不大的狀態」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>benign</code> 像 dashboard 上一個黃燈：要看，但不用立刻拉警報。",
+      "explanation": "它不是「完全沒有問題」，而是初步判斷沒有惡性或嚴重傷害。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "一個 benign warning 仍值得記錄，但不用把它當成 release blocker。"
+        "label": "醫學",
+        "body": "A <code>benign</code> tumor 不是說沒有東西長出來，而是說它不是癌性、通常不會像 malignant 那樣侵襲。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>benign</code> 和 <code>benign tumor</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "工程",
+        "body": "A <code>benign</code> warning 仍值得記錄，但不一定要被升成 release blocker。"
+      },
+      {
+        "label": "社會 / 政策",
+        "body": "<code>Benign neglect</code> 這個搭配比較複雜，常指刻意不介入，假設情況自己不會惡化。"
       }
     ],
     "collocations": {
-      "note": "<code>benign</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「溫和、無惡性或風險不大的狀態」落地。",
+      "note": "benign 的搭配會決定它是在醫學分類、風險判斷，還是政治評論裡降警報。",
       "items": [
         {
           "phrase": "benign tumor",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「溫和、無惡性或風險不大的狀態」有明確對象。"
+          "register": "醫學",
+          "note": "非惡性腫瘤；仍需醫療判斷，不等於可以完全忽略。"
         },
         {
           "phrase": "benign error",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 品質",
+          "note": "錯誤存在，但影響小、可恢復，通常不造成嚴重後果。"
         },
         {
           "phrase": "benign neglect",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "政策 / 評論",
+          "note": "指選擇不介入，語氣可中性也可批判。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "溫和、無惡性或風險不大的狀態",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在要降低風險等級，但不把現象抹掉時。"
       },
       "others": [
         {
           "word": "Harmless",
-          "meaning": "<code>harmless</code> 說沒有傷害；<code>benign</code> 更常用在風險判斷和性質分類。",
-          "use": "如果句子只需要 harmless 的普通意思，就保留那個較簡單的字。"
+          "meaning": "無害",
+          "use": "普通說法，重點在沒有造成傷害。"
+        },
+        {
+          "word": "Mild",
+          "meaning": "輕微、溫和",
+          "use": "描述程度不強；<code>benign</code> 更像性質判斷。"
+        },
+        {
+          "word": "Malignant",
+          "meaning": "惡性的、會傷害性擴散的",
+          "use": "醫學和比喻語境裡，常是 benign 的反面。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>benign</code> 常把一段觀察收斂成可討論的判斷。一個 benign warning 仍值得記錄，但不用把它當成 release blocker。",
-      "像 <code>benign tumor</code>、<code>benign error</code>、<code>benign neglect</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Benign</code> 在醫學之外很常被借到技術與政策語境：benign bug、benign condition、benign interpretation。",
+      "這個字要小心，因為說 benign 其實是在做風險判斷。若證據不足，最好補上 appears、likely 或 so far。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 benign 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 benign 整理成「溫和、無惡性或風險不大的狀態」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/benign",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>benignus</code>，有「善良、溫和」的意思。",
-      "memoryLens": "記憶時先抓「溫和、無惡性或風險不大的狀態」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "Latin 裡的「善、溫和」可以當背景；現代使用時，請把它放在風險分類而不是道德稱讚上。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "harmless",
       "risk",
       "medical",
-      "adjective",
       "adjective"
     ]
   },

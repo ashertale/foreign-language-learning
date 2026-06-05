@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.48"
     },
-    "coreIdea": "<code>auspicious</code> 真正抓住的，不是程度高低，而是整體怎麼被「一開場就讓人覺得這是好兆頭」這個感覺支配。",
+    "coreIdea": "<code>auspicious</code> 不是已經成功，而是開場或跡象讓人覺得後面可能順利。",
     "definition": {
-      "summary": "表示吉利、順勢、有好前景的徵兆。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容開始、跡象、時機或事件吉利、有好兆頭、前景看好。",
       "contrast": {
         "word": "Promising",
-        "note": "如果語境只需要比較平的「有前景」，用 <code>Promising</code> 往往就夠了；<code>auspicious</code> 則會把「一開場就讓人覺得這是好兆頭」講得更明確。"
+        "note": "<code>promising</code> 是有前景；<code>auspicious</code> 帶好兆頭、開局順的感覺。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「一開場就讓人覺得這是好兆頭」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "事情剛開始",
+        "跡象看起來有利",
+        "人開始合理期待"
       ]
     },
     "memory": {
-      "hook": "<code>auspicious</code> 的畫面是：像天剛亮就先透出一條金邊，事情還沒發生，但氣象已經不同。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 auspicious 時，能先抓到「好兆頭」這個核心，再回頭讀細節。"
+      "hook": "把 <code>auspicious</code> start 想成第一批 rollout 指標穩、support tickets 少，讓人敢期待。",
+      "explanation": "它是好兆頭，不是保證書。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>auspicious start</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「好兆頭」這層氣質壓到前景。"
+        "label": "開始",
+        "body": "An <code>auspicious</code> start gives confidence, but it still needs follow-through."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>auspicious sign</code> 放進 敘事 / 象徵 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "跡象",
+        "body": "Auspicious signs can encourage a team, but they should not replace measurement."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 商業 / 判斷 的情境，從 <code>auspicious timing</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "時機",
+        "body": "Auspicious timing makes an action feel naturally well placed."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "auspicious 常接 start、sign、timing。搭配都指向一開始就讓人感到有利。",
       "items": [
         {
           "phrase": "auspicious start",
-          "register": "專案 / 起步",
-          "note": "這個搭配會讓「好兆頭」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "正式 / 評論",
+          "note": "有好兆頭的開始。"
         },
         {
           "phrase": "auspicious sign",
-          "register": "敘事 / 象徵",
-          "note": "在 敘事 / 象徵 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "敘事 / 評論",
+          "note": "吉兆、有利跡象。"
         },
         {
           "phrase": "auspicious timing",
-          "register": "商業 / 判斷",
-          "note": "如果你想把這個字用穩，從 商業 / 判斷 常見的這個搭配進場通常最自然。"
+          "register": "正式 / 策略",
+          "note": "時機看起來有利。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "好兆頭",
-        "use": "當你要強調整體帶著「一開場就讓人覺得這是好兆頭」這種質地，而不只是 有前景 時"
+        "use": "用在開始、跡象或時機讓人合理期待好結果時。"
       },
       "others": [
         {
           "word": "Promising",
           "meaning": "有前景",
-          "use": "當句子只需要 有前景 這個中性描述，不必把「一開場就讓人覺得這是好兆頭」這種氣質壓到前景時"
+          "use": "較常用、較中性。"
+        },
+        {
+          "word": "Favorable",
+          "meaning": "有利",
+          "use": "重條件有利。"
+        },
+        {
+          "word": "Lucky",
+          "meaning": "幸運",
+          "use": "更口語，也更靠運氣。"
         }
       ]
     },
     "modernUse": [
-      "<code>auspicious</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>auspicious start</code>、<code>auspicious sign</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「有前景」，<code>Promising</code> 也許夠用；但當你需要的是更具體的「一開場就讓人覺得這是好兆頭」，<code>auspicious</code> 會更準。"
+      "<code>Auspicious</code> 帶一點正式、甚至儀式感，適合 start、sign、timing。",
+      "它不是 success。好兆頭需要後續行動才會變成好結果。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 auspicious 整理成「好兆頭」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/auspicious",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 auspicious 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/auspicious",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "promising",
       "start",
       "sign",
-      "adjective",
-      "auspicious"
+      "auspicious",
+      "adjective"
     ]
   },
   "sourceAudit": [

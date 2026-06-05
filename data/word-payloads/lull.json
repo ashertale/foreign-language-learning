@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.78"
     },
-    "coreIdea": "<code>lull</code> 用來把場面裡的「短暫平靜」正式點出來，讓它從感受或評語變成可以被命名的東西。",
+    "coreIdea": "<code>lull</code> 是一段短暫安靜；它可以是真休息，也可能只是下一波之前的空檔。",
     "definition": {
-      "summary": "表示暫時的平靜、停頓或低潮。這個名詞把場面裡那份「短暫平靜」收成一個可以被指出的東西。",
+      "summary": "指暫時平靜、停頓、低潮；作動詞時可表示安撫使放鬆。",
       "contrast": {
         "word": "Pause",
-        "note": "<code>Pause</code> 可以只是在說「停頓」；換成 <code>lull</code>，句子通常是在補上「短暫平靜」這層更具體的意思。"
+        "note": "<code>pause</code> 是停一下；<code>lull</code> 是壓力暫時退成安靜。"
       },
       "flow": [
-        "先有一個值得被點出的結果、狀態或評價",
-        "這個名詞把它收成「短暫平靜」這樣一個可指稱的東西",
-        "所以句子不是在補修飾，而是在正式命名"
+        "活動或壓力原本存在",
+        "短暫安靜出現",
+        "後續可能恢復或升高"
       ]
     },
     "memory": {
-      "hook": "<code>lull</code> 的畫面是：像海浪退了半拍，沙面剛平整，下一波又在遠處蓄力。",
-      "explanation": "這個畫面有用，因為它把 lull 從翻譯拉回場面：你先看到「浪退半拍下一波又來」，再比較容易記住它其實在說「短暫平靜」。"
+      "hook": "把 <code>lull before the storm</code> 想成 pager 暫時不響，但雲還在壓低。",
+      "explanation": "lull 的安靜未必安全。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>brief lull</code> 聽起來不像隨口描述，更像是把場面裡那份「短暫平靜」正式點出來。"
+        "label": "短暫平靜",
+        "body": "There was a brief <code>lull</code> after the first wave of tickets."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 營運 / 觀察 裡，<code>lull in activity</code> 常不是某個人的一時看法，而是已經可以被辨認、被談論的東西。"
+        "label": "活動",
+        "body": "A lull in activity can be a good time to repair the process."
       },
       {
-        "label": "延伸版",
-        "body": "到了 敘事 / 比喻 的場景，<code>lull before the storm</code> 會讓這個字從抽象印象變成語境裡具體可指的對象。"
+        "label": "風暴前",
+        "body": "The"
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個名詞通常在哪些場面被點出。",
+      "note": "lull 常接 brief、in activity、before the storm；搭配會說明平靜有多短、在什麼之前。",
       "items": [
         {
           "phrase": "brief lull",
-          "register": "工作 / 節奏",
-          "note": "放到 工作 / 節奏 的場景裡，這個搭配會把「短暫平靜」具體點出來。"
+          "register": "敘事 / 工作",
+          "note": "短暫平靜。"
         },
         {
           "phrase": "lull in activity",
-          "register": "營運 / 觀察",
-          "note": "在 營運 / 觀察 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "分析 / 日常",
+          "note": "活動低潮或暫停。"
         },
         {
           "phrase": "lull before the storm",
-          "register": "敘事 / 比喻",
-          "note": "到了 敘事 / 比喻 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "固定語 / 敘事",
+          "note": "暴風雨前的寧靜。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "短暫平靜",
-        "use": "當你要把「先短暫安靜下來」當成一個可被點出的東西來說，而不只是 停頓 時"
+        "use": "用在動態場面中出現短暫安靜或低潮時。"
       },
       "others": [
         {
           "word": "Pause",
-          "meaning": "停頓",
-          "use": "當句子只需要 停頓 這個比較平的說法，不必把那份「先短暫安靜下來」正式點名時"
+          "meaning": "暫停",
+          "use": "中性；<code>lull</code> 更像活動或壓力自然降下來的一段。"
+        },
+        {
+          "word": "Calm",
+          "meaning": "平靜",
+          "use": "可長可短；lull 常是短暫間歇。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>lull</code> 常黏在 <code>brief lull</code>、<code>lull in activity</code> 這些搭配附近，因為它擅長把場面裡那份「短暫平靜」正式點名。",
-      "所以它和 <code>Pause</code> 的差別，通常不在難易，而在你要不要把那件事說成一個可被指出、可被談論的對象。"
+      "<code>Lull</code> 很適合 incident、market、crowd、storm 的節奏描述。",
+      "小心 lull into a false sense of security，表示短暫平靜讓人誤以為安全。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 lull 整理成「短暫平靜」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/lull",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 lull 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/lull",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "pause",
       "activity",
       "timing",
-      "noun",
-      "lull"
+      "lull",
+      "noun"
     ]
   },
   "sourceAudit": [

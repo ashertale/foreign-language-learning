@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.43"
     },
-    "coreIdea": "<code>debilitate</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「弱到影響功能」這條線走。",
+    "coreIdea": "<code>debilitate</code> 是削弱到功能受損，不只是讓人累，而是讓原本能運作的能力下降。",
     "definition": {
-      "summary": "表示使虛弱、削弱功能或行動力。它要補上的，通常不是動作本身，而是那層更具體的「弱到原本能做的事開始做不動」。",
+      "summary": "表示使身體、系統、組織或能力變得虛弱無力。",
       "contrast": {
         "word": "Weaken",
-        "note": "如果語境只需要比較平的「削弱」，用 <code>Weaken</code> 往往就夠了；<code>debilitate</code> 則會把「弱到原本能做的事開始做不動」講得更明確。"
+        "note": "<code>weaken</code> 只是變弱；<code>debilitate</code> 是弱到做不動或跑不穩。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「弱到原本能做的事開始做不動」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "力量或能力被消耗",
+        "功能開始下降",
+        "正常運作變得困難"
       ]
     },
     "memory": {
-      "hook": "<code>debilitate</code> 的畫面是：像電池不是掉一格，而是掉到連開機都變得吃力。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 debilitate 時，能先抓到「弱到影響功能」這個核心，再回頭讀細節。"
+      "hook": "把 <code>debilitate the network</code> 想成不是慢一下，而是整個吞吐、恢復和穩定度都被拖垮。",
+      "explanation": "debilitate 的結果是 capacity loss。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>debilitating illness</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「弱到影響功能」這個方向講清楚。"
+        "label": "疾病",
+        "body": "A <code>debilitating</code> illness can shrink a person's daily world."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>debilitate the network</code> 放進 工程 / 系統 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "網路",
+        "body": "A"
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 工作 / 情緒 的情境，從 <code>debilitated by stress</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "壓力",
+        "body": "Being debilitated by stress means stress has crossed from discomfort into lost function."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "debilitate 常以 debilitating、debilitated by 出現；搭配關心功能被削弱到什麼程度。",
       "items": [
         {
           "phrase": "debilitating illness",
-          "register": "健康 / 醫療",
-          "note": "這個搭配常出現在需要把事情往「弱到影響功能」講清楚的句子裡。"
+          "register": "醫療 / 日常",
+          "note": "使人衰弱的疾病。"
         },
         {
           "phrase": "debilitate the network",
           "register": "工程 / 系統",
-          "note": "放到 工程 / 系統 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "note": "削弱網路功能。"
         },
         {
           "phrase": "debilitated by stress",
-          "register": "工作 / 情緒",
-          "note": "在 工作 / 情緒 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "心理 / 工作",
+          "note": "被壓力耗到功能下降。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "弱到影響功能",
-        "use": "當你要把事情說成「弱到原本能做的事開始做不動」而不只是 削弱 時"
+        "use": "用在削弱程度已經影響正常運作或行動能力時。"
       },
       "others": [
         {
           "word": "Weaken",
           "meaning": "削弱",
-          "use": "當句子只需要 削弱 這個動作，不必補上「弱到原本能做的事開始做不動」那層走向時"
+          "use": "通用；<code>debilitate</code> 是削弱到行動力或功能明顯受損。"
+        },
+        {
+          "word": "Exhaust",
+          "meaning": "耗盡、使疲憊",
+          "use": "重疲勞；<code>debilitate</code> 重能力下降。"
         }
       ]
     },
     "modernUse": [
-      "<code>debilitate</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>debilitating illness</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Weaken</code> 的差別，通常不在難度，而在句子要不要把那層「弱到影響功能」明白說出來。"
+      "<code>Debilitating</code> 常見於醫療和心理健康語境，用字要尊重實際嚴重性。",
+      "用在系統時，它能表達 partial failure：還沒死，但已經失去應有能力。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 debilitate 整理成「弱到影響功能」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/debilitate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 debilitate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/debilitate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "weaken",
       "health",
       "systems",
-      "verb",
-      "debilitate"
+      "debilitate",
+      "verb"
     ]
   },
   "sourceAudit": [

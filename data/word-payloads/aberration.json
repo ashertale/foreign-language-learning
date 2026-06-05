@@ -8,89 +8,103 @@
     "partOfSpeech": "noun",
     "pronunciation": "ab-er-RAY-shun · UK /ˌæb.əˈreɪ.ʃən/ · US /ˌæb.əˈreɪ.ʃən/",
     "hero": {
-      "thesis": "不是普通錯誤，而是偏離正常模式、需要被解釋的異常點。",
+      "thesis": "不是一般的異常，而是原本穩定的路徑忽然偏航，逼你判斷：這只是一次失準，還是規律變了？",
       "cefrLevel": "C1",
       "zipfFrequency": "3.64"
     },
-    "coreIdea": "<code>aberration</code> 把「偏離穩定模式的異常現象」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>aberration</code> 需要一條背景軌道。平常都照著某個模式走，某一次卻離開了那條線；這個字把注意力放在「偏離」本身，而不是急著判定它一定是 bug、災難或新趨勢。",
     "definition": {
-      "summary": "指偏離穩定模式的異常現象。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指偏離正常、預期或一貫模式的情況、行為或結果。它常用來描述一個不太代表整體狀態的異常點，也可以指光學或視覺上的失真。",
       "contrast": {
         "word": "Anomaly",
-        "note": "<code>anomaly</code> 泛稱異常；<code>aberration</code> 更像原本穩定的軌道突然偏出去。"
+        "note": "<code>anomaly</code> 是廣義的不尋常；<code>aberration</code> 更強調「從原本路徑偏出去」，常暗示這個偏離可能是暫時的、局部的，或需要被另外解釋。"
       },
       "flow": [
-        "先有正常基準",
-        "出現偏離",
-        "判斷是否偶發"
+        "先有穩定基準",
+        "某處偏離軌道",
+        "判斷是否代表趨勢"
       ]
     },
     "memory": {
-      "hook": "<code>aberration</code> 可以先記成一個畫面：先有正常基準，接著出現偏離，最後判斷是否偶發。",
-      "explanation": "這個畫面只用來幫你抓住「偏離穩定模式的異常現象」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>aberration</code> 像一條原本平穩的 trace，突然有一點跳離正常軌道。",
+      "explanation": "看到那個跳點時，先不要急著把整個系統貼上壞掉的標籤。這個字提醒你先問三件事：基準是什麼、偏離有多大、它會不會重複出現。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "在 log、影像或測量資料裡，aberration 讓你先問：這是雜訊，還是系統開始失準。"
+        "label": "人的行為",
+        "body": "一個平常冷靜的人突然做出粗暴決定，可以說 it was an <code>aberration</code>：不是替行為開脫，而是說它和此人的一貫模式不合。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>aberration</code> 和 <code>statistical aberration</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "資料 / 測試",
+        "body": "測試報告裡若只有一筆 reading 偏高，<code>aberration</code> 能保留判斷空間：它可能是量測雜訊、環境條件，也可能是系統剛開始失準。"
+      },
+      {
+        "label": "影像 / 光學",
+        "body": "在鏡頭、顯示或影像處理裡，<code>chromatic aberration</code> 指顏色邊緣錯位造成的色散或彩邊，這是很具體的技術用法。"
       }
     ],
     "collocations": {
-      "note": "<code>aberration</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「偏離穩定模式的異常現象」落地。",
+      "note": "這個字常和「一次性、統計、光學」相關的名詞搭配。搭配本身會告訴讀者：你是在談行為失準、資料偏離，還是視覺失真。",
       "items": [
         {
-          "phrase": "statistical aberration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「偏離穩定模式的異常現象」有明確對象。"
+          "phrase": "a temporary aberration",
+          "register": "正式 / 評論 / 管理",
+          "note": "表示某件事偏離常態，但你暫時不把它視為長期趨勢。常用在業績、行為、判斷或制度表現。"
         },
         {
-          "phrase": "temporary aberration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "phrase": "a statistical aberration",
+          "register": "資料分析 / 研究 / 報告",
+          "note": "指統計上看起來不尋常的結果，提醒讀者不要只靠單一數字過度推論。"
         },
         {
-          "phrase": "visual aberration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "phrase": "chromatic aberration",
+          "register": "光學 / 攝影 / 影像工程",
+          "note": "指鏡頭或光學系統讓不同顏色沒有落在同一位置，畫面邊緣可能出現彩色暈邊。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "偏離穩定模式的異常現象",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "從正常或一貫路徑偏出去的異常點，常需要判斷它是否只是局部失準",
+        "use": "用在資料、行為、判斷、光學或系統表現偏離既有基準時。"
       },
       "others": [
         {
           "word": "Anomaly",
-          "meaning": "<code>anomaly</code> 泛稱異常；<code>aberration</code> 更像原本穩定的軌道突然偏出去。",
-          "use": "如果句子只需要 anomaly 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不符合預期模式的異常現象，範圍較廣",
+          "use": "當你只想說「這不尋常，值得追查」，但還不想強調它是從某條路徑偏出去。"
+        },
+        {
+          "word": "Outlier",
+          "meaning": "資料分布裡離其他點很遠的觀察值",
+          "use": "偏統計與資料視覺化；重點是位置離群，不一定帶有行為或路徑偏航的語感。"
+        },
+        {
+          "word": "Error",
+          "meaning": "已被判定為錯誤或失敗",
+          "use": "當調查已經完成，確定那個結果不只是偏離，而是真的不正確。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>aberration</code> 常把一段觀察收斂成可討論的判斷。在 log、影像或測量資料裡，aberration 讓你先問：這是雜訊，還是系統開始失準。",
-      "像 <code>statistical aberration</code>、<code>temporary aberration</code>、<code>visual aberration</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "現代英文裡，<code>aberration</code> 常被用來避免過早下結論。說某個結果 is an aberration，通常是在說：它偏離常態，但目前還不足以證明整個模式已經改變。",
+      "這個字也有風險。如果同樣的偏離一再發生，再稱它為 <code>temporary aberration</code> 就會像是在粉飾問題。好用的判準是：一次偏航可以是 aberration；重複偏航就要改查 root cause。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 aberration 的概念邊界與常見語境。",
+        "note": "定義、發音與「偏離正常或預期」的核心義主要參考 Cambridge Dictionary；本頁用中文整理它和 anomaly、outlier、error 的邊界。",
         "url": "https://dictionary.cambridge.org/dictionary/english/aberration",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 aberration 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準此字在行為、結果與技術語境中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/aberration",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "來自 Latin <code>aberrare</code>，有「走離、偏離」的意思；字源畫面正好對應偏離軌道。",
-      "memoryLens": "記憶時先抓「偏離穩定模式的異常現象」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>aberration</code> 來自 Latin <code>aberrare</code>，可拆成 <code>ab-</code>（away）加上 <code>errare</code>（wander, stray）。字源畫面不是爆炸，而是走離原本的路。",
+      "memoryLens": "記憶時抓住「離開軌道」就好。字源幫你記方向感；真正使用時，重點仍是句子裡那條正常軌道是否存在。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,16 @@
     "word": "Aberration",
     "partOfSpeech": "noun",
     "href": "./aberration.html",
-    "thesis": "不是普通錯誤，而是偏離正常模式、需要被解釋的異常點。",
+    "thesis": "不是一般的異常，而是原本穩定的路徑忽然偏航，逼你判斷：這只是一次失準，還是規律變了？",
     "tags": [
       "異常",
-      "偏差",
+      "偏離",
+      "deviation",
       "anomaly",
-      "data",
+      "outlier",
+      "statistical aberration",
+      "chromatic aberration",
       "debug",
-      "noun",
       "noun"
     ]
   },

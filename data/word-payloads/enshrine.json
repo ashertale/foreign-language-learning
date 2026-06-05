@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.46"
     },
-    "coreIdea": "<code>enshrine</code> 常用在句子需要把動作往「正式珍藏」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>enshrine</code> 是把某個權利、原則或記憶放進制度或共同記憶的神龕裡。",
     "definition": {
-      "summary": "表示把價值、權利或記憶正式寫進制度或珍藏。這個字常不是在描述機械動作，而是在說事情怎麼往「正式珍藏」這個方向走。",
+      "summary": "表示正式珍藏、奉為重要；常指把權利或原則寫入法律、制度或記憶。",
       "contrast": {
         "word": "Preserve",
-        "note": "<code>Preserve</code> 可以只是在說「保存」；換成 <code>enshrine</code>，句子通常是在補上「正式珍藏」這層更具體的意思。"
+        "note": "<code>preserve</code> 是保存；<code>enshrine</code> 是把保存對象抬到值得敬重的位置。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「正式珍藏」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "價值或記憶被認為重要",
+        "它被放入制度或共同記憶",
+        "位置變得莊重且難任意移除"
       ]
     },
     "memory": {
-      "hook": "<code>enshrine</code> 的畫面是：像把一張重要紙頁放進玻璃框裡，從此不再只是隨手放著。",
-      "explanation": "這個畫面有用，因為它把 enshrine 從翻譯拉回場面：你先看到「放進玻璃框裡」，再比較容易記住它其實在說「正式珍藏」。"
+      "hook": "把 <code>enshrine the right</code> 想成權利不只被支持，而是被寫進一個更難任意移動的位置。",
+      "explanation": "enshrine 讓價值有正式位置。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>enshrine the right</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「正式珍藏」收過去。"
+        "label": "權利",
+        "body": "The"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 治理 / 文化 裡，<code>enshrine the principle</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「把它放進不易被動搖的位置」。"
+        "label": "原則",
+        "body": "A handbook can enshrine a principle, but practice decides whether it lives."
       },
       {
-        "label": "延伸版",
-        "body": "到了 敘事 / 情感 的場景，<code>enshrine in memory</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「保存」跟更具體的「正式珍藏」差在哪。"
+        "label": "記憶",
+        "body": "Communities enshrine in memory what they cannot afford to forget."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "enshrine 常接 right、principle，也常用 enshrine in memory；搭配都有珍視與正式保存。",
       "items": [
         {
           "phrase": "enshrine the right",
-          "register": "法規 / 制度",
-          "note": "這個搭配常出現在需要把事情往「正式珍藏」講清楚的句子裡。"
+          "register": "法律 / 政治",
+          "note": "將權利正式寫入制度。"
         },
         {
           "phrase": "enshrine the principle",
-          "register": "治理 / 文化",
-          "note": "放到 治理 / 文化 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "組織 / 倫理",
+          "note": "把原則制度化或奉為核心。"
         },
         {
           "phrase": "enshrine in memory",
-          "register": "敘事 / 情感",
-          "note": "在 敘事 / 情感 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "歷史 / 人際",
+          "note": "珍藏於記憶中。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "正式珍藏",
-        "use": "當你要把事情說成「把它放進不易被動搖的位置」而不只是 保存 時"
+        "use": "用在某物不只是被保留，而是被正式尊崇、制度化或記入共同記憶時。"
       },
       "others": [
         {
           "word": "Preserve",
           "meaning": "保存",
-          "use": "當句子只需要 保存 這個動作，不必補上「把它放進不易被動搖的位置」那層走向時"
+          "use": "範圍廣；<code>enshrine</code> 更有尊崇和正式位置。"
+        },
+        {
+          "word": "Include",
+          "meaning": "包含",
+          "use": "太平；<code>enshrine</code> 表示被安放為重要價值。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>enshrine</code> 常出現在 <code>enshrine the right</code>、<code>enshrine the principle</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「正式珍藏」這個方向收緊。",
-      "如果一句話只想表達比較平的「保存」，<code>Preserve</code> 往往就夠了；但當語境需要那層更具體的「把它放進不易被動搖的位置」，<code>enshrine</code> 會更準。"
+      "<code>Enshrine</code> 在法律、憲法、價值宣言中很常見。",
+      "它語氣很高，不適合描述普通存檔。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 enshrine 整理成「正式珍藏」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/enshrine",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 enshrine 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/enshrine",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "preserve",
       "rights",
       "memory",
-      "verb",
-      "enshrine"
+      "enshrine",
+      "verb"
     ]
   },
   "sourceAudit": [

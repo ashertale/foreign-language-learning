@@ -12,82 +12,92 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.99"
     },
-    "coreIdea": "<code>allot</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「切出份額」這條線走。",
+    "coreIdea": "<code>allot</code> 是從有限總量裡切出一份明確配額。它不只是給，而是分配。",
     "definition": {
-      "summary": "表示分配時間、資源、空間或名額給特定對象。它要補上的，通常不是動作本身，而是那層更具體的「從有限總量中切出一份明確額度」。",
+      "summary": "表示分配、撥出時間、資源、座位、預算或份額。",
       "contrast": {
         "word": "Assign",
-        "note": "如果語境只需要比較平的「分派」，用 <code>Assign</code> 往往就夠了；<code>allot</code> 則會把「從有限總量中切出一份明確額度」講得更明確。"
+        "note": "<code>assign</code> 是分派；<code>allot</code> 是從有限總量中切出一份。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「從有限總量中切出一份明確額度」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "總量有限",
+        "切出明確份額",
+        "份額有了邊界"
       ]
     },
     "memory": {
-      "hook": "<code>allot</code> 的畫面是：像一塊大布被仔細量過後裁成幾塊，每塊都有對應用途。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 allot 時，能先抓到「切出份額」這個核心，再回頭讀細節。"
+      "hook": "把 <code>allot</code> time 想成 sprint 裡真的保留 debug slot，不是口頭說有空再看。",
+      "explanation": "份額被切出來，其他事就不能隨便吃掉它。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>allot enough time</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「切出份額」這個方向講清楚。"
+        "label": "時間",
+        "body": "<code>Allot</code> enough time for validation，否則測試會被排程末端壓扁。"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>allot resources</code> 放進 管理 / 組織 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "資源",
+        "body": "Allot"
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 活動 / 程序 的情境，從 <code>allot seats</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "座位",
+        "body": "Seats were allotted before registration opened to the wider group."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "allot 常接 time、resources、seats。搭配都帶有限總量和明確份額。",
       "items": [
         {
           "phrase": "allot enough time",
-          "register": "排程 / 工作",
-          "note": "這個搭配常出現在需要把事情往「切出份額」講清楚的句子裡。"
+          "register": "專案 / 學習",
+          "note": "撥出足夠時間。"
         },
         {
           "phrase": "allot resources",
-          "register": "管理 / 組織",
-          "note": "放到 管理 / 組織 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "管理 / 專案",
+          "note": "分配資源。"
         },
         {
           "phrase": "allot seats",
-          "register": "活動 / 程序",
-          "note": "在 活動 / 程序 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "活動 / 教育",
+          "note": "分配座位或名額。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "切出份額",
-        "use": "當你要把事情說成「從有限總量中切出一份明確額度」而不只是 分派 時"
+        "use": "用在有限資源需要被切出明確份額時。"
       },
       "others": [
         {
           "word": "Assign",
-          "meaning": "分派",
-          "use": "當句子只需要 分派 這個動作，不必補上「從有限總量中切出一份明確額度」那層走向時"
+          "meaning": "指派",
+          "use": "可分派任務或角色。"
+        },
+        {
+          "word": "Allocate",
+          "meaning": "配置",
+          "use": "和 allot 接近，更常用於資源規劃。"
+        },
+        {
+          "word": "Give",
+          "meaning": "給",
+          "use": "最通用，不一定有配額感。"
         }
       ]
     },
     "modernUse": [
-      "<code>allot</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>allot enough time</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Assign</code> 的差別，通常不在難度，而在句子要不要把那層「切出份額」明白說出來。"
+      "<code>Allot</code> 對排程和資源很實際。沒有被 allotted 的時間，最後常會被更吵的事情吃掉。",
+      "它比 give 更制度化，常暗示總量有限。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 allot 整理成「切出份額」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/allot",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 allot 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/allot",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "assign",
       "resources",
       "scheduling",
-      "verb",
-      "allot"
+      "allot",
+      "verb"
     ]
   },
   "sourceAudit": [

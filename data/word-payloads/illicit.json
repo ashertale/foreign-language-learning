@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>illicit</code> 真正抓住的，不是程度高低，而是整體怎麼被「本身就不被允許」這個感覺支配。",
+    "coreIdea": "<code>illicit</code> 是不被允許的暗處交易或行為，常帶法律、道德或制度違規的陰影。",
     "definition": {
-      "summary": "表示非法、不正當、違規。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容非法、不正當、違規或未被允許的。",
       "contrast": {
         "word": "Illegal",
-        "note": "如果語境只需要比較平的「非法」，用 <code>Illegal</code> 往往就夠了；<code>illicit</code> 則會把「本身就不被允許」講得更明確。"
+        "note": "<code>illegal</code> 是違法；<code>illicit</code> 像違法或不正當行為躲在暗處。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「本身就不被允許」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "規則或禁令存在",
+        "行為越過允許範圍",
+        "隱蔽或不正當感出現"
       ]
     },
     "memory": {
-      "hook": "<code>illicit</code> 的畫面是：像後門不是剛好沒人看，而是從一開始就不該被打開。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 illicit 時，能先抓到「非法違規」這個核心，再回頭讀細節。"
+      "hook": "把 <code>illicit access</code> 想成不是正常權限開錯，而是本來不該進去的人進去了。",
+      "explanation": "illicit 的核心是 forbidden。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>illicit trade</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「非法違規」這層氣質壓到前景。"
+        "label": "交易",
+        "body": "<code>Illicit</code> trade often depends on hiding the path as much as hiding the goods."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>illicit payment</code> 放進 商務 / 合規 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "付款",
+        "body": "An"
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 系統 / 安全 的情境，從 <code>illicit access</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "存取",
+        "body": "Illicit access turns a technical event into a trust and compliance problem."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "illicit 常修飾 trade、payment、access；搭配多半和違規利益或未授權行為有關。",
       "items": [
         {
           "phrase": "illicit trade",
-          "register": "公共 / 法規",
-          "note": "這個搭配會讓「非法違規」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "法律 / 經濟",
+          "note": "非法交易。"
         },
         {
           "phrase": "illicit payment",
-          "register": "商務 / 合規",
-          "note": "在 商務 / 合規 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "合規 / 商務",
+          "note": "不正當付款。"
         },
         {
           "phrase": "illicit access",
-          "register": "系統 / 安全",
-          "note": "如果你想把這個字用穩，從 系統 / 安全 常見的這個搭配進場通常最自然。"
+          "register": "資安 / 法規",
+          "note": "未授權存取。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "非法違規",
-        "use": "當你要強調整體帶著「本身就不被允許」這種質地，而不只是 非法 時"
+        "use": "用在行為不只是錯，而是處在禁區或暗處時。"
       },
       "others": [
         {
           "word": "Illegal",
           "meaning": "非法",
-          "use": "當句子只需要 非法 這個中性描述，不必把「本身就不被允許」這種氣質壓到前景時"
+          "use": "重法律明文；<code>illicit</code> 也可含不正當、見不得光。"
+        },
+        {
+          "word": "Unauthorized",
+          "meaning": "未授權",
+          "use": "偏權限；<code>illicit</code> 道德與法律陰影更廣。"
         }
       ]
     },
     "modernUse": [
-      "<code>illicit</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>illicit trade</code>、<code>illicit payment</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「非法」，<code>Illegal</code> 也許夠用；但當你需要的是更具體的「本身就不被允許」，<code>illicit</code> 會更準。"
+      "<code>Illicit</code> 很常見於 trade、drugs、payments、access。",
+      "它通常比 illegal 更有秘密和不正當的味道。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 illicit 整理成「非法違規」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/illicit",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 illicit 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/illicit",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "illegal",
       "compliance",
       "security",
-      "adjective",
-      "illicit"
+      "illicit",
+      "adjective"
     ]
   },
   "sourceAudit": [

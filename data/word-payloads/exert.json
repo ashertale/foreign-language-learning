@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "4.04"
     },
-    "coreIdea": "<code>exert</code> 關心的是「施加力量、影響或努力」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>exert</code> 不是擁有力量，而是把力量、壓力、影響或努力實際作用到某個對象上。",
     "definition": {
-      "summary": "表示施加力量、影響或努力。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示施加壓力、影響、力量，或付出努力。",
       "contrast": {
         "word": "Have",
         "note": "<code>have influence</code> 是有影響；<code>exert influence</code> 是把影響力作用到對象上。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>exert</code> 可以先記成一個畫面：力量存在，接著朝對象施加，最後產生壓力或效果。",
-      "explanation": "這個畫面只用來幫你抓住「施加力量、影響或努力」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>exert</code> 想成 clock drift 雖然小，卻一直壓著 timing margin。",
+      "explanation": "力量不一定大聲，但它有方向、有作用點。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "clock drift can exert pressure on timing margin，即使它本身不是唯一原因。"
+        "label": "Timing",
+        "body": "clock drift can <code>exert</code> pressure on timing margin，即使它本身不是唯一原因。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>exert</code> 和 <code>exert pressure</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "影響",
+        "body": "A senior engineer can exert influence without issuing orders."
+      },
+      {
+        "label": "努力",
+        "body": "To exert effort is to spend real energy, not simply intend to help."
       }
     ],
     "collocations": {
-      "note": "<code>exert</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「施加力量、影響或努力」落地。",
+      "note": "exert 常接 pressure、influence、effort。搭配會標出被施加的是壓力、影響力還是體力心力。",
       "items": [
         {
           "phrase": "exert pressure",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「施加力量、影響或努力」有明確對象。"
+          "register": "物理 / 管理 / 政治",
+          "note": "對某對象施加壓力。"
         },
         {
           "phrase": "exert influence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "組織 / 政治",
+          "note": "把影響力作用到決策或人身上。"
         },
         {
           "phrase": "exert effort",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 日常",
+          "note": "付出實際心力或體力。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "施加力量、影響或努力",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在力量或影響不是靜態存在，而是對某對象產生作用時。"
       },
       "others": [
         {
           "word": "Have",
-          "meaning": "<code>have influence</code> 是有影響；<code>exert influence</code> 是把影響力作用到對象上。",
-          "use": "如果句子只需要 have 的普通意思，就保留那個較簡單的字。"
+          "meaning": "擁有",
+          "use": "只是存在；exert 是作用出去。"
+        },
+        {
+          "word": "Apply",
+          "meaning": "施加、套用",
+          "use": "較通用，可用於力、規則或方法。"
+        },
+        {
+          "word": "Exercise",
+          "meaning": "行使",
+          "use": "常用於權力或權利。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>exert</code> 常把一段觀察收斂成可討論的判斷。clock drift can exert pressure on timing margin，即使它本身不是唯一原因。",
-      "像 <code>exert pressure</code>、<code>exert influence</code>、<code>exert effort</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Exert</code> 很適合寫非直接原因。某因素可能不是唯一 root cause，卻一直 exert pressure on the system。",
+      "人際和政治裡 exert influence 也常表示不用正式權力也能推動結果。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 exert 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 exert 整理成「施加力量、影響或努力」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/exert",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>exserere</code>，有伸出、推出的方向。",
-      "memoryLens": "記憶時先抓「施加力量、影響或努力」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "伸出、推出的字源畫面很好記：exert 是把力量伸出去。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "influence",
       "pressure",
       "effort",
-      "verb",
       "verb"
     ]
   },

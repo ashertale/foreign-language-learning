@@ -63,7 +63,7 @@
       <section class="chapter" id="core">
         <div class="core-card">
           <p class="section-label">Core Idea</p>
-          <p><code>declarative</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「陳述式、描述目標狀態」。</p>
+          <p><code>declarative</code> 說的是描述想要成立的狀態，而不是一步步命令系統怎麼走到那裡。</p>
         </div>
       </section>
 
@@ -73,7 +73,7 @@
         <div class="definition-grid">
           <div class="tile">
             <strong>Declarative</strong>
-            <p>形容陳述式、描述目標狀態的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。</p>
+            <p>形容語句、語法、設定或風格以宣告狀態或事實為主，而非逐步指示操作流程。</p>
           </div>
           <div class="tile">
             <strong>不是 Imperative</strong>
@@ -93,14 +93,14 @@
         <p class="section-label">Origin</p>
         <h2>字源</h2>
         <p>來自 declare 的宣告概念；重點是說出狀態，而不是指揮流程。</p>
-        <p>記憶時先抓「陳述式、描述目標狀態的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。</p>
+        <p>declare 像把旗子插下去：declarative 直接把要成立的事說出口。</p>
       </section>
 
       <section class="chapter" id="memory">
         <p class="section-label">Memory Hook</p>
         <h2>記憶鉤子</h2>
-        <p class="quote-line"><code>declarative</code> 可以先記成一個畫面：描述目標，接著隱藏步驟，最後由系統求出做法。</p>
-        <p>這個畫面只用來幫你抓住「陳述式、描述目標狀態」；真正使用時，要回到句子裡看它標出的邊界。</p>
+        <p class="quote-line">把 <code>declarative</code> config 想成告訴系統 desired state。</p>
+        <p>你說要什麼，系統自己求怎麼到；這和逐行下命令不同。</p>
       </section>
 
       <section class="chapter" id="usage">
@@ -108,12 +108,16 @@
         <h2>生活與專業情境</h2>
         <div class="example-grid">
           <div class="example">
-            <strong>實務判斷</strong>
-            <p>declarative config 說 desired state，而不是逐行指揮每個操作。</p>
+            <strong>設定</strong>
+            <p><code>Declarative</code> config 說 desired state，而不是逐行指揮每個操作。</p>
           </div>
           <div class="example">
-            <strong>寫作語氣</strong>
-            <p>寫作時可以讓 <code>declarative</code> 和 <code>declarative syntax</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。</p>
+            <strong>語法</strong>
+            <p>SQL feels declarative because you describe what data you want, not every step to fetch it。</p>
+          </div>
+          <div class="example">
+            <strong>語句</strong>
+            <p>A declarative statement simply states something; it is not a question or command。</p>
           </div>
         </div>
       </section>
@@ -121,28 +125,28 @@
       <section class="chapter" id="collocations">
         <p class="section-label">Collocations</p>
         <h2>常見搭配與語域</h2>
-        <p class="overlap-note"><code>declarative</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「陳述式、描述目標狀態」落地。</p>
+        <p class="overlap-note">declarative 的搭配會在語言學和工程間切換，但核心都和「宣告狀態」有關。</p>
         <div class="collocation-list" aria-label="declarative collocations">
           <article class="collocation-card">
             <div>
               <strong>declarative syntax</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">程式語言 / 設定</span>
             </div>
-            <p>適合放在正式文件或分析裡，讓「陳述式、描述目標狀態」有明確對象。</p>
+            <p>語法重點在描述結果或關係，而不是控制流程。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>declarative configuration</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">DevOps / 系統</span>
             </div>
-            <p>語氣比一般說法更收斂，通常用來標出問題的範圍或程度。</p>
+            <p>寫 desired state，由工具負責收斂。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>declarative statement</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">語法 / 語言學</span>
             </div>
-            <p>可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。</p>
+            <p>陳述句，用來說出事實或主張。</p>
           </article>
         </div>
       </section>
@@ -163,12 +167,17 @@
               <tr>
                 <td>Declarative</td>
                 <td>陳述式、描述目標狀態的</td>
-                <td>當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。</td>
+                <td>用在重點是宣告狀態、事實或目標，而不是列出操作步驟時。</td>
               </tr>
               <tr>
                 <td>Imperative</td>
-                <td><code>imperative</code> 告訴系統怎麼做；<code>declarative</code> 告訴系統要成為什麼樣。</td>
-                <td>如果句子只需要 imperative 的普通意思，就保留那個較簡單的字。</td>
+                <td>命令式</td>
+                <td>告訴系統一步步怎麼做。</td>
+              </tr>
+              <tr>
+                <td>Procedural</td>
+                <td>程序式</td>
+                <td>強調執行步驟和流程。</td>
               </tr>
             </tbody>
           </table>
@@ -178,8 +187,8 @@
       <section class="chapter" id="modern">
         <p class="section-label">Modern Use</p>
         <h2>現代延伸</h2>
-        <p>在工作英文裡，<code>declarative</code> 常把一段觀察收斂成可討論的判斷。declarative config 說 desired state，而不是逐行指揮每個操作。</p>
-        <p>像 <code>declarative syntax</code>、<code>declarative configuration</code>、<code>declarative statement</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。</p>
+        <p><code>Declarative</code> 在現代基礎設施、UI 和資料查詢裡很常見，因為它把維護焦點從步驟轉到狀態。</p>
+        <p>但 declarative 不代表沒有邏輯；邏輯只是被放到工具、runtime 或 solver 裡處理。</p>
       </section>
 
       <section class="chapter" id="sources">
@@ -188,7 +197,7 @@
         <div class="source-grid">
           <article class="source-card">
             <strong>詞典來源</strong>
-            <p>定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 declarative 的概念邊界與常見語境。</p>
+            <p>定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 declarative 整理成「陳述式、描述目標狀態的」的學習概念。</p>
             <a href="https://dictionary.cambridge.org/dictionary/english/declarative" target="_blank" rel="noreferrer">Cambridge Dictionary</a>
           </article>
           <article class="source-card">

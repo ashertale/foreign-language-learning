@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.69"
     },
-    "coreIdea": "<code>assail</code> 常用在句子需要把動作往「猛烈抨擊」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>assail</code> 不是普通批評，而是像一波攻勢從多處打來，語氣猛烈。",
     "definition": {
-      "summary": "表示猛烈攻擊、抨擊或襲擊。這個字常不是在描述機械動作，而是在說事情怎麼往「猛烈抨擊」這個方向走。",
+      "summary": "表示猛烈攻擊、抨擊，或被疑慮、問題等強烈困擾。",
       "contrast": {
         "word": "Attack",
-        "note": "<code>Attack</code> 可以只是在說「攻擊」；換成 <code>assail</code>，句子通常是在補上「猛烈抨擊」這層更具體的意思。"
+        "note": "<code>attack</code> 很廣；<code>assail</code> 帶猛烈、連續壓上來的攻勢感。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「猛烈抨擊」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "目標被盯上",
+        "攻擊或疑慮湧來",
+        "壓力集中到對象身上"
       ]
     },
     "memory": {
-      "hook": "<code>assail</code> 的畫面是：像暴雨不是一滴一滴落，而是整片斜打到你身上。",
-      "explanation": "這個畫面有用，因為它把 assail 從翻譯拉回場面：你先看到「從各方向打來」，再比較容易記住它其實在說「猛烈抨擊」。"
+      "hook": "把 <code>assail</code> the proposal 想成問題不是一兩個，而是批評連續從各方向打上來。",
+      "explanation": "它有攻勢感。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>assail the proposal</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「猛烈抨擊」收過去。"
+        "label": "提案",
+        "body": "Reviewers may <code>assail</code> the proposal if assumptions are hidden and risks are vague."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 心理 / 情緒 裡，<code>assailed by doubts</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「成串地從各方向打過來」。"
+        "label": "疑慮",
+        "body": "Assailed by doubts 表示疑慮一波波壓上來，不只是稍微擔心。"
       },
       {
-        "label": "延伸版",
-        "body": "到了 敘事 / 動作 的場景，<code>assail the target</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「攻擊」跟更具體的「猛烈抨擊」差在哪。"
+        "label": "目標",
+        "body": "The"
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "assail 常接 proposal、by doubts、target。搭配會把攻擊或困擾的方向說清楚。",
       "items": [
         {
           "phrase": "assail the proposal",
-          "register": "評論 / 公共",
-          "note": "這個搭配常出現在需要把事情往「猛烈抨擊」講清楚的句子裡。"
+          "register": "正式 / 評論",
+          "note": "猛烈批評提案。"
         },
         {
           "phrase": "assailed by doubts",
-          "register": "心理 / 情緒",
-          "note": "放到 心理 / 情緒 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "文學 / 反思",
+          "note": "被疑慮困擾。"
         },
         {
           "phrase": "assail the target",
-          "register": "敘事 / 動作",
-          "note": "在 敘事 / 動作 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "軍事 / 比喻",
+          "note": "攻擊目標。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "猛烈抨擊",
-        "use": "當你要把事情說成「成串地從各方向打過來」而不只是 攻擊 時"
+        "use": "用在攻擊、批評或疑慮強烈而連續地壓向對象時。"
       },
       "others": [
         {
           "word": "Attack",
           "meaning": "攻擊",
-          "use": "當句子只需要 攻擊 這個動作，不必補上「成串地從各方向打過來」那層走向時"
+          "use": "通用。"
+        },
+        {
+          "word": "Criticize",
+          "meaning": "批評",
+          "use": "可輕可重。"
+        },
+        {
+          "word": "Bombard",
+          "meaning": "連續轟炸",
+          "use": "比喻大量訊息或問題湧來。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>assail</code> 常出現在 <code>assail the proposal</code>、<code>assailed by doubts</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「猛烈抨擊」這個方向收緊。",
-      "如果一句話只想表達比較平的「攻擊」，<code>Attack</code> 往往就夠了；但當語境需要那層更具體的「成串地從各方向打過來」，<code>assail</code> 會更準。"
+      "<code>Assail</code> 是書面而強烈的字，不適合小批評。",
+      "它也能用於內心：assailed by doubts 把疑慮寫成像外部攻勢一樣。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 assail 整理成「猛烈抨擊」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/assail",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 assail 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/assail",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "attack",
       "criticism",
       "pressure",
-      "verb",
-      "assail"
+      "assail",
+      "verb"
     ]
   },
   "sourceAudit": [

@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.70"
     },
-    "coreIdea": "<code>lucrative</code> 一出現，通常就在提醒你：眼前這個對象不是普通地呈現，而是整體都帶著「收益豐厚」這層氣質。",
+    "coreIdea": "<code>lucrative</code> 是有錢可賺，而且常暗示收益夠豐厚，值得人追逐。",
     "definition": {
-      "summary": "表示賺錢、收益豐厚。比起單純描述性質，它更像在標記一種會主導整體觀感的氣質。",
+      "summary": "形容合約、市場、職涯或機會收益豐厚、賺錢。",
       "contrast": {
         "word": "Profitable",
-        "note": "<code>Profitable</code> 比較像基礎說法；<code>lucrative</code> 常用來把那層更具體的「收益豐厚」拉到前景。"
+        "note": "<code>profitable</code> 是賺錢；<code>lucrative</code> 是賺得讓人眼睛亮。"
       },
       "flow": [
-        "先有一個場面本身已經帶著某種性格",
-        "這個形容詞把那層「收益豐厚」清楚地壓到前景",
-        "結果不是多一個修飾，而是整個觀感都被重新定調"
+        "機會或市場出現",
+        "金錢回報很高",
+        "吸引追逐與競爭"
       ]
     },
     "memory": {
-      "hook": "<code>lucrative</code> 的畫面是：像一條管線不是有水而已，而是水量足到整座水塔都能灌滿。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「回報高到很吸引人」看成一個會發生的場面。"
+      "hook": "把 <code>lucrative market</code> 想成不是有人買，而是利潤大到足以吸引競爭者進場。",
+      "explanation": "lucrative 的重點是 profit potential。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其單背形容詞意思，不如記 <code>lucrative contract</code> 這個搭配：它會直接示範這個字最自然會貼在哪種對象上。"
+        "label": "合約",
+        "body": "A <code>lucrative</code> contract can still be a bad deal if it drains the team."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 財務 / 市場 裡，<code>lucrative market</code> 不是只補一個性質，而是讓讀者一眼看出這個東西正帶著怎樣的氣氛。"
+        "label": "市場",
+        "body": "The niche became lucrative once compliance requirements created a barrier to entry."
       },
       {
-        "label": "延伸版",
-        "body": "到了 職涯 / 工作 場景時，<code>lucrative career</code> 常能幫你把這個字用穩，因為它讓抽象質地真正落到名詞上。"
+        "label": "職涯",
+        "body": "A lucrative career is not the same as a sustainable one."
       }
     ],
     "collocations": {
-      "note": "這組搭配的重點，是讓「怎樣的質地」這件事不再飄在空中，而是直接落到名詞上。",
+      "note": "lucrative 常修飾 contract、market、career；搭配都指向金錢回報。",
       "items": [
         {
           "phrase": "lucrative contract",
-          "register": "商業 / 合約",
-          "note": "這個搭配會讓「收益豐厚」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "商務 / 法務",
+          "note": "收益豐厚的合約。"
         },
         {
           "phrase": "lucrative market",
-          "register": "財務 / 市場",
-          "note": "在 財務 / 市場 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "商業 / 策略",
+          "note": "有利可圖的市場。"
         },
         {
           "phrase": "lucrative career",
-          "register": "職涯 / 工作",
-          "note": "如果你想把這個字用穩，從 職涯 / 工作 常見的這個搭配進場通常最自然。"
+          "register": "職涯 / 日常",
+          "note": "收入高的職涯。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "收益豐厚",
-        "use": "當你要強調整體帶著「回報高到很吸引人」這種質地，而不只是 有利可圖 時"
+        "use": "用在金錢收益高到成為主要吸引力時。"
       },
       "others": [
         {
           "word": "Profitable",
-          "meaning": "有利可圖",
-          "use": "當句子只需要 有利可圖 這個中性描述，不必把「回報高到很吸引人」這種氣質壓到前景時"
+          "meaning": "有利潤",
+          "use": "通用；<code>lucrative</code> 常暗示利潤很吸引人。"
+        },
+        {
+          "word": "Rewarding",
+          "meaning": "有回報、有成就",
+          "use": "可非金錢；lucrative 幾乎都和錢有關。"
         }
       ]
     },
     "modernUse": [
-      "現在的 <code>lucrative</code> 很少只是裝飾字。它一出現，通常就在要求讀者用「收益豐厚」這個角度重新看待眼前的對象。",
-      "所以它和 <code>Profitable</code> 的差別，不只在詞彙強度，而在整個場面要不要被這層氣質重新定義。"
+      "<code>Lucrative</code> 不等於 morally good，也不等於 low-risk。",
+      "它在商務分析中常和 market、deal、contract、career 搭配。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 lucrative 整理成「收益豐厚」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/lucrative",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 lucrative 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/lucrative",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "profitable",
       "career",
       "market",
-      "adjective",
-      "lucrative"
+      "lucrative",
+      "adjective"
     ]
   },
   "sourceAudit": [

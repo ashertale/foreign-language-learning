@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.08"
     },
-    "coreIdea": "<code>cynical</code> 真正抓住的，不是程度高低，而是整體怎麼被「先假定背後多半沒有那麼好」這個感覺支配。",
+    "coreIdea": "<code>cynical</code> 是先懷疑動機，把人的善意、制度的承諾都讀成自利算計。",
     "definition": {
-      "summary": "表示憤世或犬儒地認為他人出發點多半自私、不真誠。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容犬儒、憤世、傾向認為他人動機自私或不真誠。",
       "contrast": {
         "word": "Skeptical",
-        "note": "如果語境只需要比較平的「懷疑」，用 <code>Skeptical</code> 往往就夠了；<code>cynical</code> 則會把「先假定背後多半沒有那麼好」講得更明確。"
+        "note": "<code>skeptical</code> 會要求證據；<code>cynical</code> 常已經先判定人不可信。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「先假定背後多半沒有那麼好」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "承諾或善意出現",
+        "人先讀成自利或虛偽",
+        "不信任主導判斷"
       ]
     },
     "memory": {
-      "hook": "<code>cynical</code> 的畫面是：像收到禮物先不看包裝，而是先猜送的人想換到什麼。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 cynical 時，能先抓到「先假定沒那麼好」這個核心，再回頭讀細節。"
+      "hook": "把 <code>cynical view</code> 想成每次聽到願景，都先問「這背後誰在賺？」",
+      "explanation": "cynical 的懷疑不只針對事實，也針對動機。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>cynical view</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「先假定沒那麼好」這層氣質壓到前景。"
+        "label": "看法",
+        "body": "A <code>cynical</code> view may catch hypocrisy, but it can also miss real care."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>cynical joke</code> 放進 人際 / 語氣 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "玩笑",
+        "body": "A cynical joke often makes virtue sound naive."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 公共 / 社會 的情境，從 <code>cynical about politics</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "政治",
+        "body": "People become cynical about politics when promises repeatedly fail to meet lived reality."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "cynical 常接 view、joke、about politics；搭配都把不信任放進判斷方式裡。",
       "items": [
         {
           "phrase": "cynical view",
-          "register": "評論 / 分析",
-          "note": "這個搭配會讓「先假定沒那麼好」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "評論 / 社會",
+          "note": "犬儒式看法。"
         },
         {
           "phrase": "cynical joke",
-          "register": "人際 / 語氣",
-          "note": "在 人際 / 語氣 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "日常 / 寫作",
+          "note": "帶不信任與嘲諷的玩笑。"
         },
         {
           "phrase": "cynical about politics",
-          "register": "公共 / 社會",
-          "note": "如果你想把這個字用穩，從 公共 / 社會 常見的這個搭配進場通常最自然。"
+          "register": "社會 / 政治",
+          "note": "對政治抱犬儒態度。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "先假定沒那麼好",
-        "use": "當你要強調整體帶著「先假定背後多半沒有那麼好」這種質地，而不只是 懷疑 時"
+        "use": "用在懷疑已經成為看世界的姿態，尤其是懷疑人的動機時。"
       },
       "others": [
         {
           "word": "Skeptical",
           "meaning": "懷疑",
-          "use": "當句子只需要 懷疑 這個中性描述，不必把「先假定背後多半沒有那麼好」這種氣質壓到前景時"
+          "use": "可以是健康查證；<code>cynical</code> 更像預設人性自私。"
+        },
+        {
+          "word": "Pessimistic",
+          "meaning": "悲觀",
+          "use": "重結果不好；<code>cynical</code> 重動機不純。"
         }
       ]
     },
     "modernUse": [
-      "<code>cynical</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>cynical view</code>、<code>cynical joke</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「懷疑」，<code>Skeptical</code> 也許夠用；但當你需要的是更具體的「先假定背後多半沒有那麼好」，<code>cynical</code> 會更準。"
+      "<code>Cynical</code> 不等於聰明；它可能保護你，也可能讓你拒絕承認真誠。",
+      "在討論文化時，它能描述長期失望如何變成預設不信任。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cynical 整理成「先假定沒那麼好」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/cynical",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 cynical 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/cynical",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "skeptical",
       "trust",
       "politics",
-      "adjective",
-      "cynical"
+      "cynical",
+      "adjective"
     ]
   },
   "sourceAudit": [

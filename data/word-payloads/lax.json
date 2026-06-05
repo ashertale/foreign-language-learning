@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.82"
     },
-    "coreIdea": "<code>lax</code> 用來說某個人、系統或局面帶著「鬆到守不住」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>lax</code> 是該繃緊的地方鬆了：安全、標準、執法一鬆，風險就會進來。",
     "definition": {
-      "summary": "表示不夠嚴格、鬆散、草率。重點不是程度加強，而是整個對象都帶著「鬆到守不住」這種質地。",
+      "summary": "形容不夠嚴格、鬆散、草率，常造成風險。",
       "contrast": {
         "word": "Loose",
-        "note": "<code>Loose</code> 可以只是在說「鬆散」；換成 <code>lax</code>，句子通常是在補上「鬆到守不住」這層更具體的意思。"
+        "note": "<code>loose</code> 是鬆；<code>lax</code> 是規範鬆到讓風險進門。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「鬆到守不住」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "規則或防線存在",
+        "執行力度不足",
+        "風險因鬆散而增加"
       ]
     },
     "memory": {
-      "hook": "<code>lax</code> 的畫面是：像圍欄有門卻沒上鎖，看起來在，但其實誰都能進。",
-      "explanation": "這個畫面有用，因為它把 lax 從翻譯拉回場面：你先看到「圍欄有門卻沒上鎖」，再比較容易記住它其實在說「鬆到守不住」。"
+      "hook": "把 <code>lax security</code> 想成門不是沒有，而是鎖常常沒扣上。",
+      "explanation": "lax 的問題是 boundary too loose。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>lax security</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「鬆散」，而是整個對象都帶著「鬆到守不住」這種質地。"
+        "label": "安全",
+        "body": "<code>Lax</code>"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 品質 / 管理 裡，<code>lax standards</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "標準",
+        "body": "Lax standards make quality depend on individual conscience."
       },
       {
-        "label": "延伸版",
-        "body": "到了 制度 / 法規 的場景，<code>lax enforcement</code> 很適合用來練邊界：你要講的到底是一般的「鬆散」，還是更具體的「鬆到守不住」。"
+        "label": "執法",
+        "body": "Lax enforcement teaches people which rules are decorative."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "lax 常修飾 security、standards、enforcement；搭配都和守邊界的力度不足有關。",
       "items": [
         {
           "phrase": "lax security",
-          "register": "工程 / 安全",
-          "note": "這個搭配會讓「鬆到守不住」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "資安 / 風險",
+          "note": "鬆散的安全控管。"
         },
         {
           "phrase": "lax standards",
-          "register": "品質 / 管理",
-          "note": "在 品質 / 管理 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "品質 / 教育",
+          "note": "不嚴格的標準。"
         },
         {
           "phrase": "lax enforcement",
-          "register": "制度 / 法規",
-          "note": "如果你想把這個字用穩，從 制度 / 法規 常見的這個搭配進場通常最自然。"
+          "register": "法律 / 管理",
+          "note": "執法或落實鬆散。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "鬆到守不住",
-        "use": "當你要強調整體帶著「鬆到該守的邊界也沒守住」這種質地，而不只是 鬆散 時"
+        "use": "用在規範或防線不夠嚴，導致該守的東西守不住時。"
       },
       "others": [
         {
           "word": "Loose",
-          "meaning": "鬆散",
-          "use": "當句子只需要 鬆散 這個中性描述，不必把「鬆到該守的邊界也沒守住」這種氣質壓到前景時"
+          "meaning": "鬆",
+          "use": "可物理或口語；<code>lax</code> 特別是規範不嚴。"
+        },
+        {
+          "word": "Lenient",
+          "meaning": "寬容",
+          "use": "可有意放寬；<code>lax</code> 常批評鬆到不負責。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>lax</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「鬆到守不住」這種質地。",
-      "也因此，它和 <code>Loose</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Lax</code> 是資安和治理高頻字，常和 controls、oversight、security 連用。",
+      "它不是 flexible；flexible 可有彈性，lax 是鬆到出風險。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 lax 整理成「鬆到守不住」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/lax",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 lax 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/lax",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "loose",
       "security",
       "standards",
-      "adjective",
-      "lax"
+      "lax",
+      "adjective"
     ]
   },
   "sourceAudit": [

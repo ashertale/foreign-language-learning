@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.80"
     },
-    "coreIdea": "<code>liability</code> 把「責任、負債或風險負擔」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>liability</code> 是會拖出責任、成本或風險的負擔。它不只是缺點，而是可能讓你付代價的東西。",
     "definition": {
-      "summary": "指責任、負債或風險負擔。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "可指法律責任、債務，或使人 / 組織處於不利的風險負擔。",
       "contrast": {
         "word": "Weakness",
         "note": "<code>weakness</code> 是弱點；<code>liability</code> 會拖出法律、財務或實務後果。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>liability</code> 可以先記成一個畫面：某因素存在，接著成本或責任跟著來，最後變成風險負擔。",
-      "explanation": "這個畫面只用來幫你抓住「責任、負債或風險負擔」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>liability</code> 想成沒人敢動的 legacy module。",
+      "explanation": "它平常安靜，但每次改動都提高風險和成本。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "未維護的 legacy module can become a liability，因為每次改動都增加風險。"
+        "label": "Legacy",
+        "body": "未維護的 legacy module can become a <code>liability</code>，因為每次改動都增加風險。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>liability</code> 和 <code>legal liability</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "法律",
+        "body": "Legal"
+      },
+      {
+        "label": "潛在風險",
+        "body": "A potential liability may look harmless until conditions change."
       }
     ],
     "collocations": {
-      "note": "<code>liability</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「責任、負債或風險負擔」落地。",
+      "note": "liability 常接 legal、potential、become。搭配會指出負擔是法律、未來可能性，還是逐漸形成。",
       "items": [
         {
           "phrase": "legal liability",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「責任、負債或風險負擔」有明確對象。"
+          "register": "法律 / 商務",
+          "note": "法律責任，可能造成賠償或處罰。"
         },
         {
           "phrase": "potential liability",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "風險 / 財務",
+          "note": "可能變成負擔的因素。"
         },
         {
           "phrase": "become a liability",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 組織",
+          "note": "從資產或普通因素變成負擔。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "責任、負債或風險負擔",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某因素可能讓人承擔法律、財務、維護或實務後果時。"
       },
       "others": [
         {
           "word": "Weakness",
-          "meaning": "<code>weakness</code> 是弱點；<code>liability</code> 會拖出法律、財務或實務後果。",
-          "use": "如果句子只需要 weakness 的普通意思，就保留那個較簡單的字。"
+          "meaning": "弱點",
+          "use": "不一定拖出責任或成本。"
+        },
+        {
+          "word": "Risk",
+          "meaning": "風險",
+          "use": "可能造成損害；liability 更像已背在身上的負擔。"
+        },
+        {
+          "word": "Debt",
+          "meaning": "債務",
+          "use": "財務欠款；liability 可包含債務但更廣。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>liability</code> 常把一段觀察收斂成可討論的判斷。未維護的 legacy module can become a liability，因為每次改動都增加風險。",
-      "像 <code>legal liability</code>、<code>potential liability</code>、<code>become a liability</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Liability</code> 在工程管理裡常用來描述曾經有用、現在拖累系統的東西。",
+      "它也提醒你不要只看 asset。沒有 owner 的專家知識、沒有測試的關鍵模組，都可能從優勢變負債。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 liability 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 liability 整理成「責任、負債或風險負擔」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/liability",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 liable 的有責任、可能受影響概念。",
-      "memoryLens": "記憶時先抓「責任、負債或風險負擔」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "liable 的責任感是核心；liability 是會讓你負責或付成本的東西。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "risk",
       "legal",
       "legacy",
-      "noun",
       "noun"
     ]
   },

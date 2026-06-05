@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "衝突版",
-        "body": "A senior engineer may mediate a disagreement between teams. 這個情境凸顯「調解、居中協調；也可指作為中介因素」。"
+        "body": "A senior engineer may mediate a disagreement between teams, not by choosing a winner, but by making both constraints explicit."
       },
       {
         "label": "研究版",
-        "body": "Stress can mediate the relationship between workload and health. 讀這句時，焦點在「調解、居中協調；也可指作為中介因素」。"
+        "body": "Stress can mediate the relationship between workload and health, meaning it sits between the pressure and the outcome."
       }
     ],
     "collocations": {
@@ -88,7 +88,7 @@
     },
     "origin": {
       "history": "<code>mediate</code> 來自 Latin <code>medius</code>，意思是「中間的」。",
-      "memoryLens": "它的核心就是 middle：站在中間，讓兩邊有路可通。"
+      "memoryLens": "<code>medius</code> 把畫面放在中間；mediate 的人或因素站在兩端之間，讓關係有路可通。"
     }
   },
   "indexEntry": {

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.60"
     },
-    "coreIdea": "<code>collaborate</code> 關心的是「共同工作、一起完成某件事」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>collaborate</code> 表示成果完成之前，工作就已經被共同承擔。不是最後把零件接起來，而是在問題還沒定形時就一起思考。",
     "definition": {
-      "summary": "表示共同工作、一起完成某件事。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示共同工作、協作或共同創作，通常涉及一起思考、分擔責任並產出結果。它比單純配合更強調共同投入。",
       "contrast": {
         "word": "Cooperate",
         "note": "<code>cooperate</code> 是配合；<code>collaborate</code> 更強調共同創作與共同承擔。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>collaborate</code> 可以先記成一個畫面：問題被共享，接著知識互補，最後一起產出。",
-      "explanation": "這個畫面只用來幫你抓住「共同工作、一起完成某件事」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>collaborate</code> 像硬體、韌體、測試一起站在同一張 timing diagram 前。",
+      "explanation": "如果大家只是各做各的最後合併，那比較像 coordination；真正 collaborate 會在問題還沒定形時就互相影響。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "硬體、韌體、測試一起 collaborate，規格漏洞才不會在交界處逃走。"
+        "label": "跨團隊",
+        "body": "硬體、韌體、測試一起 <code>collaborate</code>，規格漏洞才不會在交界處逃走。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>collaborate</code> 和 <code>collaborate with</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "創作 / 研究",
+        "body": "Two researchers <code>collaborate on</code> a paper，表示想法、資料或寫作過程有共同投入。"
+      },
+      {
+        "label": "用字提醒",
+        "body": "<code>Collaborate with</code> 後面接合作對象；<code>collaborate on</code> 後面接共同做的作品或問題。"
       }
     ],
     "collocations": {
-      "note": "<code>collaborate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「共同工作、一起完成某件事」落地。",
+      "note": "collaborate 的搭配會切出兩件事：跟誰合作，以及在什麼問題上合作。",
       "items": [
         {
           "phrase": "collaborate with",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「共同工作、一起完成某件事」有明確對象。"
+          "register": "通用 / 職場",
+          "note": "後面接合作對象，例如 another team、a designer、a supplier。"
         },
         {
           "phrase": "cross-team collaboration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "組織 / 產品開發",
+          "note": "強調跨部門知識需要在同一問題上交會，不只是轉交任務。"
         },
         {
           "phrase": "collaborate on design",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工程 / 創作",
+          "note": "共同影響設計本身，而非只在設計完成後實作。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "共同工作、一起完成某件事",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在多方共同思考、共同產出，而不只是最後把零件接起來時。"
       },
       "others": [
         {
           "word": "Cooperate",
-          "meaning": "<code>cooperate</code> 是配合；<code>collaborate</code> 更強調共同創作與共同承擔。",
-          "use": "如果句子只需要 cooperate 的普通意思，就保留那個較簡單的字。"
+          "meaning": "配合、合作",
+          "use": "一起遵守規則或互相配合，不一定共同創作。"
+        },
+        {
+          "word": "Coordinate",
+          "meaning": "協調安排",
+          "use": "重點是時程、責任和接口對齊。"
+        },
+        {
+          "word": "Contribute",
+          "meaning": "貢獻",
+          "use": "提供一部分成果，不一定和他人一起形成整體。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>collaborate</code> 常把一段觀察收斂成可討論的判斷。硬體、韌體、測試一起 collaborate，規格漏洞才不會在交界處逃走。",
-      "像 <code>collaborate with</code>、<code>cross-team collaboration</code>、<code>collaborate on design</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "現代職場很愛說 collaborate，但真正的協作需要早期互相暴露限制。只在最後 review 別人的完成品，很難叫深度 collaboration。",
+      "這個字也帶 ownership：如果結果是共同產出的，功勞和問題通常也要一起承擔。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 collaborate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 collaborate 整理成「共同工作、一起完成某件事」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/collaborate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>collaborare</code>，意思接近「一起工作」。",
-      "memoryLens": "記憶時先抓「共同工作、一起完成某件事」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>collaborare</code> 的「一起工作」很直覺；現代用法的重點是 work together before the answer is fixed。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "cooperate",
       "team",
       "design",
-      "verb",
       "verb"
     ]
   },

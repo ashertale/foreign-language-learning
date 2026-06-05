@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.31"
     },
-    "coreIdea": "<code>efface</code> 常用在句子需要把動作往「抹去痕跡」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>efface</code> 是把痕跡、臉孔或存在感抹到看不見；它比 erase 更常碰到身份與可見度。",
     "definition": {
-      "summary": "表示抹去、消除存在感或刪除痕跡。這個字常不是在描述機械動作，而是在說事情怎麼往「抹去痕跡」這個方向走。",
+      "summary": "表示抹去、擦掉，也可指使自己不突出、消除存在感。",
       "contrast": {
         "word": "Erase",
-        "note": "<code>Erase</code> 可以只是在說「擦除」；換成 <code>efface</code>，句子通常是在補上「抹去痕跡」這層更具體的意思。"
+        "note": "<code>erase</code> 是擦掉；<code>efface</code> 像把可見的臉和痕跡抹平。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「抹去痕跡」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "表面有痕跡或存在感",
+        "它被擦除或壓低",
+        "可見性消失"
       ]
     },
     "memory": {
-      "hook": "<code>efface</code> 的畫面是：像沙灘上的腳印被海水洗平，走過的人像沒來過。",
-      "explanation": "這個畫面有用，因為它把 efface 從翻譯拉回場面：你先看到「腳印被海水洗平」，再比較容易記住它其實在說「抹去痕跡」。"
+      "hook": "把 <code>efface yourself</code> 想成不是謙虛而已，而是把自己的需要和名字從畫面裡擦掉。",
+      "explanation": "efface 的動作是從表面消失。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>efface the marks</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「抹去痕跡」收過去。"
+        "label": "痕跡",
+        "body": "Time and weather <code>effaced</code> the marks until the inscription could barely be read."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 人際 / 角色 裡，<code>efface yourself</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「把痕跡盡量抹到看不見」。"
+        "label": "自己",
+        "body": "Some people efface themselves in meetings until their work becomes invisible."
       },
       {
-        "label": "延伸版",
-        "body": "到了 敘事 / 推理 的場景，<code>efface the evidence</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「擦除」跟更具體的「抹去痕跡」差在哪。"
+        "label": "證據",
+        "body": "Trying"
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "efface 常接 marks、yourself、evidence；搭配從物理擦除延伸到存在感消失。",
       "items": [
         {
           "phrase": "efface the marks",
-          "register": "維護 / 清理",
-          "note": "這個搭配常出現在需要把事情往「抹去痕跡」講清楚的句子裡。"
+          "register": "正式 / 物理",
+          "note": "抹去痕跡。"
         },
         {
           "phrase": "efface yourself",
-          "register": "人際 / 角色",
-          "note": "放到 人際 / 角色 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "人際 / 文學",
+          "note": "讓自己退到幾乎不可見。"
         },
         {
           "phrase": "efface the evidence",
-          "register": "敘事 / 推理",
-          "note": "在 敘事 / 推理 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "法律 / 敘事",
+          "note": "消除證據痕跡。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "抹去痕跡",
-        "use": "當你要把事情說成「把痕跡盡量抹到看不見」而不只是 擦除 時"
+        "use": "用在痕跡、身份或存在感被抹掉、淡出可見範圍時。"
       },
       "others": [
         {
           "word": "Erase",
           "meaning": "擦除",
-          "use": "當句子只需要 擦除 這個動作，不必補上「把痕跡盡量抹到看不見」那層走向時"
+          "use": "更通用；<code>efface</code> 較正式，常有表面或存在感被抹掉。"
+        },
+        {
+          "word": "Delete",
+          "meaning": "刪除",
+          "use": "偏資料或文字；<code>efface</code> 更有痕跡消失的畫面。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>efface</code> 常出現在 <code>efface the marks</code>、<code>efface yourself</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「抹去痕跡」這個方向收緊。",
-      "如果一句話只想表達比較平的「擦除」，<code>Erase</code> 往往就夠了；但當語境需要那層更具體的「把痕跡盡量抹到看不見」，<code>efface</code> 會更準。"
+      "<code>Efface</code> 在文學和正式寫作中常見，不如 erase 日常。",
+      "self-effacing 是重要派生詞，指不突出自己，語氣可正可負。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 efface 整理成「抹去痕跡」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/efface",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 efface 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/efface",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "erase",
       "trace",
       "cleanup",
-      "verb",
-      "efface"
+      "efface",
+      "verb"
     ]
   },
   "sourceAudit": [

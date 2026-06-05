@@ -63,7 +63,7 @@
       <section class="chapter" id="core">
         <div class="core-card">
           <p class="section-label">Core Idea</p>
-          <p><code>opaque</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「不透明、難以理解或不可檢視」。</p>
+          <p><code>opaque</code> 不是單純複雜，而是看不進去：內部邏輯被遮住，所以人只能猜。</p>
         </div>
       </section>
 
@@ -73,7 +73,7 @@
         <div class="definition-grid">
           <div class="tile">
             <strong>Opaque</strong>
-            <p>形容不透明、難以理解或不可檢視的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。</p>
+            <p>形容不透明、難以理解、看不清內部運作或理由。</p>
           </div>
           <div class="tile">
             <strong>不是 Complex</strong>
@@ -93,14 +93,14 @@
         <p class="section-label">Origin</p>
         <h2>字源</h2>
         <p>來自 Latin <code>opacus</code>，意思接近陰暗、不透光。</p>
-        <p>記憶時先抓「不透明、難以理解或不可檢視的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。</p>
+        <p>不透光的字源畫面很直接；opaque 是光進不去，理解也進不去。</p>
       </section>
 
       <section class="chapter" id="memory">
         <p class="section-label">Memory Hook</p>
         <h2>記憶鉤子</h2>
-        <p class="quote-line"><code>opaque</code> 可以先記成一個畫面：內部被遮住，接著外部只能猜，最後信任下降。</p>
-        <p>這個畫面只用來幫你抓住「不透明、難以理解或不可檢視」；真正使用時，要回到句子裡看它標出的邊界。</p>
+        <p class="quote-line">把 <code>opaque</code> error message 想成只告訴使用者 failed，卻不給下一步。</p>
+        <p>問題不只是訊息短，而是沒有可行透明度。</p>
       </section>
 
       <section class="chapter" id="usage">
@@ -108,12 +108,16 @@
         <h2>生活與專業情境</h2>
         <div class="example-grid">
           <div class="example">
-            <strong>實務判斷</strong>
-            <p>opaque error message 讓使用者知道錯了，卻不知道該怎麼修。</p>
+            <strong>錯誤訊息</strong>
+            <p><code>Opaque</code> error message 讓使用者知道錯了，卻不知道該怎麼修。</p>
           </div>
           <div class="example">
-            <strong>寫作語氣</strong>
-            <p>寫作時可以讓 <code>opaque</code> 和 <code>opaque process</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。</p>
+            <strong>流程</strong>
+            <p>An opaque process reduces trust because people cannot see how decisions are made.</p>
+          </div>
+          <div class="example">
+            <strong>系統</strong>
+            <p>An opaque system may work, but it is hard to debug or audit.</p>
           </div>
         </div>
       </section>
@@ -121,28 +125,28 @@
       <section class="chapter" id="collocations">
         <p class="section-label">Collocations</p>
         <h2>常見搭配與語域</h2>
-        <p class="overlap-note"><code>opaque</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「不透明、難以理解或不可檢視」落地。</p>
+        <p class="overlap-note">opaque 常接 process、error、system。搭配都在描述看不見內部造成的信任或維護問題。</p>
         <div class="collocation-list" aria-label="opaque collocations">
           <article class="collocation-card">
             <div>
               <strong>opaque process</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">管理 / 法律</span>
             </div>
-            <p>適合放在正式文件或分析裡，讓「不透明、難以理解或不可檢視」有明確對象。</p>
+            <p>流程不透明，外人難以理解判斷。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>opaque error</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">軟體 / UX</span>
             </div>
-            <p>語氣比一般說法更收斂，通常用來標出問題的範圍或程度。</p>
+            <p>錯誤訊息看不出原因或下一步。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>opaque system</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">工程 / 政策</span>
             </div>
-            <p>可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。</p>
+            <p>內部運作不可見，難以稽核或 debug。</p>
           </article>
         </div>
       </section>
@@ -163,12 +167,22 @@
               <tr>
                 <td>Opaque</td>
                 <td>不透明、難以理解或不可檢視的</td>
-                <td>當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。</td>
+                <td>用在不可見性本身造成理解、信任或維護困難時。</td>
               </tr>
               <tr>
                 <td>Complex</td>
-                <td><code>complex</code> 是複雜；<code>opaque</code> 是因為看不進去而難以信任。</td>
-                <td>如果句子只需要 complex 的普通意思，就保留那個較簡單的字。</td>
+                <td>複雜</td>
+                <td>可能難但仍可看懂。</td>
+              </tr>
+              <tr>
+                <td>Obscure</td>
+                <td>晦澀、不清楚</td>
+                <td>重難懂或不知名。</td>
+              </tr>
+              <tr>
+                <td>Transparent</td>
+                <td>透明</td>
+                <td>反義，內部邏輯可見。</td>
               </tr>
             </tbody>
           </table>
@@ -178,8 +192,8 @@
       <section class="chapter" id="modern">
         <p class="section-label">Modern Use</p>
         <h2>現代延伸</h2>
-        <p>在工作英文裡，<code>opaque</code> 常把一段觀察收斂成可討論的判斷。opaque error message 讓使用者知道錯了，卻不知道該怎麼修。</p>
-        <p>像 <code>opaque process</code>、<code>opaque error</code>、<code>opaque system</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。</p>
+        <p><code>Opaque</code> 是 AI、平台和組織流程裡的常見批評字。不是所有複雜都糟，但看不見決策邏輯會讓人難以信任。</p>
+        <p>工程上，opaque abstraction 會讓使用者少做事，也可能讓 debug 失去抓手。</p>
       </section>
 
       <section class="chapter" id="sources">
@@ -188,7 +202,7 @@
         <div class="source-grid">
           <article class="source-card">
             <strong>詞典來源</strong>
-            <p>定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 opaque 的概念邊界與常見語境。</p>
+            <p>定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 opaque 整理成「不透明、難以理解或不可檢視的」的學習概念。</p>
             <a href="https://dictionary.cambridge.org/dictionary/english/opaque" target="_blank" rel="noreferrer">Cambridge Dictionary</a>
           </article>
           <article class="source-card">

@@ -8,89 +8,103 @@
     "partOfSpeech": "verb",
     "pronunciation": "uh-LOOD · UK /əˈluːd/ · US /əˈluːd/",
     "hero": {
-      "thesis": "不是直接說破，而是用一句話輕輕指向某個意思。",
+      "thesis": "不是明說，而是把線頭露出來，讓懂的人自己接到背後那件事。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.72"
     },
-    "coreIdea": "<code>allude</code> 關心的是「間接提到或暗示某件事」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>allude</code> 是一種間接指向。說話的人沒有把事情攤開講，卻放了一個 reference、暗線或提示，讓聽者知道那裡還有另一層意思。",
     "definition": {
-      "summary": "表示間接提到或暗示某件事。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示間接提到、暗指或含蓄引用某人某事。常見結構是 <code>allude to</code>，後面接被暗指的對象。",
       "contrast": {
         "word": "Mention",
-        "note": "<code>mention</code> 是明說；<code>allude</code> 是讓聽者自己接到暗線。"
+        "note": "<code>mention</code> 是直接提到；<code>allude</code> 是不點破，但讓人看見指向。"
       },
       "flow": [
-        "保留表面句子",
+        "表面句子成立",
         "暗線指向別處",
-        "讀者補上連結"
+        "讀者或聽者補上連結"
       ]
     },
     "memory": {
-      "hook": "<code>allude</code> 可以先記成一個畫面：保留表面句子，接著暗線指向別處，最後讀者補上連結。",
-      "explanation": "這個畫面只用來幫你抓住「間接提到或暗示某件事」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>allude</code> 像 code review 裡一句 <code>We have seen this pattern before</code>：沒有點名事故，但知道的人已經懂了。",
+      "explanation": "它的力道在於克制。allude 不是藏得完全看不見，也不是直接攤牌，而是讓線索剛好露出一點。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "review 裡說 “previous incidents taught us this” 可能是在 allude to 某次事故，不一定要點名。"
+        "label": "寫作 / 文學",
+        "body": "A novel may <code>allude to</code> a myth without retelling it. 讀者若知道典故，就會讀到第二層意思。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>allude</code> 和 <code>allude to</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "會議 / 組織",
+        "body": "Someone may allude to a past failure by saying the team should not repeat last year's mistake，這比直接翻舊帳更含蓄。"
+      },
+      {
+        "label": "語氣邊界",
+        "body": "<code>allude</code> 不等於 <code>imply</code>。imply 可以靠邏輯或語氣推出含意；allude 更像有意放一個 reference。"
       }
     ],
     "collocations": {
-      "note": "<code>allude</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「間接提到或暗示某件事」落地。",
+      "note": "這個動詞幾乎總是跟 <code>to</code> 走。搭配時重點是「你用什麼方式間接指向什麼」。",
       "items": [
         {
           "phrase": "allude to",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「間接提到或暗示某件事」有明確對象。"
+          "register": "通用 / 正式寫作",
+          "note": "最標準結構：<code>allude to a problem</code>、<code>allude to an earlier incident</code>。"
         },
         {
-          "phrase": "subtly allude",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "phrase": "briefly allude to",
+          "register": "報告 / 評論 / 學術",
+          "note": "表示只是短暫提到暗線，不展開細節。"
         },
         {
           "phrase": "allude in passing",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 書面",
+          "note": "指順帶暗示，語氣比 directly mention 更輕。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "間接提到或暗示某件事",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "間接提到、暗指或引用",
+        "use": "當說話者有意留下線索，但不把對象完整說破。"
       },
       "others": [
         {
           "word": "Mention",
-          "meaning": "<code>mention</code> 是明說；<code>allude</code> 是讓聽者自己接到暗線。",
-          "use": "如果句子只需要 mention 的普通意思，就保留那個較簡單的字。"
+          "meaning": "直接提到",
+          "use": "對象被清楚說出來，不需要讀者自己接線。"
+        },
+        {
+          "word": "Refer",
+          "meaning": "指稱、提及或參照",
+          "use": "比 allude 中性；可以直接也可以間接。"
+        },
+        {
+          "word": "Imply",
+          "meaning": "暗含、意味著",
+          "use": "重點是話中推出的含意，不一定有具體典故或 reference。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>allude</code> 常把一段觀察收斂成可討論的判斷。review 裡說 “previous incidents taught us this” 可能是在 allude to 某次事故，不一定要點名。",
-      "像 <code>allude to</code>、<code>subtly allude</code>、<code>allude in passing</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在專業溝通裡，<code>allude</code> 很適合描述那種不方便明講、但又不能完全不提的 reference。它讓句子保留禮貌，也保留訊號。",
+      "但 allude 也可能製造誤解。如果聽者沒有共同背景，暗線就接不上；這時候直接 mention 反而比較負責。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 allude 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 allude 整理成「間接指向某事」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/allude",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 allude 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 allude 在寫作、典故與正式溝通中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/allude",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "來自 Latin <code>alludere</code>，有「玩向、暗中指向」的味道。",
-      "memoryLens": "記憶時先抓「間接提到或暗示某件事」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>allude</code> 來自 Latin <code>alludere</code>，有「玩、戲弄、暗中觸及」的意味；詞史上不是直接 announce，而是側面碰到。",
+      "memoryLens": "把它記成「用一個輕碰代替直說」。你沒有把門打開，只是敲了一下，讓對方知道門後有東西。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Allude",
     "partOfSpeech": "verb",
     "href": "./allude.html",
-    "thesis": "不是直接說破，而是用一句話輕輕指向某個意思。",
+    "thesis": "不是明說，而是把線頭露出來，讓懂的人自己接到背後那件事。",
     "tags": [
       "暗示",
       "間接",
+      "allude to",
       "mention",
+      "imply",
       "writing",
       "reference",
-      "verb",
       "verb"
     ]
   },

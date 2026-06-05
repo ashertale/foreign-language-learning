@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>extraneous</code> 用來說某個人、系統或局面帶著「多餘無關」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>extraneous</code> 是從外面混進來、對眼前目的沒有幫助的東西；它讓注意力變髒。",
     "definition": {
-      "summary": "表示外來的、無關的、多餘的。重點不是程度加強，而是整個對象都帶著「多餘無關」這種質地。",
+      "summary": "形容無關的、外來的、多餘的，不屬於目前問題或系統。",
       "contrast": {
         "word": "Irrelevant",
-        "note": "<code>Irrelevant</code> 可以只是在說「不相關」；換成 <code>extraneous</code>，句子通常是在補上「多餘無關」這層更具體的意思。"
+        "note": "<code>irrelevant</code> 說無關；<code>extraneous</code> 像有東西從外面混入系統。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「多餘無關」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "目標或問題已定義",
+        "外部因素混入",
+        "理解或測量被干擾"
       ]
     },
     "memory": {
-      "hook": "<code>extraneous</code> 的畫面是：像機殼裡多塞了幾根不接任何端點的線，只會增加雜亂。",
-      "explanation": "這個畫面有用，因為它把 extraneous 從翻譯拉回場面：你先看到「機殼裡多塞不接端點的線」，再比較容易記住它其實在說「多餘無關」。"
+      "hook": "把 <code>extraneous variable</code> 想成實驗想測 A，卻有一個沒控制的 B 偷偷影響結果。",
+      "explanation": "extraneous 的問題是干擾判斷。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>extraneous detail</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「不相關」，而是整個對象都帶著「多餘無關」這種質地。"
+        "label": "細節",
+        "body": "Extraneous"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 研究 / 分析 裡，<code>extraneous variable</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "變因",
+        "body": "Control extraneous variables before claiming the new algorithm caused the gain."
       },
       {
-        "label": "延伸版",
-        "body": "到了 工程 / 訊號 的場景，<code>extraneous noise</code> 很適合用來練邊界：你要講的到底是一般的「不相關」，還是更具體的「多餘無關」。"
+        "label": "噪音",
+        "body": "Extraneous noise in the signal made the pattern look less stable than it was."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "extraneous 常修飾 detail、variable、noise；搭配都在談和目標無關的干擾。",
       "items": [
         {
           "phrase": "extraneous detail",
-          "register": "寫作 / 編輯",
-          "note": "這個搭配會讓「多餘無關」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "寫作 / 文件",
+          "note": "無關細節。"
         },
         {
           "phrase": "extraneous variable",
-          "register": "研究 / 分析",
-          "note": "在 研究 / 分析 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "研究 / 實驗",
+          "note": "外部干擾變因。"
         },
         {
           "phrase": "extraneous noise",
           "register": "工程 / 訊號",
-          "note": "如果你想把這個字用穩，從 工程 / 訊號 常見的這個搭配進場通常最自然。"
+          "note": "非目標噪音。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "多餘無關",
-        "use": "當你要強調整體帶著「多到和核心無關」這種質地，而不只是 不相關 時"
+        "use": "用在某物不屬於當前目的，還可能干擾理解或測量時。"
       },
       "others": [
         {
           "word": "Irrelevant",
-          "meaning": "不相關",
-          "use": "當句子只需要 不相關 這個中性描述，不必把「多到和核心無關」這種氣質壓到前景時"
+          "meaning": "無關",
+          "use": "通用；<code>extraneous</code> 更像外部混入、應被排除。"
+        },
+        {
+          "word": "Unnecessary",
+          "meaning": "不必要",
+          "use": "不一定無關；<code>extraneous</code> 重不屬於這個問題。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>extraneous</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「多餘無關」這種質地。",
-      "也因此，它和 <code>Irrelevant</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Extraneous</code> 對工程和研究很實用，因為它抓的是控制邊界。",
+      "UI、文件、實驗都怕 extraneous elements，因為它們耗掉判斷力。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 extraneous 整理成「多餘無關」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/extraneous",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 extraneous 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/extraneous",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "irrelevant",
       "editing",
       "noise",
-      "adjective",
-      "extraneous"
+      "extraneous",
+      "adjective"
     ]
   },
   "sourceAudit": [

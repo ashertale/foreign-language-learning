@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>exempt</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「豁免的、不受某規則約束」。",
+    "coreIdea": "<code>exempt</code> 不是規則不存在，而是某對象被正式拿出規則適用範圍。",
     "definition": {
-      "summary": "形容豁免的、不受某規則約束的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容或表示免除某義務、要求、稅、限制或規定，通常需要正式理由。",
       "contrast": {
         "word": "Excluded",
         "note": "<code>excluded</code> 是被排除；<code>exempt</code> 強調免除某項義務或限制。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>exempt</code> 可以先記成一個畫面：規則通常適用，接著某對象被正式排除，最後義務不再要求。",
-      "explanation": "這個畫面只用來幫你抓住「豁免的、不受某規則約束」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>exempt</code> 想成 legacy device 被 policy 特別排除。",
+      "explanation": "這不該靠默契存在，否則例外會變成漏洞。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "某 legacy device exempt from update policy，應該要有明確理由和期限。"
+        "label": "更新政策",
+        "body": "某 legacy device <code>exempt from</code> update policy，應該要有明確理由和期限。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>exempt</code> 和 <code>tax exempt</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "稅務",
+        "body": "A tax-exempt organization is legally excused from certain taxes."
+      },
+      {
+        "label": "狀態",
+        "body": "Exempt status should be auditable; otherwise it invites abuse."
       }
     ],
     "collocations": {
-      "note": "<code>exempt</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「豁免的、不受某規則約束」落地。",
+      "note": "exempt 常接 tax、from、status。搭配都帶正式免除，不是隨口放過。",
       "items": [
         {
           "phrase": "tax exempt",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「豁免的、不受某規則約束」有明確對象。"
+          "register": "稅務 / 法律",
+          "note": "免稅，通常基於法律身份。"
         },
         {
           "phrase": "exempt from",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "正式 / 制度",
+          "note": "from 後面接被免除的要求或規則。"
         },
         {
           "phrase": "exempt status",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "法律 / 組織",
+          "note": "免除資格或狀態。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "豁免的、不受某規則約束的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某對象被正式免除通常適用的要求時。"
       },
       "others": [
         {
           "word": "Excluded",
-          "meaning": "<code>excluded</code> 是被排除；<code>exempt</code> 強調免除某項義務或限制。",
-          "use": "如果句子只需要 excluded 的普通意思，就保留那個較簡單的字。"
+          "meaning": "被排除",
+          "use": "只是被排除在外；exempt 強調免除義務。"
+        },
+        {
+          "word": "Immune",
+          "meaning": "免疫、不受影響",
+          "use": "法律或生物語境不同，可能是不能被追訴或不受感染。"
+        },
+        {
+          "word": "Waived",
+          "meaning": "被免除 / 放棄要求",
+          "use": "常指某費用或要求被放棄。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>exempt</code> 常把一段觀察收斂成可討論的判斷。某 legacy device exempt from update policy，應該要有明確理由和期限。",
-      "像 <code>tax exempt</code>、<code>exempt from</code>、<code>exempt status</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Exempt</code> 在制度設計裡很敏感，因為每個例外都可能變成維護成本或公平問題。",
+      "好的文件會寫明 exempt from what、why、until when。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 exempt 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 exempt 整理成「豁免的、不受某規則約束的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/exempt",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>eximere</code>，有拿出、免除的意思。",
-      "memoryLens": "記憶時先抓「豁免的、不受某規則約束的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>eximere</code> 的拿出、免除感可記：exempt 是從規則籃子裡被拿出來。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "excluded",
       "policy",
       "status",
-      "adjective",
       "adjective"
     ]
   },

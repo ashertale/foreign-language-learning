@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.58"
     },
-    "coreIdea": "<code>jarring</code> 用來說某個人、系統或局面帶著「突兀刺耳」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>jarring</code> 是不協調到讓人被震一下；聲音、轉場、語氣或畫面都可能刺到人。",
     "definition": {
-      "summary": "表示刺耳、突兀、令人不舒服地不協調。重點不是程度加強，而是整個對象都帶著「突兀刺耳」這種質地。",
+      "summary": "形容刺耳、突兀、令人不舒服地不協調。",
       "contrast": {
         "word": "Unsettling",
-        "note": "<code>Unsettling</code> 可以只是在說「讓人不安」；換成 <code>jarring</code>，句子通常是在補上「突兀刺耳」這層更具體的意思。"
+        "note": "<code>unsettling</code> 是不安；<code>jarring</code> 是突兀到像被撞了一下。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「突兀刺耳」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "環境有既定節奏",
+        "某元素突然不合",
+        "注意力被刺痛或震開"
       ]
     },
     "memory": {
-      "hook": "<code>jarring</code> 的畫面是：像安靜樂章裡忽然砸進一聲金屬碰撞，耳朵會先縮一下。",
-      "explanation": "這個畫面有用，因為它把 jarring 從翻譯拉回場面：你先看到「樂章裡忽然砸進金屬聲」，再比較容易記住它其實在說「突兀刺耳」。"
+      "hook": "把 <code>jarring shift in tone</code> 想成文件前半溫和教學，後半突然像法律威脅。",
+      "explanation": "jarring 的不適來自 abrupt mismatch。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>jarring contrast</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「讓人不安」，而是整個對象都帶著「突兀刺耳」這種質地。"
+        "label": "對比",
+        "body": "The bright banner created a <code>jarring</code> contrast with the quiet reading page."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 音效 / 環境 裡，<code>jarring noise</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "噪音",
+        "body": "A jarring noise can pull attention out of a task instantly."
       },
       {
-        "label": "延伸版",
-        "body": "到了 寫作 / 敘事 的場景，<code>jarring shift in tone</code> 很適合用來練邊界：你要講的到底是一般的「讓人不安」，還是更具體的「突兀刺耳」。"
+        "label": "語氣",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "jarring 常修飾 contrast、noise、shift in tone；搭配都含突兀衝擊。",
       "items": [
         {
           "phrase": "jarring contrast",
-          "register": "設計 / 視覺",
-          "note": "這個搭配會讓「突兀刺耳」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "設計 / 評論",
+          "note": "突兀刺眼的對比。"
         },
         {
           "phrase": "jarring noise",
-          "register": "音效 / 環境",
-          "note": "在 音效 / 環境 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "感官 / 日常",
+          "note": "刺耳噪音。"
         },
         {
           "phrase": "jarring shift in tone",
-          "register": "寫作 / 敘事",
-          "note": "如果你想把這個字用穩，從 寫作 / 敘事 常見的這個搭配進場通常最自然。"
+          "register": "寫作 / 溝通",
+          "note": "突兀的語氣轉換。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "突兀刺耳",
-        "use": "當你要強調整體帶著「和周圍不搭到讓你整個被拉醒」這種質地，而不只是 讓人不安 時"
+        "use": "用在某元素突然破壞一致性，使人感到被撞出來時。"
       },
       "others": [
         {
           "word": "Unsettling",
-          "meaning": "讓人不安",
-          "use": "當句子只需要 讓人不安 這個中性描述，不必把「和周圍不搭到讓你整個被拉醒」這種氣質壓到前景時"
+          "meaning": "令人不安",
+          "use": "範圍廣；<code>jarring</code> 更像突兀撞擊感。"
+        },
+        {
+          "word": "Harsh",
+          "meaning": "刺耳、嚴厲",
+          "use": "可描述聲音或語氣；jarring 重不協調造成的震動。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>jarring</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「突兀刺耳」這種質地。",
-      "也因此，它和 <code>Unsettling</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Jarring</code> 對 UI、聲音、剪輯、語氣都很好用。",
+      "它提醒你：不一致不是永遠有趣，有時只是打斷理解。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 jarring 整理成「突兀刺耳」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/jarring",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 jarring 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/jarring",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "unsettling",
       "contrast",
       "tone",
-      "adjective",
-      "jarring"
+      "jarring",
+      "adjective"
     ]
   },
   "sourceAudit": [

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.80"
     },
-    "coreIdea": "<code>belated</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「晚於應有時間才發生或送達」。",
+    "coreIdea": "<code>belated</code> 帶著錯過時機後才抵達的尷尬。東西仍然可能有價值，但已經失去準時出現的完整感。",
     "definition": {
-      "summary": "形容晚於應有時間才發生或送達。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容祝福、道歉、承認、回應或行動來得太晚，本來應該更早出現。它不只是 late，而是錯過了原本合適的時機。",
       "contrast": {
         "word": "Late",
         "note": "<code>late</code> 只是晚；<code>belated</code> 帶著錯過原本時機的感覺。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>belated</code> 可以先記成一個畫面：原本該出現，接著時間已經過去，最後現在才補上。",
-      "explanation": "這個畫面只用來幫你抓住「晚於應有時間才發生或送達」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>belated</code> 像生日過了三天才送到的卡片。",
+      "explanation": "卡片仍然可以真誠，但時間已經讓它帶上一點補救感。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "belated fix 可能有效，但使用者已經承受過那段痛苦。"
+        "label": "道歉",
+        "body": "A <code>belated</code> apology 可能有用，但對方已經獨自承受了那段沉默。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>belated</code> 和 <code>belated apology</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "產品 / 修正",
+        "body": "A <code>belated</code> fix 解掉了 bug，卻不能抹掉使用者之前踩到問題的成本。"
+      },
+      {
+        "label": "承認",
+        "body": "<code>Belated recognition</code> 常帶一點遺憾：值得被看見的人或事，其實早該被看見。"
       }
     ],
     "collocations": {
-      "note": "<code>belated</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「晚於應有時間才發生或送達」落地。",
+      "note": "belated 常接 apology、birthday wishes、recognition、response。每個搭配都帶著「現在才來」的時間陰影。",
       "items": [
         {
           "phrase": "belated apology",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「晚於應有時間才發生或送達」有明確對象。"
+          "register": "日常 / 公共聲明",
+          "note": "道歉來晚了；誠意要面對的不只是錯，也包括延遲。"
         },
         {
           "phrase": "belated recognition",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "評論 / 職場",
+          "note": "肯定終於出現，但常暗示過去長期忽視。"
         },
         {
           "phrase": "belated response",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工作 / 客服",
+          "note": "回應在需要它的窗口之後才到，語氣可能帶補救。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "晚於應有時間才發生或送達",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某個行動仍然發生了，但已錯過原本該出現的時機。"
       },
       "others": [
         {
           "word": "Late",
-          "meaning": "<code>late</code> 只是晚；<code>belated</code> 帶著錯過原本時機的感覺。",
-          "use": "如果句子只需要 late 的普通意思，就保留那個較簡單的字。"
+          "meaning": "晚、遲",
+          "use": "只是時間晚於預定，用 <code>late</code> 最直接。"
+        },
+        {
+          "word": "Delayed",
+          "meaning": "被延誤",
+          "use": "強調流程或外在原因造成延遲時，用 <code>delayed</code>。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>belated</code> 常把一段觀察收斂成可討論的判斷。belated fix 可能有效，但使用者已經承受過那段痛苦。",
-      "像 <code>belated apology</code>、<code>belated recognition</code>、<code>belated response</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "公共溝通裡，<code>belated</code> 常有一點批評味。它讓讀者知道問題不只是做沒做，而是做得太晚。",
+      "日常裡最常見的是 belated birthday wishes；職場裡則常見 belated response、belated fix、belated recognition。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 belated 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 belated 整理成「晚於應有時間才發生或送達」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/belated",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "由 <code>be-</code> 與 <code>late</code> 發展而來；語感重點是錯過原本窗口。",
-      "memoryLens": "記憶時先抓「晚於應有時間才發生或送達」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "由 late 延伸出的感覺很好抓：不是單純晚，而是時間讓原本的動作變成補救。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "late",
       "timing",
       "response",
-      "adjective",
       "adjective"
     ]
   },

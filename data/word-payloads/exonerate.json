@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.51"
     },
-    "coreIdea": "<code>exonerate</code> 的力道，在於它會把動作背後那層「證明他本來就不該背這個鍋」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>exonerate</code> 是把責任或罪名從某人身上卸下，讓他不再背那個重量。",
     "definition": {
-      "summary": "表示洗清罪責、證明無辜。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示證明無罪、洗清責任或罪名。",
       "contrast": {
         "word": "Clear",
-        "note": "<code>Clear</code> 比較像基礎說法；<code>exonerate</code> 常用來把那層更具體的「證明無辜」拉到前景。"
+        "note": "<code>clear</code> 可泛指澄清；<code>exonerate</code> 像把罪責這個重量從背上搬走。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「證明無辜」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "指控或責任存在",
+        "證據重新檢查",
+        "負擔從人身上移除"
       ]
     },
     "memory": {
-      "hook": "<code>exonerate</code> 的畫面是：像原本罩在頭上的陰影被掀開，光重新落回那個人身上。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「證明他本來就不該背這個鍋」看成一個會發生的場面。"
+      "hook": "把 <code>exonerate the team</code> 想成調查顯示問題不是團隊疏失，而是外部依賴違約。",
+      "explanation": "exonerate 的核心是 burden removed。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>exonerate the suspect</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "嫌疑人",
+        "body": "New evidence <code>exonerated</code> the suspect after years of doubt."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 管理 / 責任 裡，<code>exonerate the team</code> 讓句子多出的，不只是資訊，而是那股往「證明無辜」推進的語氣。"
+        "label": "團隊",
+        "body": "The postmortem did not exonerate the team; it clarified which assumptions failed."
       },
       {
-        "label": "延伸版",
-        "body": "碰到 公共 / 評論 場景時，<code>fully exonerate</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "完全",
+        "body": "To fully exonerate someone, the evidence must remove the charge, not merely soften it."
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "exonerate 常接 suspect、team，或用 fully exonerate；搭配都和責任或罪名移除有關。",
       "items": [
         {
           "phrase": "exonerate the suspect",
-          "register": "法務 / 調查",
-          "note": "這個搭配常出現在需要把事情往「證明無辜」講清楚的句子裡。"
+          "register": "法律 / 新聞",
+          "note": "洗清嫌疑。"
         },
         {
           "phrase": "exonerate the team",
-          "register": "管理 / 責任",
-          "note": "放到 管理 / 責任 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "工作 / 調查",
+          "note": "證明團隊不負該責。"
         },
         {
           "phrase": "fully exonerate",
-          "register": "公共 / 評論",
-          "note": "在 公共 / 評論 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "正式 / 法律",
+          "note": "完全洗清罪責。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "證明無辜",
-        "use": "當你要把事情說成「證明他本來就不該背這個鍋」而不只是 洗清 時"
+        "use": "用在某人原本被責任或罪名壓著，後來被證據卸下時。"
       },
       "others": [
         {
           "word": "Clear",
-          "meaning": "洗清",
-          "use": "當句子只需要 洗清 這個動作，不必補上「證明他本來就不該背這個鍋」那層走向時"
+          "meaning": "洗清、澄清",
+          "use": "較常用；<code>exonerate</code> 更正式，負罪重量更明顯。"
+        },
+        {
+          "word": "Acquit",
+          "meaning": "宣判無罪",
+          "use": "法律判決；<code>exonerate</code> 可由證據或調查洗清。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>exonerate</code>，可以先看它黏著哪些搭配出現。像 <code>exonerate the suspect</code>、<code>exonerate the team</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Clear</code> 的華麗版本，而是專門拿來補上「證明他本來就不該背這個鍋」這層語氣。"
+      "<code>Exonerate</code> 在法律和調查語境中很精準。",
+      "不要把它用成普通 explain；它需要有 charge、blame 或 burden。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 exonerate 整理成「證明無辜」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/exonerate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 exonerate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/exonerate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "clear",
       "justice",
       "responsibility",
-      "verb",
-      "exonerate"
+      "exonerate",
+      "verb"
     ]
   },
   "sourceAudit": [

@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.34"
     },
-    "coreIdea": "<code>expound</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「完整展開」這條線走。",
+    "coreIdea": "<code>expound</code> 是把一套想法展開講清楚；它不是一句補充，而是有段落、有層次的說明。",
     "definition": {
-      "summary": "表示詳細闡述理論、觀點或系統。它要補上的，通常不是動作本身，而是那層更具體的「把整套想法完整展開」。",
+      "summary": "表示詳細闡述、展開說明理論、方法或觀點。",
       "contrast": {
         "word": "Explain",
-        "note": "如果語境只需要比較平的「說明」，用 <code>Explain</code> 往往就夠了；<code>expound</code> 則會把「把整套想法完整展開」講得更明確。"
+        "note": "<code>explain</code> 可以很短；<code>expound</code> 像把整套論點鋪開。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「把整套想法完整展開」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "觀點或理論存在",
+        "說明者逐層展開",
+        "聽者看見完整結構"
       ]
     },
     "memory": {
-      "hook": "<code>expound</code> 的畫面是：像把折著的地圖一層層攤平，讓路線終於全都看見。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 expound 時，能先抓到「完整展開」這個核心，再回頭讀細節。"
+      "hook": "把 <code>expound a theory</code> 想成不是給一句結論，而是把假設、機制和限制一起攤開。",
+      "explanation": "expound 需要展開。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>expound a theory</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「完整展開」這個方向講清楚。"
+        "label": "理論",
+        "body": "The paper <code>expounded</code> a theory of coordination under uncertainty."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>expound on the method</code> 放進 教學 / 技術 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "方法",
+        "body": "She expounded on the method only after showing the failure it solved."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 寫作 / 表達 的情境，從 <code>expound the idea</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "想法",
+        "body": "To"
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "expound 常接 theory、method、idea，也常用 expound on；搭配都需要完整說明。",
       "items": [
         {
           "phrase": "expound a theory",
-          "register": "研究 / 學術",
-          "note": "這個搭配常出現在需要把事情往「完整展開」講清楚的句子裡。"
+          "register": "學術 / 正式",
+          "note": "闡述理論。"
         },
         {
           "phrase": "expound on the method",
           "register": "教學 / 技術",
-          "note": "放到 教學 / 技術 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "note": "詳細說明方法。"
         },
         {
           "phrase": "expound the idea",
-          "register": "寫作 / 表達",
-          "note": "在 寫作 / 表達 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "寫作 / 演講",
+          "note": "展開說明想法。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "完整展開",
-        "use": "當你要把事情說成「把整套想法完整展開」而不只是 說明 時"
+        "use": "用在說明需要完整展開，而不是補一句澄清時。"
       },
       "others": [
         {
           "word": "Explain",
-          "meaning": "說明",
-          "use": "當句子只需要 說明 這個動作，不必補上「把整套想法完整展開」那層走向時"
+          "meaning": "解釋",
+          "use": "通用；<code>expound</code> 更正式、更長篇展開。"
+        },
+        {
+          "word": "Elaborate",
+          "meaning": "詳述",
+          "use": "接近；<code>expound</code> 更像有系統地講一套觀點。"
         }
       ]
     },
     "modernUse": [
-      "<code>expound</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>expound a theory</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Explain</code> 的差別，通常不在難度，而在句子要不要把那層「完整展開」明白說出來。"
+      "<code>Expound</code> 常見於學術、演講、正式寫作。",
+      "日常會話中說 explain 通常更自然；expound 會聽起來像要開始講一大段。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 expound 整理成「完整展開」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/expound",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 expound 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/expound",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "explain",
       "theory",
       "teaching",
-      "verb",
-      "expound"
+      "expound",
+      "verb"
     ]
   },
   "sourceAudit": [

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.48"
     },
-    "coreIdea": "<code>conviction</code> 把「堅定信念，或法律上的定罪」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>conviction</code> 有兩條常見路線：內在站得住的信念，或法律上被定罪的結果。兩者都帶重量。",
     "definition": {
-      "summary": "指堅定信念，或法律上的定罪。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "可指深信不疑的信念、堅定態度，也可指法律上的定罪。語氣比普通 opinion 重很多。",
       "contrast": {
         "word": "Opinion",
         "note": "<code>opinion</code> 可以很輕；<code>conviction</code> 有內在重量或法律結果。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>conviction</code> 可以先記成一個畫面：理由累積，接著信念站穩，最後行動跟上。",
-      "explanation": "這個畫面只用來幫你抓住「堅定信念，或法律上的定罪」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>conviction</code> 想成說話時腳底真的踩到地。",
+      "explanation": "不是音量大，而是理由、價值或證據已經讓人站穩。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "說 with conviction，不是音量大，而是你知道自己為什麼相信。"
+        "label": "表達",
+        "body": "說 with <code>conviction</code>，不是音量大，而是你知道自己為什麼相信。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>conviction</code> 和 <code>deep conviction</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "信念",
+        "body": "A"
+      },
+      {
+        "label": "法律",
+        "body": "A criminal conviction 是定罪結果，不是信念。"
       }
     ],
     "collocations": {
-      "note": "<code>conviction</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「堅定信念，或法律上的定罪」落地。",
+      "note": "conviction 的搭配會先分義：deep、speak with 偏信念；criminal 偏法律。",
       "items": [
         {
           "phrase": "deep conviction",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「堅定信念，或法律上的定罪」有明確對象。"
+          "register": "正式 / 反思",
+          "note": "深層信念，不容易因短期壓力改變。"
         },
         {
           "phrase": "criminal conviction",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "法律",
+          "note": "刑事定罪，和 belief 無關。"
         },
         {
           "phrase": "speak with conviction",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "演講 / 溝通",
+          "note": "說話有信念與底氣，讓人感到不是空話。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "堅定信念，或法律上的定罪",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在信念有重量，或法律語境中談定罪時。"
       },
       "others": [
         {
           "word": "Opinion",
-          "meaning": "<code>opinion</code> 可以很輕；<code>conviction</code> 有內在重量或法律結果。",
-          "use": "如果句子只需要 opinion 的普通意思，就保留那個較簡單的字。"
+          "meaning": "意見",
+          "use": "可輕可重；conviction 更深、更穩。"
+        },
+        {
+          "word": "Belief",
+          "meaning": "相信、信念",
+          "use": "範圍廣；conviction 通常更堅定。"
+        },
+        {
+          "word": "Sentence",
+          "meaning": "判刑",
+          "use": "法律上定罪後可能有 sentence，但兩者不同。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>conviction</code> 常把一段觀察收斂成可討論的判斷。說 with conviction，不是音量大，而是你知道自己為什麼相信。",
-      "像 <code>deep conviction</code>、<code>criminal conviction</code>、<code>speak with conviction</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Conviction</code> 在溝通裡常是正面字，但要小心別把 confidence 誤當 evidence。With conviction 不等於一定對。",
+      "法律義和信念義差很大；讀到 criminal conviction 時，不要翻成犯罪信念。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 conviction 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 conviction 整理成「堅定信念，或法律上的定罪」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/conviction",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>convincere</code>，和證明、使信服相關。",
-      "memoryLens": "記憶時先抓「堅定信念，或法律上的定罪」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "和 convince 同源的線索有用：conviction 像被理由或法律結果壓到站穩的位置。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "opinion",
       "belief",
       "law",
-      "noun",
       "noun"
     ]
   },

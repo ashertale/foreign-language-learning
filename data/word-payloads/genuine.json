@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>genuine</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「真實的、真誠的、非仿冒」。",
+    "coreIdea": "<code>genuine</code> 說的是本身是真的，不是仿的、演的、裝的或只像真的。",
     "definition": {
-      "summary": "形容真實的、真誠的、非仿冒的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容事物真實、非仿冒，或情感、興趣、關心等真誠不假。",
       "contrast": {
         "word": "Realistic",
         "note": "<code>realistic</code> 是合乎現實；<code>genuine</code> 是本身是真的。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>genuine</code> 可以先記成一個畫面：外觀可能相似，接著檢查來源或態度，最後確認不是假象。",
-      "explanation": "這個畫面只用來幫你抓住「真實的、真誠的、非仿冒」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>genuine</code> concern 想成 review 裡真的在保護使用者，而不是想贏辯論。",
+      "explanation": "焦點會落在風險，不會落在表演自己比較聰明。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "genuine concern 在 review 裡聽得出來：焦點是風險，不是贏辯論。"
+        "label": "Review",
+        "body": "<code>Genuine</code> concern 在 review 裡聽得出來：焦點是風險，不是贏辯論。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>genuine</code> 和 <code>genuine concern</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "零件",
+        "body": "Genuine"
+      },
+      {
+        "label": "興趣",
+        "body": "Genuine interest keeps asking questions after the obvious answer is found."
       }
     ],
     "collocations": {
-      "note": "<code>genuine</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「真實的、真誠的、非仿冒」落地。",
+      "note": "genuine 常接 concern、parts、interest。搭配會說明真的是情感、物品，還是動機。",
       "items": [
         {
           "phrase": "genuine concern",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「真實的、真誠的、非仿冒」有明確對象。"
+          "register": "人際 / 職場",
+          "note": "真心關切，不是藉口或姿態。"
         },
         {
           "phrase": "genuine parts",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "製造 / 維修",
+          "note": "原廠或真品零件。"
         },
         {
           "phrase": "genuine interest",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "學習 / 人際",
+          "note": "真正有興趣，而不是禮貌性敷衍。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "真實的、真誠的、非仿冒的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在要排除仿冒、表演或虛假動機時。"
       },
       "others": [
         {
-          "word": "Realistic",
-          "meaning": "<code>realistic</code> 是合乎現實；<code>genuine</code> 是本身是真的。",
-          "use": "如果句子只需要 realistic 的普通意思，就保留那個較簡單的字。"
+          "word": "Real",
+          "meaning": "真的",
+          "use": "最通用。"
+        },
+        {
+          "word": "Authentic",
+          "meaning": "真實、原真",
+          "use": "常有身份、風格或來源的真實感。"
+        },
+        {
+          "word": "Sincere",
+          "meaning": "真誠",
+          "use": "多用於人和態度。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>genuine</code> 常把一段觀察收斂成可討論的判斷。genuine concern 在 review 裡聽得出來：焦點是風險，不是贏辯論。",
-      "像 <code>genuine concern</code>、<code>genuine parts</code>、<code>genuine interest</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Genuine</code> 在人際和產品語境都很有用。Genuine concern 和 genuine parts 的真，都在對抗一種「看起來像」的假。",
+      "它的語氣通常溫和但有判斷力：你不是只問外觀，而是問來源和動機。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 genuine 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 genuine 整理成「真實的、真誠的、非仿冒的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/genuine",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>genuinus</code>，和天生、真正相關。",
-      "memoryLens": "記憶時先抓「真實的、真誠的、非仿冒的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "天生、真正的字源可當背景；現代記成不是 fake，也不是 merely apparent。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "real",
       "concern",
       "parts",
-      "adjective",
       "adjective"
     ]
   },

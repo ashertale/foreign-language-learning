@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>gradual</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「逐步的、漸進」。",
+    "coreIdea": "<code>gradual</code> 是一階一階累積的變化。每一步可能很小，但時間拉長後，差異會變得明顯。",
     "definition": {
-      "summary": "形容逐步的、漸進的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容變化、改善、下滑或推出是逐步發生的，而非突然完成。",
       "contrast": {
         "word": "Sudden",
         "note": "<code>sudden</code> 是突然；<code>gradual</code> 是變化每一步都不大，但總量會累積。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>gradual</code> 可以先記成一個畫面：小變化出現，接著多次累積，最後最後差異明顯。",
-      "explanation": "這個畫面只用來幫你抓住「逐步的、漸進」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>gradual</code> rollout 想成先 1%，再 5%，再 25%。",
+      "explanation": "每一步都留一點觀察和回退空間。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "gradual rollout 讓你在小範圍看到問題，再決定要不要放大。"
+        "label": "上線",
+        "body": "<code>Gradual</code> rollout 讓你在小範圍看到問題，再決定要不要放大。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>gradual</code> 和 <code>gradual improvement</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "改善",
+        "body": "Gradual improvement often feels slow until you compare it across months."
+      },
+      {
+        "label": "下滑",
+        "body": "Gradual decline is dangerous because no single day feels like a crisis."
       }
     ],
     "collocations": {
-      "note": "<code>gradual</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「逐步的、漸進」落地。",
+      "note": "gradual 常接 improvement、decline、rollout。搭配會指出變化方向是變好、變壞，還是逐步推出。",
       "items": [
         {
           "phrase": "gradual improvement",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「逐步的、漸進」有明確對象。"
+          "register": "學習 / 品質",
+          "note": "逐步改善，不是一次大跳。"
         },
         {
           "phrase": "gradual decline",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "風險 / 健康 / 系統",
+          "note": "慢慢下滑，容易被忽略。"
         },
         {
           "phrase": "gradual rollout",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "產品 / 工程",
+          "note": "分階段推出，降低一次性風險。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "逐步的、漸進的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在變化透過多個小步累積，而不是瞬間發生時。"
       },
       "others": [
         {
           "word": "Sudden",
-          "meaning": "<code>sudden</code> 是突然；<code>gradual</code> 是變化每一步都不大，但總量會累積。",
-          "use": "如果句子只需要 sudden 的普通意思，就保留那個較簡單的字。"
+          "meaning": "突然",
+          "use": "反義，變化快速。"
+        },
+        {
+          "word": "Incremental",
+          "meaning": "增量式",
+          "use": "更工程或流程感，強調一小步一小步加。"
+        },
+        {
+          "word": "Progressive",
+          "meaning": "逐步的、進步的",
+          "use": "可指逐漸發展，也可指政治立場。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>gradual</code> 常把一段觀察收斂成可討論的判斷。gradual rollout 讓你在小範圍看到問題，再決定要不要放大。",
-      "像 <code>gradual improvement</code>、<code>gradual decline</code>、<code>gradual rollout</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Gradual</code> 對風險管理很重要。Gradual rollout 可控；gradual decline 危險，因為它太不戲劇化。",
+      "讀到這個字時，最好問時間尺度：幾分鐘、幾週、還是幾年？"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 gradual 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 gradual 整理成「逐步的、漸進的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/gradual",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>gradus</code>「階梯、步伐」。",
-      "memoryLens": "記憶時先抓「逐步的、漸進的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>gradus</code> 的階梯 / 步伐感很好記；gradual 是一階一階走。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "sudden",
       "rollout",
       "change",
-      "adjective",
       "adjective"
     ]
   },

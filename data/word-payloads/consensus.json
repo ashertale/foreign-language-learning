@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>consensus</code> 把「共同接受的看法或決策方向」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>consensus</code> 不是全員熱烈同意，而是分歧被處理到足夠多人願意一起往前走。",
     "definition": {
-      "summary": "指共同接受的看法或決策方向。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指共識或共同接受的看法。它可以不是百分之百一致，而是達到可行動的共同方向。",
       "contrast": {
         "word": "Unanimity",
         "note": "<code>unanimity</code> 是一致同意；<code>consensus</code> 可以是可工作的共同接受。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>consensus</code> 可以先記成一個畫面：分歧被說清，接著共同方向形成，最後大家願意前進。",
-      "explanation": "這個畫面只用來幫你抓住「共同接受的看法或決策方向」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>consensus</code> 想成設計會議裡那句「我們可以先這樣走」。",
+      "explanation": "不是每個人都拿到最想要的版本，但大家願意承擔這個方向。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "工程決策常靠 rough consensus，不是等到每個人都完全滿意。"
+        "label": "工程決策",
+        "body": "工程決策常靠 rough <code>consensus</code>，不是等到每個人都完全滿意。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>consensus</code> 和 <code>rough consensus</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "組織",
+        "body": "To build <code>consensus</code>, you usually need to surface disagreement before smoothing it over。"
+      },
+      {
+        "label": "研究 / 評論",
+        "body": "The consensus view 代表主流看法，但仍可能被新證據改寫。"
       }
     ],
     "collocations": {
-      "note": "<code>consensus</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「共同接受的看法或決策方向」落地。",
+      "note": "consensus 的搭配常揭示共識的品質：rough、broad、scientific、consensus view。",
       "items": [
         {
           "phrase": "rough consensus",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「共同接受的看法或決策方向」有明確對象。"
+          "register": "工程 / 網路治理",
+          "note": "不追求全票，但反對意見已被聽見並足以往前。"
         },
         {
           "phrase": "build consensus",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "組織 / 政治",
+          "note": "共識不是自然掉下來，而是透過溝通與取捨形成。"
         },
         {
           "phrase": "consensus view",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "研究 / 投資 / 評論",
+          "note": "多數專家或市場目前接受的看法。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "共同接受的看法或決策方向",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在分歧仍可能存在，但共同方向已足以支撐行動時。"
       },
       "others": [
         {
           "word": "Unanimity",
-          "meaning": "<code>unanimity</code> 是一致同意；<code>consensus</code> 可以是可工作的共同接受。",
-          "use": "如果句子只需要 unanimity 的普通意思，就保留那個較簡單的字。"
+          "meaning": "全體一致",
+          "use": "要求每個人都同意，門檻高很多。"
+        },
+        {
+          "word": "Agreement",
+          "meaning": "同意、協議",
+          "use": "範圍較廣，可是兩人之間，也可正式合約。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>consensus</code> 常把一段觀察收斂成可討論的判斷。工程決策常靠 rough consensus，不是等到每個人都完全滿意。",
-      "像 <code>rough consensus</code>、<code>build consensus</code>、<code>consensus view</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Consensus</code> 在工程文化裡很有價值，因為它承認複雜決策不一定有完美答案。",
+      "但共識也可能被濫用成壓過少數意見。好的 consensus 會記錄 trade-off，而不是假裝沒有人擔心。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 consensus 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 consensus 整理成「共同接受的看法或決策方向」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/consensus",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "源自 Latin <code>consentire</code>，有「一起感受、一起同意」的意思。",
-      "memoryLens": "記憶時先抓「共同接受的看法或決策方向」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源的「一起感受 / 同意」提供方向；現代用法裡，重點是足以共同前進。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "unanimity",
       "team",
       "agreement",
-      "noun",
       "noun"
     ]
   },

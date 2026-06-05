@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.43"
     },
-    "coreIdea": "<code>ineffable</code> 用來說某個人、系統或局面帶著「難以言喻」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>ineffable</code> 是語言碰到邊界：你知道那感覺在，但說出來會變薄。",
     "definition": {
-      "summary": "表示難以言喻、無法充分用語言表達。重點不是程度加強，而是整個對象都帶著「難以言喻」這種質地。",
+      "summary": "形容美、悲傷、平靜或神聖感難以言喻、無法充分用語言表達。",
       "contrast": {
         "word": "Unspeakable",
-        "note": "<code>Unspeakable</code> 可以只是在說「難以說出」；換成 <code>ineffable</code>，句子通常是在補上「難以言喻」這層更具體的意思。"
+        "note": "<code>indescribable</code> 很直白；<code>ineffable</code> 像語言到了門口卻進不去。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「難以言喻」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "感受或品質很深",
+        "語言嘗試接近",
+        "表達仍顯得不足"
       ]
     },
     "memory": {
-      "hook": "<code>ineffable</code> 的畫面是：像手心捧著一團薄霧，你越想抓緊，形狀越先散開。",
-      "explanation": "這個畫面有用，因為它把 ineffable 從翻譯拉回場面：你先看到「越想抓緊越先散開」，再比較容易記住它其實在說「難以言喻」。"
+      "hook": "把 <code>ineffable sadness</code> 想成不是沒有句子，而是每個句子都比真實感受小。",
+      "explanation": "ineffable 的核心是 beyond adequate words。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>ineffable beauty</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「難以說出」，而是整個對象都帶著「難以言喻」這種質地。"
+        "label": "美",
+        "body": "The view had an <code>ineffable</code> beauty that photographs kept flattening."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 情緒 / 敘事 裡，<code>ineffable sadness</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "悲傷",
+        "body": "Ineffable sadness often appears after losses that do not fit public language."
       },
       {
-        "label": "延伸版",
-        "body": "到了 心靈 / 描寫 的場景，<code>ineffable sense of peace</code> 很適合用來練邊界：你要講的到底是一般的「難以說出」，還是更具體的「難以言喻」。"
+        "label": "平靜",
+        "body": "An ineffable sense of peace settled in the room after the noise stopped."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "ineffable 常修飾 beauty、sadness、sense of peace；搭配多半是深而難說的感受。",
       "items": [
         {
           "phrase": "ineffable beauty",
-          "register": "藝術 / 評論",
-          "note": "這個搭配會讓「難以言喻」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "文學 / 藝術",
+          "note": "難以言喻的美。"
         },
         {
           "phrase": "ineffable sadness",
-          "register": "情緒 / 敘事",
-          "note": "在 情緒 / 敘事 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "情緒 / 文學",
+          "note": "說不盡的悲傷。"
         },
         {
           "phrase": "ineffable sense of peace",
-          "register": "心靈 / 描寫",
-          "note": "如果你想把這個字用穩，從 心靈 / 描寫 常見的這個搭配進場通常最自然。"
+          "register": "宗教 / 反思",
+          "note": "難以描述的平靜感。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "難以言喻",
-        "use": "當你要強調整體帶著「說了也會失掉那個感覺」這種質地，而不只是 難以說出 時"
+        "use": "用在感受或品質超出普通語言承載力時。"
       },
       "others": [
         {
           "word": "Unspeakable",
-          "meaning": "難以說出",
-          "use": "當句子只需要 難以說出 這個中性描述，不必把「說了也會失掉那個感覺」這種氣質壓到前景時"
+          "meaning": "說不出口、難以言喻",
+          "use": "可因恐怖或神聖；<code>ineffable</code> 常更柔、更高。"
+        },
+        {
+          "word": "Indescribable",
+          "meaning": "無法描述",
+          "use": "通用；<code>ineffable</code> 更文學、常帶敬畏。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>ineffable</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「難以言喻」這種質地。",
-      "也因此，它和 <code>Unspeakable</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Ineffable</code> 語氣高，適合文學、宗教、深層情感。",
+      "不要拿它形容一般 nice 或 pretty，除非你真的要語言失效的感覺。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ineffable 整理成「難以言喻」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/ineffable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 ineffable 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/ineffable",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "unspeakable",
       "emotion",
       "art",
-      "adjective",
-      "ineffable"
+      "ineffable",
+      "adjective"
     ]
   },
   "sourceAudit": [

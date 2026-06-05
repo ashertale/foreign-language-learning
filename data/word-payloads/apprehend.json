@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.78"
     },
-    "coreIdea": "<code>apprehend</code> 常用在句子需要把動作往「終於抓住意思」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>apprehend</code> 在理解義裡，是終於把複雜後果或模式抓進腦中；在法律義裡，則可指逮捕。",
     "definition": {
-      "summary": "表示理解某個觀念、後果或模式，從模糊變成抓得住。這個字常不是在描述機械動作，而是在說事情怎麼往「終於抓住意思」這個方向走。",
+      "summary": "表示理解、領會，也可正式表示逮捕。學習時要靠受詞分辨義項。",
       "contrast": {
         "word": "Understand",
-        "note": "<code>Understand</code> 可以只是在說「理解」；換成 <code>apprehend</code>，句子通常是在補上「終於抓住意思」這層更具體的意思。"
+        "note": "<code>understand</code> 很通用；<code>apprehend</code> 在理解義裡更像真正抓住含義或後果。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「終於抓住意思」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "資訊原本散開",
+        "模式或後果被抓住",
+        "理解變得有重量"
       ]
     },
     "memory": {
-      "hook": "<code>apprehend</code> 的畫面是：像手在霧裡摸索很久，最後終於碰到那個一直找不到的把手。",
-      "explanation": "這個畫面有用，因為它把 apprehend 從翻譯拉回場面：你先看到「從霧裡摸到把手」，再比較容易記住它其實在說「終於抓住意思」。"
+      "hook": "把 <code>apprehend the implications</code> 想成你不是聽懂句子，而是終於抓到後果會怎麼展開。",
+      "explanation": "抓住的是意思的重量。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>apprehend the implications</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「終於抓住意思」收過去。"
+        "label": "後果",
+        "body": "<code>Apprehend the implications</code> 比 understand 更正式，也更像把後果真正抓住。"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 研究 / 觀察 裡，<code>apprehend the pattern</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「終於把複雜東西真正抓進腦中」。"
+        "label": "模式",
+        "body": "To apprehend the pattern is to see how scattered signals belong together."
       },
       {
-        "label": "延伸版",
-        "body": "到了 風險 / 安全 的場景，<code>apprehend the threat</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「理解」跟更具體的「終於抓住意思」差在哪。"
+        "label": "威脅",
+        "body": "Security teams must apprehend the threat before choosing controls; police may apprehend a suspect."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "apprehend 的搭配會幫你分義：implications、pattern、threat 多偏理解；suspect 則偏逮捕。",
       "items": [
         {
           "phrase": "apprehend the implications",
-          "register": "分析 / 判斷",
-          "note": "這個搭配常出現在需要把事情往「終於抓住意思」講清楚的句子裡。"
+          "register": "正式 / 分析",
+          "note": "領會後果與含義。"
         },
         {
           "phrase": "apprehend the pattern",
-          "register": "研究 / 觀察",
-          "note": "放到 研究 / 觀察 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "研究 / 分析",
+          "note": "看懂模式。"
         },
         {
           "phrase": "apprehend the threat",
-          "register": "風險 / 安全",
-          "note": "在 風險 / 安全 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "安全 / 正式",
+          "note": "理解威脅；在法律語境也可能聯想到逮捕。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "終於抓住意思",
-        "use": "當你要把事情說成「終於把複雜東西真正抓進腦中」而不只是 理解 時"
+        "use": "用在正式地說真正領會複雜含義，或法律上說逮捕時。"
       },
       "others": [
         {
           "word": "Understand",
           "meaning": "理解",
-          "use": "當句子只需要 理解 這個動作，不必補上「終於把複雜東西真正抓進腦中」那層走向時"
+          "use": "最通用。"
+        },
+        {
+          "word": "Grasp",
+          "meaning": "抓住、理解",
+          "use": "較口語，也有手抓畫面。"
+        },
+        {
+          "word": "Arrest",
+          "meaning": "逮捕",
+          "use": "法律義更直接。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>apprehend</code> 常出現在 <code>apprehend the implications</code>、<code>apprehend the pattern</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「終於抓住意思」這個方向收緊。",
-      "如果一句話只想表達比較平的「理解」，<code>Understand</code> 往往就夠了；但當語境需要那層更具體的「終於把複雜東西真正抓進腦中」，<code>apprehend</code> 會更準。"
+      "<code>Apprehend</code> 的理解義比較正式，不適合每次都替換 understand。它適合 implication、pattern、meaning 這類需要抓住深層意思的對象。",
+      "看到 apprehend a suspect 時，則不要硬翻成理解。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 apprehend 整理成「終於抓住意思」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/apprehend",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 apprehend 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/apprehend",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "understand",
       "analysis",
       "learning",
-      "verb",
-      "apprehend"
+      "apprehend",
+      "verb"
     ]
   },
   "sourceAudit": [

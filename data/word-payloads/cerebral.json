@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.71"
     },
-    "coreIdea": "<code>cerebral</code> 用來說某個人、系統或局面帶著「偏思辨」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>cerebral</code> 把焦點放在腦袋：理性、思辨、抽象，而不是直接靠感官或情緒打中人。",
     "definition": {
-      "summary": "表示偏理智、偏思辨，以思考而非感官情緒為主。重點不是程度加強，而是整個對象都帶著「偏思辨」這種質地。",
+      "summary": "形容作品、風格或方法偏理智、思考性強、較不感官化。",
       "contrast": {
         "word": "Intellectual",
-        "note": "<code>Intellectual</code> 可以只是在說「理智的」；換成 <code>cerebral</code>，句子通常是在補上「偏思辨」這層更具體的意思。"
+        "note": "<code>intellectual</code> 是知性；<code>cerebral</code> 更像把情感關小、把思考開大。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「偏思辨」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "作品或方法出現",
+        "理解仰賴理性模型",
+        "感官與情緒退到後面"
       ]
     },
     "memory": {
-      "hook": "<code>cerebral</code> 的畫面是：像一張桌上排滿圖表和草稿紙，熱度不高，但每一格都在運算。",
-      "explanation": "這個畫面有用，因為它把 cerebral 從翻譯拉回場面：你先看到「桌上排滿圖表」，再比較容易記住它其實在說「偏思辨」。"
+      "hook": "把 <code>cerebral approach</code> 想成先建模型、定義變數，再談感覺。",
+      "explanation": "cerebral 的入口在思考。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>cerebral drama</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「理智的」，而是整個對象都帶著「偏思辨」這種質地。"
+        "label": "戲劇",
+        "body": "A <code>cerebral</code> drama may fascinate viewers who enjoy ideas more than action."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 分析 / 方法 裡，<code>cerebral approach</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "方法",
+        "body": "A"
       },
       {
-        "label": "延伸版",
-        "body": "到了 寫作 / 風格 的場景，<code>cerebral style</code> 很適合用來練邊界：你要講的到底是一般的「理智的」，還是更具體的「偏思辨」。"
+        "label": "風格",
+        "body": "Cerebral style rewards patient attention rather than immediate emotional reaction."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "cerebral 常修飾 drama、approach、style；搭配通常指向思辨密度。",
       "items": [
         {
           "phrase": "cerebral drama",
-          "register": "影視 / 評論",
-          "note": "這個搭配會讓「偏思辨」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "影視 / 文學",
+          "note": "偏思辨、重觀念的戲劇。"
         },
         {
           "phrase": "cerebral approach",
-          "register": "分析 / 方法",
-          "note": "在 分析 / 方法 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "工作 / 分析",
+          "note": "理性模型導向的方法。"
         },
         {
           "phrase": "cerebral style",
-          "register": "寫作 / 風格",
-          "note": "如果你想把這個字用穩，從 寫作 / 風格 常見的這個搭配進場通常最自然。"
+          "register": "評論 / 藝術",
+          "note": "重思考而非直覺刺激的風格。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "偏思辨",
-        "use": "當你要強調整體帶著「重心在推理、概念和腦中的結構」這種質地，而不只是 理智的 時"
+        "use": "用在你要描述某物主要訴諸思考，而不是感官、動作或情緒時。"
       },
       "others": [
         {
           "word": "Intellectual",
-          "meaning": "理智的",
-          "use": "當句子只需要 理智的 這個中性描述，不必把「重心在推理、概念和腦中的結構」這種氣質壓到前景時"
+          "meaning": "知性的",
+          "use": "接近但更廣；<code>cerebral</code> 特別強調腦中思辨。"
+        },
+        {
+          "word": "Emotional",
+          "meaning": "情緒的",
+          "use": "幾乎反方向；cerebral 通常把情緒熱度降下來。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>cerebral</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「偏思辨」這種質地。",
-      "也因此，它和 <code>Intellectual</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Cerebral</code> 可稱讚也可微批評：它可能表示深，也可能表示冷。",
+      "在產品或文件裡，too cerebral 可能代表使用者要先理解太多模型才動得起來。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cerebral 整理成「偏思辨」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/cerebral",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 cerebral 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/cerebral",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "intellectual",
       "analysis",
       "style",
-      "adjective",
-      "cerebral"
+      "cerebral",
+      "adjective"
     ]
   },
   "sourceAudit": [

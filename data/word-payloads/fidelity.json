@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>fidelity</code> 把「忠實度、保真度或忠誠」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>fidelity</code> 看的是重現後還忠不忠於原本對象。漂亮不是重點，失真程度才是重點。",
     "definition": {
-      "summary": "指忠實度、保真度或忠誠。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指忠實度、保真度或忠誠。可用於訊號、原型、翻譯、來源材料或承諾。",
       "contrast": {
         "word": "Quality",
         "note": "<code>quality</code> 很廣；<code>fidelity</code> 看的是對原始訊號、模型或承諾的忠實程度。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>fidelity</code> 可以先記成一個畫面：有原始對象，接著轉換或重現，最後檢查失真程度。",
-      "explanation": "這個畫面只用來幫你抓住「忠實度、保真度或忠誠」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>fidelity</code> 想成 prototype 和真實互動之間的距離。",
+      "explanation": "越 high-fidelity，越能讓人測到真實行為。"
     },
     "usage": [
       {
-        "label": "實務判斷",
+        "label": "原型",
         "body": "high-fidelity prototype 不是比較精美而已，而是更接近真實互動。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>fidelity</code> 和 <code>high fidelity</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "訊號",
+        "body": "Signal"
+      },
+      {
+        "label": "來源",
+        "body": "Fidelity to source means the adaptation keeps faith with what matters in the original."
       }
     ],
     "collocations": {
-      "note": "<code>fidelity</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「忠實度、保真度或忠誠」落地。",
+      "note": "fidelity 常接 high、signal、to source。搭配會說明忠實對象是訊號、原型還是原作。",
       "items": [
         {
           "phrase": "high fidelity",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「忠實度、保真度或忠誠」有明確對象。"
+          "register": "設計 / 音訊 / 原型",
+          "note": "高保真，接近真實或原始對象。"
         },
         {
           "phrase": "signal fidelity",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 音訊",
+          "note": "訊號保真度，失真越低越好。"
         },
         {
           "phrase": "fidelity to source",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "翻譯 / 改編",
+          "note": "對原始材料保持忠實。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "忠實度、保真度或忠誠",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在判斷重現、轉換或承諾是否忠於原本對象時。"
       },
       "others": [
         {
           "word": "Quality",
-          "meaning": "<code>quality</code> 很廣；<code>fidelity</code> 看的是對原始訊號、模型或承諾的忠實程度。",
-          "use": "如果句子只需要 quality 的普通意思，就保留那個較簡單的字。"
+          "meaning": "品質",
+          "use": "範圍很廣，不一定和原本對象比較。"
+        },
+        {
+          "word": "Accuracy",
+          "meaning": "準確度",
+          "use": "重正確；fidelity 重忠實重現。"
+        },
+        {
+          "word": "Loyalty",
+          "meaning": "忠誠",
+          "use": "人際或組織忠誠；fidelity 可較抽象和技術。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>fidelity</code> 常把一段觀察收斂成可討論的判斷。high-fidelity prototype 不是比較精美而已，而是更接近真實互動。",
-      "像 <code>high fidelity</code>、<code>signal fidelity</code>、<code>fidelity to source</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Fidelity</code> 在設計和工程裡很精準。Low-fidelity prototype 不是差，而是刻意少像真實，以便快速學習。",
+      "訊號處理裡 fidelity 則更硬：失真、噪音和取樣都會影響忠實度。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 fidelity 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 fidelity 整理成「忠實度、保真度或忠誠」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/fidelity",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>fides</code>「信任、信實」。",
-      "memoryLens": "記憶時先抓「忠實度、保真度或忠誠」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>fides</code> 的信任、信實感是核心；fidelity 是對原本對象守信。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "quality",
       "signal",
       "prototype",
-      "noun",
       "noun"
     ]
   },

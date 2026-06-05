@@ -63,7 +63,7 @@
       <section class="chapter" id="core">
         <div class="core-card">
           <p class="section-label">Core Idea</p>
-          <p><code>linear</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「線性的、按直線或單一路徑排列」。</p>
+          <p><code>linear</code> 像一條線：一步接一步、輸入和輸出關係可預期，不突然分岔或跳階。</p>
         </div>
       </section>
 
@@ -73,7 +73,7 @@
         <div class="definition-grid">
           <div class="tile">
             <strong>Linear</strong>
-            <p>形容線性的、按直線或單一路徑排列的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。</p>
+            <p>形容線性的、直線的、依序的，或關係可用一條線描述。</p>
           </div>
           <div class="tile">
             <strong>不是 Sequential</strong>
@@ -93,14 +93,14 @@
         <p class="section-label">Origin</p>
         <h2>字源</h2>
         <p>來自 Latin <code>linea</code>「線」。</p>
-        <p>記憶時先抓「線性的、按直線或單一路徑排列的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。</p>
+        <p><code>linea</code> 給它一條線的畫面；linear 的世界沿著單一路徑往前走。</p>
       </section>
 
       <section class="chapter" id="memory">
         <p class="section-label">Memory Hook</p>
         <h2>記憶鉤子</h2>
-        <p class="quote-line"><code>linear</code> 可以先記成一個畫面：從一點開始，接著沿同一路徑前進，最後輸入輸出關係可預期。</p>
-        <p>這個畫面只用來幫你抓住「線性的、按直線或單一路徑排列」；真正使用時，要回到句子裡看它標出的邊界。</p>
+        <p class="quote-line">把 <code>linear</code> memory layout 想成資料沿著地址一路排下去。</p>
+        <p>它容易推理，但不代表所有 access pattern 都最有效。</p>
       </section>
 
       <section class="chapter" id="usage">
@@ -108,12 +108,16 @@
         <h2>生活與專業情境</h2>
         <div class="example-grid">
           <div class="example">
-            <strong>實務判斷</strong>
-            <p>linear memory layout 容易推理，但不代表所有 access pattern 都高效。</p>
+            <strong>記憶體</strong>
+            <p><code>Linear</code> memory layout 容易推理，但不代表所有 access pattern 都高效。</p>
           </div>
           <div class="example">
-            <strong>寫作語氣</strong>
-            <p>寫作時可以讓 <code>linear</code> 和 <code>linear process</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。</p>
+            <strong>流程</strong>
+            <p>A linear process is easy to explain, but may fail when work needs feedback loops.</p>
+          </div>
+          <div class="example">
+            <strong>關係</strong>
+            <p>A linear relationship means output changes predictably with input.</p>
           </div>
         </div>
       </section>
@@ -121,28 +125,28 @@
       <section class="chapter" id="collocations">
         <p class="section-label">Collocations</p>
         <h2>常見搭配與語域</h2>
-        <p class="overlap-note"><code>linear</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「線性的、按直線或單一路徑排列」落地。</p>
+        <p class="overlap-note">linear 常接 process、relationship、memory。搭配會說明線性發生在流程、數學關係或資料排列。</p>
         <div class="collocation-list" aria-label="linear collocations">
           <article class="collocation-card">
             <div>
               <strong>linear process</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">流程 / 管理</span>
             </div>
-            <p>適合放在正式文件或分析裡，讓「線性的、按直線或單一路徑排列」有明確對象。</p>
+            <p>一步接一步，分支少。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>linear relationship</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">數學 / 資料</span>
             </div>
-            <p>語氣比一般說法更收斂，通常用來標出問題的範圍或程度。</p>
+            <p>輸入輸出近似直線關係。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>linear memory</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">電腦 / 嵌入式</span>
             </div>
-            <p>可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。</p>
+            <p>連續地址空間或線性排列的記憶體。</p>
           </article>
         </div>
       </section>
@@ -163,12 +167,22 @@
               <tr>
                 <td>Linear</td>
                 <td>線性的、按直線或單一路徑排列的</td>
-                <td>當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。</td>
+                <td>用在關係、流程或排列沿單一路徑發展時。</td>
               </tr>
               <tr>
                 <td>Sequential</td>
-                <td><code>sequential</code> 是依序；<code>linear</code> 更常指關係像一條線，沒有分支或非線性跳動。</td>
-                <td>如果句子只需要 sequential 的普通意思，就保留那個較簡單的字。</td>
+                <td>依序</td>
+                <td>重順序；linear 還有直線關係或無分岔感。</td>
+              </tr>
+              <tr>
+                <td>Nonlinear</td>
+                <td>非線性</td>
+                <td>輸入輸出不成直線，可能有突變或交互作用。</td>
+              </tr>
+              <tr>
+                <td>Serial</td>
+                <td>串行</td>
+                <td>一次一個，常和 parallel 相對。</td>
               </tr>
             </tbody>
           </table>
@@ -178,8 +192,8 @@
       <section class="chapter" id="modern">
         <p class="section-label">Modern Use</p>
         <h2>現代延伸</h2>
-        <p>在工作英文裡，<code>linear</code> 常把一段觀察收斂成可討論的判斷。linear memory layout 容易推理，但不代表所有 access pattern 都高效。</p>
-        <p>像 <code>linear process</code>、<code>linear relationship</code>、<code>linear memory</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。</p>
+        <p><code>Linear</code> 在工程裡可以是好事也可以是限制。Linear flow 易懂；非線性系統才常藏真實世界的麻煩。</p>
+        <p>不要把 linear 自動翻成簡單。線性可能只是模型簡化，不一定代表問題真的單純。</p>
       </section>
 
       <section class="chapter" id="sources">
@@ -188,7 +202,7 @@
         <div class="source-grid">
           <article class="source-card">
             <strong>詞典來源</strong>
-            <p>定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 linear 的概念邊界與常見語境。</p>
+            <p>定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 linear 整理成「線性的、按直線或單一路徑排列的」的學習概念。</p>
             <a href="https://dictionary.cambridge.org/dictionary/english/linear" target="_blank" rel="noreferrer">Cambridge Dictionary</a>
           </article>
           <article class="source-card">

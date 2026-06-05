@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.47"
     },
-    "coreIdea": "<code>laud</code> 的力道，在於它會把動作背後那層「明白把好的地方抬出來講」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>laud</code> 是公開讚揚，語氣比 praise 更正式，常見於報導、評論或典禮。",
     "definition": {
-      "summary": "表示讚揚、稱頌。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示讚揚、稱頌、公開表揚。",
       "contrast": {
         "word": "Praise",
-        "note": "<code>Praise</code> 比較像基礎說法；<code>laud</code> 常用來把那層更具體的「公開稱讚」拉到前景。"
+        "note": "<code>praise</code> 日常可用；<code>laud</code> 像正式場合把讚美說給眾人聽。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「公開稱讚」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "值得肯定的對象出現",
+        "讚美被公開說出",
+        "對象獲得正式聲望"
       ]
     },
     "memory": {
-      "hook": "<code>laud</code> 的畫面是：像聚光燈不是照滿全場，而是特意打在那個值得被看見的位置。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「明白把好的地方抬出來講」看成一個會發生的場面。"
+      "hook": "把 <code>widely lauded</code> 想成不是一個人說好，而是許多評論或機構都把它拿出來稱讚。",
+      "explanation": "laud 的讚美有公共聲量。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>laud the effort</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "努力",
+        "body": "The committee <code>lauded</code> the effort while still asking for stronger evidence."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 評論 裡，<code>laud the initiative</code> 讓句子多出的，不只是資訊，而是那股往「公開稱讚」推進的語氣。"
+        "label": "倡議",
+        "body": "The"
       },
       {
-        "label": "延伸版",
-        "body": "碰到 媒體 / 報導 場景時，<code>widely lauded</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "廣泛稱讚",
+        "body": "A widely lauded design can still fail a niche workflow."
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "laud 常接 effort、initiative，也常用 widely lauded；搭配多半在正式公開語境。",
       "items": [
         {
           "phrase": "laud the effort",
-          "register": "工作 / 團隊",
-          "note": "這個搭配常出現在需要把事情往「公開稱讚」講清楚的句子裡。"
+          "register": "正式 / 會議",
+          "note": "讚揚努力。"
         },
         {
           "phrase": "laud the initiative",
-          "register": "公共 / 評論",
-          "note": "放到 公共 / 評論 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "組織 / 公共",
+          "note": "稱讚倡議。"
         },
         {
           "phrase": "widely lauded",
-          "register": "媒體 / 報導",
-          "note": "在 媒體 / 報導 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "新聞 / 評論",
+          "note": "廣受讚揚。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "公開稱讚",
-        "use": "當你要把事情說成「明白把好的地方抬出來講」而不只是 稱讚 時"
+        "use": "用在讚揚具有公開、正式或評論性質時。"
       },
       "others": [
         {
           "word": "Praise",
           "meaning": "稱讚",
-          "use": "當句子只需要 稱讚 這個動作，不必補上「明白把好的地方抬出來講」那層走向時"
+          "use": "通用；<code>laud</code> 較正式、公開。"
+        },
+        {
+          "word": "Applaud",
+          "meaning": "稱許、鼓掌",
+          "use": "可字面鼓掌；laud 偏言語或文字讚揚。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>laud</code>，可以先看它黏著哪些搭配出現。像 <code>laud the effort</code>、<code>laud the initiative</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Praise</code> 的華麗版本，而是專門拿來補上「明白把好的地方抬出來講」這層語氣。"
+      "<code>Laud</code> 和 <code>laudatory</code> 都很書面。",
+      "日常稱讚朋友用 praise 就好；新聞或正式評述可用 laud。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 laud 整理成「公開稱讚」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/laud",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 laud 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/laud",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "praise",
       "recognition",
       "public",
-      "verb",
-      "laud"
+      "laud",
+      "verb"
     ]
   },
   "sourceAudit": [

@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.60"
     },
-    "coreIdea": "<code>gamut</code> 用來把場面裡的「完整光譜」正式點出來，讓它從感受或評語變成可以被命名的東西。",
+    "coreIdea": "<code>gamut</code> 是從一端到另一端的完整範圍，像把整個光譜攤開。",
     "definition": {
-      "summary": "表示完整範圍、全系列、各種層次。這個名詞把場面裡那份「完整光譜」收成一個可以被指出的東西。",
+      "summary": "指完整範圍、全系列、全部層次。",
       "contrast": {
         "word": "Range",
-        "note": "<code>Range</code> 可以只是在說「範圍」；換成 <code>gamut</code>，句子通常是在補上「完整光譜」這層更具體的意思。"
+        "note": "<code>range</code> 是範圍；<code>gamut</code> 像把整排音階從頭到尾彈過。"
       },
       "flow": [
-        "先有一個值得被點出的結果、狀態或評價",
-        "這個名詞把它收成「完整光譜」這樣一個可指稱的東西",
-        "所以句子不是在補修飾，而是在正式命名"
+        "某類事物有兩端",
+        "中間層次都被包含",
+        "整體範圍被看見"
       ]
     },
     "memory": {
-      "hook": "<code>gamut</code> 的畫面是：像鋼琴鍵從最低到最高一整排都打開，沒有哪一段被省略。",
-      "explanation": "這個畫面有用，因為它把 gamut 從翻譯拉回場面：你先看到「鋼琴鍵一整排都打開」，再比較容易記住它其實在說「完整光譜」。"
+      "hook": "把 <code>run the gamut</code> 想成情緒不是單一反應，而是從興奮、焦慮到疲憊全部跑過。",
+      "explanation": "gamut 的重點是 span。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>run the gamut</code> 聽起來不像隨口描述，更像是把場面裡那份「完整光譜」正式點出來。"
+        "label": "範圍",
+        "body": "The questions ran the <code>gamut</code> from naming to deployment risk."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 營運 / 服務 裡，<code>full gamut of services</code> 常不是某個人的一時看法，而是已經可以被辨認、被談論的東西。"
+        "label": "服務",
+        "body": "The platform promises a full gamut of services, but users still care about the path between them."
       },
       {
-        "label": "延伸版",
-        "body": "到了 情緒 / 描寫 的場景，<code>gamut of emotions</code> 會讓這個字從抽象印象變成語境裡具體可指的對象。"
+        "label": "情緒",
+        "body": "The team went through a gamut of emotions during the incident."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個名詞通常在哪些場面被點出。",
+      "note": "gamut 常出現在 run the gamut、full gamut of services、gamut of emotions；搭配都指完整範圍。",
       "items": [
         {
           "phrase": "run the gamut",
-          "register": "寫作 / 表達",
-          "note": "放到 寫作 / 表達 的場景裡，這個搭配會把「完整光譜」具體點出來。"
+          "register": "正式 / 日常",
+          "note": "涵蓋整個範圍。"
         },
         {
           "phrase": "full gamut of services",
-          "register": "營運 / 服務",
-          "note": "在 營運 / 服務 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "商務 / 產品",
+          "note": "全套服務。"
         },
         {
           "phrase": "gamut of emotions",
-          "register": "情緒 / 描寫",
-          "note": "到了 情緒 / 描寫 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "情緒 / 敘事",
+          "note": "各種情緒。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "完整光譜",
-        "use": "當你要把「整條範圍都包進去」當成一個可被點出的東西來說，而不只是 範圍 時"
+        "use": "用在你要表示某一類東西的整個範圍都被涵蓋時。"
       },
       "others": [
         {
           "word": "Range",
           "meaning": "範圍",
-          "use": "當句子只需要 範圍 這個比較平的說法，不必把那份「整條範圍都包進去」正式點名時"
+          "use": "通用；<code>gamut</code> 更強調從一端到另一端的全幅。"
+        },
+        {
+          "word": "Spectrum",
+          "meaning": "光譜",
+          "use": "很接近，常用於連續分布；<code>gamut</code> 常見於經驗、服務、情緒。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>gamut</code> 常黏在 <code>run the gamut</code>、<code>full gamut of services</code> 這些搭配附近，因為它擅長把場面裡那份「完整光譜」正式點名。",
-      "所以它和 <code>Range</code> 的差別，通常不在難易，而在你要不要把那件事說成一個可被指出、可被談論的對象。"
+      "<code>Run the gamut</code> 是最值得先記的片語。",
+      "它比 range 更有完整走過一遍的感覺。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 gamut 整理成「完整光譜」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/gamut",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 gamut 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/gamut",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "range",
       "scope",
       "services",
-      "noun",
-      "gamut"
+      "gamut",
+      "noun"
     ]
   },
   "sourceAudit": [

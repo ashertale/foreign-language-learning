@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>devise</code> 關心的是「想出、設計或制定方法」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>devise</code> 是在沒有現成答案時，自己組出一條可走的方法。它帶有設計感，不只是剛好找到。",
     "definition": {
-      "summary": "表示想出、設計或制定方法。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示想出、設計或制定方法、計畫、測試或策略，通常是針對某個問題主動構造解法。",
       "contrast": {
         "word": "Discover",
         "note": "<code>discover</code> 是發現；<code>devise</code> 是動手構造一個方案。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>devise</code> 可以先記成一個畫面：問題存在，接著組合資源，最後做出方法。",
-      "explanation": "這個畫面只用來幫你抓住「想出、設計或制定方法」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>devise</code> 想成 intermittent bug 不肯出現時，自己設計一個能逼它現形的測試。",
+      "explanation": "你不是等答案浮上來，而是在替答案搭場景。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "為 intermittent bug devise a test，通常比等它自然重現更可靠。"
+        "label": "Debug",
+        "body": "為 intermittent bug <code>devise</code> a test，通常比等它自然重現更可靠。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>devise</code> 和 <code>devise a plan</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "計畫",
+        "body": "A team may devise a migration plan when the old path is too risky to continue。"
+      },
+      {
+        "label": "策略",
+        "body": "<code>Devise a strategy</code> 不是列願望，而是把資源、限制和順序排成可執行路線。"
       }
     ],
     "collocations": {
-      "note": "<code>devise</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「想出、設計或制定方法」落地。",
+      "note": "devise 常接 plan、test、strategy。這些名詞都表示答案需要被設計出來，而不是拿現成方案套上去。",
       "items": [
         {
           "phrase": "devise a plan",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「想出、設計或制定方法」有明確對象。"
+          "register": "管理 / 專案",
+          "note": "針對限制設計出可行步驟。"
         },
         {
           "phrase": "devise a test",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 研究",
+          "note": "設計測試讓現象能被觀察或排除。"
         },
         {
           "phrase": "devise a strategy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "商務 / 組織",
+          "note": "組合資源與順序，形成可執行策略。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "想出、設計或制定方法",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在方法本來不存在，需要你根據限制和目標構造出來時。"
       },
       "others": [
         {
           "word": "Discover",
-          "meaning": "<code>discover</code> 是發現；<code>devise</code> 是動手構造一個方案。",
-          "use": "如果句子只需要 discover 的普通意思，就保留那個較簡單的字。"
+          "meaning": "發現",
+          "use": "答案已存在，你把它找出來。"
+        },
+        {
+          "word": "Invent",
+          "meaning": "發明",
+          "use": "創造新東西，語氣更大。"
+        },
+        {
+          "word": "Design",
+          "meaning": "設計",
+          "use": "範圍廣；devise 更常指為了解問題而想出方法。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>devise</code> 常把一段觀察收斂成可討論的判斷。為 intermittent bug devise a test，通常比等它自然重現更可靠。",
-      "像 <code>devise a plan</code>、<code>devise a test</code>、<code>devise a strategy</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Devise</code> 很適合工程情境，因為很多解法不是搜尋得到，而是在限制下組出來。",
+      "它也暗示解法應該可行。只有靈感、沒有落地路徑，還不太算 devise。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 devise 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 devise 整理成「想出、設計或制定方法」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/devise",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "詞史和分配、安排、設計有關；現代核心是構造解法。",
-      "memoryLens": "記憶時先抓「想出、設計或制定方法」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "詞史裡的安排、設計感可輔助記憶；現代核心是替問題構造解法。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "plan",
       "test",
       "strategy",
-      "verb",
       "verb"
     ]
   },

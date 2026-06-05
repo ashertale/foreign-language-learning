@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.73"
     },
-    "coreIdea": "<code>forfeit</code> 的力道，在於它會把動作背後那層「因為違規、放棄或代價交換而失掉」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>forfeit</code> 是因為規則、錯誤或選擇而失去原本可以保有的權利、金錢或機會。",
     "definition": {
-      "summary": "表示喪失權利、金錢、機會或資格。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示喪失、被沒收，或放棄比賽、權利、押金、機會。",
       "contrast": {
         "word": "Lose",
-        "note": "<code>Lose</code> 比較像基礎說法；<code>forfeit</code> 常用來把那層更具體的「因代價而喪失」拉到前景。"
+        "note": "<code>lose</code> 只是失去；<code>forfeit</code> 讓人看到規則在背後收回東西。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「因代價而喪失」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "某權利或利益原本可保有",
+        "條件被違反或選擇被作出",
+        "權利或利益被收回"
       ]
     },
     "memory": {
-      "hook": "<code>forfeit</code> 的畫面是：像手上握著的票不是掉了，而是因為一步走錯被收回去。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「因為違規、放棄或代價交換而失掉」看成一個會發生的場面。"
+      "hook": "把 <code>forfeit the deposit</code> 想成不是花掉錢，而是因條件沒達成，押金回不來。",
+      "explanation": "forfeit 的失去常和規則條件有關。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>forfeit the deposit</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "押金",
+        "body": "If you cancel late, you may <code>forfeit</code> the deposit."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 競賽 / 規則 裡，<code>forfeit the game</code> 讓句子多出的，不只是資訊，而是那股往「因代價而喪失」推進的語氣。"
+        "label": "比賽",
+        "body": "The team forfeited the game because it could not field enough players."
       },
       {
-        "label": "延伸版",
-        "body": "碰到 人生 / 選擇 場景時，<code>forfeit the chance</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "機會",
+        "body": "Ignoring the deadline means you forfeit the chance to appeal."
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "forfeit 常接 deposit、game、chance；搭配會指出失去的是什麼權利或利益。",
       "items": [
         {
           "phrase": "forfeit the deposit",
-          "register": "財務 / 合約",
-          "note": "這個搭配常出現在需要把事情往「因代價而喪失」講清楚的句子裡。"
+          "register": "合約 / 日常",
+          "note": "喪失押金。"
         },
         {
           "phrase": "forfeit the game",
-          "register": "競賽 / 規則",
-          "note": "放到 競賽 / 規則 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "運動 / 規則",
+          "note": "棄權或被判輸。"
         },
         {
           "phrase": "forfeit the chance",
-          "register": "人生 / 選擇",
-          "note": "在 人生 / 選擇 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "正式 / 日常",
+          "note": "失去機會。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "因代價而喪失",
-        "use": "當你要把事情說成「因為違規、放棄或代價交換而失掉」而不只是 失去 時"
+        "use": "用在失去不是偶然掉了，而是因規則或條件被剝奪時。"
       },
       "others": [
         {
           "word": "Lose",
           "meaning": "失去",
-          "use": "當句子只需要 失去 這個動作，不必補上「因為違規、放棄或代價交換而失掉」那層走向時"
+          "use": "通用；<code>forfeit</code> 常因規則、條件或自己的行為而失去。"
+        },
+        {
+          "word": "Surrender",
+          "meaning": "交出、投降",
+          "use": "可主動放棄；<code>forfeit</code> 多半有規則性後果。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>forfeit</code>，可以先看它黏著哪些搭配出現。像 <code>forfeit the deposit</code>、<code>forfeit the game</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Lose</code> 的華麗版本，而是專門拿來補上「因為違規、放棄或代價交換而失掉」這層語氣。"
+      "<code>Forfeit</code> 在合約、遊戲、運動和法律語境裡很常見。",
+      "它提醒你看條件：哪個行為會讓你失去原本的權利？"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 forfeit 整理成「因代價而喪失」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/forfeit",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 forfeit 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/forfeit",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "lose",
       "penalty",
       "opportunity",
-      "verb",
-      "forfeit"
+      "forfeit",
+      "verb"
     ]
   },
   "sourceAudit": [

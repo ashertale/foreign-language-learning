@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.01"
     },
-    "coreIdea": "<code>enact</code> 的力道，在於它會把動作背後那層「把文字真正變成現實中的效力」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>enact</code> 是把文字、決定或角色放進現實裡：法律被制定，改革被實施，角色被演出。",
     "definition": {
-      "summary": "表示制定法律、實施措施，或把角色演出來。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示制定法律、實施措施；也可表示演出角色或場景。",
       "contrast": {
         "word": "Implement",
-        "note": "<code>Implement</code> 比較像基礎說法；<code>enact</code> 常用來把那層更具體的「讓文字生效」拉到前景。"
+        "note": "<code>implement</code> 是把方案做出來；<code>enact</code> 常帶法律或角色進入現實的味道。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「讓文字生效」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "文字、決定或角色存在",
+        "它被正式推入行動",
+        "現實開始按它運作"
       ]
     },
     "memory": {
-      "hook": "<code>enact</code> 的畫面是：像藍圖離開桌面，真正變成街角已經豎起的路牌。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「把文字真正變成現實中的效力」看成一個會發生的場面。"
+      "hook": "把 <code>enact reforms</code> 想成改革不再只是 deck 上的 bullet，而是進入制度和行動。",
+      "explanation": "enact 把想法推進現實。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>enact a law</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "法律",
+        "body": "The council <code>enacted</code> a law after months of public debate."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 政策 裡，<code>enact reforms</code> 讓句子多出的，不只是資訊，而是那股往「讓文字生效」推進的語氣。"
+        "label": "改革",
+        "body": "Enacting reforms requires more than announcing values."
       },
       {
-        "label": "延伸版",
-        "body": "碰到 表演 / 敘事 場景時，<code>enact the role</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "角色",
+        "body": "Actors enact the role by making choices visible through bodies and voices."
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "enact 常接 law、reforms、role；搭配要看是法律制度義還是表演義。",
       "items": [
         {
           "phrase": "enact a law",
-          "register": "法規 / 制度",
-          "note": "這個搭配常出現在需要把事情往「讓文字生效」講清楚的句子裡。"
+          "register": "法律 / 政府",
+          "note": "制定法律。"
         },
         {
           "phrase": "enact reforms",
-          "register": "公共 / 政策",
-          "note": "放到 公共 / 政策 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "政策 / 組織",
+          "note": "實施改革。"
         },
         {
           "phrase": "enact the role",
-          "register": "表演 / 敘事",
-          "note": "在 表演 / 敘事 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "戲劇 / 文學",
+          "note": "演出角色。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "讓文字生效",
-        "use": "當你要把事情說成「把文字真正變成現實中的效力」而不只是 實施 時"
+        "use": "用在規則、政策或角色從文字與想像進入正式現實時。"
       },
       "others": [
         {
           "word": "Implement",
-          "meaning": "實施",
-          "use": "當句子只需要 實施 這個動作，不必補上「把文字真正變成現實中的效力」那層走向時"
+          "meaning": "實作、執行",
+          "use": "偏把計畫落地；<code>enact</code> 常用於法律、政策，也可指演出。"
+        },
+        {
+          "word": "Pass",
+          "meaning": "通過法案",
+          "use": "法律程序的一步；<code>enact</code> 是使其成為法律或行動。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>enact</code>，可以先看它黏著哪些搭配出現。像 <code>enact a law</code>、<code>enact reforms</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Implement</code> 的華麗版本，而是專門拿來補上「把文字真正變成現實中的效力」這層語氣。"
+      "工程中常說 implement；法律政策更常說 enact。",
+      "如果是 feature，不要硬用 enact，除非你在比喻把規範實行出來。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 enact 整理成「讓文字生效」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/enact",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 enact 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/enact",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "implement",
       "policy",
       "law",
-      "verb",
-      "enact"
+      "enact",
+      "verb"
     ]
   },
   "sourceAudit": [

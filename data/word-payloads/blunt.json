@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.80"
     },
-    "coreIdea": "<code>blunt</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「直接、不圓滑，或物理上不尖銳」。",
+    "coreIdea": "<code>blunt</code> 把柔邊拿掉。物體上是不鋒利；說話上則是沒有緩衝，直接把意思放到對方面前。",
     "definition": {
-      "summary": "形容直接、不圓滑，或物理上不尖銳。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容物體不鋒利，也可形容說話直接、不修飾，甚至讓人覺得刺耳。它的重點不是誠不誠實，而是邊緣有沒有被磨圓。",
       "contrast": {
         "word": "Honest",
         "note": "<code>honest</code> 重點是真實；<code>blunt</code> 重點是邊緣沒有修飾。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>blunt</code> 可以先記成一個畫面：修飾被拿掉，接著話直接落下，最後對方感到衝擊。",
-      "explanation": "這個畫面只用來幫你抓住「直接、不圓滑，或物理上不尖銳」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>blunt</code> feedback 像沒有包裝材料的零件，直接撞到桌面。",
+      "explanation": "內容可能是真的，但傳遞方式沒有緩衝；這就是它和 honest 的差別。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "blunt feedback 可以節省時間，也可能讓合作關係多一道傷口。"
+        "label": "溝通",
+        "body": "<code>Blunt</code> feedback 可以節省時間，也可能讓合作關係多一道傷口。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>blunt</code> 和 <code>blunt feedback</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "物理",
+        "body": "A <code>blunt</code> knife 不夠利；a blunt instrument 則常指鈍器，也可比喻粗糙手段。"
+      },
+      {
+        "label": "評估",
+        "body": "A <code>blunt</code> assessment 可能必要，特別是大家已經用太多委婉話拖延問題。"
       }
     ],
     "collocations": {
-      "note": "<code>blunt</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「直接、不圓滑，或物理上不尖銳」落地。",
+      "note": "blunt 的搭配常在兩個方向切換：物理上的鈍，或語氣上的不加修飾。",
       "items": [
         {
           "phrase": "blunt feedback",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「直接、不圓滑，或物理上不尖銳」有明確對象。"
+          "register": "職場 / 溝通",
+          "note": "直接說出問題，可能有效，也可能缺少照顧。"
         },
         {
           "phrase": "blunt instrument",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "物理 / 比喻 / 政策",
+          "note": "字面是鈍器；比喻時指粗糙、缺乏精細度的工具或政策。"
         },
         {
           "phrase": "blunt assessment",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "管理 / 評論",
+          "note": "不繞彎地評估情況，常帶現實壓力。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "直接、不圓滑，或物理上不尖銳",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在話語或工具少了柔邊，直接但可能粗糙時。"
       },
       "others": [
         {
           "word": "Honest",
-          "meaning": "<code>honest</code> 重點是真實；<code>blunt</code> 重點是邊緣沒有修飾。",
-          "use": "如果句子只需要 honest 的普通意思，就保留那個較簡單的字。"
+          "meaning": "誠實",
+          "use": "重點是真實、不欺瞞，不一定刺人。"
+        },
+        {
+          "word": "Frank",
+          "meaning": "坦率",
+          "use": "比 blunt 較可接受，常帶開誠布公的感覺。"
+        },
+        {
+          "word": "Rude",
+          "meaning": "無禮",
+          "use": "如果重點是冒犯和不尊重，而不是直接程度，用 <code>rude</code>。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>blunt</code> 常把一段觀察收斂成可討論的判斷。blunt feedback 可以節省時間，也可能讓合作關係多一道傷口。",
-      "像 <code>blunt feedback</code>、<code>blunt instrument</code>、<code>blunt assessment</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "職場英文裡，<code>blunt</code> 很常出現在 feedback、assessment、warning。它可以是效率，也可能是關係成本。",
+      "這個字的判斷很看情境：同一句話在 crisis 裡可能叫 necessary bluntness，在 mentoring 裡可能只是太硬。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 blunt 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 blunt 整理成「直接、不圓滑，或物理上不尖銳」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/blunt",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "原本可指不鋒利；用到語氣時，就是把柔邊拿掉。",
-      "memoryLens": "記憶時先抓「直接、不圓滑，或物理上不尖銳」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "先記物理上的「不尖」。延伸到說話時，就是不幫句子磨柔邊。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "honest",
       "feedback",
       "tone",
-      "adjective",
       "adjective"
     ]
   },

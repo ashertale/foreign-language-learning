@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.40"
     },
-    "coreIdea": "<code>divest</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「有計畫卸出去」這條線走。",
+    "coreIdea": "<code>divest</code> 是把自己從某種持有中抽出來：資產、業務、責任，甚至舊身份。",
     "definition": {
-      "summary": "表示出售資產、剝離業務，或使自己不再持有某物。它要補上的，通常不是動作本身，而是那層更具體的「有計畫地把持有的東西卸出去」。",
+      "summary": "表示出售、剝離、使不再持有；也可表示解除某人權力或責任。",
       "contrast": {
         "word": "Sell",
-        "note": "如果語境只需要比較平的「出售」，用 <code>Sell</code> 往往就夠了；<code>divest</code> 則會把「有計畫地把持有的東西卸出去」講得更明確。"
+        "note": "<code>sell</code> 是交易；<code>divest</code> 是從持有關係中退出。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「有計畫地把持有的東西卸出去」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "一方持有資產或責任",
+        "決定切斷持有",
+        "所有權或責任被剝離"
       ]
     },
     "memory": {
-      "hook": "<code>divest</code> 的畫面是：像樹把過重的枝條修掉，不是因為討厭，而是為了讓整體活得更穩。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 divest 時，能先抓到「有計畫卸出去」這個核心，再回頭讀細節。"
+      "hook": "把 <code>divest from fossil fuels</code> 想成不是少買一點，而是正式把資金退出那個領域。",
+      "explanation": "divest 的動作有脫身感。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>divest the assets</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「有計畫卸出去」這個方向講清楚。"
+        "label": "資產",
+        "body": "The firm <code>divested</code> the assets to focus on its core business."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>divest from fossil fuels</code> 放進 公共 / 投資 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "投資",
+        "body": "Several funds divested from fossil fuels after pressure from members."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 治理 / 權責 的情境，從 <code>divest responsibility</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "責任",
+        "body": "You"
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "divest 常接 assets、from fossil fuels、responsibility；搭配都跟卸下或剝離持有有關。",
       "items": [
         {
           "phrase": "divest the assets",
-          "register": "財務 / 企業",
-          "note": "這個搭配常出現在需要把事情往「有計畫卸出去」講清楚的句子裡。"
+          "register": "商務 / 金融",
+          "note": "出售或剝離資產。"
         },
         {
           "phrase": "divest from fossil fuels",
-          "register": "公共 / 投資",
-          "note": "放到 公共 / 投資 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "投資 / 社會",
+          "note": "撤出化石燃料投資。"
         },
         {
           "phrase": "divest responsibility",
-          "register": "治理 / 權責",
-          "note": "在 治理 / 權責 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "正式 / 組織",
+          "note": "卸除責任，常帶批評。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "有計畫卸出去",
-        "use": "當你要把事情說成「有計畫地把持有的東西卸出去」而不只是 出售 時"
+        "use": "用在持有關係被切斷，尤其帶策略、倫理或正式程序時。"
       },
       "others": [
         {
           "word": "Sell",
-          "meaning": "出售",
-          "use": "當句子只需要 出售 這個動作，不必補上「有計畫地把持有的東西卸出去」那層走向時"
+          "meaning": "賣掉",
+          "use": "只說交易；<code>divest</code> 更正式，常是策略性剝離。"
+        },
+        {
+          "word": "Strip",
+          "meaning": "剝奪",
+          "use": "可很強硬；<code>divest</code> 可指主動退出持有。"
         }
       ]
     },
     "modernUse": [
-      "<code>divest</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>divest the assets</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Sell</code> 的差別，通常不在難度，而在句子要不要把那層「有計畫卸出去」明白說出來。"
+      "<code>Divest</code> 在 ESG、投資、企業重組裡很常見。",
+      "它也能抽象使用，但若只是普通 sell，divest 可能太正式。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 divest 整理成「有計畫卸出去」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/divest",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 divest 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/divest",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "sell",
       "assets",
       "restructuring",
-      "verb",
-      "divest"
+      "divest",
+      "verb"
     ]
   },
   "sourceAudit": [

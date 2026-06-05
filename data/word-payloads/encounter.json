@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>encounter</code> 關心的是「遭遇、遇見或碰到」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>encounter</code> 是在前進途中迎面碰到人、問題或情況。它通常不是刻意尋找，而是事情走到你面前。",
     "definition": {
-      "summary": "表示遭遇、遇見或碰到。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示遇到、遭遇或碰見，常用於問題、阻力、情況、人或經驗。",
       "contrast": {
         "word": "Find",
         "note": "<code>find</code> 可表示找到；<code>encounter</code> 更像在行進中迎面碰上。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>encounter</code> 可以先記成一個畫面：行動正在進行，接著情況迎面出現，最後必須回應。",
-      "explanation": "這個畫面只用來幫你抓住「遭遇、遇見或碰到」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>encounter</code> 想成測試跑著跑著，罕見 failure 自己跳出來。",
+      "explanation": "你不是搜尋它；你是在路上撞見它。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "測試中 encounter rare failure，通常代表情境比預期複雜。"
+        "label": "測試",
+        "body": "測試中 <code>encounter</code> rare failure，通常代表情境比預期複雜。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>encounter</code> 和 <code>encounter a problem</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "阻力",
+        "body": "A proposal may encounter resistance when it changes people’s routines。"
+      },
+      {
+        "label": "第一次",
+        "body": "A first encounter with a codebase often reveals naming and architecture habits."
       }
     ],
     "collocations": {
-      "note": "<code>encounter</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「遭遇、遇見或碰到」落地。",
+      "note": "encounter 常接 problem、resistance、first encounter。搭配裡常有迎面碰上、需要回應的感覺。",
       "items": [
         {
           "phrase": "encounter a problem",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「遭遇、遇見或碰到」有明確對象。"
+          "register": "通用 / 工程",
+          "note": "進行中碰到問題。"
         },
         {
           "phrase": "encounter resistance",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "組織 / 政治",
+          "note": "遇到反對或阻力。"
         },
         {
           "phrase": "first encounter",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "日常 / 學習",
+          "note": "第一次接觸或相遇。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "遭遇、遇見或碰到",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在行動途中碰上某狀況，而那狀況需要被注意或回應時。"
       },
       "others": [
         {
           "word": "Find",
-          "meaning": "<code>find</code> 可表示找到；<code>encounter</code> 更像在行進中迎面碰上。",
-          "use": "如果句子只需要 find 的普通意思，就保留那個較簡單的字。"
+          "meaning": "找到",
+          "use": "可主動尋找也可偶然發現。"
+        },
+        {
+          "word": "Meet",
+          "meaning": "見面、遇見",
+          "use": "多用於人，也可正式約見。"
+        },
+        {
+          "word": "Run into",
+          "meaning": "碰到",
+          "use": "口語，和 encounter 接近但較輕。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>encounter</code> 常把一段觀察收斂成可討論的判斷。測試中 encounter rare failure，通常代表情境比預期複雜。",
-      "像 <code>encounter a problem</code>、<code>encounter resistance</code>、<code>first encounter</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Encounter</code> 在工程紀錄裡很自然：encountered an error、encountered resistance、encountered a limitation。",
+      "它保留偶然性和現場感，不像 discover 那樣暗示你成功找到了什麼。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 encounter 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 encounter 整理成「遭遇、遇見或碰到」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/encounter",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Old French 與相遇、對上的概念相關；畫面是路上迎面碰到。",
-      "memoryLens": "記憶時先抓「遭遇、遇見或碰到」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "相遇、對上的詞史畫面很好記；encounter 的問題常是迎面而來。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "find",
       "problem",
       "test",
-      "verb",
       "verb"
     ]
   },

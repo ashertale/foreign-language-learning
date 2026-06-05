@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>obsolete</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「過時的、已不再適用」。",
+    "coreIdea": "<code>obsolete</code> 不是老，而是環境、需求或標準已經移動，讓它不再適合被使用。",
     "definition": {
-      "summary": "形容過時的、已不再適用的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容技術、工具、做法、API 或物品過時、淘汰、不再適用。",
       "contrast": {
         "word": "Old",
         "note": "<code>old</code> 只是舊；<code>obsolete</code> 是舊到不再適用或被取代。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>obsolete</code> 可以先記成一個畫面：原本可用，接著環境或標準改變，最後變得不再合適。",
-      "explanation": "這個畫面只用來幫你抓住「過時的、已不再適用」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>obsolete</code> API 想成還能跑，但新設計已經不該再靠它。",
+      "explanation": "能動不等於仍然適合。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "obsolete API 可能還能跑，但新設計不該再依賴它。"
+        "label": "API",
+        "body": "<code>Obsolete</code> API 可能還能跑，但新設計不該再依賴它。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>obsolete</code> 和 <code>obsolete technology</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "技術",
+        "body": "Obsolete technology may survive in old systems long after the ecosystem moves on."
+      },
+      {
+        "label": "淘汰",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "<code>obsolete</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「過時的、已不再適用」落地。",
+      "note": "obsolete 常接 technology、API、make。搭配多半在描述被新條件淘汰。",
       "items": [
         {
           "phrase": "obsolete technology",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「過時的、已不再適用」有明確對象。"
+          "register": "產品 / 技術史",
+          "note": "已被新技術取代或不再適用。"
         },
         {
           "phrase": "obsolete API",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "軟體",
+          "note": "過時 API，通常不建議新程式使用。"
         },
         {
           "phrase": "make obsolete",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 商務",
+          "note": "使某物變得過時。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "過時的、已不再適用的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某物因新需求或新方法出現而不再適用時。"
       },
       "others": [
         {
           "word": "Old",
-          "meaning": "<code>old</code> 只是舊；<code>obsolete</code> 是舊到不再適用或被取代。",
-          "use": "如果句子只需要 old 的普通意思，就保留那個較簡單的字。"
+          "meaning": "舊、老",
+          "use": "只看時間。"
+        },
+        {
+          "word": "Outdated",
+          "meaning": "過時",
+          "use": "和 obsolete 接近，但 obsolete 更像已不該再用。"
+        },
+        {
+          "word": "Deprecated",
+          "meaning": "不建議使用",
+          "use": "軟體語境正式標記，可能尚未移除。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>obsolete</code> 常把一段觀察收斂成可討論的判斷。obsolete API 可能還能跑，但新設計不該再依賴它。",
-      "像 <code>obsolete technology</code>、<code>obsolete API</code>、<code>make obsolete</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Obsolete</code> 對 legacy 系統很有用。它承認某東西曾經合理，只是現在環境已經變了。",
+      "不要把 obsolete 和 broken 混在一起。過時的東西可能還能跑，這正是遷移困難的原因。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 obsolete 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 obsolete 整理成「過時的、已不再適用的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/obsolete",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>obsolescere</code>，有逐漸不用、退場的意思。",
-      "memoryLens": "記憶時先抓「過時的、已不再適用的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "逐漸不用、退場的字源方向很貼切；obsolete 是被時代和需求推出場外。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "old",
       "API",
       "technology",
-      "adjective",
       "adjective"
     ]
   },

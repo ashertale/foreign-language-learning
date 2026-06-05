@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.61"
     },
-    "coreIdea": "<code>indict</code> 的力道，在於它會把動作背後那層「進入正式程序，準備追究」說得更清楚，不讓句子只停在表面的中文對應。",
+    "coreIdea": "<code>indict</code> 在法律裡是起訴；在評論裡，某件事也可以成為對整個系統的控訴。",
     "definition": {
-      "summary": "表示起訴、控告，或在強烈語氣中把某現象視為有罪。讀到它時，最好不要只翻成中文動詞，而要留意句子想把事情收斂到哪一種走向。",
+      "summary": "表示起訴、控告；也可比喻揭示某人或制度有嚴重問題。",
       "contrast": {
         "word": "Charge",
-        "note": "<code>Charge</code> 比較像基礎說法；<code>indict</code> 常用來把那層更具體的「正式起訴」拉到前景。"
+        "note": "<code>accuse</code> 是指控；<code>indict</code> 像把指控寫成正式案子。"
       },
       "flow": [
-        "先有一個原本還能用一般動詞帶過的場景",
-        "接著句子選擇用「正式起訴」來講它",
-        "結果語感會從平鋪直述，變成更有方向感的描述"
+        "嚴重錯誤或罪名存在",
+        "證據被整理成控訴",
+        "人或制度被正式指向責任"
       ]
     },
     "memory": {
-      "hook": "<code>indict</code> 的畫面是：像檔案不是放進抽屜，而是被推上審判桌開始有後續。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「進入正式程序，準備追究」看成一個會發生的場面。"
+      "hook": "把 <code>indict the system</code> 想成單一事故不是孤立錯，而是證明整套制度有罪證。",
+      "explanation": "indict 的語氣是 formal accusation。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其背這個動詞的中文，不如記 <code>indict the suspect</code>：它會直接告訴你這個字最自然的落點在哪裡。"
+        "label": "嫌疑人",
+        "body": "The grand jury voted to <code>indict</code> the suspect on multiple charges."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 評論 / 公共 裡，<code>indict the system</code> 讓句子多出的，不只是資訊，而是那股往「正式起訴」推進的語氣。"
+        "label": "制度",
+        "body": "The"
       },
       {
-        "label": "延伸版",
-        "body": "碰到 新聞 / 時事 場景時，<code>indicted on charges</code> 常能幫你把這個字用得不空，因為它讓場面自己說話。"
+        "label": "罪名",
+        "body": "He was indicted on charges that carried serious penalties."
       }
     ],
     "collocations": {
-      "note": "這些搭配把動作真正會發生的場面拉了出來，讓語感不會停在字典對應上。",
+      "note": "indict 常接 suspect、system，也常用 indicted on charges；搭配要分法律與比喻。",
       "items": [
         {
           "phrase": "indict the suspect",
-          "register": "法務 / 調查",
-          "note": "這個搭配常出現在需要把事情往「正式起訴」講清楚的句子裡。"
+          "register": "法律 / 新聞",
+          "note": "起訴嫌疑人。"
         },
         {
           "phrase": "indict the system",
-          "register": "評論 / 公共",
-          "note": "放到 評論 / 公共 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "評論 / 社會",
+          "note": "控訴制度。"
         },
         {
           "phrase": "indicted on charges",
-          "register": "新聞 / 時事",
-          "note": "在 新聞 / 時事 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "法律 / 新聞",
+          "note": "因罪名被起訴。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "正式起訴",
-        "use": "當你要把事情說成「進入正式程序，準備追究」而不只是 指控 時"
+        "use": "用在正式起訴，或比喻上讓某事成為強烈控訴證據時。"
       },
       "others": [
         {
           "word": "Charge",
+          "meaning": "指控、起訴",
+          "use": "通用法律字；<code>indict</code> 常指正式起訴程序。"
+        },
+        {
+          "word": "Accuse",
           "meaning": "指控",
-          "use": "當句子只需要 指控 這個動作，不必補上「進入正式程序，準備追究」那層走向時"
+          "use": "範圍廣；<code>indict</code> 更正式、更有證據文件感。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>indict</code>，可以先看它黏著哪些搭配出現。像 <code>indict the suspect</code>、<code>indict the system</code> 都在提醒你：這個字擅長把動作往更有方向感的地方推。",
-      "也因此，它不只是 <code>Charge</code> 的華麗版本，而是專門拿來補上「進入正式程序，準備追究」這層語氣。"
+      "<code>Indict</code> 的 c 不發音，拼字要小心。",
+      "比喻用法很有力：a failure can indict a process，比單純 criticize 更重。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 indict 整理成「正式起訴」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/indict",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 indict 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/indict",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "charge",
       "law",
       "accountability",
-      "verb",
-      "indict"
+      "indict",
+      "verb"
     ]
   },
   "sourceAudit": [

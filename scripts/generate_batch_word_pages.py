@@ -34,7 +34,13 @@ template placeholders. Think in sections, not slot-filling:
   `neighbors.others`, and `modernUse` are flexible containers, not quotas.
 - Keep prose direct and concept-first. Do not write study-script lines such as
   `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
+- Never make validation pass by adding repeated Chinese tails to usage examples.
+  Avoid endings like `（情境｜用在...）`, `這句要讀成`, `焦點落在`,
+  `例句示範的是`, or `核心就是`. A usage card may carry Chinese context
+  in its label while the body remains a natural example.
 - Use collocations as living usage anchors and neighbors as confusion boundaries.
+- If a batch starts producing the same connector sentence across words, stop and
+  rewrite the affected payloads by word before rendering.
 - Keep mnemonic images separate from historical claims.
 - Prefer concise, specific Traditional Chinese learning prose with embedded
   English terms where they are the learning object.

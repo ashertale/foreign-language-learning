@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.80"
     },
-    "coreIdea": "<code>grounded</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「穩健、務實、有根據」。",
+    "coreIdea": "<code>grounded</code> 不是缺乏想像，而是想法、態度或判斷沒有飄離證據和現實。",
     "definition": {
-      "summary": "形容穩健、務實、有根據的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人務實穩定，或觀點、主張建立在證據、現實、經驗或原則之上。",
       "contrast": {
         "word": "Practical",
         "note": "<code>practical</code> 是實用；<code>grounded</code> 強調沒有飄離現實或證據。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>grounded</code> 可以先記成一個畫面：想法出現，接著回到證據，最後保持穩定。",
-      "explanation": "這個畫面只用來幫你抓住「穩健、務實、有根據」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>grounded</code> proposal 想成漂亮願景下面真的有 constraints、cost 和 next step。",
+      "explanation": "它不是比較無聊，而是腳底有地。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "grounded proposal 會承認限制，而不是只畫最漂亮的未來。"
+        "label": "提案",
+        "body": "<code>Grounded</code> proposal 會承認限制，而不是只畫最漂亮的未來。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>grounded</code> 和 <code>grounded in evidence</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "證據",
+        "body": "A claim grounded in evidence can survive questions better than one grounded in hope."
+      },
+      {
+        "label": "態度",
+        "body": "Stay grounded when early success makes the easy story too tempting."
       }
     ],
     "collocations": {
-      "note": "<code>grounded</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「穩健、務實、有根據」落地。",
+      "note": "grounded 常接 in evidence、stay、perspective。搭配會指出人或想法踩在哪塊地上。",
       "items": [
         {
           "phrase": "grounded in evidence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「穩健、務實、有根據」有明確對象。"
+          "register": "研究 / 工程 / 法律",
+          "note": "建立在證據上。"
         },
         {
           "phrase": "stay grounded",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "日常 / 管理",
+          "note": "保持務實，不被情緒或成功帶飄。"
         },
         {
           "phrase": "grounded perspective",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "評論 / 職場",
+          "note": "貼近現實和限制的觀點。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "穩健、務實、有根據的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在想法或人既能想像，也能踩住證據、限制和現實時。"
       },
       "others": [
         {
           "word": "Practical",
-          "meaning": "<code>practical</code> 是實用；<code>grounded</code> 強調沒有飄離現實或證據。",
-          "use": "如果句子只需要 practical 的普通意思，就保留那個較簡單的字。"
+          "meaning": "實用、務實",
+          "use": "重可操作；grounded 更像沒有脫離現實。"
+        },
+        {
+          "word": "Realistic",
+          "meaning": "現實的",
+          "use": "承認實際條件。"
+        },
+        {
+          "word": "Sensible",
+          "meaning": "合理、明智",
+          "use": "判斷穩健，語氣較日常。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>grounded</code> 常把一段觀察收斂成可討論的判斷。grounded proposal 會承認限制，而不是只畫最漂亮的未來。",
-      "像 <code>grounded in evidence</code>、<code>stay grounded</code>、<code>grounded perspective</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Grounded</code> 是工程討論中的好稱讚。它不是 anti-vision，而是讓 vision 有地方落地。",
+      "好的 grounded plan 會把未知說成未知，而不是用自信語氣把洞蓋住。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 grounded 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 grounded 整理成「穩健、務實、有根據的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/grounded",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 ground 的地面概念延伸；核心畫面是腳踩在地上。",
-      "memoryLens": "記憶時先抓「穩健、務實、有根據的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "ground 的地面畫面很清楚；grounded 的想法腳踩地，不是漂在空中。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "evidence",
       "proposal",
       "reality",
-      "adjective",
       "adjective"
     ]
   },

@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.60"
     },
-    "coreIdea": "<code>allay</code> 常用在句子需要把動作往「緩和疑慮」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>allay</code> 不是把問題完全解掉，而是先把恐懼、疑慮或焦慮的尖端壓下來。",
     "definition": {
-      "summary": "表示減輕疑慮、恐懼或不安，使情緒沒那麼緊繃。這個字常不是在描述機械動作，而是在說事情怎麼往「緩和疑慮」這個方向走。",
+      "summary": "表示緩和、減輕擔憂、恐懼、疑慮或焦慮，使情緒不再那麼尖銳。",
       "contrast": {
         "word": "Ease",
-        "note": "<code>Ease</code> 可以只是在說「減輕」；換成 <code>allay</code>，句子通常是在補上「緩和疑慮」這層更具體的意思。"
+        "note": "<code>ease</code> 是減輕；<code>allay</code> 常專指把恐懼、疑慮或焦慮壓下來。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「緩和疑慮」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "擔心升起",
+        "資訊或行動介入",
+        "情緒尖端下降"
       ]
     },
     "memory": {
-      "hook": "<code>allay</code> 的畫面是：像把緊拉的弦鬆半格，聲音還在，但不再刺耳。",
-      "explanation": "這個畫面有用，因為它把 allay 從翻譯拉回場面：你先看到「先把刺放下」，再比較容易記住它其實在說「緩和疑慮」。"
+      "hook": "把 <code>allay</code> fears 想成 incident update 先告訴大家資料沒有外洩證據。",
+      "explanation": "系統還要查，但最尖的恐慌可以先降下來。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>allay fears</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「緩和疑慮」收過去。"
+        "label": "疑慮",
+        "body": "Clear rollback evidence can <code>allay</code> concerns without pretending the incident was harmless."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 管理 / 組織 裡，<code>allay concerns</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「先把尖銳的擔心放下來」。"
+        "label": "恐懼",
+        "body": "<code>Allay fears</code> 通常需要具體資訊，不是空泛安撫。"
       },
       {
-        "label": "延伸版",
-        "body": "到了 醫療 / 情緒 的場景，<code>allay anxiety</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「減輕」跟更具體的「緩和疑慮」差在哪。"
+        "label": "焦慮",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "allay 常接 fears、concerns、anxiety。搭配都指向情緒或疑慮被緩下來。",
       "items": [
         {
           "phrase": "allay fears",
-          "register": "風險 / 溝通",
-          "note": "這個搭配常出現在需要把事情往「緩和疑慮」講清楚的句子裡。"
+          "register": "公共溝通 / 管理",
+          "note": "緩和恐懼。"
         },
         {
           "phrase": "allay concerns",
-          "register": "管理 / 組織",
-          "note": "放到 管理 / 組織 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "職場 / 客戶溝通",
+          "note": "減輕疑慮。"
         },
         {
           "phrase": "allay anxiety",
-          "register": "醫療 / 情緒",
-          "note": "在 醫療 / 情緒 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "人際 / 醫療",
+          "note": "緩解焦慮。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "緩和疑慮",
-        "use": "當你要把事情說成「先把尖銳的擔心放下來」而不只是 減輕 時"
+        "use": "用在先降低擔心或恐懼的強度，而不是宣稱問題已完全解決時。"
       },
       "others": [
         {
           "word": "Ease",
           "meaning": "減輕",
-          "use": "當句子只需要 減輕 這個動作，不必補上「先把尖銳的擔心放下來」那層走向時"
+          "use": "最通用。"
+        },
+        {
+          "word": "Relieve",
+          "meaning": "舒緩、解除",
+          "use": "可用於痛苦、壓力。"
+        },
+        {
+          "word": "Resolve",
+          "meaning": "解決",
+          "use": "問題本身被處理；allay 只是先降情緒或疑慮。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>allay</code> 常出現在 <code>allay fears</code>、<code>allay concerns</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「緩和疑慮」這個方向收緊。",
-      "如果一句話只想表達比較平的「減輕」，<code>Ease</code> 往往就夠了；但當語境需要那層更具體的「先把尖銳的擔心放下來」，<code>allay</code> 會更準。"
+      "<code>Allay</code> 很適合危機溝通。它要求你提供能讓人稍微放心的根據，而不是用語氣粉飾。",
+      "如果根因未查完，可以 allay fears，但不要 claim resolved。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 allay 整理成「緩和疑慮」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/allay",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 allay 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/allay",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "ease",
       "communication",
       "anxiety",
-      "verb",
-      "allay"
+      "allay",
+      "verb"
     ]
   },
   "sourceAudit": [

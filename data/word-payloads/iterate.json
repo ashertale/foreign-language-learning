@@ -93,7 +93,7 @@
       }
     },
     "origin": {
-      "history": "<code>iterate</code> 來自 Latin <code>iterare</code>，意思是 to do again，並和 <code>iterum</code>（again）有關。字源核心就是重複。",
+      "history": "<code>iterate</code> 來自 Latin <code>iterare</code>，意思是 to do again，並和 <code>iterum</code>（again）有關；這個字從一開始就帶著「再做一次」的回環。",
       "memoryLens": "現代工程語境把 repetition 加上 learning：不是原地繞圈，而是一圈一圈把誤差縮小。"
     }
   },

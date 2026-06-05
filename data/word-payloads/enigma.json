@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.66"
     },
-    "coreIdea": "<code>enigma</code> 不只是替好壞下評語；它是在替「難解之謎」這種分量找一個正式的名字。",
+    "coreIdea": "<code>enigma</code> 是難解到讓人一直回頭看的謎；它不只是未知，而是有吸引力的難懂。",
     "definition": {
-      "summary": "表示難解之謎，或難以看透的人事物。用到它時，句子通常已經不只是感受描述，而是在點出某個可被談論的對象。",
+      "summary": "指謎、難解的人事物、令人費解的情況。",
       "contrast": {
         "word": "Mystery",
-        "note": "<code>Mystery</code> 比較像基礎說法；<code>enigma</code> 常用來把那層更具體的「難解之謎」拉到前景。"
+        "note": "<code>mystery</code> 很廣；<code>enigma</code> 像一個一直拒絕被解碼的謎。"
       },
       "flow": [
-        "先有一個場面裡明顯存在的分量",
-        "接著用這個名詞把「難解之謎」收進語言裡",
-        "結果你讀到的，就不只是評語，而是一個被正式點出的東西"
+        "現象無法直接解釋",
+        "多種線索仍不夠",
+        "難解本身吸引注意"
       ]
     },
     "memory": {
-      "hook": "<code>enigma</code> 的畫面是：像窗內有人影在走動，你看見輪廓很多次，卻始終看不清臉。",
-      "explanation": "這種記法的好處，是它先讓字義落地。你不用先背抽象定義，而是先把「整體都透著解不開的感覺」看成一個會發生的場面。"
+      "hook": "把 <code>remain an enigma</code> 想成 log 都看過了，問題仍像躲在系統某個陰影裡。",
+      "explanation": "enigma 有持續不解的張力。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "與其只背名詞對應的中文，不如先記 <code>remain an enigma</code> 這個搭配：它會直接示範這個字通常怎麼被點出。"
+        "label": "未解",
+        "body": "The failure pattern remained an <code>enigma</code> until someone compared clocks across machines."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 分析 的語境裡，<code>political enigma</code> 常用來把場面裡的「難解之謎」收成一句能被接住的話。"
+        "label": "政治",
+        "body": "A political enigma is not merely private; observers cannot map motives to moves."
       },
       {
-        "label": "延伸版",
-        "body": "到了 敘事 / 評論，<code>an enduring enigma</code> 會幫你看見：這個字不是修辭，而是把某種分量正式命名。"
+        "label": "長期",
+        "body": "An"
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比單背中文更有用，因為你會知道這個名詞通常在哪裡真正站得住。",
+      "note": "enigma 常與 remain、political、enduring 搭配；它讓難解本身成為焦點。",
       "items": [
         {
           "phrase": "remain an enigma",
-          "register": "人物 / 描寫",
-          "note": "放到 人物 / 描寫 的場景裡，這個搭配會把「難解之謎」具體點出來。"
+          "register": "敘事 / 分析",
+          "note": "仍是謎。"
         },
         {
           "phrase": "political enigma",
-          "register": "公共 / 分析",
-          "note": "在 公共 / 分析 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "政治 / 評論",
+          "note": "難以解讀的政治人物或局勢。"
         },
         {
           "phrase": "an enduring enigma",
-          "register": "敘事 / 評論",
-          "note": "到了 敘事 / 評論 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "歷史 / 科學",
+          "note": "長期未解之謎。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "難解之謎",
-        "use": "當你要把「整體都透著解不開的感覺」當成一個可被點出的東西來說，而不只是 謎 時"
+        "use": "用在未知不只是缺資訊，而是結構上令人費解、引人追問時。"
       },
       "others": [
         {
           "word": "Mystery",
           "meaning": "謎",
-          "use": "當句子只需要 謎 這個比較平的說法，不必把那份「整體都透著解不開的感覺」正式點名時"
+          "use": "最通用；<code>enigma</code> 更正式、更有智性難題感。"
+        },
+        {
+          "word": "Puzzle",
+          "meaning": "謎題",
+          "use": "可解性更強；<code>enigma</code> 更深、更難捉摸。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>enigma</code>，可以先看它出現在哪些固定搭配裡。像 <code>remain an enigma</code>、<code>political enigma</code> 都在示範：這個名詞最擅長把某種分量明確命名。",
-      "它和 <code>Mystery</code> 的差別，不只在字面，而在句子是否要把那份「整體都透著解不開的感覺」當成一個可以被接住的東西來說。"
+      "<code>Enigma</code> 可指人、事件、機制或歷史問題。",
+      "如果只是還沒查到資料，mystery 可能足夠；enigma 會讓問題顯得更深。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 enigma 整理成「難解之謎」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/enigma",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 enigma 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/enigma",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "mystery",
       "analysis",
       "persona",
-      "noun",
-      "enigma"
+      "enigma",
+      "noun"
     ]
   },
   "sourceAudit": [

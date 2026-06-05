@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.62"
     },
-    "coreIdea": "<code>foreshadow</code> 常用在句子需要把動作往「先投下影子」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>foreshadow</code> 是事件還沒來，影子已經先落到前面。",
     "definition": {
-      "summary": "表示預示、暗示後續將發生的事。這個字常不是在描述機械動作，而是在說事情怎麼往「先投下影子」這個方向走。",
+      "summary": "表示預示、暗示後續發展，常用於故事、趨勢或早期跡象。",
       "contrast": {
         "word": "Hint",
-        "note": "<code>Hint</code> 可以只是在說「暗示」；換成 <code>foreshadow</code>，句子通常是在補上「先投下影子」這層更具體的意思。"
+        "note": "<code>hint</code> 只是提示；<code>foreshadow</code> 讓提示和後來事件形成敘事連線。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「先投下影子」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "早期細節出現",
+        "它尚未完全說明未來",
+        "後續事件讓那個細節變成前兆"
       ]
     },
     "memory": {
-      "hook": "<code>foreshadow</code> 的畫面是：像午後的風先變了方向，晚點的暴雨已經在遠處集結。",
-      "explanation": "這個畫面有用，因為它把 foreshadow 從翻譯拉回場面：你先看到「風向先變了」，再比較容易記住它其實在說「先投下影子」。"
+      "hook": "把 <code>foreshadow trouble</code> 想成第一個小 timeout 不是事故本身，卻把後面的 outage 影子投了出來。",
+      "explanation": "foreshadow 是 early sign with narrative weight。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>foreshadow the ending</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「先投下影子」收過去。"
+        "label": "結局",
+        "body": "The opening scene <code>foreshadowed</code> the ending without explaining it."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 風險 / 觀察 裡，<code>foreshadow trouble</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「先投下一道影子」。"
+        "label": "麻煩",
+        "body": "Small inconsistencies can foreshadow trouble if they cluster around the same boundary."
       },
       {
-        "label": "延伸版",
-        "body": "到了 市場 / 趨勢 的場景，<code>foreshadow the change</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「暗示」跟更具體的「先投下影子」差在哪。"
+        "label": "改變",
+        "body": "A quiet staffing shift may foreshadow a larger change in strategy."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "foreshadow 常接 ending、trouble、change；搭配都指向後面將變重要的跡象。",
       "items": [
         {
           "phrase": "foreshadow the ending",
-          "register": "寫作 / 敘事",
-          "note": "這個搭配常出現在需要把事情往「先投下影子」講清楚的句子裡。"
+          "register": "文學 / 影視",
+          "note": "預示結局。"
         },
         {
           "phrase": "foreshadow trouble",
-          "register": "風險 / 觀察",
-          "note": "放到 風險 / 觀察 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "風險 / 敘事",
+          "note": "預示麻煩。"
         },
         {
           "phrase": "foreshadow the change",
-          "register": "市場 / 趨勢",
-          "note": "在 市場 / 趨勢 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "商務 / 評論",
+          "note": "預示變化。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "先投下影子",
-        "use": "當你要把事情說成「先投下一道影子」而不只是 暗示 時"
+        "use": "用在早期細節後來會被看成某件事的前兆時。"
       },
       "others": [
         {
           "word": "Hint",
           "meaning": "暗示",
-          "use": "當句子只需要 暗示 這個動作，不必補上「先投下一道影子」那層走向時"
+          "use": "較輕；<code>foreshadow</code> 明確和後續事件連起來。"
+        },
+        {
+          "word": "Predict",
+          "meaning": "預測",
+          "use": "直接說未來；<code>foreshadow</code> 是跡象先出現。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>foreshadow</code> 常出現在 <code>foreshadow the ending</code>、<code>foreshadow trouble</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「先投下影子」這個方向收緊。",
-      "如果一句話只想表達比較平的「暗示」，<code>Hint</code> 往往就夠了；但當語境需要那層更具體的「先投下一道影子」，<code>foreshadow</code> 會更準。"
+      "<code>Foreshadow</code> 在文學裡很常見，但也能用於 incident review 和趨勢分析。",
+      "它不是保證會發生，而是讓後續發展看起來有脈絡。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 foreshadow 整理成「先投下影子」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/foreshadow",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 foreshadow 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/foreshadow",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "hint",
       "narrative",
       "signals",
-      "verb",
-      "foreshadow"
+      "foreshadow",
+      "verb"
     ]
   },
   "sourceAudit": [

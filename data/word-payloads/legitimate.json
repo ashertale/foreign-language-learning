@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.56"
     },
-    "coreIdea": "<code>legitimate</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「正當的、合法的或合理成立」。",
+    "coreIdea": "<code>legitimate</code> 不只是看起來合理，而是有正當理由、資格、權限或法律基礎。",
     "definition": {
-      "summary": "形容正當的、合法的或合理成立的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容理由、關切、權威、權利或行為正當、合法或有資格被承認。",
       "contrast": {
         "word": "Reasonable",
         "note": "<code>reasonable</code> 是合理；<code>legitimate</code> 多了正當性或權限基礎。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>legitimate</code> 可以先記成一個畫面：主張被提出，接著檢查權限與理由，最後正當性成立。",
-      "explanation": "這個畫面只用來幫你抓住「正當的、合法的或合理成立」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>legitimate</code> security concern 想成它不一定決定方案，但絕不能被當成雜音掃掉。",
+      "explanation": "正當性先讓它有資格進入討論。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "security concern legitimate，不代表一定要照對方方案做，但不能把它當噪音。"
+        "label": "資安",
+        "body": "security concern <code>legitimate</code>，不代表一定要照對方方案做，但不能把它當噪音。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>legitimate</code> 和 <code>legitimate concern</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "理由",
+        "body": "A legitimate reason should survive being written down."
+      },
+      {
+        "label": "權威",
+        "body": "Legitimate"
       }
     ],
     "collocations": {
-      "note": "<code>legitimate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「正當的、合法的或合理成立」落地。",
+      "note": "legitimate 常接 concern、reason、authority。搭配都在問正當性從哪裡來。",
       "items": [
         {
           "phrase": "legitimate concern",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「正當的、合法的或合理成立」有明確對象。"
+          "register": "職場 / 政策 / 安全",
+          "note": "有正當性的關切，值得被處理。"
         },
         {
           "phrase": "legitimate reason",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "通用 / 正式",
+          "note": "站得住的理由。"
         },
         {
           "phrase": "legitimate authority",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "法律 / 管理",
+          "note": "被承認有權做某判斷或命令。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "正當的、合法的或合理成立的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某主張、行為或權威有資格被承認，而不是只聽起來可以時。"
       },
       "others": [
         {
           "word": "Reasonable",
-          "meaning": "<code>reasonable</code> 是合理；<code>legitimate</code> 多了正當性或權限基礎。",
-          "use": "如果句子只需要 reasonable 的普通意思，就保留那個較簡單的字。"
+          "meaning": "合理",
+          "use": "可能只是說得通；legitimate 多了正當性。"
+        },
+        {
+          "word": "Legal",
+          "meaning": "合法",
+          "use": "只看法律；legitimate 可更廣。"
+        },
+        {
+          "word": "Valid",
+          "meaning": "有效、成立",
+          "use": "重邏輯或資格成立。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>legitimate</code> 常把一段觀察收斂成可討論的判斷。security concern legitimate，不代表一定要照對方方案做，但不能把它當噪音。",
-      "像 <code>legitimate concern</code>、<code>legitimate reason</code>、<code>legitimate authority</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Legitimate</code> 很適合風險溝通：legitimate concern 不等於 veto，但它需要被納入判斷。",
+      "這個字也能阻止 dismissive culture。人提出正當疑慮時，先處理理由，不要先處理面子。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 legitimate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 legitimate 整理成「正當的、合法的或合理成立的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/legitimate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>legitimus</code>，和法律、正規性有關。",
-      "memoryLens": "記憶時先抓「正當的、合法的或合理成立的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "法律、正規性的字源是背景；現代核心是正當性。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "reasonable",
       "authority",
       "concern",
-      "adjective",
       "adjective"
     ]
   },

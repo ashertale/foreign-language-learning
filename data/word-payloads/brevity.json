@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.72"
     },
-    "coreIdea": "<code>brevity</code> 用來把場面裡的「短小精煉」正式點出來，讓它從感受或評語變成可以被命名的東西。",
+    "coreIdea": "<code>brevity</code> 是短，但不是草率；好的 brevity 讓該留下的留下，該拿掉的拿掉。",
     "definition": {
-      "summary": "表示簡潔、短小精煉的特質。這個名詞把場面裡那份「短小精煉」收成一個可以被指出的東西。",
+      "summary": "指簡短、精煉，常用於訊息、文風、演說或說明。",
       "contrast": {
         "word": "Conciseness",
-        "note": "<code>Conciseness</code> 可以只是在說「簡潔」；換成 <code>brevity</code>，句子通常是在補上「短小精煉」這層更具體的意思。"
+        "note": "<code>shortness</code> 只說長度；<code>brevity</code> 常暗示短得有用、有風格。"
       },
       "flow": [
-        "先有一個值得被點出的結果、狀態或評價",
-        "這個名詞把它收成「短小精煉」這樣一個可指稱的東西",
-        "所以句子不是在補修飾，而是在正式命名"
+        "內容被壓短",
+        "必要資訊仍保留",
+        "讀者更快抵達重點"
       ]
     },
     "memory": {
-      "hook": "<code>brevity</code> 的畫面是：像摺刀一收，只剩最需要的那段刀鋒露在外面。",
-      "explanation": "這個畫面有用，因為它把 brevity 從翻譯拉回場面：你先看到「只留必要刀鋒」，再比較容易記住它其實在說「短小精煉」。"
+      "hook": "把 <code>brevity and clarity</code> 想成 commit message 不長，但一眼看懂改了什麼。",
+      "explanation": "brevity 的價值在密度。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>brevity of the message</code> 聽起來不像隨口描述，更像是把場面裡那份「短小精煉」正式點出來。"
+        "label": "訊息",
+        "body": "The <code>brevity</code> of the message made it easier to act under pressure."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 會議 / 溝通 裡，<code>appreciate brevity</code> 常不是某個人的一時看法，而是已經可以被辨認、被談論的東西。"
+        "label": "偏好",
+        "body": "People may appreciate brevity when they are scanning many updates."
       },
       {
-        "label": "延伸版",
-        "body": "到了 編輯 / 表達 的場景，<code>brevity and clarity</code> 會讓這個字從抽象印象變成語境裡具體可指的對象。"
+        "label": "配對",
+        "body": "Brevity"
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個名詞通常在哪些場面被點出。",
+      "note": "brevity 常和 message、clarity、speech 連在一起；它關心短度是否服務理解。",
       "items": [
         {
           "phrase": "brevity of the message",
-          "register": "寫作 / 文案",
-          "note": "放到 寫作 / 文案 的場景裡，這個搭配會把「短小精煉」具體點出來。"
+          "register": "寫作 / 工作",
+          "note": "訊息短小，通常也暗示沒有多餘話。"
         },
         {
           "phrase": "appreciate brevity",
-          "register": "會議 / 溝通",
-          "note": "在 會議 / 溝通 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "會議 / 寫作",
+          "note": "欣賞簡短，常因時間有限。"
         },
         {
           "phrase": "brevity and clarity",
-          "register": "編輯 / 表達",
-          "note": "到了 編輯 / 表達 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "寫作 / 文件",
+          "note": "簡短與清楚並重。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "短小精煉",
-        "use": "當你要把「把必要內容壓得短卻不失核心」當成一個可被點出的東西來說，而不只是 簡潔 時"
+        "use": "用在短小本身值得注意，尤其短得讓溝通更俐落時。"
       },
       "others": [
         {
           "word": "Conciseness",
           "meaning": "簡潔",
-          "use": "當句子只需要 簡潔 這個比較平的說法，不必把那份「把必要內容壓得短卻不失核心」正式點名時"
+          "use": "非常接近，常偏寫作技巧；<code>brevity</code> 更強調短。"
+        },
+        {
+          "word": "Shortness",
+          "meaning": "短",
+          "use": "只講長度；<code>brevity</code> 可帶修辭價值。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>brevity</code> 常黏在 <code>brevity of the message</code>、<code>appreciate brevity</code> 這些搭配附近，因為它擅長把場面裡那份「短小精煉」正式點名。",
-      "所以它和 <code>Conciseness</code> 的差別，通常不在難易，而在你要不要把那件事說成一個可被指出、可被談論的對象。"
+      "<code>Brevity</code> 是文件和簡報裡的好字，但它不是省略必要背景的藉口。",
+      "The virtue of brevity 常見，因為短能節省注意力，但短也可能變成不負責任。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 brevity 整理成「短小精煉」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/brevity",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 brevity 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/brevity",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "conciseness",
       "writing",
       "clarity",
-      "noun",
-      "brevity"
+      "brevity",
+      "noun"
     ]
   },
   "sourceAudit": [

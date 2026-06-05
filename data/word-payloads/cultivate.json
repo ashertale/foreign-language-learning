@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>cultivate</code> 關心的是「培養、耕耘或有意識地發展」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>cultivate</code> 不是立刻製造，而是長期照料條件，讓能力、信任或習慣慢慢長出來。",
     "definition": {
-      "summary": "表示培養、耕耘或有意識地發展。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示培養、耕耘或有意識地發展某種能力、關係、態度或品質。",
       "contrast": {
         "word": "Develop",
         "note": "<code>develop</code> 很廣；<code>cultivate</code> 有持續照料、讓它長出來的感覺。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>cultivate</code> 可以先記成一個畫面：創造土壤，接著持續照顧，最後能力或關係成長。",
-      "explanation": "這個畫面只用來幫你抓住「培養、耕耘或有意識地發展」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>cultivate</code> 想成照顧土壤，而不是把花貼上去。",
+      "explanation": "真正的成長需要環境、時間和重複行動。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "團隊 trust 不能靠公告產生，只能靠一次次可靠行動 cultivate。"
+        "label": "團隊",
+        "body": "團隊 trust 不能靠公告產生，只能靠一次次可靠行動 <code>cultivate</code>。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>cultivate</code> 和 <code>cultivate trust</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "習慣",
+        "body": "To cultivate a habit, design the environment so the behavior can survive tired days。"
+      },
+      {
+        "label": "專業",
+        "body": "Cultivate expertise 意味著長期接觸真問題，而不是只收集課程。"
       }
     ],
     "collocations": {
-      "note": "<code>cultivate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「培養、耕耘或有意識地發展」落地。",
+      "note": "cultivate 常接 trust、habit、expertise。這些東西都有一個共同點：不能用命令瞬間產生。",
       "items": [
         {
           "phrase": "cultivate trust",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「培養、耕耘或有意識地發展」有明確對象。"
+          "register": "管理 / 人際",
+          "note": "透過可預期行為慢慢累積信任。"
         },
         {
           "phrase": "cultivate a habit",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "學習 / 自我管理",
+          "note": "用環境和重複養成行為。"
         },
         {
           "phrase": "cultivate expertise",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "職涯 / 專業",
+          "note": "長期處理問題，讓判斷深度慢慢長出來。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "培養、耕耘或有意識地發展",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某品質需要靠環境和時間慢慢養成時。"
       },
       "others": [
         {
           "word": "Develop",
-          "meaning": "<code>develop</code> 很廣；<code>cultivate</code> 有持續照料、讓它長出來的感覺。",
-          "use": "如果句子只需要 develop 的普通意思，就保留那個較簡單的字。"
+          "meaning": "發展",
+          "use": "範圍很廣；cultivate 更有照料和慢慢養成的畫面。"
+        },
+        {
+          "word": "Train",
+          "meaning": "訓練",
+          "use": "偏直接練習技能；cultivate 可用於態度、關係和文化。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>cultivate</code> 常把一段觀察收斂成可討論的判斷。團隊 trust 不能靠公告產生，只能靠一次次可靠行動 cultivate。",
-      "像 <code>cultivate trust</code>、<code>cultivate a habit</code>、<code>cultivate expertise</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Cultivate</code> 很適合談文化、能力和關係，因為這些東西不能靠一次性指令完成。",
+      "它也提醒管理者：你得到的文化，通常是你長期 cultivate 的結果，不只是你口頭宣稱的價值。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 cultivate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 cultivate 整理成「培養、耕耘或有意識地發展」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/cultivate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>colere</code>，和耕種、照料相關。",
-      "memoryLens": "記憶時先抓「培養、耕耘或有意識地發展」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "耕種和照料的字源是最好的記憶：cultivate 的成果是長出來的。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "develop",
       "habit",
       "trust",
-      "verb",
       "verb"
     ]
   },

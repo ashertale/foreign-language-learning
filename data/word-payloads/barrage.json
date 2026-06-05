@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.83"
     },
-    "coreIdea": "<code>barrage</code> 用來把場面裡的「密集轟炸」正式點出來，讓它從感受或評語變成可以被命名的東西。",
+    "coreIdea": "<code>barrage</code> 是密集打來的一串，不論是炮火、問題、訊息或批評，重點都是讓人沒有空隙。",
     "definition": {
-      "summary": "表示一連串密集的炮火、問題、批評或訊息轟炸。這個名詞把場面裡那份「密集轟炸」收成一個可以被指出的東西。",
+      "summary": "指連續而大量的攻擊、問題、訊息或火力。",
       "contrast": {
         "word": "Stream",
-        "note": "<code>Stream</code> 可以只是在說「一串」；換成 <code>barrage</code>，句子通常是在補上「密集轟炸」這層更具體的意思。"
+        "note": "<code>stream</code> 只是連續；<code>barrage</code> 有壓迫方向，像集中火力。"
       },
       "flow": [
-        "先有一個值得被點出的結果、狀態或評價",
-        "這個名詞把它收成「密集轟炸」這樣一個可指稱的東西",
-        "所以句子不是在補修飾，而是在正式命名"
+        "大量東西連續出現",
+        "它們集中打向某個目標",
+        "接收者感到被壓住"
       ]
     },
     "memory": {
-      "hook": "<code>barrage</code> 的畫面是：像手機通知忽然一口氣震個不停，來不及看完第一則，第二十則又到了。",
-      "explanation": "這個畫面有用，因為它把 barrage 從翻譯拉回場面：你先看到「一整排打來」，再比較容易記住它其實在說「密集轟炸」。"
+      "hook": "把 <code>barrage of questions</code> 想成 review 會議裡問題一個接一個，回答還沒落地下一個已經打到。",
+      "explanation": "barrage 的節奏很密。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>barrage of questions</code> 聽起來不像隨口描述，更像是把場面裡那份「密集轟炸」正式點出來。"
+        "label": "會議",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 新聞 / 公共 裡，<code>media barrage</code> 常不是某個人的一時看法，而是已經可以被辨認、被談論的東西。"
+        "label": "媒體",
+        "body": "A media barrage makes one message appear everywhere until it feels unavoidable."
       },
       {
-        "label": "延伸版",
-        "body": "到了 戰爭 / 敘事 的場景，<code>barrage of fire</code> 會讓這個字從抽象印象變成語境裡具體可指的對象。"
+        "label": "戰場",
+        "body": "A barrage of fire is physical and literal: many shots concentrated on a target."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個名詞通常在哪些場面被點出。",
+      "note": "barrage 後面常接 of questions、criticism、fire；搭配會告訴你被什麼東西密集壓住。",
       "items": [
         {
           "phrase": "barrage of questions",
-          "register": "會議 / 訪談",
-          "note": "放到 會議 / 訪談 的場景裡，這個搭配會把「密集轟炸」具體點出來。"
+          "register": "會議 / 採訪",
+          "note": "連珠炮式問題。"
         },
         {
           "phrase": "media barrage",
-          "register": "新聞 / 公共",
-          "note": "在 新聞 / 公共 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "媒體 / 政治",
+          "note": "大量密集曝光或攻勢。"
         },
         {
           "phrase": "barrage of fire",
-          "register": "戰爭 / 敘事",
-          "note": "到了 戰爭 / 敘事 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "軍事 / 敘事",
+          "note": "密集炮火。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "密集轟炸",
-        "use": "當你要把「一整排密集地同時打過來」當成一個可被點出的東西來說，而不只是 一串 時"
+        "use": "用在多個訊息或攻擊集中落在同一個對象，使對方難以喘息時。"
       },
       "others": [
         {
           "word": "Stream",
-          "meaning": "一串",
-          "use": "當句子只需要 一串 這個比較平的說法，不必把那份「一整排密集地同時打過來」正式點名時"
+          "meaning": "一股連續流",
+          "use": "可中性；<code>barrage</code> 帶攻勢與壓力。"
+        },
+        {
+          "word": "Flood",
+          "meaning": "大量湧入",
+          "use": "範圍廣；<code>barrage</code> 更像打向目標。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>barrage</code> 常黏在 <code>barrage of questions</code>、<code>media barrage</code> 這些搭配附近，因為它擅長把場面裡那份「密集轟炸」正式點名。",
-      "所以它和 <code>Stream</code> 的差別，通常不在難易，而在你要不要把那件事說成一個可被指出、可被談論的對象。"
+      "職場裡，<code>barrage</code> 很適合形容沒有節制的 Slack ping、review comment 或 support ticket。",
+      "它不只是 many；它暗示接受者被迫承受節奏。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 barrage 整理成「密集轟炸」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/barrage",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 barrage 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/barrage",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "stream",
       "questions",
       "media",
-      "noun",
-      "barrage"
+      "barrage",
+      "noun"
     ]
   },
   "sourceAudit": [

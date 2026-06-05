@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>depict</code> 關心的是「描繪、呈現某個形象或情境」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>depict</code> 是把東西呈現成可看見的畫面，不論工具是文字、圖像、圖表還是鏡頭。",
     "definition": {
-      "summary": "表示描繪、呈現某個形象或情境。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示描繪、呈現或刻畫某場景、資料、人物或狀態，常有視覺化或畫面感。",
       "contrast": {
         "word": "Describe",
         "note": "<code>describe</code> 是描述；<code>depict</code> 更有畫面被呈現出來的感覺。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>depict</code> 可以先記成一個畫面：選定對象，接著轉成畫面，最後讓人看見。",
-      "explanation": "這個畫面只用來幫你抓住「描繪、呈現某個形象或情境」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>depict</code> 想成 timing diagram 把互動畫出來。",
+      "explanation": "它不是只告訴你發生了什麼，而是讓你看見關係怎麼排列。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "一張 timing diagram can depict sequence，比長段文字更快讓人看見互動。"
+        "label": "工程圖",
+        "body": "一張 timing diagram can <code>depict</code> sequence，比長段文字更快讓人看見互動。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>depict</code> 和 <code>depict a scene</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "資料",
+        "body": "A chart may depict data accurately but still leave out important context。"
+      },
+      {
+        "label": "敘事",
+        "body": "The film depicts grief without turning it into a speech。"
       }
     ],
     "collocations": {
-      "note": "<code>depict</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「描繪、呈現某個形象或情境」落地。",
+      "note": "depict 的搭配常接 scene、data、accurately。它關心呈現方式是否讓對象被看見。",
       "items": [
         {
           "phrase": "depict a scene",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「描繪、呈現某個形象或情境」有明確對象。"
+          "register": "寫作 / 影像",
+          "note": "把場景呈現給讀者或觀眾。"
         },
         {
           "phrase": "depict data",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "資料視覺化",
+          "note": "用圖表或視覺方式呈現資料。"
         },
         {
           "phrase": "accurately depict",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 評論",
+          "note": "強調呈現是否準確，不只是漂亮。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "描繪、呈現某個形象或情境",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在重點是把某對象呈現成讀者能看見或想像的樣子。"
       },
       "others": [
         {
           "word": "Describe",
-          "meaning": "<code>describe</code> 是描述；<code>depict</code> 更有畫面被呈現出來的感覺。",
-          "use": "如果句子只需要 describe 的普通意思，就保留那個較簡單的字。"
+          "meaning": "描述",
+          "use": "可純文字、可抽象；depict 更有呈現畫面的感覺。"
+        },
+        {
+          "word": "Illustrate",
+          "meaning": "說明、圖解",
+          "use": "常用例子或圖像幫助理解。"
+        },
+        {
+          "word": "Portray",
+          "meaning": "描繪人物或形象",
+          "use": "常用於角色、群體或形象塑造。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>depict</code> 常把一段觀察收斂成可討論的判斷。一張 timing diagram can depict sequence，比長段文字更快讓人看見互動。",
-      "像 <code>depict a scene</code>、<code>depict data</code>、<code>accurately depict</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Depict</code> 在資料圖、影像、藝術和報告裡都好用。它提醒你：呈現不是中性的，選什麼畫面會影響理解。",
+      "工程裡，好的 diagram depicts relationships that text hides. 壞圖則會讓人以為看懂了。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 depict 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 depict 整理成「描繪、呈現某個形象或情境」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/depict",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>pingere</code>「畫」的相關詞源；核心是把東西畫出來。",
-      "memoryLens": "記憶時先抓「描繪、呈現某個形象或情境」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "和「畫」相關的字源很直覺；現代用法不一定真拿筆畫，但都在做呈現。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "describe",
       "diagram",
       "scene",
-      "verb",
       "verb"
     ]
   },

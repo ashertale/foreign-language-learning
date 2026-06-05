@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>commend</code> 關心的是「公開或正式地稱許、推薦」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>commend</code> 是帶理由的正式肯定。它不只是說「做得好」，而是把某個行動或品質標出來，讓它值得被他人看見。",
     "definition": {
-      "summary": "表示公開或正式地稱許、推薦。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示正式稱讚、肯定或推薦某人某事，通常暗示稱許有理由，不只是情緒性的讚美。",
       "contrast": {
         "word": "Praise",
         "note": "<code>praise</code> 泛指稱讚；<code>commend</code> 更正式，也常暗示理由充分。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>commend</code> 可以先記成一個畫面：看見值得肯定之處，接著用正式語氣標出，最後提高可信度。",
-      "explanation": "這個畫面只用來幫你抓住「公開或正式地稱許、推薦」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>commend</code> 想成 postmortem 裡特別留下的一句肯定。",
+      "explanation": "那句話不是社交客套，而是在告訴團隊：這種行為值得被複製。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "postmortem 裡 commend 主動揭露問題的人，能把文化從找戰犯拉回修系統。"
+        "label": "文化",
+        "body": "postmortem 裡 <code>commend</code> 主動揭露問題的人，能把文化從找戰犯拉回修系統。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>commend</code> 和 <code>commend the team</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "正式推薦",
+        "body": "I can highly <code>commend</code> her work 表示推薦者願意替這份肯定負一點責任。"
+      },
+      {
+        "label": "搭配",
+        "body": "<code>commend someone for</code> 後面接被肯定的原因，例如 courage、honesty、careful analysis。"
       }
     ],
     "collocations": {
-      "note": "<code>commend</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「公開或正式地稱許、推薦」落地。",
+      "note": "commend 的搭配通常會交代肯定對象與理由；少了理由，它就容易退回普通 praise。",
       "items": [
         {
           "phrase": "commend the team",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「公開或正式地稱許、推薦」有明確對象。"
+          "register": "職場 / 公開表揚",
+          "note": "正式肯定團隊的行動或表現，不只是說大家辛苦了。"
         },
         {
           "phrase": "highly commend",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "正式 / 推薦",
+          "note": "強化推薦力道，常出現在書面評語或正式場合。"
         },
         {
           "phrase": "commend someone for",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 書面",
+          "note": "for 後面放值得肯定的行動或品質。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "公開或正式地稱許、推薦",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在想讓肯定聽起來正式、可被公開引用，而且有理由支撐時。"
       },
       "others": [
         {
           "word": "Praise",
-          "meaning": "<code>praise</code> 泛指稱讚；<code>commend</code> 更正式，也常暗示理由充分。",
-          "use": "如果句子只需要 praise 的普通意思，就保留那個較簡單的字。"
+          "meaning": "稱讚，範圍很廣",
+          "use": "日常誇獎用 <code>praise</code> 較自然。"
+        },
+        {
+          "word": "Compliment",
+          "meaning": "稱讚某人特點或外表",
+          "use": "偏個人互動，語氣較輕。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>commend</code> 常把一段觀察收斂成可討論的判斷。postmortem 裡 commend 主動揭露問題的人，能把文化從找戰犯拉回修系統。",
-      "像 <code>commend the team</code>、<code>highly commend</code>、<code>commend someone for</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Commend</code> 在推薦信、公告、評審意見和正式回饋裡很自然，因為它比 praise 更穩。",
+      "它也能幫團隊建立文化記憶：被 commend 的行為，往往就是組織想保留下來的行為。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 commend 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 commend 整理成「公開或正式地稱許、推薦」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/commend",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "與 Latin <code>commendare</code> 有關，含有託付、推薦、稱許的方向。",
-      "memoryLens": "記憶時先抓「公開或正式地稱許、推薦」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源裡的託付與推薦感可以輔助記憶：commend 不是隨口稱讚，而是把肯定交到公共場域。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "praise",
       "recognition",
       "culture",
-      "verb",
       "verb"
     ]
   },

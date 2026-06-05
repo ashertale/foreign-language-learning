@@ -8,89 +8,103 @@
     "partOfSpeech": "adjective",
     "pronunciation": "AJ-ile · UK /ˈædʒ.aɪl/ · US /ˈædʒ.əl/",
     "hero": {
-      "thesis": "不是只跑得快，而是能在變化來時迅速轉向。",
+      "thesis": "不是只求快，而是在變化打過來時，身體輕、判斷快、方向能改。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>agile</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「面對變化時保持快速、靈活與可調整」。",
+    "coreIdea": "<code>agile</code> 原本有身體敏捷的感覺：動得快、轉得過去、不笨重。放到團隊或流程裡，它不是儀式變多，而是回饋來時真的能調整。",
     "definition": {
-      "summary": "形容面對變化時保持快速、靈活與可調整。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人、身體、團隊、流程或組織能快速移動、理解變化並調整方向。它包含速度，但不只等於速度；還有靈活與反應能力。",
       "contrast": {
         "word": "Flexible",
-        "note": "<code>flexible</code> 是可彎曲、可調；<code>agile</code> 多了反應快與移動感。"
+        "note": "<code>flexible</code> 強調能彎、能調；<code>agile</code> 多了快速反應與移動感。A flexible plan can change; an agile team changes quickly without falling apart."
       },
       "flow": [
         "變化出現",
-        "快速理解",
-        "調整方向"
+        "快速讀懂情勢",
+        "小步調整方向"
       ]
     },
     "memory": {
-      "hook": "<code>agile</code> 可以先記成一個畫面：變化出現，接著快速理解，最後調整方向。",
-      "explanation": "這個畫面只用來幫你抓住「面對變化時保持快速、靈活與可調整」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>agile</code> 像手上拿著示波器探棒時的微調：不是大力揮舞，而是快速、輕巧、對回饋有感。",
+      "explanation": "真正的 agile 不靠喊口號。它需要短回饋、低切換成本、清楚優先順序，否則只是把混亂切成很多次會議。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "在產品排程裡，agile 不是會議變多，而是能用短回饋修正方向。"
+        "label": "身體 / 動作",
+        "body": "A gymnast is agile 表示動作輕快、協調、轉向容易，不只是跑得快。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>agile</code> 和 <code>agile team</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "團隊 / 流程",
+        "body": "An <code>agile team</code> 不是每天站會就算數，而是能根據測試結果、客戶回饋與限制變化快速修正。"
+      },
+      {
+        "label": "工程判斷",
+        "body": "在 firmware 專案裡，agile 可能表現在小批次整合、可回退設計與早期暴露風險，而不是最後一週才全系統合併。"
       }
     ],
     "collocations": {
-      "note": "<code>agile</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「面對變化時保持快速、靈活與可調整」落地。",
+      "note": "agile 的搭配常分成兩類：一類保留身體敏捷感，一類延伸到團隊、組織與開發方式。",
       "items": [
         {
-          "phrase": "agile team",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「面對變化時保持快速、靈活與可調整」有明確對象。"
-        },
-        {
           "phrase": "agile response",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "危機處理 / 客服 / 營運",
+          "note": "表示反應快且能根據情況調整，不是只把回覆速度拉高。"
         },
         {
           "phrase": "agile development",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "軟體 / 產品 / 專案管理",
+          "note": "指以迭代、回饋與調整為核心的開發方式；小心不要把它簡化成固定儀式。"
+        },
+        {
+          "phrase": "agile organization",
+          "register": "管理 / 組織設計",
+          "note": "描述組織能快速改變資源配置與決策方向，通常和低層級授權、透明資訊有關。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "面對變化時保持快速、靈活與可調整",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "快速、輕巧，能順著變化調整",
+        "use": "描述身體動作、團隊流程或組織反應能力。"
       },
       "others": [
         {
           "word": "Flexible",
-          "meaning": "<code>flexible</code> 是可彎曲、可調；<code>agile</code> 多了反應快與移動感。",
-          "use": "如果句子只需要 flexible 的普通意思，就保留那個較簡單的字。"
+          "meaning": "可調整、可彎曲",
+          "use": "重點是可變，不一定快。"
+        },
+        {
+          "word": "Nimble",
+          "meaning": "輕巧敏捷，常帶小而快的感覺",
+          "use": "語氣比 agile 更日常、更偏動作或小型組織。"
+        },
+        {
+          "word": "Fast",
+          "meaning": "速度快",
+          "use": "只說速度，不保證方向正確或能適應變化。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>agile</code> 常把一段觀察收斂成可討論的判斷。在產品排程裡，agile 不是會議變多，而是能用短回饋修正方向。",
-      "像 <code>agile team</code>、<code>agile response</code>、<code>agile development</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "現代職場常把 <code>Agile</code> 當方法論名稱，但小寫 <code>agile</code> 的核心仍是敏捷感。流程若讓團隊更難回應變化，就算看起來很 Agile，也不一定 agile。",
+      "好用的判斷是：當需求、bug 或限制改變時，這套系統是能小幅轉向，還是只能整艘船掉頭？前者才接近 agile。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 agile 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 agile 整理成「快速、輕巧且可調整」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/agile",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 agile 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 agile 在動作、團隊與開發流程中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/agile",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "詞史與「敏捷、容易移動」的概念相連；現代用法延伸到團隊與流程。",
-      "memoryLens": "記憶時先抓「面對變化時保持快速、靈活與可調整」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>agile</code> 和 Latin <code>agilis</code> 有關，意思接近「容易移動、靈活的」；它也連到 <code>agere</code>（to do, drive）的詞族。",
+      "memoryLens": "記憶時抓動作感：不是重重推過去，而是輕、快、能轉。現代管理用法只是把這個身體感搬進組織。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Agile",
     "partOfSpeech": "adjective",
     "href": "./agile.html",
-    "thesis": "不是只跑得快，而是能在變化來時迅速轉向。",
+    "thesis": "不是只求快，而是在變化打過來時，身體輕、判斷快、方向能改。",
     "tags": [
       "敏捷",
       "變化",
       "flexible",
+      "nimble",
+      "agile development",
       "process",
       "team",
-      "adjective",
       "adjective"
     ]
   },

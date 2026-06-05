@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>criterion</code> 把「評估或判斷用的標準」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>criterion</code> 是判斷用的尺。它不是任意條件，而是用來決定合格、不合格、選或不選的標準。",
     "definition": {
-      "summary": "指評估或判斷用的標準。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指判準、標準或評估依據。複數是 <code>criteria</code>，常用於選擇、評估、驗收和研究。",
       "contrast": {
         "word": "Requirement",
         "note": "<code>requirement</code> 是需求；<code>criterion</code> 是拿來判斷的尺。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>criterion</code> 可以先記成一個畫面：定義判斷尺，接著套到案例，最後得出合格與否。",
-      "explanation": "這個畫面只用來幫你抓住「評估或判斷用的標準」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>criterion</code> 想成 acceptance test 裡那條可判斷的線。",
+      "explanation": "沒有它，done 只會變成每個人心裡不同的感覺。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "acceptance criterion 寫清楚，大家才知道什麼叫做完成。"
+        "label": "驗收",
+        "body": "acceptance <code>criterion</code> 寫清楚，大家才知道什麼叫做完成。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>criterion</code> 和 <code>selection criterion</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "評估",
+        "body": "An evaluation criterion should tell reviewers what evidence matters。"
+      },
+      {
+        "label": "選擇",
+        "body": "Selection criteria make hiring less dependent on gut feeling。"
       }
     ],
     "collocations": {
-      "note": "<code>criterion</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「評估或判斷用的標準」落地。",
+      "note": "criterion 常和 selection、evaluation、acceptance 搭配。每個搭配都把模糊偏好變成可檢查的尺。",
       "items": [
         {
           "phrase": "selection criterion",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「評估或判斷用的標準」有明確對象。"
+          "register": "招募 / 決策",
+          "note": "用來決定誰或哪個方案被選上。"
         },
         {
           "phrase": "evaluation criterion",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "評估 / 研究",
+          "note": "評審時要看的判準。"
         },
         {
           "phrase": "acceptance criterion",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "產品 / 敏捷 / 測試",
+          "note": "定義什麼情況下工作可被接受。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "評估或判斷用的標準",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在需要明確判斷尺，而不只是描述需求時。"
       },
       "others": [
         {
           "word": "Requirement",
-          "meaning": "<code>requirement</code> 是需求；<code>criterion</code> 是拿來判斷的尺。",
-          "use": "如果句子只需要 requirement 的普通意思，就保留那個較簡單的字。"
+          "meaning": "需求",
+          "use": "描述必須滿足的條件；criterion 是拿來判斷的標準。"
+        },
+        {
+          "word": "Standard",
+          "meaning": "標準",
+          "use": "較廣，可是規範或水準；criterion 是具體判斷依據。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>criterion</code> 常把一段觀察收斂成可討論的判斷。acceptance criterion 寫清楚，大家才知道什麼叫做完成。",
-      "像 <code>selection criterion</code>、<code>evaluation criterion</code>、<code>acceptance criterion</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Criterion</code> 對工程管理很重要，因為它能把「我覺得可以」變成「我們依什麼判斷可以」。",
+      "注意單複數：one criterion, multiple criteria。這個錯在正式文件裡很顯眼。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 criterion 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 criterion 整理成「評估或判斷用的標準」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/criterion",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "源自 Greek <code>kriterion</code>，意思接近判斷的工具或標準。",
-      "memoryLens": "記憶時先抓「評估或判斷用的標準」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "Greek 的判斷工具感很直覺：criterion 就是拿來判斷的工具。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "requirement",
       "evaluation",
       "acceptance",
-      "noun",
       "noun"
     ]
   },

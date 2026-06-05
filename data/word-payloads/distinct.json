@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>distinct</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「清楚不同、可區分」。",
+    "coreIdea": "<code>distinct</code> 讓邊界清楚到可以分辨。它不是只說不同，而是說兩者不會糊成一團。",
     "definition": {
-      "summary": "形容清楚不同、可區分的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容清楚不同、可辨認、界線明確，或某特徵很明顯。",
       "contrast": {
         "word": "Different",
         "note": "<code>different</code> 只是不同；<code>distinct</code> 強調分界清楚。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>distinct</code> 可以先記成一個畫面：兩者接近，接著邊界被看見，最後分開辨認。",
-      "explanation": "這個畫面只用來幫你抓住「清楚不同、可區分」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>distinct</code> 想成兩個 root cause 各自有自己的指紋。",
+      "explanation": "不能因為都造成 failure，就把它們當成同一個問題。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "兩個 root cause distinct，代表不能用同一個 fix 假裝全部解決。"
+        "label": "Root cause",
+        "body": "兩個 root cause <code>distinct</code>，代表不能用同一個 fix 假裝全部解決。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>distinct</code> 和 <code>distinct category</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "分類",
+        "body": "A distinct category needs a boundary that users can understand。"
+      },
+      {
+        "label": "優勢",
+        "body": "A distinct advantage is noticeable enough to change the comparison。"
       }
     ],
     "collocations": {
-      "note": "<code>distinct</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「清楚不同、可區分」落地。",
+      "note": "distinct 常和 category、advantage、clearly 搭配。它的工作是讓分界或特徵變得可辨認。",
       "items": [
         {
           "phrase": "distinct category",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「清楚不同、可區分」有明確對象。"
+          "register": "分類 / 分析",
+          "note": "類別邊界清楚，不和其他類別混在一起。"
         },
         {
           "phrase": "distinct advantage",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "商務 / 評估",
+          "note": "優勢明顯到能影響判斷。"
         },
         {
           "phrase": "clearly distinct",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 分析",
+          "note": "強調分別非常清楚。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "清楚不同、可區分的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在差異清楚、邊界可辨、不能混為一談時。"
       },
       "others": [
         {
           "word": "Different",
-          "meaning": "<code>different</code> 只是不同；<code>distinct</code> 強調分界清楚。",
-          "use": "如果句子只需要 different 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不同",
+          "use": "只說不一樣；distinct 還強調分界清楚。"
+        },
+        {
+          "word": "Separate",
+          "meaning": "分開的",
+          "use": "重物理或組織上分離。"
+        },
+        {
+          "word": "Distinctive",
+          "meaning": "有特色的",
+          "use": "強調特徵讓人認得出來。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>distinct</code> 常把一段觀察收斂成可討論的判斷。兩個 root cause distinct，代表不能用同一個 fix 假裝全部解決。",
-      "像 <code>distinct category</code>、<code>distinct advantage</code>、<code>clearly distinct</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Distinct</code> 在分析裡比 different 更負責，因為它暗示你看見了可描述的分界。",
+      "工程分類也需要 distinct：錯誤碼、狀態、root cause 如果界線不清，後續處理就會互相污染。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 distinct 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 distinct 整理成「清楚不同、可區分的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/distinct",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>distinguere</code>，有分開、標記的意思。",
-      "memoryLens": "記憶時先抓「清楚不同、可區分的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "分開、標記的字源很適合記：distinct 的東西被標出界線。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "different",
       "category",
       "root cause",
-      "adjective",
       "adjective"
     ]
   },

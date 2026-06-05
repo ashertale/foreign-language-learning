@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.38"
     },
-    "coreIdea": "<code>deprecate</code> 常用在句子需要把動作往「表達不贊成」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>deprecate</code> 有兩個常見世界：人可以不贊成某做法，API 也可以被標成不建議再用。",
     "definition": {
-      "summary": "表示反對、對某做法表達不贊成。這個字常不是在描述機械動作，而是在說事情怎麼往「表達不贊成」這個方向走。",
+      "summary": "表示反對、貶抑、不贊成；在技術語境中表示某功能已不建議使用、準備淘汰。",
       "contrast": {
         "word": "Criticize",
-        "note": "<code>Criticize</code> 可以只是在說「批評」；換成 <code>deprecate</code>，句子通常是在補上「表達不贊成」這層更具體的意思。"
+        "note": "<code>criticize</code> 是批評；技術裡 <code>deprecate</code> 是先貼出不再推薦的告示。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「表達不贊成」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "某做法仍存在",
+        "權威或作者不再推薦",
+        "後續可能要求遷移或修正"
       ]
     },
     "memory": {
-      "hook": "<code>deprecate</code> 的畫面是：像看見舊橋已經裂開，主動在入口掛上不建議通行的牌子。",
-      "explanation": "這個畫面有用，因為它把 deprecate 從翻譯拉回場面：你先看到「裂橋前掛警示牌」，再比較容易記住它其實在說「表達不贊成」。"
+      "hook": "把 <code>deprecate old APIs</code> 想成不是今天就刪，而是官方先掛牌說：請開始搬走。",
+      "explanation": "deprecate 在技術裡是溫和但正式的淘汰訊號。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>deprecate the practice</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「表達不贊成」收過去。"
+        "label": "做法",
+        "body": "The review deprecated the practice because it made failures harder to diagnose."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 工程 / 維護 裡，<code>deprecate old APIs</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「認為它不該再被鼓勵或使用」。"
+        "label": "技術 API",
+        "body": "We deprecated old APIs before removing them so downstream teams had time to migrate."
       },
       {
-        "label": "延伸版",
-        "body": "到了 人際 / 對話 的場景，<code>deprecate the remark</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「批評」跟更具體的「表達不贊成」差在哪。"
+        "label": "言論",
+        "body": "To deprecate the remark is to signal disapproval without necessarily launching a full attack."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "deprecate 常接 practice、old APIs、remark；技術搭配和一般語義要分清楚。",
       "items": [
         {
           "phrase": "deprecate the practice",
-          "register": "評論 / 倫理",
-          "note": "這個搭配常出現在需要把事情往「表達不贊成」講清楚的句子裡。"
+          "register": "正式 / 評論",
+          "note": "不贊成某做法。"
         },
         {
           "phrase": "deprecate old APIs",
-          "register": "工程 / 維護",
-          "note": "放到 工程 / 維護 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "工程 / 文件",
+          "note": "標示舊 API 不建議再使用。"
         },
         {
           "phrase": "deprecate the remark",
-          "register": "人際 / 對話",
-          "note": "在 人際 / 對話 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "正式 / 人際",
+          "note": "對某句話表示不以為然。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "表達不贊成",
-        "use": "當你要把事情說成「認為它不該再被鼓勵或使用」而不只是 批評 時"
+        "use": "用在你要表達不贊成，或在技術文件中宣告某功能走向淘汰時。"
       },
       "others": [
         {
           "word": "Criticize",
           "meaning": "批評",
-          "use": "當句子只需要 批評 這個動作，不必補上「認為它不該再被鼓勵或使用」那層走向時"
+          "use": "更直接；<code>deprecate</code> 可更克制、更正式。"
+        },
+        {
+          "word": "Remove",
+          "meaning": "移除",
+          "use": "技術上不同；deprecated 代表不建議使用，不一定已移除。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>deprecate</code> 常出現在 <code>deprecate the practice</code>、<code>deprecate old APIs</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「表達不贊成」這個方向收緊。",
-      "如果一句話只想表達比較平的「批評」，<code>Criticize</code> 往往就夠了；但當語境需要那層更具體的「認為它不該再被鼓勵或使用」，<code>deprecate</code> 會更準。"
+      "工程師尤其要記住：deprecated is not deleted。使用者仍可能依賴它，所以文件和遷移期很重要。",
+      "一般英文裡 self-deprecating 是自嘲，不是把自己刪掉。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 deprecate 整理成「表達不贊成」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/deprecate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 deprecate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/deprecate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "criticize",
       "maintenance",
       "ethics",
-      "verb",
-      "deprecate"
+      "deprecate",
+      "verb"
     ]
   },
   "sourceAudit": [

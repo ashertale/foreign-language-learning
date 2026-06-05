@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.52"
     },
-    "coreIdea": "<code>altruistic</code> 用來說某個人、系統或局面帶著「利他導向」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>altruistic</code> 是把他人利益放到前面，而不是只在自己方便時大方。",
     "definition": {
-      "summary": "表示出於利他、為他人著想，而不是先算自己的得失。重點不是程度加強，而是整個對象都帶著「利他導向」這種質地。",
+      "summary": "形容動機、行為或領導方式利他，願意為他人利益付出成本。",
       "contrast": {
         "word": "Generous",
-        "note": "<code>Generous</code> 可以只是在說「慷慨」；換成 <code>altruistic</code>，句子通常是在補上「利他導向」這層更具體的意思。"
+        "note": "<code>generous</code> 是願意多給；<code>altruistic</code> 更重他人利益被放在前面。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「利他導向」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "看見他人需要",
+        "願意付出成本",
+        "利益不先回到自己"
       ]
     },
     "memory": {
-      "hook": "<code>altruistic</code> 的畫面是：像手裡只剩一把傘，自己淋雨也先把它遞出去。",
-      "explanation": "這個畫面有用，因為它把 altruistic 從翻譯拉回場面：你先看到「先想別人」，再比較容易記住它其實在說「利他導向」。"
+      "hook": "把 <code>altruistic</code> act 想成工程師把自己熟悉的捷徑寫成文件，讓下一個人少踩坑。",
+      "explanation": "收益未必回到自己身上。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>altruistic motive</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「慷慨」，而是整個對象都帶著「利他導向」這種質地。"
+        "label": "動機",
+        "body": "An <code>altruistic</code> motive cares about who benefits, not who gets credit."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 社會 裡，<code>altruistic act</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "行動",
+        "body": "An altruistic act may cost time, attention, or comfort."
       },
       {
-        "label": "延伸版",
-        "body": "到了 團隊 / 文化 的場景，<code>altruistic leadership</code> 很適合用來練邊界：你要講的到底是一般的「慷慨」，還是更具體的「利他導向」。"
+        "label": "領導",
+        "body": "Altruistic leadership protects the team’s growth even when it is not personally convenient."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "altruistic 常接 motive、act、leadership。搭配會指出利他出現在動機、行為或角色裡。",
       "items": [
         {
           "phrase": "altruistic motive",
-          "register": "倫理 / 判斷",
-          "note": "這個搭配會讓「利他導向」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "心理 / 評論",
+          "note": "以他人利益為重的動機。"
         },
         {
           "phrase": "altruistic act",
-          "register": "公共 / 社會",
-          "note": "在 公共 / 社會 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "日常 / 倫理",
+          "note": "利他行為。"
         },
         {
           "phrase": "altruistic leadership",
-          "register": "團隊 / 文化",
-          "note": "如果你想把這個字用穩，從 團隊 / 文化 常見的這個搭配進場通常最自然。"
+          "register": "管理 / 組織",
+          "note": "優先照顧他人和共同利益的領導。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "利他導向",
-        "use": "當你要強調整體帶著「把他人的利益放在很前面」這種質地，而不只是 慷慨 時"
+        "use": "用在行動或動機把他人利益放在很前面時。"
       },
       "others": [
         {
           "word": "Generous",
           "meaning": "慷慨",
-          "use": "當句子只需要 慷慨 這個中性描述，不必把「把他人的利益放在很前面」這種氣質壓到前景時"
+          "use": "願意多給，不一定犧牲自己利益。"
+        },
+        {
+          "word": "Selfless",
+          "meaning": "無私",
+          "use": "更強，幾乎不考慮自己。"
+        },
+        {
+          "word": "Charitable",
+          "meaning": "慈善的",
+          "use": "常和捐助或慈善相關。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>altruistic</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「利他導向」這種質地。",
-      "也因此，它和 <code>Generous</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Altruistic</code> 比 generous 更重動機方向。給很多不一定利他；真正 altruistic 是利益中心不在自己。",
+      "組織裡也要小心：長期只靠 altruistic overtime 支撐，其實是制度問題。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 altruistic 整理成「利他導向」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/altruistic",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 altruistic 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/altruistic",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "generous",
       "ethics",
       "society",
-      "adjective",
-      "altruistic"
+      "altruistic",
+      "adjective"
     ]
   },
   "sourceAudit": [

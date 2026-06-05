@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.76"
     },
-    "coreIdea": "<code>broach</code> 常用在句子需要把動作往「開敏感話題」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>broach</code> 是把一個不好開口的話題打開，像小心撬開密封的瓶口。",
     "definition": {
-      "summary": "表示開啟、提出一個可能尷尬或重要的討論。這個字常不是在描述機械動作，而是在說事情怎麼往「開敏感話題」這個方向走。",
+      "summary": "表示提出或開啟一個敏感、重要或可能尷尬的話題。",
       "contrast": {
         "word": "Mention",
-        "note": "<code>Mention</code> 可以只是在說「提到」；換成 <code>broach</code>，句子通常是在補上「開敏感話題」這層更具體的意思。"
+        "note": "<code>mention</code> 可以很輕；<code>broach</code> 表示你知道這題不好輕輕帶過。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「開敏感話題」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "話題帶敏感度",
+        "說話者選擇時機切入",
+        "討論被正式打開"
       ]
     },
     "memory": {
-      "hook": "<code>broach</code> 的畫面是：像把封著的盒蓋先掀開一角，讓大家都知道裡面的事得談了。",
-      "explanation": "這個畫面有用，因為它把 broach 從翻譯拉回場面：你先看到「把盒蓋掀開一角」，再比較容易記住它其實在說「開敏感話題」。"
+      "hook": "把 <code>broach the subject</code> 想成你知道這句話一出口，房間裡的空氣會變。",
+      "explanation": "broach 的動作很小心，但話題有重量。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>broach the subject</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「開敏感話題」收過去。"
+        "label": "敏感議題",
+        "body": "She waited until the review ended before she <code>broached</code> the subject of burnout."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 職場 / 回饋 裡，<code>broach a concern</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「小心把某個敏感話題推到桌面上」。"
+        "label": "疑慮",
+        "body": "Broaching"
       },
       {
-        "label": "延伸版",
-        "body": "到了 人際 / 協商 的場景，<code>broach the issue gently</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「提到」跟更具體的「開敏感話題」差在哪。"
+        "label": "語氣",
+        "body": "To broach the issue gently is to choose timing and wording as part of the action."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "broach 常接 subject、concern、issue；它通常不是隨口提，而是知道這題有阻力。",
       "items": [
         {
           "phrase": "broach the subject",
-          "register": "溝通 / 對話",
-          "note": "這個搭配常出現在需要把事情往「開敏感話題」講清楚的句子裡。"
+          "register": "人際 / 會議",
+          "note": "開啟敏感話題。"
         },
         {
           "phrase": "broach a concern",
-          "register": "職場 / 回饋",
-          "note": "放到 職場 / 回饋 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "工作 / 風險",
+          "note": "提出擔憂，但語氣通常克制。"
         },
         {
           "phrase": "broach the issue gently",
-          "register": "人際 / 協商",
-          "note": "在 人際 / 協商 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "人際 / 管理",
+          "note": "溫和地談起難題。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "開敏感話題",
-        "use": "當你要把事情說成「小心把某個敏感話題推到桌面上」而不只是 提到 時"
+        "use": "用在開啟有情緒、權力或後果重量的話題時。"
       },
       "others": [
         {
           "word": "Mention",
           "meaning": "提到",
-          "use": "當句子只需要 提到 這個動作，不必補上「小心把某個敏感話題推到桌面上」那層走向時"
+          "use": "很通用，可輕描淡寫；<code>broach</code> 表示話題不易開口。"
+        },
+        {
+          "word": "Raise",
+          "meaning": "提出",
+          "use": "中性；<code>broach</code> 多了試探和敏感度。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>broach</code> 常出現在 <code>broach the subject</code>、<code>broach a concern</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「開敏感話題」這個方向收緊。",
-      "如果一句話只想表達比較平的「提到」，<code>Mention</code> 往往就夠了；但當語境需要那層更具體的「小心把某個敏感話題推到桌面上」，<code>broach</code> 會更準。"
+      "管理溝通裡，<code>broach</code> 很實用：它承認話題本身需要小心進場。",
+      "不要用它來描述普通資訊更新；broach 的題目通常會讓人停一下。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 broach 整理成「開敏感話題」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/broach",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 broach 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/broach",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "mention",
       "conversation",
       "feedback",
-      "verb",
-      "broach"
+      "broach",
+      "verb"
     ]
   },
   "sourceAudit": [

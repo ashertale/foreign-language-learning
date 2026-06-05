@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>escalate</code> 關心的是「升高、升級或上報」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>escalate</code> 把事情往更高層級推：嚴重度升高、權限不足、或衝突變大，都可能需要這個字。",
     "definition": {
-      "summary": "表示升高、升級或上報。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示升級、加劇、上報或把問題交給更高層級處理。",
       "contrast": {
         "word": "Increase",
         "note": "<code>increase</code> 是增加；<code>escalate</code> 有階梯往上、情勢變嚴重的感覺。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>escalate</code> 可以先記成一個畫面：問題出現，接著超出原層級，最後往上處理。",
-      "explanation": "這個畫面只用來幫你抓住「升高、升級或上報」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>escalate</code> 想成 incident 從 local issue 升到需要 manager 和 support 一起處理。",
+      "explanation": "不是甩鍋，而是讓權限跟上風險。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "customer impact 擴大時要 escalate，不是為了甩鍋，而是讓權限跟上風險。"
+        "label": "客戶影響",
+        "body": "customer impact 擴大時要 <code>escalate</code>，不是為了甩鍋，而是讓權限跟上風險。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>escalate</code> 和 <code>escalate issue</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "衝突",
+        "body": "A small disagreement can escalate if people start defending identity instead of facts。"
+      },
+      {
+        "label": "速度",
+        "body": "Escalate"
       }
     ],
     "collocations": {
-      "note": "<code>escalate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「升高、升級或上報」落地。",
+      "note": "escalate 常接 issue、conflict、quickly。搭配會顯示升高的是處理層級、衝突還是緊急度。",
       "items": [
         {
           "phrase": "escalate issue",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「升高、升級或上報」有明確對象。"
+          "register": "客服 / 工程 / 管理",
+          "note": "把問題升到更高處理層級。"
         },
         {
           "phrase": "escalate conflict",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "人際 / 政治",
+          "note": "衝突加劇，可能更難收拾。"
         },
         {
           "phrase": "escalate quickly",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "incident / 支援",
+          "note": "快速上報或升級，避免錯過處理窗口。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "升高、升級或上報",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在問題、衝突或處理權限往上升時。"
       },
       "others": [
         {
           "word": "Increase",
-          "meaning": "<code>increase</code> 是增加；<code>escalate</code> 有階梯往上、情勢變嚴重的感覺。",
-          "use": "如果句子只需要 increase 的普通意思，就保留那個較簡單的字。"
+          "meaning": "增加",
+          "use": "只說變多。"
+        },
+        {
+          "word": "Elevate",
+          "meaning": "提升",
+          "use": "常偏品質、優先權或討論層次；escalate 常因問題變嚴重或需上報。"
+        },
+        {
+          "word": "Intensify",
+          "meaning": "加劇",
+          "use": "強度變高，不一定涉及層級。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>escalate</code> 常把一段觀察收斂成可討論的判斷。customer impact 擴大時要 escalate，不是為了甩鍋，而是讓權限跟上風險。",
-      "像 <code>escalate issue</code>、<code>escalate conflict</code>、<code>escalate quickly</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Escalate</code> 在 incident management 裡是必要字。好的升級不是恐慌，而是承認當前層級沒有足夠權限或資訊。",
+      "但它也可能傷害信任：如果任何小事都 escalate，團隊會學不會自己判斷。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 escalate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 escalate 整理成「升高、升級或上報」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/escalate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 escalator 的階梯畫面延伸；核心是往上升級。",
-      "memoryLens": "記憶時先抓「升高、升級或上報」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "階梯 / escalator 的畫面很穩：escalate 就是往上一階處理或變嚴重。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "increase",
       "issue",
       "severity",
-      "verb",
       "verb"
     ]
   },

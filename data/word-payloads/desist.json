@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.37"
     },
-    "coreIdea": "<code>desist</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「明確收手」這條線走。",
+    "coreIdea": "<code>desist</code> 是正式收手，尤其在對方已被警告、規則已被亮出來的時候。",
     "definition": {
-      "summary": "表示停止某種行動，常見於正式警告或自我克制。它要補上的，通常不是動作本身，而是那層更具體的「明確收手」。",
+      "summary": "表示停止某行為，常見於正式命令、法律警告或自我克制。",
       "contrast": {
         "word": "Stop",
-        "note": "如果語境只需要比較平的「停止」，用 <code>Stop</code> 往往就夠了；<code>desist</code> 則會把「明確收手」講得更明確。"
+        "note": "<code>stop</code> 只是停；<code>desist</code> 像有人把紅線正式畫出來。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「明確收手」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "行為正在持續",
+        "警告或邊界出現",
+        "行為被要求停止"
       ]
     },
     "memory": {
-      "hook": "<code>desist</code> 的畫面是：像手已經伸到按鈕前，最後還是在碰到前停住。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 desist 時，能先抓到「明確收手」這個核心，再回頭讀細節。"
+      "hook": "把 <code>cease and desist</code> 想成文件不是在勸你考慮，而是在叫你立刻停。",
+      "explanation": "desist 的停帶法律與邊界感。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>desist from the act</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「明確收手」這個方向講清楚。"
+        "label": "行為",
+        "body": "The notice ordered the company to <code>desist</code> from the act immediately."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>desist immediately</code> 放進 程序 / 安全 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "立刻",
+        "body": "Desist immediately sounds sharper than please stop."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 衝突 / 管理 的情境，從 <code>desist after warning</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "警告",
+        "body": "He"
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "desist 常接 from、immediately、after warning；搭配通常帶明確邊界與後果。",
       "items": [
         {
           "phrase": "desist from the act",
-          "register": "法務 / 正式",
-          "note": "這個搭配常出現在需要把事情往「明確收手」講清楚的句子裡。"
+          "register": "法律 / 正式",
+          "note": "停止該行為。"
         },
         {
           "phrase": "desist immediately",
-          "register": "程序 / 安全",
-          "note": "放到 程序 / 安全 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "命令 / 合規",
+          "note": "立刻停止。"
         },
         {
           "phrase": "desist after warning",
-          "register": "衝突 / 管理",
-          "note": "在 衝突 / 管理 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "敘事 / 法律",
+          "note": "警告後停止。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "明確收手",
-        "use": "當你要把事情說成「明確收手」而不只是 停止 時"
+        "use": "用在停止行為需要被正式要求、記錄或強調後果時。"
       },
       "others": [
         {
           "word": "Stop",
           "meaning": "停止",
-          "use": "當句子只需要 停止 這個動作，不必補上「明確收手」那層走向時"
+          "use": "最通用；<code>desist</code> 更正式，常有命令或法律語氣。"
+        },
+        {
+          "word": "Cease",
+          "meaning": "停止",
+          "use": "和 desist 常成對；cease 偏停止動作，desist 偏停止做某事的意志與行為。"
         }
       ]
     },
     "modernUse": [
-      "<code>desist</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>desist from the act</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Stop</code> 的差別，通常不在難度，而在句子要不要把那層「明確收手」明白說出來。"
+      "<code>Desist</code> 在 cease-and-desist letter 裡最常見。",
+      "日常請朋友停下來不用它，除非你想故意講得像法律通知。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 desist 整理成「明確收手」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/desist",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 desist 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/desist",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "stop",
       "warning",
       "restraint",
-      "verb",
-      "desist"
+      "desist",
+      "verb"
     ]
   },
   "sourceAudit": [

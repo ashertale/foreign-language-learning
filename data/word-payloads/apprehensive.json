@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.36"
     },
-    "coreIdea": "<code>apprehensive</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「對未來可能出問題感到不安」。",
+    "coreIdea": "<code>apprehensive</code> 站在證據抵達之前的緊繃位置。你還不能說事情一定會壞，但情勢的形狀已經讓注意力收緊。",
     "definition": {
-      "summary": "形容對未來可能出問題感到不安。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人因為預感未來可能出問題而不安。它比普通的害怕更早一步，常出現在風險還沒成真、但跡象已經讓人放慢手上動作的時候。",
       "contrast": {
         "word": "Afraid",
         "note": "<code>afraid</code> 是害怕；<code>apprehensive</code> 更像事前察覺風險而不安。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>apprehensive</code> 可以先記成一個畫面：看見不確定，接著預期可能失控，最後情緒開始收緊。",
-      "explanation": "這個畫面只用來幫你抓住「對未來可能出問題感到不安」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>apprehensive</code> 想成 release 前那個停在 Enter 鍵上的手指。",
+      "explanation": "畫面裡還沒有事故，只有一種「這裡可能不乾淨」的緊繃。這能幫你把它和已經被嚇到的 <code>afraid</code> 分開。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "merge 前對某個 timing change apprehensive，代表你還沒看到 bug，但已經感到風險味道不對。"
+        "label": "工程 / 風險",
+        "body": "merge 前對某個 timing change feel <code>apprehensive</code>，代表你還沒看到 bug，但已經覺得風險味道不對。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>apprehensive</code> 和 <code>apprehensive about</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "人際 / 語氣",
+        "body": "A slightly <code>apprehensive</code> tone 不是恐慌；它更像發言者正在試探這件事會不會往壞方向走。"
+      },
+      {
+        "label": "搭配讀法",
+        "body": "<code>apprehensive about the rollout</code> 的焦點不在 about，而在 rollout 這件尚未發生、卻已讓人心裡收緊的事。"
       }
     ],
     "collocations": {
-      "note": "<code>apprehensive</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「對未來可能出問題感到不安」落地。",
+      "note": "這個字常需要一個未來對象：about a decision、before a launch、as a situation changes。搭配會把那股不安綁到具體風險上。",
       "items": [
         {
           "phrase": "apprehensive about",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「對未來可能出問題感到不安」有明確對象。"
+          "register": "日常 / 工作 / 風險",
+          "note": "後面接真正讓人不安的事，例如 a diagnosis、a rollout、an interview。"
         },
         {
           "phrase": "apprehensive tone",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "寫作 / 會議 / 人際",
+          "note": "用來形容話語裡有保留、有試探，還不到 panic 的程度。"
         },
         {
           "phrase": "grow apprehensive",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "敘事 / 報導 / 管理",
+          "note": "不安是逐漸升起的，常因資訊變多、等待變久或風險越來越清楚。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "對未來可能出問題感到不安",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在風險尚未落地，但人的反應已經開始收緊時。"
       },
       "others": [
         {
           "word": "Afraid",
-          "meaning": "<code>afraid</code> 是害怕；<code>apprehensive</code> 更像事前察覺風險而不安。",
-          "use": "如果句子只需要 afraid 的普通意思，就保留那個較簡單的字。"
+          "meaning": "害怕，範圍很廣",
+          "use": "已經明確怕某事、某人或某結果時，用 <code>afraid</code> 就夠。"
+        },
+        {
+          "word": "Anxious",
+          "meaning": "焦慮、擔憂，也可表示渴望",
+          "use": "情緒拉得更長、更耗神；<code>apprehensive</code> 通常更集中在即將發生的事。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>apprehensive</code> 常把一段觀察收斂成可討論的判斷。merge 前對某個 timing change apprehensive，代表你還沒看到 bug，但已經感到風險味道不對。",
-      "像 <code>apprehensive about</code>、<code>apprehensive tone</code>、<code>grow apprehensive</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "工作英文裡，<code>apprehensive</code> 很適合放在還不能下結論的早期風險判斷：你不是說一定會壞，而是說這件事讓人不敢太快放心。",
+      "它的語氣比 <code>afraid</code> 收斂，也比 <code>worried</code> 多一點預感。寫 review 或 incident note 時，這個差異能避免把情緒說得太滿。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 apprehensive 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 apprehensive 整理成「對未來可能出問題感到不安」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/apprehensive",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "與 Latin <code>apprehendere</code>「抓住、理解」有關；像心裡先抓到危險。",
-      "memoryLens": "記憶時先抓「對未來可能出問題感到不安」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源裡的「抓住」可以記成心裡先抓到危險的邊。它不是史實故事，而是一個幫你分辨語氣的手把。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "afraid",
       "risk",
       "release",
-      "adjective",
       "adjective"
     ]
   },

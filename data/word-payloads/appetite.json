@@ -8,89 +8,103 @@
     "partOfSpeech": "noun",
     "pronunciation": "AP-uh-tite · UK /ˈæp.ə.taɪt/ · US /ˈæp.ə.taɪt/",
     "hero": {
-      "thesis": "不是只有食慾，也可以是願意承擔某種需求或風險的胃口。",
+      "thesis": "不是只有肚子餓，也是一個人或組織願意吃下多少機會、成本與風險。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>appetite</code> 把「對食物、機會、風險或投入的需求程度」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>appetite</code> 是「想要吃進去」的程度。它可以是食慾，也可以是對成長、風險、投資、資訊或新事物的胃口；重點是願不願意接受那個東西進入系統。",
     "definition": {
-      "summary": "指對食物、機會、風險或投入的需求程度。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指食慾、渴望，或對某種活動、機會、風險、投入的需求與承受意願。商務裡常見 <code>risk appetite</code>，表示願意承擔多少風險。",
       "contrast": {
         "word": "Hunger",
-        "note": "<code>hunger</code> 更像生理或強烈渴望；<code>appetite</code> 可用在商業與風險胃口。"
+        "note": "<code>hunger</code> 更強烈、更像缺乏造成的渴求；<code>appetite</code> 可以比較溫和，也更常被量化成胃口或承受意願。"
       },
       "flow": [
-        "需求升起",
-        "願意接受",
-        "形成取捨"
+        "感到需求",
+        "願意吃下某物",
+        "形成取捨邊界"
       ]
     },
     "memory": {
-      "hook": "<code>appetite</code> 可以先記成一個畫面：需求升起，接著願意接受，最後形成取捨。",
-      "explanation": "這個畫面只用來幫你抓住「對食物、機會、風險或投入的需求程度」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>appetite</code> 像系統的 input tolerance：不是所有看起來有價值的東西，都值得吃進來。",
+      "explanation": "一家公司可能有 growth appetite，卻沒有 risk appetite；也可能有 data appetite，卻消化不了資料品質問題。這個字很適合拿來談「想要」和「能承受」之間的距離。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "公司說 risk appetite 很低，意思是收益再高也不想承擔那種風險。"
+        "label": "食慾 / 日常",
+        "body": "I lost my <code>appetite</code> 表示不想吃，通常和身體狀態、情緒或壓力有關。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>appetite</code> 和 <code>risk appetite</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "商務 / 風險",
+        "body": "低 <code>risk appetite</code> 表示組織可能拒絕高報酬選項，因為 downside 已經超出它願意承受的範圍。"
+      },
+      {
+        "label": "產品 / 成長",
+        "body": "There is strong appetite for automation 表示使用者或市場真的想採用，不只是覺得概念有趣。"
       }
     ],
     "collocations": {
-      "note": "<code>appetite</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「對食物、機會、風險或投入的需求程度」落地。",
+      "note": "appetite 的搭配常把「胃口」從身體移到風險、成長、投資或資訊需求。",
       "items": [
         {
           "phrase": "risk appetite",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「對食物、機會、風險或投入的需求程度」有明確對象。"
-        },
-        {
-          "phrase": "strong appetite",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "金融 / 管理 / 安全",
+          "note": "指個人或組織願意承擔的風險程度，常用於治理、投資與資安策略。"
         },
         {
           "phrase": "appetite for growth",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "商務 / 策略",
+          "note": "表示願意追求成長，通常也暗示願意承擔相應成本。"
+        },
+        {
+          "phrase": "whet someone's appetite",
+          "register": "日常 / 行銷 / 寫作",
+          "note": "意思是激起興趣或胃口，像前菜讓人更想吃主菜。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "對食物、機會、風險或投入的需求程度",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "想吃、想要，或願意承擔某種投入與風險的程度",
+        "use": "描述食慾、需求、興趣、風險胃口或市場接受度。"
       },
       "others": [
         {
           "word": "Hunger",
-          "meaning": "<code>hunger</code> 更像生理或強烈渴望；<code>appetite</code> 可用在商業與風險胃口。",
-          "use": "如果句子只需要 hunger 的普通意思，就保留那個較簡單的字。"
+          "meaning": "飢餓或強烈渴望",
+          "use": "語氣更強、更急迫，常像缺乏造成的推力。"
+        },
+        {
+          "word": "Craving",
+          "meaning": "難以忽略的強烈渴望",
+          "use": "常用於食物、癮、情緒需求；控制感更低。"
+        },
+        {
+          "word": "Desire",
+          "meaning": "想要、欲望",
+          "use": "範圍最廣；不一定有「吃下去」或承受容量的比喻。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>appetite</code> 常把一段觀察收斂成可討論的判斷。公司說 risk appetite 很低，意思是收益再高也不想承擔那種風險。",
-      "像 <code>risk appetite</code>、<code>strong appetite</code>、<code>appetite for growth</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在現代商務英文裡，<code>appetite</code> 常用來描述市場或組織的接受意願：market appetite、investor appetite、risk appetite。它比 simple interest 更像「願不願意真的吃下去」。",
+      "這個字也能提醒決策者：胃口不是越大越好。High appetite for growth without appetite for maintenance 往往會把系統推向短期漂亮、長期難消化。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 appetite 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 appetite 整理成「食慾與承受意願」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/appetite",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 appetite 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 appetite 在日常食慾、欲望與商務風險語境中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/appetite",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "來自 Latin <code>appetere</code>，有「追向、渴求」的意思。",
-      "memoryLens": "記憶時先抓「對食物、機會、風險或投入的需求程度」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>appetite</code> 來自 Latin <code>appetere</code>，有「追求、渴求、向某物前進」的意思。",
+      "memoryLens": "把它記成內在往外伸手的動作：你不只是看見某物，而是身體或組織準備把它吃進來。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Appetite",
     "partOfSpeech": "noun",
     "href": "./appetite.html",
-    "thesis": "不是只有食慾，也可以是願意承擔某種需求或風險的胃口。",
+    "thesis": "不是只有肚子餓，也是一個人或組織願意吃下多少機會、成本與風險。",
     "tags": [
       "胃口",
       "需求",
-      "risk",
+      "risk appetite",
+      "growth",
       "business",
       "desire",
-      "noun",
+      "hunger",
       "noun"
     ]
   },

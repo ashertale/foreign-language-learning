@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.39"
     },
-    "coreIdea": "<code>byzantine</code> 用來說某個人、系統或局面帶著「迷宮式繁複」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>byzantine</code> 是複雜到像迷宮，而且常讓人懷疑裡面有太多歷史包袱與權力彎路。",
     "definition": {
-      "summary": "表示結構、程序或權力關係極端繁複曲折。重點不是程度加強，而是整個對象都帶著「迷宮式繁複」這種質地。",
+      "summary": "形容程序、規則、系統或權力關係極端繁複、曲折難懂。",
       "contrast": {
         "word": "Complex",
-        "note": "<code>Complex</code> 可以只是在說「複雜」；換成 <code>byzantine</code>，句子通常是在補上「迷宮式繁複」這層更具體的意思。"
+        "note": "<code>complex</code> 只是零件多；<code>byzantine</code> 是多到路徑彎曲、門後還有門。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「迷宮式繁複」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "規則或結構層層堆疊",
+        "路徑不直覺",
+        "理解與操作成本被拉高"
       ]
     },
     "memory": {
-      "hook": "<code>byzantine</code> 的畫面是：像走進沒有窗的走廊群，每個轉角都像還藏著另一條規則。",
-      "explanation": "這個畫面有用，因為它把 byzantine 從翻譯拉回場面：你先看到「每個轉角還藏規則」，再比較容易記住它其實在說「迷宮式繁複」。"
+      "hook": "把 <code>byzantine rules</code> 想成一套 legacy build system：每個例外都有來源，但合在一起沒人敢碰。",
+      "explanation": "byzantine 的複雜不是深，而是繞。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>byzantine procedure</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「複雜」，而是整個對象都帶著「迷宮式繁複」這種質地。"
+        "label": "程序",
+        "body": "A <code>byzantine</code> procedure makes simple requests pass through too many hidden gates."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 法規 / 管理 裡，<code>byzantine rules</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "規則",
+        "body": "Byzantine rules often preserve old compromises long after people forget why they existed."
       },
       {
-        "label": "延伸版",
-        "body": "到了 工程 / 舊系統 的場景，<code>byzantine system</code> 很適合用來練邊界：你要講的到底是一般的「複雜」，還是更具體的「迷宮式繁複」。"
+        "label": "系統",
+        "body": "A byzantine system can function and still punish every newcomer."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "byzantine 常修飾 procedure、rules、system；搭配都在說複雜性已妨礙理解與行動。",
       "items": [
         {
           "phrase": "byzantine procedure",
-          "register": "制度 / 流程",
-          "note": "這個搭配會讓「迷宮式繁複」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "行政 / 組織",
+          "note": "繁瑣曲折的程序。"
         },
         {
           "phrase": "byzantine rules",
-          "register": "法規 / 管理",
-          "note": "在 法規 / 管理 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "制度 / 遊戲 / 法規",
+          "note": "複雜難懂的規則。"
         },
         {
           "phrase": "byzantine system",
-          "register": "工程 / 舊系統",
-          "note": "如果你想把這個字用穩，從 工程 / 舊系統 常見的這個搭配進場通常最自然。"
+          "register": "工程 / 組織",
+          "note": "迷宮式系統。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "迷宮式繁複",
-        "use": "當你要強調整體帶著「彎來彎去，規則像迷宮一樣」這種質地，而不只是 複雜 時"
+        "use": "用在複雜性不只是多，而是彎、繞、歷史層太厚時。"
       },
       "others": [
         {
           "word": "Complex",
           "meaning": "複雜",
-          "use": "當句子只需要 複雜 這個中性描述，不必把「彎來彎去，規則像迷宮一樣」這種氣質壓到前景時"
+          "use": "中性；<code>byzantine</code> 暗示過度曲折。"
+        },
+        {
+          "word": "Intricate",
+          "meaning": "精細複雜",
+          "use": "可正面；<code>byzantine</code> 多半讓人疲憊。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>byzantine</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「迷宮式繁複」這種質地。",
-      "也因此，它和 <code>Complex</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Byzantine</code> 很適合批評流程與組織制度，但有文化歷史包袱，使用時保持語境清楚。",
+      "工程裡可以用來形容 configuration、permission、dependency graph 等讓人難以追蹤的東西。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 byzantine 整理成「迷宮式繁複」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/byzantine",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 byzantine 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/byzantine",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "complex",
       "process",
       "systems",
-      "adjective",
-      "byzantine"
+      "byzantine",
+      "adjective"
     ]
   },
   "sourceAudit": [

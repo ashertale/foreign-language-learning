@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.52"
     },
-    "coreIdea": "<code>compatible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「彼此能共存、互通或不衝突」。",
+    "coreIdea": "<code>compatible</code> 說的是兩個東西放在一起能不能順利工作。相似不是重點；不衝突、接得上、能共存才是重點。",
     "definition": {
-      "summary": "形容彼此能共存、互通或不衝突。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容裝置、軟體、想法、條件或人彼此相容，能一起運作或共處而不互相衝突。",
       "contrast": {
         "word": "Similar",
         "note": "<code>similar</code> 是相像；<code>compatible</code> 是能一起用。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>compatible</code> 可以先記成一個畫面：兩者接在一起，接著介面或目標不衝突，最後共同運作。",
-      "explanation": "這個畫面只用來幫你抓住「彼此能共存、互通或不衝突」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>compatible</code> 想成插上去不只 fit，還真的能跑。",
+      "explanation": "外形接得上還不夠；協定、資料、電氣條件或目標也要能一起工作。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "firmware update backward compatible，代表舊工具或舊資料仍能被正確處理。"
+        "label": "韌體 / 系統",
+        "body": "firmware update backward <code>compatible</code>，代表舊工具或舊資料仍能被正確處理。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>compatible</code> 和 <code>backward compatible</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "人際 / 工作",
+        "body": "Two working styles can be <code>compatible</code> even if the people are not similar。"
+      },
+      {
+        "label": "限制",
+        "body": "<code>Compatible with</code> 後面常接平台、版本、設備或條件。"
       }
     ],
     "collocations": {
-      "note": "<code>compatible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「彼此能共存、互通或不衝突」落地。",
+      "note": "compatible 的搭配多半在測試「能不能一起用」：版本、設備、目標、工作方式都可以成為測試點。",
       "items": [
         {
           "phrase": "backward compatible",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「彼此能共存、互通或不衝突」有明確對象。"
+          "register": "工程 / 產品",
+          "note": "新版本仍能支援舊資料、舊 API 或舊行為。"
         },
         {
           "phrase": "compatible with",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "通用 / 技術",
+          "note": "with 後面接要共存或互通的對象。"
         },
         {
           "phrase": "compatible devices",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "產品 / 技術",
+          "note": "設備彼此能互接、互通或符合相同規格。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "彼此能共存、互通或不衝突",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在判斷兩者是否能共存、互接、互用或目標不衝突時。"
       },
       "others": [
         {
           "word": "Similar",
-          "meaning": "<code>similar</code> 是相像；<code>compatible</code> 是能一起用。",
-          "use": "如果句子只需要 similar 的普通意思，就保留那個較簡單的字。"
+          "meaning": "相似",
+          "use": "只是外觀或特徵像，不保證能一起運作。"
+        },
+        {
+          "word": "Interoperable",
+          "meaning": "可互通",
+          "use": "技術語氣更強，重點是系統間能交換資料或服務。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>compatible</code> 常把一段觀察收斂成可討論的判斷。firmware update backward compatible，代表舊工具或舊資料仍能被正確處理。",
-      "像 <code>backward compatible</code>、<code>compatible with</code>、<code>compatible devices</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "技術英文裡，<code>compatible</code> 幾乎總是在問隱藏 contract：版本、格式、電壓、協定、期待行為是否對得上。",
+      "這個字也能用在人與策略：compatible goals 不代表大家一樣，只代表放在一起不互相毀掉。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 compatible 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 compatible 整理成「彼此能共存、互通或不衝突」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/compatible",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "詞史和「能一起受苦、能共處」有關；現代常用在系統相容性。",
-      "memoryLens": "記憶時先抓「彼此能共存、互通或不衝突」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "詞史裡的共處感很適合記：compatible 不是像，而是能一起承受同一個環境。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "similar",
       "interface",
       "device",
-      "adjective",
       "adjective"
     ]
   },

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.36"
     },
-    "coreIdea": "<code>infrastructure</code> 把「基礎設施、底層支撐系統」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>infrastructure</code> 是功能底下那層支撐。使用者未必看見，但沒有它，上面的服務很難穩定存在。",
     "definition": {
-      "summary": "指基礎設施、底層支撐系統。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指基礎設施、底層支撐系統或組織運作所需的基礎結構。",
       "contrast": {
         "word": "Feature",
         "note": "<code>feature</code> 是看得見的功能；<code>infrastructure</code> 是讓功能能跑、能維護的底層。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>infrastructure</code> 可以先記成一個畫面：底層被建立，接著服務在上面運作，最後穩定性變可能。",
-      "explanation": "這個畫面只用來幫你抓住「基礎設施、底層支撐系統」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>infrastructure</code> 想成測試、build、deploy、monitoring 那些平常不被 demo 的東西。",
+      "explanation": "它們不搶眼，但決定功能能不能長期活著。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "test infrastructure 做得好，工程師才敢快速改 code。"
+        "label": "測試",
+        "body": "test <code>infrastructure</code> 做得好，工程師才敢快速改 code。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>infrastructure</code> 和 <code>test infrastructure</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "網路",
+        "body": "Network infrastructure is invisible until latency or outage makes it visible."
+      },
+      {
+        "label": "成本",
+        "body": "Infrastructure cost often grows quietly behind every new feature."
       }
     ],
     "collocations": {
-      "note": "<code>infrastructure</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「基礎設施、底層支撐系統」落地。",
+      "note": "infrastructure 常接 test、network、cost。搭配會指出支撐的是工程流程、連線，還是財務負擔。",
       "items": [
         {
           "phrase": "test infrastructure",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「基礎設施、底層支撐系統」有明確對象。"
+          "register": "工程 / 品質",
+          "note": "支撐測試執行、資料、環境和報告的基礎設施。"
         },
         {
           "phrase": "network infrastructure",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "IT / 通訊",
+          "note": "網路連線與服務的底層結構。"
         },
         {
           "phrase": "infrastructure cost",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "雲端 / 財務",
+          "note": "維持底層系統運作的成本。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "基礎設施、底層支撐系統",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在談支撐功能、服務或組織長期運作的底層結構時。"
       },
       "others": [
         {
           "word": "Feature",
-          "meaning": "<code>feature</code> 是看得見的功能；<code>infrastructure</code> 是讓功能能跑、能維護的底層。",
-          "use": "如果句子只需要 feature 的普通意思，就保留那個較簡單的字。"
+          "meaning": "功能",
+          "use": "使用者看見的能力。"
+        },
+        {
+          "word": "Platform",
+          "meaning": "平台",
+          "use": "可支撐其他服務或產品，和 infrastructure 可重疊。"
+        },
+        {
+          "word": "Foundation",
+          "meaning": "基礎",
+          "use": "比喻更廣。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>infrastructure</code> 常把一段觀察收斂成可討論的判斷。test infrastructure 做得好，工程師才敢快速改 code。",
-      "像 <code>test infrastructure</code>、<code>network infrastructure</code>、<code>infrastructure cost</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Infrastructure</code> 的價值常在出事時才被看見。好的 infrastructure 讓快變得安全，讓維護不靠英雄。",
+      "它不是雜務。對長期產品而言，測試與部署基礎設施就是速度的一部分。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 infrastructure 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 infrastructure 整理成「基礎設施、底層支撐系統」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/infrastructure",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 infra「下面」與 structure「結構」組合；字面就是底下的結構。",
-      "memoryLens": "記憶時先抓「基礎設施、底層支撐系統」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "infra 是下面，structure 是結構；字面就是底下的支撐。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "feature",
       "test",
       "system",
-      "noun",
       "noun"
     ]
   },

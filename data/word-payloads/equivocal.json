@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.43"
     },
-    "coreIdea": "<code>equivocal</code> 用來說某個人、系統或局面帶著「模稜兩可」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>equivocal</code> 是話語留在兩邊之間，讓人抓不到明確立場或結論。",
     "definition": {
-      "summary": "表示含糊不清、模稜兩可。重點不是程度加強，而是整個對象都帶著「模稜兩可」這種質地。",
+      "summary": "形容含糊、模稜兩可、可作多種解讀。",
       "contrast": {
         "word": "Ambiguous",
-        "note": "<code>Ambiguous</code> 可以只是在說「模糊」；換成 <code>equivocal</code>，句子通常是在補上「模稜兩可」這層更具體的意思。"
+        "note": "<code>ambiguous</code> 說多義；<code>equivocal</code> 常讓人感覺對方不願明講。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「模稜兩可」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "訊息被說出",
+        "它可被讀成兩邊",
+        "承諾或結論保持不明"
       ]
     },
     "memory": {
-      "hook": "<code>equivocal</code> 的畫面是：像路標箭頭同時偏向左右兩邊，走的人反而更不敢動。",
-      "explanation": "這個畫面有用，因為它把 equivocal 從翻譯拉回場面：你先看到「箭頭同時偏左右」，再比較容易記住它其實在說「模稜兩可」。"
+      "hook": "把 <code>equivocal answer</code> 想成回答有字句，但你聽完仍不知道對方到底同不同意。",
+      "explanation": "equivocal 的問題是 ambiguity with consequence。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>equivocal answer</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「模糊」，而是整個對象都帶著「模稜兩可」這種質地。"
+        "label": "回答",
+        "body": "An <code>equivocal</code> answer can buy time while leaving everyone else uncertain."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 法務 / 文件 裡，<code>equivocal language</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "語言",
+        "body": "Equivocal language may be intentional when a document tries not to commit."
       },
       {
-        "label": "延伸版",
-        "body": "到了 公共 / 立場 的場景，<code>equivocal stance</code> 很適合用來練邊界：你要講的到底是一般的「模糊」，還是更具體的「模稜兩可」。"
+        "label": "立場",
+        "body": "An"
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "equivocal 常修飾 answer、language、stance；搭配通常暗示含糊造成不確定。",
       "items": [
         {
           "phrase": "equivocal answer",
-          "register": "溝通 / 回應",
-          "note": "這個搭配會讓「模稜兩可」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "會議 / 政治",
+          "note": "模稜兩可的回答。"
         },
         {
           "phrase": "equivocal language",
-          "register": "法務 / 文件",
-          "note": "在 法務 / 文件 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "法律 / 文件",
+          "note": "含糊語言。"
         },
         {
           "phrase": "equivocal stance",
-          "register": "公共 / 立場",
-          "note": "如果你想把這個字用穩，從 公共 / 立場 常見的這個搭配進場通常最自然。"
+          "register": "評論 / 公共",
+          "note": "不明確的立場。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "模稜兩可",
-        "use": "當你要強調整體帶著「模稜到你抓不到他到底站哪邊」這種質地，而不只是 模糊 時"
+        "use": "用在含糊本身會影響判斷、承諾或責任時。"
       },
       "others": [
         {
           "word": "Ambiguous",
-          "meaning": "模糊",
-          "use": "當句子只需要 模糊 這個中性描述，不必把「模稜到你抓不到他到底站哪邊」這種氣質壓到前景時"
+          "meaning": "模糊多義",
+          "use": "通用；<code>equivocal</code> 常暗示說話者沒有給明確承諾。"
+        },
+        {
+          "word": "Unclear",
+          "meaning": "不清楚",
+          "use": "範圍廣；<code>equivocal</code> 更偏可兩面解讀。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>equivocal</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「模稜兩可」這種質地。",
-      "也因此，它和 <code>Ambiguous</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Equivocal</code> 在政治、法律、醫療結果描述中常見。",
+      "它不只是 unclear；很多時候聽起來像故意不站穩。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 equivocal 整理成「模稜兩可」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/equivocal",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 equivocal 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/equivocal",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "ambiguous",
       "language",
       "stance",
-      "adjective",
-      "equivocal"
+      "equivocal",
+      "adjective"
     ]
   },
   "sourceAudit": [

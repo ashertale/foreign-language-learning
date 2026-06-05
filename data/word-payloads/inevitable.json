@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.56"
     },
-    "coreIdea": "<code>inevitable</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「不可避免的、必然發生」。",
+    "coreIdea": "<code>inevitable</code> 不是可能性高，而是在目前條件下幾乎沒有路能避開。",
     "definition": {
-      "summary": "形容不可避免的、必然發生的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容某結果無可避免、必然會發生或難以阻止。",
       "contrast": {
         "word": "Likely",
         "note": "<code>likely</code> 是可能性高；<code>inevitable</code> 是路徑幾乎已被鎖定。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>inevitable</code> 可以先記成一個畫面：條件已經形成，接著沒有有效阻擋，最後結果必然靠近。",
-      "explanation": "這個畫面只用來幫你抓住「不可避免的、必然發生」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>inevitable</code> 想成沒有 owner 的決策最後一定會漂移。",
+      "explanation": "不是命運神秘，而是條件已經把路鎖住。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "如果沒有 owner，decision drift is inevitable，因為沒人能收斂分歧。"
+        "label": "決策",
+        "body": "如果沒有 owner，decision drift is <code>inevitable</code>，因為沒人能收斂分歧。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>inevitable</code> 和 <code>inevitable consequence</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "後果",
+        "body": "An"
+      },
+      {
+        "label": "取捨",
+        "body": "Some tradeoffs are inevitable; pretending otherwise only hides the cost."
       }
     ],
     "collocations": {
-      "note": "<code>inevitable</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「不可避免的、必然發生」落地。",
+      "note": "inevitable 常接 consequence、seem、tradeoff。搭配會指出無法避開的是後果、感覺，還是取捨。",
       "items": [
         {
           "phrase": "inevitable consequence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「不可避免的、必然發生」有明確對象。"
+          "register": "正式 / 分析",
+          "note": "在條件下幾乎必然出現的後果。"
         },
         {
           "phrase": "seem inevitable",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "敘事 / 評論",
+          "note": "看起來無可避免，但仍可保留一點判斷空間。"
         },
         {
           "phrase": "inevitable tradeoff",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工程 / 決策",
+          "note": "無法同時滿足所有目標的取捨。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "不可避免的、必然發生的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在目前條件已經讓某結果很難被阻止時。"
       },
       "others": [
         {
           "word": "Likely",
-          "meaning": "<code>likely</code> 是可能性高；<code>inevitable</code> 是路徑幾乎已被鎖定。",
-          "use": "如果句子只需要 likely 的普通意思，就保留那個較簡單的字。"
+          "meaning": "很可能",
+          "use": "機率高但仍可避免。"
+        },
+        {
+          "word": "Unavoidable",
+          "meaning": "不可避免",
+          "use": "和 inevitable 接近，較直白。"
+        },
+        {
+          "word": "Certain",
+          "meaning": "確定的",
+          "use": "重確定性，不一定帶無法逃開的路徑感。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>inevitable</code> 常把一段觀察收斂成可討論的判斷。如果沒有 owner，decision drift is inevitable，因為沒人能收斂分歧。",
-      "像 <code>inevitable consequence</code>、<code>seem inevitable</code>、<code>inevitable tradeoff</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Inevitable</code> 在工程裡要慎用，因為它很容易替懶惰找藉口。真正 inevitable 應該能說明哪些條件讓結果避不開。",
+      "有時改變條件後，原本 inevitable 的事就不再 inevitable。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 inevitable 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 inevitable 整理成「不可避免的、必然發生的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/inevitable",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "由 evade/avoid 的相反概念發展；字面感是逃不掉。",
-      "memoryLens": "記憶時先抓「不可避免的、必然發生的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "逃不掉的字面感很好記；inevitable 是路徑被鎖住。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "likely",
       "consequence",
       "tradeoff",
-      "adjective",
       "adjective"
     ]
   },

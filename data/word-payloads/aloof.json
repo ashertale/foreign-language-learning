@@ -12,82 +12,92 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.73"
     },
-    "coreIdea": "<code>aloof</code> 真正抓住的，不是程度高低，而是整體怎麼被「刻意或自然地保持距離，不讓人太靠近」這個感覺支配。",
+    "coreIdea": "<code>aloof</code> 不是害羞，而是人站得遠，讓別人感覺不容易靠近或讀懂。",
     "definition": {
-      "summary": "表示態度冷淡、疏離、保持距離感。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容人冷淡、疏離、保持距離，可能是刻意也可能是性格使然。",
       "contrast": {
         "word": "Shy",
-        "note": "如果語境只需要比較平的「害羞」，用 <code>Shy</code> 往往就夠了；<code>aloof</code> 則會把「刻意或自然地保持距離，不讓人太靠近」講得更明確。"
+        "note": "<code>shy</code> 是想靠近但退縮；<code>aloof</code> 是站得遠，讓別人不容易靠近。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「刻意或自然地保持距離，不讓人太靠近」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "人保持距離",
+        "他人難以讀懂",
+        "互動變冷"
       ]
     },
     "memory": {
-      "hook": "<code>aloof</code> 的畫面是：像窗簾沒有全拉上，但總留著一條讓人進不去的縫。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 aloof 時，能先抓到「保持距離」這個核心，再回頭讀細節。"
+      "hook": "把 <code>aloof</code> manager 想成會議裡永遠不表態，大家只好猜他的真正想法。",
+      "explanation": "距離感本身會變成訊號。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>aloof attitude</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「保持距離」這層氣質壓到前景。"
+        "label": "態度",
+        "body": "An"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>aloof manager</code> 放進 職場 / 領導 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "管理者",
+        "body": "An aloof manager may not be hostile, but the distance still changes team behavior."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 社交 / 描寫 的情境，從 <code>remain aloof</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "保持距離",
+        "body": "Remain aloof can mean refusing to get involved emotionally or politically."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "aloof 常接 attitude、manager、remain。搭配都在描述距離感如何影響互動。",
       "items": [
         {
           "phrase": "aloof attitude",
-          "register": "人際 / 印象",
-          "note": "這個搭配會讓「保持距離」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "人際 / 描寫",
+          "note": "疏離冷淡的態度。"
         },
         {
           "phrase": "aloof manager",
-          "register": "職場 / 領導",
-          "note": "在 職場 / 領導 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "職場",
+          "note": "讓人不易接近或讀懂的管理者。"
         },
         {
           "phrase": "remain aloof",
-          "register": "社交 / 描寫",
-          "note": "如果你想把這個字用穩，從 社交 / 描寫 常見的這個搭配進場通常最自然。"
+          "register": "正式 / 人際",
+          "note": "保持距離，不介入。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "保持距離",
-        "use": "當你要強調整體帶著「刻意或自然地保持距離，不讓人太靠近」這種質地，而不只是 害羞 時"
+        "use": "用在人的距離感讓互動變冷或變難靠近時。"
       },
       "others": [
         {
           "word": "Shy",
           "meaning": "害羞",
-          "use": "當句子只需要 害羞 這個中性描述，不必把「刻意或自然地保持距離，不讓人太靠近」這種氣質壓到前景時"
+          "use": "想靠近但不敢。"
+        },
+        {
+          "word": "Reserved",
+          "meaning": "內斂",
+          "use": "不輕易表露，語氣較中性。"
+        },
+        {
+          "word": "Distant",
+          "meaning": "疏遠",
+          "use": "更直接說距離感。"
         }
       ]
     },
     "modernUse": [
-      "<code>aloof</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>aloof attitude</code>、<code>aloof manager</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「害羞」，<code>Shy</code> 也許夠用；但當你需要的是更具體的「刻意或自然地保持距離，不讓人太靠近」，<code>aloof</code> 會更準。"
+      "<code>Aloof</code> 不一定等於壞人。問題在於距離感會改變資訊流，尤其在團隊裡。",
+      "如果只是 introverted，不要自動說 aloof；aloof 更像別人感到你站在外面。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 aloof 整理成「保持距離」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/aloof",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 aloof 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/aloof",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "shy",
       "personality",
       "social",
-      "adjective",
-      "aloof"
+      "aloof",
+      "adjective"
     ]
   },
   "sourceAudit": [

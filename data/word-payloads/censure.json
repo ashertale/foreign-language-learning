@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.49"
     },
-    "coreIdea": "<code>censure</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「正式譴責」這條線走。",
+    "coreIdea": "<code>censure</code> 是有分量的譴責，常帶制度、職位或公共場合的權威。",
     "definition": {
-      "summary": "表示正式譴責、嚴厲責難某人或某行為。它要補上的，通常不是動作本身，而是那層更具體的「公開而且帶有權威地譴責」。",
+      "summary": "表示正式而嚴厲地譴責某人、行為或判斷。",
       "contrast": {
         "word": "Criticize",
-        "note": "如果語境只需要比較平的「批評」，用 <code>Criticize</code> 往往就夠了；<code>censure</code> 則會把「公開而且帶有權威地譴責」講得更明確。"
+        "note": "<code>criticize</code> 可以是任何人說不好；<code>censure</code> 像一個機構正式說這不可以。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「公開而且帶有權威地譴責」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "行為被判定越界",
+        "權威或群體發聲",
+        "責難被正式留下"
       ]
     },
     "memory": {
-      "hook": "<code>censure</code> 的畫面是：像紅筆不是畫在草稿邊角，而是蓋在文件正中央的醒目印章。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 censure 時，能先抓到「正式譴責」這個核心，再回頭讀細節。"
+      "hook": "把 <code>formally censure</code> 想成不是私下不滿，而是會議紀錄上留下的公開責難。",
+      "explanation": "censure 的聲音來自權威位置。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>censure the official</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「正式譴責」這個方向講清楚。"
+        "label": "官員",
+        "body": "The committee voted to <code>censure</code> the official for misuse of funds."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>censure the conduct</code> 放進 治理 / 倫理 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "行為",
+        "body": "Censuring the conduct makes the institution say where its boundary is."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 程序 / 組織 的情境，從 <code>formally censure</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "正式程序",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "censure 常接 official、conduct，也常和 formally 搭配；它比一般 criticism 更有制度感。",
       "items": [
         {
           "phrase": "censure the official",
-          "register": "公共 / 政治",
-          "note": "這個搭配常出現在需要把事情往「正式譴責」講清楚的句子裡。"
+          "register": "政治 / 制度",
+          "note": "正式譴責官員。"
         },
         {
           "phrase": "censure the conduct",
-          "register": "治理 / 倫理",
-          "note": "放到 治理 / 倫理 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "法律 / 組織",
+          "note": "譴責行為本身。"
         },
         {
           "phrase": "formally censure",
-          "register": "程序 / 組織",
-          "note": "在 程序 / 組織 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "正式 / 公共",
+          "note": "以正式程序譴責。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "正式譴責",
-        "use": "當你要把事情說成「公開而且帶有權威地譴責」而不只是 批評 時"
+        "use": "用在責難不只是個人意見，而帶有公開、正式或制度性的重量時。"
       },
       "others": [
         {
           "word": "Criticize",
           "meaning": "批評",
-          "use": "當句子只需要 批評 這個動作，不必補上「公開而且帶有權威地譴責」那層走向時"
+          "use": "範圍廣；<code>censure</code> 是權威或機構發出的嚴厲譴責。"
+        },
+        {
+          "word": "Condemn",
+          "meaning": "譴責",
+          "use": "語氣也重；<code>censure</code> 更常有正式程序。"
         }
       ]
     },
     "modernUse": [
-      "<code>censure</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>censure the official</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Criticize</code> 的差別，通常不在難度，而在句子要不要把那層「正式譴責」明白說出來。"
+      "<code>Censure</code> 很適合政治、董事會、專業團體等場景。",
+      "日常吵架通常不用它，除非你想故意把語氣拉得很正式。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 censure 整理成「正式譴責」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/censure",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 censure 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/censure",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "criticize",
       "governance",
       "ethics",
-      "verb",
-      "censure"
+      "censure",
+      "verb"
     ]
   },
   "sourceAudit": [

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.52"
     },
-    "coreIdea": "<code>formidable</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「令人敬畏、難以對付」。",
+    "coreIdea": "<code>formidable</code> 不是普通難，而是對手、任務或問題強到讓人必須調整態度、不能輕敵。",
     "definition": {
-      "summary": "形容令人敬畏、難以對付的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容挑戰、對手、任務或能力強大、艱鉅，令人敬畏或需要認真面對。",
       "contrast": {
         "word": "Difficult",
         "note": "<code>difficult</code> 是難；<code>formidable</code> 帶著對方很強、不能輕敵。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>formidable</code> 可以先記成一個畫面：對手或任務出現，接著力量被看見，最後態度變謹慎。",
-      "explanation": "這個畫面只用來幫你抓住「令人敬畏、難以對付」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>formidable</code> 想成 porting 到新架構時，每個舊假設都可能反咬你。",
+      "explanation": "難度不是一塊石頭，而是一整片地形。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "跨到新架構時，porting can be formidable，因為每個舊假設都可能移動。"
+        "label": "移植",
+        "body": "跨到新架構時，porting can be <code>formidable</code>，因為每個舊假設都可能移動。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>formidable</code> 和 <code>formidable challenge</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "對手",
+        "body": "A formidable opponent changes how you prepare before the contest even begins."
+      },
+      {
+        "label": "任務",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "<code>formidable</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「令人敬畏、難以對付」落地。",
+      "note": "formidable 常接 challenge、opponent、task。搭配都帶著敬畏感，不只是麻煩。",
       "items": [
         {
           "phrase": "formidable challenge",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「令人敬畏、難以對付」有明確對象。"
+          "register": "正式 / 專案 / 評論",
+          "note": "需要大量能力、時間或勇氣面對的挑戰。"
         },
         {
           "phrase": "formidable opponent",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "競爭 / 運動 / 政治",
+          "note": "強到不能輕忽的對手。"
         },
         {
           "phrase": "formidable task",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工作 / 寫作",
+          "note": "艱鉅任務，必須認真規劃。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "令人敬畏、難以對付的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某事物強大或艱鉅到需要慎重準備時。"
       },
       "others": [
         {
           "word": "Difficult",
-          "meaning": "<code>difficult</code> 是難；<code>formidable</code> 帶著對方很強、不能輕敵。",
-          "use": "如果句子只需要 difficult 的普通意思，就保留那個較簡單的字。"
+          "meaning": "困難",
+          "use": "通用，不一定有敬畏感。"
+        },
+        {
+          "word": "Daunting",
+          "meaning": "令人卻步",
+          "use": "更重心理壓力。"
+        },
+        {
+          "word": "Impressive",
+          "meaning": "令人印象深刻",
+          "use": "可正面讚嘆，不一定難以應付。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>formidable</code> 常把一段觀察收斂成可討論的判斷。跨到新架構時，porting can be formidable，因為每個舊假設都可能移動。",
-      "像 <code>formidable challenge</code>、<code>formidable opponent</code>、<code>formidable task</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Formidable</code> 很適合描述真正有份量的問題。它不是抱怨難，而是承認對方有實力。",
+      "在工程計畫裡，用 formidable 時最好接著說明難在哪裡，否則容易變成情緒形容。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 formidable 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 formidable 整理成「令人敬畏、難以對付的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/formidable",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>formidare</code>，有害怕、敬畏的意思。",
-      "memoryLens": "記憶時先抓「令人敬畏、難以對付的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "害怕、敬畏的字源保留在現代語氣裡：formidable 讓人站直一點。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "difficult",
       "challenge",
       "opponent",
-      "adjective",
       "adjective"
     ]
   },

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.52"
     },
-    "coreIdea": "<code>circumvent</code> 關心的是「避開既有限制而達成目」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>circumvent</code> 不穿過障礙，而是繞過去。這個字常留下問題：這是聰明 workaround，還是在規避本該面對的限制？",
     "definition": {
-      "summary": "表示避開既有限制而達成目的。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示繞過規則、限制、障礙或問題來達成目的。它可中性描述 workaround，也可能暗示規避正當程序。",
       "contrast": {
         "word": "Avoid",
         "note": "<code>avoid</code> 是避開；<code>circumvent</code> 像繞一圈找旁門路徑。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>circumvent</code> 可以先記成一個畫面：遇到限制，接著不正面穿過，最後繞路達成。",
-      "explanation": "這個畫面只用來幫你抓住「避開既有限制而達成目」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>circumvent</code> 像看到路障後不修路，而是從旁邊草地開過去。",
+      "explanation": "有時這是聰明的 workaround；有時則是在避開本來該面對的限制。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "用 hack circumvent a limitation 可能短期有效，但也可能留下難維護的暗門。"
+        "label": "工程",
+        "body": "用 hack <code>circumvent</code> a limitation 可能短期有效，但也可能留下難維護的暗門。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>circumvent</code> 和 <code>circumvent rules</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "規則",
+        "body": "Companies may try to <code>circumvent</code> restrictions by moving activity through another channel。"
+      },
+      {
+        "label": "語氣",
+        "body": "這個字比 <code>avoid</code> 更像有路線設計：不是遠離問題，而是繞開它仍達成目的。"
       }
     ],
     "collocations": {
-      "note": "<code>circumvent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「避開既有限制而達成目」落地。",
+      "note": "circumvent 常接 rules、restrictions、problem、security。這些搭配會決定語氣偏聰明繞路，還是偏可疑規避。",
       "items": [
         {
           "phrase": "circumvent rules",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「避開既有限制而達成目」有明確對象。"
+          "register": "法律 / 組織",
+          "note": "繞過規則而非遵守，通常帶負面或至少可疑的語氣。"
         },
         {
           "phrase": "circumvent restrictions",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "政策 / 商務 / 技術",
+          "note": "限制仍在，但行為找到旁路讓限制失去效果。"
         },
         {
           "phrase": "circumvent the problem",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工程 / 日常",
+          "note": "不直接解掉問題本身，而是找一條能避開它的路。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "避開既有限制而達成目的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在不正面穿過限制，而是繞路讓限制失效時。"
       },
       "others": [
         {
           "word": "Avoid",
-          "meaning": "<code>avoid</code> 是避開；<code>circumvent</code> 像繞一圈找旁門路徑。",
-          "use": "如果句子只需要 avoid 的普通意思，就保留那個較簡單的字。"
+          "meaning": "避開",
+          "use": "只是不要碰到某事，用 <code>avoid</code>。"
+        },
+        {
+          "word": "Bypass",
+          "meaning": "旁路通過",
+          "use": "技術或路線感更強，可中性；circumvent 較常帶規則感。"
+        },
+        {
+          "word": "Evade",
+          "meaning": "逃避、規避",
+          "use": "負面更強，常指故意躲責任、稅或法律。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>circumvent</code> 常把一段觀察收斂成可討論的判斷。用 hack circumvent a limitation 可能短期有效，但也可能留下難維護的暗門。",
-      "像 <code>circumvent rules</code>、<code>circumvent restrictions</code>、<code>circumvent the problem</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "資安、法規和產品限制裡，<code>circumvent</code> 是很常見的動詞，因為限制本身常會引出旁路行為。",
+      "好句子會交代被繞過的是什麼。circumvent authentication、circumvent export controls、circumvent a design limitation 的責任感完全不同。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 circumvent 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 circumvent 整理成「避開既有限制而達成目的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/circumvent",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>circum</code>「周圍」與 <code>venire</code>「來」。",
-      "memoryLens": "記憶時先抓「避開既有限制而達成目的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>circum</code> 是 around，<code>venire</code> 是 come；字源畫面就是從周圍繞過來。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "avoid",
       "rules",
       "workaround",
-      "verb",
       "verb"
     ]
   },

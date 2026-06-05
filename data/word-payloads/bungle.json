@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.73"
     },
-    "coreIdea": "<code>bungle</code> 常用在句子需要把動作往「拙劣搞砸」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>bungle</code> 是笨拙地把事情搞砸；它帶一點「本來可以不要這麼糟」的懊惱。",
     "definition": {
-      "summary": "表示拙劣地搞砸、辦壞某件事。這個字常不是在描述機械動作，而是在說事情怎麼往「拙劣搞砸」這個方向走。",
+      "summary": "表示因粗心、笨拙或處理不當而辦壞某事。",
       "contrast": {
         "word": "Fumble",
-        "note": "<code>Fumble</code> 可以只是在說「笨手笨腳地弄」；換成 <code>bungle</code>，句子通常是在補上「拙劣搞砸」這層更具體的意思。"
+        "note": "<code>fail</code> 只說失敗；<code>bungle</code> 讓人看見失敗裡的笨拙操作。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「拙劣搞砸」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "事情需要處理",
+        "執行方式粗心或混亂",
+        "結果被搞壞"
       ]
     },
     "memory": {
-      "hook": "<code>bungle</code> 的畫面是：像手上工具都拿反了，修理還沒開始，零件先掉滿地。",
-      "explanation": "這個畫面有用，因為它把 bungle 從翻譯拉回場面：你先看到「越弄越亂」，再比較容易記住它其實在說「拙劣搞砸」。"
+      "hook": "把 <code>bungle the launch</code> 想成功能做了，通知、rollback、support 三件事卻一起亂掉。",
+      "explanation": "bungle 的失敗常帶執行笨拙感。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>bungle the launch</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「拙劣搞砸」收過去。"
+        "label": "發布",
+        "body": "The company <code>bungled</code> the launch by changing the terms after users had already signed up."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 工程 / 維護 裡，<code>bungle the repair</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「因為處理笨拙，把事情越弄越亂」。"
+        "label": "修理",
+        "body": "A"
       },
       {
-        "label": "延伸版",
-        "body": "到了 公共 / 危機 的場景，<code>bungle the response</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「笨手笨腳地弄」跟更具體的「拙劣搞砸」差在哪。"
+        "label": "回應",
+        "body": "They bungled the response by sounding defensive before checking the facts."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "bungle 常接 launch、repair、response；它評價的不只是結果壞，也包含處理手法難看。",
       "items": [
         {
           "phrase": "bungle the launch",
-          "register": "產品 / 專案",
-          "note": "這個搭配常出現在需要把事情往「拙劣搞砸」講清楚的句子裡。"
+          "register": "產品 / 商務",
+          "note": "把發布處理得一團亂。"
         },
         {
           "phrase": "bungle the repair",
-          "register": "工程 / 維護",
-          "note": "放到 工程 / 維護 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "工程 / 日常",
+          "note": "修理時笨拙搞砸。"
         },
         {
           "phrase": "bungle the response",
-          "register": "公共 / 危機",
-          "note": "在 公共 / 危機 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "公關 / 管理",
+          "note": "回應處理失當。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "拙劣搞砸",
-        "use": "當你要把事情說成「因為處理笨拙，把事情越弄越亂」而不只是 笨手笨腳地弄 時"
+        "use": "用在結果壞，而且壞得像是處理者手法粗糙或判斷混亂時。"
       },
       "others": [
         {
           "word": "Fumble",
-          "meaning": "笨手笨腳地弄",
-          "use": "當句子只需要 笨手笨腳地弄 這個動作，不必補上「因為處理笨拙，把事情越弄越亂」那層走向時"
+          "meaning": "笨拙處理",
+          "use": "很接近，常有手忙腳亂感；<code>bungle</code> 更明確說辦壞。"
+        },
+        {
+          "word": "Mismanage",
+          "meaning": "管理不善",
+          "use": "較正式；<code>bungle</code> 更口語、更笨拙。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>bungle</code> 常出現在 <code>bungle the launch</code>、<code>bungle the repair</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「拙劣搞砸」這個方向收緊。",
-      "如果一句話只想表達比較平的「笨手笨腳地弄」，<code>Fumble</code> 往往就夠了；但當語境需要那層更具體的「因為處理笨拙，把事情越弄越亂」，<code>bungle</code> 會更準。"
+      "<code>Bungle</code> 比 fail 更有畫面，也更帶責備。",
+      "正式報告可用 mishandle；日常或評論想保留笨拙感時，bungle 更準。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 bungle 整理成「拙劣搞砸」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/bungle",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 bungle 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/bungle",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "fumble",
       "execution",
       "repair",
-      "verb",
-      "bungle"
+      "bungle",
+      "verb"
     ]
   },
   "sourceAudit": [

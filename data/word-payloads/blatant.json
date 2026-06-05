@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.07"
     },
-    "coreIdea": "<code>blatant</code> 用來說某個人、系統或局面帶著「公然明顯」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>blatant</code> 是壞得很明顯，甚至明顯到像在挑戰旁人的忍耐。",
     "definition": {
-      "summary": "表示公然、顯而易見，且常帶有令人不快的程度。重點不是程度加強，而是整個對象都帶著「公然明顯」這種質地。",
+      "summary": "形容錯誤、謊言、偏見或問題公然、刺眼、毫不掩飾。",
       "contrast": {
         "word": "Obvious",
-        "note": "<code>Obvious</code> 可以只是在說「明顯」；換成 <code>blatant</code>，句子通常是在補上「公然明顯」這層更具體的意思。"
+        "note": "<code>obvious</code> 只是看得出來；<code>blatant</code> 還暗示這件事很難被原諒。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「公然明顯」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "問題暴露在表面",
+        "旁人很容易看見",
+        "語氣帶責備或不滿"
       ]
     },
     "memory": {
-      "hook": "<code>blatant</code> 的畫面是：像考卷上直接把答案寫在桌面上，根本不打算藏。",
-      "explanation": "這個畫面有用，因為它把 blatant 從翻譯拉回場面：你先看到「根本不打算藏」，再比較容易記住它其實在說「公然明顯」。"
+      "hook": "把 <code>blatant bug</code> 想成 demo 第一分鐘就撞牆，不需要分析才看得出來。",
+      "explanation": "blatant 的可見度很高，而且常帶負面評價。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>blatant lie</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「明顯」，而是整個對象都帶著「公然明顯」這種質地。"
+        "label": "謊言",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 媒體 / 觀察 裡，<code>blatant bias</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "偏見",
+        "body": "Blatant bias is not a subtle weighting problem; it is visible in the outcome."
       },
       {
-        "label": "延伸版",
-        "body": "到了 工程 / 品質 的場景，<code>blatant bug</code> 很適合用來練邊界：你要講的到底是一般的「明顯」，還是更具體的「公然明顯」。"
+        "label": "缺陷",
+        "body": "A blatant bug makes trust drop fast because users can see it immediately."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "blatant 常修飾 lie、bias、bug、violation；它把「明顯」和「不該如此」綁在一起。",
       "items": [
         {
           "phrase": "blatant lie",
-          "register": "評論 / 公共",
-          "note": "這個搭配會讓「公然明顯」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "日常 / 政治",
+          "note": "明目張膽的謊言。"
         },
         {
           "phrase": "blatant bias",
-          "register": "媒體 / 觀察",
-          "note": "在 媒體 / 觀察 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "社會 / 分析",
+          "note": "明顯偏見。"
         },
         {
           "phrase": "blatant bug",
-          "register": "工程 / 品質",
-          "note": "如果你想把這個字用穩，從 工程 / 品質 常見的這個搭配進場通常最自然。"
+          "register": "工程 / 口語",
+          "note": "一眼可見、很不應該的錯。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "公然明顯",
-        "use": "當你要強調整體帶著「明顯到近乎不把規則放在眼裡」這種質地，而不只是 明顯 時"
+        "use": "用在問題不但明顯，而且明顯到讓人覺得不應被放過時。"
       },
       "others": [
         {
           "word": "Obvious",
           "meaning": "明顯",
-          "use": "當句子只需要 明顯 這個中性描述，不必把「明顯到近乎不把規則放在眼裡」這種氣質壓到前景時"
+          "use": "可中性；<code>blatant</code> 通常負面。"
+        },
+        {
+          "word": "Flagrant",
+          "meaning": "惡劣公然",
+          "use": "比 blatant 更正式、更像違規。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>blatant</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「公然明顯」這種質地。",
-      "也因此，它和 <code>Obvious</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Blatant</code> 不適合稱讚；它幾乎總是在責備某種公然的錯。",
+      "在 bug report 裡用它要小心，因為它會帶情緒和責任指向。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 blatant 整理成「公然明顯」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/blatant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 blatant 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/blatant",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "obvious",
       "bias",
       "quality",
-      "adjective",
-      "blatant"
+      "blatant",
+      "adjective"
     ]
   },
   "sourceAudit": [

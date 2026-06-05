@@ -12,82 +12,92 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.76"
     },
-    "coreIdea": "<code>antagonize</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「激起敵意」這條線走。",
+    "coreIdea": "<code>antagonize</code> 不是讓人小小不爽，而是把對方推向對立、敵意或反感的位置。",
     "definition": {
-      "summary": "表示激怒、招致敵意，讓他人開始反抗或不合作。它要補上的，通常不是動作本身，而是那層更具體的「把對方推進對立或反感狀態」。",
+      "summary": "表示激怒、招致反感、使成為對立方，常用於團隊、選民、觀眾或對手。",
       "contrast": {
         "word": "Annoy",
-        "note": "如果語境只需要比較平的「惹惱」，用 <code>Annoy</code> 往往就夠了；<code>antagonize</code> 則會把「把對方推進對立或反感狀態」講得更明確。"
+        "note": "<code>annoy</code> 是惹煩；<code>antagonize</code> 是把人推向對立或敵意。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「把對方推進對立或反感狀態」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "對方原本可互動",
+        "行為激起反感",
+        "關係轉向對立"
       ]
     },
     "memory": {
-      "hook": "<code>antagonize</code> 的畫面是：像手指一直去戳同一塊瘀青，最後整個人都繃起來。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 antagonize 時，能先抓到「激起敵意」這個核心，再回頭讀細節。"
+      "hook": "把 <code>antagonize</code> the team 想成溝通方式讓大家開始防衛，而不是一起解問題。",
+      "explanation": "你不只惹惱人，你改變了關係方向。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>antagonize the team</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「激起敵意」這個方向講清楚。"
+        "label": "團隊",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>antagonize voters</code> 放進 政治 / 公共 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "選民",
+        "body": "Policies can antagonize voters when they feel ignored rather than persuaded."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 媒體 / 表達 的情境，從 <code>antagonize the audience</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "觀眾",
+        "body": "A speaker may antagonize the audience by mocking the concern they came to hear addressed."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "antagonize 常接 team、voters、audience。搭配都指向原本可能合作或聆聽的一方被推成對立。",
       "items": [
         {
           "phrase": "antagonize the team",
-          "register": "職場 / 團隊",
-          "note": "這個搭配常出現在需要把事情往「激起敵意」講清楚的句子裡。"
+          "register": "職場 / 管理",
+          "note": "讓團隊產生反感或對立。"
         },
         {
           "phrase": "antagonize voters",
-          "register": "政治 / 公共",
-          "note": "放到 政治 / 公共 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "政治",
+          "note": "激起選民反感。"
         },
         {
           "phrase": "antagonize the audience",
-          "register": "媒體 / 表達",
-          "note": "在 媒體 / 表達 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "演講 / 媒體",
+          "note": "使觀眾反感。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "激起敵意",
-        "use": "當你要把事情說成「把對方推進對立或反感狀態」而不只是 惹惱 時"
+        "use": "用在行為或語氣把對方推入敵意或對立狀態時。"
       },
       "others": [
         {
           "word": "Annoy",
           "meaning": "惹惱",
-          "use": "當句子只需要 惹惱 這個動作，不必補上「把對方推進對立或反感狀態」那層走向時"
+          "use": "較輕。"
+        },
+        {
+          "word": "Offend",
+          "meaning": "冒犯",
+          "use": "可能是單次。"
+        },
+        {
+          "word": "Provoke",
+          "meaning": "挑起、激起",
+          "use": "可指引發反應，未必長期對立。"
         }
       ]
     },
     "modernUse": [
-      "<code>antagonize</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>antagonize the team</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Annoy</code> 的差別，通常不在難度，而在句子要不要把那層「激起敵意」明白說出來。"
+      "<code>Antagonize</code> 在管理裡是警告字。很多變革失敗不是因為方案完全錯，而是溝通先把人推成敵人。",
+      "它比 annoy 更有關係後果。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 antagonize 整理成「激起敵意」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/antagonize",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 antagonize 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/antagonize",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "annoy",
       "conflict",
       "communication",
-      "verb",
-      "antagonize"
+      "antagonize",
+      "verb"
     ]
   },
   "sourceAudit": [

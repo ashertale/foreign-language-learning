@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.44"
     },
-    "coreIdea": "<code>aspiration</code> 把「對未來身份、成就或生活方向的嚮往」抓成可以討論的名詞，讓句子不只停在感覺，而能指向一個可檢查的狀態。",
+    "coreIdea": "<code>aspiration</code> 不是任務清單上的下一格，而是把人往某個更高、更遠狀態拉過去的長期嚮往。",
     "definition": {
-      "summary": "指對未來身份、成就或生活方向的嚮往。這個名詞通常把注意力放在某種狀態、關係或判準上，讓問題的輪廓更清楚。",
+      "summary": "指長期嚮往、志向或想成為某種狀態的拉力。它通常比 <code>goal</code> 抽象，也更靠近身份、人生方向或組織願景。",
       "contrast": {
         "word": "Goal",
         "note": "<code>goal</code> 可被清楚完成；<code>aspiration</code> 更像長期往上靠近的方向。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>aspiration</code> 可以先記成一個畫面：看見理想狀態，接著形成長期拉力，最後用行動靠近。",
-      "explanation": "這個畫面只用來幫你抓住「對未來身份、成就或生活方向的嚮往」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>aspiration</code> 想成胸口吸進的一口未來。",
+      "explanation": "它不一定今天就能排進 checklist，但會慢慢影響你願意投入哪些練習、避開哪些妥協。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "career aspiration 不一定能排進 sprint，但會影響你選什麼問題練。"
+        "label": "職涯",
+        "body": "career <code>aspiration</code> 不一定能放進 sprint，卻會決定你願不願意接難題、練溝通、或轉向系統設計。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>aspiration</code> 和 <code>career aspiration</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "組織",
+        "body": "A team’s <code>aspiration</code> to be more reliable 必須最後落到流程，不然只會停在漂亮標語。"
+      },
+      {
+        "label": "語氣",
+        "body": "說 personal <code>aspirations</code> 時，語氣通常比 ambitions 柔一點，少一點競爭味，多一點自我靠近。"
       }
     ],
     "collocations": {
-      "note": "<code>aspiration</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「對未來身份、成就或生活方向的嚮往」落地。",
+      "note": "這個字常把人和未來連起來：career、personal、political。搭配會告訴你那股拉力是私人的、職業的，還是集體的。",
       "items": [
         {
           "phrase": "career aspiration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「對未來身份、成就或生活方向的嚮往」有明確對象。"
+          "register": "職涯 / HR",
+          "note": "談一個人想往哪種角色或影響力靠近，不只是下一個職稱。"
         },
         {
           "phrase": "personal aspiration",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "日常 / 反思",
+          "note": "放在比較內在的長期願望上，語氣通常不急。"
         },
         {
           "phrase": "aspiration to lead",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "職場 / 公共討論",
+          "note": "表示想承擔領導角色，但仍需要能力、信任與時機支撐。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "對未來身份、成就或生活方向的嚮往",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在長期方向、身份想像或比單一目標更大的嚮往。"
       },
       "others": [
         {
           "word": "Goal",
-          "meaning": "<code>goal</code> 可被清楚完成；<code>aspiration</code> 更像長期往上靠近的方向。",
-          "use": "如果句子只需要 goal 的普通意思，就保留那個較簡單的字。"
+          "meaning": "較具體、可完成的目標",
+          "use": "有日期、指標或明確完成條件時，<code>goal</code> 較準。"
+        },
+        {
+          "word": "Ambition",
+          "meaning": "雄心，常帶競爭或成就欲",
+          "use": "想強調向上爬、拿到權力或成就時，用 <code>ambition</code>。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>aspiration</code> 常把一段觀察收斂成可討論的判斷。career aspiration 不一定能排進 sprint，但會影響你選什麼問題練。",
-      "像 <code>career aspiration</code>、<code>personal aspiration</code>、<code>aspiration to lead</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Aspiration</code> 在職涯對話和品牌語言裡都常見，因為它能把短期行動和較大的方向接起來。",
+      "它的風險是太空。好的句子會讓 aspiration 往具體行為落地，例如 what skills, what trade-offs, what kind of responsibility。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 aspiration 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 aspiration 整理成「對未來身份、成就或生活方向的嚮往」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/aspiration",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "與 Latin <code>spirare</code>「呼吸」相關；像把未來吸進胸口的一口氣。",
-      "memoryLens": "記憶時先抓「對未來身份、成就或生活方向的嚮往」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "和 <code>spirare</code>「呼吸」相關的線索很有畫面，但請把它當記憶入口，不要把每個現代用法都硬講成呼吸。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "goal",
       "career",
       "future",
-      "noun",
       "noun"
     ]
   },

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>intuitive</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「直覺的、容易自然理解」。",
+    "coreIdea": "<code>intuitive</code> 不是不用學，而是行為和人心裡原本的模型對得起來。",
     "definition": {
-      "summary": "形容直覺的、容易自然理解的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容介面、設計、想法或判斷符合直覺，容易自然理解或操作。",
       "contrast": {
         "word": "Obvious",
         "note": "<code>obvious</code> 是明顯；<code>intuitive</code> 是行為和心中的模型對得起來。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>intuitive</code> 可以先記成一個畫面：使用者有預期，接著介面符合預期，最後理解成本下降。",
-      "explanation": "這個畫面只用來幫你抓住「直覺的、容易自然理解」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>intuitive</code> tool 想成下一步的位置剛好在你以為它會在的地方。",
+      "explanation": "功能可以不少，但路徑不該逼人猜。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "intuitive tool 不一定功能少，而是下一步在哪裡不需要猜。"
+        "label": "工具",
+        "body": "<code>Intuitive</code> tool 不一定功能少，而是下一步在哪裡不需要猜。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>intuitive</code> 和 <code>intuitive interface</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "介面",
+        "body": "An intuitive interface borrows from the user’s existing mental model."
+      },
+      {
+        "label": "設計",
+        "body": "A feature can feel intuitive to experts and confusing to first-time users."
       }
     ],
     "collocations": {
-      "note": "<code>intuitive</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「直覺的、容易自然理解」落地。",
+      "note": "intuitive 常接 interface、design、feel。搭配都在測試使用者的心中模型是否被尊重。",
       "items": [
         {
           "phrase": "intuitive interface",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「直覺的、容易自然理解」有明確對象。"
+          "register": "UX / 產品",
+          "note": "符合使用者預期、容易操作的介面。"
         },
         {
           "phrase": "intuitive design",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "設計 / 產品",
+          "note": "讓人自然理解的設計。"
         },
         {
           "phrase": "feel intuitive",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 評估",
+          "note": "感覺直覺，通常來自熟悉模型。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "直覺的、容易自然理解的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在設計或想法能接上人的自然預期，降低猜測成本時。"
       },
       "others": [
         {
           "word": "Obvious",
-          "meaning": "<code>obvious</code> 是明顯；<code>intuitive</code> 是行為和心中的模型對得起來。",
-          "use": "如果句子只需要 obvious 的普通意思，就保留那個較簡單的字。"
+          "meaning": "明顯",
+          "use": "看了就知道；intuitive 更重符合心理模型。"
+        },
+        {
+          "word": "Simple",
+          "meaning": "簡單",
+          "use": "少或不複雜；intuitive 可以功能多但好理解。"
+        },
+        {
+          "word": "Natural",
+          "meaning": "自然",
+          "use": "和 intuitive 接近，語氣較日常。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>intuitive</code> 常把一段觀察收斂成可討論的判斷。intuitive tool 不一定功能少，而是下一步在哪裡不需要猜。",
-      "像 <code>intuitive interface</code>、<code>intuitive design</code>、<code>feel intuitive</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Intuitive</code> 在產品討論裡常被說得太快。對誰 intuitive？基於哪個 mental model？這兩個問題要問。",
+      "對工程師直覺的東西，對新手可能完全不直覺。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 intuitive 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 intuitive 整理成「直覺的、容易自然理解的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/intuitive",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 intuition 的直覺概念；現代常用在設計與理解成本。",
-      "memoryLens": "記憶時先抓「直覺的、容易自然理解的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "intuition 的直覺概念是核心；intuitive 是和心裡模型接得上。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "obvious",
       "interface",
       "user",
-      "adjective",
       "adjective"
     ]
   },

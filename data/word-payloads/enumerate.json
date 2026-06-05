@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.72"
     },
-    "coreIdea": "<code>enumerate</code> 關心的是「逐一列舉、編號或數出」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>enumerate</code> 是逐項數清楚。它比 list 更有完整走過範圍、避免漏項的味道。",
     "definition": {
-      "summary": "表示逐一列舉、編號或數出。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示列舉、枚舉或逐一數出，常用於選項、裝置、案例、條件或狀態。",
       "contrast": {
         "word": "List",
         "note": "<code>list</code> 是列出；<code>enumerate</code> 更強調一項一項完整數過。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>enumerate</code> 可以先記成一個畫面：範圍被定義，接著逐項走過，最後缺漏變明顯。",
-      "explanation": "這個畫面只用來幫你抓住「逐一列舉、編號或數出」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>enumerate</code> 想成 USB host 一個一個辨認 devices。",
+      "explanation": "不是大概知道有東西插著，而是逐項建立可操作清單。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "USB enumerate devices 時，不是描述裝置，而是逐一辨識並建立連線。"
+        "label": "USB",
+        "body": "USB <code>enumerate</code> devices 時，不是描述裝置，而是逐一辨識並建立連線。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>enumerate</code> 和 <code>enumerate options</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "選項",
+        "body": "Before choosing, enumerate options so trade-offs are visible。"
+      },
+      {
+        "label": "測試",
+        "body": "Enumerate edge cases before writing the happy-path test first。"
       }
     ],
     "collocations": {
-      "note": "<code>enumerate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「逐一列舉、編號或數出」落地。",
+      "note": "enumerate 常接 options、devices、cases。搭配都在處理範圍完整性。",
       "items": [
         {
           "phrase": "enumerate options",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「逐一列舉、編號或數出」有明確對象。"
+          "register": "決策 / 文件",
+          "note": "把選項逐項列出，避免只討論最顯眼的一個。"
         },
         {
           "phrase": "enumerate devices",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "USB / 系統",
+          "note": "逐一辨識裝置並建立資訊。"
         },
         {
           "phrase": "enumerate cases",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "測試 / 法律 / 分析",
+          "note": "把案例逐項列出，方便檢查缺漏。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "逐一列舉、編號或數出",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在你要完整逐項走過範圍，而不只是隨便列幾個例子時。"
       },
       "others": [
         {
           "word": "List",
-          "meaning": "<code>list</code> 是列出；<code>enumerate</code> 更強調一項一項完整數過。",
-          "use": "如果句子只需要 list 的普通意思，就保留那個較簡單的字。"
+          "meaning": "列出",
+          "use": "最通用；enumerate 更正式且更強調逐項。"
+        },
+        {
+          "word": "Count",
+          "meaning": "計數",
+          "use": "重數量；enumerate 重列出項目。"
+        },
+        {
+          "word": "Itemize",
+          "meaning": "逐項列明",
+          "use": "常用於費用、清單，和 enumerate 接近。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>enumerate</code> 常把一段觀察收斂成可討論的判斷。USB enumerate devices 時，不是描述裝置，而是逐一辨識並建立連線。",
-      "像 <code>enumerate options</code>、<code>enumerate devices</code>、<code>enumerate cases</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Enumerate</code> 在嵌入式和測試裡很有用，因為很多錯誤來自「以為範圍已經列完」。",
+      "它也有工程名詞義：device enumeration 是一個具體流程，不只是英文寫作技巧。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 enumerate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enumerate 整理成「逐一列舉、編號或數出」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enumerate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "源自 Latin <code>enumerare</code>，意思是數出來。",
-      "memoryLens": "記憶時先抓「逐一列舉、編號或數出」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "數出來的字源很直接；記成讓每一項都有機會被看見。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "list",
       "device",
       "case",
-      "verb",
       "verb"
     ]
   },

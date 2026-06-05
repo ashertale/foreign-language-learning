@@ -63,7 +63,7 @@
       <section class="chapter" id="core">
         <div class="core-card">
           <p class="section-label">Core Idea</p>
-          <p><code>derive</code> 關心的是「從來源推導、取得或衍生」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。</p>
+          <p><code>derive</code> 讓結果帶著來源線。它不是憑空取得，而是能沿著規則或脈絡追回某個源頭。</p>
         </div>
       </section>
 
@@ -73,7 +73,7 @@
         <div class="definition-grid">
           <div class="tile">
             <strong>Derive</strong>
-            <p>表示從來源推導、取得或衍生。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。</p>
+            <p>表示從某來源、前提、規則或資料推導、取得或衍生出來。</p>
           </div>
           <div class="tile">
             <strong>不是 Obtain</strong>
@@ -93,14 +93,14 @@
         <p class="section-label">Origin</p>
         <h2>字源</h2>
         <p>來自 Latin <code>derivare</code>，原有水流從源頭分出的畫面。</p>
-        <p>記憶時先抓「從來源推導、取得或衍生」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。</p>
+        <p>水流從源頭分出的字源畫面很好記：derive 的結果有上游。</p>
       </section>
 
       <section class="chapter" id="memory">
         <p class="section-label">Memory Hook</p>
         <h2>記憶鉤子</h2>
-        <p class="quote-line"><code>derive</code> 可以先記成一個畫面：找到來源，接著沿著規則轉換，最後得到結果。</p>
-        <p>這個畫面只用來幫你抓住「從來源推導、取得或衍生」；真正使用時，要回到句子裡看它標出的邊界。</p>
+        <p class="quote-line">把 <code>derive</code> 想成 derived value 旁邊永遠有 upstream input。</p>
+        <p>一旦追不回來源，debug 就會斷線。</p>
       </section>
 
       <section class="chapter" id="usage">
@@ -108,12 +108,16 @@
         <h2>生活與專業情境</h2>
         <div class="example-grid">
           <div class="example">
-            <strong>實務判斷</strong>
-            <p>derived value 應該能追回原始輸入，否則 debug 時會斷線。</p>
+            <strong>資料</strong>
+            <p><code>Derived</code> value 應該能追回原始輸入，否則 debug 時會斷線。</p>
           </div>
           <div class="example">
-            <strong>寫作語氣</strong>
-            <p>寫作時可以讓 <code>derive</code> 和 <code>derive from</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。</p>
+            <strong>公式</strong>
+            <p>To derive a formula is to show how it follows from earlier assumptions。</p>
+          </div>
+          <div class="example">
+            <strong>字源 / 來源</strong>
+            <p>Many English words derive from Latin, French, or Greek roots。</p>
           </div>
         </div>
       </section>
@@ -121,28 +125,28 @@
       <section class="chapter" id="collocations">
         <p class="section-label">Collocations</p>
         <h2>常見搭配與語域</h2>
-        <p class="overlap-note"><code>derive</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「從來源推導、取得或衍生」落地。</p>
+        <p class="overlap-note">derive 常接 from、formula、value。搭配都在問來源線是否清楚。</p>
         <div class="collocation-list" aria-label="derive collocations">
           <article class="collocation-card">
             <div>
               <strong>derive from</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">通用 / 字源 / 分析</span>
             </div>
-            <p>適合放在正式文件或分析裡，讓「從來源推導、取得或衍生」有明確對象。</p>
+            <p>指出來源，可能是語言、資料、原因或傳統。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>derive a formula</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">數學 / 科學</span>
             </div>
-            <p>語氣比一般說法更收斂，通常用來標出問題的範圍或程度。</p>
+            <p>從前提一步步推導出公式。</p>
           </article>
           <article class="collocation-card">
             <div>
               <strong>derived value</strong>
-              <span class="register-tag">正式 / 專業 / 日常寫作</span>
+              <span class="register-tag">資料 / 程式</span>
             </div>
-            <p>可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。</p>
+            <p>由其他值計算或轉換而來的值。</p>
           </article>
         </div>
       </section>
@@ -163,12 +167,22 @@
               <tr>
                 <td>Derive</td>
                 <td>從來源推導、取得或衍生</td>
-                <td>當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。</td>
+                <td>用在結果必須能追到來源、規則或前提時。</td>
               </tr>
               <tr>
                 <td>Obtain</td>
-                <td><code>obtain</code> 只是取得；<code>derive</code> 強調取得路徑來自某個源頭。</td>
-                <td>如果句子只需要 obtain 的普通意思，就保留那個較簡單的字。</td>
+                <td>取得</td>
+                <td>只說拿到，不說來源或推導路徑。</td>
+              </tr>
+              <tr>
+                <td>Infer</td>
+                <td>推論</td>
+                <td>從證據得出判斷，較重認知推理。</td>
+              </tr>
+              <tr>
+                <td>Extract</td>
+                <td>抽取</td>
+                <td>從某處取出，未必經過推導。</td>
               </tr>
             </tbody>
           </table>
@@ -178,8 +192,8 @@
       <section class="chapter" id="modern">
         <p class="section-label">Modern Use</p>
         <h2>現代延伸</h2>
-        <p>在工作英文裡，<code>derive</code> 常把一段觀察收斂成可討論的判斷。derived value 應該能追回原始輸入，否則 debug 時會斷線。</p>
-        <p>像 <code>derive from</code>、<code>derive a formula</code>、<code>derived value</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。</p>
+        <p><code>Derive</code> 對工程文件很有用，因為它強迫你交代資料 lineage。Derived config、derived metric、derived requirement 都應該說明從哪裡來。</p>
+        <p>它也能用於字源：a word derives from a root。但不要把字源推導和現代用法混為一談。</p>
       </section>
 
       <section class="chapter" id="sources">
@@ -188,7 +202,7 @@
         <div class="source-grid">
           <article class="source-card">
             <strong>詞典來源</strong>
-            <p>定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 derive 的概念邊界與常見語境。</p>
+            <p>定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 derive 整理成「從來源推導、取得或衍生」的學習概念。</p>
             <a href="https://dictionary.cambridge.org/dictionary/english/derive" target="_blank" rel="noreferrer">Cambridge Dictionary</a>
           </article>
           <article class="source-card">

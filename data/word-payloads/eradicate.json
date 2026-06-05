@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>eradicate</code> 關心的是「根除、消滅某問題或疾病」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>eradicate</code> 的目標不是少一點，而是把根拔掉，讓問題不再從同一來源長回來。",
     "definition": {
-      "summary": "表示根除、消滅某問題或疾病。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示根除、消滅或徹底清除疾病、缺陷、貧困、錯誤來源等。",
       "contrast": {
         "word": "Reduce",
         "note": "<code>reduce</code> 是降低；<code>eradicate</code> 是目標放在完全拔掉。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>eradicate</code> 可以先記成一個畫面：找到根部，接著移除來源，最後不讓它再長。",
-      "explanation": "這個畫面只用來幫你抓住「根除、消滅某問題或疾病」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>eradicate</code> flaky tests 想成不是 rerun 到綠，而是拔掉不穩定的根因。",
+      "explanation": "紅燈少一點不是根除；不再長回來才是。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "eradicate flaky tests 的意思不是少幾個紅燈，而是拔掉造成不穩定的根源。"
+        "label": "測試",
+        "body": "<code>Eradicate</code> flaky tests 的意思不是少幾個紅燈，而是拔掉造成不穩定的根源。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>eradicate</code> 和 <code>eradicate disease</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "疾病",
+        "body": "Public health may aim to eradicate a disease, not merely reduce cases."
+      },
+      {
+        "label": "缺陷",
+        "body": "To eradicate defects, you often need process changes, not more heroic inspection."
       }
     ],
     "collocations": {
-      "note": "<code>eradicate</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「根除、消滅某問題或疾病」落地。",
+      "note": "eradicate 常接 disease、defects、poverty。這些搭配的語氣都很大，目標是根本移除。",
       "items": [
         {
           "phrase": "eradicate disease",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「根除、消滅某問題或疾病」有明確對象。"
+          "register": "公共衛生",
+          "note": "使疾病不再存在於某範圍。"
         },
         {
           "phrase": "eradicate defects",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "品質 / 製造",
+          "note": "移除缺陷來源，而不只是抓出缺陷。"
         },
         {
           "phrase": "eradicate poverty",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "政策 / 社會",
+          "note": "語氣宏大，指徹底消除貧困。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "根除、消滅某問題或疾病",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在目標是徹底移除根源，而不是降低數量或影響時。"
       },
       "others": [
         {
           "word": "Reduce",
-          "meaning": "<code>reduce</code> 是降低；<code>eradicate</code> 是目標放在完全拔掉。",
-          "use": "如果句子只需要 reduce 的普通意思，就保留那個較簡單的字。"
+          "meaning": "降低",
+          "use": "只是變少。"
+        },
+        {
+          "word": "Eliminate",
+          "meaning": "消除",
+          "use": "和 eradicate 接近，但 eradicate 的連根拔起畫面更強。"
+        },
+        {
+          "word": "Mitigate",
+          "meaning": "緩解",
+          "use": "降低影響，不一定移除來源。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>eradicate</code> 常把一段觀察收斂成可討論的判斷。eradicate flaky tests 的意思不是少幾個紅燈，而是拔掉造成不穩定的根源。",
-      "像 <code>eradicate disease</code>、<code>eradicate defects</code>、<code>eradicate poverty</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Eradicate</code> 是高承諾字。工程上說 eradicate defects，就要準備談 root cause、prevention 和 verification。",
+      "如果只是降低發生率，用 reduce 或 mitigate 會誠實得多。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 eradicate 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 eradicate 整理成「根除、消滅某問題或疾病」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/eradicate",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>radix</code>「根」；字面畫面就是連根拔起。",
-      "memoryLens": "記憶時先抓「根除、消滅某問題或疾病」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>radix</code> 是根；eradicate 的記憶畫面就是連根拔起。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "root",
       "defect",
       "disease",
-      "verb",
       "verb"
     ]
   },

@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.76"
     },
-    "coreIdea": "<code>harmonize</code> 關心的是「協調、調和，使彼此不衝突」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>harmonize</code> 不是把所有東西壓成同一個，而是調整差異，讓它們能一起運作而不互相刺耳。",
     "definition": {
-      "summary": "表示協調、調和，使彼此不衝突。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示使協調、調和，讓標準、資料、流程、聲音或做法彼此不衝突。",
       "contrast": {
         "word": "Unify",
         "note": "<code>unify</code> 是統一；<code>harmonize</code> 允許差異存在，只要能和聲。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>harmonize</code> 可以先記成一個畫面：多個部分不同，接著調整衝突，最後形成和諧整體。",
-      "explanation": "這個畫面只用來幫你抓住「協調、調和，使彼此不衝突」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>harmonize</code> naming across modules 想成每個模組保留自己的工作，但讀者不再被不同叫法誤導。",
+      "explanation": "目標是和聲，不是單音。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "harmonize naming across modules，目標不是全部長一樣，而是讀者不會被誤導。"
+        "label": "命名",
+        "body": "<code>Harmonize</code> naming across modules，目標不是全部長一樣，而是讀者不會被誤導。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>harmonize</code> 和 <code>harmonize standards</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "標準",
+        "body": "Different teams may harmonize standards so integration stops requiring translation."
+      },
+      {
+        "label": "資料",
+        "body": "To"
       }
     ],
     "collocations": {
-      "note": "<code>harmonize</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「協調、調和，使彼此不衝突」落地。",
+      "note": "harmonize 常接 standards、with、data。搭配都在處理差異如何共存。",
       "items": [
         {
           "phrase": "harmonize standards",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「協調、調和，使彼此不衝突」有明確對象。"
+          "register": "法規 / 工程 / 組織",
+          "note": "讓不同標準彼此協調。"
         },
         {
           "phrase": "harmonize with",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "音樂 / 設計 / 政策",
+          "note": "和某物協調相容。"
         },
         {
           "phrase": "harmonize data",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "資料 / 系統整合",
+          "note": "對齊資料定義和格式，使其能一起使用。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "協調、調和，使彼此不衝突",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在多個不同部分需要協調共存，而不是被消除差異時。"
       },
       "others": [
         {
           "word": "Unify",
-          "meaning": "<code>unify</code> 是統一；<code>harmonize</code> 允許差異存在，只要能和聲。",
-          "use": "如果句子只需要 unify 的普通意思，就保留那個較簡單的字。"
+          "meaning": "統一",
+          "use": "可能把差異合成一套。"
+        },
+        {
+          "word": "Align",
+          "meaning": "對齊",
+          "use": "更通用，可指方向、格式、目標。"
+        },
+        {
+          "word": "Standardize",
+          "meaning": "標準化",
+          "use": "建立共同標準，可能比 harmonize 更硬。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>harmonize</code> 常把一段觀察收斂成可討論的判斷。harmonize naming across modules，目標不是全部長一樣，而是讀者不會被誤導。",
-      "像 <code>harmonize standards</code>、<code>harmonize with</code>、<code>harmonize data</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Harmonize</code> 很適合跨系統整合。它承認各方原本不同，但希望不同不要變成衝突。",
+      "資料 harmonization 最容易做表面：欄位名一樣不代表語意真的一樣。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 harmonize 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 harmonize 整理成「協調、調和，使彼此不衝突」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/harmonize",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 harmony 的和聲概念；重點是差異中的協調。",
-      "memoryLens": "記憶時先抓「協調、調和，使彼此不衝突」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "和聲的字源畫面是核心；harmonize 是差異中的協調。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "unify",
       "standard",
       "naming",
-      "verb",
       "verb"
     ]
   },

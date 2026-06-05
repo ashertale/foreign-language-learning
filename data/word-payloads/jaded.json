@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.63"
     },
-    "coreIdea": "<code>jaded</code> 用來說某個人、系統或局面帶著「看多做到麻木」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>jaded</code> 是看太多、耗太久之後的新鮮感死亡；不是累一天，而是心裡不再被打動。",
     "definition": {
-      "summary": "表示厭倦麻木、失去新鮮感。重點不是程度加強，而是整個對象都帶著「看多做到麻木」這種質地。",
+      "summary": "形容厭倦、麻木、因過度經驗或刺激而失去興趣。",
       "contrast": {
         "word": "Tired",
-        "note": "<code>Tired</code> 可以只是在說「疲倦」；換成 <code>jaded</code>，句子通常是在補上「看多做到麻木」這層更具體的意思。"
+        "note": "<code>tired</code> 是累；<code>jaded</code> 是心對新刺激不再亮。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「看多做到麻木」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "刺激或失望累積太多",
+        "新鮮感下降",
+        "人變得麻木難被打動"
       ]
     },
     "memory": {
-      "hook": "<code>jaded</code> 的畫面是：像同一首歌重播太多次，旋律還在，但耳朵已經不再亮起來。",
-      "explanation": "這個畫面有用，因為它把 jaded 從翻譯拉回場面：你先看到「同一首歌重播太多次」，再比較容易記住它其實在說「看多做到麻木」。"
+      "hook": "把 <code>jaded audience</code> 想成觀眾不是不懂，而是同一套驚喜已經看過太多次。",
+      "explanation": "jaded 的疲乏來自 overexposure。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>jaded worker</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「疲倦」，而是整個對象都帶著「看多做到麻木」這種質地。"
+        "label": "工作者",
+        "body": "A"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 生活 / 情緒 裡，<code>feel jaded</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "感受",
+        "body": "Feeling jaded is different from needing one night's sleep."
       },
       {
-        "label": "延伸版",
-        "body": "到了 媒體 / 內容 的場景，<code>jaded audience</code> 很適合用來練邊界：你要講的到底是一般的「疲倦」，還是更具體的「看多做到麻木」。"
+        "label": "觀眾",
+        "body": "A jaded audience requires honesty more than louder spectacle."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "jaded 常修飾 worker、audience，或用 feel jaded；搭配都含長期耗損後的麻木。",
       "items": [
         {
           "phrase": "jaded worker",
-          "register": "職場 / 狀態",
-          "note": "這個搭配會讓「看多做到麻木」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "職場 / 評論",
+          "note": "厭倦麻木的工作者。"
         },
         {
           "phrase": "feel jaded",
-          "register": "生活 / 情緒",
-          "note": "在 生活 / 情緒 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "日常 / 情緒",
+          "note": "感到厭倦麻木。"
         },
         {
           "phrase": "jaded audience",
-          "register": "媒體 / 內容",
-          "note": "如果你想把這個字用穩，從 媒體 / 內容 常見的這個搭配進場通常最自然。"
+          "register": "媒體 / 藝術",
+          "note": "看多後不易被打動的觀眾。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "看多做到麻木",
-        "use": "當你要強調整體帶著「看太多、做太多之後感覺變鈍」這種質地，而不只是 疲倦 時"
+        "use": "用在疲乏不是身體累，而是長期經驗讓人不再容易被感動時。"
       },
       "others": [
         {
           "word": "Tired",
           "meaning": "疲倦",
-          "use": "當句子只需要 疲倦 這個中性描述，不必把「看太多、做太多之後感覺變鈍」這種氣質壓到前景時"
+          "use": "可能休息後恢復；<code>jaded</code> 是新鮮感和信任被磨掉。"
+        },
+        {
+          "word": "Cynical",
+          "meaning": "犬儒",
+          "use": "重不信任動機；jaded 重過度經驗後的麻木。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>jaded</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「看多做到麻木」這種質地。",
-      "也因此，它和 <code>Tired</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Jaded</code> 很適合描述職場倦怠、媒體疲勞、使用者對行銷套路的麻木。",
+      "它通常帶時間背景：被餵太多、失望太多、看過太多。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 jaded 整理成「看多做到麻木」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/jaded",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 jaded 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/jaded",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "tired",
       "burnout",
       "emotion",
-      "adjective",
-      "jaded"
+      "jaded",
+      "adjective"
     ]
   },
   "sourceAudit": [

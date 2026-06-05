@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>marginal</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「邊際的、微小的或處於邊緣」。",
+    "coreIdea": "<code>marginal</code> 站在邊緣：增益小、差距薄、剛好可接受，或不在中心位置。",
     "definition": {
-      "summary": "形容邊際的、微小的或處於邊緣的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容邊際的、微小的、勉強的或處於邊緣地位的。",
       "contrast": {
         "word": "Minor",
         "note": "<code>minor</code> 是小；<code>marginal</code> 常帶接近邊界、增益有限的判斷。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>marginal</code> 可以先記成一個畫面：站在邊界，接著差異很小，最後是否值得要再算。",
-      "explanation": "這個畫面只用來幫你抓住「邊際的、微小的或處於邊緣」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>marginal</code> improvement 想成性能多 1%，但維護成本多一整套。",
+      "explanation": "小增益不一定不重要，但一定要算值不值得。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "marginal improvement 如果帶來大量維護成本，可能不值得合併。"
+        "label": "效能",
+        "body": "<code>Marginal</code> improvement 如果帶來大量維護成本，可能不值得合併。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>marginal</code> 和 <code>marginal gain</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "成本",
+        "body": "Marginal cost asks what one more unit really costs."
+      },
+      {
+        "label": "增益",
+        "body": "Marginal"
       }
     ],
     "collocations": {
-      "note": "<code>marginal</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「邊際的、微小的或處於邊緣」落地。",
+      "note": "marginal 常接 gain、cost、improvement。搭配多半在算增量值不值得。",
       "items": [
         {
           "phrase": "marginal gain",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「邊際的、微小的或處於邊緣」有明確對象。"
+          "register": "商務 / 工程 / 運動",
+          "note": "小幅增益，可能累積成差異。"
         },
         {
           "phrase": "marginal cost",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "經濟 / 決策",
+          "note": "多做一單位增加的成本。"
         },
         {
           "phrase": "marginal improvement",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工程 / 評估",
+          "note": "改善幅度有限。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "邊際的、微小的或處於邊緣的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在討論邊際增量、接近門檻或不在核心位置時。"
       },
       "others": [
         {
           "word": "Minor",
-          "meaning": "<code>minor</code> 是小；<code>marginal</code> 常帶接近邊界、增益有限的判斷。",
-          "use": "如果句子只需要 minor 的普通意思，就保留那個較簡單的字。"
+          "meaning": "小的、次要的",
+          "use": "較通用。"
+        },
+        {
+          "word": "Incremental",
+          "meaning": "增量式",
+          "use": "一小步一小步增加，未必接近邊界。"
+        },
+        {
+          "word": "Peripheral",
+          "meaning": "周邊的",
+          "use": "位置不在中心。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>marginal</code> 常把一段觀察收斂成可討論的判斷。marginal improvement 如果帶來大量維護成本，可能不值得合併。",
-      "像 <code>marginal gain</code>、<code>marginal cost</code>、<code>marginal improvement</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Marginal</code> 在工程決策裡很好用，因為它逼你看下一點改善的成本。",
+      "小不一定沒價值；marginal gains 若成本低、可累積，就可能非常有價值。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 marginal 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 marginal 整理成「邊際的、微小的或處於邊緣的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/marginal",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 margin 的邊緣概念；經濟和工程語境常談增量。",
-      "memoryLens": "記憶時先抓「邊際的、微小的或處於邊緣的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "margin 的邊緣概念是核心；marginal 常在邊界上做判斷。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "minor",
       "cost",
       "improvement",
-      "adjective",
       "adjective"
     ]
   },

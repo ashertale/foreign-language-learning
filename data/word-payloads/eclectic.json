@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>eclectic</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「兼收並蓄、取自多種來源」。",
+    "coreIdea": "<code>eclectic</code> 不是亂拼，而是有眼光地從不同來源挑東西，組成自己的混合。",
     "definition": {
-      "summary": "形容兼收並蓄、取自多種來源。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容風格、方法、品味或工具組取自多種來源，但背後應有選擇判斷。",
       "contrast": {
         "word": "Random",
         "note": "<code>random</code> 是隨機；<code>eclectic</code> 應該有選擇眼光。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>eclectic</code> 可以先記成一個畫面：來源很多，接著有意識挑選，最後組成新風格。",
-      "explanation": "這個畫面只用來幫你抓住「兼收並蓄、取自多種來源」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>eclectic</code> toolkit 想成每個工具都來自不同地方，但都有被留下的理由。",
+      "explanation": "如果沒有選擇眼光，就只是雜亂。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "eclectic toolkit 可以很強，但每個工具都要知道為什麼被放進來。"
+        "label": "工具",
+        "body": "<code>Eclectic</code> toolkit 可以很強，但每個工具都要知道為什麼被放進來。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>eclectic</code> 和 <code>eclectic mix</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "品味",
+        "body": "Eclectic"
+      },
+      {
+        "label": "方法",
+        "body": "An eclectic approach borrows what works instead of pledging loyalty to one school。"
       }
     ],
     "collocations": {
-      "note": "<code>eclectic</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「兼收並蓄、取自多種來源」落地。",
+      "note": "eclectic 常接 mix、taste、approach。搭配會顯示多來源是品味、方法還是組合。",
       "items": [
         {
           "phrase": "eclectic mix",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「兼收並蓄、取自多種來源」有明確對象。"
+          "register": "寫作 / 評論",
+          "note": "來源多樣但仍能形成有趣組合。"
         },
         {
           "phrase": "eclectic taste",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "藝術 / 日常",
+          "note": "品味跨很多類型，不被單一風格限制。"
         },
         {
           "phrase": "eclectic approach",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "學術 / 工作方法",
+          "note": "從不同方法挑有用部分，而非死守一派。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "兼收並蓄、取自多種來源",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在多來源組合背後有選擇眼光，而不是亂湊時。"
       },
       "others": [
         {
           "word": "Random",
-          "meaning": "<code>random</code> 是隨機；<code>eclectic</code> 應該有選擇眼光。",
-          "use": "如果句子只需要 random 的普通意思，就保留那個較簡單的字。"
+          "meaning": "隨機",
+          "use": "沒有選擇邏輯。"
+        },
+        {
+          "word": "Diverse",
+          "meaning": "多樣",
+          "use": "只是種類多；eclectic 多了挑選者的眼光。"
+        },
+        {
+          "word": "Heterogeneous",
+          "meaning": "異質",
+          "use": "正式描述成分不同，不一定有品味或選擇感。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>eclectic</code> 常把一段觀察收斂成可討論的判斷。eclectic toolkit 可以很強，但每個工具都要知道為什麼被放進來。",
-      "像 <code>eclectic mix</code>、<code>eclectic taste</code>、<code>eclectic approach</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Eclectic</code> 很適合描述成熟工程師的工具觀：不是每個流派都信，而是知道何時借哪一套。",
+      "但 eclectic 也需要整合能力。只會收集不同東西，不會讓它們一起工作，效果會變雜訊。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 eclectic 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 eclectic 整理成「兼收並蓄、取自多種來源」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/eclectic",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "源自 Greek <code>eklegein</code>，有「挑選」的意思。",
-      "memoryLens": "記憶時先抓「兼收並蓄、取自多種來源」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "Greek 裡的「挑選」是核心；eclectic 的美感來自選，不只是多。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "random",
       "toolkit",
       "style",
-      "adjective",
       "adjective"
     ]
   },

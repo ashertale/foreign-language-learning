@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.64"
     },
-    "coreIdea": "<code>negligible</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「微不足道、可忽略」。",
+    "coreIdea": "<code>negligible</code> 不是零，而是小到在這次判斷裡可以安全忽略。",
     "definition": {
-      "summary": "形容微不足道、可忽略的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容影響、風險、差異或數量極小，小到不值得改變判斷。",
       "contrast": {
         "word": "Small",
         "note": "<code>small</code> 是小；<code>negligible</code> 是小到不影響這次判斷。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>negligible</code> 可以先記成一個畫面：量被測出，接著和標準相比很小，最後可從判斷中忽略。",
-      "explanation": "這個畫面只用來幫你抓住「微不足道、可忽略」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>negligible</code> 想成功耗差異還在量測裡，但對 battery life 幾乎沒有實際影響。",
+      "explanation": "它存在，只是沒資格左右這次決策。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "功耗差異 negligible，不代表不存在，而是對 battery life 幾乎沒影響。"
+        "label": "功耗",
+        "body": "功耗差異 <code>negligible</code>，不代表不存在，而是對 battery life 幾乎沒影響。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>negligible</code> 和 <code>negligible impact</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "風險",
+        "body": "A negligible risk may still be recorded, but it should not dominate design."
+      },
+      {
+        "label": "差異",
+        "body": "A negligible difference can matter only if the decision threshold is extremely tight."
       }
     ],
     "collocations": {
-      "note": "<code>negligible</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「微不足道、可忽略」落地。",
+      "note": "negligible 常接 impact、risk、difference。搭配都在問：這個量小到能不能從判斷裡拿掉？",
       "items": [
         {
           "phrase": "negligible impact",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「微不足道、可忽略」有明確對象。"
+          "register": "工程 / 評估",
+          "note": "影響極小，不改變主要判斷。"
         },
         {
           "phrase": "negligible risk",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "風險 / 安全",
+          "note": "風險很低，可記錄但通常不主導決策。"
         },
         {
           "phrase": "negligible difference",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "資料 / 測試",
+          "note": "差異極小，可能落在噪音或容差內。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "微不足道、可忽略的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某個量雖然存在，但小到不應影響目前判斷時。"
       },
       "others": [
         {
           "word": "Small",
-          "meaning": "<code>small</code> 是小；<code>negligible</code> 是小到不影響這次判斷。",
-          "use": "如果句子只需要 small 的普通意思，就保留那個較簡單的字。"
+          "meaning": "小",
+          "use": "只說大小。"
+        },
+        {
+          "word": "Minor",
+          "meaning": "輕微、次要",
+          "use": "小但仍可能值得注意。"
+        },
+        {
+          "word": "Trivial",
+          "meaning": "微不足道",
+          "use": "可比 negligible 更帶輕視語氣。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>negligible</code> 常把一段觀察收斂成可討論的判斷。功耗差異 negligible，不代表不存在，而是對 battery life 幾乎沒影響。",
-      "像 <code>negligible impact</code>、<code>negligible risk</code>、<code>negligible difference</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Negligible</code> 是工程判斷裡很有用的字，因為不是每個可量到的差異都值得處理。",
+      "但它要有基準。negligible relative to what？沒有這句，忽略就可能變成武斷。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 negligible 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 negligible 整理成「微不足道、可忽略的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/negligible",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>neglegere</code>，有忽略、不重視的意思。",
-      "memoryLens": "記憶時先抓「微不足道、可忽略的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "忽略的字源方向很好記；negligible 是小到可以被忽略。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "small",
       "impact",
       "risk",
-      "adjective",
       "adjective"
     ]
   },

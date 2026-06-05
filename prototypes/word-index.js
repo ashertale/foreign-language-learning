@@ -3864,14 +3864,16 @@ window.WORD_INDEX = [
     order: 201,
     cefr: "C1",
     zipf: 3.64,
-    thesis: "不是普通錯誤，而是偏離正常模式、需要被解釋的異常點。",
+    thesis: "不是一般的異常，而是原本穩定的路徑忽然偏航，逼你判斷：這只是一次失準，還是規律變了？",
     tags: [
       "異常",
-      "偏差",
+      "偏離",
+      "deviation",
       "anomaly",
-      "data",
+      "outlier",
+      "statistical aberration",
+      "chromatic aberration",
       "debug",
-      "noun",
       "noun"
     ]
   },
@@ -3883,14 +3885,15 @@ window.WORD_INDEX = [
     order: 202,
     cefr: "B2",
     zipf: 3.88,
-    thesis: "不是口頭同意，而是實際黏在規範、流程或承諾上。",
+    thesis: "不是簽名說有遵守，而是行為真的貼在規範上，時間久了也不滑開。",
     tags: [
       "遵守",
-      "流程",
+      "持續",
       "protocol",
-      "discipline",
+      "standards",
+      "process discipline",
+      "medication adherence",
       "quality",
-      "noun",
       "noun"
     ]
   },
@@ -3902,14 +3905,15 @@ window.WORD_INDEX = [
     order: 203,
     cefr: "B2",
     zipf: 3.84,
-    thesis: "不是大致附近，而是邊界相鄰、下一格就碰到。",
+    thesis: "不是泛泛附近，而是隔著一條邊界就在旁邊，近到可能互相影響。",
     tags: [
       "相鄰",
       "邊界",
       "nearby",
-      "memory",
+      "contiguous",
+      "memory map",
+      "adjacent market",
       "risk",
-      "adjective",
       "adjective"
     ]
   },
@@ -3921,14 +3925,15 @@ window.WORD_INDEX = [
     order: 204,
     cefr: "B2",
     zipf: 4.32,
-    thesis: "不是單純行程表，而是某場討論真正要推進的事項。",
+    thesis: "不是時間表，而是這場討論真正要處理、推動，甚至暗中想完成的事。",
     tags: [
       "議程",
       "事項",
-      "meeting",
+      "meeting agenda",
+      "hidden agenda",
+      "set the agenda",
       "priority",
       "decision",
-      "noun",
       "noun"
     ]
   },
@@ -3940,14 +3945,15 @@ window.WORD_INDEX = [
     order: 205,
     cefr: "B2",
     zipf: 3.88,
-    thesis: "不是只跑得快，而是能在變化來時迅速轉向。",
+    thesis: "不是只求快，而是在變化打過來時，身體輕、判斷快、方向能改。",
     tags: [
       "敏捷",
       "變化",
       "flexible",
+      "nimble",
+      "agile development",
       "process",
       "team",
-      "adjective",
       "adjective"
     ]
   },
@@ -3959,14 +3965,15 @@ window.WORD_INDEX = [
     order: 206,
     cefr: "B2",
     zipf: 3.72,
-    thesis: "不是直接說破，而是用一句話輕輕指向某個意思。",
+    thesis: "不是明說，而是把線頭露出來，讓懂的人自己接到背後那件事。",
     tags: [
       "暗示",
       "間接",
+      "allude to",
       "mention",
+      "imply",
       "writing",
       "reference",
-      "verb",
       "verb"
     ]
   },
@@ -3978,14 +3985,15 @@ window.WORD_INDEX = [
     order: 207,
     cefr: "B2",
     zipf: 3.40,
-    thesis: "不是沒有意見，而是心裡同時拉著兩股相反力量。",
+    thesis: "不是沒感覺，而是同一件事同時拉出想靠近與想退開的兩股力。",
     tags: [
       "矛盾",
       "混合感受",
       "indifferent",
+      "conflicted",
       "decision",
       "tradeoff",
-      "adjective",
+      "psychology",
       "adjective"
     ]
   },
@@ -3997,14 +4005,15 @@ window.WORD_INDEX = [
     order: 208,
     cefr: "B2",
     zipf: 3.92,
-    thesis: "不是例子，而是拿另一個結構相似的東西幫你理解。",
+    thesis: "不是舉例而已，而是借另一個結構相似的東西，讓陌生概念有路可走。",
     tags: [
       "類比",
       "理解",
       "example",
+      "metaphor",
       "model",
       "teaching",
-      "noun",
+      "analogy breaks down",
       "noun"
     ]
   },
@@ -4016,14 +4025,15 @@ window.WORD_INDEX = [
     order: 209,
     cefr: "B2",
     zipf: 3.88,
-    thesis: "不是普通解法，而是專門抵消某種毒性或壞影響的東西。",
+    thesis: "不是泛泛解法，而是對準某種毒性或壞影響，把它中和掉的東西。",
     tags: [
       "解藥",
-      "抵消",
+      "中和",
       "cure",
+      "remedy",
+      "antidote to fear",
       "risk",
-      "fear",
-      "noun",
+      "culture",
       "noun"
     ]
   },
@@ -4035,14 +4045,15 @@ window.WORD_INDEX = [
     order: 210,
     cefr: "B2",
     zipf: 3.84,
-    thesis: "不是只有食慾，也可以是願意承擔某種需求或風險的胃口。",
+    thesis: "不是只有肚子餓，也是一個人或組織願意吃下多少機會、成本與風險。",
     tags: [
       "胃口",
       "需求",
-      "risk",
+      "risk appetite",
+      "growth",
       "business",
       "desire",
-      "noun",
+      "hunger",
       "noun"
     ]
   },
@@ -4061,7 +4072,6 @@ window.WORD_INDEX = [
       "afraid",
       "risk",
       "release",
-      "adjective",
       "adjective"
     ]
   },
@@ -4080,7 +4090,6 @@ window.WORD_INDEX = [
       "skill",
       "learning",
       "talent",
-      "noun",
       "noun"
     ]
   },
@@ -4099,7 +4108,6 @@ window.WORD_INDEX = [
       "goal",
       "career",
       "future",
-      "noun",
       "noun"
     ]
   },
@@ -4118,7 +4126,6 @@ window.WORD_INDEX = [
       "diligent",
       "review",
       "practice",
-      "adjective",
       "adjective"
     ]
   },
@@ -4137,7 +4144,6 @@ window.WORD_INDEX = [
       "independent",
       "system",
       "control",
-      "adjective",
       "adjective"
     ]
   },
@@ -4156,7 +4162,6 @@ window.WORD_INDEX = [
       "dislike",
       "risk",
       "reaction",
-      "noun",
       "noun"
     ]
   },
@@ -4175,7 +4180,6 @@ window.WORD_INDEX = [
       "confuse",
       "debug",
       "mystery",
-      "verb",
       "verb"
     ]
   },
@@ -4194,7 +4198,6 @@ window.WORD_INDEX = [
       "late",
       "timing",
       "response",
-      "adjective",
       "adjective"
     ]
   },
@@ -4213,7 +4216,6 @@ window.WORD_INDEX = [
       "harmless",
       "risk",
       "medical",
-      "adjective",
       "adjective"
     ]
   },
@@ -4232,7 +4234,6 @@ window.WORD_INDEX = [
       "data",
       "judgment",
       "fairness",
-      "noun",
       "noun"
     ]
   },
@@ -4251,7 +4252,6 @@ window.WORD_INDEX = [
       "honest",
       "feedback",
       "tone",
-      "adjective",
       "adjective"
     ]
   },
@@ -4270,7 +4270,6 @@ window.WORD_INDEX = [
       "limit",
       "module",
       "responsibility",
-      "noun",
       "noun"
     ]
   },
@@ -4289,7 +4288,6 @@ window.WORD_INDEX = [
       "unpredictable",
       "decision",
       "behavior",
-      "adjective",
       "adjective"
     ]
   },
@@ -4308,7 +4306,6 @@ window.WORD_INDEX = [
       "timid",
       "rollout",
       "safety",
-      "adjective",
       "adjective"
     ]
   },
@@ -4327,7 +4324,6 @@ window.WORD_INDEX = [
       "avoid",
       "rules",
       "workaround",
-      "verb",
       "verb"
     ]
   },
@@ -4346,7 +4342,6 @@ window.WORD_INDEX = [
       "quote",
       "evidence",
       "spec",
-      "verb",
       "verb"
     ]
   },
@@ -4365,7 +4360,6 @@ window.WORD_INDEX = [
       "polite",
       "rights",
       "discussion",
-      "adjective",
       "adjective"
     ]
   },
@@ -4384,7 +4378,6 @@ window.WORD_INDEX = [
       "alliance",
       "team",
       "policy",
-      "noun",
       "noun"
     ]
   },
@@ -4403,7 +4396,6 @@ window.WORD_INDEX = [
       "cause",
       "correlation",
       "time",
-      "verb",
       "verb"
     ]
   },
@@ -4422,7 +4414,6 @@ window.WORD_INDEX = [
       "cooperate",
       "team",
       "design",
-      "verb",
       "verb"
     ]
   },
@@ -4441,7 +4432,6 @@ window.WORD_INDEX = [
       "praise",
       "recognition",
       "culture",
-      "verb",
       "verb"
     ]
   },
@@ -4460,7 +4450,6 @@ window.WORD_INDEX = [
       "similar",
       "interface",
       "device",
-      "adjective",
       "adjective"
     ]
   },
@@ -4479,7 +4468,6 @@ window.WORD_INDEX = [
       "confident",
       "safety",
       "risk",
-      "adjective",
       "adjective"
     ]
   },
@@ -4498,7 +4486,6 @@ window.WORD_INDEX = [
       "agree",
       "standard",
       "regulation",
-      "verb",
       "verb"
     ]
   },
@@ -4517,7 +4504,6 @@ window.WORD_INDEX = [
       "short",
       "writing",
       "report",
-      "adjective",
       "adjective"
     ]
   },
@@ -4536,7 +4522,6 @@ window.WORD_INDEX = [
       "sequential",
       "tasks",
       "access",
-      "adjective",
       "adjective"
     ]
   },
@@ -4555,7 +4540,6 @@ window.WORD_INDEX = [
       "cause",
       "learning",
       "debug",
-      "adjective",
       "adjective"
     ]
   },
@@ -4574,7 +4558,6 @@ window.WORD_INDEX = [
       "unanimity",
       "team",
       "agreement",
-      "noun",
       "noun"
     ]
   },
@@ -4593,7 +4576,6 @@ window.WORD_INDEX = [
       "impact",
       "decision",
       "change",
-      "adjective",
       "adjective"
     ]
   },
@@ -4612,7 +4594,6 @@ window.WORD_INDEX = [
       "save",
       "energy",
       "resource",
-      "verb",
       "verb"
     ]
   },
@@ -4631,7 +4612,6 @@ window.WORD_INDEX = [
       "identical",
       "naming",
       "result",
-      "adjective",
       "adjective"
     ]
   },
@@ -4650,7 +4630,6 @@ window.WORD_INDEX = [
       "represent",
       "risk",
       "law",
-      "verb",
       "verb"
     ]
   },
@@ -4669,7 +4648,6 @@ window.WORD_INDEX = [
       "explain",
       "data",
       "decision",
-      "verb",
       "verb"
     ]
   },
@@ -4688,7 +4666,6 @@ window.WORD_INDEX = [
       "disagree",
       "evidence",
       "logic",
-      "verb",
       "verb"
     ]
   },
@@ -4707,7 +4684,6 @@ window.WORD_INDEX = [
       "devise",
       "example",
       "solution",
-      "verb",
       "verb"
     ]
   },
@@ -4726,7 +4702,6 @@ window.WORD_INDEX = [
       "standard",
       "design",
       "method",
-      "adjective",
       "adjective"
     ]
   },
@@ -4745,7 +4720,6 @@ window.WORD_INDEX = [
       "opinion",
       "belief",
       "law",
-      "noun",
       "noun"
     ]
   },
@@ -4764,7 +4738,6 @@ window.WORD_INDEX = [
       "organize",
       "release",
       "team",
-      "verb",
       "verb"
     ]
   },
@@ -4783,7 +4756,6 @@ window.WORD_INDEX = [
       "plausible",
       "source",
       "root cause",
-      "adjective",
       "adjective"
     ]
   },
@@ -4802,7 +4774,6 @@ window.WORD_INDEX = [
       "requirement",
       "evaluation",
       "acceptance",
-      "noun",
       "noun"
     ]
   },
@@ -4821,7 +4792,6 @@ window.WORD_INDEX = [
       "develop",
       "habit",
       "trust",
-      "verb",
       "verb"
     ]
   },
@@ -4840,7 +4810,6 @@ window.WORD_INDEX = [
       "system",
       "authority",
       "decision",
-      "verb",
       "verb"
     ]
   },
@@ -4859,7 +4828,6 @@ window.WORD_INDEX = [
       "imperative",
       "config",
       "syntax",
-      "adjective",
       "adjective"
     ]
   },
@@ -4878,7 +4846,6 @@ window.WORD_INDEX = [
       "delay",
       "decision",
       "expert",
-      "verb",
       "verb"
     ]
   },
@@ -4897,7 +4864,6 @@ window.WORD_INDEX = [
       "shortage",
       "budget",
       "skill",
-      "noun",
       "noun"
     ]
   },
@@ -4916,7 +4882,6 @@ window.WORD_INDEX = [
       "assign",
       "task",
       "authority",
-      "verb",
       "verb"
     ]
   },
@@ -4935,7 +4900,6 @@ window.WORD_INDEX = [
       "describe",
       "diagram",
       "scene",
-      "verb",
       "verb"
     ]
   },
@@ -4954,7 +4918,6 @@ window.WORD_INDEX = [
       "source",
       "formula",
       "data",
-      "verb",
       "verb"
     ]
   },
@@ -4973,7 +4936,6 @@ window.WORD_INDEX = [
       "name",
       "role",
       "area",
-      "verb",
       "verb"
     ]
   },
@@ -4992,7 +4954,6 @@ window.WORD_INDEX = [
       "break",
       "performance",
       "quality",
-      "verb",
       "verb"
     ]
   },
@@ -5011,7 +4972,6 @@ window.WORD_INDEX = [
       "plan",
       "test",
       "strategy",
-      "verb",
       "verb"
     ]
   },
@@ -5030,7 +4990,6 @@ window.WORD_INDEX = [
       "guess",
       "fault",
       "symptom",
-      "verb",
       "verb"
     ]
   },
@@ -5049,7 +5008,6 @@ window.WORD_INDEX = [
       "spread",
       "light",
       "responsibility",
-      "verb",
       "verb"
     ]
   },
@@ -5068,7 +5026,6 @@ window.WORD_INDEX = [
       "reduce",
       "trust",
       "risk",
-      "verb",
       "verb"
     ]
   },
@@ -5087,7 +5044,6 @@ window.WORD_INDEX = [
       "secret",
       "message",
       "privacy",
-      "adjective",
       "adjective"
     ]
   },
@@ -5106,7 +5062,6 @@ window.WORD_INDEX = [
       "different",
       "category",
       "root cause",
-      "adjective",
       "adjective"
     ]
   },
@@ -5125,7 +5080,6 @@ window.WORD_INDEX = [
       "supply",
       "portfolio",
       "skills",
-      "verb",
       "verb"
     ]
   },
@@ -5144,7 +5098,6 @@ window.WORD_INDEX = [
       "rule",
       "policy",
       "architecture",
-      "noun",
       "noun"
     ]
   },
@@ -5163,7 +5116,6 @@ window.WORD_INDEX = [
       "strong",
       "fix",
       "design",
-      "adjective",
       "adjective"
     ]
   },
@@ -5182,7 +5134,6 @@ window.WORD_INDEX = [
       "serious",
       "effort",
       "conversation",
-      "adjective",
       "adjective"
     ]
   },
@@ -5201,7 +5152,6 @@ window.WORD_INDEX = [
       "random",
       "toolkit",
       "style",
-      "adjective",
       "adjective"
     ]
   },
@@ -5220,7 +5170,6 @@ window.WORD_INDEX = [
       "fast",
       "algorithm",
       "workflow",
-      "adjective",
       "adjective"
     ]
   },
@@ -5239,7 +5188,6 @@ window.WORD_INDEX = [
       "raise",
       "priority",
       "quality",
-      "verb",
       "verb"
     ]
   },
@@ -5258,7 +5206,6 @@ window.WORD_INDEX = [
       "selected",
       "candidate",
       "upgrade",
-      "adjective",
       "adjective"
     ]
   },
@@ -5277,7 +5224,6 @@ window.WORD_INDEX = [
       "imitate",
       "emulator",
       "behavior",
-      "verb",
       "verb"
     ]
   },
@@ -5296,7 +5242,6 @@ window.WORD_INDEX = [
       "feature",
       "access",
       "API",
-      "verb",
       "verb"
     ]
   },
@@ -5315,7 +5260,6 @@ window.WORD_INDEX = [
       "find",
       "problem",
       "test",
-      "verb",
       "verb"
     ]
   },
@@ -5334,7 +5278,6 @@ window.WORD_INDEX = [
       "lasting",
       "principle",
       "value",
-      "adjective",
       "adjective"
     ]
   },
@@ -5353,7 +5296,6 @@ window.WORD_INDEX = [
       "policy",
       "constraint",
       "rule",
-      "verb",
       "verb"
     ]
   },
@@ -5372,7 +5314,6 @@ window.WORD_INDEX = [
       "performance",
       "security",
       "quality",
-      "verb",
       "verb"
     ]
   },
@@ -5391,7 +5332,6 @@ window.WORD_INDEX = [
       "data",
       "context",
       "experience",
-      "verb",
       "verb"
     ]
   },
@@ -5410,7 +5350,6 @@ window.WORD_INDEX = [
       "business",
       "software",
       "scale",
-      "noun",
       "noun"
     ]
   },
@@ -5429,7 +5368,6 @@ window.WORD_INDEX = [
       "list",
       "device",
       "case",
-      "verb",
       "verb"
     ]
   },
@@ -5448,7 +5386,6 @@ window.WORD_INDEX = [
       "equal",
       "access",
       "workload",
-      "adjective",
       "adjective"
     ]
   },
@@ -5467,7 +5404,6 @@ window.WORD_INDEX = [
       "root",
       "defect",
       "disease",
-      "verb",
       "verb"
     ]
   },
@@ -5486,7 +5422,6 @@ window.WORD_INDEX = [
       "increase",
       "issue",
       "severity",
-      "verb",
       "verb"
     ]
   },
@@ -5505,7 +5440,6 @@ window.WORD_INDEX = [
       "detail",
       "design",
       "meaning",
-      "noun",
       "noun"
     ]
   },
@@ -5524,7 +5458,6 @@ window.WORD_INDEX = [
       "check",
       "risk",
       "option",
-      "verb",
       "verb"
     ]
   },
@@ -5543,7 +5476,6 @@ window.WORD_INDEX = [
       "difficult",
       "standard",
       "requirement",
-      "adjective",
       "adjective"
     ]
   },
@@ -5562,7 +5494,6 @@ window.WORD_INDEX = [
       "good",
       "case",
       "performance",
-      "adjective",
       "adjective"
     ]
   },
@@ -5581,7 +5512,6 @@ window.WORD_INDEX = [
       "excluded",
       "policy",
       "status",
-      "adjective",
       "adjective"
     ]
   },
@@ -5600,7 +5530,6 @@ window.WORD_INDEX = [
       "influence",
       "pressure",
       "effort",
-      "verb",
       "verb"
     ]
   },
@@ -5619,7 +5548,6 @@ window.WORD_INDEX = [
       "implicit",
       "dependency",
       "instruction",
-      "adjective",
       "adjective"
     ]
   },
@@ -5638,7 +5566,6 @@ window.WORD_INDEX = [
       "use",
       "security",
       "opportunity",
-      "verb",
       "verb"
     ]
   },
@@ -5657,7 +5584,6 @@ window.WORD_INDEX = [
       "risk",
       "security",
       "experience",
-      "noun",
       "noun"
     ]
   },
@@ -5676,7 +5602,6 @@ window.WORD_INDEX = [
       "make",
       "evidence",
       "parts",
-      "verb",
       "verb"
     ]
   },
@@ -5695,7 +5620,6 @@ window.WORD_INDEX = [
       "mistake",
       "logic",
       "causation",
-      "noun",
       "noun"
     ]
   },
@@ -5714,7 +5638,6 @@ window.WORD_INDEX = [
       "quality",
       "signal",
       "prototype",
-      "noun",
       "noun"
     ]
   },
@@ -5733,7 +5656,6 @@ window.WORD_INDEX = [
       "limited",
       "resource",
       "state",
-      "adjective",
       "adjective"
     ]
   },
@@ -5752,7 +5674,6 @@ window.WORD_INDEX = [
       "loose",
       "interface",
       "design",
-      "adjective",
       "adjective"
     ]
   },
@@ -5771,7 +5692,6 @@ window.WORD_INDEX = [
       "future",
       "planning",
       "debug",
-      "noun",
       "noun"
     ]
   },
@@ -5790,7 +5710,6 @@ window.WORD_INDEX = [
       "difficult",
       "challenge",
       "opponent",
-      "adjective",
       "adjective"
     ]
   },
@@ -5809,7 +5728,6 @@ window.WORD_INDEX = [
       "piece",
       "memory",
       "log",
-      "noun",
       "noun"
     ]
   },
@@ -5828,7 +5746,6 @@ window.WORD_INDEX = [
       "tool",
       "thinking",
       "software",
-      "noun",
       "noun"
     ]
   },
@@ -5847,7 +5764,6 @@ window.WORD_INDEX = [
       "kind",
       "margin",
       "support",
-      "adjective",
       "adjective"
     ]
   },
@@ -5866,7 +5782,6 @@ window.WORD_INDEX = [
       "real",
       "concern",
       "parts",
-      "adjective",
       "adjective"
     ]
   },
@@ -5885,7 +5800,6 @@ window.WORD_INDEX = [
       "sudden",
       "rollout",
       "change",
-      "adjective",
       "adjective"
     ]
   },
@@ -5904,7 +5818,6 @@ window.WORD_INDEX = [
       "weight",
       "incident",
       "trust",
-      "noun",
       "noun"
     ]
   },
@@ -5923,7 +5836,6 @@ window.WORD_INDEX = [
       "evidence",
       "proposal",
       "reality",
-      "adjective",
       "adjective"
     ]
   },
@@ -5942,7 +5854,6 @@ window.WORD_INDEX = [
       "unify",
       "standard",
       "naming",
-      "verb",
       "verb"
     ]
   },
@@ -5961,7 +5872,6 @@ window.WORD_INDEX = [
       "layered",
       "structure",
       "data",
-      "adjective",
       "adjective"
     ]
   },
@@ -5980,7 +5890,6 @@ window.WORD_INDEX = [
       "complete",
       "system",
       "assessment",
-      "adjective",
       "adjective"
     ]
   },
@@ -5999,7 +5908,6 @@ window.WORD_INDEX = [
       "modest",
       "learning",
       "debug",
-      "adjective",
       "adjective"
     ]
   },
@@ -6018,7 +5926,6 @@ window.WORD_INDEX = [
       "conclusion",
       "debug",
       "evidence",
-      "noun",
       "noun"
     ]
   },
@@ -6037,7 +5944,6 @@ window.WORD_INDEX = [
       "neutral",
       "review",
       "evidence",
-      "adjective",
       "adjective"
     ]
   },
@@ -6056,7 +5962,6 @@ window.WORD_INDEX = [
       "plan",
       "feature",
       "policy",
-      "verb",
       "verb"
     ]
   },
@@ -6075,7 +5980,6 @@ window.WORD_INDEX = [
       "assumption",
       "dependency",
       "meaning",
-      "adjective",
       "adjective"
     ]
   },
@@ -6094,7 +5998,6 @@ window.WORD_INDEX = [
       "plan",
       "lab",
       "solution",
-      "verb",
       "verb"
     ]
   },
@@ -6113,7 +6016,6 @@ window.WORD_INDEX = [
       "testing",
       "resource",
       "quality",
-      "adjective",
       "adjective"
     ]
   },
@@ -6132,7 +6034,6 @@ window.WORD_INDEX = [
       "useful",
       "tool",
       "role",
-      "adjective",
       "adjective"
     ]
   },
@@ -6151,7 +6052,6 @@ window.WORD_INDEX = [
       "cause",
       "test",
       "response",
-      "verb",
       "verb"
     ]
   },
@@ -6170,7 +6070,6 @@ window.WORD_INDEX = [
       "likely",
       "consequence",
       "tradeoff",
-      "adjective",
       "adjective"
     ]
   },
@@ -6189,7 +6088,6 @@ window.WORD_INDEX = [
       "feature",
       "test",
       "system",
-      "noun",
       "noun"
     ]
   },
@@ -6208,7 +6106,6 @@ window.WORD_INDEX = [
       "task",
       "project",
       "leadership",
-      "noun",
       "noun"
     ]
   },
@@ -6227,7 +6124,6 @@ window.WORD_INDEX = [
       "information",
       "pattern",
       "data",
-      "noun",
       "noun"
     ]
   },
@@ -6246,7 +6142,6 @@ window.WORD_INDEX = [
       "data",
       "trust",
       "structure",
-      "noun",
       "noun"
     ]
   },
@@ -6265,7 +6160,6 @@ window.WORD_INDEX = [
       "complicated",
       "timing",
       "design",
-      "adjective",
       "adjective"
     ]
   },
@@ -6284,7 +6178,6 @@ window.WORD_INDEX = [
       "obvious",
       "interface",
       "user",
-      "adjective",
       "adjective"
     ]
   },
@@ -6303,7 +6196,6 @@ window.WORD_INDEX = [
       "reasonable",
       "authority",
       "concern",
-      "adjective",
       "adjective"
     ]
   },
@@ -6322,7 +6214,6 @@ window.WORD_INDEX = [
       "risk",
       "legal",
       "legacy",
-      "noun",
       "noun"
     ]
   },
@@ -6341,7 +6232,6 @@ window.WORD_INDEX = [
       "sequence",
       "memory",
       "relationship",
-      "adjective",
       "adjective"
     ]
   },
@@ -6360,7 +6250,6 @@ window.WORD_INDEX = [
       "battery",
       "product",
       "time",
-      "noun",
       "noun"
     ]
   },
@@ -6379,7 +6268,6 @@ window.WORD_INDEX = [
       "show",
       "symptom",
       "behavior",
-      "verb",
       "verb"
     ]
   },
@@ -6398,7 +6286,6 @@ window.WORD_INDEX = [
       "minor",
       "cost",
       "improvement",
-      "adjective",
       "adjective"
     ]
   },
@@ -6417,7 +6304,6 @@ window.WORD_INDEX = [
       "old",
       "technology",
       "judgment",
-      "adjective",
       "adjective"
     ]
   },
@@ -6436,7 +6322,6 @@ window.WORD_INDEX = [
       "worth",
       "proposal",
       "technical",
-      "noun",
       "noun"
     ]
   },
@@ -6455,7 +6340,6 @@ window.WORD_INDEX = [
       "data",
       "system",
       "compatibility",
-      "noun",
       "noun"
     ]
   },
@@ -6474,7 +6358,6 @@ window.WORD_INDEX = [
       "small",
       "claim",
       "improvement",
-      "adjective",
       "adjective"
     ]
   },
@@ -6493,7 +6376,6 @@ window.WORD_INDEX = [
       "speed",
       "project",
       "progress",
-      "noun",
       "noun"
     ]
   },
@@ -6512,7 +6394,6 @@ window.WORD_INDEX = [
       "uncertainty",
       "complexity",
       "route",
-      "verb",
       "verb"
     ]
   },
@@ -6531,7 +6412,6 @@ window.WORD_INDEX = [
       "small",
       "impact",
       "risk",
-      "adjective",
       "adjective"
     ]
   },
@@ -6550,7 +6430,6 @@ window.WORD_INDEX = [
       "language",
       "position",
       "fairness",
-      "adjective",
       "adjective"
     ]
   },
@@ -6569,7 +6448,6 @@ window.WORD_INDEX = [
       "beginner",
       "user",
       "learning",
-      "noun",
       "noun"
     ]
   },
@@ -6588,7 +6466,6 @@ window.WORD_INDEX = [
       "metric",
       "assessment",
       "subjective",
-      "adjective",
       "adjective"
     ]
   },
@@ -6607,7 +6484,6 @@ window.WORD_INDEX = [
       "old",
       "API",
       "technology",
-      "adjective",
       "adjective"
     ]
   },
@@ -6626,7 +6502,6 @@ window.WORD_INDEX = [
       "error",
       "detail",
       "release",
-      "noun",
       "noun"
     ]
   },
@@ -6645,7 +6520,6 @@ window.WORD_INDEX = [
       "complex",
       "error",
       "system",
-      "adjective",
       "adjective"
     ]
   },
@@ -6664,7 +6538,6 @@ window.WORD_INDEX = [
       "onboarding",
       "context",
       "position",
-      "verb",
       "verb"
     ]
   },
@@ -6683,7 +6556,6 @@ window.WORD_INDEX = [
       "fix",
       "view",
       "bias",
-      "adjective",
       "adjective"
     ]
   },
@@ -6702,7 +6574,6 @@ window.WORD_INDEX = [
       "bug",
       "memory",
       "effort",
-      "adjective",
       "adjective"
     ]
   },
@@ -6721,8 +6592,8 @@ window.WORD_INDEX = [
       "resign",
       "power",
       "leadership",
-      "verb",
-      "abdicate"
+      "abdicate",
+      "verb"
     ]
   },
   {
@@ -6740,8 +6611,8 @@ window.WORD_INDEX = [
       "obey",
       "rules",
       "agreement",
-      "verb",
-      "abide"
+      "abide",
+      "verb"
     ]
   },
   {
@@ -6759,8 +6630,8 @@ window.WORD_INDEX = [
       "exist",
       "opportunity",
       "observation",
-      "verb",
-      "abound"
+      "abound",
+      "verb"
     ]
   },
   {
@@ -6778,8 +6649,8 @@ window.WORD_INDEX = [
       "complicated",
       "theory",
       "reading",
-      "adjective",
-      "abstruse"
+      "abstruse",
+      "adjective"
     ]
   },
   {
@@ -6797,8 +6668,8 @@ window.WORD_INDEX = [
       "agree",
       "negotiation",
       "policy",
-      "verb",
-      "accede"
+      "accede",
+      "verb"
     ]
   },
   {
@@ -6816,8 +6687,8 @@ window.WORD_INDEX = [
       "praise",
       "recognition",
       "career",
-      "noun",
-      "accolade"
+      "accolade",
+      "noun"
     ]
   },
   {
@@ -6835,8 +6706,8 @@ window.WORD_INDEX = [
       "skilled",
       "technique",
       "negotiation",
-      "adjective",
-      "adroit"
+      "adroit",
+      "adjective"
     ]
   },
   {
@@ -6854,8 +6725,8 @@ window.WORD_INDEX = [
       "polite",
       "teamwork",
       "impression",
-      "adjective",
-      "affable"
+      "affable",
+      "adjective"
     ]
   },
   {
@@ -6873,8 +6744,8 @@ window.WORD_INDEX = [
       "eagerness",
       "response",
       "attitude",
-      "noun",
-      "alacrity"
+      "alacrity",
+      "noun"
     ]
   },
   {
@@ -6892,8 +6763,8 @@ window.WORD_INDEX = [
       "offend",
       "relationships",
       "audience",
-      "verb",
-      "alienate"
+      "alienate",
+      "verb"
     ]
   },
   {
@@ -6911,8 +6782,8 @@ window.WORD_INDEX = [
       "ease",
       "communication",
       "anxiety",
-      "verb",
-      "allay"
+      "allay",
+      "verb"
     ]
   },
   {
@@ -6930,8 +6801,8 @@ window.WORD_INDEX = [
       "assign",
       "resources",
       "scheduling",
-      "verb",
-      "allot"
+      "allot",
+      "verb"
     ]
   },
   {
@@ -6949,8 +6820,8 @@ window.WORD_INDEX = [
       "shy",
       "personality",
       "social",
-      "adjective",
-      "aloof"
+      "aloof",
+      "adjective"
     ]
   },
   {
@@ -6968,8 +6839,8 @@ window.WORD_INDEX = [
       "generous",
       "ethics",
       "society",
-      "adjective",
-      "altruistic"
+      "altruistic",
+      "adjective"
     ]
   },
   {
@@ -6987,8 +6858,8 @@ window.WORD_INDEX = [
       "combine",
       "integration",
       "organization",
-      "verb",
-      "amalgamate"
+      "amalgamate",
+      "verb"
     ]
   },
   {
@@ -7006,8 +6877,8 @@ window.WORD_INDEX = [
       "improve",
       "policy",
       "repair",
-      "verb",
-      "ameliorate"
+      "ameliorate",
+      "verb"
     ]
   },
   {
@@ -7025,8 +6896,8 @@ window.WORD_INDEX = [
       "willing",
       "feedback",
       "change",
-      "adjective",
-      "amenable"
+      "amenable",
+      "adjective"
     ]
   },
   {
@@ -7044,8 +6915,8 @@ window.WORD_INDEX = [
       "friendly",
       "settlement",
       "relationships",
-      "adjective",
-      "amicable"
+      "amicable",
+      "adjective"
     ]
   },
   {
@@ -7063,8 +6934,8 @@ window.WORD_INDEX = [
       "wrong",
       "quality",
       "intuition",
-      "adjective",
-      "amiss"
+      "amiss",
+      "adjective"
     ]
   },
   {
@@ -7082,8 +6953,8 @@ window.WORD_INDEX = [
       "secondary",
       "services",
       "tools",
-      "adjective",
-      "ancillary"
+      "ancillary",
+      "adjective"
     ]
   },
   {
@@ -7101,8 +6972,8 @@ window.WORD_INDEX = [
       "annoy",
       "conflict",
       "communication",
-      "verb",
-      "antagonize"
+      "antagonize",
+      "verb"
     ]
   },
   {
@@ -7120,8 +6991,8 @@ window.WORD_INDEX = [
       "understand",
       "analysis",
       "learning",
-      "verb",
-      "apprehend"
+      "apprehend",
+      "verb"
     ]
   },
   {
@@ -7139,8 +7010,8 @@ window.WORD_INDEX = [
       "relevant",
       "writing",
       "timing",
-      "adjective",
-      "apropos"
+      "apropos",
+      "adjective"
     ]
   },
   {
@@ -7158,8 +7029,8 @@ window.WORD_INDEX = [
       "enthusiastic",
       "support",
       "interest",
-      "adjective",
-      "ardent"
+      "ardent",
+      "adjective"
     ]
   },
   {
@@ -7177,8 +7048,8 @@ window.WORD_INDEX = [
       "difficult",
       "effort",
       "project",
-      "adjective",
-      "arduous"
+      "arduous",
+      "adjective"
     ]
   },
   {
@@ -7196,8 +7067,8 @@ window.WORD_INDEX = [
       "attribute",
       "cause",
       "analysis",
-      "verb",
-      "ascribe"
+      "ascribe",
+      "verb"
     ]
   },
   {
@@ -7215,8 +7086,8 @@ window.WORD_INDEX = [
       "attack",
       "criticism",
       "pressure",
-      "verb",
-      "assail"
+      "assail",
+      "verb"
     ]
   },
   {
@@ -7234,8 +7105,8 @@ window.WORD_INDEX = [
       "apologize",
       "repair",
       "ethics",
-      "verb",
-      "atone"
+      "atone",
+      "verb"
     ]
   },
   {
@@ -7253,8 +7124,8 @@ window.WORD_INDEX = [
       "decline",
       "retention",
       "wear",
-      "noun",
-      "attrition"
+      "attrition",
+      "noun"
     ]
   },
   {
@@ -7272,8 +7143,8 @@ window.WORD_INDEX = [
       "promising",
       "start",
       "sign",
-      "adjective",
-      "auspicious"
+      "auspicious",
+      "adjective"
     ]
   },
   {
@@ -7291,8 +7162,8 @@ window.WORD_INDEX = [
       "help",
       "effort",
       "resources",
-      "verb",
-      "avail"
+      "avail",
+      "verb"
     ]
   },
   {
@@ -7310,8 +7181,8 @@ window.WORD_INDEX = [
       "interested",
       "learning",
       "interest",
-      "adjective",
-      "avid"
+      "avid",
+      "adjective"
     ]
   },
   {
@@ -7329,8 +7200,8 @@ window.WORD_INDEX = [
       "common",
       "writing",
       "creativity",
-      "adjective",
-      "banal"
+      "banal",
+      "adjective"
     ]
   },
   {
@@ -7348,8 +7219,8 @@ window.WORD_INDEX = [
       "stream",
       "questions",
       "media",
-      "noun",
-      "barrage"
+      "barrage",
+      "noun"
     ]
   },
   {
@@ -7367,8 +7238,8 @@ window.WORD_INDEX = [
       "hide",
       "appearance",
       "data",
-      "verb",
-      "belie"
+      "belie",
+      "verb"
     ]
   },
   {
@@ -7386,8 +7257,8 @@ window.WORD_INDEX = [
       "deprived",
       "loss",
       "support",
-      "adjective",
-      "bereft"
+      "bereft",
+      "adjective"
     ]
   },
   {
@@ -7405,8 +7276,8 @@ window.WORD_INDEX = [
       "obvious",
       "bias",
       "quality",
-      "adjective",
-      "blatant"
+      "blatant",
+      "adjective"
     ]
   },
   {
@@ -7424,8 +7295,8 @@ window.WORD_INDEX = [
       "carefree",
       "risk",
       "attitude",
-      "adjective",
-      "blithe"
+      "blithe",
+      "adjective"
     ]
   },
   {
@@ -7443,8 +7314,8 @@ window.WORD_INDEX = [
       "bold",
       "conflict",
       "criticism",
-      "adjective",
-      "brazen"
+      "brazen",
+      "adjective"
     ]
   },
   {
@@ -7462,8 +7333,8 @@ window.WORD_INDEX = [
       "conciseness",
       "writing",
       "clarity",
-      "noun",
-      "brevity"
+      "brevity",
+      "noun"
     ]
   },
   {
@@ -7481,8 +7352,8 @@ window.WORD_INDEX = [
       "mention",
       "conversation",
       "feedback",
-      "verb",
-      "broach"
+      "broach",
+      "verb"
     ]
   },
   {
@@ -7500,8 +7371,8 @@ window.WORD_INDEX = [
       "worry",
       "emotion",
       "reflection",
-      "verb",
-      "brood"
+      "brood",
+      "verb"
     ]
   },
   {
@@ -7519,8 +7390,8 @@ window.WORD_INDEX = [
       "blunt",
       "communication",
       "impression",
-      "adjective",
-      "brusque"
+      "brusque",
+      "adjective"
     ]
   },
   {
@@ -7538,8 +7409,8 @@ window.WORD_INDEX = [
       "fumble",
       "execution",
       "repair",
-      "verb",
-      "bungle"
+      "bungle",
+      "verb"
     ]
   },
   {
@@ -7557,8 +7428,8 @@ window.WORD_INDEX = [
       "expand",
       "growth",
       "interest",
-      "verb",
-      "burgeon"
+      "burgeon",
+      "verb"
     ]
   },
   {
@@ -7576,8 +7447,8 @@ window.WORD_INDEX = [
       "complex",
       "process",
       "systems",
-      "adjective",
-      "byzantine"
+      "byzantine",
+      "adjective"
     ]
   },
   {
@@ -7595,8 +7466,8 @@ window.WORD_INDEX = [
       "persuade",
       "negotiation",
       "teamwork",
-      "verb",
-      "cajole"
+      "cajole",
+      "verb"
     ]
   },
   {
@@ -7614,8 +7485,8 @@ window.WORD_INDEX = [
       "survey",
       "interviews",
       "election",
-      "verb",
-      "canvass"
+      "canvass",
+      "verb"
     ]
   },
   {
@@ -7633,8 +7504,8 @@ window.WORD_INDEX = [
       "yield",
       "pressure",
       "conflict",
-      "verb",
-      "capitulate"
+      "capitulate",
+      "verb"
     ]
   },
   {
@@ -7652,8 +7523,8 @@ window.WORD_INDEX = [
       "give",
       "power",
       "control",
-      "verb",
-      "cede"
+      "cede",
+      "verb"
     ]
   },
   {
@@ -7671,8 +7542,8 @@ window.WORD_INDEX = [
       "criticize",
       "governance",
       "ethics",
-      "verb",
-      "censure"
+      "censure",
+      "verb"
     ]
   },
   {
@@ -7690,8 +7561,8 @@ window.WORD_INDEX = [
       "intellectual",
       "analysis",
       "style",
-      "adjective",
-      "cerebral"
+      "cerebral",
+      "adjective"
     ]
   },
   {
@@ -7709,8 +7580,8 @@ window.WORD_INDEX = [
       "irritate",
       "friction",
       "frustration",
-      "verb",
-      "chafe"
+      "chafe",
+      "verb"
     ]
   },
   {
@@ -7728,8 +7599,8 @@ window.WORD_INDEX = [
       "rebuke",
       "discipline",
       "feedback",
-      "verb",
-      "chastise"
+      "chastise",
+      "verb"
     ]
   },
   {
@@ -7747,8 +7618,8 @@ window.WORD_INDEX = [
       "excuse",
       "ethics",
       "behavior",
-      "verb",
-      "condone"
+      "condone",
+      "verb"
     ]
   },
   {
@@ -7766,8 +7637,8 @@ window.WORD_INDEX = [
       "interpret",
       "meaning",
       "law",
-      "verb",
-      "construe"
+      "construe",
+      "verb"
     ]
   },
   {
@@ -7785,8 +7656,8 @@ window.WORD_INDEX = [
       "violate",
       "law",
       "policy",
-      "verb",
-      "contravene"
+      "contravene",
+      "verb"
     ]
   },
   {
@@ -7804,8 +7675,8 @@ window.WORD_INDEX = [
       "regret",
       "apology",
       "ethics",
-      "noun",
-      "contrition"
+      "contrition",
+      "noun"
     ]
   },
   {
@@ -7823,8 +7694,8 @@ window.WORD_INDEX = [
       "want",
       "desire",
       "competition",
-      "verb",
-      "covet"
+      "covet",
+      "verb"
     ]
   },
   {
@@ -7842,8 +7713,8 @@ window.WORD_INDEX = [
       "hide",
       "fear",
       "power",
-      "verb",
-      "cower"
+      "cower",
+      "verb"
     ]
   },
   {
@@ -7861,8 +7732,8 @@ window.WORD_INDEX = [
       "superficial",
       "review",
       "inspection",
-      "adjective",
-      "cursory"
+      "cursory",
+      "adjective"
     ]
   },
   {
@@ -7880,8 +7751,8 @@ window.WORD_INDEX = [
       "skeptical",
       "trust",
       "politics",
-      "adjective",
-      "cynical"
+      "cynical",
+      "adjective"
     ]
   },
   {
@@ -7899,8 +7770,8 @@ window.WORD_INDEX = [
       "intimidate",
       "challenge",
       "scale",
-      "verb",
-      "daunt"
+      "daunt",
+      "verb"
     ]
   },
   {
@@ -7918,8 +7789,8 @@ window.WORD_INDEX = [
       "degrade",
       "value",
       "ethics",
-      "verb",
-      "debase"
+      "debase",
+      "verb"
     ]
   },
   {
@@ -7937,8 +7808,8 @@ window.WORD_INDEX = [
       "weaken",
       "health",
       "systems",
-      "verb",
-      "debilitate"
+      "debilitate",
+      "verb"
     ]
   },
   {
@@ -7956,8 +7827,8 @@ window.WORD_INDEX = [
       "disprove",
       "myth",
       "fact-checking",
-      "verb",
-      "debunk"
+      "debunk",
+      "verb"
     ]
   },
   {
@@ -7975,8 +7846,8 @@ window.WORD_INDEX = [
       "luxury",
       "culture",
       "style",
-      "adjective",
-      "decadent"
+      "decadent",
+      "adjective"
     ]
   },
   {
@@ -7994,8 +7865,8 @@ window.WORD_INDEX = [
       "stubborn",
       "resistance",
       "authority",
-      "adjective",
-      "defiant"
+      "defiant",
+      "adjective"
     ]
   },
   {
@@ -8013,8 +7884,8 @@ window.WORD_INDEX = [
       "condemn",
       "public",
       "ethics",
-      "verb",
-      "denounce"
+      "denounce",
+      "verb"
     ]
   },
   {
@@ -8032,8 +7903,8 @@ window.WORD_INDEX = [
       "criticize",
       "maintenance",
       "ethics",
-      "verb",
-      "deprecate"
+      "deprecate",
+      "verb"
     ]
   },
   {
@@ -8051,8 +7922,8 @@ window.WORD_INDEX = [
       "mock",
       "contempt",
       "conflict",
-      "verb",
-      "deride"
+      "deride",
+      "verb"
     ]
   },
   {
@@ -8070,8 +7941,8 @@ window.WORD_INDEX = [
       "stop",
       "warning",
       "restraint",
-      "verb",
-      "desist"
+      "desist",
+      "verb"
     ]
   },
   {
@@ -8089,8 +7960,8 @@ window.WORD_INDEX = [
       "lonely",
       "landscape",
       "emotion",
-      "adjective",
-      "desolate"
+      "desolate",
+      "adjective"
     ]
   },
   {
@@ -8108,8 +7979,8 @@ window.WORD_INDEX = [
       "disperse",
       "heat",
       "tension",
-      "verb",
-      "dissipate"
+      "dissipate",
+      "verb"
     ]
   },
   {
@@ -8127,8 +7998,8 @@ window.WORD_INDEX = [
       "sell",
       "assets",
       "restructuring",
-      "verb",
-      "divest"
+      "divest",
+      "verb"
     ]
   },
   {
@@ -8146,8 +8017,8 @@ window.WORD_INDEX = [
       "determined",
       "persistence",
       "effort",
-      "adjective",
-      "dogged"
+      "dogged",
+      "adjective"
     ]
   },
   {
@@ -8165,8 +8036,8 @@ window.WORD_INDEX = [
       "match",
       "integration",
       "scheduling",
-      "verb",
-      "dovetail"
+      "dovetail",
+      "verb"
     ]
   },
   {
@@ -8184,8 +8055,8 @@ window.WORD_INDEX = [
       "severe",
       "change",
       "crisis",
-      "adjective",
-      "drastic"
+      "drastic",
+      "adjective"
     ]
   },
   {
@@ -8203,8 +8074,8 @@ window.WORD_INDEX = [
       "fade",
       "energy",
       "tide",
-      "verb",
-      "ebb"
+      "ebb",
+      "verb"
     ]
   },
   {
@@ -8222,8 +8093,8 @@ window.WORD_INDEX = [
       "erase",
       "trace",
       "cleanup",
-      "verb",
-      "efface"
+      "efface",
+      "verb"
     ]
   },
   {
@@ -8241,8 +8112,8 @@ window.WORD_INDEX = [
       "pass",
       "time",
       "process",
-      "verb",
-      "elapse"
+      "elapse",
+      "verb"
     ]
   },
   {
@@ -8260,8 +8131,8 @@ window.WORD_INDEX = [
       "clarify",
       "teaching",
       "research",
-      "verb",
-      "elucidate"
+      "elucidate",
+      "verb"
     ]
   },
   {
@@ -8279,8 +8150,8 @@ window.WORD_INDEX = [
       "radiate",
       "source",
       "atmosphere",
-      "verb",
-      "emanate"
+      "emanate",
+      "verb"
     ]
   },
   {
@@ -8298,8 +8169,8 @@ window.WORD_INDEX = [
       "upset",
       "resentment",
       "relationships",
-      "verb",
-      "embitter"
+      "embitter",
+      "verb"
     ]
   },
   {
@@ -8317,8 +8188,8 @@ window.WORD_INDEX = [
       "decorate",
       "writing",
       "design",
-      "verb",
-      "embellish"
+      "embellish",
+      "verb"
     ]
   },
   {
@@ -8336,8 +8207,8 @@ window.WORD_INDEX = [
       "implement",
       "policy",
       "law",
-      "verb",
-      "enact"
+      "enact",
+      "verb"
     ]
   },
   {
@@ -8355,8 +8226,8 @@ window.WORD_INDEX = [
       "effort",
       "project",
       "pursuit",
-      "noun",
-      "endeavor"
+      "endeavor",
+      "noun"
     ]
   },
   {
@@ -8374,8 +8245,8 @@ window.WORD_INDEX = [
       "mystery",
       "analysis",
       "persona",
-      "noun",
-      "enigma"
+      "enigma",
+      "noun"
     ]
   },
   {
@@ -8393,8 +8264,8 @@ window.WORD_INDEX = [
       "boredom",
       "emotion",
       "culture",
-      "noun",
-      "ennui"
+      "ennui",
+      "noun"
     ]
   },
   {
@@ -8412,8 +8283,8 @@ window.WORD_INDEX = [
       "preserve",
       "rights",
       "memory",
-      "verb",
-      "enshrine"
+      "enshrine",
+      "verb"
     ]
   },
   {
@@ -8431,8 +8302,8 @@ window.WORD_INDEX = [
       "ambiguous",
       "language",
       "stance",
-      "adjective",
-      "equivocal"
+      "equivocal",
+      "adjective"
     ]
   },
   {
@@ -8450,8 +8321,8 @@ window.WORD_INDEX = [
       "worsen",
       "conflict",
       "symptoms",
-      "verb",
-      "exacerbate"
+      "exacerbate",
+      "verb"
     ]
   },
   {
@@ -8469,8 +8340,8 @@ window.WORD_INDEX = [
       "praise",
       "culture",
       "brand",
-      "verb",
-      "exalt"
+      "exalt",
+      "verb"
     ]
   },
   {
@@ -8488,8 +8359,8 @@ window.WORD_INDEX = [
       "annoy",
       "frustration",
       "delays",
-      "verb",
-      "exasperate"
+      "exasperate",
+      "verb"
     ]
   },
   {
@@ -8507,8 +8378,8 @@ window.WORD_INDEX = [
       "clear",
       "justice",
       "responsibility",
-      "verb",
-      "exonerate"
+      "exonerate",
+      "verb"
     ]
   },
   {
@@ -8526,8 +8397,8 @@ window.WORD_INDEX = [
       "explain",
       "theory",
       "teaching",
-      "verb",
-      "expound"
+      "expound",
+      "verb"
     ]
   },
   {
@@ -8545,8 +8416,8 @@ window.WORD_INDEX = [
       "celebrate",
       "praise",
       "marketing",
-      "verb",
-      "extol"
+      "extol",
+      "verb"
     ]
   },
   {
@@ -8564,8 +8435,8 @@ window.WORD_INDEX = [
       "irrelevant",
       "editing",
       "noise",
-      "adjective",
-      "extraneous"
+      "extraneous",
+      "adjective"
     ]
   },
   {
@@ -8583,8 +8454,8 @@ window.WORD_INDEX = [
       "energetic",
       "style",
       "mood",
-      "adjective",
-      "exuberant"
+      "exuberant",
+      "adjective"
     ]
   },
   {
@@ -8602,8 +8473,8 @@ window.WORD_INDEX = [
       "pretend",
       "emotion",
       "strategy",
-      "verb",
-      "feign"
+      "feign",
+      "verb"
     ]
   },
   {
@@ -8621,8 +8492,8 @@ window.WORD_INDEX = [
       "passionate",
       "belief",
       "support",
-      "adjective",
-      "fervent"
+      "fervent",
+      "adjective"
     ]
   },
   {
@@ -8640,8 +8511,8 @@ window.WORD_INDEX = [
       "hint",
       "narrative",
       "signals",
-      "verb",
-      "foreshadow"
+      "foreshadow",
+      "verb"
     ]
   },
   {
@@ -8659,8 +8530,8 @@ window.WORD_INDEX = [
       "lose",
       "penalty",
       "opportunity",
-      "verb",
-      "forfeit"
+      "forfeit",
+      "verb"
     ]
   },
   {
@@ -8678,8 +8549,8 @@ window.WORD_INDEX = [
       "abandon",
       "change",
       "principle",
-      "verb",
-      "forsake"
+      "forsake",
+      "verb"
     ]
   },
   {
@@ -8697,8 +8568,8 @@ window.WORD_INDEX = [
       "strengthen",
       "protection",
       "argument",
-      "verb",
-      "fortify"
+      "fortify",
+      "verb"
     ]
   },
   {
@@ -8716,8 +8587,8 @@ window.WORD_INDEX = [
       "break",
       "materials",
       "relationships",
-      "verb",
-      "fracture"
+      "fracture",
+      "verb"
     ]
   },
   {
@@ -8735,8 +8606,8 @@ window.WORD_INDEX = [
       "wear",
       "stress",
       "materials",
-      "verb",
-      "fray"
+      "fray",
+      "verb"
     ]
   },
   {
@@ -8754,8 +8625,8 @@ window.WORD_INDEX = [
       "hectic",
       "pace",
       "market",
-      "adjective",
-      "frenetic"
+      "frenetic",
+      "adjective"
     ]
   },
   {
@@ -8773,8 +8644,8 @@ window.WORD_INDEX = [
       "useless",
       "effort",
       "strategy",
-      "adjective",
-      "futile"
+      "futile",
+      "adjective"
     ]
   },
   {
@@ -8792,8 +8663,8 @@ window.WORD_INDEX = [
       "range",
       "scope",
       "services",
-      "noun",
-      "gamut"
+      "gamut",
+      "noun"
     ]
   },
   {
@@ -8811,8 +8682,8 @@ window.WORD_INDEX = [
       "slick",
       "communication",
       "sincerity",
-      "adjective",
-      "glib"
+      "glib",
+      "adjective"
     ]
   },
   {
@@ -8830,8 +8701,8 @@ window.WORD_INDEX = [
       "please",
       "satisfaction",
       "experience",
-      "verb",
-      "gratify"
+      "gratify",
+      "verb"
     ]
   },
   {
@@ -8849,8 +8720,8 @@ window.WORD_INDEX = [
       "sociable",
       "personality",
       "social",
-      "adjective",
-      "gregarious"
+      "gregarious",
+      "adjective"
     ]
   },
   {
@@ -8868,8 +8739,8 @@ window.WORD_INDEX = [
       "naive",
       "trust",
       "scam",
-      "adjective",
-      "gullible"
+      "gullible",
+      "adjective"
     ]
   },
   {
@@ -8887,8 +8758,8 @@ window.WORD_INDEX = [
       "arrogance",
       "power",
       "tragedy",
-      "noun",
-      "hubris"
+      "hubris",
+      "noun"
     ]
   },
   {
@@ -8906,8 +8777,8 @@ window.WORD_INDEX = [
       "illegal",
       "compliance",
       "security",
-      "adjective",
-      "illicit"
+      "illicit",
+      "adjective"
     ]
   },
   {
@@ -8925,8 +8796,8 @@ window.WORD_INDEX = [
       "fixed",
       "data",
       "principle",
-      "adjective",
-      "immutable"
+      "immutable",
+      "adjective"
     ]
   },
   {
@@ -8944,8 +8815,8 @@ window.WORD_INDEX = [
       "deadlock",
       "negotiation",
       "blocker",
-      "noun",
-      "impasse"
+      "impasse",
+      "noun"
     ]
   },
   {
@@ -8963,8 +8834,8 @@ window.WORD_INDEX = [
       "hinder",
       "progress",
       "recovery",
-      "verb",
-      "impede"
+      "impede",
+      "verb"
     ]
   },
   {
@@ -8982,8 +8853,8 @@ window.WORD_INDEX = [
       "endanger",
       "safety",
       "risk",
-      "verb",
-      "imperil"
+      "imperil",
+      "verb"
     ]
   },
   {
@@ -9001,8 +8872,8 @@ window.WORD_INDEX = [
       "encroach",
       "privacy",
       "boundary",
-      "verb",
-      "impinge"
+      "impinge",
+      "verb"
     ]
   },
   {
@@ -9020,8 +8891,8 @@ window.WORD_INDEX = [
       "attribute",
       "blame",
       "motive",
-      "verb",
-      "impute"
+      "impute",
+      "verb"
     ]
   },
   {
@@ -9039,8 +8910,8 @@ window.WORD_INDEX = [
       "silly",
       "commentary",
       "media",
-      "adjective",
-      "inane"
+      "inane",
+      "adjective"
     ]
   },
   {
@@ -9058,8 +8929,8 @@ window.WORD_INDEX = [
       "charge",
       "law",
       "accountability",
-      "verb",
-      "indict"
+      "indict",
+      "verb"
     ]
   },
   {
@@ -9077,8 +8948,8 @@ window.WORD_INDEX = [
       "angry",
       "justice",
       "response",
-      "adjective",
-      "indignant"
+      "indignant",
+      "adjective"
     ]
   },
   {
@@ -9096,8 +8967,8 @@ window.WORD_INDEX = [
       "unspeakable",
       "emotion",
       "art",
-      "adjective",
-      "ineffable"
+      "ineffable",
+      "adjective"
     ]
   },
   {
@@ -9115,8 +8986,8 @@ window.WORD_INDEX = [
       "inactive",
       "materials",
       "response",
-      "adjective",
-      "inert"
+      "inert",
+      "adjective"
     ]
   },
   {
@@ -9134,8 +9005,8 @@ window.WORD_INDEX = [
       "invade",
       "security",
       "systems",
-      "verb",
-      "infiltrate"
+      "infiltrate",
+      "verb"
     ]
   },
   {
@@ -9153,8 +9024,8 @@ window.WORD_INDEX = [
       "fill",
       "design",
       "meaning",
-      "verb",
-      "infuse"
+      "infuse",
+      "verb"
     ]
   },
   {
@@ -9172,8 +9043,8 @@ window.WORD_INDEX = [
       "hostile",
       "conditions",
       "progress",
-      "adjective",
-      "inimical"
+      "inimical",
+      "adjective"
     ]
   },
   {
@@ -9191,8 +9062,8 @@ window.WORD_INDEX = [
       "mysterious",
       "expression",
       "behavior",
-      "adjective",
-      "inscrutable"
+      "inscrutable",
+      "adjective"
     ]
   },
   {
@@ -9210,8 +9081,8 @@ window.WORD_INDEX = [
       "start",
       "change",
       "conflict",
-      "verb",
-      "instigate"
+      "instigate",
+      "verb"
     ]
   },
   {
@@ -9229,8 +9100,8 @@ window.WORD_INDEX = [
       "intervene",
       "mediation",
       "advocacy",
-      "verb",
-      "intercede"
+      "intercede",
+      "verb"
     ]
   },
   {
@@ -9248,8 +9119,8 @@ window.WORD_INDEX = [
       "occasional",
       "signal",
       "symptoms",
-      "adjective",
-      "intermittent"
+      "intermittent",
+      "adjective"
     ]
   },
   {
@@ -9267,8 +9138,8 @@ window.WORD_INDEX = [
       "flood",
       "requests",
       "disaster",
-      "verb",
-      "inundate"
+      "inundate",
+      "verb"
     ]
   },
   {
@@ -9286,8 +9157,8 @@ window.WORD_INDEX = [
       "angry",
       "customer",
       "emotion",
-      "adjective",
-      "irate"
+      "irate",
+      "adjective"
     ]
   },
   {
@@ -9305,8 +9176,8 @@ window.WORD_INDEX = [
       "solid",
       "proof",
       "contract",
-      "adjective",
-      "ironclad"
+      "ironclad",
+      "adjective"
     ]
   },
   {
@@ -9324,8 +9195,8 @@ window.WORD_INDEX = [
       "tired",
       "burnout",
       "emotion",
-      "adjective",
-      "jaded"
+      "jaded",
+      "adjective"
     ]
   },
   {
@@ -9343,8 +9214,8 @@ window.WORD_INDEX = [
       "unsettling",
       "contrast",
       "tone",
-      "adjective",
-      "jarring"
+      "jarring",
+      "adjective"
     ]
   },
   {
@@ -9362,8 +9233,8 @@ window.WORD_INDEX = [
       "praise",
       "recognition",
       "public",
-      "verb",
-      "laud"
+      "laud",
+      "verb"
     ]
   },
   {
@@ -9381,8 +9252,8 @@ window.WORD_INDEX = [
       "loose",
       "security",
       "standards",
-      "adjective",
-      "lax"
+      "lax",
+      "adjective"
     ]
   },
   {
@@ -9400,8 +9271,8 @@ window.WORD_INDEX = [
       "contact",
       "coordination",
       "teams",
-      "noun",
-      "liaison"
+      "liaison",
+      "noun"
     ]
   },
   {
@@ -9419,8 +9290,8 @@ window.WORD_INDEX = [
       "profitable",
       "career",
       "market",
-      "adjective",
-      "lucrative"
+      "lucrative",
+      "adjective"
     ]
   },
   {
@@ -9438,8 +9309,8 @@ window.WORD_INDEX = [
       "pause",
       "activity",
       "timing",
-      "noun",
-      "lull"
+      "lull",
+      "noun"
     ]
   },
   {
@@ -9457,8 +9328,8 @@ window.WORD_INDEX = [
       "vivid",
       "media",
       "visual",
-      "adjective",
-      "lurid"
+      "lurid",
+      "adjective"
     ]
   },
   {
@@ -9476,8 +9347,8 @@ window.WORD_INDEX = [
       "slander",
       "reputation",
       "conflict",
-      "verb",
-      "malign"
+      "malign",
+      "verb"
     ]
   },
   {
@@ -9495,8 +9366,8 @@ window.WORD_INDEX = [
       "merge",
       "integration",
       "ideas",
-      "verb",
-      "meld"
+      "meld",
+      "verb"
     ]
   },
   {
@@ -9514,8 +9385,8 @@ window.WORD_INDEX = [
       "trap",
       "delay",
       "trouble",
-      "verb",
-      "mire"
+      "mire",
+      "verb"
     ]
   },
   {
@@ -9533,8 +9404,8 @@ window.WORD_INDEX = [
       "adjust",
       "tone",
       "signal",
-      "verb",
-      "modulate"
+      "modulate",
+      "verb"
     ]
   },
   {
@@ -9552,8 +9423,8 @@ window.WORD_INDEX = [
       "appease",
       "conflict",
       "service",
-      "verb",
-      "mollify"
+      "mollify",
+      "verb"
     ]
   }
 ];

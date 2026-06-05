@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.79"
     },
-    "coreIdea": "<code>debunk</code> 常用在句子需要把動作往「揭穿站不住」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>debunk</code> 是把看似可信的神話、謠言或主張拆開，讓它站不住。",
     "definition": {
-      "summary": "表示揭穿神話、錯誤說法或被誇大的主張。這個字常不是在描述機械動作，而是在說事情怎麼往「揭穿站不住」這個方向走。",
+      "summary": "表示揭穿錯誤說法、迷思、謠言或誇大主張。",
       "contrast": {
         "word": "Disprove",
-        "note": "<code>Disprove</code> 可以只是在說「證偽」；換成 <code>debunk</code>，句子通常是在補上「揭穿站不住」這層更具體的意思。"
+        "note": "<code>disprove</code> 是證明不成立；<code>debunk</code> 還帶把迷思從人群裡拆下來的動作。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「揭穿站不住」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "說法被多人相信",
+        "證據或機制被拿出來",
+        "那個說法失去可信度"
       ]
     },
     "memory": {
-      "hook": "<code>debunk</code> 的畫面是：像把舞台布幕一拉開，後面那些看似巨大可怕的影子全變回紙板。",
-      "explanation": "這個畫面有用，因為它把 debunk 從翻譯拉回場面：你先看到「拉開布幕只剩紙板」，再比較容易記住它其實在說「揭穿站不住」。"
+      "hook": "把 <code>debunk the myth</code> 想成拿出資料和機制，把一句流傳很久的說法拆到沒地方躲。",
+      "explanation": "debunk 需要讓假說失去支撐。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>debunk the myth</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「揭穿站不住」收過去。"
+        "label": "迷思",
+        "body": "The"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 媒體 / 查核 裡，<code>debunk the rumor</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「把它拆到大家看見原來站不住」。"
+        "label": "謠言",
+        "body": "A quick denial may not debunk the rumor unless it answers why people believed it."
       },
       {
-        "label": "延伸版",
-        "body": "到了 分析 / 評論 的場景，<code>debunk the claim</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「證偽」跟更具體的「揭穿站不住」差在哪。"
+        "label": "主張",
+        "body": "To debunk a claim, show the evidence path, not only the conclusion."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "debunk 常接 myth、rumor、claim；搭配對象通常是被人相信但有問題的說法。",
       "items": [
         {
           "phrase": "debunk the myth",
-          "register": "科普 / 教育",
-          "note": "這個搭配常出現在需要把事情往「揭穿站不住」講清楚的句子裡。"
+          "register": "科普 / 工作",
+          "note": "揭穿迷思。"
         },
         {
           "phrase": "debunk the rumor",
-          "register": "媒體 / 查核",
-          "note": "放到 媒體 / 查核 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "新聞 / 社群",
+          "note": "澄清並拆穿謠言。"
         },
         {
           "phrase": "debunk the claim",
-          "register": "分析 / 評論",
-          "note": "在 分析 / 評論 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "論證 / 查核",
+          "note": "反駁並揭穿主張。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "揭穿站不住",
-        "use": "當你要把事情說成「把它拆到大家看見原來站不住」而不只是 證偽 時"
+        "use": "用在某個被相信的說法需要被證據拆掉時。"
       },
       "others": [
         {
           "word": "Disprove",
-          "meaning": "證偽",
-          "use": "當句子只需要 證偽 這個動作，不必補上「把它拆到大家看見原來站不住」那層走向時"
+          "meaning": "證明為假",
+          "use": "偏邏輯結果；<code>debunk</code> 常面對公共迷思或流行說法。"
+        },
+        {
+          "word": "Refute",
+          "meaning": "反駁",
+          "use": "正式論證；<code>debunk</code> 更有拆穿假象的感覺。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>debunk</code> 常出現在 <code>debunk the myth</code>、<code>debunk the rumor</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「揭穿站不住」這個方向收緊。",
-      "如果一句話只想表達比較平的「證偽」，<code>Disprove</code> 往往就夠了；但當語境需要那層更具體的「把它拆到大家看見原來站不住」，<code>debunk</code> 會更準。"
+      "<code>Debunk</code> 很常見於 fact-checking、science communication、security myth。",
+      "好的 debunk 不只是說錯，而是解釋錯誤為什麼有吸引力。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 debunk 整理成「揭穿站不住」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/debunk",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 debunk 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/debunk",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "disprove",
       "myth",
       "fact-checking",
-      "verb",
-      "debunk"
+      "debunk",
+      "verb"
     ]
   },
   "sourceAudit": [

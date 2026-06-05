@@ -8,89 +8,103 @@
     "partOfSpeech": "adjective",
     "pronunciation": "uh-JAY-sunt · UK /əˈdʒeɪ.sənt/ · US /əˈdʒeɪ.sənt/",
     "hero": {
-      "thesis": "不是大致附近，而是邊界相鄰、下一格就碰到。",
+      "thesis": "不是泛泛附近，而是隔著一條邊界就在旁邊，近到可能互相影響。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>adjacent</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「位置、領域或風險緊貼在旁邊」。",
+    "coreIdea": "<code>adjacent</code> 不是把地點說得模糊一點，而是把邊界說清楚：A 在 B 旁邊，兩者可能相接、相鄰，或至少緊貼到足以被一起考慮。",
     "definition": {
-      "summary": "形容位置、領域或風險緊貼在旁邊。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容事物在位置、次序、領域或概念上相鄰。它比 <code>nearby</code> 更精準，常暗示兩者中間沒有太多緩衝。",
       "contrast": {
         "word": "Nearby",
-        "note": "<code>nearby</code> 只是距離近；<code>adjacent</code> 有相鄰、接邊的感覺。"
+        "note": "<code>nearby</code> 只說距離近；<code>adjacent</code> 會讓人想到隔壁、下一格、相鄰區塊或接壤邊界。"
       },
       "flow": [
-        "確認邊界",
-        "找到相鄰物",
-        "評估互相影響"
+        "先畫出邊界",
+        "找到旁邊那格",
+        "判斷會不會互相牽動"
       ]
     },
     "memory": {
-      "hook": "<code>adjacent</code> 可以先記成一個畫面：確認邊界，接著找到相鄰物，最後評估互相影響。",
-      "explanation": "這個畫面只用來幫你抓住「位置、領域或風險緊貼在旁邊」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>adjacent</code> 是 memory map 裡緊貼在旁邊的區塊：不是遠方的風險，而是下一個 address range。",
+      "explanation": "這個字好用在工程語境，因為許多問題不是發生在中心，而是發生在邊界旁邊：buffer、pin、trace、region、layer 都可能因為相鄰而互相影響。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "談 memory map 時，adjacent region 不是模糊地很近，而是緊貼著可能互相影響。"
+        "label": "空間 / 版圖",
+        "body": "The lab is adjacent to the production floor 表示兩個空間緊鄰，不只是都在同一棟樓。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>adjacent</code> 和 <code>adjacent memory region</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "工程 / 記憶體",
+        "body": "<code>adjacent memory regions</code> 會讓人想到 overflow、alignment 或 protection boundary；這不是裝飾性的「附近」。"
+      },
+      {
+        "label": "商業 / 策略",
+        "body": "<code>adjacent markets</code> 是和既有能力貼得很近的新市場：不是完全陌生，也不是原本那一塊。"
       }
     ],
     "collocations": {
-      "note": "<code>adjacent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「位置、領域或風險緊貼在旁邊」落地。",
+      "note": "搭配詞會標出 adjacency 發生在哪一種邊界：物理空間、資料區塊、產品市場，或概念領域。",
       "items": [
         {
+          "phrase": "adjacent to",
+          "register": "通用 / 空間描述",
+          "note": "最基本用法，後面接相鄰對象：<code>adjacent to the station</code>、<code>adjacent to the buffer</code>。"
+        },
+        {
           "phrase": "adjacent memory region",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「位置、領域或風險緊貼在旁邊」有明確對象。"
+          "register": "嵌入式 / 系統 / 除錯",
+          "note": "用來談地址空間、保護邊界、資料覆寫或配置風險。"
         },
         {
           "phrase": "adjacent market",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
-        },
-        {
-          "phrase": "adjacent risk",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "產品 / 商業策略",
+          "note": "指和既有市場相鄰、可由現有能力延伸過去的領域。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "位置、領域或風險緊貼在旁邊",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "緊鄰、相鄰，通常有清楚邊界感",
+        "use": "當你要說兩個東西隔壁、接邊、下一格，或近到需要一起評估。"
       },
       "others": [
         {
           "word": "Nearby",
-          "meaning": "<code>nearby</code> 只是距離近；<code>adjacent</code> 有相鄰、接邊的感覺。",
-          "use": "如果句子只需要 nearby 的普通意思，就保留那個較簡單的字。"
+          "meaning": "距離近，但不一定相鄰",
+          "use": "適合日常找位置；不需要強調邊界或接壤。"
+        },
+        {
+          "word": "Neighboring",
+          "meaning": "鄰近的，常用於地區、國家、房間或社群",
+          "use": "比 adjacent 更日常，邊界感稍弱。"
+        },
+        {
+          "word": "Contiguous",
+          "meaning": "連續接在一起，中間沒有中斷",
+          "use": "常用於資料區塊、土地或序列；比 adjacent 更強調連續性。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>adjacent</code> 常把一段觀察收斂成可討論的判斷。談 memory map 時，adjacent region 不是模糊地很近，而是緊貼著可能互相影響。",
-      "像 <code>adjacent memory region</code>、<code>adjacent market</code>、<code>adjacent risk</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在技術寫作裡，<code>adjacent</code> 很適合用來替風險定位。A problem in an adjacent block 表示它不是主目標，但離得夠近，可能被同一個修改波及。",
+      "在產品討論裡，adjacent 也能防止策略跳太遠。An adjacent opportunity 應該和既有能力有邊界上的連接，而不是只因為看起來熱門。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 adjacent 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 adjacent 整理成「緊鄰且有邊界感」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/adjacent",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 adjacent 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 adjacent 在空間、次序與延伸領域中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/adjacent",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "來自 Latin <code>adjacere</code>，意思接近「躺在旁邊」。",
-      "memoryLens": "記憶時先抓「位置、領域或風險緊貼在旁邊」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>adjacent</code> 來自 Latin <code>adjacere</code>，意思接近「躺在旁邊」。",
+      "memoryLens": "記成「就在旁邊躺著」即可：不是 distant，不是 vague nearby，而是你畫出邊界後，下一個碰到的東西。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Adjacent",
     "partOfSpeech": "adjective",
     "href": "./adjacent.html",
-    "thesis": "不是大致附近，而是邊界相鄰、下一格就碰到。",
+    "thesis": "不是泛泛附近，而是隔著一條邊界就在旁邊，近到可能互相影響。",
     "tags": [
       "相鄰",
       "邊界",
       "nearby",
-      "memory",
+      "contiguous",
+      "memory map",
+      "adjacent market",
       "risk",
-      "adjective",
       "adjective"
     ]
   },

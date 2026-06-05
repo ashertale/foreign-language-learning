@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.66"
     },
-    "coreIdea": "<code>irate</code> 真正抓住的，不是程度高低，而是整體怎麼被「怒氣已經寫在臉上」這個感覺支配。",
+    "coreIdea": "<code>irate</code> 是怒氣已經外露，通常能從聲音、訊息或臉色直接看見。",
     "definition": {
-      "summary": "表示盛怒、惱火。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容非常生氣、憤怒外露的人或回應。",
       "contrast": {
         "word": "Angry",
-        "note": "如果語境只需要比較平的「生氣」，用 <code>Angry</code> 往往就夠了；<code>irate</code> 則會把「怒氣已經寫在臉上」講得更明確。"
+        "note": "<code>angry</code> 範圍很廣；<code>irate</code> 像怒氣已經衝到臉上和聲音裡。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「怒氣已經寫在臉上」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "觸發事件讓人發怒",
+        "怒氣變得外顯",
+        "互動需要先處理情緒溫度"
       ]
     },
     "memory": {
-      "hook": "<code>irate</code> 的畫面是：像壓力鍋的閥門已經開始尖叫，再多一點火就要掀蓋。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 irate 時，能先抓到「怒氣外露」這個核心，再回頭讀細節。"
+      "hook": "把 <code>irate customer</code> 想成客戶不是失望地詢問，而是已經用全大寫把怒氣送到 ticket 裡。",
+      "explanation": "irate 的火在表面。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>irate customer</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「怒氣外露」這層氣質壓到前景。"
+        "label": "客戶",
+        "body": "An <code>irate</code> customer needs acknowledgment before a technical explanation can land."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>irate response</code> 放進 人際 / 溝通 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "回應",
+        "body": "An irate response may contain useful facts under the heat."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 敘事 / 描寫 的情境，從 <code>sound irate</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "聲音",
+        "body": "He"
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "irate 常修飾 customer、response，或用 sound irate；搭配都讓怒氣可被感知。",
       "items": [
         {
           "phrase": "irate customer",
-          "register": "服務 / 客訴",
-          "note": "這個搭配會讓「怒氣外露」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "客服 / 商務",
+          "note": "盛怒客戶。"
         },
         {
           "phrase": "irate response",
-          "register": "人際 / 溝通",
-          "note": "在 人際 / 溝通 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "人際 / 線上",
+          "note": "憤怒回應。"
         },
         {
           "phrase": "sound irate",
-          "register": "敘事 / 描寫",
-          "note": "如果你想把這個字用穩，從 敘事 / 描寫 常見的這個搭配進場通常最自然。"
+          "register": "會話 / 敘事",
+          "note": "聽起來很生氣。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "怒氣外露",
-        "use": "當你要強調整體帶著「怒氣已經寫在臉上」這種質地，而不只是 生氣 時"
+        "use": "用在怒氣不只是內心感受，而是已經透過語氣或行為露出來時。"
       },
       "others": [
         {
           "word": "Angry",
           "meaning": "生氣",
-          "use": "當句子只需要 生氣 這個中性描述，不必把「怒氣已經寫在臉上」這種氣質壓到前景時"
+          "use": "通用；<code>irate</code> 更強，通常怒氣外露。"
+        },
+        {
+          "word": "Furious",
+          "meaning": "暴怒",
+          "use": "更高強度；irate 常用於客戶、來電、回覆。"
         }
       ]
     },
     "modernUse": [
-      "<code>irate</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>irate customer</code>、<code>irate response</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「生氣」，<code>Angry</code> 也許夠用；但當你需要的是更具體的「怒氣已經寫在臉上」，<code>irate</code> 會更準。"
+      "<code>Irate customer</code> 是客服語境常見搭配。",
+      "它比 angry 更正式一點，也更能描寫來電或訊息中的火氣。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 irate 整理成「怒氣外露」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/irate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 irate 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/irate",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "angry",
       "customer",
       "emotion",
-      "adjective",
-      "irate"
+      "irate",
+      "adjective"
     ]
   },
   "sourceAudit": [

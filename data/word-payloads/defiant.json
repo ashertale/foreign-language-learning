@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.91"
     },
-    "coreIdea": "<code>defiant</code> 用來說某個人、系統或局面帶著「公開不服」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>defiant</code> 是面對壓力或權威時不低頭，甚至把不服寫在姿態上。",
     "definition": {
-      "summary": "表示挑戰權威、不肯屈服的態度。重點不是程度加強，而是整個對象都帶著「公開不服」這種質地。",
+      "summary": "形容挑戰、反抗、不肯屈服的態度或語氣。",
       "contrast": {
         "word": "Stubborn",
-        "note": "<code>Stubborn</code> 可以只是在說「固執」；換成 <code>defiant</code>，句子通常是在補上「公開不服」這層更具體的意思。"
+        "note": "<code>stubborn</code> 是不改；<code>defiant</code> 是對著壓力說不。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「公開不服」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "權威或壓力出現",
+        "人拒絕低頭",
+        "反抗變成可見姿態"
       ]
     },
     "memory": {
-      "hook": "<code>defiant</code> 的畫面是：像風已經很大，旗子卻不是垂下來，而是更用力往反方向張開。",
-      "explanation": "這個畫面有用，因為它把 defiant 從翻譯拉回場面：你先看到「旗子往反方向張開」，再比較容易記住它其實在說「公開不服」。"
+      "hook": "把 <code>defiant tone</code> 想成被要求退讓時，回答裡清楚寫著「我不接受」。",
+      "explanation": "defiant 的核心是 open resistance。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>defiant tone</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「固執」，而是整個對象都帶著「公開不服」這種質地。"
+        "label": "語氣",
+        "body": "Her <code>defiant</code> tone made the apology sound like another fight."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 公共 / 社會 裡，<code>defiant stance</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "立場",
+        "body": "A"
       },
       {
-        "label": "延伸版",
-        "body": "到了 新聞 / 敘事 的場景，<code>remain defiant</code> 很適合用來練邊界：你要講的到底是一般的「固執」，還是更具體的「公開不服」。"
+        "label": "持續",
+        "body": "To remain defiant after punishment means the pressure did not produce submission."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "defiant 常修飾 tone、stance，也常與 remain 搭配；它把反抗姿態放得很清楚。",
       "items": [
         {
           "phrase": "defiant tone",
-          "register": "人際 / 溝通",
-          "note": "這個搭配會讓「公開不服」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "人際 / 政治",
+          "note": "不服、反抗的語氣。"
         },
         {
           "phrase": "defiant stance",
-          "register": "公共 / 社會",
-          "note": "在 公共 / 社會 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "政治 / 工作",
+          "note": "拒不退讓的立場。"
         },
         {
           "phrase": "remain defiant",
           "register": "新聞 / 敘事",
-          "note": "如果你想把這個字用穩，從 新聞 / 敘事 常見的這個搭配進場通常最自然。"
+          "note": "仍然不屈服。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "公開不服",
-        "use": "當你要強調整體帶著「把不服寫在表情和動作上」這種質地，而不只是 固執 時"
+        "use": "用在不服從不是暗中拖延，而是明顯表現出來時。"
       },
       "others": [
         {
           "word": "Stubborn",
           "meaning": "固執",
-          "use": "當句子只需要 固執 這個中性描述，不必把「把不服寫在表情和動作上」這種氣質壓到前景時"
+          "use": "可只是拒改；<code>defiant</code> 對準權威或壓力，反抗感更明顯。"
+        },
+        {
+          "word": "Resistant",
+          "meaning": "抗拒",
+          "use": "較中性；<code>defiant</code> 更公開、更有姿態。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>defiant</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「公開不服」這種質地。",
-      "也因此，它和 <code>Stubborn</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Defiant</code> 可被稱讚為堅守，也可被批評為不服管，完全看權威是否合理。",
+      "新聞標題常用它描寫被壓迫者、嫌犯、政治人物或團隊。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 defiant 整理成「公開不服」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/defiant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 defiant 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/defiant",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "stubborn",
       "resistance",
       "authority",
-      "adjective",
-      "defiant"
+      "defiant",
+      "adjective"
     ]
   },
   "sourceAudit": [

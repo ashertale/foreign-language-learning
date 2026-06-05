@@ -8,89 +8,103 @@
     "partOfSpeech": "adjective",
     "pronunciation": "am-BIV-uh-lent · UK /æmˈbɪv.ə.lənt/ · US /æmˈbɪv.ə.lənt/",
     "hero": {
-      "thesis": "不是沒有意見，而是心裡同時拉著兩股相反力量。",
+      "thesis": "不是沒感覺，而是同一件事同時拉出想靠近與想退開的兩股力。",
       "cefrLevel": "B2",
       "zipfFrequency": "3.40"
     },
-    "coreIdea": "<code>ambivalent</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「對同一件事同時有正反混合感受」。",
+    "coreIdea": "<code>ambivalent</code> 描述的是內心拉扯，不是空白。你看見好處，也看見代價；你不是 indifferent，而是兩邊都有理由，所以態度停在張力裡。",
     "definition": {
-      "summary": "形容對同一件事同時有正反混合感受。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容對同一個人、決定、情況或想法同時有正反混合感受。它常用於心理狀態、決策、政策或關係。",
       "contrast": {
         "word": "Indifferent",
-        "note": "<code>indifferent</code> 是不在乎；<code>ambivalent</code> 是在乎，但兩邊都拉得動。"
+        "note": "<code>indifferent</code> 是不在乎；<code>ambivalent</code> 是在乎，只是心裡同時有支持與抗拒。"
       },
       "flow": [
-        "看見好處",
+        "看見吸引力",
         "也看見代價",
-        "態度卡在中間"
+        "態度被兩邊拉住"
       ]
     },
     "memory": {
-      "hook": "<code>ambivalent</code> 可以先記成一個畫面：看見好處，接著也看見代價，最後態度卡在中間。",
-      "explanation": "這個畫面只用來幫你抓住「對同一件事同時有正反混合感受」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>ambivalent</code> 像要不要換新工具：一邊看到效率，一邊想到 migration、training、maintenance。",
+      "explanation": "這個字很適合用在 trade-off 還沒有被壓平的時候。它不是猶豫不決的弱化版，而是承認兩邊都有重量。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "對新 tool ambivalent，可能是喜歡效率，但又擔心 maintenance cost。"
+        "label": "決策",
+        "body": "I feel <code>ambivalent about</code> the new architecture 表示你不是反對，而是同時看見 scalability 與 complexity。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>ambivalent</code> 和 <code>ambivalent feelings</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "人際 / 心理",
+        "body": "一個人可以對升遷 <code>ambivalent</code>：被選中很驕傲，卻也擔心家庭、健康或生活節奏要付出的代價。"
+      },
+      {
+        "label": "政策 / 評論",
+        "body": "公眾對政策的反應也可能是 <code>ambivalent</code>：支持目標，但不信任執行方式。"
       }
     ],
     "collocations": {
-      "note": "<code>ambivalent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「對同一件事同時有正反混合感受」落地。",
+      "note": "ambivalent 常接 <code>about</code>，因為它需要一個讓人產生混合感受的對象。",
       "items": [
         {
-          "phrase": "ambivalent feelings",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「對同一件事同時有正反混合感受」有明確對象。"
+          "phrase": "ambivalent about",
+          "register": "通用 / 心理 / 決策",
+          "note": "最自然結構：<code>ambivalent about the proposal</code>、<code>ambivalent about leaving</code>。"
         },
         {
-          "phrase": "ambivalent response",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "phrase": "ambivalent feelings",
+          "register": "心理 / 敘事",
+          "note": "強調情緒不是單一方向，而是喜歡、害怕、期待、抗拒混在一起。"
         },
         {
           "phrase": "remain ambivalent",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 評論 / 報告",
+          "note": "表示經過討論或觀察後，態度仍沒有完全倒向一邊。"
         }
       ]
     },
     "neighbors": {
       "self": {
-        "meaning": "對同一件事同時有正反混合感受",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "meaning": "對同一件事同時有正反感受",
+        "use": "當你要保留真實拉扯，不想把態度硬壓成喜歡或不喜歡。"
       },
       "others": [
         {
           "word": "Indifferent",
-          "meaning": "<code>indifferent</code> 是不在乎；<code>ambivalent</code> 是在乎，但兩邊都拉得動。",
-          "use": "如果句子只需要 indifferent 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不在乎、沒有強烈感受",
+          "use": "重點是低關心度，不是內心拉扯。"
+        },
+        {
+          "word": "Conflicted",
+          "meaning": "內心衝突，語氣更直接、更痛苦",
+          "use": "可和 ambivalent 接近，但 conflicted 通常張力更明顯。"
+        },
+        {
+          "word": "Ambiguous",
+          "meaning": "意思不清楚或可有多種解讀",
+          "use": "描述語意或情況模糊，不是人的混合感受。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>ambivalent</code> 常把一段觀察收斂成可討論的判斷。對新 tool ambivalent，可能是喜歡效率，但又擔心 maintenance cost。",
-      "像 <code>ambivalent feelings</code>、<code>ambivalent response</code>、<code>remain ambivalent</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在工作英文裡，<code>ambivalent</code> 很適合拿來講成熟的保留態度。你可以支持方向，同時對執行方式 ambivalent，這比單純說 yes/no 更接近真實討論。",
+      "它也常出現在科技採用、組織變革與職涯選擇中：同一件事既帶來機會，也帶來成本。ambivalent 讓這兩邊可以同時存在。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 ambivalent 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁把 ambivalent 整理成「同時有正反混合感受」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/ambivalent",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 ambivalent 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 ambivalent 在心理、決策與評論語境中的使用範圍。",
         "url": "https://www.merriam-webster.com/dictionary/ambivalent",
         "label": "Merriam-Webster"
       }
     },
     "origin": {
-      "history": "由 <code>ambi-</code>「兩邊」與價值感相連；記成兩個方向同時拉住。",
-      "memoryLens": "記憶時先抓「對同一件事同時有正反混合感受」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "history": "<code>ambivalent</code> 來自 ambivalence 的詞族，可拆成 <code>ambi-</code>（both）加上和 strength/value 相關的成分；原本常見於心理學討論。",
+      "memoryLens": "記住 <code>ambi-</code> 的「兩邊」就好：不是沒有方向，而是兩個方向同時有力量。"
     }
   },
   "indexEntry": {
@@ -98,14 +112,15 @@
     "word": "Ambivalent",
     "partOfSpeech": "adjective",
     "href": "./ambivalent.html",
-    "thesis": "不是沒有意見，而是心裡同時拉著兩股相反力量。",
+    "thesis": "不是沒感覺，而是同一件事同時拉出想靠近與想退開的兩股力。",
     "tags": [
       "矛盾",
       "混合感受",
       "indifferent",
+      "conflicted",
       "decision",
       "tradeoff",
-      "adjective",
+      "psychology",
       "adjective"
     ]
   },

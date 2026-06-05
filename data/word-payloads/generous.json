@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>generous</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「慷慨的、寬裕的或寬厚」。",
+    "coreIdea": "<code>generous</code> 是願意多給一點：資源、空間、時間、理解或善意都可以。",
     "definition": {
-      "summary": "形容慷慨的、寬裕的或寬厚的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容慷慨、大方、寬裕，或某尺寸、資源、餘裕比最低需求更多。",
       "contrast": {
         "word": "Kind",
         "note": "<code>kind</code> 是友善；<code>generous</code> 強調願意多給。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>generous</code> 可以先記成一個畫面：可只給最低限度，接著選擇多給，最後對方得到餘裕。",
-      "explanation": "這個畫面只用來幫你抓住「慷慨的、寬裕的或寬厚」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>generous</code> timing margin 想成替現實世界的溫度、老化和製程差異留活路。",
+      "explanation": "不是浪費，而是承認世界不照 nominal 跑。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "generous timing margin 不是浪費，而是替現實世界的變動留活路。"
+        "label": "Timing",
+        "body": "<code>Generous</code> timing margin 不是浪費，而是替現實世界的變動留活路。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>generous</code> 和 <code>generous support</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "支援",
+        "body": "Generous support can mean time, money, attention, or patience."
+      },
+      {
+        "label": "提議",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "<code>generous</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「慷慨的、寬裕的或寬厚」落地。",
+      "note": "generous 的搭配會在物質和抽象間移動：support、margin、offer。共同點是多給一點餘裕。",
       "items": [
         {
           "phrase": "generous support",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「慷慨的、寬裕的或寬厚」有明確對象。"
+          "register": "日常 / 公益 / 職場",
+          "note": "大方支持，可能是資源、時間或情感。"
         },
         {
           "phrase": "generous margin",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "工程 / 設計",
+          "note": "留有較大餘裕，提升穩健性。"
         },
         {
           "phrase": "generous offer",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "商務 / 日常",
+          "note": "條件較大方的提議。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "慷慨的、寬裕的或寬厚的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在給出的量、空間或善意超過最低限度時。"
       },
       "others": [
         {
           "word": "Kind",
-          "meaning": "<code>kind</code> 是友善；<code>generous</code> 強調願意多給。",
-          "use": "如果句子只需要 kind 的普通意思，就保留那個較簡單的字。"
+          "meaning": "友善",
+          "use": "重態度；generous 重願意給。"
+        },
+        {
+          "word": "Ample",
+          "meaning": "充足",
+          "use": "偏數量夠多，不一定有人的慷慨。"
+        },
+        {
+          "word": "Lavish",
+          "meaning": "鋪張",
+          "use": "可能過度豪華。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>generous</code> 常把一段觀察收斂成可討論的判斷。generous timing margin 不是浪費，而是替現實世界的變動留活路。",
-      "像 <code>generous support</code>、<code>generous margin</code>、<code>generous offer</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Generous</code> 在工程裡不只形容人，也能形容 margin、timeout、buffer。它常是一種設計哲學：替現實留空間。",
+      "但 generous 也要有界線。無限制的 generous buffer 可能只是把問題藏到資源浪費裡。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 generous 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 generous 整理成「慷慨的、寬裕的或寬厚的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/generous",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>generosus</code>，原和高貴、出身相關，後來轉向慷慨。",
-      "memoryLens": "記憶時先抓「慷慨的、寬裕的或寬厚的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "從高貴轉向慷慨的歷史不用硬背；現代抓住「願意多給」即可。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "kind",
       "margin",
       "support",
-      "adjective",
       "adjective"
     ]
   },

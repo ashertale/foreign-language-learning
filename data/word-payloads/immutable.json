@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.49"
     },
-    "coreIdea": "<code>immutable</code> 真正抓住的，不是程度高低，而是整體怎麼被「設定後就不打算再動」這個感覺支配。",
+    "coreIdea": "<code>immutable</code> 是不可變的；一旦設定，後面不能悄悄改掉。",
     "definition": {
-      "summary": "表示不可變更、固定不變。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容固定不變、不可更改，常用於資料、規則、原則或性質。",
       "contrast": {
         "word": "Fixed",
-        "note": "如果語境只需要比較平的「固定」，用 <code>Fixed</code> 往往就夠了；<code>immutable</code> 則會把「設定後就不打算再動」講得更明確。"
+        "note": "<code>fixed</code> 是固定；<code>immutable</code> 是原則上不能被改寫。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「設定後就不打算再動」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "狀態被建立",
+        "修改被禁止或不被期待",
+        "後續推理依賴不變性"
       ]
     },
     "memory": {
-      "hook": "<code>immutable</code> 的畫面是：像石頭上刻下的刻痕，不像白板字一擦就能改。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 immutable 時，能先抓到「不可變更」這個核心，再回頭讀細節。"
+      "hook": "把 <code>immutable data</code> 想成物件建立後就不再被修改，變更只能產生新的版本。",
+      "explanation": "immutable 的信任來自不變。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>immutable data</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「不可變更」這層氣質壓到前景。"
+        "label": "資料",
+        "body": "<code>Immutable</code>"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>immutable rule</code> 放進 制度 / 定義 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "規則",
+        "body": "An immutable rule can protect fairness, but it can also block necessary exceptions."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 評論 / 哲學 的情境，從 <code>remain immutable</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "保持",
+        "body": "Some assumptions remain immutable only because no one has been allowed to question them."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "immutable 常修飾 data、rule，也常和 remain 搭配；搭配會說明哪個層面不被改動。",
       "items": [
         {
           "phrase": "immutable data",
           "register": "工程 / 程式",
-          "note": "這個搭配會讓「不可變更」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "note": "不可變資料。"
         },
         {
           "phrase": "immutable rule",
-          "register": "制度 / 定義",
-          "note": "在 制度 / 定義 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "制度 / 正式",
+          "note": "不可更改的規則。"
         },
         {
           "phrase": "remain immutable",
-          "register": "評論 / 哲學",
-          "note": "如果你想把這個字用穩，從 評論 / 哲學 常見的這個搭配進場通常最自然。"
+          "register": "正式 / 分析",
+          "note": "保持不變。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "不可變更",
-        "use": "當你要強調整體帶著「設定後就不打算再動」這種質地，而不只是 固定 時"
+        "use": "用在不可變性本身對推理、信任或限制很重要時。"
       },
       "others": [
         {
           "word": "Fixed",
           "meaning": "固定",
-          "use": "當句子只需要 固定 這個中性描述，不必把「設定後就不打算再動」這種氣質壓到前景時"
+          "use": "通用；<code>immutable</code> 更正式、更像原則上不可改。"
+        },
+        {
+          "word": "Constant",
+          "meaning": "常數、不變",
+          "use": "偏數值或狀態；<code>immutable</code> 可用於物件、規則、性質。"
         }
       ]
     },
     "modernUse": [
-      "<code>immutable</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>immutable data</code>、<code>immutable rule</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「固定」，<code>Fixed</code> 也許夠用；但當你需要的是更具體的「設定後就不打算再動」，<code>immutable</code> 會更準。"
+      "工程裡 <code>immutable</code> 是高頻概念，尤其在 state management、functional programming、ledger。",
+      "但對制度來說 immutable 可能是保護，也可能是僵化。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 immutable 整理成「不可變更」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/immutable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 immutable 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/immutable",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "fixed",
       "data",
       "principle",
-      "adjective",
-      "immutable"
+      "immutable",
+      "adjective"
     ]
   },
   "sourceAudit": [

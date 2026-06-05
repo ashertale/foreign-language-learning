@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.41"
     },
-    "coreIdea": "<code>glib</code> 真正抓住的，不是程度高低，而是整體怎麼被「說得太順，順到讓人懷疑是不是沒真正想過」這個感覺支配。",
+    "coreIdea": "<code>glib</code> 是話說得太順，順到讓人懷疑裡面沒有誠意、沒有重量、也沒有真正理解。",
     "definition": {
-      "summary": "表示油滑、空泛、過度流利而不夠真誠。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容回答、評論或安慰油滑、空泛、過度流利而不夠真誠。",
       "contrast": {
         "word": "Slick",
-        "note": "如果語境只需要比較平的「油滑」，用 <code>Slick</code> 往往就夠了；<code>glib</code> 則會把「說得太順，順到讓人懷疑是不是沒真正想過」講得更明確。"
+        "note": "<code>smooth</code> 可以是稱讚；<code>glib</code> 是流暢到可疑。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「說得太順，順到讓人懷疑是不是沒真正想過」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "問題需要認真面對",
+        "回答顯得過分流利",
+        "深度與誠意反而被懷疑"
       ]
     },
     "memory": {
-      "hook": "<code>glib</code> 的畫面是：像桌面擦得很亮，卻亮到你懷疑底下是不是沒放真正的東西。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 glib 時，能先抓到「流利但空」這個核心，再回頭讀細節。"
+      "hook": "把 <code>glib reassurance</code> 想成對方說「沒問題啦」，但沒有看 log、沒有問條件、也沒有承擔後果。",
+      "explanation": "glib 的危險是 fluency without depth。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>glib answer</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「流利但空」這層氣質壓到前景。"
+        "label": "回答",
+        "body": "A <code>glib</code> answer can sound confident while evading the hard part of the question."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>glib remark</code> 放進 評論 / 人際 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "評論",
+        "body": "Glib remarks make complexity look like a personality problem."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 危機 / 回應 的情境，從 <code>glib reassurance</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "安慰",
+        "body": "Glib reassurance often raises anxiety because it skips the evidence people need."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "glib 常修飾 answer、remark、reassurance；搭配都在質疑話語的誠意與深度。",
       "items": [
         {
           "phrase": "glib answer",
-          "register": "面試 / 溝通",
-          "note": "這個搭配會讓「流利但空」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "會議 / 批評",
+          "note": "油滑空泛的回答。"
         },
         {
           "phrase": "glib remark",
           "register": "評論 / 人際",
-          "note": "在 評論 / 人際 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "note": "聽起來順但不負責的話。"
         },
         {
           "phrase": "glib reassurance",
-          "register": "危機 / 回應",
-          "note": "如果你想把這個字用穩，從 危機 / 回應 常見的這個搭配進場通常最自然。"
+          "register": "管理 / 人際",
+          "note": "太輕易、缺少證據的安慰。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "流利但空",
-        "use": "當你要強調整體帶著「說得太順，順到讓人懷疑是不是沒真正想過」這種質地，而不只是 油滑 時"
+        "use": "用在話語表面流利，卻迴避複雜度、責任或真誠時。"
       },
       "others": [
         {
           "word": "Slick",
-          "meaning": "油滑",
-          "use": "當句子只需要 油滑 這個中性描述，不必把「說得太順，順到讓人懷疑是不是沒真正想過」這種氣質壓到前景時"
+          "meaning": "油滑、漂亮但不一定可信",
+          "use": "和 glib 接近；slick 更可指外觀或操作流暢，glib 專指話語。"
+        },
+        {
+          "word": "Smooth",
+          "meaning": "流暢",
+          "use": "可正面；<code>glib</code> 幾乎總帶不真誠。"
         }
       ]
     },
     "modernUse": [
-      "<code>glib</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>glib answer</code>、<code>glib remark</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「油滑」，<code>Slick</code> 也許夠用；但當你需要的是更具體的「說得太順，順到讓人懷疑是不是沒真正想過」，<code>glib</code> 會更準。"
+      "<code>Glib</code> 是很適合 critique 溝通品質的字。",
+      "它提醒你，講得快不代表想得深；尤其在風險、道歉、安慰裡，glib 會傷信任。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 glib 整理成「流利但空」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/glib",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 glib 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/glib",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "slick",
       "communication",
       "sincerity",
-      "adjective",
-      "glib"
+      "glib",
+      "adjective"
     ]
   },
   "sourceAudit": [

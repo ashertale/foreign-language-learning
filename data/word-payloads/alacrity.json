@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.42"
     },
-    "coreIdea": "<code>alacrity</code> 用來把場面裡的「爽快迅速」正式點出來，讓它從感受或評語變成可以被命名的東西。",
+    "coreIdea": "<code>alacrity</code> 是爽快又迅速的願意。它不是被催著動，而是自己很快接住。",
     "definition": {
-      "summary": "表示迅速而樂意的反應，常帶有精神飽滿的感覺。這個名詞把場面裡那份「爽快迅速」收成一個可以被指出的東西。",
+      "summary": "指敏捷、爽快、欣然迅速行動的狀態，常出現在較正式或文學語境。",
       "contrast": {
         "word": "Eagerness",
-        "note": "<code>Eagerness</code> 可以只是在說「熱切」；換成 <code>alacrity</code>，句子通常是在補上「爽快迅速」這層更具體的意思。"
+        "note": "<code>eagerness</code> 是熱切；<code>alacrity</code> 還包含迅速、爽快地行動。"
       },
       "flow": [
-        "先有一個值得被點出的結果、狀態或評價",
-        "這個名詞把它收成「爽快迅速」這樣一個可指稱的東西",
-        "所以句子不是在補修飾，而是在正式命名"
+        "事情需要回應",
+        "人立刻接住",
+        "速度裡帶著願意"
       ]
     },
     "memory": {
-      "hook": "<code>alacrity</code> 的畫面是：像訊息一到，手不是被逼著伸過去，而是立刻精神很好地接住。",
-      "explanation": "這個畫面有用，因為它把 alacrity 從翻譯拉回場面：你先看到「樂意接住」，再比較容易記住它其實在說「爽快迅速」。"
+      "hook": "把 <code>alacrity</code> 想成看到 production issue 後，相關人員不用追催就立刻各就各位。",
+      "explanation": "速度裡帶著願意。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>respond with alacrity</code> 聽起來不像隨口描述，更像是把場面裡那份「爽快迅速」正式點出來。"
+        "label": "回應",
+        "body": "<code>Respond with alacrity</code> 表示回得快，而且不是勉強拖動。"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 服務 / 態度 裡，<code>show alacrity</code> 常不是某個人的一時看法，而是已經可以被辨認、被談論的東西。"
+        "label": "承接",
+        "body": "She"
       },
       {
-        "label": "延伸版",
-        "body": "到了 學習 / 執行 的場景，<code>tackle it with alacrity</code> 會讓這個字從抽象印象變成語境裡具體可指的對象。"
+        "label": "展現",
+        "body": "Show alacrity often appears in formal praise, not casual chat."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個名詞通常在哪些場面被點出。",
+      "note": "alacrity 常和 with 一起出現，也常接 show、tackle。搭配會把速度和爽快感綁在一起。",
       "items": [
         {
           "phrase": "respond with alacrity",
-          "register": "職場 / 溝通",
-          "note": "放到 職場 / 溝通 的場景裡，這個搭配會把「爽快迅速」具體點出來。"
+          "register": "正式 / 書面",
+          "note": "迅速且爽快地回應。"
         },
         {
           "phrase": "show alacrity",
-          "register": "服務 / 態度",
-          "note": "在 服務 / 態度 裡，這種說法讓它不再只是感覺，而是可以被拿來指認的對象。"
+          "register": "正式 / 評價",
+          "note": "展現敏捷和樂意。"
         },
         {
           "phrase": "tackle it with alacrity",
-          "register": "學習 / 執行",
-          "note": "到了 學習 / 執行 的語境，這個搭配很適合幫你抓住它真正指的是什麼。"
+          "register": "書面 / 評論",
+          "note": "爽快迅速地處理。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "爽快迅速",
-        "use": "當你要把「帶著爽快、毫不拖泥帶水的願意」當成一個可被點出的東西來說，而不只是 熱切 時"
+        "use": "用在行動迅速，而且帶著願意、不拖泥帶水的語氣時。"
       },
       "others": [
         {
           "word": "Eagerness",
           "meaning": "熱切",
-          "use": "當句子只需要 熱切 這個比較平的說法，不必把那份「帶著爽快、毫不拖泥帶水的願意」正式點名時"
+          "use": "重想做的心情。"
+        },
+        {
+          "word": "Speed",
+          "meaning": "速度",
+          "use": "只看快慢。"
+        },
+        {
+          "word": "Promptness",
+          "meaning": "迅速、即時",
+          "use": "重不拖延，少一點欣然感。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>alacrity</code> 常黏在 <code>respond with alacrity</code>、<code>show alacrity</code> 這些搭配附近，因為它擅長把場面裡那份「爽快迅速」正式點名。",
-      "所以它和 <code>Eagerness</code> 的差別，通常不在難易，而在你要不要把那件事說成一個可被指出、可被談論的對象。"
+      "<code>Alacrity</code> 比較書面，日常口語不常用。但它能精準稱讚那種「不用推就快快接住」的反應。",
+      "如果只是快，speed 或 promptness 就夠；alacrity 多了精神狀態。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 alacrity 整理成「爽快迅速」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/alacrity",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 alacrity 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/alacrity",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "eagerness",
       "response",
       "attitude",
-      "noun",
-      "alacrity"
+      "alacrity",
+      "noun"
     ]
   },
   "sourceAudit": [

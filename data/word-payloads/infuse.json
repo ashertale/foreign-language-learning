@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.86"
     },
-    "coreIdea": "<code>infuse</code> 常用在句子需要把動作往「注入氣質」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>infuse</code> 是把某種味道、能量或意義泡進一個東西裡，讓它從內部帶著那股氣質。",
     "definition": {
-      "summary": "表示注入、灌注，使某物充滿特定能量、風味或意義。這個字常不是在描述機械動作，而是在說事情怎麼往「注入氣質」這個方向走。",
+      "summary": "表示注入、灌注，使某物充滿特定特質、能量、風味或意義。",
       "contrast": {
         "word": "Fill",
-        "note": "<code>Fill</code> 可以只是在說「填滿」；換成 <code>infuse</code>，句子通常是在補上「注入氣質」這層更具體的意思。"
+        "note": "<code>add</code> 是加上去；<code>infuse</code> 是讓特質泡進去。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「注入氣質」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "容器或作品已存在",
+        "某種特質被注入",
+        "整體氣質因此改變"
       ]
     },
     "memory": {
-      "hook": "<code>infuse</code> 的畫面是：像熱茶裡滴進香草，香氣不是停在一點，而是慢慢走滿整杯。",
-      "explanation": "這個畫面有用，因為它把 infuse 從翻譯拉回場面：你先看到「香氣慢慢走滿整杯」，再比較容易記住它其實在說「注入氣質」。"
+      "hook": "把 <code>infuse the design with warmth</code> 想成不是貼一個可愛圖案，而是整個互動節奏都更有人味。",
+      "explanation": "infuse 的改變會滲進整體。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>infuse with energy</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「注入氣質」收過去。"
+        "label": "能量",
+        "body": "A clear mission can <code>infuse</code> a tired team with energy."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 設計 / 視覺 裡，<code>infuse the design with warmth</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「讓那種氣質整體滲開」。"
+        "label": "設計",
+        "body": "Small"
       },
       {
-        "label": "延伸版",
-        "body": "到了 寫作 / 敘事 的場景，<code>infuse meaning</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「填滿」跟更具體的「注入氣質」差在哪。"
+        "label": "意義",
+        "body": "Rituals infuse meaning into repeated actions."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "infuse 常和 with 搭配；後面接 energy、warmth、meaning 這類可滲入整體的特質。",
       "items": [
         {
           "phrase": "infuse with energy",
-          "register": "管理 / 團隊",
-          "note": "這個搭配常出現在需要把事情往「注入氣質」講清楚的句子裡。"
+          "register": "管理 / 寫作",
+          "note": "注入能量。"
         },
         {
           "phrase": "infuse the design with warmth",
-          "register": "設計 / 視覺",
-          "note": "放到 設計 / 視覺 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "設計 / UX",
+          "note": "讓設計帶有溫度。"
         },
         {
           "phrase": "infuse meaning",
-          "register": "寫作 / 敘事",
-          "note": "在 寫作 / 敘事 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "文化 / 反思",
+          "note": "注入意義。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "注入氣質",
-        "use": "當你要把事情說成「讓那種氣質整體滲開」而不只是 填滿 時"
+        "use": "用在某種特質不是外掛，而是滲進整個作品、團隊或行為裡時。"
       },
       "others": [
         {
           "word": "Fill",
           "meaning": "填滿",
-          "use": "當句子只需要 填滿 這個動作，不必補上「讓那種氣質整體滲開」那層走向時"
+          "use": "通用；<code>infuse</code> 更像特質慢慢滲入整體。"
+        },
+        {
+          "word": "Inject",
+          "meaning": "注入",
+          "use": "較突然、技術感；<code>infuse</code> 更柔、更擴散。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>infuse</code> 常出現在 <code>infuse with energy</code>、<code>infuse the design with warmth</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「注入氣質」這個方向收緊。",
-      "如果一句話只想表達比較平的「填滿」，<code>Fill</code> 往往就夠了；但當語境需要那層更具體的「讓那種氣質整體滲開」，<code>infuse</code> 會更準。"
+      "<code>Infuse</code> 很適合談設計語氣、文化、風味、能量。",
+      "它比 add 更深，暗示整體質地被改變。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 infuse 整理成「注入氣質」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/infuse",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 infuse 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/infuse",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "fill",
       "design",
       "meaning",
-      "verb",
-      "infuse"
+      "infuse",
+      "verb"
     ]
   },
   "sourceAudit": [

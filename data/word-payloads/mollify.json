@@ -12,82 +12,87 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.38"
     },
-    "coreIdea": "<code>mollify</code> 不只是交代動作發生；它更常用來指出事情怎麼朝「把火氣壓下去」這條線走。",
+    "coreIdea": "<code>mollify</code> 是把人的怒氣或緊張先軟化下來；問題未必解決，但火勢先降。",
     "definition": {
-      "summary": "表示安撫、平息他人的怒氣或不滿。它要補上的，通常不是動作本身，而是那層更具體的「先把火氣往下壓」。",
+      "summary": "表示安撫、平息怒氣、緩和不滿或緊張。",
       "contrast": {
         "word": "Appease",
-        "note": "如果語境只需要比較平的「安撫」，用 <code>Appease</code> 往往就夠了；<code>mollify</code> 則會把「先把火氣往下壓」講得更明確。"
+        "note": "<code>appease</code> 可能像討好；<code>mollify</code> 像把火氣先降溫。"
       },
       "flow": [
-        "先有一件事正在發生",
-        "這個動詞把它收斂到「先把火氣往下壓」這種更具體的走向",
-        "因此你讀到的，不只是行為本身，還有行為帶出的語氣與後果"
+        "怒氣或緊張升高",
+        "安撫或資訊介入",
+        "情緒硬度下降"
       ]
     },
     "memory": {
-      "hook": "<code>mollify</code> 的畫面是：像燒熱的鍋邊慢慢澆上一圈水，嘶聲還在，但不再那麼爆烈。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 mollify 時，能先抓到「把火氣壓下去」這個核心，再回頭讀細節。"
+      "hook": "把 <code>mollify the customer</code> 想成不是立刻修好 bug，而是先讓對方感覺有人接住他的損失。",
+      "explanation": "mollify 的效果是 anger softened。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "讀到 <code>mollify the customer</code> 時，可以先別急著翻中文；先看句子是不是想把動作往「把火氣壓下去」這個方向講清楚。"
+        "label": "客戶",
+        "body": "A clear timeline helped <code>mollify</code> the customer while the fix was still being tested."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>mollify tensions</code> 放進 公共 / 協商 後，常會比一般近義詞更有份量，因為它把結果之外的那層語氣也帶了進來。"
+        "label": "緊張",
+        "body": "Transparent data can mollify tensions better than optimistic language."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 危機 / 現場 的情境，從 <code>mollify an angry crowd</code> 這種搭配進場通常最穩，因為語感邊界很清楚。"
+        "label": "人群",
+        "body": "The mayor tried to mollify an angry crowd with promises of an investigation."
       }
     ],
     "collocations": {
-      "note": "看這些搭配時，重點不是詞組本身，而是這個動詞通常怎麼把事情往更具體的方向收緊。",
+      "note": "mollify 常接 customer、tensions、angry crowd；搭配都指情緒熱度下降。",
       "items": [
         {
           "phrase": "mollify the customer",
-          "register": "服務 / 客訴",
-          "note": "這個搭配常出現在需要把事情往「把火氣壓下去」講清楚的句子裡。"
+          "register": "客服 / 商務",
+          "note": "安撫客戶。"
         },
         {
           "phrase": "mollify tensions",
-          "register": "公共 / 協商",
-          "note": "放到 公共 / 協商 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "政治 / 人際",
+          "note": "緩和緊張。"
         },
         {
           "phrase": "mollify an angry crowd",
-          "register": "危機 / 現場",
-          "note": "在 危機 / 現場 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "公共 / 敘事",
+          "note": "安撫憤怒群眾。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "把火氣壓下去",
-        "use": "當你要把事情說成「先把火氣往下壓」而不只是 安撫 時"
+        "use": "用在目標是降低怒氣或不滿，使局面暫時可談時。"
       },
       "others": [
         {
           "word": "Appease",
-          "meaning": "安撫",
-          "use": "當句子只需要 安撫 這個動作，不必補上「先把火氣往下壓」那層走向時"
+          "meaning": "安撫、綏靖",
+          "use": "可有讓步討好味；<code>mollify</code> 重怒氣被軟化。"
+        },
+        {
+          "word": "Pacify",
+          "meaning": "平息、使安靜",
+          "use": "可更強勢；mollify 較柔。"
         }
       ]
     },
     "modernUse": [
-      "<code>mollify</code> 在現代語境裡很少只是字面動作。它常被拿來把一句話的走向講得更清楚，尤其是在 <code>mollify the customer</code> 這類搭配裡更明顯。",
-      "所以它和 <code>Appease</code> 的差別，通常不在難度，而在句子要不要把那層「把火氣壓下去」明白說出來。"
+      "<code>Mollify</code> 不等於 solve；它先處理情緒溫度。",
+      "在客服和衝突處理裡很有用，但若沒有後續修復，mollify 會變成敷衍。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 mollify 整理成「把火氣壓下去」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/mollify",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 mollify 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/mollify",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "appease",
       "conflict",
       "service",
-      "verb",
-      "mollify"
+      "mollify",
+      "verb"
     ]
   },
   "sourceAudit": [

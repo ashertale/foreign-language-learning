@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.88"
     },
-    "coreIdea": "<code>induce</code> 關心的是「引發、誘導或歸納」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>induce</code> 不是下命令，而是設計或形成條件，讓某個反應被引出來。",
     "definition": {
-      "summary": "表示引發、誘導或歸納。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示引發、誘導或促成某反應、狀態或結果；醫學和科學語境也常見。",
       "contrast": {
         "word": "Cause",
         "note": "<code>cause</code> 是造成；<code>induce</code> 常像把系統推到會產生反應的條件。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>induce</code> 可以先記成一個畫面：條件被設計，接著反應被觸發，最後結果出現。",
-      "explanation": "這個畫面只用來幫你抓住「引發、誘導或歸納」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>induce</code> 想成 stress test 把系統推到會失敗的邊界。",
+      "explanation": "失敗不是被命令出來，而是條件讓它浮出來。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "stress test can induce failure，因為它刻意把系統推到邊界。"
+        "label": "測試",
+        "body": "stress test can <code>induce</code> failure，因為它刻意把系統推到邊界。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>induce</code> 和 <code>induce failure</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "生理",
+        "body": "Some medicines can induce sleep by changing body conditions."
+      },
+      {
+        "label": "反應",
+        "body": "A"
       }
     ],
     "collocations": {
-      "note": "<code>induce</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「引發、誘導或歸納」落地。",
+      "note": "induce 常接 failure、sleep、response。搭配會說明被引出的反應是故障、生理狀態還是行為。",
       "items": [
         {
           "phrase": "induce failure",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「引發、誘導或歸納」有明確對象。"
+          "register": "工程 / 測試",
+          "note": "透過條件設計讓 failure 出現。"
         },
         {
           "phrase": "induce sleep",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "醫療 / 日常",
+          "note": "引發睡意或睡眠。"
         },
         {
           "phrase": "induce a response",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "科學 / 設計",
+          "note": "引出某種反應。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "引發、誘導或歸納",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在你不是直接命令結果，而是讓條件促成結果時。"
       },
       "others": [
         {
           "word": "Cause",
-          "meaning": "<code>cause</code> 是造成；<code>induce</code> 常像把系統推到會產生反應的條件。",
-          "use": "如果句子只需要 cause 的普通意思，就保留那個較簡單的字。"
+          "meaning": "造成",
+          "use": "通用直接因果。"
+        },
+        {
+          "word": "Trigger",
+          "meaning": "觸發",
+          "use": "常指啟動某事件。"
+        },
+        {
+          "word": "Elicit",
+          "meaning": "引出",
+          "use": "常用於回應、資訊或情緒。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>induce</code> 常把一段觀察收斂成可討論的判斷。stress test can induce failure，因為它刻意把系統推到邊界。",
-      "像 <code>induce failure</code>、<code>induce sleep</code>、<code>induce a response</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Induce</code> 在測試裡很精準：好的壓力測試不是等問題發生，而是設計條件讓弱點出來。",
+      "它比 cause 多一點「引出反應」的感覺，常讓系統或身體像被推到某狀態。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 induce 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 induce 整理成「引發、誘導或歸納」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/induce",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>inducere</code>，有引入、帶進去的意思。",
-      "memoryLens": "記憶時先抓「引發、誘導或歸納」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>inducere</code> 的帶進去很適合記：induce 是把條件帶到會產生反應的位置。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "cause",
       "test",
       "response",
-      "verb",
       "verb"
     ]
   },

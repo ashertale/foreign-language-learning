@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.84"
     },
-    "coreIdea": "<code>contrive</code> 關心的是「刻意設計、安排或硬湊出某結果」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>contrive</code> 指某結果被刻意安排出來，而且人工痕跡常常看得見。",
     "definition": {
-      "summary": "表示刻意設計、安排或硬湊出某結果。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示設法做成、設計出或硬安排出某結果；語氣可中性，但常暗示不自然或費力。",
       "contrast": {
         "word": "Devise",
         "note": "<code>devise</code> 可中性表示想出方法；<code>contrive</code> 常暗示人工痕跡很重。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>contrive</code> 可以先記成一個畫面：想要結果，接著刻意安排條件，最後結果顯得不自然。",
-      "explanation": "這個畫面只用來幫你抓住「刻意設計、安排或硬湊出某結果」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>contrive</code> 想成一個為了重現 bug 而做得很窄的 test case。",
+      "explanation": "它有用，但你也會懷疑：真實世界真的會這樣發生嗎？"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "contrived test case 可能能重現 bug，但也要確認它不是只有實驗室才會發生。"
+        "label": "測試",
+        "body": "<code>Contrived</code> test case 可能能重現 bug，但也要確認它不是只有實驗室才會發生。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>contrive</code> 和 <code>contrive a solution</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "敘事",
+        "body": "A contrived plot twist feels like the writer pushed characters by hand。"
+      },
+      {
+        "label": "方法",
+        "body": "They contrived a solution 表示終於弄出辦法，但可能帶一點勉強。"
       }
     ],
     "collocations": {
-      "note": "<code>contrive</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「刻意設計、安排或硬湊出某結果」落地。",
+      "note": "contrive 的搭配常會讓人聞到人工安排：solution、example、to do。",
       "items": [
         {
           "phrase": "contrive a solution",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「刻意設計、安排或硬湊出某結果」有明確對象。"
+          "register": "書面 / 問題解決",
+          "note": "設法弄出解法，語氣可能帶費力或勉強。"
         },
         {
           "phrase": "contrived example",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "教學 / 評論",
+          "note": "例子為了說明而設計，可能不夠自然。"
         },
         {
           "phrase": "contrive to do",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "正式 / 敘事",
+          "note": "設法做到某事，常帶一點不容易或刻意。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "刻意設計、安排或硬湊出某結果",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在某結果不是自然出現，而是被費力安排或硬做出來時。"
       },
       "others": [
         {
           "word": "Devise",
-          "meaning": "<code>devise</code> 可中性表示想出方法；<code>contrive</code> 常暗示人工痕跡很重。",
-          "use": "如果句子只需要 devise 的普通意思，就保留那個較簡單的字。"
+          "meaning": "想出、設計",
+          "use": "較中性且正面，常用於方法或計畫。"
+        },
+        {
+          "word": "Fabricate",
+          "meaning": "製造；捏造",
+          "use": "負面時更像造假。"
+        },
+        {
+          "word": "Engineer",
+          "meaning": "設計安排",
+          "use": "可中性，也可比喻操控局面。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>contrive</code> 常把一段觀察收斂成可討論的判斷。contrived test case 可能能重現 bug，但也要確認它不是只有實驗室才會發生。",
-      "像 <code>contrive a solution</code>、<code>contrived example</code>、<code>contrive to do</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Contrive</code> 在技術與寫作裡都能用：contrived benchmark、contrived example、contrived explanation 都在提醒讀者小心真實性。",
+      "如果你想稱讚創造力，devise 通常比 contrive 安全；contrive 常帶一點露出手痕的味道。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 contrive 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 contrive 整理成「刻意設計、安排或硬湊出某結果」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/contrive",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "詞史和設計、安排有關；現代語氣常帶一點「硬做出來」。",
-      "memoryLens": "記憶時先抓「刻意設計、安排或硬湊出某結果」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源裡的安排感可以記；現代使用時，注意它常比 devise 更不自然。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "devise",
       "example",
       "solution",
-      "verb",
       "verb"
     ]
   },

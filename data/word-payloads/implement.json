@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.80"
     },
-    "coreIdea": "<code>implement</code> 關心的是「實作、執行或落實計畫」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>implement</code> 是把想法、設計或政策推進現實，變成真的會運作的東西。",
     "definition": {
-      "summary": "表示實作、執行或落實計畫。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示實作、執行或落實計畫、政策、功能或設計。",
       "contrast": {
         "word": "Plan",
         "note": "<code>plan</code> 是規劃；<code>implement</code> 是讓規劃進入現實。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>implement</code> 可以先記成一個畫面：設計存在，接著轉成具體動作，最後結果可運作。",
-      "explanation": "這個畫面只用來幫你抓住「實作、執行或落實計畫」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>implement</code> feature 想成從 spec 走到 edge cases、logs、rollback 和 tests。",
+      "explanation": "真正的實作通常不在 happy path 結束。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "implement feature 時，真正的困難常在 edge cases，而不是 happy path。"
+        "label": "功能",
+        "body": "<code>Implement</code> feature 時，真正的困難常在 edge cases，而不是 happy path。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>implement</code> 和 <code>implement feature</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "政策",
+        "body": "A policy is not implemented until people know what changes in daily work."
+      },
+      {
+        "label": "細節",
+        "body": "Implementation detail matters when abstraction leaks into user-visible behavior."
       }
     ],
     "collocations": {
-      "note": "<code>implement</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「實作、執行或落實計畫」落地。",
+      "note": "implement 常接 feature、policy、implementation detail。搭配會在程式和組織落實之間切換。",
       "items": [
         {
           "phrase": "implement feature",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「實作、執行或落實計畫」有明確對象。"
+          "register": "軟體 / 產品",
+          "note": "把功能做成可運作、可測試的東西。"
         },
         {
           "phrase": "implement policy",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "管理 / 法規",
+          "note": "讓政策進入實際流程。"
         },
         {
           "phrase": "implementation detail",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "工程",
+          "note": "實作細節，理想上不該影響高層使用者理解，但常會洩漏。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "實作、執行或落實計畫",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在想法或規劃已經轉成可運作現實時。"
       },
       "others": [
         {
           "word": "Plan",
-          "meaning": "<code>plan</code> 是規劃；<code>implement</code> 是讓規劃進入現實。",
-          "use": "如果句子只需要 plan 的普通意思，就保留那個較簡單的字。"
+          "meaning": "規劃",
+          "use": "想好路線，尚未落地。"
+        },
+        {
+          "word": "Execute",
+          "meaning": "執行",
+          "use": "偏做動作；implement 更像把設計落成。"
+        },
+        {
+          "word": "Deploy",
+          "meaning": "部署",
+          "use": "把已做好的東西放到環境中。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>implement</code> 常把一段觀察收斂成可討論的判斷。implement feature 時，真正的困難常在 edge cases，而不是 happy path。",
-      "像 <code>implement feature</code>、<code>implement policy</code>、<code>implementation detail</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Implement</code> 對工程師太熟了，但也最容易被低估。真正 implementation 包含錯誤路徑、觀測性、相容性和維護。",
+      "在管理裡 implement policy 也一樣：文件發布不是落實，行為改變才是。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 implement 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 implement 整理成「實作、執行或落實計畫」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/implement",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 implement 作工具的概念；動詞用法像拿工具把計畫做出來。",
-      "memoryLens": "記憶時先抓「實作、執行或落實計畫」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "工具的名詞義可輔助記憶；動詞 implement 像拿工具把計畫做出來。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "plan",
       "feature",
       "policy",
-      "verb",
       "verb"
     ]
   },

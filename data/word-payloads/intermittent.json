@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.89"
     },
-    "coreIdea": "<code>intermittent</code> 用來說某個人、系統或局面帶著「一陣一陣」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>intermittent</code> 是斷斷續續出現；最麻煩的是它不是一直壞，所以更難抓。",
     "definition": {
-      "summary": "表示斷斷續續、間歇性的。重點不是程度加強，而是整個對象都帶著「一陣一陣」這種質地。",
+      "summary": "形容訊號、疼痛、雨或問題間歇性、時有時無。",
       "contrast": {
         "word": "Occasional",
-        "note": "<code>Occasional</code> 可以只是在說「偶爾的」；換成 <code>intermittent</code>，句子通常是在補上「一陣一陣」這層更具體的意思。"
+        "note": "<code>occasional</code> 是偶爾；<code>intermittent</code> 是一下有、一下沒有。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「一陣一陣」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "現象不是連續存在",
+        "它反覆出現又消失",
+        "觀測與診斷變困難"
       ]
     },
     "memory": {
-      "hook": "<code>intermittent</code> 的畫面是：像窗外雨點不是連成線，而是一下敲幾聲又停幾分鐘。",
-      "explanation": "這個畫面有用，因為它把 intermittent 從翻譯拉回場面：你先看到「雨點敲幾聲又停」，再比較容易記住它其實在說「一陣一陣」。"
+      "hook": "把 <code>intermittent signal</code> 想成示波器不是平穩壞掉，而是偶爾掉一下，剛要量又恢復。",
+      "explanation": "intermittent 的節奏是 on and off。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>intermittent signal</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「偶爾的」，而是整個對象都帶著「一陣一陣」這種質地。"
+        "label": "訊號",
+        "body": "An <code>intermittent</code> signal can waste days because every test run sees a different world."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 健康 / 醫療 裡，<code>intermittent pain</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "疼痛",
+        "body": "Intermittent pain may be easier to ignore and harder to diagnose."
       },
       {
-        "label": "延伸版",
-        "body": "到了 自然 / 天氣 的場景，<code>intermittent rain</code> 很適合用來練邊界：你要講的到底是一般的「偶爾的」，還是更具體的「一陣一陣」。"
+        "label": "雨",
+        "body": "Intermittent rain changes plans without ever becoming a full storm."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "intermittent 常修飾 signal、pain、rain；搭配都指向時有時無。",
       "items": [
         {
           "phrase": "intermittent signal",
-          "register": "工程 / 訊號",
-          "note": "這個搭配會讓「一陣一陣」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "工程 / 通訊",
+          "note": "間歇訊號。"
         },
         {
           "phrase": "intermittent pain",
-          "register": "健康 / 醫療",
-          "note": "在 健康 / 醫療 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "醫療 / 日常",
+          "note": "間歇性疼痛。"
         },
         {
           "phrase": "intermittent rain",
-          "register": "自然 / 天氣",
-          "note": "如果你想把這個字用穩，從 自然 / 天氣 常見的這個搭配進場通常最自然。"
+          "register": "天氣 / 日常",
+          "note": "陣雨、斷續降雨。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "一陣一陣",
-        "use": "當你要強調整體帶著「一陣一陣地回來」這種質地，而不只是 偶爾的 時"
+        "use": "用在問題或現象反覆出現又消失，形成斷續模式時。"
       },
       "others": [
         {
           "word": "Occasional",
           "meaning": "偶爾的",
-          "use": "當句子只需要 偶爾的 這個中性描述，不必把「一陣一陣地回來」這種氣質壓到前景時"
+          "use": "重頻率低；<code>intermittent</code> 重斷續模式。"
+        },
+        {
+          "word": "Sporadic",
+          "meaning": "零星的",
+          "use": "更不規則；intermittent 可有反覆開關節奏。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>intermittent</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「一陣一陣」這種質地。",
-      "也因此，它和 <code>Occasional</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "工程 debug 裡，<code>intermittent</code> 是高痛苦字，因為重現性差。",
+      "它比 occasional 更技術化，常暗示需要長時間觀測。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 intermittent 整理成「一陣一陣」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/intermittent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 intermittent 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/intermittent",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "occasional",
       "signal",
       "symptoms",
-      "adjective",
-      "intermittent"
+      "intermittent",
+      "adjective"
     ]
   },
   "sourceAudit": [

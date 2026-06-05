@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "4.22"
     },
-    "coreIdea": "<code>efficient</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「有效率、低浪費地達成結果」。",
+    "coreIdea": "<code>efficient</code> 看的是資源有沒有被浪費。快只是其中一種可能；時間、能量、記憶體、人力都要一起算。",
     "definition": {
-      "summary": "形容有效率、低浪費地達成結果。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容用較少資源達成有效結果，常用於流程、演算法、能源、工作方式或系統設計。",
       "contrast": {
         "word": "Fast",
         "note": "<code>fast</code> 是速度快；<code>efficient</code> 要看時間、能量、記憶體或人力是否被浪費。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>efficient</code> 可以先記成一個畫面：目標清楚，接著資源投入，最後浪費降低。",
-      "explanation": "這個畫面只用來幫你抓住「有效率、低浪費地達成結果」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>efficient</code> 想成不只跑得快，還少喚醒 CPU、少吃 RAM。",
+      "explanation": "真正的效率是 output 和 cost 的關係。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "efficient code 不只跑得快，也可能是少用 RAM、少喚醒 CPU。"
+        "label": "嵌入式",
+        "body": "<code>Efficient</code> code 不只跑得快，也可能是少用 RAM、少喚醒 CPU。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>efficient</code> 和 <code>efficient algorithm</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "流程",
+        "body": "An efficient workflow removes waiting, rework, and unnecessary handoffs。"
+      },
+      {
+        "label": "能源",
+        "body": "Energy-efficient design treats power as a first-class constraint。"
       }
     ],
     "collocations": {
-      "note": "<code>efficient</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「有效率、低浪費地達成結果」落地。",
+      "note": "efficient 常接 algorithm、workflow、energy-efficient。搭配會指出被節省的是時間、步驟、功耗或計算資源。",
       "items": [
         {
           "phrase": "efficient algorithm",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「有效率、低浪費地達成結果」有明確對象。"
+          "register": "演算法 / 軟體",
+          "note": "用較少時間或空間解問題。"
         },
         {
           "phrase": "efficient workflow",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "組織 / 工具",
+          "note": "減少等待、重工和無效切換。"
         },
         {
           "phrase": "energy-efficient",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "硬體 / 環境",
+          "note": "用較少能量達成同樣或足夠效果。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "有效率、低浪費地達成結果",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在同樣結果下，資源消耗較少或浪費較低時。"
       },
       "others": [
         {
           "word": "Fast",
-          "meaning": "<code>fast</code> 是速度快；<code>efficient</code> 要看時間、能量、記憶體或人力是否被浪費。",
-          "use": "如果句子只需要 fast 的普通意思，就保留那個較簡單的字。"
+          "meaning": "快",
+          "use": "只看速度，不一定省資源。"
+        },
+        {
+          "word": "Effective",
+          "meaning": "有效",
+          "use": "能達成目的；efficient 還要看成本。"
+        },
+        {
+          "word": "Productive",
+          "meaning": "有產出",
+          "use": "偏人或團隊的產出量。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>efficient</code> 常把一段觀察收斂成可討論的判斷。efficient code 不只跑得快，也可能是少用 RAM、少喚醒 CPU。",
-      "像 <code>efficient algorithm</code>、<code>efficient workflow</code>、<code>energy-efficient</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Efficient</code> 對 firmware 很貼身，因為資源限制不是抽象成本，而是電池、記憶體、時間和熱。",
+      "不要把 efficient 和 effective 混掉：做對事是 effective；用少一點成本做對事才是 efficient。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 efficient 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 efficient 整理成「有效率、低浪費地達成結果」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/efficient",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>efficere</code>，有做成、產生結果的意思。",
-      "memoryLens": "記憶時先抓「有效率、低浪費地達成結果」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>efficere</code> 的做成結果感可當背景；現代使用時記住 cost/output。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "fast",
       "algorithm",
       "workflow",
-      "adjective",
       "adjective"
     ]
   },

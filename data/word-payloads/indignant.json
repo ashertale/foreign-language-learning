@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.66"
     },
-    "coreIdea": "<code>indignant</code> 真正抓住的，不是程度高低，而是整體怎麼被「氣裡面帶著被冒犯和不公平感」這個感覺支配。",
+    "coreIdea": "<code>indignant</code> 是覺得不公、不該如此而發怒；怒氣裡有道德立場。",
     "definition": {
-      "summary": "表示憤慨、不平地發怒。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容因覺得被冒犯、不公平或不正當而憤慨。",
       "contrast": {
         "word": "Angry",
-        "note": "如果語境只需要比較平的「生氣」，用 <code>Angry</code> 往往就夠了；<code>indignant</code> 則會把「氣裡面帶著被冒犯和不公平感」講得更明確。"
+        "note": "<code>angry</code> 是生氣；<code>indignant</code> 是因不公而生氣。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「氣裡面帶著被冒犯和不公平感」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "某行為被視為不當",
+        "尊嚴或公平感被碰到",
+        "怒氣帶著道德判斷升起"
       ]
     },
     "memory": {
-      "hook": "<code>indignant</code> 的畫面是：像胸口不是被點燃，而是被硬生生壓上了一塊不該承受的石頭。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 indignant 時，能先抓到「因不公平而怒」這個核心，再回頭讀細節。"
+      "hook": "把 <code>indignant response</code> 想成不是單純 angry，而是對方覺得界線和尊嚴被踩了。",
+      "explanation": "indignant 的火來自 sense of wrong。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>indignant response</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「因不公平而怒」這層氣質壓到前景。"
+        "label": "回應",
+        "body": "Her"
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>indignant at the remark</code> 放進 人際 / 對話 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "言論",
+        "body": "They were indignant at the remark because it dismissed years of work."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 敘事 / 描寫 的情境，從 <code>sound indignant</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "聲音",
+        "body": "A voice can sound indignant even before it becomes loud."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "indignant 常修飾 response，也常接 at；搭配通常揭示哪裡被視為不公或冒犯。",
       "items": [
         {
           "phrase": "indignant response",
-          "register": "公共 / 回應",
-          "note": "這個搭配會讓「因不公平而怒」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "人際 / 公共",
+          "note": "憤慨回應。"
         },
         {
           "phrase": "indignant at the remark",
-          "register": "人際 / 對話",
-          "note": "在 人際 / 對話 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "日常 / 工作",
+          "note": "因某句話感到憤慨。"
         },
         {
           "phrase": "sound indignant",
-          "register": "敘事 / 描寫",
-          "note": "如果你想把這個字用穩，從 敘事 / 描寫 常見的這個搭配進場通常最自然。"
+          "register": "敘事 / 會話",
+          "note": "聽起來很憤慨。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "因不公平而怒",
-        "use": "當你要強調整體帶著「氣裡面帶著被冒犯和不公平感」這種質地，而不只是 生氣 時"
+        "use": "用在怒氣來自不公平、冒犯或尊嚴被踩，而不是單純不爽時。"
       },
       "others": [
         {
           "word": "Angry",
           "meaning": "生氣",
-          "use": "當句子只需要 生氣 這個中性描述，不必把「氣裡面帶著被冒犯和不公平感」這種氣質壓到前景時"
+          "use": "範圍廣；<code>indignant</code> 的怒氣有道德理由。"
+        },
+        {
+          "word": "Outraged",
+          "meaning": "震怒",
+          "use": "程度更強、更公共；indignant 可較克制。"
         }
       ]
     },
     "modernUse": [
-      "<code>indignant</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>indignant response</code>、<code>indignant at the remark</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「生氣」，<code>Angry</code> 也許夠用；但當你需要的是更具體的「氣裡面帶著被冒犯和不公平感」，<code>indignant</code> 會更準。"
+      "<code>Indignant</code> 很適合寫職場或公共場域的界線被侵犯。",
+      "它能讓你說明 angry 的原因：不是脾氣大，而是覺得不該如此。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 indignant 整理成「因不公平而怒」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/indignant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 indignant 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/indignant",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "angry",
       "justice",
       "response",
-      "adjective",
-      "indignant"
+      "indignant",
+      "adjective"
     ]
   },
   "sourceAudit": [

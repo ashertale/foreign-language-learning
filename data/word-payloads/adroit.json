@@ -12,82 +12,92 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.63"
     },
-    "coreIdea": "<code>adroit</code> 用來說某個人、系統或局面帶著「靈巧熟練」這種質地。它不是單純加強語氣，而是改變你怎麼看整個對象。",
+    "coreIdea": "<code>adroit</code> 是手法和判斷都靈巧，動作乾淨，拿捏得住局面。",
     "definition": {
-      "summary": "表示技巧熟練而俐落，能在複雜情境中巧妙應對。重點不是程度加強，而是整個對象都帶著「靈巧熟練」這種質地。",
+      "summary": "形容人處理事情熟練、靈巧、機敏，尤其在複雜或敏感情境中做得漂亮。",
       "contrast": {
         "word": "Skilled",
-        "note": "<code>Skilled</code> 可以只是在說「熟練」；換成 <code>adroit</code>，句子通常是在補上「靈巧熟練」這層更具體的意思。"
+        "note": "<code>skilled</code> 是有能力；<code>adroit</code> 還帶機敏、靈巧和分寸。"
       },
       "flow": [
-        "先有一個人、流程、系統或局面",
-        "它在語境裡露出「靈巧熟練」這種質地",
-        "所以你感受到的不是單一特徵，而是整體氣氛被它帶著走"
+        "局面需要拿捏",
+        "動作乾淨靈巧",
+        "結果顯得漂亮"
       ]
     },
     "memory": {
-      "hook": "<code>adroit</code> 的畫面是：像手指在狹小零件間滑過去，沒有多餘力道卻每一步都到位。",
-      "explanation": "這個畫面有用，因為它把 adroit 從翻譯拉回場面：你先看到「拿捏得住」，再比較容易記住它其實在說「靈巧熟練」。"
+      "hook": "把 <code>adroit</code> handling 想成 reviewer 一句話同時指出問題、保住對方面子、給出下一步。",
+      "explanation": "不是只會做，而是做得巧。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>adroit handling</code> 會把這個字放到最自然的名詞上，讓你看到重點不是單純的「熟練」，而是整個對象都帶著「靈巧熟練」這種質地。"
+        "label": "處理",
+        "body": "<code>Adroit</code> handling of a tense review can keep both truth and trust in the room."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 談判 / 商務 裡，<code>adroit negotiator</code> 常讓語氣多一層判斷，因為它不只描述性質，還在提示你應該怎麼看這個東西。"
+        "label": "談判",
+        "body": "An adroit negotiator notices which point is principle and which is packaging."
       },
       {
-        "label": "延伸版",
-        "body": "到了 人際 / 溝通 的場景，<code>adroit response</code> 很適合用來練邊界：你要講的到底是一般的「熟練」，還是更具體的「靈巧熟練」。"
+        "label": "回應",
+        "body": "An adroit response answers the real concern without overexplaining."
       }
     ],
     "collocations": {
-      "note": "這些搭配會把抽象質地落到具體名詞上，讓你看見這個形容詞最自然的著力點。",
+      "note": "adroit 常接 handling、negotiator、response。搭配都在稱讚手法靈巧。",
       "items": [
         {
           "phrase": "adroit handling",
-          "register": "管理 / 協調",
-          "note": "這個搭配會讓「靈巧熟練」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "管理 / 人際",
+          "note": "靈巧處理局面。"
         },
         {
           "phrase": "adroit negotiator",
-          "register": "談判 / 商務",
-          "note": "在 談判 / 商務 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "商務 / 政治",
+          "note": "熟練機敏的談判者。"
         },
         {
           "phrase": "adroit response",
-          "register": "人際 / 溝通",
-          "note": "如果你想把這個字用穩，從 人際 / 溝通 常見的這個搭配進場通常最自然。"
+          "register": "溝通 / 公關",
+          "note": "拿捏得宜的回應。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "靈巧熟練",
-        "use": "當你要強調整體帶著「動作與判斷都靈巧、乾淨、拿捏得住」這種質地，而不只是 熟練 時"
+        "use": "用在能力不只熟練，還帶機敏、靈巧和分寸時。"
       },
       "others": [
         {
           "word": "Skilled",
           "meaning": "熟練",
-          "use": "當句子只需要 熟練 這個中性描述，不必把「動作與判斷都靈巧、乾淨、拿捏得住」這種氣質壓到前景時"
+          "use": "一般能力強。"
+        },
+        {
+          "word": "Dexterous",
+          "meaning": "手巧、靈巧",
+          "use": "更可指手部動作。"
+        },
+        {
+          "word": "Tactful",
+          "meaning": "得體",
+          "use": "重人際分寸。"
         }
       ]
     },
     "modernUse": [
-      "現在看到 <code>adroit</code>，多半不是為了把語氣寫得更花，而是為了讓讀者一眼看出某個人、系統或局面正帶著「靈巧熟練」這種質地。",
-      "也因此，它和 <code>Skilled</code> 的差別通常不在字面強弱，而在你要不要把那種具體氣質明白地壓到前景。"
+      "<code>Adroit</code> 是很精緻的稱讚，適合複雜場面中的漂亮處理。",
+      "它不只是 efficient，也不只是 polite；adroit 的人知道哪裡該推、哪裡該讓。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 adroit 整理成「靈巧熟練」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/adroit",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 adroit 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/adroit",
         "label": "Merriam-Webster"
       }
@@ -105,8 +115,8 @@
       "skilled",
       "technique",
       "negotiation",
-      "adjective",
-      "adroit"
+      "adroit",
+      "adjective"
     ]
   },
   "sourceAudit": [

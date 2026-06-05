@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.60"
     },
-    "coreIdea": "<code>contradict</code> 關心的是「與某說法、資料或期待相矛盾」這個動作如何改變局面；它讓句子從描述狀態轉成描述推進方式。",
+    "coreIdea": "<code>contradict</code> 不是補另一個角度，而是讓兩個說法不能同時站著。",
     "definition": {
-      "summary": "表示與某說法、資料或期待相矛盾。用它時，焦點在動作造成的方向、邊界或後果，而不是只說有事情發生。",
+      "summary": "表示與某說法、證據、期待或自己先前的話相矛盾。重點是內容衝突，不只是不同意。",
       "contrast": {
         "word": "Disagree",
         "note": "<code>disagree</code> 是不同意；<code>contradict</code> 是內容本身互相衝突。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>contradict</code> 可以先記成一個畫面：一個說法成立，接著另一個說法相撞，最後兩者不能同時為真。",
-      "explanation": "這個畫面只用來幫你抓住「與某說法、資料或期待相矛盾」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>contradict</code> 想成 log 直接把 hypothesis 推倒。",
+      "explanation": "這不是語氣問題，而是兩者在事實上對不起來。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "log contradicts the theory 時，不是誰講話難聽，而是理論要重修。"
+        "label": "Debug",
+        "body": "log <code>contradicts</code> the theory 時，不是誰講話難聽，而是理論要重修。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>contradict</code> 和 <code>contradict evidence</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "說法",
+        "body": "He contradicted himself 表示前後說法互相打架。"
+      },
+      {
+        "label": "期待",
+        "body": "The result contradicted expectations，代表結果不是普通意外，而是撞上既有預期。"
       }
     ],
     "collocations": {
-      "note": "<code>contradict</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「與某說法、資料或期待相矛盾」落地。",
+      "note": "contradict 常接 evidence、oneself、expectations。搭配會指出被撞倒的是證據、自己話語，還是原本預期。",
       "items": [
         {
           "phrase": "contradict evidence",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「與某說法、資料或期待相矛盾」有明確對象。"
+          "register": "研究 / 法律 / debug",
+          "note": "說法和證據不合，通常需要修改說法。"
         },
         {
           "phrase": "contradict oneself",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "日常 / 辯論",
+          "note": "前後說法衝突，削弱可信度。"
         },
         {
           "phrase": "contradict expectations",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "分析 / 報導",
+          "note": "結果和預期方向相反或不相容。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "與某說法、資料或期待相矛盾",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在兩個主張、資料或期待彼此不能同時成立時。"
       },
       "others": [
         {
           "word": "Disagree",
-          "meaning": "<code>disagree</code> 是不同意；<code>contradict</code> 是內容本身互相衝突。",
-          "use": "如果句子只需要 disagree 的普通意思，就保留那個較簡單的字。"
+          "meaning": "不同意",
+          "use": "可以只是立場不同；contradict 是內容不能同時為真。"
+        },
+        {
+          "word": "Conflict with",
+          "meaning": "與...衝突",
+          "use": "範圍較廣，可指規則、需求、排程衝突。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>contradict</code> 常把一段觀察收斂成可討論的判斷。log contradicts the theory 時，不是誰講話難聽，而是理論要重修。",
-      "像 <code>contradict evidence</code>、<code>contradict oneself</code>、<code>contradict expectations</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Contradict</code> 是很好的思考工具：當 evidence contradicts theory，成熟做法是改 theory，不是修飾 evidence。",
+      "在人際上這個字語氣偏強；說 someone contradicted you 會比 disagreed with you 更像正面撞上。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 contradict 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 contradict 整理成「與某說法、資料或期待相矛盾」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/contradict",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>contra</code>「相反」與 <code>dicere</code>「說」。",
-      "memoryLens": "記憶時先抓「與某說法、資料或期待相矛盾」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>contra</code> 加 <code>dicere</code> 很直：反著說。現代重點是內容相撞。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "disagree",
       "evidence",
       "logic",
-      "verb",
       "verb"
     ]
   },

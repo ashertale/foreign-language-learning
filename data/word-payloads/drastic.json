@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.14"
     },
-    "coreIdea": "<code>drastic</code> 真正抓住的，不是程度高低，而是整體怎麼被「會把整個局面一下拉到另一邊」這個感覺支配。",
+    "coreIdea": "<code>drastic</code> 是大刀一揮的劇烈改變；它通常有效果，也通常有代價。",
     "definition": {
-      "summary": "表示激烈、劇烈，帶來顯著而強硬的改變。它會影響的，不只是一個特徵，而是你怎麼判斷整個場面。",
+      "summary": "形容措施、削減或變化激烈、劇烈、幅度很大。",
       "contrast": {
         "word": "Severe",
-        "note": "如果語境只需要比較平的「嚴重」，用 <code>Severe</code> 往往就夠了；<code>drastic</code> 則會把「會把整個局面一下拉到另一邊」講得更明確。"
+        "note": "<code>severe</code> 說程度重；<code>drastic</code> 像做法直接切很深。"
       },
       "flow": [
-        "先有一個對象看起來還能用普通形容詞描述",
-        "接著這個字把它往「會把整個局面一下拉到另一邊」這種更具體的樣子收緊",
-        "所以它不是裝飾，而是在告訴你應該怎麼看那個對象"
+        "問題或目標出現",
+        "採取高強度手段",
+        "結果幅度大且有代價"
       ]
     },
     "memory": {
-      "hook": "<code>drastic</code> 的畫面是：像不是微調旋鈕，而是直接把整條桿子扳到底。",
-      "explanation": "記這個畫面，不是為了背故事，而是讓你下次看到 drastic 時，能先抓到「劇烈改變」這個核心，再回頭讀細節。"
+      "hook": "把 <code>drastic measure</code> 想成不是調一個參數，而是直接關閉整條功能路徑。",
+      "explanation": "drastic 的手段很重。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "看到 <code>drastic measure</code> 時，可以先抓住一點：這不是把形容詞寫得更漂亮，而是把「劇烈改變」這層氣質壓到前景。"
+        "label": "措施",
+        "body": "A <code>drastic</code> measure may be necessary during an emergency, but it should not become default policy."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "<code>drastic cut</code> 放進 財務 / 成本 後，通常會比普通近義詞更有畫面，因為它讓整個對象的輪廓變得更清楚。"
+        "label": "削減",
+        "body": "Drastic cuts can make numbers look better while hollowing out capacity."
       },
       {
-        "label": "延伸版",
-        "body": "如果你想把這個字放進 生活 / 轉折 的情境，從 <code>drastic change</code> 這種說法進場通常最自然，因為它會逼你分清楚質地差在哪。"
+        "label": "改變",
+        "body": "A drastic change forces people to relearn more than the interface."
       }
     ],
     "collocations": {
-      "note": "把這些搭配一起看，比只背中文更有用，因為你會知道這個形容詞通常貼在哪些對象上。",
+      "note": "drastic 常修飾 measure、cut、change；搭配都帶幅度大、介入重。",
       "items": [
         {
           "phrase": "drastic measure",
-          "register": "管理 / 危機",
-          "note": "這個搭配會讓「劇烈改變」不再停在抽象定義，而是直接貼到具體名詞上。"
+          "register": "政策 / 風險",
+          "note": "劇烈措施。"
         },
         {
           "phrase": "drastic cut",
-          "register": "財務 / 成本",
-          "note": "在 財務 / 成本 裡，這種說法常帶出額外的判斷味道，而不只是中性描述。"
+          "register": "預算 / 商務",
+          "note": "大幅削減。"
         },
         {
           "phrase": "drastic change",
-          "register": "生活 / 轉折",
-          "note": "如果你想把這個字用穩，從 生活 / 轉折 常見的這個搭配進場通常最自然。"
+          "register": "工作 / 生活",
+          "note": "劇烈改變。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "劇烈改變",
-        "use": "當你要強調整體帶著「會把整個局面一下拉到另一邊」這種質地，而不只是 嚴重 時"
+        "use": "用在改變幅度或手段重量遠超一般調整時。"
       },
       "others": [
         {
           "word": "Severe",
-          "meaning": "嚴重",
-          "use": "當句子只需要 嚴重 這個中性描述，不必把「會把整個局面一下拉到另一邊」這種氣質壓到前景時"
+          "meaning": "嚴重、嚴厲",
+          "use": "重程度；<code>drastic</code> 重手段或變化幅度。"
+        },
+        {
+          "word": "Radical",
+          "meaning": "根本性、激進",
+          "use": "重根本方向；<code>drastic</code> 重劇烈效果。"
         }
       ]
     },
     "modernUse": [
-      "<code>drastic</code> 在現代英文裡最有用的地方，是它能快速替整個對象定調。像 <code>drastic measure</code>、<code>drastic cut</code> 這些搭配，就會讓那種氣質立刻落地。",
-      "如果只說比較平的「嚴重」，<code>Severe</code> 也許夠用；但當你需要的是更具體的「會把整個局面一下拉到另一邊」，<code>drastic</code> 會更準。"
+      "<code>Drastic</code> 常帶警示感：人們會問是否真的需要這麼重的手。",
+      "在 incident response 中，drastic action 有時必要，但要記錄理由和回復路徑。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 drastic 整理成「劇烈改變」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/drastic",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 drastic 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/drastic",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "severe",
       "change",
       "crisis",
-      "adjective",
-      "drastic"
+      "drastic",
+      "adjective"
     ]
   },
   "sourceAudit": [

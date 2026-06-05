@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "3.48"
     },
-    "coreIdea": "<code>complacent</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「自滿到忽略風險或改進空間」。",
+    "coreIdea": "<code>complacent</code> 是舒服到失去警覺的狀態。它表面像安心，底下其實是風險感測器變鈍。",
     "definition": {
-      "summary": "形容自滿到忽略風險或改進空間。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人因為太滿意現況而自滿、鬆懈，忽略仍然存在或正在形成的風險。",
       "contrast": {
         "word": "Confident",
         "note": "<code>confident</code> 可以是有根據的自信；<code>complacent</code> 暗示警覺下降。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>complacent</code> 可以先記成一個畫面：現況看似穩定，接著警戒開始下降，最後風險被忽略。",
-      "explanation": "這個畫面只用來幫你抓住「自滿到忽略風險或改進空間」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>complacent</code> 想成測試連過太久後，大家開始不看 failure mode。",
+      "explanation": "危險不在成功本身，而在成功讓人停止懷疑。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "測試長期都過，不代表可以 complacent；最危險的 bug 常藏在習慣裡。"
+        "label": "品質",
+        "body": "測試長期都過，不代表可以 <code>complacent</code>；最危險的 bug 常藏在習慣裡。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>complacent</code> 和 <code>become complacent</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "安全",
+        "body": "<code>Complacent about safety</code> 通常是事故前最難承認的狀態。"
+      },
+      {
+        "label": "態度",
+        "body": "A complacent attitude 會把過去的成功錯當成未來的保證。"
       }
     ],
     "collocations": {
-      "note": "<code>complacent</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「自滿到忽略風險或改進空間」落地。",
+      "note": "complacent 常和 become、attitude、about safety 連用；搭配通常在描述警覺慢慢下降。",
       "items": [
         {
           "phrase": "become complacent",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「自滿到忽略風險或改進空間」有明確對象。"
+          "register": "管理 / 風險",
+          "note": "從有警覺變成太放心，常因長期順利造成。"
         },
         {
           "phrase": "complacent attitude",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "評論 / 職場",
+          "note": "自滿心態，暗示人不再主動查問題。"
         },
         {
           "phrase": "complacent about safety",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "安全 / 工程",
+          "note": "對安全太放心，反而忽略基本檢查。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "自滿到忽略風險或改進空間",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在現況看似穩定，反而讓人停止查風險或改善時。"
       },
       "others": [
         {
           "word": "Confident",
-          "meaning": "<code>confident</code> 可以是有根據的自信；<code>complacent</code> 暗示警覺下降。",
-          "use": "如果句子只需要 confident 的普通意思，就保留那個較簡單的字。"
+          "meaning": "有信心",
+          "use": "可以有證據支撐，不必然負面。"
+        },
+        {
+          "word": "Satisfied",
+          "meaning": "滿意",
+          "use": "只是覺得結果可以；complacent 多了失去警覺的批評。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>complacent</code> 常把一段觀察收斂成可討論的判斷。測試長期都過，不代表可以 complacent；最危險的 bug 常藏在習慣裡。",
-      "像 <code>become complacent</code>、<code>complacent attitude</code>、<code>complacent about safety</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Complacent</code> 是 incident prevention 裡很有用的警告字。它說的不是能力不足，而是成功讓警戒鬆掉。",
+      "如果要寫得準，最好接上對象：complacent about security、quality、market position。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 complacent 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 complacent 整理成「自滿到忽略風險或改進空間」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/complacent",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "來自 Latin 與「令人愉悅、滿意」相關的概念；負面語氣來自過度滿意。",
-      "memoryLens": "記憶時先抓「自滿到忽略風險或改進空間」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "字源裡的滿意感解釋了它為什麼危險：舒服本身沒有錯，錯在舒服讓人不再看路。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "confident",
       "safety",
       "risk",
-      "adjective",
       "adjective"
     ]
   },

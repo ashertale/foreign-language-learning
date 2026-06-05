@@ -12,82 +12,87 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>ebb</code> 常用在句子需要把動作往「逐漸退去」這個方向收緊時。重點不只是做了什麼，而是事情因此偏向哪一種選擇。",
+    "coreIdea": "<code>ebb</code> 是潮水退去那種慢慢變少；力量、興趣、信心也可以這樣退。",
     "definition": {
-      "summary": "表示潮水、力量、情緒或支持逐漸減退。這個字常不是在描述機械動作，而是在說事情怎麼往「逐漸退去」這個方向走。",
+      "summary": "表示潮退，也表示能量、情緒、支持或興趣逐漸減弱。",
       "contrast": {
         "word": "Fade",
-        "note": "<code>Fade</code> 可以只是在說「消退」；換成 <code>ebb</code>，句子通常是在補上「逐漸退去」這層更具體的意思。"
+        "note": "<code>decline</code> 是數字往下；<code>ebb</code> 是水位退掉。"
       },
       "flow": [
-        "先有一個人、做法、關係或局面",
-        "句子接著把動作往「逐漸退去」這個方向推進",
-        "所以最後留下的，不只是動作完成，還有那個轉向本身"
+        "力量原本存在",
+        "它逐步減弱",
+        "留下退潮後的空位"
       ]
     },
     "memory": {
-      "hook": "<code>ebb</code> 的畫面是：像海水退下去後，岸邊的石頭一顆一顆重新露出來。",
-      "explanation": "這個畫面有用，因為它把 ebb 從翻譯拉回場面：你先看到「石頭慢慢重新露出」，再比較容易記住它其實在說「逐漸退去」。"
+      "hook": "把 <code>energy begins to ebb</code> 想成會議到第二小時，大家回應還在，但亮度一點點退掉。",
+      "explanation": "ebb 的下降是漸退，不是斷電。"
     },
     "usage": [
       {
-        "label": "日常版",
-        "body": "<code>energy begins to ebb</code> 這種說法會把動作放回它真正會發生的場景裡，讓你看到重點不是字面動作，而是事情怎麼往「逐漸退去」收過去。"
+        "label": "能量",
+        "body": "When energy begins to <code>ebb</code>, decisions get slower and defaults get stronger."
       },
       {
-        "label": "數位 / 專業版",
-        "body": "在 市場 / 趨勢 裡，<code>interest ebbs</code> 常用來把語氣收得更準：它不只交代事情做了，還交代事情怎麼帶出那層「慢慢往後退，露出原本被蓋住的地方」。"
+        "label": "興趣",
+        "body": "Interest ebbs when early excitement is not connected to real progress."
       },
       {
-        "label": "延伸版",
-        "body": "到了 自然 / 描寫 的場景，<code>the tide ebbs</code> 很適合拿來練邊界，因為它會逼你分清楚一般的「消退」跟更具體的「逐漸退去」差在哪。"
+        "label": "潮水",
+        "body": "The tide ebbs, leaving the shape of the shore visible."
       }
     ],
     "collocations": {
-      "note": "這組搭配會告訴你，這個動詞最自然會把句子往哪種場面推；比只記中文更能抓到用法。",
+      "note": "ebb 常和 energy、interest、tide 搭配；它把下降寫成退潮。",
       "items": [
         {
           "phrase": "energy begins to ebb",
-          "register": "健康 / 狀態",
-          "note": "這個搭配常出現在需要把事情往「逐漸退去」講清楚的句子裡。"
+          "register": "工作 / 敘事",
+          "note": "能量開始退去。"
         },
         {
           "phrase": "interest ebbs",
-          "register": "市場 / 趨勢",
-          "note": "放到 市場 / 趨勢 裡，它會讓動作聽起來不只發生了，還帶著明顯的語氣或後果。"
+          "register": "學習 / 市場",
+          "note": "興趣逐漸減弱。"
         },
         {
           "phrase": "the tide ebbs",
-          "register": "自然 / 描寫",
-          "note": "在 自然 / 描寫 的場景裡，這種說法能幫你看清楚它和近義詞的邊界。"
+          "register": "自然 / 文學",
+          "note": "潮水退去。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "逐漸退去",
-        "use": "當你要把事情說成「慢慢往後退，露出原本被蓋住的地方」而不只是 消退 時"
+        "use": "用在力量或情緒不是突然消失，而是一波一波退弱時。"
       },
       "others": [
         {
           "word": "Fade",
-          "meaning": "消退",
-          "use": "當句子只需要 消退 這個動作，不必補上「慢慢往後退，露出原本被蓋住的地方」那層走向時"
+          "meaning": "逐漸淡去",
+          "use": "範圍廣；<code>ebb</code> 特別像潮水式退減。"
+        },
+        {
+          "word": "Decline",
+          "meaning": "下降",
+          "use": "較分析；<code>ebb</code> 更有節奏和畫面。"
         }
       ]
     },
     "modernUse": [
-      "在今天的英文裡，<code>ebb</code> 常出現在 <code>energy begins to ebb</code>、<code>interest ebbs</code> 這類搭配裡。真正有用的不是背它對應哪個中文，而是看它怎麼把動作往「逐漸退去」這個方向收緊。",
-      "如果一句話只想表達比較平的「消退」，<code>Fade</code> 往往就夠了；但當語境需要那層更具體的「慢慢往後退，露出原本被蓋住的地方」，<code>ebb</code> 會更準。"
+      "<code>Ebb and flow</code> 是常見片語，表示起伏變化。",
+      "用在團隊能量很自然，因為注意力和士氣常像潮水。"
     ],
     "sources": {
       "dictionary": {
-        "note": "基本定義與發音參考 Merriam-Webster。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ebb 整理成「逐漸退去」的學習概念。",
         "url": "https://www.merriam-webster.com/dictionary/ebb",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "現代搭配與使用邊界以 Merriam-Webster 的常見義與例句方向為參考。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準 ebb 在正式、日常與專業英文中的使用邊界。",
         "url": "https://www.merriam-webster.com/dictionary/ebb",
         "label": "Merriam-Webster"
       }
@@ -105,8 +110,8 @@
       "fade",
       "energy",
       "tide",
-      "verb",
-      "ebb"
+      "ebb",
+      "verb"
     ]
   },
   "sourceAudit": [

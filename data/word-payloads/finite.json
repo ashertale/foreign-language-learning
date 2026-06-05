@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.92"
     },
-    "coreIdea": "<code>finite</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「有限的、有終點」。",
+    "coreIdea": "<code>finite</code> 不是很少，而是有邊界、有終點、不能假裝無限。",
     "definition": {
-      "summary": "形容有限的、有終點的。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容數量、資源、狀態或時間有限，可被界定或終究會用完。",
       "contrast": {
         "word": "Limited",
         "note": "<code>limited</code> 是受限制；<code>finite</code> 更直接說它不是無限。"
@@ -26,59 +26,73 @@
       ]
     },
     "memory": {
-      "hook": "<code>finite</code> 可以先記成一個畫面：邊界存在，接著資源可數，最後終點會到。",
-      "explanation": "這個畫面只用來幫你抓住「有限的、有終點」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "把 <code>finite</code> 想成 RAM：不是哲學概念，而是每個 allocation 都會碰到的牆。",
+      "explanation": "有限性會逼設計做取捨。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "RAM is finite，所以設計必須承認每一個 allocation 都有代價。"
+        "label": "記憶體",
+        "body": "RAM is <code>finite</code>，所以設計必須承認每一個 allocation 都有代價。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>finite</code> 和 <code>finite resource</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "狀態機",
+        "body": "A finite state machine has a defined set of states, which makes behavior easier to reason about."
+      },
+      {
+        "label": "時間",
+        "body": "Attention is finite; every meeting spends some of it."
       }
     ],
     "collocations": {
-      "note": "<code>finite</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「有限的、有終點」落地。",
+      "note": "finite 常接 resource、state、amount。搭配都在強調邊界和可數性。",
       "items": [
         {
           "phrase": "finite resource",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「有限的、有終點」有明確對象。"
+          "register": "工程 / 經濟",
+          "note": "有限資源，使用需要取捨。"
         },
         {
           "phrase": "finite state",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "電腦科學 / 系統",
+          "note": "有限狀態，行為被限制在明確集合中。"
         },
         {
           "phrase": "finite amount",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "通用 / 數量",
+          "note": "有限數量，不可無限延伸。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "有限的、有終點的",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在必須承認邊界、終點或資源不可無限使用時。"
       },
       "others": [
         {
           "word": "Limited",
-          "meaning": "<code>limited</code> 是受限制；<code>finite</code> 更直接說它不是無限。",
-          "use": "如果句子只需要 limited 的普通意思，就保留那個較簡單的字。"
+          "meaning": "受限制的",
+          "use": "可泛指限制；finite 直接表示不是無限。"
+        },
+        {
+          "word": "Scarce",
+          "meaning": "稀缺",
+          "use": "不只有限，還不夠用。"
+        },
+        {
+          "word": "Bounded",
+          "meaning": "有界的",
+          "use": "數學或工程語氣，強調上下界。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>finite</code> 常把一段觀察收斂成可討論的判斷。RAM is finite，所以設計必須承認每一個 allocation 都有代價。",
-      "像 <code>finite resource</code>、<code>finite state</code>、<code>finite amount</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "<code>Finite</code> 是工程設計裡非常實在的字。CPU time、RAM、battery、human attention 都 finite，所以取捨不能靠願望。",
+      "它不等於 scarce；有限的東西可能暫時夠用，但仍需要邊界意識。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 finite 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 finite 整理成「有限的、有終點的」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/finite",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +104,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>finis</code>「邊界、終點」。",
-      "memoryLens": "記憶時先抓「有限的、有終點的」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "<code>finis</code> 是邊界、終點；finite 就是有終點。"
     }
   },
   "indexEntry": {
@@ -105,7 +119,6 @@
       "limited",
       "resource",
       "state",
-      "adjective",
       "adjective"
     ]
   },

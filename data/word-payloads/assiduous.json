@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.68"
     },
-    "coreIdea": "<code>assiduous</code> 用來替人、事物或判斷加上一條清楚邊界：它不是泛泛的好壞，而是指出「長時間勤勉且注意細節」。",
+    "coreIdea": "<code>assiduous</code> 稱讚的是願意長時間守在工作旁邊的努力：細、穩、耐煩，不讓小缺口被草草放過。",
     "definition": {
-      "summary": "形容長時間勤勉且注意細節。它通常不是單純稱讚或批評，而是替狀態補上一個更精準的判斷角度。",
+      "summary": "形容人做事勤勉、細密而持續，尤其是長時間貼著細節、不因工作瑣碎就鬆手。",
       "contrast": {
         "word": "Diligent",
         "note": "<code>diligent</code> 已經是勤勉；<code>assiduous</code> 更有持續貼著做、不鬆手的感覺。"
@@ -26,59 +26,68 @@
       ]
     },
     "memory": {
-      "hook": "<code>assiduous</code> 可以先記成一個畫面：投入時間，接著照看細節，最後持續完成。",
-      "explanation": "這個畫面只用來幫你抓住「長時間勤勉且注意細節」；真正使用時，要回到句子裡看它標出的邊界。"
+      "hook": "<code>assiduous</code> 像 reviewer 坐在 diff 旁邊，一行一行陪它走完。",
+      "explanation": "這個畫面有一種持續在場感。它不是熱血衝刺，而是耐心不離開工作本身。"
     },
     "usage": [
       {
-        "label": "實務判斷",
-        "body": "assiduous reviewer 不只看大方向，也會追到邊界條件和錯字。"
+        "label": "Code review",
+        "body": "An <code>assiduous</code> reviewer 不只看架構，也會追到邊界條件、錯字和 log 訊息的真實可用性。"
       },
       {
-        "label": "寫作語氣",
-        "body": "寫作時可以讓 <code>assiduous</code> 和 <code>assiduous effort</code> 這類搭配一起出現，把句子從泛泛描述推到具體判斷。"
+        "label": "研究 / 閱讀",
+        "body": "An <code>assiduous</code> reader 會慢慢核對註腳、例子和語氣，不急著只抓一句結論。"
+      },
+      {
+        "label": "語氣",
+        "body": "這個字比 <code>diligent</code> 更書面，也更像在稱讚長時間貼近細節的耐性。"
       }
     ],
     "collocations": {
-      "note": "<code>assiduous</code> 通常不是孤立出現；它透過這些搭配連到具體名詞、動作或場景，讓「長時間勤勉且注意細節」落地。",
+      "note": "assiduous 常接 attention、effort、care。這些搭配都把焦點放在「不離開細節」的工作方式。",
       "items": [
         {
           "phrase": "assiduous effort",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "適合放在正式文件或分析裡，讓「長時間勤勉且注意細節」有明確對象。"
+          "register": "正式 / 書面",
+          "note": "努力不是一陣，而是持續、穩定、願意做完細節。"
         },
         {
           "phrase": "assiduous attention",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "語氣比一般說法更收斂，通常用來標出問題的範圍或程度。"
+          "register": "評論 / 專業寫作",
+          "note": "常用來稱讚對細節、證據或人的需求照顧得很細。"
         },
         {
           "phrase": "assiduous reader",
-          "register": "正式 / 專業 / 日常寫作",
-          "note": "可放進實務討論，連到 decision、risk、quality、behavior 或 ownership。"
+          "register": "文學 / 學術",
+          "note": "讀者願意慢慢跟完整本書或論證，不只掃大意。"
         }
       ]
     },
     "neighbors": {
       "self": {
         "meaning": "長時間勤勉且注意細節",
-        "use": "當普通字會把責任、程度或關係說糊，而句子需要更清楚邊界時使用。"
+        "use": "用在耐心、長時間、貼近細節的努力。"
       },
       "others": [
         {
           "word": "Diligent",
-          "meaning": "<code>diligent</code> 已經是勤勉；<code>assiduous</code> 更有持續貼著做、不鬆手的感覺。",
-          "use": "如果句子只需要 diligent 的普通意思，就保留那個較簡單的字。"
+          "meaning": "勤勉認真",
+          "use": "一般稱讚努力可靠，用 <code>diligent</code> 很自然。"
+        },
+        {
+          "word": "Meticulous",
+          "meaning": "極重細節",
+          "use": "如果重點是精細程度而不是持續投入，<code>meticulous</code> 更直接。"
         }
       ]
     },
     "modernUse": [
-      "在工作英文裡，<code>assiduous</code> 常把一段觀察收斂成可討論的判斷。assiduous reviewer 不只看大方向，也會追到邊界條件和錯字。",
-      "像 <code>assiduous effort</code>、<code>assiduous attention</code>、<code>assiduous reader</code> 這類搭配，讓這個字自然進入報告、review、spec 或跨團隊討論。"
+      "在推薦信、書評或正式評語裡，<code>assiduous</code> 有一種安靜但很重的稱讚：這個人不只是聰明，而是真的願意守在工作旁邊。",
+      "它不適合拿來形容短時間爆發。若努力只是一天熬夜，還不到 assiduous 的持續感。"
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；頁面用中文整理 assiduous 的概念邊界與常見語境。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 assiduous 整理成「長時間勤勉且注意細節」的學習概念。",
         "url": "https://dictionary.cambridge.org/dictionary/english/assiduous",
         "label": "Cambridge Dictionary"
       },
@@ -90,7 +99,7 @@
     },
     "origin": {
       "history": "來自 Latin <code>assiduus</code>，有「坐在旁邊、持續在場」的意思。",
-      "memoryLens": "記憶時先抓「長時間勤勉且注意細節」這條線；字源是輔助，不要把諧音或畫面誤當成歷史。"
+      "memoryLens": "Latin 裡「坐在旁邊」的畫面很貼切：assiduous 的人不是路過工作，而是坐下來把它陪完。"
     }
   },
   "indexEntry": {
@@ -105,7 +114,6 @@
       "diligent",
       "review",
       "practice",
-      "adjective",
       "adjective"
     ]
   },
