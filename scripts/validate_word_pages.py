@@ -31,7 +31,7 @@ def html_errors(path: Path, expected_html: str) -> list[str]:
         errors.append("rendered HTML does not match the current payload")
 
     if "{{" in source or "}}" in source:
-        errors.append("HTML must not contain unresolved template placeholders")
+        errors.append("HTML must not contain unresolved placeholder markers")
 
     for label in OLD_IPA_LABELS:
         if label in source:

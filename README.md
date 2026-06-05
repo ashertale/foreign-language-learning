@@ -37,7 +37,7 @@ data/word-payloads/*.json
 核心設計是「內容來源」和「可閱讀頁面」分離：
 
 - `data/word-payloads/*.json` 是單字頁的可審核輸入。
-- `scripts/render_word_page.py` 會把語意化 payload 轉成單字頁 HTML；不再依賴外部 prose template。
+- `scripts/render_word_page.py` 會依語意化 payload 產生單字頁 HTML。
 - `prototypes/<slug>.html` 是由 payload 產生的閱讀頁。
 - `prototypes/word-index.js` 是單字庫、搜尋與重複檢查共用的索引。
 - `scripts/*.py` 負責生成、同步、驗證與來源政策正規化。
@@ -108,7 +108,7 @@ uv run python scripts\sync_word_numbers.py --check
 - `indexEntry`：要加入 `prototypes/word-index.js` 的搜尋資料。
 - `sourceAudit`：dictionary、level/frequency、etymology、modern usage 的來源軌跡。
 
-`data/word-batches/*.tsv` 是可選的批次 manifest，通常使用 `|` 作為 delimiter，並以 `payload` 欄位指向既有 `data/word-payloads/*.json`。`scripts/generate_batch_word_pages.py` 目前負責驗證完整 payload JSON、render 新頁面，或用 `--update-existing` 重新渲染既有頁面；它不再從 TSV 內容欄位直接生成 learner-facing prose。批次腳本會拒絕覆寫不該新增的既有 rendered page，也會檢查 `id`、`href` 與 displayed word 是否重複。
+`data/word-batches/*.tsv` 是可選的批次 manifest，通常使用 `|` 作為 delimiter，並以 `payload` 欄位指向既有 `data/word-payloads/*.json`。`scripts/generate_batch_word_pages.py` 負責驗證完整 payload JSON、render 新頁面，或用 `--update-existing` 重新渲染既有頁面；批次腳本會拒絕覆寫不該新增的既有 rendered page，也會檢查 `id`、`href` 與 displayed word 是否重複。
 
 ## 來源政策
 

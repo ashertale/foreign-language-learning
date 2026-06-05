@@ -26,20 +26,18 @@ from validate_word_pages import validate_payload_page
 LLM_CONTENT_GUIDANCE = """\
 Write one complete word-page payload for a serious English learner.
 
-The payload must use the semantic `page` object used by this repo, not
-template placeholders. Think in sections, not slot-filling:
+The payload must use the semantic `page` object used by this repo.
+Write original section prose:
 
 - Explain the concept, tone, register, and real usage boundary before translation.
 - Let the word decide the emphasis. `usage`, `collocations.items`,
   `neighbors.others`, and `modernUse` are flexible containers, not quotas.
 - Keep prose direct and concept-first. Do not write study-script lines such as
   `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
-- Never make validation pass by adding repeated Chinese tails to usage examples.
-  Avoid endings like `（情境｜用在...）`, `這句要讀成`, `焦點落在`,
-  `例句示範的是`, or `核心就是`. A usage card may carry Chinese context
-  in its label while the body remains a natural example.
+- Keep usage examples natural. A usage card may carry Chinese context in its
+  label while the body remains a natural example.
 - Use collocations as living usage anchors and neighbors as confusion boundaries.
-- If a batch starts producing the same connector sentence across words, stop and
+- If a batch starts producing repeated connector prose across words, stop and
   rewrite the affected payloads by word before rendering.
 - Keep mnemonic images separate from historical claims.
 - Prefer concise, specific Traditional Chinese learning prose with embedded
@@ -117,7 +115,7 @@ def payloads_from_manifest(path: Path) -> list[Path]:
         if payload_key is None:
             raise RenderError(
                 f"{project_path(path)} does not list payload JSON files. "
-                "This generator no longer builds page prose from TSV content columns; "
+                "Batch manifests must point to complete payload JSON files; "
                 "prepare semantic payload JSON files first, then provide a manifest "
                 "with a payload column."
             )

@@ -19,7 +19,7 @@
 
 - `data/word-payloads/*.json`：單字頁的可審核內容來源；每個 payload 對應一個 `prototypes/<slug>.html`。
 - `data/word-batches/*.tsv`：可選的批次 manifest；通常只列出 payload JSON 路徑，不是 runtime asset，也不是 payload 的替代品。
-- `.codex/skills/daily-vocab-word-page/references/`：單字頁內容模型與 payload shape 參考；不再用 prose template 當內容 contract。
+- `.codex/skills/daily-vocab-word-page/references/`：單字頁內容模型與 payload shape 參考；以語意欄位作為內容 contract。
 - `prototypes/<slug>.html`：由語意化 payload 經 `scripts/render_word_page.py` 生成的單字深讀頁。
 - `prototypes/word-index.js`：單字庫索引與畫面上的 `Word NN` 編號來源；`order` 必須連續。
 - `prototypes/word-page.css`、`prototypes/word-page.js`：所有單字頁共用的閱讀版型與發音互動。
@@ -40,7 +40,7 @@
 - 教學重點是「概念、語氣、使用場景」，不是只給中文翻譯。
 - 字源、歷史與現代用法要分清楚；記憶故事可以生動，但不可偽裝成史實。
 - 單字頁應包含核心概念、精簡定義、字源、記憶鉤子、情境例子、搭配詞、鄰近字辨析與來源備註。
-- 不要為了批次或驗證把 usage body 補成固定句尾；禁用 `（情境｜用在...）`、`這句要讀成`、`焦點落在`、`例句示範的是`、`核心就是` 這類制式連接句。usage 的中文學習語境可以由 label 與周邊段落承擔，body 應保持自然。
+- 不要為了批次或驗證把 usage body 補成固定句尾。usage 的中文學習語境可以由 label 與周邊段落承擔，body 應保持自然。
 - `IPA` 使用精簡格式，例如 `ih-FEM-er-uhl · UK /.../ · US /.../`；不要回到 `Respelling`、`UK IPA`、`US IPA` 這種舊標籤。
 - CEFR 是 repo-calibrated study band；Zipf 參考 `wordfreq`，不要寫成外部單一字典給出的 CEFR 真值。
 - 來源欄位 `page.sources.*` 與 `sourceAudit` 必須互相一致；不要混用 label 與 URL。
@@ -65,7 +65,7 @@
 
 ### 批次新增單字頁
 
-1. 先準備完整的 `data/word-payloads/*.json`；批次腳本不再從 TSV 內容欄位直接生成 learner-facing prose。
+1. 先準備完整的 `data/word-payloads/*.json`；批次流程只接受完整 payload JSON 或指向 payload JSON 的 manifest。
 2. 若要集中指定輸入，可用 `data/word-batches/*.tsv` manifest，並提供 `payload` 欄位指向 payload JSON。
 3. 可直接對 payload 目錄執行：
    ```powershell

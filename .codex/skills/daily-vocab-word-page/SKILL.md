@@ -5,7 +5,7 @@ description: Prepare semantic JSON payloads or render/refine single-word foreign
 
 # Daily Vocab Word Page
 
-Use this project skill for one deep vocabulary word in this repo, or for a batch of independent one-word pages generated through the same content model. The target experience is a quiet, literary, paper-like learning page, not a landing page and not a slot-filled worksheet.
+Use this project skill for one deep vocabulary word in this repo, or for a batch of independent one-word pages generated through the same content model. The target experience is a quiet, literary, paper-like learning page with original section prose, not a landing page.
 
 Default to Payload Mode: prepare one reusable JSON payload shaped like the semantic `page` model in [references/payload-shape.md](references/payload-shape.md). Only render files, update `prototypes/word-index.js`, run sync scripts, or browser-verify when the user explicitly asks to generate, create, render, or modify page files.
 
@@ -25,17 +25,17 @@ Default to Payload Mode: prepare one reusable JSON payload shaped like the seman
 - Level/frequency policy: Zipf comes from `wordfreq`; CEFR is a repo-calibrated study band, not a per-word external CEFR feed. Record this in `sourceAudit` as `wordfreq Zipf + repo CEFR calibration`.
 - Keep `page.sources.dictionary`, `page.sources.modern`, and `sourceAudit` aligned to the actual selected source. Do not mix a Cambridge label with a Merriam URL, or vice versa.
 - For source-policy cleanup across existing payload/page pairs, run `uv run python scripts/normalize_word_sources.py --check` first. Run it without `--check` only when intentionally normalizing both JSON payloads and rendered HTML pages.
-- `scripts/generate_batch_word_pages.py` no longer writes learner-facing prose from TSV fields. Treat it as a batch validator/renderer for complete LLM-authored payload JSON files.
+- `scripts/generate_batch_word_pages.py` is a batch validator/renderer for complete LLM-authored payload JSON files.
 
 ## Payload Mode
 
 1. Confirm the target word(s), learner language, and any source expectations. If the user asks for N new words without naming them, read `prototypes/word-index.js` first and choose N non-duplicate, practical, concept-rich words.
-2. Read [references/payload-shape.md](references/payload-shape.md). Treat it as a data-shape reference, not a prose template. Do not write `templatePlaceholders`.
+2. Read [references/payload-shape.md](references/payload-shape.md). Treat it as a data-shape reference and write only supported semantic page fields.
 3. Fill the payload around meaning-bearing sections: `page.hero`, `page.coreIdea`, `page.definition`, optional `page.origin`, `page.memory`, flexible `page.usage`, flexible `page.collocations.items`, `page.neighbors`, `page.modernUse`, and `page.sources`.
 4. Format `page.pronunciation` as `ih-FEM-er-uhl · UK /.../ · US /.../`. Do not include the literal labels `Respelling`, `UK IPA`, or `US IPA`.
 5. Prefer plain text values with light inline HTML such as `<code>` only where the learning object benefits from it.
 6. Keep prose concept-first and reading-oriented. Do not write study-script lines such as `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
-7. Do not satisfy validation by appending standardized Chinese tails to English examples. Avoid usage-body endings like `（情境｜用在...）`, `這句要讀成`, `焦點落在`, `例句示範的是`, or `核心就是`. If a usage body is a natural English example, the Chinese learning context may live in the usage `label` or nearby prose.
+7. Keep usage examples natural. If a usage body is a natural English example, the Chinese learning context may live in the usage `label` or nearby prose.
 8. Let the word decide the emphasis. `usage`, `collocations.items`, `neighbors.others`, and `modernUse` are containers, not quotas.
 9. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
 10. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
@@ -44,7 +44,7 @@ Default to Payload Mode: prepare one reusable JSON payload shaped like the seman
 ## Render Mode
 
 1. If no payload is provided, read `prototypes/word-index.js`, choose non-duplicate word(s), then create payload file(s) under `data/word-payloads/<word-slug>.json` so rendering has an auditable input.
-2. Use the repo script `uv run python scripts/render_word_page.py <payload.json>` for normal rendering. The renderer now builds HTML from semantic payload sections rather than an external prose template.
+2. Use the repo script `uv run python scripts/render_word_page.py <payload.json>` for normal rendering. The renderer builds HTML from semantic payload sections.
 3. Before writing files, run `uv run python scripts/render_word_page.py <payload.json> --dry-run` to validate payload structure, slug, output path, duplicate `id`/`href`, and `indexEntry`.
 4. New word pages live at `prototypes/<word-slug>.html`. The render script should stop instead of overwriting an existing page.
 5. For a formal new word page, always add the payload's `indexEntry` to `prototypes/word-index.js`.
@@ -74,9 +74,8 @@ When asking LLM mode to create payloads:
 - Let the word decide the emphasis; do not force every page to spend equal weight on the same subsection count.
 - Use collocations as usage anchors and neighbors as confusion boundaries.
 - Keep source notes factual and mnemonic images clearly separate from history.
-- The final artifact still has to be a valid payload JSON because the renderer and validators need semantic structure, but that structure is not a prose template.
-- For batches, pause and rewrite by word if repeated connector phrases start appearing. Batch speed must not be paid for with prose templates.
-- Treat `scripts/realign_formulaic_payloads.py` as deprecated historical repair tooling; do not use it for new content generation.
+- The final artifact still has to be a valid payload JSON because the renderer and validators need semantic structure.
+- For batches, pause and rewrite by word if page prose starts repeating across words. Batch speed must not be paid for with repeated connector prose.
 
 You can print the local guidance with:
 

@@ -1,14 +1,14 @@
 # Payload Shape
 
-單字頁 payload 現在使用語意資料模型，不再使用 `templatePlaceholders`。
+單字頁 payload 使用語意資料模型。
 
 重點：
 
 - `page` 是內容主體；把它當成段落與區塊的語意容器，不是逐格填空。
 - `usage`、`collocations.items`、`neighbors.others`、`modernUse` 都是可伸縮陣列；依單字本身決定重點，不要為了湊版面硬塞句子。
-- `usage` 是整張卡片的語意單位，`label + body` 共同提供學習語境。不要為了讓每個 `body` 都含中文而加固定句尾，例如 `（情境｜用在...）`、`這句要讀成...`、`焦點落在...`、`例句示範的是...`。
+- `usage` 是整張卡片的語意單位，`label + body` 共同提供學習語境；body 應保持自然例句，不需要為了含中文而補固定句尾。
 - `page.sources.dictionary` 與 `page.sources.modern` 是 learner-facing source notes；`sourceAudit` 則是驗證與追蹤來源政策用的機器可檢查資料。
-- 參考框會直接重用 `page.sources.dictionary`，不再另外維護 `REFERENCE_*` 欄位。
+- 參考框使用 `page.sources.dictionary` 作為唯一的 learner-facing dictionary source 欄位。
 
 ```json
 {
