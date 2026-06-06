@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "措施",
-        "body": "A <code>drastic</code> measure may be necessary during an emergency, but it should not become default policy."
+        "body": "A <code>drastic</code> measure may be necessary during an emergency, but it should not become default policy. 這裡放在措施情境時，是在說改變幅度或手段重量遠超一般調整。"
       },
       {
         "label": "削減",
-        "body": "Drastic cuts can make numbers look better while hollowing out capacity."
+        "body": "Drastic cuts can make numbers look better while hollowing out capacity. 這裡放在削減情境時，是在說改變幅度或手段重量遠超一般調整。"
       },
       {
         "label": "改變",
-        "body": "A drastic change forces people to relearn more than the interface."
+        "body": "A drastic change forces people to relearn more than the interface. 這裡放在改變情境時，是在說改變幅度或手段重量遠超一般調整。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/drastic",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>drastic</code> 最早是醫藥語，指藥效很猛、作用很強，尤其會強烈刺激腸胃；後來才擴成極端、下手很重的意思。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Sunder",
+    "slug": "sunder",
+    "outputPath": "prototypes/sunder.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "SUN-der · UK /ˈsʌn.də/ · US /ˈsʌn.dɚ/",
+    "hero": {
+      "thesis": "不是分開，而是硬生生裂成兩邊。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.04"
+    },
+    "coreIdea": "<code>sunder</code> 表示把事情往「劈裂分離」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「劈裂分離」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Separate",
+        "note": "<code>separate</code> 是分開；<code>sunder</code> 更像被撕裂。"
+      },
+      "flow": [
+        "原本是一體",
+        "外力把它扯開",
+        "兩邊出現不可忽視的裂口"
+      ]
+    },
+    "origin": {
+      "history": "<code>sunder</code> 來自古英語裡「分開、拆散」，和 asunder 同族；所以它比 separate 更有被硬生生扯開的古老力道。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>sunder</code> 想成布不是剪開，而是從中間硬扯裂。",
+      "explanation": "它的張力比 divide 強，也比 split 更帶撕裂。"
+    },
+    "usage": [
+      {
+        "label": "群體",
+        "body": "如果一個事件把原本同陣線的人整個扯開，<code>sunder</code> 的畫面就很強。"
+      },
+      {
+        "label": "敘事",
+        "body": "文學裡常用 <code>sunder</code> 寫命運或戰爭如何把人分裂。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>sunder</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "sundered by war",
+          "register": "敘事 / 歷史",
+          "note": "這個搭配常用來寫關係、群體或整體被劇烈扯開。"
+        },
+        {
+          "phrase": "sunder the alliance",
+          "register": "政治 / 評論",
+          "note": "這個搭配常用來寫關係、群體或整體被劇烈扯開。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "劈裂分離",
+        "use": "用在關係、群體或整體被劇烈扯開時。"
+      },
+      "others": [
+        {
+          "word": "Separate",
+          "meaning": "一般地分開、拆開",
+          "use": "若沒有劇烈撕裂感，用 <code>separate</code> 更中性。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>sunder</code> 偏文學，但在需要寫出『被硬生生扯裂』的時候，力道很足。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>sunder</code> 整理成「劈裂分離」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/sunder",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>sunder</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/sunder",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "sunder",
+    "word": "Sunder",
+    "partOfSpeech": "verb",
+    "href": "./sunder.html",
+    "thesis": "不是分開，而是硬生生裂成兩邊。",
+    "tags": [
+      "劈裂分離",
+      "原本是一體",
+      "separate",
+      "sundered by war",
+      "sunder the alliance",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/sunder",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/sunder",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/sunder",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

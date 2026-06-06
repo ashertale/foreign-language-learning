@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "神經",
-        "body": "As the outage dragged on, nerves began to <code>fray</code>."
+        "body": "As the outage dragged on, nerves began to <code>fray</code>. 這裡放在神經情境時，是在說壓力或摩擦讓某物從邊緣開始鬆散、失去完整。"
       },
       {
         "label": "邊緣",
-        "body": "The cable sheath frayed at the edges after months of rubbing."
+        "body": "The cable sheath frayed at the edges after months of rubbing. 這裡放在邊緣情境時，是在說壓力或摩擦讓某物從邊緣開始鬆散、失去完整。"
       },
       {
         "label": "耐心",
-        "body": "Fraying"
+        "body": "在耐心這類情境裡，<code>fray</code> 的重點是：不是突然斷，而是邊緣慢慢起毛、失去整齊。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/fray",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>fray</code> 在現代常用的這支動詞義來自 Old French / Latin 的「摩擦、磨擦」；所以不論是布邊還是神經，畫面都是在反覆磨擦下慢慢散開。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "提案",
-        "body": "They <code>derided</code> the proposal before testing whether its smallest version could work."
+        "body": "They <code>derided</code> the proposal before testing whether its smallest version could work. 這裡放在提案情境時，是在說笑或評論的目的不是玩笑，而是把對象貶低。"
       },
       {
         "label": "天真",
-        "body": "Calling an idea naive can be analysis; deriding it as naive is social punishment."
+        "body": "Calling an idea naive can be analysis; deriding it as naive is social punishment. 這裡放在天真情境時，是在說笑或評論的目的不是玩笑，而是把對象貶低。"
       },
       {
         "label": "努力",
-        "body": "Deriding the effort teaches people to hide unfinished work."
+        "body": "Deriding the effort teaches people to hide unfinished work. 這裡放在努力情境時，是在說笑或評論的目的不是玩笑，而是把對象貶低。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/deride",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>deride</code> 經 French 來自 Latin，核心一直是帶輕蔑地笑、把人笑低；因此它不是普通取笑，而是笑裡帶貶。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

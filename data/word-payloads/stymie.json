@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Stymie",
+    "slug": "stymie",
+    "outputPath": "prototypes/stymie.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "STY-mee · UK /ˈstaɪ.mi/ · US /ˈstaɪ.mi/",
+    "hero": {
+      "thesis": "不是延遲，而是硬生生卡住前進。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.34"
+    },
+    "coreIdea": "<code>stymie</code> 表示把事情往「卡死阻住」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「卡死阻住」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Delay",
+        "note": "<code>delay</code> 只是慢下來；<code>stymie</code> 更像整個被卡住。"
+      },
+      "flow": [
+        "前進原本還在動",
+        "障礙突然卡進來",
+        "進度被整個頂住"
+      ]
+    },
+    "origin": {
+      "history": "<code>stymie</code> 先是高爾夫術語，指對手的球剛好擋在你推進路線上；後來才一般化成任何把進展硬生生卡住的障礙。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>stymie</code> 想成齒輪不是變慢，而是直接卡死。",
+      "explanation": "這個字的阻塞感很強。"
+    },
+    "usage": [
+      {
+        "label": "專案",
+        "body": "如果一個依賴沒打通，整個專案會被 <code>stymie</code> 得很明顯。"
+      },
+      {
+        "label": "成長",
+        "body": "有些人不是不努力，而是被看不見的結構性條件 <code>stymie</code> 住。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>stymie</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "stymie progress",
+          "register": "管理 / 政策",
+          "note": "這個搭配常用來寫進度、方案或成長被某個障礙拖到動不了。"
+        },
+        {
+          "phrase": "stymied by regulation",
+          "register": "商務 / 媒體",
+          "note": "這個搭配常用來寫進度、方案或成長被某個障礙拖到動不了。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "卡死阻住",
+        "use": "用在進度、方案或成長被某個障礙拖到動不了時。"
+      },
+      "others": [
+        {
+          "word": "Delay",
+          "meaning": "延後、拖慢",
+          "use": "若只是往後延，用 <code>delay</code> 更簡單。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>stymie</code> 很適合描述進度卡死而不是單純變慢，常見於專案、政策與職涯討論。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stymie</code> 整理成「卡死阻住」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/stymie",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stymie</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/stymie",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "stymie",
+    "word": "Stymie",
+    "partOfSpeech": "verb",
+    "href": "./stymie.html",
+    "thesis": "不是延遲，而是硬生生卡住前進。",
+    "tags": [
+      "卡死阻住",
+      "前進原本還在動",
+      "delay",
+      "stymie progress",
+      "stymied by regulation",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stymie",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/stymie",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stymie",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

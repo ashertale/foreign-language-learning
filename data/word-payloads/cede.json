@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "控制",
-        "body": "A"
+        "body": "在控制這類情境裡，<code>cede</code> 的重點是：不是暫借，而是把原本屬於自己的控制權正式交出去。"
       },
       {
         "label": "領土",
-        "body": "Ceding territory is literal and political: land moves out of one authority."
+        "body": "Ceding territory is literal and political: land moves out of one authority. 這裡放在領土情境時，是在說權力、控制、位置或領土從一方移到另一方。"
       },
       {
         "label": "市場",
-        "body": "A company can cede market share slowly by ignoring a small competitor for too long."
+        "body": "A company can cede market share slowly by ignoring a small competitor for too long. 這裡放在市場情境時，是在說權力、控制、位置或領土從一方移到另一方。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/cede",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>cede</code> 來自 Latin <code>cedere</code>「退讓、讓出、離開位置」；所以它不是暫借，而是把原本屬於自己的控制權正式交給別人。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

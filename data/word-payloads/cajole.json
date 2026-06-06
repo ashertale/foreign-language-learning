@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "幫忙",
-        "body": "She <code>cajoled</code> a senior engineer into reviewing the patch after everyone else had gone home."
+        "body": "She <code>cajoled</code> a senior engineer into reviewing the patch after everyone else had gone home. 這裡放在幫忙情境時，是在說說服方式不是命令，而是靠好話、耐心或情緒技巧慢慢推動。"
       },
       {
         "label": "回應",
-        "body": "You may have to cajole a response from a busy stakeholder without making the thread hostile."
+        "body": "You may have to cajole a response from a busy stakeholder without making the thread hostile. 這裡放在回應情境時，是在說說服方式不是命令，而是靠好話、耐心或情緒技巧慢慢推動。"
       },
       {
         "label": "團隊",
-        "body": "A manager can cajole the team for a while, but charm cannot replace planning."
+        "body": "A manager can cajole the team for a while, but charm cannot replace planning. 這裡放在團隊情境時，是在說說服方式不是命令，而是靠好話、耐心或情緒技巧慢慢推動。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/cajole",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>cajole</code> 經 French 傳入，早期就有用甜話哄騙、用奉承把人帶動的意思；所以它不是硬逼，而是半哄半推地讓對方往你要的方向走。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

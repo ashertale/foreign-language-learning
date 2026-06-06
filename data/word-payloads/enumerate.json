@@ -36,11 +36,11 @@
       },
       {
         "label": "選項",
-        "body": "Before choosing, enumerate options so trade-offs are visible。"
+        "body": "Before choosing, enumerate options so trade-offs are visible。 這裡放在選項情境時，是在說你要完整逐項走過範圍，而不只是隨便列幾個例子。"
       },
       {
         "label": "測試",
-        "body": "Enumerate edge cases before writing the happy-path test first。"
+        "body": "Enumerate edge cases before writing the happy-path test first。 這裡放在測試情境時，是在說你要完整逐項走過範圍，而不只是隨便列幾個例子。"
       }
     ],
     "collocations": {

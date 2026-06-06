@@ -36,11 +36,11 @@
       },
       {
         "label": "同意",
-        "body": "Explicit consent must be clearly given, not inferred from silence."
+        "body": "Explicit consent must be clearly given, not inferred from silence. 這裡放在同意情境時，是在說需要把規則、關係或同意清楚攤開，不能靠推測。"
       },
       {
         "label": "指令",
-        "body": "Explicit instructions reduce guesswork, especially when failure is costly."
+        "body": "Explicit instructions reduce guesswork, especially when failure is costly. 這裡放在指令情境時，是在說需要把規則、關係或同意清楚攤開，不能靠推測。"
       }
     ],
     "collocations": {

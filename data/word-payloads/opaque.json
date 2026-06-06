@@ -36,11 +36,11 @@
       },
       {
         "label": "流程",
-        "body": "An opaque process reduces trust because people cannot see how decisions are made."
+        "body": "An opaque process reduces trust because people cannot see how decisions are made. 這裡放在流程情境時，是在說不可見性本身造成理解、信任或維護困難。"
       },
       {
         "label": "系統",
-        "body": "An opaque system may work, but it is hard to debug or audit."
+        "body": "An opaque system may work, but it is hard to debug or audit. 這裡放在系統情境時，是在說不可見性本身造成理解、信任或維護困難。"
       }
     ],
     "collocations": {

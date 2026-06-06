@@ -36,11 +36,11 @@
       },
       {
         "label": "光線",
-        "body": "<code>Diffuse</code>"
+        "body": "談光線時，<code>diffuse</code> 指光不是直直打下來，而是被散開後變得更柔。"
       },
       {
         "label": "緊張",
-        "body": "A careful explanation can diffuse tension before people harden their positions。"
+        "body": "A careful explanation can diffuse tension before people harden their positions。 這裡放在緊張情境時，是在說集中度降低、向外散開，或緊張被緩和。"
       }
     ],
     "collocations": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "痕跡",
-        "body": "Time and weather <code>effaced</code> the marks until the inscription could barely be read."
+        "body": "Time and weather <code>effaced</code> the marks until the inscription could barely be read. 這裡放在痕跡情境時，是在說痕跡、身份或存在感被抹掉、淡出可見範圍。"
       },
       {
         "label": "自己",
-        "body": "Some people efface themselves in meetings until their work becomes invisible."
+        "body": "Some people efface themselves in meetings until their work becomes invisible. 這裡放在自己情境時，是在說痕跡、身份或存在感被抹掉、淡出可見範圍。"
       },
       {
         "label": "證據",
-        "body": "Trying"
+        "body": "在證據這類情境裡，<code>efface</code> 的重點是：不是遮一下，而是把痕跡盡量抹到看不見。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/efface",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>efface</code> 經 French 傳入時就是擦掉、抹去、磨平痕跡；所以它不是單純不見，而是連原本的表面痕跡都想抹平。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

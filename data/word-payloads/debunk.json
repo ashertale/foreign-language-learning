@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "迷思",
-        "body": "The"
+        "body": "在迷思這類情境裡，<code>debunk</code> 的重點是：不是單純不同意，而是把它拆到大家看見原來站不住。"
       },
       {
         "label": "謠言",
-        "body": "A quick denial may not debunk the rumor unless it answers why people believed it."
+        "body": "A quick denial may not debunk the rumor unless it answers why people believed it. 這裡放在謠言情境時，是在說某個被相信的說法需要被證據拆掉。"
       },
       {
         "label": "主張",
-        "body": "To debunk a claim, show the evidence path, not only the conclusion."
+        "body": "To debunk a claim, show the evidence path, not only the conclusion. 這裡放在主張情境時，是在說某個被相信的說法需要被證據拆掉。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/debunk",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>debunk</code> 是 1923 年美式英語裡的新字，概念很直白，就是把 <code>bunk</code>「胡扯、鬼話」從事物裡拆出來；所以它天生就有揭穿包裝的味道。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

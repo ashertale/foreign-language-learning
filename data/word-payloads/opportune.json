@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Opportune",
+    "slug": "opportune",
+    "outputPath": "prototypes/opportune.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "op-er-TOON · UK /ˌɒp.əˈtʃuːn/ · US /ˌɑː.pɚˈtuːn/",
+    "hero": {
+      "thesis": "不是好，而是剛好踩在最能發揮作用的時機點。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "2.91"
+    },
+    "coreIdea": "<code>opportune</code> 描述一種「時機剛好」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「時機剛好」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Timely",
+        "note": "<code>timely</code> 是及時；<code>opportune</code> 更強調那個時機特別有利。"
+      },
+      "flow": [
+        "時點不是隨便一刻",
+        "情勢剛好打開",
+        "動作的效力因此放大"
+      ]
+    },
+    "origin": {
+      "history": "<code>opportune</code> 來自 Latin <code>opportunus</code>，原本比喻順風正朝港口吹來；所以它不只是「剛好」，而是時機、方向和落點都對上了。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>opportune</code> 想成不是趕上車，而是剛好趕上最後一班也最適合的車。",
+      "explanation": "這個字把『時間』和『有利程度』綁在一起。"
+    },
+    "usage": [
+      {
+        "label": "決策",
+        "body": "在對手剛暴露弱點時出手，會顯得特別 <code>opportune</code>。"
+      },
+      {
+        "label": "消息",
+        "body": "有些公告不是單純及時，而是在情勢正需要時出現，因此很 <code>opportune</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>opportune</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "opportune moment",
+          "register": "商務 / 敘事",
+          "note": "這個搭配常用來寫某個動作、消息或轉向出現在非常合適的時點。"
+        },
+        {
+          "phrase": "opportune time",
+          "register": "正式 / 分析",
+          "note": "這個搭配常用來寫某個動作、消息或轉向出現在非常合適的時點。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "時機剛好",
+        "use": "用在某個動作、消息或轉向出現在非常合適的時點時。"
+      },
+      "others": [
+        {
+          "word": "Timely",
+          "meaning": "來得及、沒有拖延",
+          "use": "若只要說沒有太晚，用 <code>timely</code> 就夠。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>opportune</code> 常出現在策略與商務寫作，因為它能精準表達『不只是及時，而是有利地及時』。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>opportune</code> 整理成「時機剛好」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/opportune",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>opportune</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/opportune",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "opportune",
+    "word": "Opportune",
+    "partOfSpeech": "adjective",
+    "href": "./opportune.html",
+    "thesis": "不是好，而是剛好踩在最能發揮作用的時機點。",
+    "tags": [
+      "時機剛好",
+      "時點不是隨便一刻",
+      "timely",
+      "opportune moment",
+      "opportune time",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/opportune",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/opportune",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/opportune",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

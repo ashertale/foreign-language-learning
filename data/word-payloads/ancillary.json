@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "服務",
-        "body": "<code>Ancillary</code> services often decide whether the main service is usable in real life."
+        "body": "<code>Ancillary</code> services often decide whether the main service is usable in real life. 這裡放在服務情境時，是在說某物不是核心主體，但負責支援主體運作。"
       },
       {
         "label": "工具",
-        "body": "Ancillary"
+        "body": "Ancillary. 這裡放在工具情境時，是在說某物不是核心主體，但負責支援主體運作。"
       },
       {
         "label": "文件",
-        "body": "An ancillary document can carry migration notes that do not belong in the main spec."
+        "body": "An ancillary document can carry migration notes that do not belong in the main spec. 這裡放在文件情境時，是在說某物不是核心主體，但負責支援主體運作。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ancillary",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ancillary</code> 來自 Latin <code>ancilla</code>「女僕、侍役」；所以它天生就帶附屬、支援主體的意味，不是核心本身。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

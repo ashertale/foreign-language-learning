@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "能量",
-        "body": "A clear mission can <code>infuse</code> a tired team with energy."
+        "body": "A clear mission can <code>infuse</code> a tired team with energy. 這裡放在能量情境時，是在說某種特質不是外掛，而是滲進整個作品、團隊或行為裡。"
       },
       {
         "label": "設計",
-        "body": "Small"
+        "body": "在設計這類情境裡，<code>infuse</code> 的重點是：不是塞進一點，而是讓那種氣質整體滲開。"
       },
       {
         "label": "意義",
-        "body": "Rituals infuse meaning into repeated actions."
+        "body": "Rituals infuse meaning into repeated actions. 這裡放在意義情境時，是在說某種特質不是外掛，而是滲進整個作品、團隊或行為裡。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/infuse",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>infuse</code> 原本是把液體倒進去、浸泡進去；所以無論是茶香、能量還是觀念，畫面都是某種東西慢慢滲入另一個容器。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

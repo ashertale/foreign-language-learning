@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "討論",
-        "body": "Personal insults <code>debase</code> the discussion by making truth less important than humiliation."
+        "body": "Personal insults <code>debase</code> the discussion by making truth less important than humiliation. 這裡放在討論情境時，是在說某物的價值、尊嚴或品質被往下拖。"
       },
       {
         "label": "貨幣",
-        "body": "Debasing the currency is the literal economic version: value is diluted."
+        "body": "Debasing the currency is the literal economic version: value is diluted. 這裡放在貨幣情境時，是在說某物的價值、尊嚴或品質被往下拖。"
       },
       {
         "label": "自己",
-        "body": "To"
+        "body": "在自己這類情境裡，<code>debase</code> 的重點是：不是單純降低，而是把原本有分量的東西拉得更廉價或更低俗。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/debase",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>debase</code> 就是把某物往低處拉：<code>de-</code> 是向下，<code>base</code> 是低位；因此它既能指地位被拉低，也能指品質與格調被弄得更低。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

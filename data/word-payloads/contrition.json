@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "表現",
-        "body": "The"
+        "body": "在表現這類情境裡，<code>contrition</code> 的重點是：不是嘴上說抱歉，而是心裡真的被自己的錯刺到。"
       },
       {
         "label": "公開場合",
-        "body": "Public contrition can be meaningful, but only if private behavior changes too."
+        "body": "Public contrition can be meaningful, but only if private behavior changes too. 這裡放在公開場合情境時，是在說悔意需要有道德深度，而不是普通遺憾。"
       },
       {
         "label": "真誠",
-        "body": "Genuine contrition usually lowers defensiveness and raises responsibility."
+        "body": "Genuine contrition usually lowers defensiveness and raises responsibility. 這裡放在真誠情境時，是在說悔意需要有道德深度，而不是普通遺憾。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/contrition",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>contrition</code> 在教會語境裡原本就是對罪過的深切懊悔，像心被壓碎一樣；因此它的悔意比 regret 更重，也更靠近想補回去的悔罪感。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

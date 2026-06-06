@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "回饋",
-        "body": "A team <code>amenable to</code> feedback can still disagree; it just listens before locking the door."
+        "body": "A team <code>amenable to</code> feedback can still disagree; it just listens before locking the door. 這裡放在回饋情境時，是在說某人或某事對建議、改變或處理方式有接受空間。"
       },
       {
         "label": "改變",
-        "body": "A"
+        "body": "在改變這類情境裡，<code>amenable</code> 的重點是：不是被迫配合，而是對調整、協商或新方案有接受空間。"
       },
       {
         "label": "治療",
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/amenable",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>amenable</code> 原本是法律語，指「需要答辯、可以被追責」；後來語氣才變柔，發展成對調整、協商或安排有接受空間。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

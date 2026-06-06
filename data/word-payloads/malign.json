@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "對手",
-        "body": "The"
+        "body": "在對手這類情境裡，<code>malign</code> 的重點是：不是普通批評，而是惡意地把對方描黑。"
       },
       {
         "label": "證人",
-        "body": "Trying to malign the witness may distract from the evidence only briefly."
+        "body": "Trying to malign the witness may distract from the evidence only briefly. 這裡放在證人情境時，是在說話語目的不是評估，而是傷害對方名聲。"
       },
       {
         "label": "團隊",
-        "body": "Anonymous posts maligned the team online after the decision became unpopular."
+        "body": "Anonymous posts maligned the team online after the decision became unpopular. 這裡放在團隊情境時，是在說話語目的不是評估，而是傷害對方名聲。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/malign",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>malign</code> 早期先是形容人帶惡意、心裡對別人不好；後來才擴成中傷、傷害或不祥，所以它的壞常帶主動性。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

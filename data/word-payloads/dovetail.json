@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "計畫",
-        "body": "The"
+        "body": "在計畫這類情境裡，<code>dovetail</code> 的重點是：不是碰巧相近，而是像本來就設計成能扣在一起。"
       },
       {
         "label": "自然搭配",
-        "body": "The two features dovetail nicely because one creates the data the other needs."
+        "body": "The two features dovetail nicely because one creates the data the other needs. 這裡放在自然搭配情境時，是在說兩個部分不只是相容，而是彼此補位、銜接順暢。"
       },
       {
         "label": "時程",
-        "body": "We adjusted the workshops so the schedules would dovetail instead of compete."
+        "body": "We adjusted the workshops so the schedules would dovetail instead of compete. 這裡放在時程情境時，是在說兩個部分不只是相容，而是彼此補位、銜接順暢。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/dovetail",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>dovetail</code> 原本是木工中的燕尾榫，因形狀像鴿尾而得名，而且是極牢的接合方式；所以後來才變成兩件事自然扣上、嚴密貼合。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "努力",
-        "body": "The committee <code>lauded</code> the effort while still asking for stronger evidence."
+        "body": "The committee <code>lauded</code> the effort while still asking for stronger evidence. 這裡放在努力情境時，是在說讚揚具有公開、正式或評論性質。"
       },
       {
         "label": "倡議",
-        "body": "The"
+        "body": "在倡議這類情境裡，<code>laud</code> 的重點是：不是輕輕帶過，而是明白把好的地方抬出來講。"
       },
       {
         "label": "廣泛稱讚",
-        "body": "A widely lauded design can still fail a niche workflow."
+        "body": "A widely lauded design can still fail a niche workflow. 這裡放在廣泛稱讚情境時，是在說讚揚具有公開、正式或評論性質。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/laud",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>laud</code> 經 Old French 傳入，意思一直是高聲稱讚、歌頌；所以它比 praise 更容易帶正式、拔高、近乎頌揚的味道。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "支持者",
-        "body": "A"
+        "body": "在支持者這類情境裡，<code>fervent</code> 的重點是：不是熱情一下，而是心裡長時間都燒得很亮。"
       },
       {
         "label": "希望",
-        "body": "Their fervent hope was that the apology would lead to repair, not just headlines."
+        "body": "Their fervent hope was that the apology would lead to repair, not just headlines. 這裡放在希望情境時，是在說情感或信念強烈，而且不只是短暫興奮。"
       },
       {
         "label": "信念",
-        "body": "Fervent belief can inspire courage, but it can also resist evidence."
+        "body": "Fervent belief can inspire courage, but it can also resist evidence. 這裡放在信念情境時，是在說情感或信念強烈，而且不只是短暫興奮。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/fervent",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>fervent</code> 來自 Latin <code>fervens</code>，原意就是沸騰、發熱；所以它的熱不是輕微喜歡，而是情感或信念真的像液體在滾。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

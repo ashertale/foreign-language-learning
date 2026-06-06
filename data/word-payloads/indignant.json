@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回應",
-        "body": "Her"
+        "body": "在回應這類情境裡，<code>indignant</code> 的重點是：不是單純生氣，而是氣裡面帶著被冒犯和不公平感。"
       },
       {
         "label": "言論",
-        "body": "They were indignant at the remark because it dismissed years of work."
+        "body": "They were indignant at the remark because it dismissed years of work. 這裡放在言論情境時，是在說怒氣來自不公平、冒犯或尊嚴被踩，而不是單純不爽。"
       },
       {
         "label": "聲音",
-        "body": "A voice can sound indignant even before it becomes loud."
+        "body": "A voice can sound indignant even before it becomes loud. 這裡放在聲音情境時，是在說怒氣來自不公平、冒犯或尊嚴被踩，而不是單純不爽。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/indignant",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>indignant</code> 來自 Latin <code>indignari</code>，帶對某件事感到受冒犯、覺得它不配或不該如此的意思；因此它不是純怒，而是怒裡有道德判斷。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

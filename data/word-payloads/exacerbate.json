@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "衝突",
-        "body": "The public blame only <code>exacerbated</code> the conflict."
+        "body": "The public blame only <code>exacerbated</code> the conflict. 這裡放在衝突情境時，是在說壞情況不是被創造，而是被推得更壞。"
       },
       {
         "label": "症狀",
-        "body": "Lack"
+        "body": "在症狀這類情境裡，<code>exacerbate</code> 的重點是：不是造成新問題，而是把原來就有的痛點再往上推。"
       },
       {
         "label": "延遲",
-        "body": "Extra approval steps exacerbated delays without improving quality."
+        "body": "Extra approval steps exacerbated delays without improving quality. 這裡放在延遲情境時，是在說壞情況不是被創造，而是被推得更壞。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/exacerbate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>exacerbate</code> 原本是把 bitterness、virulence、敵意再往上推；因此它不是單純增加，而是把原本已經刺的東西弄得更尖、更不好收。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

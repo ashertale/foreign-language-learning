@@ -36,11 +36,11 @@
       },
       {
         "label": "複雜性",
-        "body": "To navigate complexity, keep landmarks: constraints, owners, failure modes."
+        "body": "To navigate complexity, keep landmarks: constraints, owners, failure modes. 這裡放在複雜性情境時，是在說路徑判斷、障礙處理和方向維持比單純移動更重要。"
       },
       {
         "label": "介面",
-        "body": "Users should be able to navigate a menu without remembering hidden rules."
+        "body": "Users should be able to navigate a menu without remembering hidden rules. 這裡放在介面情境時，是在說路徑判斷、障礙處理和方向維持比單純移動更重要。"
       }
     ],
     "collocations": {

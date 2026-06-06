@@ -36,11 +36,11 @@
       },
       {
         "label": "政策",
-        "body": "A policy is not implemented until people know what changes in daily work."
+        "body": "A policy is not implemented until people know what changes in daily work. 這裡放在政策情境時，是在說想法或規劃已經轉成可運作現實。"
       },
       {
         "label": "細節",
-        "body": "Implementation detail matters when abstraction leaks into user-visible behavior."
+        "body": "Implementation detail matters when abstraction leaks into user-visible behavior. 這裡放在細節情境時，是在說想法或規劃已經轉成可運作現實。"
       }
     ],
     "collocations": {

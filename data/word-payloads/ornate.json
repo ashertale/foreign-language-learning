@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Ornate",
+    "slug": "ornate",
+    "outputPath": "prototypes/ornate.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "or-NAYT · UK /ɔːˈneɪt/ · US /ɔːrˈneɪt/",
+    "hero": {
+      "thesis": "不是精緻而已，而是裝飾感明顯到成了主角。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.58"
+    },
+    "coreIdea": "<code>ornate</code> 描述一種「繁飾華麗」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「繁飾華麗」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Elegant",
+        "note": "<code>elegant</code> 可以簡潔；<code>ornate</code> 則是裝飾本身很顯眼。"
+      },
+      "flow": [
+        "裝飾越加越多",
+        "細節開始搶眼",
+        "整體呈現厚重華麗"
+      ]
+    },
+    "origin": {
+      "history": "<code>ornate</code> 來自 Latin <code>ornatus</code>「裝飾過、整理過」；因此它的美感不是素淨，而是刻意修飾、細節很多。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>ornate</code> 想成一扇門上不是一圈雕花，而是整面都刻滿花紋。",
+      "explanation": "它描述的是裝飾量感，不一定是在稱讚。"
+    },
+    "usage": [
+      {
+        "label": "風格",
+        "body": "如果文字的修辭層層疊上去，讀者可能會覺得它過於 <code>ornate</code>。"
+      },
+      {
+        "label": "空間",
+        "body": "有些餐廳不是舒適，而是用很 <code>ornate</code> 的細節營造氣派。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>ornate</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "ornate design",
+          "register": "設計 / 評論",
+          "note": "這個搭配常用來寫建築、文字、風格或設計裝飾層很厚。"
+        },
+        {
+          "phrase": "ornate style",
+          "register": "寫作 / 藝評",
+          "note": "這個搭配常用來寫建築、文字、風格或設計裝飾層很厚。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "繁飾華麗",
+        "use": "用在建築、文字、風格或設計裝飾層很厚時。"
+      },
+      "others": [
+        {
+          "word": "Elegant",
+          "meaning": "優雅、講究、比例好",
+          "use": "若重點是節制後的美感，用 <code>elegant</code> 更貼近。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>ornate</code> 常用於評論視覺與文風，語氣介於欣賞與嫌太滿之間。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>ornate</code> 整理成「繁飾華麗」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/ornate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>ornate</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/ornate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "ornate",
+    "word": "Ornate",
+    "partOfSpeech": "adjective",
+    "href": "./ornate.html",
+    "thesis": "不是精緻而已，而是裝飾感明顯到成了主角。",
+    "tags": [
+      "繁飾華麗",
+      "裝飾越加越多",
+      "elegant",
+      "ornate design",
+      "ornate style",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ornate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/ornate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ornate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

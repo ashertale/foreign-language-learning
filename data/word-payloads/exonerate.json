@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "嫌疑人",
-        "body": "New evidence <code>exonerated</code> the suspect after years of doubt."
+        "body": "New evidence <code>exonerated</code> the suspect after years of doubt. 這裡放在嫌疑人情境時，是在說某人原本被責任或罪名壓著，後來被證據卸下。"
       },
       {
         "label": "團隊",
-        "body": "The postmortem did not exonerate the team; it clarified which assumptions failed."
+        "body": "The postmortem did not exonerate the team; it clarified which assumptions failed. 這裡放在團隊情境時，是在說某人原本被責任或罪名壓著，後來被證據卸下。"
       },
       {
         "label": "完全",
-        "body": "To fully exonerate someone, the evidence must remove the charge, not merely soften it."
+        "body": "To fully exonerate someone, the evidence must remove the charge, not merely soften it. 這裡放在完全情境時，是在說某人原本被責任或罪名壓著，後來被證據卸下。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/exonerate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>exonerate</code> 原本是把重擔卸下、把肩上東西搬開；後來進到法律語境，就變成把指控與責任從某人身上拿掉。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

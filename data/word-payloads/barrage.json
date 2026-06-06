@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "會議",
-        "body": "A"
+        "body": "在會議這類情境裡，<code>barrage</code> 的重點是：不是零星幾下，而是一整排密集地同時打過來。"
       },
       {
         "label": "媒體",
-        "body": "A media barrage makes one message appear everywhere until it feels unavoidable."
+        "body": "A media barrage makes one message appear everywhere until it feels unavoidable. 這裡放在媒體情境時，是在說多個訊息或攻擊集中落在同一個對象，使對方難以喘息。"
       },
       {
         "label": "戰場",
-        "body": "A barrage of fire is physical and literal: many shots concentrated on a target."
+        "body": "A barrage of fire is physical and literal: many shots concentrated on a target. 這裡放在戰場情境時，是在說多個訊息或攻擊集中落在同一個對象，使對方難以喘息。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/barrage",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>barrage</code> 原本就是「築壩、設障、攔住水流」；後來轉到軍事與比喻用法時，才變成像一道牆那樣密集壓過來的炮火或問題。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

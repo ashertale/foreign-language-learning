@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Muster",
+    "slug": "muster",
+    "outputPath": "prototypes/muster.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "MUS-ter · UK /ˈmʌs.tə/ · US /ˈmʌs.tɚ/",
+    "hero": {
+      "thesis": "不是突然變多，而是把零散的力氣硬是湊成可用的一股。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.74"
+    },
+    "coreIdea": "<code>muster</code> 表示把事情往「勉強湊出」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「勉強湊出」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Gather",
+        "note": "<code>gather</code> 比較中性；<code>muster</code> 常帶費力、原本不夠的感覺。"
+      },
+      "flow": [
+        "原本分散或不足",
+        "用力把它們叫回來",
+        "勉強形成可用份量"
+      ]
+    },
+    "origin": {
+      "history": "<code>muster</code> 經 Old French 來自 Latin <code>monstrare</code>「展示、顯示」；它先有把人馬排出來檢閱的意思，後來才變成把兵力、勇氣或資源一口氣湊出來。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>muster</code> 想成只剩幾顆電池，還是硬把它們湊進手電筒裡照一段路。",
+      "explanation": "這個字常帶出資源有限卻仍要撐出一點作用的味道。"
+    },
+    "usage": [
+      {
+        "label": "勇氣",
+        "body": "She finally <code>mustered</code> the courage to ask the harder question. 這裡放在勇氣情境時，是在說把勇氣、能量、資源或支持一點點聚起來。"
+      },
+      {
+        "label": "資源",
+        "body": "The team could barely <code>muster</code> enough evidence to justify a rollback. 這裡放在資源情境時，是在說把勇氣、能量、資源或支持一點點聚起來。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>muster</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "muster the courage",
+          "register": "人際 / 敘事",
+          "note": "這個搭配常用來寫把勇氣、能量、資源或支持一點點聚起來。"
+        },
+        {
+          "phrase": "muster enough support",
+          "register": "管理 / 政策",
+          "note": "這個搭配常用來寫把勇氣、能量、資源或支持一點點聚起來。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "勉強湊出",
+        "use": "用在把勇氣、能量、資源或支持一點點聚起來時。"
+      },
+      "others": [
+        {
+          "word": "Gather",
+          "meaning": "把東西集中起來",
+          "use": "若只是一般收集或聚集，不必特別突出勉強感，用 <code>gather</code> 即可。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在現代英文裡，<code>muster</code> 很常用來寫人在資源不足時仍硬湊出一點行動能力。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>muster</code> 整理成「勉強湊出」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/muster",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>muster</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/muster",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "muster",
+    "word": "Muster",
+    "partOfSpeech": "verb",
+    "href": "./muster.html",
+    "thesis": "不是突然變多，而是把零散的力氣硬是湊成可用的一股。",
+    "tags": [
+      "勉強湊出",
+      "原本分散或不足",
+      "gather",
+      "muster the courage",
+      "muster enough support",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/muster",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/muster",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/muster",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

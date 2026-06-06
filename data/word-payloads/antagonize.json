@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "團隊",
-        "body": "A"
+        "body": "在團隊這類情境裡，<code>antagonize</code> 的重點是：不是惹到一下，而是把對方推進對立或反感狀態。"
       },
       {
         "label": "選民",
-        "body": "Policies can antagonize voters when they feel ignored rather than persuaded."
+        "body": "Policies can antagonize voters when they feel ignored rather than persuaded. 這裡放在選民情境時，是在說行為或語氣把對方推入敵意或對立狀態。"
       },
       {
         "label": "觀眾",
-        "body": "A speaker may antagonize the audience by mocking the concern they came to hear addressed."
+        "body": "A speaker may antagonize the audience by mocking the concern they came to hear addressed. 這裡放在觀眾情境時，是在說行為或語氣把對方推入敵意或對立狀態。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/antagonize",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>antagonize</code> 的字根和對抗、競賽有關，原本就帶「站到對面去」的力量；因此它不是普通惹到，而是把關係推進對立狀態。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

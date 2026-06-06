@@ -32,7 +32,7 @@
     "usage": [
       {
         "label": "疑慮",
-        "body": "Clear rollback evidence can <code>allay</code> concerns without pretending the incident was harmless."
+        "body": "Clear rollback evidence can <code>allay</code> concerns without pretending the incident was harmless. 這裡放在疑慮情境時，是在說先降低擔心或恐懼的強度，而不是宣稱問題已完全解決。"
       },
       {
         "label": "恐懼",
@@ -40,7 +40,7 @@
       },
       {
         "label": "焦慮",
-        "body": "A"
+        "body": "在焦慮這類情境裡，<code>allay</code> 的重點是：不是完全解決，而是先把尖銳的擔心放下來。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/allay",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>allay</code> 可追到 Old English <code>alecgan</code>「放下、放倒」；現代用在 fear、anger、concern 上時，保留的正是把原本高起來的情緒先壓下去。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

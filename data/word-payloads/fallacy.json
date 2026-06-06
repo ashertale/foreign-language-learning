@@ -36,11 +36,11 @@
       },
       {
         "label": "論證",
-        "body": "A logical fallacy can make a confident argument collapse."
+        "body": "A logical fallacy can make a confident argument collapse. 這裡放在論證情境時，是在說錯誤來自推理方式，而不是單純資料輸入錯。"
       },
       {
         "label": "常見錯法",
-        "body": "The"
+        "body": "在常見錯法這類情境裡，<code>fallacy</code> 的重點是：不是單純錯誤，而是推理看似合理、其實有漏洞。"
       }
     ],
     "collocations": {

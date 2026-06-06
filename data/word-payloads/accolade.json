@@ -36,11 +36,11 @@
       },
       {
         "label": "評論",
-        "body": "Critical accolades can change how a work is received by a wider audience."
+        "body": "Critical accolades can change how a work is received by a wider audience. 這裡放在評論情境時，是在說公開、正式或有聲望的肯定。"
       },
       {
         "label": "產業",
-        "body": "An industry accolade may help credibility, but it is not the same as user value."
+        "body": "An industry accolade may help credibility, but it is not the same as user value. 這裡放在產業情境時，是在說公開、正式或有聲望的肯定。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/accolade",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>accolade</code> 原本指授勳儀式中的動作：先環抱頸部，再以劍輕觸肩膀封騎士；現代的「榮譽、讚譽」就是從這種正式授予的儀式感延伸出來的。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

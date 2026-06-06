@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "進展",
-        "body": "Unclear ownership can <code>impede</code> progress more than a difficult technical problem."
+        "body": "Unclear ownership can <code>impede</code> progress more than a difficult technical problem. 這裡放在進展情境時，是在說某因素讓路徑仍存在，但進展變慢、變卡。"
       },
       {
         "label": "恢復",
-        "body": "Poor sleep may impede recovery even when treatment is correct."
+        "body": "Poor sleep may impede recovery even when treatment is correct. 這裡放在恢復情境時，是在說某因素讓路徑仍存在，但進展變慢、變卡。"
       },
       {
         "label": "交通",
-        "body": "A stalled truck impeded traffic for hours."
+        "body": "A stalled truck impeded traffic for hours. 這裡放在交通情境時，是在說某因素讓路徑仍存在，但進展變慢、變卡。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/impede",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>impede</code> 的字面義其實很具體，是「把腳銬住」；所以它不是抽象妨礙，而是像步子被綁住一樣，明明想往前卻走不開。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

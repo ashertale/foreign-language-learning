@@ -36,11 +36,11 @@
       },
       {
         "label": "模式",
-        "body": "To apprehend the pattern is to see how scattered signals belong together."
+        "body": "To apprehend the pattern is to see how scattered signals belong together. 這裡放在模式情境時，是在說正式地說真正領會複雜含義，或法律上說逮捕。"
       },
       {
         "label": "威脅",
-        "body": "Security teams must apprehend the threat before choosing controls; police may apprehend a suspect."
+        "body": "Security teams must apprehend the threat before choosing controls; police may apprehend a suspect. 這裡放在威脅情境時，是在說正式地說真正領會複雜含義，或法律上說逮捕。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/apprehend",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>apprehend</code> 來自 Latin <code>apprehendere</code>「伸手抓住」；它先有身體上的抓取，再延伸成心理上的理解，所以這個字一直帶著「終於抓到」的手感。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

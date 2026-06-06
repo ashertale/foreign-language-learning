@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "機制",
-        "body": "The"
+        "body": "在機制這類情境裡，<code>elucidate</code> 的重點是：不是只丟答案，而是把原本混霧的地方一層層照亮。"
       },
       {
         "label": "重點",
-        "body": "A good diagram can elucidate the point faster than another paragraph."
+        "body": "A good diagram can elucidate the point faster than another paragraph. 這裡放在重點情境時，是在說解釋不只提供答案，還讓結構或關係變清楚。"
       },
       {
         "label": "關係",
-        "body": "The model elucidates the relationship between load, latency, and retries."
+        "body": "The model elucidates the relationship between load, latency, and retries. 這裡放在關係情境時，是在說解釋不只提供答案，還讓結構或關係變清楚。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/elucidate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>elucidate</code> 來自讓事物變亮、變清楚的那支拉丁語源；所以它不是只再說一次，而是把原本昏的地方打亮到能看懂。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

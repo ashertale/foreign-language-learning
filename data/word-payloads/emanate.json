@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "房間",
-        "body": "A low hum seemed to <code>emanate</code> from the server room."
+        "body": "A low hum seemed to <code>emanate</code> from the server room. 這裡放在房間情境時，是在說某種可感或抽象力量從一個源頭向外散開。"
       },
       {
         "label": "溫暖",
-        "body": "Warmth emanates from small gestures when people are under pressure."
+        "body": "Warmth emanates from small gestures when people are under pressure. 這裡放在溫暖情境時，是在說某種可感或抽象力量從一個源頭向外散開。"
       },
       {
         "label": "聲音",
-        "body": "The"
+        "body": "在聲音這類情境裡，<code>emanate</code> 的重點是：不是突然掉下來，而是從某個中心往外散出去。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/emanate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>emanate</code> 來自 Latin <code>emanare</code>「流出」；因此它的方向感一直很明確，就是從某個核心或源頭往外散出。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

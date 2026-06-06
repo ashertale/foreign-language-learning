@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Portent",
+    "slug": "portent",
+    "outputPath": "prototypes/portent.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "POR-tent · UK /ˈpɔː.tent/ · US /ˈpɔːr.tent/",
+    "hero": {
+      "thesis": "不是預告，而是帶不祥意味的前兆。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.07"
+    },
+    "coreIdea": "<code>portent</code> 指那種「不祥前兆」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「不祥前兆」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Sign",
+        "note": "<code>sign</code> 很中性；<code>portent</code> 更像帶著重量和不安的徵候。"
+      },
+      "flow": [
+        "先冒出一個跡象",
+        "它帶著陰影感",
+        "人開始聯想到更大的事要來"
+      ]
+    },
+    "origin": {
+      "history": "<code>portent</code> 經 French / Latin 傳入時，本來就是預示將臨之事的徵兆，而且多半偏壞；所以它不是普通 sign，而像天色忽然變掉那種不祥感。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>portent</code> 想成天色突然壓暗，不是事情已發生，但你知道快了。",
+      "explanation": "它的核心不是預測準確，而是氣氛已經先告訴你不妙。"
+    },
+    "usage": [
+      {
+        "label": "敘事",
+        "body": "小說裡一個小徵候如果後面會引出大災難，就很像 a <code>portent</code>。"
+      },
+      {
+        "label": "評論",
+        "body": "某些政策轉向不只是 news，而會被看成更大變化的 <code>portent</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>portent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "dark portent",
+          "register": "文學 / 敘事",
+          "note": "這個搭配常用來寫某個跡象像是在替更大的變化投下陰影。"
+        },
+        {
+          "phrase": "a portent of change",
+          "register": "評論 / 正式",
+          "note": "這個搭配常用來寫某個跡象像是在替更大的變化投下陰影。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "不祥前兆",
+        "use": "用在某個跡象像是在替更大的變化投下陰影時。"
+      },
+      "others": [
+        {
+          "word": "Sign",
+          "meaning": "一般訊號或跡象",
+          "use": "若只是中性的徵兆，不帶陰影感，用 <code>sign</code> 即可。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>portent</code> 雖然偏文學，但在正式評論裡仍能用來寫那些讓人起警覺的前兆。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>portent</code> 整理成「不祥前兆」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/portent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>portent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/portent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "portent",
+    "word": "Portent",
+    "partOfSpeech": "noun",
+    "href": "./portent.html",
+    "thesis": "不是預告，而是帶不祥意味的前兆。",
+    "tags": [
+      "不祥前兆",
+      "先冒出一個跡象",
+      "sign",
+      "dark portent",
+      "a portent of change",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/portent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/portent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/portent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

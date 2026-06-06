@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回答",
-        "body": "An <code>equivocal</code> answer can buy time while leaving everyone else uncertain."
+        "body": "An <code>equivocal</code> answer can buy time while leaving everyone else uncertain. 這裡放在回答情境時，是在說含糊本身會影響判斷、承諾或責任。"
       },
       {
         "label": "語言",
-        "body": "Equivocal language may be intentional when a document tries not to commit."
+        "body": "Equivocal language may be intentional when a document tries not to commit. 這裡放在語言情境時，是在說含糊本身會影響判斷、承諾或責任。"
       },
       {
         "label": "立場",
-        "body": "An"
+        "body": "在立場這類情境裡，<code>equivocal</code> 的重點是：不是細膩，而是模稜到你抓不到他到底站哪邊。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/equivocal",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>equivocal</code> 原本就指「可以被理解成不同意思」；所以它的問題不是資訊太少，而是同一句話兩邊都能通，讓你抓不準他真正站哪裡。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

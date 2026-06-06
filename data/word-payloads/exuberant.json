@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "情緒",
-        "body": "The team was <code>exuberant</code> after the first successful field test."
+        "body": "The team was <code>exuberant</code> after the first successful field test. 這裡放在情緒情境時，是在說活力、喜悅或成長旺盛到明顯向外溢出。"
       },
       {
         "label": "成長",
-        "body": "Exuberant growth can be exciting and still require pruning."
+        "body": "Exuberant growth can be exciting and still require pruning. 這裡放在成長情境時，是在說活力、喜悅或成長旺盛到明顯向外溢出。"
       },
       {
         "label": "設計",
-        "body": "An"
+        "body": "在設計這類情境裡，<code>exuberant</code> 的重點是：不是開心而已，而是整個人或整個場景都滿到往外溢。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/exuberant",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>exuberant</code> 來自 Latin，原意就是「滿到溢出來」；所以它不是普通的多，而是活力、情緒或生長感已經壓不住地往外冒。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "未解",
-        "body": "The failure pattern remained an <code>enigma</code> until someone compared clocks across machines."
+        "body": "The failure pattern remained an <code>enigma</code> until someone compared clocks across machines. 這裡放在未解情境時，是在說未知不只是缺資訊，而是結構上令人費解、引人追問。"
       },
       {
         "label": "政治",
-        "body": "A political enigma is not merely private; observers cannot map motives to moves."
+        "body": "A political enigma is not merely private; observers cannot map motives to moves. 這裡放在政治情境時，是在說未知不只是缺資訊，而是結構上令人費解、引人追問。"
       },
       {
         "label": "長期",
-        "body": "An"
+        "body": "在長期這類情境裡，<code>enigma</code> 的重點是：不是一個小問題，而是整體都透著解不開的感覺。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/enigma",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>enigma</code> 原本就是用含混、遮掩的說法把真正意思藏起來的謎語；所以它不是單純不知道，而是明明有東西在裡面、你卻抓不到。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

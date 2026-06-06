@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "世代",
-        "body": "Broken promises can <code>embitter</code> a generation more than a single defeat."
+        "body": "Broken promises can <code>embitter</code> a generation more than a single defeat. 這裡放在世代情境時，是在說傷害或失望長期留在人心裡，改變態度與關係。"
       },
       {
         "label": "失去",
-        "body": "He"
+        "body": "在失去這類情境裡，<code>embitter</code> 的重點是：不是只讓人難過，而是讓心裡整體變苦。"
       },
       {
         "label": "關係",
-        "body": "Unresolved blame can embitter the relationship even after the practical issue is fixed."
+        "body": "Unresolved blame can embitter the relationship even after the practical issue is fixed. 這裡放在關係情境時，是在說傷害或失望長期留在人心裡，改變態度與關係。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/embitter",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>embitter</code> 字面就是 make bitter；先有味覺上的變苦，後來才轉成情緒被苦味浸久後留下的怨與酸。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

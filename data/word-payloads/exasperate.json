@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "團隊",
-        "body": "Changing the priority every morning <code>exasperated</code> the team."
+        "body": "Changing the priority every morning <code>exasperated</code> the team. 這裡放在團隊情境時，是在說反覆阻礙、失望或愚蠢情況把人的耐心逼到邊緣。"
       },
       {
         "label": "延遲",
-        "body": "Users were exasperated by delays because each update promised a fix."
+        "body": "Users were exasperated by delays because each update promised a fix. 這裡放在延遲情境時，是在說反覆阻礙、失望或愚蠢情況把人的耐心逼到邊緣。"
       },
       {
         "label": "觀眾",
-        "body": "A plot that refuses to resolve anything can exasperate the audience."
+        "body": "A plot that refuses to resolve anything can exasperate the audience. 這裡放在觀眾情境時，是在說反覆阻礙、失望或愚蠢情況把人的耐心逼到邊緣。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/exasperate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>exasperate</code> 來自 Latin，和 rough、harsh 那支字根有關，原意近於把表面磨粗、把刺感加重；所以它不是小煩，而是把人磨到火氣全面起來。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "和解",
-        "body": "An"
+        "body": "在和解這類情境裡，<code>amicable</code> 的重點是：不是沒有分歧，而是即使立場不同，仍能平和處理。"
       },
       {
         "label": "分開",
-        "body": "An amicable split means the relationship ends without turning hostile."
+        "body": "An amicable split means the relationship ends without turning hostile. 這裡放在分開情境時，是在說存在分歧或結束關係時，仍能以平和友善方式處理。"
       },
       {
         "label": "談話",
-        "body": "An amicable conversation can hold disagreement without sharpening it into conflict."
+        "body": "An amicable conversation can hold disagreement without sharpening it into conflict. 這裡放在談話情境時，是在說存在分歧或結束關係時，仍能以平和友善方式處理。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/amicable",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>amicable</code> 來自 Latin <code>amicabilis</code>，同源於 <code>amicus</code>「朋友」；所以它強調的不是沒有分歧，而是即使有分歧，仍能像朋友那樣平和處理。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

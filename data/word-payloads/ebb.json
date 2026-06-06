@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "能量",
-        "body": "When energy begins to <code>ebb</code>, decisions get slower and defaults get stronger."
+        "body": "When energy begins to <code>ebb</code>, decisions get slower and defaults get stronger. 這裡放在能量情境時，是在說力量或情緒不是突然消失，而是一波一波退弱。"
       },
       {
         "label": "興趣",
-        "body": "Interest ebbs when early excitement is not connected to real progress."
+        "body": "Interest ebbs when early excitement is not connected to real progress. 這裡放在興趣情境時，是在說力量或情緒不是突然消失，而是一波一波退弱。"
       },
       {
         "label": "潮水",
-        "body": "The tide ebbs, leaving the shape of the shore visible."
+        "body": "The tide ebbs, leaving the shape of the shore visible. 這裡放在潮水情境時，是在說力量或情緒不是突然消失，而是一波一波退弱。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ebb",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ebb</code> 原本就是潮水退去、海面往下落；所以後來拿來說運勢、資源或情緒時，保留的仍是那種一點點往下退的動態。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

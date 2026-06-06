@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "失敗嘗試",
-        "body": "The team rolled back twice, but to no <code>avail</code>; the symptom returned each time."
+        "body": "The team rolled back twice, but to no <code>avail</code>; the symptom returned each time. 這裡放在失敗嘗試情境時，是在說你要評估方法、努力或資源是否真正改變結果。"
       },
       {
         "label": "資源",
-        "body": "To avail yourself of resources is to actively use what is available, not merely know it exists."
+        "body": "To avail yourself of resources is to actively use what is available, not merely know it exists. 這裡放在資源情境時，是在說你要評估方法、努力或資源是否真正改變結果。"
       },
       {
         "label": "語氣",
-        "body": "<code>Little avail</code> sounds formal and dry, often used when help was too small to change the outcome."
+        "body": "<code>Little avail</code> sounds formal and dry, often used when help was too small to change the outcome. 這裡放在語氣情境時，是在說你要評估方法、努力或資源是否真正改變結果。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/avail",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>avail</code> 和表示力量、價值的那一支拉丁語系字族相連，核心是「真的起作用、真正有助益」；所以它不是理論上可行，而是足以改變結果。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

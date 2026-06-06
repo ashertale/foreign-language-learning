@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Nascent",
+    "slug": "nascent",
+    "outputPath": "prototypes/nascent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "NAY-suhnt · UK /ˈneɪ.sənt/ · US /ˈneɪ.sənt/",
+    "hero": {
+      "thesis": "不是新，而是剛開始成形，還很脆弱。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.68"
+    },
+    "coreIdea": "<code>nascent</code> 描述一種「初生未穩」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「初生未穩」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Emerging",
+        "note": "<code>emerging</code> 偏正在出現；<code>nascent</code> 更強調剛萌芽、還很脆弱。"
+      },
+      "flow": [
+        "剛冒出輪廓",
+        "結構還不穩",
+        "一碰就可能改形"
+      ]
+    },
+    "origin": {
+      "history": "<code>nascent</code> 原本就指正在出生、正在長出來；所以它不是已經成形，而是剛剛冒頭、仍帶著未定型的生命感。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>nascent</code> 想成剛破土的芽，已經出現，但還很容易折。",
+      "explanation": "這個字的重點不是新鮮感，而是剛成形時那種未定與脆弱。"
+    },
+    "usage": [
+      {
+        "label": "產業",
+        "body": "The company entered a <code>nascent</code> market before standards had settled. 這裡放在產業情境時，是在說新興產業、想法、習慣或制度剛冒出輪廓。"
+      },
+      {
+        "label": "習慣",
+        "body": "A <code>nascent</code> writing routine needs protection before it can become durable. 這裡放在習慣情境時，是在說新興產業、想法、習慣或制度剛冒出輪廓。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>nascent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "nascent industry",
+          "register": "商業 / 經濟",
+          "note": "這個搭配常用來寫新興產業、想法、習慣或制度剛冒出輪廓。"
+        },
+        {
+          "phrase": "nascent stage",
+          "register": "研究 / 分析",
+          "note": "這個搭配常用來寫新興產業、想法、習慣或制度剛冒出輪廓。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "初生未穩",
+        "use": "用在新興產業、想法、習慣或制度剛冒出輪廓時。"
+      },
+      "others": [
+        {
+          "word": "Emerging",
+          "meaning": "正在浮出水面",
+          "use": "若只想說正在出現，不特別強調脆弱期，用 <code>emerging</code> 更自然。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>nascent</code> 很常出現在新創、研究與制度討論裡，提醒你：這東西不是成熟前夜，而是還在萌芽期。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nascent</code> 整理成「初生未穩」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/nascent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nascent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/nascent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "nascent",
+    "word": "Nascent",
+    "partOfSpeech": "adjective",
+    "href": "./nascent.html",
+    "thesis": "不是新，而是剛開始成形，還很脆弱。",
+    "tags": [
+      "初生未穩",
+      "剛冒出輪廓",
+      "emerging",
+      "nascent industry",
+      "nascent stage",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nascent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/nascent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nascent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

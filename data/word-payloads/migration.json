@@ -36,11 +36,11 @@
       },
       {
         "label": "系統",
-        "body": "System migration needs rollback, compatibility, and user communication."
+        "body": "System migration needs rollback, compatibility, and user communication. 這裡放在系統情境時，是在說從舊環境移到新環境，且需要維持可用性和語意連續。"
       },
       {
         "label": "計畫",
-        "body": "A"
+        "body": "在計畫這類情境裡，<code>migration</code> 的重點是：不是複製資料，而是從舊環境搬到新環境並保持可用。"
       }
     ],
     "collocations": {

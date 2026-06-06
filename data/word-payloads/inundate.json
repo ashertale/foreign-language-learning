@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "收件匣",
-        "body": "Release day <code>inundated</code> the inbox with support requests."
+        "body": "Release day <code>inundated</code> the inbox with support requests. 這裡放在收件匣情境時，是在說大量事物湧入到超過處理能力。"
       },
       {
         "label": "請求",
-        "body": "The team was inundated with requests before it had triage rules."
+        "body": "The team was inundated with requests before it had triage rules. 這裡放在請求情境時，是在說大量事物湧入到超過處理能力。"
       },
       {
         "label": "洪水",
-        "body": "Floodwaters inundated the fields after the river broke its banks."
+        "body": "Floodwaters inundated the fields after the river broke its banks. 這裡放在洪水情境時，是在說大量事物湧入到超過處理能力。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/inundate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>inundate</code> 原本就是水漫出來、整個淹過去；所以它後來不論用在訊息、工作還是需求上，保留的都是量大到把人整片蓋住。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

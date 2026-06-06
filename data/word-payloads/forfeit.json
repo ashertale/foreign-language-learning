@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "押金",
-        "body": "If you cancel late, you may <code>forfeit</code> the deposit."
+        "body": "If you cancel late, you may <code>forfeit</code> the deposit. 這裡放在押金情境時，是在說失去不是偶然掉了，而是因規則或條件被剝奪。"
       },
       {
         "label": "比賽",
-        "body": "The team forfeited the game because it could not field enough players."
+        "body": "The team forfeited the game because it could not field enough players. 這裡放在比賽情境時，是在說失去不是偶然掉了，而是因規則或條件被剝奪。"
       },
       {
         "label": "機會",
-        "body": "Ignoring the deadline means you forfeit the chance to appeal."
+        "body": "Ignoring the deadline means you forfeit the chance to appeal. 這裡放在機會情境時，是在說失去不是偶然掉了，而是因規則或條件被剝奪。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/forfeit",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>forfeit</code> 早期既可指對權威犯下的過失，也可指因這個過失而失去的權利或財物；所以它一直帶「做錯後付出代價」的結構。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

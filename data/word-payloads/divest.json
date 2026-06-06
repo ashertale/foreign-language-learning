@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "資產",
-        "body": "The firm <code>divested</code> the assets to focus on its core business."
+        "body": "The firm <code>divested</code> the assets to focus on its core business. 這裡放在資產情境時，是在說持有關係被切斷，尤其帶策略、倫理或正式程序。"
       },
       {
         "label": "投資",
-        "body": "Several funds divested from fossil fuels after pressure from members."
+        "body": "Several funds divested from fossil fuels after pressure from members. 這裡放在投資情境時，是在說持有關係被切斷，尤其帶策略、倫理或正式程序。"
       },
       {
         "label": "責任",
-        "body": "You"
+        "body": "在責任這類情境裡，<code>divest</code> 的重點是：不是丟掉，而是有計畫地把持有的東西卸出去。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/divest",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>divest</code> 原本是剝去財物或衣物，和 <code>invest</code> 那種披上、投入剛好相反；所以它的手感一直是把原本穿著或握著的東西卸掉。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

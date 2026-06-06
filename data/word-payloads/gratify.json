@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "觀眾",
-        "body": "The ending <code>gratified</code> the audience without betraying the story's darker questions."
+        "body": "The ending <code>gratified</code> the audience without betraying the story's darker questions. 這裡放在觀眾情境時，是在說某個明確期待、慾望或好奇心被回應而感到滿足。"
       },
       {
         "label": "好奇",
-        "body": "A small trace log can gratify curiosity before it becomes a full investigation."
+        "body": "A small trace log can gratify curiosity before it becomes a full investigation. 這裡放在好奇情境時，是在說某個明確期待、慾望或好奇心被回應而感到滿足。"
       },
       {
         "label": "即時",
-        "body": "Instantly"
+        "body": "Instantly. 這裡放在即時情境時，是在說某個明確期待、慾望或好奇心被回應而感到滿足。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/gratify",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>gratify</code> 來自 Latin <code>gratificari</code>，早期有施恩、取悅、做對方喜歡之事的意思；所以它不是單純開心，而是某種需求被正面滿足。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -36,11 +36,11 @@
       },
       {
         "label": "看起來",
-        "body": "Nothing seemed amiss until the second device failed."
+        "body": "Nothing seemed amiss until the second device failed. 這裡放在看起來情境時，是在說你察覺不對勁，但還沒有完整原因或判定。"
       },
       {
         "label": "感覺",
-        "body": "If"
+        "body": "在感覺這類情境裡，<code>amiss</code> 的重點是：不是災難級錯誤，而是你直覺先感到哪裡不太對。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/amiss",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>amiss</code> 字面上就是「on the miss」，也就是沒打中、偏離靶心；因此現代說 something is amiss，重點不是大災難，而是先感到哪裡偏掉了。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

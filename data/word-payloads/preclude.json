@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Preclude",
+    "slug": "preclude",
+    "outputPath": "prototypes/preclude.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "pri-KLOOD · UK /prɪˈkluːd/ · US /prɪˈkluːd/",
+    "hero": {
+      "thesis": "不是晚了一步，而是一開始就把路堵住。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.68"
+    },
+    "coreIdea": "<code>preclude</code> 表示把事情往「事先排除」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「事先排除」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Prevent",
+        "note": "<code>prevent</code> 是阻止發生；<code>preclude</code> 更像前提直接把可能性封掉。"
+      },
+      "flow": [
+        "前提先設定好",
+        "可能性被堵住",
+        "後續選項直接被排除"
+      ]
+    },
+    "origin": {
+      "history": "<code>preclude</code> 來自 Latin <code>praecludere</code>，字面就是先把路關上、提前封住；因此它的阻止感不是碰巧，而是預先關門。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>preclude</code> 想成門還沒打開，門把就已經被拆掉。",
+      "explanation": "它強調的是可能性先被封死，而不是過程中失敗。"
+    },
+    "usage": [
+      {
+        "label": "前提",
+        "body": "有些限制不是讓你更難做，而是直接 <code>preclude</code> 某些方案。"
+      },
+      {
+        "label": "制度",
+        "body": "如果資料權限一開始就沒開，那就已經 <code>preclude</code> 後面的分析了。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>preclude</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "preclude the possibility",
+          "register": "正式 / 分析",
+          "note": "這個搭配常用來寫某條件從一開始就讓另一種可能無法成立。"
+        },
+        {
+          "phrase": "preclude access",
+          "register": "法律 / 制度",
+          "note": "這個搭配常用來寫某條件從一開始就讓另一種可能無法成立。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "事先排除",
+        "use": "用在某條件從一開始就讓另一種可能無法成立時。"
+      },
+      "others": [
+        {
+          "word": "Prevent",
+          "meaning": "攔住事情不要發生",
+          "use": "若重點是行動上的阻止，用 <code>prevent</code> 更直白。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>preclude</code> 在合約、政策與設計約束裡很精準，因為它說的是可能性被前提先封死。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>preclude</code> 整理成「事先排除」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/preclude",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>preclude</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/preclude",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "preclude",
+    "word": "Preclude",
+    "partOfSpeech": "verb",
+    "href": "./preclude.html",
+    "thesis": "不是晚了一步，而是一開始就把路堵住。",
+    "tags": [
+      "事先排除",
+      "前提先設定好",
+      "prevent",
+      "preclude the possibility",
+      "preclude access",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/preclude",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/preclude",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/preclude",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

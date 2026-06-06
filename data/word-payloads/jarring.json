@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "對比",
-        "body": "The bright banner created a <code>jarring</code> contrast with the quiet reading page."
+        "body": "The bright banner created a <code>jarring</code> contrast with the quiet reading page. 這裡放在對比情境時，是在說某元素突然破壞一致性，使人感到被撞出來。"
       },
       {
         "label": "噪音",
-        "body": "A jarring noise can pull attention out of a task instantly."
+        "body": "A jarring noise can pull attention out of a task instantly. 這裡放在噪音情境時，是在說某元素突然破壞一致性，使人感到被撞出來。"
       },
       {
         "label": "語氣",
-        "body": "A"
+        "body": "在語氣這類情境裡，<code>jarring</code> 的重點是：不是大聲而已，而是和周圍不搭到讓你整個被拉醒。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/jarring",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>jarring</code> 早期就用來形容刺耳、不協調、讓人不舒服的衝撞感；所以它不是普通大聲，而是聲音或落差卡得人難受。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

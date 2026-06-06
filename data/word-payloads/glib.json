@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回答",
-        "body": "A <code>glib</code> answer can sound confident while evading the hard part of the question."
+        "body": "A <code>glib</code> answer can sound confident while evading the hard part of the question. 這裡放在回答情境時，是在說話語表面流利，卻迴避複雜度、責任或真誠。"
       },
       {
         "label": "評論",
-        "body": "Glib remarks make complexity look like a personality problem."
+        "body": "Glib remarks make complexity look like a personality problem. 這裡放在評論情境時，是在說話語表面流利，卻迴避複雜度、責任或真誠。"
       },
       {
         "label": "安慰",
-        "body": "Glib reassurance often raises anxiety because it skips the evidence people need."
+        "body": "Glib reassurance often raises anxiety because it skips the evidence people need. 這裡放在安慰情境時，是在說話語表面流利，卻迴避複雜度、責任或真誠。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/glib",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>glib</code> 原本是方言裡的「滑、溜、順到抓不住」；後來套到說話上，就成了嘴巴太滑、太順、順到讓人不放心的感覺。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

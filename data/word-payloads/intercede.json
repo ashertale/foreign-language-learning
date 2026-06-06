@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "代為求情",
-        "body": "She"
+        "body": "在代為求情這類情境裡，<code>intercede</code> 的重點是：不是旁觀，而是主動站到中間替某人說話。"
       },
       {
         "label": "爭端",
-        "body": "A neutral lead may intercede in the dispute before positions harden."
+        "body": "A neutral lead may intercede in the dispute before positions harden. 這裡放在爭端情境時，是在說某人進入雙方中間，替另一方請求、求情或降低衝突。"
       },
       {
         "label": "主管",
-        "body": "He interceded with the manager to keep the conversation from becoming punitive."
+        "body": "He interceded with the manager to keep the conversation from becoming punitive. 這裡放在主管情境時，是在說某人進入雙方中間，替另一方請求、求情或降低衝突。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/intercede",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>intercede</code> 原本是走到兩者中間；到現代最常見的用法裡，這個中間位置變成替別人說話、替對方擋一下。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

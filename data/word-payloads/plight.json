@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Plight",
+    "slug": "plight",
+    "outputPath": "prototypes/plight.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "PLYT · UK /plaɪt/ · US /plaɪt/",
+    "hero": {
+      "thesis": "不是問題，而是已經陷進去的困境。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.75"
+    },
+    "coreIdea": "<code>plight</code> 指那種「困境處境」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「困境處境」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Problem",
+        "note": "<code>problem</code> 可以很抽象；<code>plight</code> 更強調人已經身在其中。"
+      },
+      "flow": [
+        "情況先惡化",
+        "人被困在裡面",
+        "處境開始令人同情或擔心"
+      ]
+    },
+    "origin": {
+      "history": "<code>plight</code> 今天表示困境的這條線，來自 Anglo-French / Old French 的「狀態、情況」，而且後來又和英語裡表示 danger、risk、pledge 的另一支 <code>plight</code> 互相糾纏；所以它很自然地從一般 condition 沉成令人同情的壞處境。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>plight</code> 想成不是地圖上的障礙，而是人已經站在坑裡。",
+      "explanation": "這個字把抽象問題轉成具體的人身處境。"
+    },
+    "usage": [
+      {
+        "label": "群體",
+        "body": "談難民、債務人或基層工作者時，<code>plight</code> 常用來凸顯他們身處的困境。"
+      },
+      {
+        "label": "敘事",
+        "body": "如果重點是人已經陷在局裡，而不是外部觀察一個問題，<code>plight</code> 很好用。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>plight</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "economic plight",
+          "register": "政策 / 社會",
+          "note": "這個搭配常用來寫某人或某群體被卡在艱難、令人同情的處境裡。"
+        },
+        {
+          "phrase": "plight of workers",
+          "register": "報導 / 評論",
+          "note": "這個搭配常用來寫某人或某群體被卡在艱難、令人同情的處境裡。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "困境處境",
+        "use": "用在某人或某群體被卡在艱難、令人同情的處境裡時。"
+      },
+      "others": [
+        {
+          "word": "Problem",
+          "meaning": "需要解決的一個問題",
+          "use": "若只是一般待解決事項，用 <code>problem</code> 就夠。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>plight</code> 常見於公共議題寫作，因為它讓讀者直視『有人正在那個困境裡』。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>plight</code> 整理成「困境處境」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/plight",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>plight</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/plight",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "plight",
+    "word": "Plight",
+    "partOfSpeech": "noun",
+    "href": "./plight.html",
+    "thesis": "不是問題，而是已經陷進去的困境。",
+    "tags": [
+      "困境處境",
+      "情況先惡化",
+      "problem",
+      "economic plight",
+      "plight of workers",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/plight",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/plight",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/plight",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "合約",
-        "body": "A <code>lucrative</code> contract can still be a bad deal if it drains the team."
+        "body": "A <code>lucrative</code> contract can still be a bad deal if it drains the team. 這裡放在合約情境時，是在說金錢收益高到成為主要吸引力。"
       },
       {
         "label": "市場",
-        "body": "The niche became lucrative once compliance requirements created a barrier to entry."
+        "body": "The niche became lucrative once compliance requirements created a barrier to entry. 這裡放在市場情境時，是在說金錢收益高到成為主要吸引力。"
       },
       {
         "label": "職涯",
-        "body": "A lucrative career is not the same as a sustainable one."
+        "body": "A lucrative career is not the same as a sustainable one. 這裡放在職涯情境時，是在說金錢收益高到成為主要吸引力。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/lucrative",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>lucrative</code> 經 Old French / Latin 傳入時，就是能帶來 gain、profit 的事；所以它的判準一直很實際，就是有沒有賺頭。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

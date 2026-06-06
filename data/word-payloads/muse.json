@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Muse",
+    "slug": "muse",
+    "outputPath": "prototypes/muse.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "MYOOZ · UK /mjuːz/ · US /mjuːz/",
+    "hero": {
+      "thesis": "不是立刻下結論，而是讓想法在腦中慢慢繞一圈。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.88"
+    },
+    "coreIdea": "<code>muse</code> 表示把事情往「沉思醞釀」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「沉思醞釀」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Ponder",
+        "note": "<code>ponder</code> 比較正式沉重；<code>muse</code> 常更輕、更帶自言自語感。"
+      },
+      "flow": [
+        "問題先停住",
+        "想法慢慢繞開來",
+        "答案未必立刻落下"
+      ]
+    },
+    "origin": {
+      "history": "<code>muse</code> 來自 Old French <code>muser</code>，有沉思、發呆、做白日夢的意思；Etymonline 也提到它的來源不確定，可能和「鼻口、嗅聞」的畫面有關，所以這個字一直帶那種思緒飄著轉的感覺。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>muse</code> 想成手上捧著一個問題，沒有立刻拆開，只先在手裡轉一轉。",
+      "explanation": "這個字保留了思考的空氣感，不急著把一切壓成結論。"
+    },
+    "usage": [
+      {
+        "label": "寫作",
+        "body": "She paused to <code>muse</code> on why the memory still felt unfinished. 這裡放在寫作情境時，是在說不急著答、先讓問題在腦中發酵。"
+      },
+      {
+        "label": "會議後",
+        "body": "On the walk home, he <code>mused</code> about what the product was really trying to become. 這裡放在會議後情境時，是在說不急著答、先讓問題在腦中發酵。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>muse</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "muse on the question",
+          "register": "寫作 / 思辨",
+          "note": "這個搭配常用來寫不急著答、先讓問題在腦中發酵。"
+        },
+        {
+          "phrase": "muse aloud",
+          "register": "口語 / 敘事",
+          "note": "這個搭配常用來寫不急著答、先讓問題在腦中發酵。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "沉思醞釀",
+        "use": "用在不急著答、先讓問題在腦中發酵時。"
+      },
+      "others": [
+        {
+          "word": "Ponder",
+          "meaning": "認真而沉重地思量",
+          "use": "若你要的是較正式、較用力的思索感，用 <code>ponder</code> 更貼近。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>muse</code> 很適合用在設計、寫作與回顧情境裡，因為它讓思考保持開口，不急著被 KPI 或結論蓋死。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>muse</code> 整理成「沉思醞釀」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/muse",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>muse</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/muse",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "muse",
+    "word": "Muse",
+    "partOfSpeech": "verb",
+    "href": "./muse.html",
+    "thesis": "不是立刻下結論，而是讓想法在腦中慢慢繞一圈。",
+    "tags": [
+      "沉思醞釀",
+      "問題先停住",
+      "ponder",
+      "muse on the question",
+      "muse aloud",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/muse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/muse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/muse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

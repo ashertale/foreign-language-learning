@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "謊言",
-        "body": "A"
+        "body": "在謊言這類情境裡，<code>blatant</code> 的重點是：不是看得出來而已，而是明顯到近乎不把規則放在眼裡。"
       },
       {
         "label": "偏見",
-        "body": "Blatant bias is not a subtle weighting problem; it is visible in the outcome."
+        "body": "Blatant bias is not a subtle weighting problem; it is visible in the outcome. 這裡放在偏見情境時，是在說問題不但明顯，而且明顯到讓人覺得不應被放過。"
       },
       {
         "label": "缺陷",
-        "body": "A blatant bug makes trust drop fast because users can see it immediately."
+        "body": "A blatant bug makes trust drop fast because users can see it immediately. 這裡放在缺陷情境時，是在說問題不但明顯，而且明顯到讓人覺得不應被放過。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/blatant",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>blatant</code> 是 Spenser 在 1596 年為《The Faerie Queene》裡的 <code>Blatant Beast</code> 造出的字，原本指那頭象徵誹謗的千舌怪獸；後來才變成吵鬧、再進一步成為公然明顯。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

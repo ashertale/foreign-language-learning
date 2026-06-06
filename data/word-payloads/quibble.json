@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Quibble",
+    "slug": "quibble",
+    "outputPath": "prototypes/quibble.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "KWIB-uhl · UK /ˈkwɪb.əl/ · US /ˈkwɪb.əl/",
+    "hero": {
+      "thesis": "不是討論，而是在小地方挑細枝末節。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.39"
+    },
+    "coreIdea": "<code>quibble</code> 表示把事情往「吹毛挑刺」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「吹毛挑刺」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Disagree",
+        "note": "<code>disagree</code> 是不同意；<code>quibble</code> 暗示你在小地方卡太久。"
+      },
+      "flow": [
+        "大方向其實相近",
+        "注意力卡在小差別",
+        "討論被細節拖住"
+      ]
+    },
+    "origin": {
+      "history": "<code>quibble</code> 早期先指雙關或文字遊戲，和「鑽語病、閃躲論點」的舊義連在一起；後來才沉成今天那種不碰主軸、只在小地方挑剔的意思。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>quibble</code> 想成桌上有大洞還在量桌布邊緣歪幾毫米。",
+      "explanation": "這個字常帶一點『你在挑不值得挑的地方』。"
+    },
+    "usage": [
+      {
+        "label": "會議",
+        "body": "當大家其實已經同意方向，還一直在小地方繞，那就像在 <code>quibble</code>。"
+      },
+      {
+        "label": "評論",
+        "body": "有些回應不是提出真正反對，只是在字眼上 <code>quibble</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>quibble</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "quibble over wording",
+          "register": "會議 / 寫作",
+          "note": "這個搭配常用來寫對重點幫助不大的小差異反覆爭。"
+        },
+        {
+          "phrase": "quibble with the details",
+          "register": "評論 / 口語",
+          "note": "這個搭配常用來寫對重點幫助不大的小差異反覆爭。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "吹毛挑刺",
+        "use": "用在對重點幫助不大的小差異反覆爭時。"
+      },
+      "others": [
+        {
+          "word": "Disagree",
+          "meaning": "有不同看法",
+          "use": "若是對核心點真的有分歧，用 <code>disagree</code> 更中性。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>quibble</code> 很適合提醒團隊：現在卡住的是細枝末節，不是核心判斷。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>quibble</code> 整理成「吹毛挑刺」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/quibble",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>quibble</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/quibble",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "quibble",
+    "word": "Quibble",
+    "partOfSpeech": "verb",
+    "href": "./quibble.html",
+    "thesis": "不是討論，而是在小地方挑細枝末節。",
+    "tags": [
+      "吹毛挑刺",
+      "大方向其實相近",
+      "disagree",
+      "quibble over wording",
+      "quibble with the details",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/quibble",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/quibble",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/quibble",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

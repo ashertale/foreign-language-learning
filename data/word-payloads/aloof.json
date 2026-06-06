@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "態度",
-        "body": "An"
+        "body": "在態度這類情境裡，<code>aloof</code> 的重點是：不是害羞，而是刻意或自然地保持距離，不讓人太靠近。"
       },
       {
         "label": "管理者",
-        "body": "An aloof manager may not be hostile, but the distance still changes team behavior."
+        "body": "An aloof manager may not be hostile, but the distance still changes team behavior. 這裡放在管理者情境時，是在說人的距離感讓互動變冷或變難靠近。"
       },
       {
         "label": "保持距離",
-        "body": "Remain aloof can mean refusing to get involved emotionally or politically."
+        "body": "Remain aloof can mean refusing to get involved emotionally or politically. 這裡放在保持距離情境時，是在說人的距離感讓互動變冷或變難靠近。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/aloof",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>aloof</code> 原本是航海語，指船保持在迎風、離開他船的位置；後來才轉成在人際上保持距離、不讓人靠近。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

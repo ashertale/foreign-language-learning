@@ -32,7 +32,7 @@
     "usage": [
       {
         "label": "提案",
-        "body": "Reviewers may <code>assail</code> the proposal if assumptions are hidden and risks are vague."
+        "body": "Reviewers may <code>assail</code> the proposal if assumptions are hidden and risks are vague. 這裡放在提案情境時，是在說攻擊、批評或疑慮強烈而連續地壓向對象。"
       },
       {
         "label": "疑慮",
@@ -40,7 +40,7 @@
       },
       {
         "label": "目標",
-        "body": "The"
+        "body": "在目標這類情境裡，<code>assail</code> 的重點是：不是普通批評，而是成串地從各方向打過來。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/assail",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>assail</code> 經 Old French 傳入，核心一直是「猛撲上去攻擊」；因此它比 attack 更容易帶出成串、迎面打來的壓力。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "英雄",
-        "body": "The"
+        "body": "在英雄這類情境裡，<code>exalt</code> 的重點是：不是肯定而已，而是幾乎把它捧到很高的位置。"
       },
       {
         "label": "美德",
-        "body": "A culture can exalt virtue in language while rewarding the opposite in practice."
+        "body": "A culture can exalt virtue in language while rewarding the opposite in practice. 這裡放在美德情境時，是在說讚揚不只是好評，而是把對象放到高位。"
       },
       {
         "label": "品牌",
-        "body": "Advertising often exalts the brand beyond the product's actual usefulness."
+        "body": "Advertising often exalts the brand beyond the product's actual usefulness. 這裡放在品牌情境時，是在說讚揚不只是好評，而是把對象放到高位。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/exalt",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>exalt</code> 來自 Latin <code>exaltare</code>「抬高、升高」，本意就是往高處舉；所以它後來既能指提升地位，也能指把人或事高高捧起來讚揚。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

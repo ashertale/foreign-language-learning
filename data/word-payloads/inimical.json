@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "進展",
-        "body": "A"
+        "body": "在進展這類情境裡，<code>inimical</code> 的重點是：不是不配合而已，而是和你的目標本身相沖。"
       },
       {
         "label": "條件",
-        "body": "The conditions were inimical to careful work: too little time, too much noise."
+        "body": "The conditions were inimical to careful work: too little time, too much noise. 這裡放在條件情境時，是在說環境、政策或行為和某個目標根本不相容。"
       },
       {
         "label": "信任",
-        "body": "Secret exceptions are inimical to trust even when each exception seems practical."
+        "body": "Secret exceptions are inimical to trust even when each exception seems practical. 這裡放在信任情境時，是在說環境、政策或行為和某個目標根本不相容。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/inimical",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>inimical</code> 原本就是帶有敵人那種性情，後來才廣泛表示不利、敵對、相衝；所以它不是單純不適合，而是有一股對著幹的勁。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

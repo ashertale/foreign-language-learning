@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Quiescent",
+    "slug": "quiescent",
+    "outputPath": "prototypes/quiescent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "kwi-ES-ənt · UK /kwiˈes.ənt/ · US /kwiˈes.ənt/",
+    "hero": {
+      "thesis": "不是死掉，而是暫時安靜、不活動。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.01"
+    },
+    "coreIdea": "<code>quiescent</code> 描述一種「靜止休眠」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「靜止休眠」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Dormant",
+        "note": "<code>dormant</code> 偏沉睡；<code>quiescent</code> 更書面，也常指暫時不活動但仍在。"
+      },
+      "flow": [
+        "東西沒有消失",
+        "活動度先降到很低",
+        "表面看起來近乎靜止"
+      ]
+    },
+    "origin": {
+      "history": "<code>quiescent</code> 來自拉丁語 <code>quiescere</code>「休息、安靜下來」，字根和 quiet 同一脈；所以它不是消失，而是暫時不活動、進入靜止狀態。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>quiescent</code> 想成火山不是熄了，而是暫時沒冒煙。",
+      "explanation": "它保留了『還在』這件事，只是現在不動。"
+    },
+    "usage": [
+      {
+        "label": "風險",
+        "body": "有些漏洞不是修掉，而是因為條件沒到，暫時保持 <code>quiescent</code>。"
+      },
+      {
+        "label": "系統",
+        "body": "市場在事件前看似 <code>quiescent</code>，不代表裡面沒有壓力。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>quiescent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "quiescent state",
+          "register": "科學 / 工程",
+          "note": "這個搭配常用來寫威脅、基因、習慣或市場暫時不活躍。"
+        },
+        {
+          "phrase": "quiescent market",
+          "register": "財經 / 評論",
+          "note": "這個搭配常用來寫威脅、基因、習慣或市場暫時不活躍。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "靜止休眠",
+        "use": "用在威脅、基因、習慣或市場暫時不活躍時。"
+      },
+      "others": [
+        {
+          "word": "Dormant",
+          "meaning": "沉睡、暫停、未啟動",
+          "use": "若想用更常見的字描述休眠狀態，用 <code>dormant</code> 更自然。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>quiescent</code> 雖偏正式，但在技術、金融與醫療語境都很好用，因為它精準表達『暫時不動，但還在』。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>quiescent</code> 整理成「靜止休眠」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/quiescent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>quiescent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/quiescent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "quiescent",
+    "word": "Quiescent",
+    "partOfSpeech": "adjective",
+    "href": "./quiescent.html",
+    "thesis": "不是死掉，而是暫時安靜、不活動。",
+    "tags": [
+      "靜止休眠",
+      "東西沒有消失",
+      "dormant",
+      "quiescent state",
+      "quiescent market",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/quiescent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/quiescent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/quiescent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

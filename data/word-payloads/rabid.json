@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Rabid",
+    "slug": "rabid",
+    "outputPath": "prototypes/rabid.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "RAB-id · UK /ˈræb.ɪd/ · US /ˈræb.ɪd/",
+    "hero": {
+      "thesis": "不是熱情，而是熱到帶攻擊性。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.51"
+    },
+    "coreIdea": "<code>rabid</code> 描述一種「狂熱失控」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「狂熱失控」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Fervent",
+        "note": "<code>fervent</code> 可以是正面的熱誠；<code>rabid</code> 則常帶失衡與攻擊性。"
+      },
+      "flow": [
+        "情緒先高漲",
+        "理性退到後面",
+        "熱度開始咬人"
+      ]
+    },
+    "origin": {
+      "history": "<code>rabid</code> 來自拉丁語 <code>rabidus</code>「狂怒的、發狂的」，本來就和狂犬病那種失控狀態連在一起；所以比喻成 fan base 或 opposition 時，也不是熱情而已，而是熱到帶攻擊性。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>rabid</code> 想成不是火旺，而是火旺到開始亂噴。",
+      "explanation": "它批評的不是投入，而是投入失去比例。"
+    },
+    "usage": [
+      {
+        "label": "支持者",
+        "body": "如果一群支持者的熱情已經帶出攻擊性，<code>rabid</code> 的語感就到了。"
+      },
+      {
+        "label": "評論",
+        "body": "有些反對聲浪不是強烈而已，而是近乎 <code>rabid</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>rabid</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "rabid fan base",
+          "register": "媒體 / 文化",
+          "note": "這個搭配常用來寫支持、反對或情緒強度高到近乎失控。"
+        },
+        {
+          "phrase": "rabid opposition",
+          "register": "政治 / 評論",
+          "note": "這個搭配常用來寫支持、反對或情緒強度高到近乎失控。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "狂熱失控",
+        "use": "用在支持、反對或情緒強度高到近乎失控時。"
+      },
+      "others": [
+        {
+          "word": "Fervent",
+          "meaning": "熱切、真誠而投入",
+          "use": "若重點是深切熱誠，不帶失控感，用 <code>fervent</code> 更好。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>rabid</code> 在現代評論裡常用來寫狂熱過頭、甚至帶攻擊性的支持或反對。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>rabid</code> 整理成「狂熱失控」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/rabid",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>rabid</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/rabid",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "rabid",
+    "word": "Rabid",
+    "partOfSpeech": "adjective",
+    "href": "./rabid.html",
+    "thesis": "不是熱情，而是熱到帶攻擊性。",
+    "tags": [
+      "狂熱失控",
+      "情緒先高漲",
+      "fervent",
+      "rabid fan base",
+      "rabid opposition",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rabid",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/rabid",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rabid",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "範圍",
-        "body": "The questions ran the <code>gamut</code> from naming to deployment risk."
+        "body": "The questions ran the <code>gamut</code> from naming to deployment risk. 這裡放在範圍情境時，是在說你要表示某一類東西的整個範圍都被涵蓋。"
       },
       {
         "label": "服務",
-        "body": "The platform promises a full gamut of services, but users still care about the path between them."
+        "body": "The platform promises a full gamut of services, but users still care about the path between them. 這裡放在服務情境時，是在說你要表示某一類東西的整個範圍都被涵蓋。"
       },
       {
         "label": "情緒",
-        "body": "The team went through a gamut of emotions during the incident."
+        "body": "The team went through a gamut of emotions during the incident. 這裡放在情緒情境時，是在說你要表示某一類東西的整個範圍都被涵蓋。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/gamut",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>gamut</code> 原本是中世紀音階裡最低的 G 音，名字來自 <code>gamma ut</code>；後來才從整套音階延伸成「完整範圍」，所以 run the gamut 字面上其實是整個音階都走過。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

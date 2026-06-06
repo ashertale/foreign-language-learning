@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "敏感議題",
-        "body": "She waited until the review ended before she <code>broached</code> the subject of burnout."
+        "body": "She waited until the review ended before she <code>broached</code> the subject of burnout. 這裡放在敏感議題情境時，是在說開啟有情緒、權力或後果重量的話題。"
       },
       {
         "label": "疑慮",
-        "body": "Broaching"
+        "body": "Broaching. 這裡放在疑慮情境時，是在說開啟有情緒、權力或後果重量的話題。"
       },
       {
         "label": "語氣",
-        "body": "To broach the issue gently is to choose timing and wording as part of the action."
+        "body": "To broach the issue gently is to choose timing and wording as part of the action. 這裡放在語氣情境時，是在說開啟有情緒、權力或後果重量的話題。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/broach",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>broach</code> 原本是尖錐、烤叉之類能刺穿的工具；動詞義先是把桶或表面鑽開，後來才引申成把敏感話題戳出一個入口。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

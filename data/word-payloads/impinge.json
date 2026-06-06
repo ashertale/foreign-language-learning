@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "隱私",
-        "body": "A feature can <code>impinge</code> on privacy even when it improves convenience."
+        "body": "A feature can <code>impinge</code> on privacy even when it improves convenience. 這裡放在隱私情境時，是在說影響不是普通影響，而是壓到對方應有邊界。"
       },
       {
         "label": "時間",
-        "body": "Unplanned"
+        "body": "Unplanned. 這裡放在時間情境時，是在說影響不是普通影響，而是壓到對方應有邊界。"
       },
       {
         "label": "自主",
-        "body": "Overly tight process can impinge on autonomy and make experts stop thinking aloud."
+        "body": "Overly tight process can impinge on autonomy and make experts stop thinking aloud. 這裡放在自主情境時，是在說影響不是普通影響，而是壓到對方應有邊界。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/impinge",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>impinge</code> 原本是往裡釘入、撞上、打到某物；後來才轉成碰到界線、侵入別人的空間或權益，所以它總帶一點撞線感。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

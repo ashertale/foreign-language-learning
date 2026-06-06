@@ -36,11 +36,11 @@
       },
       {
         "label": "決議",
-        "body": "Teams can disagree during debate and still abide by the decision afterward."
+        "body": "Teams can disagree during debate and still abide by the decision afterward. 這裡放在決議情境時，是在說承諾或規則需要在後續行為中被遵守。"
       },
       {
         "label": "協議",
-        "body": "To abide by an agreement is to let the agreement constrain future choices."
+        "body": "To abide by an agreement is to let the agreement constrain future choices. 這裡放在協議情境時，是在說承諾或規則需要在後續行為中被遵守。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/abide",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>abide</code> 來自 Old English <code>gebidan</code>，原意是停留、等待、撐過；到 <code>abide by</code> 這個用法時，核心就變成一直守著某個規則、決定或承諾不偏離。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

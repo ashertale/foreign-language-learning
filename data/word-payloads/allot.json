@@ -36,11 +36,11 @@
       },
       {
         "label": "資源",
-        "body": "Allot"
+        "body": "在資源這類情境裡，<code>allot</code> 的重點是：不是隨手給一些，而是從有限總量中切出一份明確額度。"
       },
       {
         "label": "座位",
-        "body": "Seats were allotted before registration opened to the wider group."
+        "body": "Seats were allotted before registration opened to the wider group. 這裡放在座位情境時，是在說有限資源需要被切出明確份額。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/allot",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>allot</code> 經 Old French 來自「以抽籤分配」的概念；所以它不是隨手給一些，而是把總量切成明確份額，再分到各人手上。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

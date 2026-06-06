@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "旅程",
-        "body": "An <code>arduous</code> journey may be possible, but it asks for endurance rather than one burst of effort."
+        "body": "An <code>arduous</code> journey may be possible, but it asks for endurance rather than one burst of effort. 這裡放在旅程情境時，是在說困難需要長時間承受和持續努力，而不是短暫解題。"
       },
       {
         "label": "任務",
-        "body": "Refactoring"
+        "body": "Refactoring. 這裡放在任務情境時，是在說困難需要長時間承受和持續努力，而不是短暫解題。"
       },
       {
         "label": "恢復",
-        "body": "Arduous recovery often means progress is slow, uneven, and still worth it."
+        "body": "Arduous recovery often means progress is slow, uneven, and still worth it. 這裡放在恢復情境時，是在說困難需要長時間承受和持續努力，而不是短暫解題。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/arduous",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>arduous</code> 來自 Latin <code>arduus</code>「高、陡、難攀」；這就是它為什麼不像 difficult 那麼平，而是帶著一路往上扛的重量。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

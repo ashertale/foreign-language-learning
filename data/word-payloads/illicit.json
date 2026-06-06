@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "交易",
-        "body": "<code>Illicit</code> trade often depends on hiding the path as much as hiding the goods."
+        "body": "<code>Illicit</code> trade often depends on hiding the path as much as hiding the goods. 這裡放在交易情境時，是在說行為不只是錯，而是處在禁區或暗處。"
       },
       {
         "label": "付款",
-        "body": "An"
+        "body": "在付款這類情境裡，<code>illicit</code> 的重點是：不是偷偷而已，而是本身就不被允許。"
       },
       {
         "label": "存取",
-        "body": "Illicit access turns a technical event into a trust and compliance problem."
+        "body": "Illicit access turns a technical event into a trust and compliance problem. 這裡放在存取情境時，是在說行為不只是錯，而是處在禁區或暗處。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/illicit",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>illicit</code> 經 French / Latin 傳入時就表示不被允許、未經許可、違法；所以它的邊界感比 merely wrong 更強，因為規則本身已經說不行。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

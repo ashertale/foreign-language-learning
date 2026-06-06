@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "法律",
-        "body": "The council <code>enacted</code> a law after months of public debate."
+        "body": "The council <code>enacted</code> a law after months of public debate. 這裡放在法律情境時，是在說規則、政策或角色從文字與想像進入正式現實。"
       },
       {
         "label": "改革",
-        "body": "Enacting reforms requires more than announcing values."
+        "body": "Enacting reforms requires more than announcing values. 這裡放在改革情境時，是在說規則、政策或角色從文字與想像進入正式現實。"
       },
       {
         "label": "角色",
-        "body": "Actors enact the role by making choices visible through bodies and voices."
+        "body": "Actors enact the role by making choices visible through bodies and voices. 這裡放在角色情境時，是在說規則、政策或角色從文字與想像進入正式現實。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/enact",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>enact</code> 最早是把角色演出來、把某件事做成一場表現；後來才延伸成把規則正式做成法律，讓它真的開始發生效力。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

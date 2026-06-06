@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "緊張",
-        "body": "A"
+        "body": "在緊張這類情境裡，<code>dissipate</code> 的重點是：不是瞬間消失，而是慢慢散開、散淡。"
       },
       {
         "label": "熱",
-        "body": "The enclosure must dissipate heat before temperature becomes a reliability issue."
+        "body": "The enclosure must dissipate heat before temperature becomes a reliability issue. 這裡放在熱情境時，是在說某種集中能量、情緒或物質逐漸散掉、變弱。"
       },
       {
         "label": "霧",
-        "body": "Mist dissipates as sunlight and air movement break its density."
+        "body": "Mist dissipates as sunlight and air movement break its density. 這裡放在霧情境時，是在說某種集中能量、情緒或物質逐漸散掉、變弱。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/dissipate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>dissipate</code> 來自 Latin，原意是把東西往四面八方打散；因此無論是霧、能量、金錢還是專注力，重點都是原本聚著的東西被散掉。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

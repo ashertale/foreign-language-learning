@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "運動",
-        "body": "A"
+        "body": "在運動這類情境裡，<code>burgeon</code> 的重點是：不是穩穩增加，而是像一口氣冒出很多新枝節。"
       },
       {
         "label": "速度",
-        "body": "Demand burgeoned quickly after the tool solved a problem people had normalized."
+        "body": "Demand burgeoned quickly after the tool solved a problem people had normalized. 這裡放在速度情境時，是在說趨勢、需求、興趣或群體從初期快速長大。"
       },
       {
         "label": "興趣",
-        "body": "Burgeoning interest often needs structure before it becomes noise."
+        "body": "Burgeoning interest often needs structure before it becomes noise. 這裡放在興趣情境時，是在說趨勢、需求、興趣或群體從初期快速長大。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/burgeon",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>burgeon</code> 來自 Anglo-French / Old French 裡的「發芽、長出嫩枝」；因此它不是平穩增加，而是像枝頭一下冒出很多新生長點。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

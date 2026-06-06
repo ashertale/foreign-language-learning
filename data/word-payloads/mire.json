@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "文書",
-        "body": "The approval process left the team <code>mired</code> in paperwork."
+        "body": "The approval process left the team <code>mired</code> in paperwork. 這裡放在文書情境時，是在說困境帶黏滯感，人越想前進越覺得被拖住。"
       },
       {
         "label": "衝突",
-        "body": "A"
+        "body": "在衝突這類情境裡，<code>mire</code> 的重點是：不是停一下，而是陷進去後每一步都更難抽身。"
       },
       {
         "label": "債務",
-        "body": "Families mired in debt often face choices that look irrational from outside."
+        "body": "Families mired in debt often face choices that look irrational from outside. 這裡放在債務情境時，是在說困境帶黏滯感，人越想前進越覺得被拖住。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/mire",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>mire</code> 原本就是深泥、沼澤、爛地；所以它轉成比喻時，保留的仍是人或事陷下去後越動越難拔出的感覺。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

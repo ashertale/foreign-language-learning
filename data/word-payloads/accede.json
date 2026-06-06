@@ -36,11 +36,11 @@
       },
       {
         "label": "壓力",
-        "body": "A company may accede to demands after resistance becomes too costly."
+        "body": "A company may accede to demands after resistance becomes too costly. 這裡放在壓力情境時，是在說正式接受請求、要求、提案，或承接某位置。"
       },
       {
         "label": "即位",
-        "body": "A monarch accedes to the throne; this is a formal accession, not a casual agreement."
+        "body": "A monarch accedes to the throne; this is a formal accession, not a casual agreement. 這裡放在即位情境時，是在說正式接受請求、要求、提案，或承接某位置。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/accede",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>accede</code> 來自 Latin <code>accedere</code>「走近、到達、加入」；所以它後來既能指正式就任某個位置，也能指在壓力或情勢下點頭接受。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

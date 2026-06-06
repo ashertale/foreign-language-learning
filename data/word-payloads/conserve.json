@@ -36,7 +36,7 @@
       },
       {
         "label": "記憶體",
-        "body": "Embedded code often needs to <code>conserve</code> memory because every buffer has a cost。"
+        "body": "Embedded code often needs to <code>conserve</code> memory because every buffer has a cost。 這裡放在記憶體情境時，是在說資源有限，需要有意識地少耗損、保留下來。"
       },
       {
         "label": "環境",

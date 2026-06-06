@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Preempt",
+    "slug": "preempt",
+    "outputPath": "prototypes/preempt.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "pree-EMPT · UK /priːˈempt/ · US /priːˈempt/",
+    "hero": {
+      "thesis": "不是搶快，而是先一步動手，讓別人沒機會再做。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.77"
+    },
+    "coreIdea": "<code>preempt</code> 表示把事情往「先發占位」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「先發占位」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Forestall",
+        "note": "<code>forestall</code> 偏阻止後續發生；<code>preempt</code> 更強調你先一步占掉位置。"
+      },
+      "flow": [
+        "局勢還沒完全展開",
+        "先一步卡位出手",
+        "後面的人失去空間"
+      ]
+    },
+    "origin": {
+      "history": "<code>preempt</code> 對應的 Etymonline 詞條是 <code>pre-empt</code>。它 19 世紀先指依 <code>pre-emption</code> 權利把土地先占先買，字面上就是「在別人之前先買下」；後來才一般化成先一步出手，把位置或機會整個占走。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>preempt</code> 想成不是排隊排得快，而是先把位置整個占走。",
+      "explanation": "這個字很常跟時機和主導權綁在一起。"
+    },
+    "usage": [
+      {
+        "label": "溝通",
+        "body": "如果你知道誤解快要擴散，先說清楚就是一種 <code>preempt</code>。"
+      },
+      {
+        "label": "競爭",
+        "body": "有些產品不是更好，而是更早 <code>preempt</code> 了市場注意力。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>preempt</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "preempt criticism",
+          "register": "溝通 / 媒體",
+          "note": "這個搭配常用來寫先一步處理、回應或出手，以免別人搶走主導權。"
+        },
+        {
+          "phrase": "preempt the market",
+          "register": "商業 / 策略",
+          "note": "這個搭配常用來寫先一步處理、回應或出手，以免別人搶走主導權。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "先發占位",
+        "use": "用在先一步處理、回應或出手，以免別人搶走主導權時。"
+      },
+      "others": [
+        {
+          "word": "Forestall",
+          "meaning": "事先阻止某件事",
+          "use": "若重點是攔下結果，不特別強調主導權，用 <code>forestall</code> 更準。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>preempt</code> 在商業、政治與公關語境都常見，因為它精準寫出『先一步卡位』。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>preempt</code> 整理成「先發占位」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/preempt",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>preempt</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/preempt",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "preempt",
+    "word": "Preempt",
+    "partOfSpeech": "verb",
+    "href": "./preempt.html",
+    "thesis": "不是搶快，而是先一步動手，讓別人沒機會再做。",
+    "tags": [
+      "先發占位",
+      "局勢還沒完全展開",
+      "forestall",
+      "preempt criticism",
+      "preempt the market",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/preempt",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/preempt",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/preempt",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

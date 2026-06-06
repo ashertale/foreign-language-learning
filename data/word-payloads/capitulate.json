@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "壓力",
-        "body": "The vendor finally <code>capitulated</code> to pressure and published the missing security details."
+        "body": "The vendor finally <code>capitulated</code> to pressure and published the missing security details. 這裡放在壓力情境時，是在說讓步背後有壓力、抵抗和最後失守的故事。"
       },
       {
         "label": "最後",
-        "body": "Capitulating"
+        "body": "Capitulating. 這裡放在最後情境時，是在說讓步背後有壓力、抵抗和最後失守的故事。"
       },
       {
         "label": "條件",
-        "body": "To capitulate without terms is to lose the ability to shape the ending."
+        "body": "To capitulate without terms is to lose the ability to shape the ending. 這裡放在條件情境時，是在說讓步背後有壓力、抵抗和最後失守的故事。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/capitulate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>capitulate</code> 來自和 chapter 同源的字，原本是把條款按章節列出；因為它常出現在投降條件裡，後來才收斂成在撐了一段之後終於讓步投降。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

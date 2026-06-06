@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "戲劇",
-        "body": "A <code>cerebral</code> drama may fascinate viewers who enjoy ideas more than action."
+        "body": "A <code>cerebral</code> drama may fascinate viewers who enjoy ideas more than action. 這裡放在戲劇情境時，是在說你要描述某物主要訴諸思考，而不是感官、動作或情緒。"
       },
       {
         "label": "方法",
-        "body": "A"
+        "body": "在方法這類情境裡，<code>cerebral</code> 的重點是：不是冷冰冰，而是重心在推理、概念和腦中的結構。"
       },
       {
         "label": "風格",
-        "body": "Cerebral style rewards patient attention rather than immediate emotional reaction."
+        "body": "Cerebral style rewards patient attention rather than immediate emotional reaction. 這裡放在風格情境時，是在說你要描述某物主要訴諸思考，而不是感官、動作或情緒。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/cerebral",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>cerebral</code> 來自 Latin <code>cerebrum</code>「大腦」；所以它一開始就是和腦部有關，後來才延伸成偏理智、偏思考、少了點情緒溫度。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -36,11 +36,11 @@
       },
       {
         "label": "傳聞",
-        "body": "Rumors abound when information is scarce and stakes are high."
+        "body": "Rumors abound when information is scarce and stakes are high. 這裡放在傳聞情境時，是在說某類事物大量存在、到處可見。"
       },
       {
         "label": "自然",
-        "body": "Wildflowers"
+        "body": "Wildflowers. 這裡放在自然情境時，是在說某類事物大量存在、到處可見。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/abound",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>abound</code> 經 Old French <code>abonder</code> 來自 Latin <code>abundare</code>，本義就是「滿出來、溢出」；所以它不是普通的多，而是多到四周都看得到。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

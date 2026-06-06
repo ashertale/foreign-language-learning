@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "開始",
-        "body": "An <code>auspicious</code> start gives confidence, but it still needs follow-through."
+        "body": "An <code>auspicious</code> start gives confidence, but it still needs follow-through. 這裡放在開始情境時，是在說開始、跡象或時機讓人合理期待好結果。"
       },
       {
         "label": "跡象",
-        "body": "Auspicious signs can encourage a team, but they should not replace measurement."
+        "body": "Auspicious signs can encourage a team, but they should not replace measurement. 這裡放在跡象情境時，是在說開始、跡象或時機讓人合理期待好結果。"
       },
       {
         "label": "時機",
-        "body": "Auspicious timing makes an action feel naturally well placed."
+        "body": "Auspicious timing makes an action feel naturally well placed. 這裡放在時機情境時，是在說開始、跡象或時機讓人合理期待好結果。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/auspicious",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>auspicious</code> 來自 Latin <code>auspicium</code>，本來是觀察鳥的飛行來判斷吉凶的占兆；因此它天生就帶「好兆頭」而不只是 luck 的意思。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

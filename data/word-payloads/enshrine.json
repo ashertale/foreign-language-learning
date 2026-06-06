@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "權利",
-        "body": "The"
+        "body": "在權利這類情境裡，<code>enshrine</code> 的重點是：不是暫時保留，而是把它放進不易被動搖的位置。"
       },
       {
         "label": "原則",
-        "body": "A handbook can enshrine a principle, but practice decides whether it lives."
+        "body": "A handbook can enshrine a principle, but practice decides whether it lives. 這裡放在原則情境時，是在說某物不只是被保留，而是被正式尊崇、制度化或記入共同記憶。"
       },
       {
         "label": "記憶",
-        "body": "Communities enshrine in memory what they cannot afford to forget."
+        "body": "Communities enshrine in memory what they cannot afford to forget. 這裡放在記憶情境時，是在說某物不只是被保留，而是被正式尊崇、制度化或記入共同記憶。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/enshrine",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>enshrine</code> 原本就是把某物放進 shrine 裡保存；後來才延伸成把價值、原則或記憶安放到不輕易碰動的位置。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

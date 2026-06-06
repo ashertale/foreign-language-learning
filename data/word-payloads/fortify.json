@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "牆",
-        "body": "They <code>fortified</code> the wall before the storm season."
+        "body": "They <code>fortified</code> the wall before the storm season. 這裡放在牆情境時，是在說加強的目的，是讓對象更能抵抗壓力、攻擊或不足。"
       },
       {
         "label": "論點",
-        "body": "A"
+        "body": "在論點這類情境裡，<code>fortify</code> 的重點是：不是修補一下，而是提前把它補到更能撐。"
       },
       {
         "label": "營養",
-        "body": "Food fortified with vitamins has nutrients added for support."
+        "body": "Food fortified with vitamins has nutrients added for support. 這裡放在營養情境時，是在說加強的目的，是讓對象更能抵抗壓力、攻擊或不足。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/fortify",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>fortify</code> 早期一面可指加強藥效，一面可指替城鎮築起防禦；兩條線都保留了同一個動作，就是把原本脆弱的東西撐得更能扛。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Rancor",
+    "slug": "rancor",
+    "outputPath": "prototypes/rancor.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "RANG-ker · UK /ˈræŋ.kə/ · US /ˈræŋ.kɚ/",
+    "hero": {
+      "thesis": "不是生氣，而是積久了還沒散掉的怨恨。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.12"
+    },
+    "coreIdea": "<code>rancor</code> 指那種「積怨苦毒」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「積怨苦毒」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Anger",
+        "note": "<code>anger</code> 可以是一時情緒；<code>rancor</code> 更像沉在底下、放久的怨。"
+      },
+      "flow": [
+        "衝突先發生",
+        "怒氣沒有消掉",
+        "久了變成帶苦味的怨"
+      ]
+    },
+    "origin": {
+      "history": "<code>rancor</code> 來自拉丁語裡「腐敗的臭味、敗壞感」那條線，先有發酸發臭，後來才轉成久放不散的怨毒；所以 <code>rancor</code> 很像情緒已經放到變質。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>rancor</code> 想成不是剛煮沸的水，而是鍋底一直燒焦不散的味道。",
+      "explanation": "這個字寫的是情緒放久之後的殘留。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "如果爭執已經過去很久，卻還留下一層苦味，那種感覺就接近 <code>rancor</code>。"
+      },
+      {
+        "label": "政治",
+        "body": "公共討論裡最難處理的常不是分歧，而是堆久了的 <code>rancor</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>rancor</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "deep rancor",
+          "register": "評論 / 人際",
+          "note": "這個搭配常用來寫人際或政治衝突中，怒氣沉澱成長久怨恨。"
+        },
+        {
+          "phrase": "political rancor",
+          "register": "政治 / 媒體",
+          "note": "這個搭配常用來寫人際或政治衝突中，怒氣沉澱成長久怨恨。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "積怨苦毒",
+        "use": "用在人際或政治衝突中，怒氣沉澱成長久怨恨時。"
+      },
+      "others": [
+        {
+          "word": "Anger",
+          "meaning": "當下的怒氣",
+          "use": "若只是當場生氣，用 <code>anger</code> 更直接。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>rancor</code> 很適合寫那些衝突結束後仍留在關係裡的苦毒，尤其在政治和長期合作裂痕中。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>rancor</code> 整理成「積怨苦毒」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/rancor",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>rancor</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/rancor",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "rancor",
+    "word": "Rancor",
+    "partOfSpeech": "noun",
+    "href": "./rancor.html",
+    "thesis": "不是生氣，而是積久了還沒散掉的怨恨。",
+    "tags": [
+      "積怨苦毒",
+      "衝突先發生",
+      "anger",
+      "deep rancor",
+      "political rancor",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rancor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/rancor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rancor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

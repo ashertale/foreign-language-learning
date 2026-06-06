@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Paucity",
+    "slug": "paucity",
+    "outputPath": "prototypes/paucity.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "PAW-suh-tee · UK /ˈpɔː.sə.ti/ · US /ˈpɑː.sə.t̬i/",
+    "hero": {
+      "thesis": "不是少，而是少到你開始意識到缺口。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.18"
+    },
+    "coreIdea": "<code>paucity</code> 指那種「稀少短缺」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「稀少短缺」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Shortage",
+        "note": "<code>shortage</code> 偏實際缺貨；<code>paucity</code> 更書面，也可指抽象資源稀少。"
+      },
+      "flow": [
+        "原本期待會有更多",
+        "實際數量明顯偏少",
+        "缺口開始影響判斷與行動"
+      ]
+    },
+    "origin": {
+      "history": "<code>paucity</code> 經 Old French / Latin 傳入時，就是數量少、稀少、匱乏；所以它不是抽象不足，而是量本身就薄。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>paucity</code> 想成抽屜一拉開，不是空，而是只剩幾張薄薄的紙。",
+      "explanation": "它比 few 更有『這個少會造成後果』的味道。"
+    },
+    "usage": [
+      {
+        "label": "證據",
+        "body": "如果資料少到不足以支撐結論，就可以說有 a <code>paucity</code> of evidence。"
+      },
+      {
+        "label": "人才",
+        "body": "某些領域不是沒有候選人，而是有一種明顯的 <code>paucity</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>paucity</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "paucity of evidence",
+          "register": "研究 / 法律",
+          "note": "這個搭配常用來寫證據、資源、人才或機會少到成問題。"
+        },
+        {
+          "phrase": "paucity of resources",
+          "register": "政策 / 管理",
+          "note": "這個搭配常用來寫證據、資源、人才或機會少到成問題。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "稀少短缺",
+        "use": "用在證據、資源、人才或機會少到成問題時。"
+      },
+      "others": [
+        {
+          "word": "Shortage",
+          "meaning": "短缺、不夠用",
+          "use": "若是具體供應不足的問題，用 <code>shortage</code> 會更直接。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>paucity</code> 雖然偏書面，但在研究、法規與評論裡很精準，因為它把『少到成問題』寫了出來。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>paucity</code> 整理成「稀少短缺」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/paucity",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>paucity</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/paucity",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "paucity",
+    "word": "Paucity",
+    "partOfSpeech": "noun",
+    "href": "./paucity.html",
+    "thesis": "不是少，而是少到你開始意識到缺口。",
+    "tags": [
+      "稀少短缺",
+      "原本期待會有更多",
+      "shortage",
+      "paucity of evidence",
+      "paucity of resources",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/paucity",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/paucity",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/paucity",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "難度",
-        "body": "The simple UI may <code>belie</code> the difficulty of the scheduling logic behind it."
+        "body": "The simple UI may <code>belie</code> the difficulty of the scheduling logic behind it. 這裡放在難度情境時，是在說表面印象不足以代表真實狀態，甚至會誤導讀者。"
       },
       {
         "label": "情緒",
-        "body": "A quiet voice can belie deep frustration."
+        "body": "A quiet voice can belie deep frustration. 這裡放在情緒情境時，是在說表面印象不足以代表真實狀態，甚至會誤導讀者。"
       },
       {
         "label": "資料",
-        "body": "Average"
+        "body": "在資料這類情境裡，<code>belie</code> 的重點是：不是直接說謊，而是表面看起來像 A，實際卻是 B。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/belie",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>belie</code> 來自 Old English <code>beleogan</code>，原本就是用謊言欺騙、誣指；所以現代說表象 belies reality，意思仍是外表把真相帶偏了。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

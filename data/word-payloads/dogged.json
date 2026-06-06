@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "追查",
-        "body": "Her <code>dogged</code> pursuit of the root cause kept the incident from being blamed on luck."
+        "body": "Her <code>dogged</code> pursuit of the root cause kept the incident from being blamed on luck. 這裡放在追查情境時，是在說堅持不是一時熱血，而是反覆回到難題上。"
       },
       {
         "label": "努力",
-        "body": "Dogged"
+        "body": "在努力這類情境裡，<code>dogged</code> 的重點是：不是熱血一陣，而是被擋住很多次還繼續往前鑽。"
       },
       {
         "label": "持續",
-        "body": "Dogged persistence can become stubbornness if feedback is ignored."
+        "body": "Dogged persistence can become stubbornness if feedback is ignored. 這裡放在持續情境時，是在說堅持不是一時熱血，而是反覆回到難題上。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/dogged",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>dogged</code> 最早只是「像狗一樣」，而且多半偏負面，如陰沉、難纏；到 18 世紀才轉出那種像狗咬住不放的頑固堅持。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

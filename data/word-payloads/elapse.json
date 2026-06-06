@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "小時",
-        "body": "Several hours <code>elapsed</code> before the first useful log arrived."
+        "body": "Several hours <code>elapsed</code> before the first useful log arrived. 這裡放在小時情境時，是在說你要讓時間段成為句子的主角，而不是人為動作。"
       },
       {
         "label": "快速",
-        "body": "Time"
+        "body": "在快速這類情境裡，<code>elapse</code> 的重點是：不是做了什麼，而是時間自己默默走過去。"
       },
       {
         "label": "等待",
-        "body": "Before long elapsed, the team had already changed the plan twice."
+        "body": "Before long elapsed, the team had already changed the plan twice. 這裡放在等待情境時，是在說你要讓時間段成為句子的主角，而不是人為動作。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/elapse",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>elapse</code> 原意是滑走、溜走、像連續滑動般過去；因此它說時間時，不是跳一下過去，而是你沒抓住就一路滑掉。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

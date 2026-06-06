@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "閱讀",
-        "body": "An <code>avid</code> reader does not need a reading assignment to keep going."
+        "body": "An <code>avid</code> reader does not need a reading assignment to keep going. 這裡放在閱讀情境時，是在說興趣強到會改變人的行為頻率，而不是只停在口頭喜歡。"
       },
       {
         "label": "粉絲",
-        "body": "Avid fans notice small changes because they have been watching for a long time."
+        "body": "Avid fans notice small changes because they have been watching for a long time. 這裡放在粉絲情境時，是在說興趣強到會改變人的行為頻率，而不是只停在口頭喜歡。"
       },
       {
         "label": "好奇心",
-        "body": "Avid"
+        "body": "在好奇心這類情境裡，<code>avid</code> 的重點是：不是有興趣而已，而是會主動追著資訊、活動或機會跑。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/avid",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>avid</code> 來自 Latin <code>avidus</code>，原義就是急切渴求、帶點貪；所以它不是普通有興趣，而是會主動追著機會跑。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

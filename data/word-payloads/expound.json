@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "理論",
-        "body": "The paper <code>expounded</code> a theory of coordination under uncertainty."
+        "body": "The paper <code>expounded</code> a theory of coordination under uncertainty. 這裡放在理論情境時，是在說說明需要完整展開，而不是補一句澄清。"
       },
       {
         "label": "方法",
-        "body": "She expounded on the method only after showing the failure it solved."
+        "body": "She expounded on the method only after showing the failure it solved. 這裡放在方法情境時，是在說說明需要完整展開，而不是補一句澄清。"
       },
       {
         "label": "想法",
-        "body": "To"
+        "body": "在想法這類情境裡，<code>expound</code> 的重點是：不是回答一句，而是把整套想法完整展開。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/expound",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>expound</code> 經 Old French 傳入時，就是把意思攤開來講明白，特別常用在經文與論述；所以它不是簡單說明，而是一步步展開。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

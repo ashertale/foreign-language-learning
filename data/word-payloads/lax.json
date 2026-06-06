@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "安全",
-        "body": "<code>Lax</code>"
+        "body": "談安全時，<code>lax</code> 不是規則不存在，而是門在那裡卻沒有人真的把它守好。"
       },
       {
         "label": "標準",
-        "body": "Lax standards make quality depend on individual conscience."
+        "body": "Lax standards make quality depend on individual conscience. 這裡放在標準情境時，是在說規範或防線不夠嚴，導致該守的東西守不住。"
       },
       {
         "label": "執法",
-        "body": "Lax enforcement teaches people which rules are decorative."
+        "body": "Lax enforcement teaches people which rules are decorative. 這裡放在執法情境時，是在說規範或防線不夠嚴，導致該守的東西守不住。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/lax",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>lax</code> 原本字面是鬆、寬、軟，早期甚至先常用在腸胃過鬆；後來才延伸成規範、態度或管理上的鬆散。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

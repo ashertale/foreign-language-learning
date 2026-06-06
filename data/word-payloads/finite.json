@@ -36,11 +36,11 @@
       },
       {
         "label": "狀態機",
-        "body": "A finite state machine has a defined set of states, which makes behavior easier to reason about."
+        "body": "A finite state machine has a defined set of states, which makes behavior easier to reason about. 這裡放在狀態機情境時，是在說必須承認邊界、終點或資源不可無限使用。"
       },
       {
         "label": "時間",
-        "body": "Attention is finite; every meeting spends some of it."
+        "body": "Attention is finite; every meeting spends some of it. 這裡放在時間情境時，是在說必須承認邊界、終點或資源不可無限使用。"
       }
     ],
     "collocations": {

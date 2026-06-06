@@ -36,11 +36,11 @@
       },
       {
         "label": "風險",
-        "body": "A negligible risk may still be recorded, but it should not dominate design."
+        "body": "A negligible risk may still be recorded, but it should not dominate design. 這裡放在風險情境時，是在說某個量雖然存在，但小到不應影響目前判斷。"
       },
       {
         "label": "差異",
-        "body": "A negligible difference can matter only if the decision threshold is extremely tight."
+        "body": "A negligible difference can matter only if the decision threshold is extremely tight. 這裡放在差異情境時，是在說某個量雖然存在，但小到不應影響目前判斷。"
       }
     ],
     "collocations": {

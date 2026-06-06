@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "資料",
-        "body": "<code>Immutable</code>"
+        "body": "<code>Immutable</code>. 這裡放在資料情境時，是在說不可變性本身對推理、信任或限制很重要。"
       },
       {
         "label": "規則",
-        "body": "An immutable rule can protect fairness, but it can also block necessary exceptions."
+        "body": "An immutable rule can protect fairness, but it can also block necessary exceptions. 這裡放在規則情境時，是在說不可變性本身對推理、信任或限制很重要。"
       },
       {
         "label": "保持",
-        "body": "Some assumptions remain immutable only because no one has been allowed to question them."
+        "body": "Some assumptions remain immutable only because no one has been allowed to question them. 這裡放在保持情境時，是在說不可變性本身對推理、信任或限制很重要。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/immutable",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>immutable</code> 原本就指 unchanging、不能改動；所以它不是暫時沒變，而是被理解成那個性質本身不會轉向。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "美",
-        "body": "The view had an <code>ineffable</code> beauty that photographs kept flattening."
+        "body": "The view had an <code>ineffable</code> beauty that photographs kept flattening. 這裡放在美情境時，是在說感受或品質超出普通語言承載力。"
       },
       {
         "label": "悲傷",
-        "body": "Ineffable sadness often appears after losses that do not fit public language."
+        "body": "Ineffable sadness often appears after losses that do not fit public language. 這裡放在悲傷情境時，是在說感受或品質超出普通語言承載力。"
       },
       {
         "label": "平靜",
-        "body": "An ineffable sense of peace settled in the room after the noise stopped."
+        "body": "An ineffable sense of peace settled in the room after the noise stopped. 這裡放在平靜情境時，是在說感受或品質超出普通語言承載力。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ineffable",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ineffable</code> 原本就指超出言語所能表達、無法說盡；所以它不只是「很難形容」，而是語言本身不夠裝下它。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

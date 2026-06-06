@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "歸因",
-        "body": "If"
+        "body": "在歸因這類情境裡，<code>ascribe</code> 的重點是：不是只描述現象，而是把它歸到某個原因、來源或動機上。"
       },
       {
         "label": "政策",
-        "body": "It is risky to ascribe the change to policy before checking other variables."
+        "body": "It is risky to ascribe the change to policy before checking other variables. 這裡放在政策情境時，是在說你要指定某現象的原因、來源、作者或動機。"
       },
       {
         "label": "動機",
-        "body": "Ascribing motives to people without evidence can poison a review."
+        "body": "Ascribing motives to people without evidence can poison a review. 這裡放在動機情境時，是在說你要指定某現象的原因、來源、作者或動機。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ascribe",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ascribe</code> 來自 Latin <code>ascribere</code>「寫到某人名下、記到某處」；所以它不是只描述現象，而是把原因、功勞或責任登記到某個來源上。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

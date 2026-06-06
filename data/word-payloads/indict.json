@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "嫌疑人",
-        "body": "The grand jury voted to <code>indict</code> the suspect on multiple charges."
+        "body": "The grand jury voted to <code>indict</code> the suspect on multiple charges. 這裡放在嫌疑人情境時，是在說正式起訴，或比喻上讓某事成為強烈控訴證據。"
       },
       {
         "label": "制度",
-        "body": "The"
+        "body": "在制度這類情境裡，<code>indict</code> 的重點是：不是一般指責，而是進入正式程序，準備追究。"
       },
       {
         "label": "罪名",
-        "body": "He was indicted on charges that carried serious penalties."
+        "body": "He was indicted on charges that carried serious penalties. 這裡放在罪名情境時，是在說正式起訴，或比喻上讓某事成為強烈控訴證據。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/indict",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>indict</code> 原本是把指控寫下來、正式宣告成罪名；這也是它今天拼法像 <code>dict</code>、發音卻保留法語痕跡的原因。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

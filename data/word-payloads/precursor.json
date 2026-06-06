@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Precursor",
+    "slug": "precursor",
+    "outputPath": "prototypes/precursor.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "pree-KER-ser · UK /priːˈkɜː.sə/ · US /priːˈkɝː.sɚ/",
+    "hero": {
+      "thesis": "不是前面那個，而是後面那件事的先行版本或徵候。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.74"
+    },
+    "coreIdea": "<code>precursor</code> 指那種「先行前驅」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「先行前驅」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Prototype",
+        "note": "<code>prototype</code> 偏具體原型；<code>precursor</code> 可是前身、前兆或前驅。"
+      },
+      "flow": [
+        "先有一個早期形態",
+        "後面的大東西逐步長出",
+        "回頭看才知道它是前驅"
+      ]
+    },
+    "origin": {
+      "history": "<code>precursor</code> 經 Old French / Latin 傳入時，本意就是先跑在前面的人；所以它後來指前兆、前身或先行者時，都保留那種前頭開路的角色。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>precursor</code> 想成不是完整建築，而是地上先打下去的樁。",
+      "explanation": "它關心的是歷史位置和後續關係。"
+    },
+    "usage": [
+      {
+        "label": "技術",
+        "body": "某些老系統看起來過時，但其實是今天架構的 <code>precursor</code>。"
+      },
+      {
+        "label": "事件",
+        "body": "有些小徵候不是偶然，而是後面大轉變的 <code>precursor</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>precursor</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "chemical precursor",
+          "register": "科學 / 醫療",
+          "note": "這個搭配常用來寫某事物先出現，並替後續更成熟或更大的東西鋪路。"
+        },
+        {
+          "phrase": "precursor to reform",
+          "register": "歷史 / 政策",
+          "note": "這個搭配常用來寫某事物先出現，並替後續更成熟或更大的東西鋪路。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "先行前驅",
+        "use": "用在某事物先出現，並替後續更成熟或更大的東西鋪路時。"
+      },
+      "others": [
+        {
+          "word": "Prototype",
+          "meaning": "可實際拿來試的早期原型",
+          "use": "若重點是開發中的試作品，用 <code>prototype</code> 更貼切。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>precursor</code> 很常用於技術史、制度史與科學寫作，因為它把『前身』與『後續連結』綁在一起。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>precursor</code> 整理成「先行前驅」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/precursor",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>precursor</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/precursor",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "precursor",
+    "word": "Precursor",
+    "partOfSpeech": "noun",
+    "href": "./precursor.html",
+    "thesis": "不是前面那個，而是後面那件事的先行版本或徵候。",
+    "tags": [
+      "先行前驅",
+      "先有一個早期形態",
+      "prototype",
+      "chemical precursor",
+      "precursor to reform",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/precursor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/precursor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/precursor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

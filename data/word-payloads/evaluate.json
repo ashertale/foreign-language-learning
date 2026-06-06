@@ -36,11 +36,11 @@
       },
       {
         "label": "性能",
-        "body": "Evaluate performance with workload that resembles real use, not just a flattering benchmark."
+        "body": "Evaluate performance with workload that resembles real use, not just a flattering benchmark. 這裡放在性能情境時，是在說需要依標準和證據形成判斷，而不是只確認存在。"
       },
       {
         "label": "風險",
-        "body": "To evaluate risk, consider likelihood, impact, and detectability."
+        "body": "To evaluate risk, consider likelihood, impact, and detectability. 這裡放在風險情境時，是在說需要依標準和證據形成判斷，而不是只確認存在。"
       }
     ],
     "collocations": {

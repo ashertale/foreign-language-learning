@@ -36,11 +36,11 @@
       },
       {
         "label": "戰爭",
-        "body": "A war of attrition is won by wearing the other side down, not by one clean strike."
+        "body": "A war of attrition is won by wearing the other side down, not by one clean strike. 這裡放在戰爭情境時，是在說損失是透過長時間小量消耗累積出來。"
       },
       {
         "label": "比率",
-        "body": "Attrition rate makes slow loss visible enough to manage."
+        "body": "Attrition rate makes slow loss visible enough to manage. 這裡放在比率情境時，是在說損失是透過長時間小量消耗累積出來。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/attrition",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>attrition</code> 來自 Latin，原本指摩擦、磨損、 scraping；所以現代說戰力或士氣的 attrition，重點不是一下崩掉，而是被日復一日磨薄。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

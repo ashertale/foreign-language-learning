@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "語氣",
-        "body": "She"
+        "body": "在語氣這類情境裡，<code>modulate</code> 的重點是：不是切換成另一種，而是細緻地把強弱拉到合適位置。"
       },
       {
         "label": "訊號",
-        "body": "The transmitter modulates the signal before sending it over the channel."
+        "body": "The transmitter modulates the signal before sending it over the channel. 這裡放在訊號情境時，是在說調整不是換檔，而是在連續尺度上細修強度或形式。"
       },
       {
         "label": "反應",
-        "body": "A good system can modulate the response based on severity."
+        "body": "A good system can modulate the response based on severity. 這裡放在反應情境時，是在說調整不是換檔，而是在連續尺度上細修強度或形式。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/modulate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>modulate</code> 原本和聲音高低、表現力的變化有關，指有控制地變動音高或音色；後來才擴成把強弱、速度、輸出調到合適區間。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

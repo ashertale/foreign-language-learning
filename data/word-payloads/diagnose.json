@@ -36,11 +36,11 @@
       },
       {
         "label": "醫療",
-        "body": "A doctor diagnoses illness by matching symptoms, tests, and patient history。"
+        "body": "A doctor diagnoses illness by matching symptoms, tests, and patient history。 這裡放在醫療情境時，是在說你要根據證據辨認問題本質，而不是憑感覺猜。"
       },
       {
         "label": "流程",
-        "body": "To"
+        "body": "在流程這類情境裡，<code>diagnose</code> 的重點是：不是猜原因，而是根據症狀和證據判斷問題本質。"
       }
     ],
     "collocations": {

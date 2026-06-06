@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "支持者",
-        "body": "An <code>ardent</code> supporter keeps showing up after the easy excitement is gone."
+        "body": "An <code>ardent</code> supporter keeps showing up after the easy excitement is gone. 這裡放在支持者情境時，是在說情感或支持強烈、持續、帶熱度。"
       },
       {
         "label": "仰慕",
-        "body": "An ardent admirer is warmer and more intense than a casual fan."
+        "body": "An ardent admirer is warmer and more intense than a casual fan. 這裡放在仰慕情境時，是在說情感或支持強烈、持續、帶熱度。"
       },
       {
         "label": "興趣",
-        "body": "Ardent"
+        "body": "在興趣這類情境裡，<code>ardent</code> 的重點是：不是一般喜歡，而是情感或支持力度都很熱。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ardent",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ardent</code> 來自 Latin <code>ardere</code>「燃燒」；因此它的熱不是抽象喜歡，而是情感、信念或支持真的在發熱。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

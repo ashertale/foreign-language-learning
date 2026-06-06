@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Shoddy",
+    "slug": "shoddy",
+    "outputPath": "prototypes/shoddy.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "SHOD-ee · UK /ˈʃɒd.i/ · US /ˈʃɑː.di/",
+    "hero": {
+      "thesis": "不是便宜，而是粗糙到看得出不講究。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "2.74"
+    },
+    "coreIdea": "<code>shoddy</code> 描述一種「粗劣偷工」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「粗劣偷工」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Cheap",
+        "note": "<code>cheap</code> 只是便宜；<code>shoddy</code> 更直接批評品質差。"
+      },
+      "flow": [
+        "看似能交差",
+        "細看充滿馬虎",
+        "品質感一下就垮下來"
+      ]
+    },
+    "origin": {
+      "history": "<code>shoddy</code> 原本是紡織業裡把舊羊毛拆碎再重做的再生布料名，後來很快就帶上「看起來像樣、其實品質虛」的負面評價；所以今天說 <code>shoddy workmanship</code>，批的就是偷工減料。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>shoddy</code> 想成表面有油漆，但一摸就整片掉粉。",
+      "explanation": "這個字把『隨便做』的痕跡直接指出來。"
+    },
+    "usage": [
+      {
+        "label": "產品",
+        "body": "如果一件東西一拿就知道工法很差，<code>shoddy</code> 的批評就很到位。"
+      },
+      {
+        "label": "流程",
+        "body": "報告也可以很 <code>shoddy</code>，不是字醜，而是思路和細節都在偷懶。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>shoddy</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "shoddy workmanship",
+          "register": "製造 / 日常",
+          "note": "這個搭配常用來寫品質、工法或處理方式明顯馬虎。"
+        },
+        {
+          "phrase": "shoddy reporting",
+          "register": "媒體 / 評論",
+          "note": "這個搭配常用來寫品質、工法或處理方式明顯馬虎。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "粗劣偷工",
+        "use": "用在品質、工法或處理方式明顯馬虎時。"
+      },
+      "others": [
+        {
+          "word": "Cheap",
+          "meaning": "價格低廉",
+          "use": "若只是便宜，不一定品質差，用 <code>cheap</code> 就好。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>shoddy</code> 很常用來批評產品、內容和流程品質，語氣直接而不客氣。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>shoddy</code> 整理成「粗劣偷工」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/shoddy",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>shoddy</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/shoddy",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "shoddy",
+    "word": "Shoddy",
+    "partOfSpeech": "adjective",
+    "href": "./shoddy.html",
+    "thesis": "不是便宜，而是粗糙到看得出不講究。",
+    "tags": [
+      "粗劣偷工",
+      "看似能交差",
+      "cheap",
+      "shoddy workmanship",
+      "shoddy reporting",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/shoddy",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/shoddy",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/shoddy",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

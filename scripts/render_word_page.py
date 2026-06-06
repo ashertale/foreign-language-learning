@@ -17,7 +17,10 @@ IPA_FORMAT_RE = re.compile(r"^[^·\n]+ · UK /[^/\n]+/ · US /[^/\n]+/$")
 CEFR_RE = re.compile(r"^(A1|A2|B1|B2|C1|C2)$")
 ZIPF_RE = re.compile(r"^\d(?:\.\d{2})$")
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
+HTML_TAG_RE = re.compile(r"<[^>]+>")
 OLD_IPA_LABELS = ("Respelling", "UK IPA", "US IPA")
+MIN_USAGE_BODY_TEXT = 8
+NA_MARKER = "N/A"
 BANNED_META_PHRASES = (
     "先讀搭配",
     "如果你只能想起中文",
@@ -157,6 +160,14 @@ def require_list(value: Any, label: str, *, min_items: int = 0) -> list[Any]:
 
 def compact_text(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip()
+
+
+def plain_text(value: str) -> str:
+    return compact_text(HTML_TAG_RE.sub(" ", value))
+
+
+def is_na_marker(value: str) -> bool:
+    return compact_text(value).upper() == NA_MARKER
 
 
 def ensure_cjk(value: str, label: str) -> None:
@@ -347,23 +358,25 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
         ensure_narrative_voice(value, f"page.definition.flow[{index}]")
         flow_values.append(value)
 
-    origin = None
-    if page.get("origin") is not None:
-        origin_raw = require_object(page.get("origin"), "page.origin")
-        history = require_optional_string(origin_raw.get("history"), "page.origin.history")
-        memory_lens = require_optional_string(origin_raw.get("memoryLens"), "page.origin.memoryLens")
-        if not history and not memory_lens:
-            raise RenderError("page.origin must contain history or memoryLens when present")
-        if history:
-            ensure_cjk(history, "page.origin.history")
-            ensure_narrative_voice(history, "page.origin.history")
+    origin_raw = require_object(page.get("origin"), "page.origin")
+    history = require_optional_string(origin_raw.get("history"), "page.origin.history")
+    memory_lens = require_optional_string(origin_raw.get("memoryLens"), "page.origin.memoryLens")
+    if not history and not memory_lens:
+        raise RenderError("page.origin must contain history or memoryLens")
+    if history and is_na_marker(history):
         if memory_lens:
-            ensure_cjk(memory_lens, "page.origin.memoryLens")
-            ensure_narrative_voice(memory_lens, "page.origin.memoryLens")
-        origin = {
-            "history": history,
-            "memoryLens": memory_lens,
-        }
+            raise RenderError("page.origin.memoryLens must be empty when page.origin.history is N/A")
+        history = NA_MARKER
+    elif history:
+        ensure_cjk(history, "page.origin.history")
+        ensure_narrative_voice(history, "page.origin.history")
+    if memory_lens:
+        ensure_cjk(memory_lens, "page.origin.memoryLens")
+        ensure_narrative_voice(memory_lens, "page.origin.memoryLens")
+    origin = {
+        "history": history,
+        "memoryLens": memory_lens,
+    }
 
     memory = require_object(page.get("memory"), "page.memory")
     memory_hook = require_string(memory.get("hook"), "page.memory.hook")
@@ -379,7 +392,11 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
         item_obj = require_object(item, f"page.usage[{index}]")
         label = require_string(item_obj.get("label"), f"page.usage[{index}].label")
         body = require_string(item_obj.get("body"), f"page.usage[{index}].body")
-        ensure_cjk(f"{label} {body}", f"page.usage[{index}]")
+        if len(plain_text(body)) <= MIN_USAGE_BODY_TEXT:
+            raise RenderError(
+                f"page.usage[{index}].body looks truncated; keep more than {MIN_USAGE_BODY_TEXT} plain-text characters"
+            )
+        ensure_cjk(body, f"page.usage[{index}].body")
         ensure_narrative_voice(f"{label} {body}", f"page.usage[{index}]")
         usage_items.append({"label": label, "body": body})
 
@@ -395,10 +412,9 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
         item_obj = require_object(item, f"page.collocations.items[{index}]")
         phrase = require_string(item_obj.get("phrase"), f"page.collocations.items[{index}].phrase")
         register = require_string(item_obj.get("register"), f"page.collocations.items[{index}].register")
-        note = require_optional_string(item_obj.get("note"), f"page.collocations.items[{index}].note")
-        if note:
-            ensure_cjk(note, f"page.collocations.items[{index}].note")
-            ensure_narrative_voice(note, f"page.collocations.items[{index}].note")
+        note = require_string(item_obj.get("note"), f"page.collocations.items[{index}].note")
+        ensure_cjk(note, f"page.collocations.items[{index}].note")
+        ensure_narrative_voice(note, f"page.collocations.items[{index}].note")
         collocations.append({"phrase": phrase, "register": register, "note": note})
 
     neighbors_raw = require_object(page.get("neighbors"), "page.neighbors")
@@ -646,6 +662,10 @@ def render_origin(origin: dict[str, str] | None) -> str:
         '        <p class="section-label">Origin</p>',
         "        <h2>字源</h2>",
     ]
+    if is_na_marker(origin["history"]) and not origin["memoryLens"]:
+        parts.append(f"        <p>{NA_MARKER}</p>")
+        parts.append("      </section>")
+        return "\n".join(parts)
     if origin["history"]:
         parts.append(f"        <p>{origin['history']}</p>")
     if origin["memoryLens"]:

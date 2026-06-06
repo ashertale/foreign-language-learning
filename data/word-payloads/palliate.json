@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Palliate",
+    "slug": "palliate",
+    "outputPath": "prototypes/palliate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "PAL-ee-ayt · UK /ˈpæl.i.eɪt/ · US /ˈpæl.i.eɪt/",
+    "hero": {
+      "thesis": "不是根治，而是先減輕痛感。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.16"
+    },
+    "coreIdea": "<code>palliate</code> 表示把事情往「緩和症狀」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「緩和症狀」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Cure",
+        "note": "<code>cure</code> 是根治；<code>palliate</code> 是先把症狀壓低。"
+      },
+      "flow": [
+        "痛點先出現",
+        "強度被壓低",
+        "根本原因仍留在底下"
+      ]
+    },
+    "origin": {
+      "history": "<code>palliate</code> 原本是「用斗篷蓋住」，後來才變成讓症狀減輕卻不根治，或把過失稍微遮淡；所以它的手感一直都不是解決，而是蓋一層上去。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>palliate</code> 想成不是補洞，而是先墊一層軟墊讓你不要那麼痛。",
+      "explanation": "這個字提醒你：緩解不等於解決。"
+    },
+    "usage": [
+      {
+        "label": "醫療",
+        "body": "有些處置不是根治，而是先 <code>palliate</code> 症狀，讓人撐得住。"
+      },
+      {
+        "label": "制度",
+        "body": "若政策只是在短期內 <code>palliate</code> 焦慮，問題很快還會回來。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>palliate</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "palliate the pain",
+          "register": "醫療 / 正式",
+          "note": "這個搭配常用來寫痛苦、衝擊或不適先被減輕，但根本問題仍在。"
+        },
+        {
+          "phrase": "palliate the effects",
+          "register": "政策 / 分析",
+          "note": "這個搭配常用來寫痛苦、衝擊或不適先被減輕，但根本問題仍在。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "緩和症狀",
+        "use": "用在痛苦、衝擊或不適先被減輕，但根本問題仍在時。"
+      },
+      "others": [
+        {
+          "word": "Cure",
+          "meaning": "把問題真正治好",
+          "use": "若重點是源頭被解決，用 <code>cure</code> 或 solve 更正確。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>palliate</code> 雖然書面，但在醫療與政策語境裡很精準，因為它清楚分出緩解和根治。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>palliate</code> 整理成「緩和症狀」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/palliate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>palliate</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/palliate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "palliate",
+    "word": "Palliate",
+    "partOfSpeech": "verb",
+    "href": "./palliate.html",
+    "thesis": "不是根治，而是先減輕痛感。",
+    "tags": [
+      "緩和症狀",
+      "痛點先出現",
+      "cure",
+      "palliate the pain",
+      "palliate the effects",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/palliate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/palliate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/palliate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

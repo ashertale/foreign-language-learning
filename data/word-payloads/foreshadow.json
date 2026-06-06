@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "結局",
-        "body": "The opening scene <code>foreshadowed</code> the ending without explaining it."
+        "body": "The opening scene <code>foreshadowed</code> the ending without explaining it. 這裡放在結局情境時，是在說早期細節後來會被看成某件事的前兆。"
       },
       {
         "label": "麻煩",
-        "body": "Small inconsistencies can foreshadow trouble if they cluster around the same boundary."
+        "body": "Small inconsistencies can foreshadow trouble if they cluster around the same boundary. 這裡放在麻煩情境時，是在說早期細節後來會被看成某件事的前兆。"
       },
       {
         "label": "改變",
-        "body": "A quiet staffing shift may foreshadow a larger change in strategy."
+        "body": "A quiet staffing shift may foreshadow a larger change in strategy. 這裡放在改變情境時，是在說早期細節後來會被看成某件事的前兆。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/foreshadow",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>foreshadow</code> 是 <code>fore-</code> 加上 <code>shadow</code> 形成的字，16 世紀就有「事先投下影子」的比喻用法；因此它的預示感不像 announce 那麼直白，而像輪廓先落在地上。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

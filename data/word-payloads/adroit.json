@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "處理",
-        "body": "<code>Adroit</code> handling of a tense review can keep both truth and trust in the room."
+        "body": "<code>Adroit</code> handling of a tense review can keep both truth and trust in the room. 這裡放在處理情境時，是在說能力不只熟練，還帶機敏、靈巧和分寸。"
       },
       {
         "label": "談判",
-        "body": "An adroit negotiator notices which point is principle and which is packaging."
+        "body": "An adroit negotiator notices which point is principle and which is packaging. 這裡放在談判情境時，是在說能力不只熟練，還帶機敏、靈巧和分寸。"
       },
       {
         "label": "回應",
-        "body": "An adroit response answers the real concern without overexplaining."
+        "body": "An adroit response answers the real concern without overexplaining. 這裡放在回應情境時，是在說能力不只熟練，還帶機敏、靈巧和分寸。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/adroit",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>adroit</code> 來自 French <code>adroit</code>，早期有「正確、得當」的意思，後來才落到手法靈巧、判斷俐落；它的靈巧感不是花俏，而是動作很對。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

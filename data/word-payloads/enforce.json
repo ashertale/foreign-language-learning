@@ -36,11 +36,11 @@
       },
       {
         "label": "政策",
-        "body": "A"
+        "body": "在政策這類情境裡，<code>enforce</code> 的重點是：不是寫下規則，而是讓規則真的被執行。"
       },
       {
         "label": "限制",
-        "body": "To enforce constraints, the system must reject invalid states, not merely warn about them."
+        "body": "To enforce constraints, the system must reject invalid states, not merely warn about them. 這裡放在限制情境時，是在說規則必須真的被執行、違反時會被擋下或處理。"
       }
     ],
     "collocations": {

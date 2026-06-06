@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "不當行為",
-        "body": "A policy that ignores repeated abuse may effectively <code>condone</code> misconduct."
+        "body": "A policy that ignores repeated abuse may effectively <code>condone</code> misconduct. 這裡放在不當行為情境時，是在說你要指出某種容忍會讓錯誤被視為可接受。"
       },
       {
         "label": "行為",
-        "body": "To condone the behavior is to let it remain inside the acceptable boundary."
+        "body": "To condone the behavior is to let it remain inside the acceptable boundary. 這裡放在行為情境時，是在說你要指出某種容忍會讓錯誤被視為可接受。"
       },
       {
         "label": "拒絕",
-        "body": "Refusing to condone a shortcut matters when the shortcut saves time but damages trust."
+        "body": "Refusing to condone a shortcut matters when the shortcut saves time but damages trust. 這裡放在拒絕情境時，是在說你要指出某種容忍會讓錯誤被視為可接受。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/condone",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>condone</code> 來自 Latin <code>condonare</code>，本義是寬恕、赦免；放到現代語境時，就變成即使沒明說支持，也默許某件錯事被放過。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

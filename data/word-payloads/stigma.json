@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Stigma",
+    "slug": "stigma",
+    "outputPath": "prototypes/stigma.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "STIG-muh · UK /ˈstɪɡ.mə/ · US /ˈstɪɡ.mə/",
+    "hero": {
+      "thesis": "不是標籤，而是帶羞恥與排斥感的標記。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.17"
+    },
+    "coreIdea": "<code>stigma</code> 指那種「污名烙印」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「污名烙印」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Label",
+        "note": "<code>label</code> 可以中性；<code>stigma</code> 幾乎一定帶負面烙印。"
+      },
+      "flow": [
+        "社會先貼上看法",
+        "當事人被附著羞恥",
+        "人因此被推遠或自我收縮"
+      ]
+    },
+    "origin": {
+      "history": "<code>stigma</code> 原本是用燒紅鐵器烙在皮膚上的記號，帶著公開標記與羞辱；今天雖然多半抽象化了，但那種被社會貼上印的感覺其實沒變。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>stigma</code> 想成不是便利貼，而是難洗掉的印記。",
+      "explanation": "它的重點是社會眼光如何黏在人身上。"
+    },
+    "usage": [
+      {
+        "label": "社會",
+        "body": "談心理健康、貧窮或疾病時，<code>stigma</code> 常指那層讓人不敢開口的社會羞恥。"
+      },
+      {
+        "label": "組織",
+        "body": "如果求助被看成軟弱，團隊裡就會慢慢形成一種 <code>stigma</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>stigma</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "social stigma",
+          "register": "社會 / 政策",
+          "note": "這個搭配常用來寫某身分、疾病或經歷被社會附著羞恥與排斥。"
+        },
+        {
+          "phrase": "stigma around mental health",
+          "register": "醫療 / 公共",
+          "note": "這個搭配常用來寫某身分、疾病或經歷被社會附著羞恥與排斥。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "污名烙印",
+        "use": "用在某身分、疾病或經歷被社會附著羞恥與排斥時。"
+      },
+      "others": [
+        {
+          "word": "Label",
+          "meaning": "被命名、被歸類",
+          "use": "若只是分類，不帶羞恥感，用 <code>label</code> 即可。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>stigma</code> 在公共衛生、社會政策與 DEI 討論都非常關鍵，因為它抓住的是羞恥如何被制度化。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stigma</code> 整理成「污名烙印」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/stigma",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stigma</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/stigma",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "stigma",
+    "word": "Stigma",
+    "partOfSpeech": "noun",
+    "href": "./stigma.html",
+    "thesis": "不是標籤，而是帶羞恥與排斥感的標記。",
+    "tags": [
+      "污名烙印",
+      "社會先貼上看法",
+      "label",
+      "social stigma",
+      "stigma around mental health",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stigma",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/stigma",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stigma",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "無知",
-        "body": "He <code>feigned</code> ignorance when asked who approved the shortcut."
+        "body": "He <code>feigned</code> ignorance when asked who approved the shortcut. 這裡放在無知情境時，是在說某人刻意演出一種並不真實的狀態。"
       },
       {
         "label": "驚訝",
-        "body": "Feigning"
+        "body": "在驚訝這類情境裡，<code>feign</code> 的重點是：不是真的感受，而是演出來讓人相信。"
       },
       {
         "label": "生病",
-        "body": "A child may feign illness to avoid a frightening test."
+        "body": "A child may feign illness to avoid a frightening test. 這裡放在生病情境時，是在說某人刻意演出一種並不真實的狀態。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/feign",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>feign</code> 經 French / Latin 傳入時，就帶假裝、掩飾真意、做出假的樣子；所以它不是 harmless pretend，而是通常伴隨有意識的遮掩。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

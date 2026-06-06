@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Murky",
+    "slug": "murky",
+    "outputPath": "prototypes/murky.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "MUR-kee · UK /ˈmɜː.ki/ · US /ˈmɝː.ki/",
+    "hero": {
+      "thesis": "不是黑，而是混濁到你看不清底下到底是什麼。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.91"
+    },
+    "coreIdea": "<code>murky</code> 描述一種「混濁不明」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「混濁不明」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Vague",
+        "note": "<code>vague</code> 偏模糊；<code>murky</code> 更像有東西藏在混水裡。"
+      },
+      "flow": [
+        "表面看得到輪廓",
+        "細節被混水遮住",
+        "真正情況難以辨認"
+      ]
+    },
+    "origin": {
+      "history": "<code>murky</code> 來自 <code>murk</code>「黑暗、陰沉」；因此它不只是不清楚，而是像光線本身就不夠，讓人看不透。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>murky</code> 想成踩進混水池，水面不是全黑，但你也不敢確定腳下有什麼。",
+      "explanation": "它的危險感來自看不清，而不是完全看不見。"
+    },
+    "usage": [
+      {
+        "label": "資訊",
+        "body": "The ownership trail remained <code>murky</code> even after the audit. 這裡放在資訊情境時，是在說資訊、動機、金流或局勢看不透。"
+      },
+      {
+        "label": "動機",
+        "body": "Their reasons for delaying the release still feel <code>murky</code>. 這裡放在動機情境時，是在說資訊、動機、金流或局勢看不透。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>murky</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "murky details",
+          "register": "調查 / 報導",
+          "note": "這個搭配常用來寫資訊、動機、金流或局勢看不透。"
+        },
+        {
+          "phrase": "murky waters",
+          "register": "隱喻 / 評論",
+          "note": "這個搭配常用來寫資訊、動機、金流或局勢看不透。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "混濁不明",
+        "use": "用在資訊、動機、金流或局勢看不透時。"
+      },
+      "others": [
+        {
+          "word": "Vague",
+          "meaning": "只是說得不清楚",
+          "use": "若重點是表達不夠明確，用 <code>vague</code> 就夠了。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在現代評論與調查寫作裡，<code>murky</code> 常把「不透明」和「可能有問題」這兩層意思一起帶進來。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>murky</code> 整理成「混濁不明」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/murky",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>murky</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/murky",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "murky",
+    "word": "Murky",
+    "partOfSpeech": "adjective",
+    "href": "./murky.html",
+    "thesis": "不是黑，而是混濁到你看不清底下到底是什麼。",
+    "tags": [
+      "混濁不明",
+      "表面看得到輪廓",
+      "vague",
+      "murky details",
+      "murky waters",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/murky",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/murky",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/murky",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

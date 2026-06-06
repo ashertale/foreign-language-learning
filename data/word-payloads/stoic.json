@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Stoic",
+    "slug": "stoic",
+    "outputPath": "prototypes/stoic.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "STOH-ik · UK /ˈstəʊ.ɪk/ · US /ˈstoʊ.ɪk/",
+    "hero": {
+      "thesis": "不是沒感覺，而是不讓感覺把自己沖走。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.83"
+    },
+    "coreIdea": "<code>stoic</code> 描述一種「克制沉著」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「克制沉著」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Emotionless",
+        "note": "<code>emotionless</code> 像沒有情緒；<code>stoic</code> 則是有情緒但穩住不外露。"
+      },
+      "flow": [
+        "壓力或痛苦先來",
+        "情緒沒有失控外溢",
+        "整個人仍穩穩站著"
+      ]
+    },
+    "origin": {
+      "history": "<code>stoic</code> 原本就是斯多亞學派的人，名稱來自雅典的 <code>Stoa</code> 柱廊；後來因這一派強調在痛苦與情緒前維持節制，<code>stoic</code> 才變成今天那種克制沉著的形容詞。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>stoic</code> 想成風很大，但人把重心壓低，沒有被吹跑。",
+      "explanation": "這個字不是冰冷，而是克制。"
+    },
+    "usage": [
+      {
+        "label": "人物",
+        "body": "如果一個人在壞消息面前沒有戲劇性崩掉，反而穩穩接住，那種感覺就很 <code>stoic</code>。"
+      },
+      {
+        "label": "文化",
+        "body": "某些團隊會把 <code>stoic</code> 當成美德，但也可能因此不敢求助。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>stoic</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "stoic calm",
+          "register": "敘事 / 人物",
+          "note": "這個搭配常用來寫人面對痛苦、壓力或混亂時仍保持克制。"
+        },
+        {
+          "phrase": "stoic endurance",
+          "register": "評論 / 正式",
+          "note": "這個搭配常用來寫人面對痛苦、壓力或混亂時仍保持克制。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "克制沉著",
+        "use": "用在人面對痛苦、壓力或混亂時仍保持克制時。"
+      },
+      "others": [
+        {
+          "word": "Emotionless",
+          "meaning": "缺少情緒表現",
+          "use": "若重點是看不出情緒，用 <code>emotionless</code> 更直白。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>stoic</code> 在現代語境既可能是稱讚，也可能暗示情緒被壓太久，要看上下文。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stoic</code> 整理成「克制沉著」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/stoic",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stoic</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/stoic",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "stoic",
+    "word": "Stoic",
+    "partOfSpeech": "adjective",
+    "href": "./stoic.html",
+    "thesis": "不是沒感覺，而是不讓感覺把自己沖走。",
+    "tags": [
+      "克制沉著",
+      "壓力或痛苦先來",
+      "emotionless",
+      "stoic calm",
+      "stoic endurance",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stoic",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/stoic",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stoic",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

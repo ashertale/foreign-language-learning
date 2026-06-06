@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "嘗試",
-        "body": "A <code>brazen</code> attempt to rewrite the record is not subtle manipulation."
+        "body": "A <code>brazen</code> attempt to rewrite the record is not subtle manipulation. 這裡放在嘗試情境時，是在說對方不是偷偷越線，而是公開越線且毫不害臊。"
       },
       {
         "label": "謊言",
-        "body": "A brazen lie dares the listener to challenge it."
+        "body": "A brazen lie dares the listener to challenge it. 這裡放在謊言情境時，是在說對方不是偷偷越線，而是公開越線且毫不害臊。"
       },
       {
         "label": "行動",
-        "body": "A brazen move can shock people because it ignores ordinary shame or caution."
+        "body": "A brazen move can shock people because it ignores ordinary shame or caution. 這裡放在行動情境時，是在說對方不是偷偷越線，而是公開越線且毫不害臊。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/brazen",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>brazen</code> 原意就是「黃銅做的」；它後來轉成厚顏、公然，靠的是金屬那種硬亮、不打算遮掩的質感。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

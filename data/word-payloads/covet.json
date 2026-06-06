@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "職位",
-        "body": "Several people quietly <code>coveted</code> the position long before it opened."
+        "body": "Several people quietly <code>coveted</code> the position long before it opened. 這裡放在職位情境時，是在說欲望對準他人擁有物，而且帶貪求或不太光明的味道。"
       },
       {
         "label": "成功",
-        "body": "To covet their success is different from learning from their process."
+        "body": "To covet their success is different from learning from their process. 這裡放在成功情境時，是在說欲望對準他人擁有物，而且帶貪求或不太光明的味道。"
       },
       {
         "label": "收藏",
-        "body": "Collectors"
+        "body": "Collectors. 這裡放在收藏情境時，是在說欲望對準他人擁有物，而且帶貪求或不太光明的味道。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/covet",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>covet</code> 經 Old French 傳入時，就帶「過度想要、沒顧到別人權利」的味道；所以它不是單純羨慕，而是眼神已經伸進別人手裡。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

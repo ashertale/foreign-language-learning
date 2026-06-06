@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "觀眾",
-        "body": "A"
+        "body": "在觀眾這類情境裡，<code>gullible</code> 的重點是：不是善良而已，而是警覺門檻低到容易被帶走。"
       },
       {
         "label": "投資人",
-        "body": "Gullible investors mistake confidence for evidence."
+        "body": "Gullible investors mistake confidence for evidence. 這裡放在投資人情境時，是在說某人的信任過快、查證不足，因此容易被騙。"
       },
       {
         "label": "看起來",
-        "body": "Someone can seem gullible in one domain and careful in another."
+        "body": "Someone can seem gullible in one domain and careful in another. 這裡放在看起來情境時，是在說某人的信任過快、查證不足，因此容易被騙。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/gullible",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>gullible</code> 是 19 世紀由 <code>gullibility</code> 倒推回來的新字，而 <code>gullibility</code> 又和 <code>gull</code>「容易受騙的人」有關；所以它的語感從一開始就靠近容易上當。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

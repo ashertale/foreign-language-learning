@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Myopic",
+    "slug": "myopic",
+    "outputPath": "prototypes/myopic.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "my-OP-ik · UK /maɪˈɒp.ɪk/ · US /maɪˈɑː.pɪk/",
+    "hero": {
+      "thesis": "不是看不到，而是只看得到眼前那一小段。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.67"
+    },
+    "coreIdea": "<code>myopic</code> 描述一種「目光短淺」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「目光短淺」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Short-term",
+        "note": "<code>short-term</code> 可以只是時間尺度；<code>myopic</code> 帶有判斷視野過窄的批評。"
+      },
+      "flow": [
+        "只盯著眼前",
+        "忽略遠處後果",
+        "後續代價慢慢浮現"
+      ]
+    },
+    "origin": {
+      "history": "<code>myopic</code> 是由 <code>myopia</code> 加上 <code>-ic</code> 形成的，先是字面上的近視；19 世紀末才穩定轉成比喻，表示眼前看得見、遠處卻顧不到的短視。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>myopic</code> 想成手電筒只照腳邊，前方路線整段留黑。",
+      "explanation": "這個字的力度在於它批評的不只是短，而是短到不成比例。"
+    },
+    "usage": [
+      {
+        "label": "策略",
+        "body": "Cutting reliability work to hit one quarter of growth is a <code>myopic</code> move. 這裡放在策略情境時，是在說決策只顧眼前利益、忽略長線後果。"
+      },
+      {
+        "label": "管理",
+        "body": "A <code>myopic</code> focus on output can quietly erode trust and learning. 這裡放在管理情境時，是在說決策只顧眼前利益、忽略長線後果。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>myopic</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "myopic decision",
+          "register": "策略 / 管理",
+          "note": "這個搭配常用來寫決策只顧眼前利益、忽略長線後果。"
+        },
+        {
+          "phrase": "myopic policy",
+          "register": "政策 / 評論",
+          "note": "這個搭配常用來寫決策只顧眼前利益、忽略長線後果。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "目光短淺",
+        "use": "用在決策只顧眼前利益、忽略長線後果時。"
+      },
+      "others": [
+        {
+          "word": "Short-term",
+          "meaning": "只談短期安排",
+          "use": "若只是描述時程長短，不必批評視野，用 <code>short-term</code> 即可。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>myopic</code> 在商業與公共討論裡常用來批評只顧短線數字、卻把長線風險往後丟的做法。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>myopic</code> 整理成「目光短淺」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/myopic",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>myopic</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/myopic",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "myopic",
+    "word": "Myopic",
+    "partOfSpeech": "adjective",
+    "href": "./myopic.html",
+    "thesis": "不是看不到，而是只看得到眼前那一小段。",
+    "tags": [
+      "目光短淺",
+      "只盯著眼前",
+      "short-term",
+      "myopic decision",
+      "myopic policy",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/myopic",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/myopic",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/myopic",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

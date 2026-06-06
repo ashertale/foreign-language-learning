@@ -36,11 +36,11 @@
       },
       {
         "label": "證據",
-        "body": "Several small clues may together <code>constitute</code> evidence。"
+        "body": "Several small clues may together <code>constitute</code> evidence。 這裡放在證據情境時，是在說事實已足以讓某分類、責任或後果成立。"
       },
       {
         "label": "風險",
-        "body": "A single missing check might <code>constitute</code> a risk if it protects a critical path。"
+        "body": "A single missing check might <code>constitute</code> a risk if it protects a critical path。 這裡放在風險情境時，是在說事實已足以讓某分類、責任或後果成立。"
       }
     ],
     "collocations": {

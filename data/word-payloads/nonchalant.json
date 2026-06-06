@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Nonchalant",
+    "slug": "nonchalant",
+    "outputPath": "prototypes/nonchalant.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "non-shuh-LAHNT · UK /ˈnɒn.ʃəl.ənt/ · US /ˌnɑːn.ʃəˈlɑːnt/",
+    "hero": {
+      "thesis": "不是冷，而是像什麼都沒太放在心上。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.73"
+    },
+    "coreIdea": "<code>nonchalant</code> 描述一種「漫不經心」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「漫不經心」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Calm",
+        "note": "<code>calm</code> 可以是真正平穩；<code>nonchalant</code> 常多一層『好像沒那麼在乎』。"
+      },
+      "flow": [
+        "局勢可能有重量",
+        "表面卻很輕",
+        "態度像沒被真正拉進去"
+      ]
+    },
+    "origin": {
+      "history": "<code>nonchalant</code> 直接來自 French，意思本來就是不太在乎、很冷靜地不受攪動；因此它的鬆不是慌亂，而是一種有點過頭的輕描淡寫。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>nonchalant</code> 想成火警旁邊還慢慢抖袖口的人。",
+      "explanation": "這個字常在鎮定和不在乎之間留下一點曖昧。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "He gave a <code>nonchalant</code> shrug, but the room could tell he had prepared for this. 這裡放在人際情境時，是在說人表面不慌不忙、帶點不在乎或故作輕鬆。"
+      },
+      {
+        "label": "風格",
+        "body": "The performance feels <code>nonchalant</code> on the surface and tightly controlled underneath. 這裡放在風格情境時，是在說人表面不慌不忙、帶點不在乎或故作輕鬆。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>nonchalant</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "nonchalant shrug",
+          "register": "敘事 / 人際",
+          "note": "這個搭配常用來寫人表面不慌不忙、帶點不在乎或故作輕鬆。"
+        },
+        {
+          "phrase": "nonchalant attitude",
+          "register": "評論 / 描述",
+          "note": "這個搭配常用來寫人表面不慌不忙、帶點不在乎或故作輕鬆。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "漫不經心",
+        "use": "用在人表面不慌不忙、帶點不在乎或故作輕鬆時。"
+      },
+      "others": [
+        {
+          "word": "Calm",
+          "meaning": "平穩、不驚慌",
+          "use": "若只是鎮定而不帶態度感，用 <code>calm</code> 更中性。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>nonchalant</code> 常用來描寫一種刻意鬆鬆的表演感：人未必真的不在乎，但他想讓你以為他不在乎。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nonchalant</code> 整理成「漫不經心」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/nonchalant",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nonchalant</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/nonchalant",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "nonchalant",
+    "word": "Nonchalant",
+    "partOfSpeech": "adjective",
+    "href": "./nonchalant.html",
+    "thesis": "不是冷，而是像什麼都沒太放在心上。",
+    "tags": [
+      "漫不經心",
+      "局勢可能有重量",
+      "calm",
+      "nonchalant shrug",
+      "nonchalant attitude",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nonchalant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/nonchalant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nonchalant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

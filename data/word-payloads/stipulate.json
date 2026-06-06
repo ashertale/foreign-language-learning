@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Stipulate",
+    "slug": "stipulate",
+    "outputPath": "prototypes/stipulate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "STIP-yuh-layt · UK /ˈstɪp.jə.leɪt/ · US /ˈstɪp.jə.leɪt/",
+    "hero": {
+      "thesis": "不是提到，而是明白寫成必須遵守的條件。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.59"
+    },
+    "coreIdea": "<code>stipulate</code> 表示把事情往「明文規定」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「明文規定」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Mention",
+        "note": "<code>mention</code> 只是提到；<code>stipulate</code> 是把它寫成約束條件。"
+      },
+      "flow": [
+        "條件被提出",
+        "寫進正式文本",
+        "之後成為可執行要求"
+      ]
+    },
+    "origin": {
+      "history": "<code>stipulate</code> 來自法律與契約語境，核心是把條件一條條講定；所以 modern <code>stipulate</code> 一直有「不是隨口提，而是正式列為條件」的味道。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>stipulate</code> 想成不是口頭提醒，而是把規則釘進紙上。",
+      "explanation": "它很有合約和治理的味道。"
+    },
+    "usage": [
+      {
+        "label": "合約",
+        "body": "如果某條件不是建議而是必須遵守，就會被 <code>stipulate</code> 在合約裡。"
+      },
+      {
+        "label": "流程",
+        "body": "制度文件常用 <code>stipulate</code> 來把模糊空間收緊。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>stipulate</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "stipulate that",
+          "register": "法律 / 正式",
+          "note": "這個搭配常用來寫合約、條款或正式安排把要求寫死。"
+        },
+        {
+          "phrase": "stipulate the terms",
+          "register": "合約 / 治理",
+          "note": "這個搭配常用來寫合約、條款或正式安排把要求寫死。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "明文規定",
+        "use": "用在合約、條款或正式安排把要求寫死時。"
+      },
+      "others": [
+        {
+          "word": "Mention",
+          "meaning": "說到、提及",
+          "use": "若沒有約束力，只是單純提到，用 <code>mention</code> 就夠。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>stipulate</code> 在法律、採購與治理文件特別常見，因為它精準指向『寫成硬條件』。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stipulate</code> 整理成「明文規定」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/stipulate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stipulate</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/stipulate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "stipulate",
+    "word": "Stipulate",
+    "partOfSpeech": "verb",
+    "href": "./stipulate.html",
+    "thesis": "不是提到，而是明白寫成必須遵守的條件。",
+    "tags": [
+      "明文規定",
+      "條件被提出",
+      "mention",
+      "stipulate that",
+      "stipulate the terms",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stipulate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/stipulate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/stipulate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

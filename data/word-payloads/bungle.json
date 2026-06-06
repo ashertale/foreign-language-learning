@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "發布",
-        "body": "The company <code>bungled</code> the launch by changing the terms after users had already signed up."
+        "body": "The company <code>bungled</code> the launch by changing the terms after users had already signed up. 這裡放在發布情境時，是在說結果壞，而且壞得像是處理者手法粗糙或判斷混亂。"
       },
       {
         "label": "修理",
-        "body": "A"
+        "body": "在修理這類情境裡，<code>bungle</code> 的重點是：不是單純失敗，而是因為處理笨拙，把事情越弄越亂。"
       },
       {
         "label": "回應",
-        "body": "They bungled the response by sounding defensive before checking the facts."
+        "body": "They bungled the response by sounding defensive before checking the facts. 這裡放在回應情境時，是在說結果壞，而且壞得像是處理者手法粗糙或判斷混亂。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/bungle",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>bungle</code> 的確切字源不明；Etymonline 提到它可能帶擬聲性，也可能和 <code>bung</code>、<code>bumble</code> 這類字互相影響，所以它天生就有手忙腳亂、越做越糟的聲感。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

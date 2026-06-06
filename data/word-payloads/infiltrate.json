@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "網路",
-        "body": "Attackers <code>infiltrated</code> the network through an abandoned credential."
+        "body": "Attackers <code>infiltrated</code> the network through an abandoned credential. 這裡放在網路情境時，是在說進入是隱蔽、逐步、違反邊界的時候。"
       },
       {
         "label": "群體",
-        "body": "The group was infiltrated by someone who gained trust over months."
+        "body": "The group was infiltrated by someone who gained trust over months. 這裡放在群體情境時，是在說進入是隱蔽、逐步、違反邊界的時候。"
       },
       {
         "label": "系統",
-        "body": "Malicious"
+        "body": "Malicious. 這裡放在系統情境時，是在說進入是隱蔽、逐步、違反邊界的時候。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/infiltrate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>infiltrate</code> 先有像液體經過孔隙慢慢滲入的字面義；後來轉到軍事、組織與資訊場景時，仍保留那種不是正面衝進去，而是悄悄滲進去的動作。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

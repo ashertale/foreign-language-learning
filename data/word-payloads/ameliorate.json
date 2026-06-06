@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "損害",
-        "body": "A patch can <code>ameliorate</code> the damage before a full redesign is ready."
+        "body": "A patch can <code>ameliorate</code> the damage before a full redesign is ready. 這裡放在損害情境時，是在說原本不好的狀況被改善到較可承受，但不一定完全解決。"
       },
       {
         "label": "條件",
-        "body": "Better tooling can ameliorate working conditions without solving every organizational problem."
+        "body": "Better tooling can ameliorate working conditions without solving every organizational problem. 這裡放在條件情境時，是在說原本不好的狀況被改善到較可承受，但不一定完全解決。"
       },
       {
         "label": "壓力",
-        "body": "Clear"
+        "body": "在壓力這類情境裡，<code>ameliorate</code> 的重點是：不是徹底翻盤，而是把原本糟的情況往較可承受的方向拉回來。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ameliorate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ameliorate</code> 的核心一直很直接，就是「讓情況變得更好」；它進到英語後保留的也不是翻盤，而是把原本糟的局面往較可承受的方向拉回來。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

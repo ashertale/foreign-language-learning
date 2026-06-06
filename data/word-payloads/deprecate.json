@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "做法",
-        "body": "The review deprecated the practice because it made failures harder to diagnose."
+        "body": "The review deprecated the practice because it made failures harder to diagnose. 這裡放在做法情境時，是在說你要表達不贊成，或在技術文件中宣告某功能走向淘汰。"
       },
       {
         "label": "技術 API",
-        "body": "We deprecated old APIs before removing them so downstream teams had time to migrate."
+        "body": "We deprecated old APIs before removing them so downstream teams had time to migrate. 這裡放在技術 API情境時，是在說你要表達不贊成，或在技術文件中宣告某功能走向淘汰。"
       },
       {
         "label": "言論",
-        "body": "To deprecate the remark is to signal disapproval without necessarily launching a full attack."
+        "body": "To deprecate the remark is to signal disapproval without necessarily launching a full attack. 這裡放在言論情境時，是在說你要表達不贊成，或在技術文件中宣告某功能走向淘汰。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/deprecate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>deprecate</code> 原本是「向某事祈求不要發生、祈求免除」；所以它後來雖然變成反對、表示不贊成，骨子裡仍帶一點把壞事往外推開的味道。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

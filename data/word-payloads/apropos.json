@@ -32,7 +32,7 @@
     "usage": [
       {
         "label": "評論",
-        "body": "An <code>apropos</code> remark can save a drifting meeting by naming the right issue."
+        "body": "An <code>apropos</code> remark can save a drifting meeting by naming the right issue. 這裡放在評論情境時，是在說某話語、例子或時機剛好切中當下主題。"
       },
       {
         "label": "例子",
@@ -40,7 +40,7 @@
       },
       {
         "label": "時機",
-        "body": "Apropos timing can make advice land instead of bounce off."
+        "body": "Apropos timing can make advice land instead of bounce off. 這裡放在時機情境時，是在說某話語、例子或時機剛好切中當下主題。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/apropos",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>apropos</code> 來自 French <code>à propos</code>，字面就是「就這個主題來說、切到重點上」；所以它的準心感比單純 related 更強。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

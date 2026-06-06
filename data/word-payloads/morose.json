@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Morose",
+    "slug": "morose",
+    "outputPath": "prototypes/morose.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "muh-ROHS · UK /məˈrəʊs/ · US /məˈroʊs/",
+    "hero": {
+      "thesis": "不是安靜，而是情緒像陰天一樣整片壓下來。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.71"
+    },
+    "coreIdea": "<code>morose</code> 描述一種「陰沉低落」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「陰沉低落」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Sullen",
+        "note": "<code>sullen</code> 常帶不合作或怨氣；<code>morose</code> 更像整個人被低氣壓罩住。"
+      },
+      "flow": [
+        "情緒往下沉",
+        "話變少或表情收緊",
+        "周圍氣氛一起變暗"
+      ]
+    },
+    "origin": {
+      "history": "<code>morose</code> 來自 Latin <code>morosus</code>，本來就帶陰鬱、難相處、脾氣酸澀的感覺；所以它不是暫時不高興，而是整個人都沉下來。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>morose</code> 想成不是暴雨，而是整天不散的灰雲。",
+      "explanation": "這個字不是一下子的生氣，而是持續壓低周圍光線的情緒。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "After the setback, he grew <code>morose</code> and stopped joking with the team. 這裡放在人際情境時，是在說心情悶下去、讓整體氣氛也變灰。"
+      },
+      {
+        "label": "敘事",
+        "body": "The novel opens with a <code>morose</code> winter mood that never quite lifts. 這裡放在敘事情境時，是在說心情悶下去、讓整體氣氛也變灰。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>morose</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "morose mood",
+          "register": "敘事 / 心理",
+          "note": "這個搭配常用來寫心情悶下去、讓整體氣氛也變灰。"
+        },
+        {
+          "phrase": "morose silence",
+          "register": "人際 / 文學",
+          "note": "這個搭配常用來寫心情悶下去、讓整體氣氛也變灰。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "陰沉低落",
+        "use": "用在心情悶下去、讓整體氣氛也變灰時。"
+      },
+      "others": [
+        {
+          "word": "Sullen",
+          "meaning": "悶著怒氣或不合作",
+          "use": "若重點是怨氣卡住、表情發硬，用 <code>sullen</code> 更貼近。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在現代英文裡，<code>morose</code> 常用來寫人被挫折、疲憊或失落整片罩住的狀態，比 simply sad 更有氣壓感。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>morose</code> 整理成「陰沉低落」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/morose",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>morose</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/morose",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "morose",
+    "word": "Morose",
+    "partOfSpeech": "adjective",
+    "href": "./morose.html",
+    "thesis": "不是安靜，而是情緒像陰天一樣整片壓下來。",
+    "tags": [
+      "陰沉低落",
+      "情緒往下沉",
+      "sullen",
+      "morose mood",
+      "morose silence",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/morose",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/morose",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/morose",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

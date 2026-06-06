@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回覆",
-        "body": "A <code>brusque</code> reply can end a thread before the real issue is understood."
+        "body": "A <code>brusque</code> reply can end a thread before the real issue is understood. 這裡放在回覆情境時，是在說溝通短到缺乏緩衝，使對方感覺被粗暴處理。"
       },
       {
         "label": "態度",
-        "body": "A brusque manner may be efficient, but it often costs trust."
+        "body": "A brusque manner may be efficient, but it often costs trust. 這裡放在態度情境時，是在說溝通短到缺乏緩衝，使對方感覺被粗暴處理。"
       },
       {
         "label": "指示",
-        "body": "Brusque"
+        "body": "在指示這類情境裡，<code>brusque</code> 的重點是：不是有效率而已，而是快得幾乎不留情面。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/brusque",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>brusque</code> 經 French 進英語時，就已帶粗硬、猛烈、乾脆到近乎無禮的味道；所以它不是只是 short，而是短得讓人感到被切斷。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

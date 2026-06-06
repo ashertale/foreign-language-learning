@@ -36,11 +36,11 @@
       },
       {
         "label": "論證",
-        "body": "An"
+        "body": "在論證這類情境裡，<code>abstruse</code> 的重點是：不是單純專業，而是抽象到一般入口幾乎抓不到。"
       },
       {
         "label": "手冊",
-        "body": "An abstruse manual can turn a simple operation into archaeology."
+        "body": "An abstruse manual can turn a simple operation into archaeology. 這裡放在手冊情境時，是在說內容抽象、深藏、讓一般讀者很難進入。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/abstruse",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>abstruse</code> 來自 Latin <code>abstrusus</code>，是 <code>abstru(d)ere</code>「推開、藏起來」的過去分詞；字面上就帶著「被推離理解入口」的感覺。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "優點",
-        "body": "The article <code>extolled</code> the virtues of small teams but ignored their support burden."
+        "body": "The article <code>extolled</code> the virtues of small teams but ignored their support burden. 這裡放在優點情境時，是在說讚美很明顯、很熱烈，甚至有點宣講。"
       },
       {
         "label": "產品",
-        "body": "The"
+        "body": "在產品這類情境裡，<code>extol</code> 的重點是：不是簡單稱讚，而是一路把它的好往上堆。"
       },
       {
         "label": "傳統",
-        "body": "Ceremonies often extol tradition to make continuity feel valuable."
+        "body": "Ceremonies often extol tradition to make continuity feel valuable. 這裡放在傳統情境時，是在說讚美很明顯、很熱烈，甚至有點宣講。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/extol",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>extol</code> 來自 Latin <code>extollere</code>「舉高」；因此它和 praise 的差別在於，它帶著把對象往高處托舉的動作感。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

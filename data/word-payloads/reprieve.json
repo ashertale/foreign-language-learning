@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Reprieve",
+    "slug": "reprieve",
+    "outputPath": "prototypes/reprieve.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "ri-PREEV · UK /rɪˈpriːv/ · US /rɪˈpriːv/",
+    "hero": {
+      "thesis": "不是解脫，而是暫時鬆一口氣。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.43"
+    },
+    "coreIdea": "<code>reprieve</code> 指那種「暫緩喘息」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「暫緩喘息」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Rescue",
+        "note": "<code>rescue</code> 更像真正救出來；<code>reprieve</code> 常只是暫時放你一馬。"
+      },
+      "flow": [
+        "危機先壓著你",
+        "壓力暫時鬆開",
+        "但根本問題還沒走"
+      ]
+    },
+    "origin": {
+      "history": "<code>reprieve</code> 這個字是在法律語境裡長大的，核心不是赦免，而是先把處罰暫緩一下；所以今天不論是 deadline、危機或判決，<code>reprieve</code> 都保留「只是先喘口氣」的暫時性。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>reprieve</code> 想成浪先退一下，岸上人能喘口氣，但海還在。",
+      "explanation": "它保留了暫時性，這是關鍵。"
+    },
+    "usage": [
+      {
+        "label": "時程",
+        "body": "如果 deadline 只是往後延，而不是取消，那更像一種 <code>reprieve</code>。"
+      },
+      {
+        "label": "危機",
+        "body": "很多人把暫時好轉誤當結束，其實那只是一段短短的 <code>reprieve</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>reprieve</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "temporary reprieve",
+          "register": "正式 / 新聞",
+          "note": "這個搭配常用來寫壓力、處罰或危機沒有完全解除，只是暫時延後或放鬆。"
+        },
+        {
+          "phrase": "grant a reprieve",
+          "register": "法律 / 管理",
+          "note": "這個搭配常用來寫壓力、處罰或危機沒有完全解除，只是暫時延後或放鬆。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "暫緩喘息",
+        "use": "用在壓力、處罰或危機沒有完全解除，只是暫時延後或放鬆時。"
+      },
+      "others": [
+        {
+          "word": "Rescue",
+          "meaning": "被真正救離危險",
+          "use": "若危機已經完全脫離，用 <code>rescue</code> 或 relief 更貼近。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>reprieve</code> 常見於壓力管理、法律與財務報導，因為它能把『暫時緩一下』寫得很準。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>reprieve</code> 整理成「暫緩喘息」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/reprieve",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>reprieve</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/reprieve",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "reprieve",
+    "word": "Reprieve",
+    "partOfSpeech": "noun",
+    "href": "./reprieve.html",
+    "thesis": "不是解脫，而是暫時鬆一口氣。",
+    "tags": [
+      "暫緩喘息",
+      "危機先壓著你",
+      "rescue",
+      "temporary reprieve",
+      "grant a reprieve",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/reprieve",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/reprieve",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/reprieve",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Sway",
+    "slug": "sway",
+    "outputPath": "prototypes/sway.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "SWAY · UK /sweɪ/ · US /sweɪ/",
+    "hero": {
+      "thesis": "不是碰到，而是把方向帶偏過去。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.40"
+    },
+    "coreIdea": "<code>sway</code> 表示把事情往「牽動改向」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「牽動改向」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Influence",
+        "note": "<code>influence</code> 很廣；<code>sway</code> 更像把鐘擺推向另一側。"
+      },
+      "flow": [
+        "原本還在中間",
+        "外力開始拉扯",
+        "方向慢慢偏過去"
+      ]
+    },
+    "origin": {
+      "history": "<code>sway</code> 最早先是身體或物體的擺動、被推著移動；後來才轉成抽象的 influence，所以說 opinion 被 <code>sway</code>，其實就是被一股力推偏方向。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>sway</code> 想成鐘擺不是震一下，而是被一股力推到另一邊。",
+      "explanation": "它比 affect 更有方向感。"
+    },
+    "usage": [
+      {
+        "label": "決策",
+        "body": "有些數據不一定決定一切，但會明顯 <code>sway</code> 最後的判斷。"
+      },
+      {
+        "label": "輿論",
+        "body": "談選舉或輿論時，<code>sway</code> 很適合寫那些把票向推動的力量。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>sway</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "sway opinion",
+          "register": "公共 / 媒體",
+          "note": "這個搭配常用來寫意見、情緒、票向或決定被力量帶向另一邊。"
+        },
+        {
+          "phrase": "sway the decision",
+          "register": "管理 / 分析",
+          "note": "這個搭配常用來寫意見、情緒、票向或決定被力量帶向另一邊。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "牽動改向",
+        "use": "用在意見、情緒、票向或決定被力量帶向另一邊時。"
+      },
+      "others": [
+        {
+          "word": "Influence",
+          "meaning": "造成影響",
+          "use": "若只想說有影響力，用 <code>influence</code> 更通用。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>sway</code> 在說服、輿論與決策語境很常見，因為它把影響寫成有方向的推動。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>sway</code> 整理成「牽動改向」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/sway",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>sway</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/sway",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "sway",
+    "word": "Sway",
+    "partOfSpeech": "verb",
+    "href": "./sway.html",
+    "thesis": "不是碰到，而是把方向帶偏過去。",
+    "tags": [
+      "牽動改向",
+      "原本還在中間",
+      "influence",
+      "sway opinion",
+      "sway the decision",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/sway",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/sway",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/sway",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

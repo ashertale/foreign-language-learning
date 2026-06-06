@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "細節",
-        "body": "The article used <code>lurid</code> detail to turn suffering into spectacle."
+        "body": "The article used <code>lurid</code> detail to turn suffering into spectacle. 這裡放在細節情境時，是在說強烈呈現不是精準，而是讓人被刺到、被煽動。"
       },
       {
         "label": "標題",
-        "body": "A"
+        "body": "在標題這類情境裡，<code>lurid</code> 的重點是：不是鮮明，而是鮮明到讓人不舒服或覺得被炒作。"
       },
       {
         "label": "顏色",
-        "body": "Lurid colors may fit a poster and ruin a reading interface."
+        "body": "Lurid colors may fit a poster and ruin a reading interface. 這裡放在顏色情境時，是在說強烈呈現不是精準，而是讓人被刺到、被煽動。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/lurid",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>lurid</code> 在 Latin 裡原本是蒼白發黃、像瘀青一樣不健康的顏色；後來才轉成駭人、血腥、過度刺激，因為那種色感本來就不舒服。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Obviate",
+    "slug": "obviate",
+    "outputPath": "prototypes/obviate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "OB-vee-ayt · UK /ˈɒb.vi.eɪt/ · US /ˈɑːb.vi.eɪt/",
+    "hero": {
+      "thesis": "不是解決，而是讓原本那一步根本不必做。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.36"
+    },
+    "coreIdea": "<code>obviate</code> 表示把事情往「省去需求」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「省去需求」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Prevent",
+        "note": "<code>prevent</code> 是阻止事情發生；<code>obviate</code> 是讓需求本身消失。"
+      },
+      "flow": [
+        "原本有一個需求",
+        "另一路設計先處理掉",
+        "那一步驟被整體省去"
+      ]
+    },
+    "origin": {
+      "history": "<code>obviate</code> 原本是迎上去把某物處理掉、清出路來；所以它不是事後補救，而是先一步把障礙排開。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>obviate</code> 想成不是多派一個保全，而是改門禁到根本不需要站人。",
+      "explanation": "它描述的是需求被架構性拿掉，而不是工作做得更辛苦。"
+    },
+    "usage": [
+      {
+        "label": "設計",
+        "body": "把資料在源頭校正好，就能 <code>obviate</code> 一整串後端補救流程。"
+      },
+      {
+        "label": "流程",
+        "body": "好的預設值常常不是修正錯誤，而是直接 <code>obviate</code> 錯誤出現的機會。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>obviate</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "obviate the need",
+          "register": "技術 / 寫作",
+          "note": "這個搭配常用來寫某個設計、安排或條件讓另一個步驟變得不再需要。"
+        },
+        {
+          "phrase": "obviate the problem",
+          "register": "分析 / 管理",
+          "note": "這個搭配常用來寫某個設計、安排或條件讓另一個步驟變得不再需要。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "省去需求",
+        "use": "用在某個設計、安排或條件讓另一個步驟變得不再需要時。"
+      },
+      "others": [
+        {
+          "word": "Prevent",
+          "meaning": "阻止問題發生",
+          "use": "若重點是攔下風險或事件，用 <code>prevent</code> 更直接。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>obviate</code> 在工程與制度設計裡很有力，因為它強調『不是補救，而是把需求本身拿掉』。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>obviate</code> 整理成「省去需求」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/obviate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>obviate</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/obviate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "obviate",
+    "word": "Obviate",
+    "partOfSpeech": "verb",
+    "href": "./obviate.html",
+    "thesis": "不是解決，而是讓原本那一步根本不必做。",
+    "tags": [
+      "省去需求",
+      "原本有一個需求",
+      "prevent",
+      "obviate the need",
+      "obviate the problem",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/obviate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/obviate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/obviate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "合約",
-        "body": "An <code>ironclad</code> contract leaves little room for interpretive escape."
+        "body": "An <code>ironclad</code> contract leaves little room for interpretive escape. 這裡放在合約情境時，是在說某物經得起攻擊、質疑或突破。"
       },
       {
         "label": "證據",
-        "body": "Ironclad"
+        "body": "在證據這類情境裡，<code>ironclad</code> 的重點是：不是還不錯，而是硬到幾乎挑不出破口。"
       },
       {
         "label": "防線",
-        "body": "An ironclad defense depends on the weak points no one sees in the demo."
+        "body": "An ironclad defense depends on the weak points no one sees in the demo. 這裡放在防線情境時，是在說某物經得起攻擊、質疑或突破。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/ironclad",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>ironclad</code> 19 世紀先是字面上的「包了鐵甲」，可指騎士也可指鐵甲艦；後來才拿去形容合約、證據或防線嚴密到像穿了裝甲。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

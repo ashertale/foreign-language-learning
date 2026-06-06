@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "習慣",
-        "body": "To <code>forsake</code> old habits, the team had to change the incentives that kept them alive."
+        "body": "To <code>forsake</code> old habits, the team had to change the incentives that kept them alive. 這裡放在習慣情境時，是在說離開某物不只是移動，而是切斷忠誠、習慣或承諾。"
       },
       {
         "label": "事業",
-        "body": "He refused to forsake the cause when public support faded."
+        "body": "He refused to forsake the cause when public support faded. 這裡放在事業情境時，是在說離開某物不只是移動，而是切斷忠誠、習慣或承諾。"
       },
       {
         "label": "傳統",
-        "body": "A"
+        "body": "在傳統這類情境裡，<code>forsake</code> 的重點是：不是單純離開，而是離開一個你原本曾經依附或承諾過的東西。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/forsake",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>forsake</code> 來自 Old English，早期就有反對、拒絕、放棄、斷開的意思；所以它不是普通離開，而是把原本該站在一起的關係主動鬆手。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

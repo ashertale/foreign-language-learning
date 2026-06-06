@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "訊息",
-        "body": "The <code>brevity</code> of the message made it easier to act under pressure."
+        "body": "The <code>brevity</code> of the message made it easier to act under pressure. 這裡放在訊息情境時，是在說短小本身值得注意，尤其短得讓溝通更俐落。"
       },
       {
         "label": "偏好",
-        "body": "People may appreciate brevity when they are scanning many updates."
+        "body": "People may appreciate brevity when they are scanning many updates. 這裡放在偏好情境時，是在說短小本身值得注意，尤其短得讓溝通更俐落。"
       },
       {
         "label": "配對",
-        "body": "Brevity"
+        "body": "在配對這類情境裡，<code>brevity</code> 的重點是：不是少講而已，而是把必要內容壓得短卻不失核心。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/brevity",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>brevity</code> 來自 Latin <code>brevitas</code>，就是 shortness；它在英文裡一開始就特別常用來說話與寫作，所以保留的是短而不失骨架的感覺。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

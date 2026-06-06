@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "節奏",
-        "body": "The <code>frenetic</code> pace made coordination look like progress."
+        "body": "The <code>frenetic</code> pace made coordination look like progress. 這裡放在節奏情境時，是在說活動量很高，但那種高帶混亂與焦躁，而不是穩定效率。"
       },
       {
         "label": "交易",
-        "body": "Frenetic"
+        "body": "在交易這類情境裡，<code>frenetic</code> 的重點是：不是忙而已，而是忙到節奏都快失控。"
       },
       {
         "label": "氣氛",
-        "body": "A frenetic atmosphere is loud with motion, not necessarily with purpose."
+        "body": "A frenetic atmosphere is loud with motion, not necessarily with purpose. 這裡放在氣氛情境時，是在說活動量很高，但那種高帶混亂與焦躁，而不是穩定效率。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/frenetic",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>frenetic</code> 經 Old French 傳入時，原本靠近 delirious、crazed、暫時失控的狀態；因此它不是單純很忙，而是忙到節奏開始發狂。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

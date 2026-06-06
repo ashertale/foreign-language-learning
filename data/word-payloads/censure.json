@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "官員",
-        "body": "The committee voted to <code>censure</code> the official for misuse of funds."
+        "body": "The committee voted to <code>censure</code> the official for misuse of funds. 這裡放在官員情境時，是在說責難不只是個人意見，而帶有公開、正式或制度性的重量。"
       },
       {
         "label": "行為",
-        "body": "Censuring the conduct makes the institution say where its boundary is."
+        "body": "Censuring the conduct makes the institution say where its boundary is. 這裡放在行為情境時，是在說責難不只是個人意見，而帶有公開、正式或制度性的重量。"
       },
       {
         "label": "正式程序",
-        "body": "A"
+        "body": "在正式程序這類情境裡，<code>censure</code> 的重點是：不是私下念兩句，而是公開而且帶有權威地譴責。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/censure",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>censure</code> 來自 Latin <code>censura</code>，原本是判斷、評定，也帶教會或司法上的正式裁斷；後來才收斂成公開表明不滿與譴責。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

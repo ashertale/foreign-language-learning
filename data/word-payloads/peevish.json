@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Peevish",
+    "slug": "peevish",
+    "outputPath": "prototypes/peevish.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "PEE-vish · UK /ˈpiː.vɪʃ/ · US /ˈpiː.vɪʃ/",
+    "hero": {
+      "thesis": "不是大怒，而是小小的不爽一直掛在臉上。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.22"
+    },
+    "coreIdea": "<code>peevish</code> 描述一種「小氣惱躁」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「小氣惱躁」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Irritable",
+        "note": "<code>irritable</code> 是容易被惹毛；<code>peevish</code> 更像小小的不耐一路掛著。"
+      },
+      "flow": [
+        "事情不一定很大",
+        "情緒開始發刺",
+        "整個人透出小小的不耐"
+      ]
+    },
+    "origin": {
+      "history": "<code>peevish</code> 的來源不完全確定；Etymonline 認為它可能是仿著 Latin <code>perversus</code> 那條「歪、乖戾」的形狀做出來的，所以這個字從早期就帶難搞、彆扭、愛鬧脾氣的質地。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>peevish</code> 想成鞋裡卡了一顆沙，不致命，但每一步都讓你想皺眉。",
+      "explanation": "這個字的火氣不大，卻會持續磨人。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "有些人不是生氣，只是用很 <code>peevish</code> 的口氣把不耐煩全灑出來。"
+      },
+      {
+        "label": "狀態",
+        "body": "睡不好時，人很容易為小事變得 <code>peevish</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>peevish</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "peevish tone",
+          "register": "人際 / 敘事",
+          "note": "這個搭配常用來寫人因小事而煩、語氣發刺、情緒不耐。"
+        },
+        {
+          "phrase": "peevish complaint",
+          "register": "評論 / 口語",
+          "note": "這個搭配常用來寫人因小事而煩、語氣發刺、情緒不耐。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "小氣惱躁",
+        "use": "用在人因小事而煩、語氣發刺、情緒不耐時。"
+      },
+      "others": [
+        {
+          "word": "Irritable",
+          "meaning": "容易被惹煩",
+          "use": "若重點是體質上容易煩躁，用 <code>irritable</code> 更自然。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>peevish</code> 適合抓那種不算大怒、卻一直透出煩和刺的情緒層次。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>peevish</code> 整理成「小氣惱躁」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/peevish",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>peevish</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/peevish",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "peevish",
+    "word": "Peevish",
+    "partOfSpeech": "adjective",
+    "href": "./peevish.html",
+    "thesis": "不是大怒，而是小小的不爽一直掛在臉上。",
+    "tags": [
+      "小氣惱躁",
+      "事情不一定很大",
+      "irritable",
+      "peevish tone",
+      "peevish complaint",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/peevish",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/peevish",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/peevish",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

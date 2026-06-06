@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "程序",
-        "body": "A <code>byzantine</code> procedure makes simple requests pass through too many hidden gates."
+        "body": "A <code>byzantine</code> procedure makes simple requests pass through too many hidden gates. 這裡放在程序情境時，是在說複雜性不只是多，而是彎、繞、歷史層太厚。"
       },
       {
         "label": "規則",
-        "body": "Byzantine rules often preserve old compromises long after people forget why they existed."
+        "body": "Byzantine rules often preserve old compromises long after people forget why they existed. 這裡放在規則情境時，是在說複雜性不只是多，而是彎、繞、歷史層太厚。"
       },
       {
         "label": "系統",
-        "body": "A byzantine system can function and still punish every newcomer."
+        "body": "A byzantine system can function and still punish every newcomer. 這裡放在系統情境時，是在說複雜性不只是多，而是彎、繞、歷史層太厚。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/byzantine",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>byzantine</code> 原本只是「與 Byzantium 有關」；後來因為人們把拜占庭宮廷想成繁複、曲折、充滿權謀的體系，這個字才長出迷宮式複雜的現代意思。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

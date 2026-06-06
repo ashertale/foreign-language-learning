@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "小孩",
-        "body": "The teacher <code>chastised</code> the child for mocking a classmate."
+        "body": "The teacher <code>chastised</code> the child for mocking a classmate. 這裡放在小孩情境時，是在說責備帶有權威、教訓或矯正意圖。"
       },
       {
         "label": "團隊",
-        "body": "Chastising the team after a failure may satisfy anger but rarely improves diagnosis."
+        "body": "Chastising the team after a failure may satisfy anger but rarely improves diagnosis. 這裡放在團隊情境時，是在說責備帶有權威、教訓或矯正意圖。"
       },
       {
         "label": "判斷",
-        "body": "The review chastised poor judgment rather than the final outcome alone."
+        "body": "The review chastised poor judgment rather than the final outcome alone. 這裡放在判斷情境時，是在說責備帶有權威、教訓或矯正意圖。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/chastise",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>chastise</code> 經 French / Latin 傳入時，就帶以處罰把人拉回正軌的意思；所以它不是普通責備，而是帶矯正意味的懲戒。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

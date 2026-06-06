@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Moot",
+    "slug": "moot",
+    "outputPath": "prototypes/moot.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "MOOT · UK /muːt/ · US /muːt/",
+    "hero": {
+      "thesis": "不是不重要，而是因為前提變了，爭論本身失去落點。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.32"
+    },
+    "coreIdea": "<code>moot</code> 描述一種「失去討論意義」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「失去討論意義」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Irrelevant",
+        "note": "<code>irrelevant</code> 是本來就無關；<code>moot</code> 則是本來可談，但後來失去實際意義。"
+      },
+      "flow": [
+        "本來有爭點",
+        "前提被改寫",
+        "辯論失去實際落點"
+      ]
+    },
+    "origin": {
+      "history": "<code>moot</code> 原本是 Old English 的正式集會、議事場合；後來進到法律訓練裡，變成拿假設案件來辯論的 <code>moot case</code>，再一路長成今天那種「只剩理論上可談、實際上已失去落點」的意思。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>moot</code> 想成球場突然熄燈，球還在手上，比分卻已經不算。",
+      "explanation": "這個字不是說話題笨，而是說情境變了，繼續吵也落不到結果上。"
+    },
+    "usage": [
+      {
+        "label": "會議",
+        "body": "The deadline extension made the original complaint <code>moot</code>. 這裡放在會議情境時，是在說爭點因情勢改變而不再需要真正裁決。"
+      },
+      {
+        "label": "制度",
+        "body": "Without enforcement, the policy debate becomes <code>moot</code>. 這裡放在制度情境時，是在說爭點因情勢改變而不再需要真正裁決。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>moot</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "moot point",
+          "register": "討論 / 辯論",
+          "note": "這個搭配常用來寫爭點因情勢改變而不再需要真正裁決。"
+        },
+        {
+          "phrase": "render the issue moot",
+          "register": "法律 / 管理",
+          "note": "這個搭配常用來寫爭點因情勢改變而不再需要真正裁決。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "失去討論意義",
+        "use": "用在爭點因情勢改變而不再需要真正裁決時。"
+      },
+      "others": [
+        {
+          "word": "Irrelevant",
+          "meaning": "本來就無關這個問題",
+          "use": "若重點是從一開始就扯不上關係，用 <code>irrelevant</code> 更準。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>moot</code> 很常出現在專案、政策與法律語境裡，用來指出問題不是被回答了，而是被情勢繞過了。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>moot</code> 整理成「失去討論意義」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/moot",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>moot</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/moot",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "moot",
+    "word": "Moot",
+    "partOfSpeech": "adjective",
+    "href": "./moot.html",
+    "thesis": "不是不重要，而是因為前提變了，爭論本身失去落點。",
+    "tags": [
+      "失去討論意義",
+      "本來有爭點",
+      "irrelevant",
+      "moot point",
+      "render the issue moot",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/moot",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/moot",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/moot",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

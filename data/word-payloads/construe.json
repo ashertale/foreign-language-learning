@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "威脅",
-        "body": "A short warning can be <code>construed</code> as a threat if the relationship is already tense."
+        "body": "A short warning can be <code>construed</code> as a threat if the relationship is already tense. 這裡放在威脅情境時，是在說同一個訊號可能被讀成不同含義，而你要標出其中一種解讀。"
       },
       {
         "label": "條文",
-        "body": "The court construed the clause narrowly, leaving little room for exceptions."
+        "body": "The court construed the clause narrowly, leaving little room for exceptions. 這裡放在條文情境時，是在說同一個訊號可能被讀成不同含義，而你要標出其中一種解讀。"
       },
       {
         "label": "沉默",
-        "body": "Silence"
+        "body": "在沉默這類情境裡，<code>construe</code> 的重點是：不是單純看見，而是把它讀成某一種意思。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/construe",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>construe</code> 原本指把譯文中的字重新排回自然語序；因此它後來會變成「理解、詮釋」，像是把散亂訊號整理成你採用的讀法。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

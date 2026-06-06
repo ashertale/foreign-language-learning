@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Nettle",
+    "slug": "nettle",
+    "outputPath": "prototypes/nettle.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "NET-uhl · UK /ˈnet.əl/ · US /ˈnet̬.əl/",
+    "hero": {
+      "thesis": "不是一般冒犯，而是刺得人心裡發癢又發火。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.33"
+    },
+    "coreIdea": "<code>nettle</code> 表示把事情往「刺得惱火」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "definition": {
+      "summary": "表示把事情往「刺得惱火」的方向推，或讓局面出現這種結果。",
+      "contrast": {
+        "word": "Irritate",
+        "note": "<code>irritate</code> 比較平；<code>nettle</code> 更像被帶刺的東西扎到。"
+      },
+      "flow": [
+        "先被刺到一下",
+        "心裡開始發癢發火",
+        "情緒卡著不好消"
+      ]
+    },
+    "origin": {
+      "history": "<code>nettle</code> 原本是帶刺毛、會螫人的蕁麻植物；後來動詞義就直接借了那種刺痛感，表示被某句話或某件事刺到心裡發毛。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>nettle</code> 想成衣服裡掉進細小刺草，不大，卻一直讓你坐立難安。",
+      "explanation": "這個字的火氣不是爆炸型，而是持續扎著你的那種惱。"
+    },
+    "usage": [
+      {
+        "label": "評論",
+        "body": "The patronizing tone <code>nettled</code> the team more than the rejection itself. 這裡放在評論情境時，是在說話語或舉動讓人煩躁、被刺到、難以平靜。"
+      },
+      {
+        "label": "人際",
+        "body": "He was visibly <code>nettled</code> by the suggestion that his work lacked rigor. 這裡放在人際情境時，是在說話語或舉動讓人煩躁、被刺到、難以平靜。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>nettle</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "nettle the audience",
+          "register": "評論 / 媒體",
+          "note": "這個搭配常用來寫話語或舉動讓人煩躁、被刺到、難以平靜。"
+        },
+        {
+          "phrase": "nettled by the remark",
+          "register": "人際 / 敘事",
+          "note": "這個搭配常用來寫話語或舉動讓人煩躁、被刺到、難以平靜。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "刺得惱火",
+        "use": "用在話語或舉動讓人煩躁、被刺到、難以平靜時。"
+      },
+      "others": [
+        {
+          "word": "Irritate",
+          "meaning": "惹得不耐煩或不舒服",
+          "use": "若只要一般『惹煩』，用 <code>irritate</code> 即可。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>nettle</code> 在現代寫作裡不算高頻，但很適合捕捉那種『被刺到、不是大怒卻一直不舒服』的情緒。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nettle</code> 整理成「刺得惱火」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/nettle",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nettle</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/nettle",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "nettle",
+    "word": "Nettle",
+    "partOfSpeech": "verb",
+    "href": "./nettle.html",
+    "thesis": "不是一般冒犯，而是刺得人心裡發癢又發火。",
+    "tags": [
+      "刺得惱火",
+      "先被刺到一下",
+      "irritate",
+      "nettle the audience",
+      "nettled by the remark",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nettle",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/nettle",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nettle",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

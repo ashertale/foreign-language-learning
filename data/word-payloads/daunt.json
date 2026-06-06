@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "新人",
-        "body": "The size of the codebase can <code>daunt</code> the newcomer before any bug appears."
+        "body": "The size of the codebase can <code>daunt</code> the newcomer before any bug appears. 這裡放在新人情境時，是在說挑戰的大小或困難感壓低人的行動勇氣。"
       },
       {
         "label": "規模",
-        "body": "Being daunted by the scale is not weakness; it is a signal to break the work down."
+        "body": "Being daunted by the scale is not weakness; it is a signal to break the work down. 這裡放在規模情境時，是在說挑戰的大小或困難感壓低人的行動勇氣。"
       },
       {
         "label": "形容詞",
-        "body": "A daunting task feels large enough to slow the first step."
+        "body": "A daunting task feels large enough to slow the first step. 這裡放在形容詞情境時，是在說挑戰的大小或困難感壓低人的行動勇氣。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/daunt",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>daunt</code> 經 Old French 傳入，早期核心是征服、壓倒、制服對手；所以現代說被 daunt，不只是嚇到，而是氣勢被整個壓下去。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

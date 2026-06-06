@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "共同努力",
-        "body": "A joint <code>endeavor</code> works only when people share the risk, not just the credit."
+        "body": "A joint <code>endeavor</code> works only when people share the risk, not just the credit. 這裡放在共同努力情境時，是在說努力有規模、有方向，並值得被當成一件事來談。"
       },
       {
         "label": "創作",
-        "body": "A creative endeavor needs room for exploration before results become measurable."
+        "body": "A creative endeavor needs room for exploration before results become measurable. 這裡放在創作情境時，是在說努力有規模、有方向，並值得被當成一件事來談。"
       },
       {
         "label": "科學",
-        "body": "Scientific endeavor advances through patient correction as much as discovery."
+        "body": "Scientific endeavor advances through patient correction as much as discovery. 這裡放在科學情境時，是在說努力有規模、有方向，並值得被當成一件事來談。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/endeavor",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>endeavor</code> 原本字面是「in duty」，也就是把某件事視為自己的責任；因此它不是隨便 try，而是帶著職責感去用力。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

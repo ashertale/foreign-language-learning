@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Reticent",
+    "slug": "reticent",
+    "outputPath": "prototypes/reticent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "RET-uh-sənt · UK /ˈret.ɪ.sənt/ · US /ˈret̬.ə.sənt/",
+    "hero": {
+      "thesis": "不是害羞，而是不願把話全部攤開。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.36"
+    },
+    "coreIdea": "<code>reticent</code> 描述一種「寡言保留」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「寡言保留」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Shy",
+        "note": "<code>shy</code> 偏社交膽怯；<code>reticent</code> 更像有意識地收住話。"
+      },
+      "flow": [
+        "知道可以多說",
+        "卻選擇收著",
+        "資訊只露一部分"
+      ]
+    },
+    "origin": {
+      "history": "<code>reticent</code> 來自拉丁語 <code>reticere</code>「保持沉默」，字面就是往回收住不說；所以它不是沒內容，而是不肯多透露。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>reticent</code> 想成抽屜沒有鎖，但人就是只拉開一條縫。",
+      "explanation": "這個字寫的是保留，不一定是軟弱。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "有些人不是沒想法，而是對自己的經歷特別 <code>reticent</code>。"
+      },
+      {
+        "label": "會議",
+        "body": "如果一個團隊成員只願意透露必要資訊，他可能顯得很 <code>reticent</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>reticent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "reticent about the details",
+          "register": "人際 / 訪談",
+          "note": "這個搭配常用來寫人刻意少說、保留、或不願完全打開。"
+        },
+        {
+          "phrase": "reticent manner",
+          "register": "敘事 / 評論",
+          "note": "這個搭配常用來寫人刻意少說、保留、或不願完全打開。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "寡言保留",
+        "use": "用在人刻意少說、保留、或不願完全打開時。"
+      },
+      "others": [
+        {
+          "word": "Shy",
+          "meaning": "害羞、不敢表現",
+          "use": "若重點是膽怯，不是保留，用 <code>shy</code> 更自然。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>reticent</code> 在人物描寫與訪談語境很好用，因為它能把『不多說』寫得更有主動性。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>reticent</code> 整理成「寡言保留」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/reticent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>reticent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/reticent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "reticent",
+    "word": "Reticent",
+    "partOfSpeech": "adjective",
+    "href": "./reticent.html",
+    "thesis": "不是害羞，而是不願把話全部攤開。",
+    "tags": [
+      "寡言保留",
+      "知道可以多說",
+      "shy",
+      "reticent about the details",
+      "reticent manner",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/reticent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/reticent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/reticent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

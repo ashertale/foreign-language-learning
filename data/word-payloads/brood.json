@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "錯誤",
-        "body": "After"
+        "body": "在錯誤這類情境裡，<code>brood</code> 的重點是：不是想一下就過，而是反覆把同一件事含在心裡，越想越沉。"
       },
       {
         "label": "沉默",
-        "body": "Brooding in silence can make resentment look like calm."
+        "body": "Brooding in silence can make resentment look like calm. 這裡放在沉默情境時，是在說想法不是往解法走，而是在陰鬱情緒裡反覆繞圈。"
       },
       {
         "label": "失去",
-        "body": "To brood on a loss is to keep circling it without finding release."
+        "body": "To brood on a loss is to keep circling it without finding release. 這裡放在失去情境時，是在說想法不是往解法走，而是在陰鬱情緒裡反覆繞圈。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/brood",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>brood</code> 先指同一窩孵出的幼鳥，也和母鳥伏巢孵蛋有關；後來 <code>brood over</code> 那種反覆悶想的感覺，就像把同一件事一直壓在心上孵著。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

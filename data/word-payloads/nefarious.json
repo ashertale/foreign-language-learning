@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Nefarious",
+    "slug": "nefarious",
+    "outputPath": "prototypes/nefarious.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "nih-FAIR-ee-us · UK /nɪˈfeə.ri.əs/ · US /nəˈfer.i.əs/",
+    "hero": {
+      "thesis": "不是不好，而是壞得帶惡意、帶陰影。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.38"
+    },
+    "coreIdea": "<code>nefarious</code> 描述一種「陰狠邪惡」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "definition": {
+      "summary": "形容一種「陰狠邪惡」的狀態、氣質或外觀。",
+      "contrast": {
+        "word": "Sinister",
+        "note": "<code>sinister</code> 偏不祥或讓人發毛；<code>nefarious</code> 更直接指出道德上的惡。"
+      },
+      "flow": [
+        "意圖本身有惡意",
+        "手段不只是灰色",
+        "結果帶來實際傷害"
+      ]
+    },
+    "origin": {
+      "history": "<code>nefarious</code> 經 Latin 傳入時，本來就表示極端邪惡、令人不齒；所以它的壞不是普通失當，而是帶道德汙點的惡。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>nefarious</code> 想成不是躲在暗處而已，而是暗處裡真的藏著刀。",
+      "explanation": "這個字的力道很重，用上它通常代表你已經在做道德判斷。"
+    },
+    "usage": [
+      {
+        "label": "計畫",
+        "body": "The scam relied on a <code>nefarious</code> mix of fake urgency and forged trust. 這裡放在計畫情境時，是在說人、計畫或行動不只是有問題，而是帶明顯惡意。"
+      },
+      {
+        "label": "角色",
+        "body": "He is not merely ambitious but <code>nefarious</code> in the way he targets the vulnerable. 這裡放在角色情境時，是在說人、計畫或行動不只是有問題，而是帶明顯惡意。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>nefarious</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "nefarious scheme",
+          "register": "報導 / 敘事",
+          "note": "這個搭配常用來寫人、計畫或行動不只是有問題，而是帶明顯惡意。"
+        },
+        {
+          "phrase": "nefarious activity",
+          "register": "法律 / 安全",
+          "note": "這個搭配常用來寫人、計畫或行動不只是有問題，而是帶明顯惡意。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "陰狠邪惡",
+        "use": "用在人、計畫或行動不只是有問題，而是帶明顯惡意時。"
+      },
+      "others": [
+        {
+          "word": "Sinister",
+          "meaning": "讓人覺得不祥或陰森",
+          "use": "若重點是氛圍詭異、不安，用 <code>sinister</code> 更合適。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>nefarious</code> 常用在犯罪、陰謀與道德評論裡，語氣比 bad 或 shady 重得多。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nefarious</code> 整理成「陰狠邪惡」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/nefarious",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nefarious</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/nefarious",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "nefarious",
+    "word": "Nefarious",
+    "partOfSpeech": "adjective",
+    "href": "./nefarious.html",
+    "thesis": "不是不好，而是壞得帶惡意、帶陰影。",
+    "tags": [
+      "陰狠邪惡",
+      "意圖本身有惡意",
+      "sinister",
+      "nefarious scheme",
+      "nefarious activity",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nefarious",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/nefarious",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/nefarious",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

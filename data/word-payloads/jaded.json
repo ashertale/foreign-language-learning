@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "工作者",
-        "body": "A"
+        "body": "在工作者這類情境裡，<code>jaded</code> 的重點是：不是累而已，而是看太多、做太多之後感覺變鈍。"
       },
       {
         "label": "感受",
-        "body": "Feeling jaded is different from needing one night's sleep."
+        "body": "Feeling jaded is different from needing one night's sleep. 這裡放在感受情境時，是在說疲乏不是身體累，而是長期經驗讓人不再容易被感動。"
       },
       {
         "label": "觀眾",
-        "body": "A jaded audience requires honesty more than louder spectacle."
+        "body": "A jaded audience requires honesty more than louder spectacle. 這裡放在觀眾情境時，是在說疲乏不是身體累，而是長期經驗讓人不再容易被感動。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/jaded",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>jaded</code> 是 <code>jade</code>「使疲憊、磨鈍」的過去分詞，而那條字源又和 worn-out horse 有關；所以它不是單純膩，而是被反覆消耗到提不起勁。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

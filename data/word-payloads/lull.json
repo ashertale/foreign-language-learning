@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "短暫平靜",
-        "body": "There was a brief <code>lull</code> after the first wave of tickets."
+        "body": "There was a brief <code>lull</code> after the first wave of tickets. 這裡放在短暫平靜情境時，是在說動態場面中出現短暫安靜或低潮。"
       },
       {
         "label": "活動",
-        "body": "A lull in activity can be a good time to repair the process."
+        "body": "A lull in activity can be a good time to repair the process. 這裡放在活動情境時，是在說動態場面中出現短暫安靜或低潮。"
       },
       {
         "label": "風暴前",
-        "body": "The"
+        "body": "在風暴前這類情境裡，<code>lull</code> 的重點是：不是結束，而是先短暫安靜下來。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/lull",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>lull</code> 很可能是模仿哄孩子入睡時的聲音而來；所以它天生就有把躁動慢慢壓低、哄到安靜的節奏。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

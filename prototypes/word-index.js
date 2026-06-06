@@ -9426,5 +9426,1805 @@ window.WORD_INDEX = [
       "mollify",
       "verb"
     ]
+  },
+  {
+    id: "morose",
+    word: "Morose",
+    partOfSpeech: "adjective",
+    href: "./morose.html",
+    order: 501,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是安靜，而是情緒像陰天一樣整片壓下來。",
+    tags: [
+      "陰沉低落",
+      "情緒往下沉",
+      "sullen",
+      "morose mood",
+      "morose silence",
+      "adjective"
+    ]
+  },
+  {
+    id: "moot",
+    word: "Moot",
+    partOfSpeech: "adjective",
+    href: "./moot.html",
+    order: 502,
+    cefr: "C1",
+    zipf: 3.32,
+    thesis: "不是不重要，而是因為前提變了，爭論本身失去落點。",
+    tags: [
+      "失去討論意義",
+      "本來有爭點",
+      "irrelevant",
+      "moot point",
+      "render the issue moot",
+      "adjective"
+    ]
+  },
+  {
+    id: "multifaceted",
+    word: "Multifaceted",
+    partOfSpeech: "adjective",
+    href: "./multifaceted.html",
+    order: 503,
+    cefr: "C1",
+    zipf: 2.94,
+    thesis: "不是複雜而已，而是同一件事有多個面向同時成立。",
+    tags: [
+      "多面向並存",
+      "不只一個面向",
+      "complex",
+      "multifaceted issue",
+      "multifaceted personality",
+      "adjective"
+    ]
+  },
+  {
+    id: "mundane",
+    word: "Mundane",
+    partOfSpeech: "adjective",
+    href: "./mundane.html",
+    order: 504,
+    cefr: "C1",
+    zipf: 3.25,
+    thesis: "不是普通，而是普通到幾乎沒有戲劇性。",
+    tags: [
+      "平凡日常",
+      "事情很日常",
+      "ordinary",
+      "mundane task",
+      "mundane detail",
+      "adjective"
+    ]
+  },
+  {
+    id: "murky",
+    word: "Murky",
+    partOfSpeech: "adjective",
+    href: "./murky.html",
+    order: 505,
+    cefr: "C1",
+    zipf: 2.91,
+    thesis: "不是黑，而是混濁到你看不清底下到底是什麼。",
+    tags: [
+      "混濁不明",
+      "表面看得到輪廓",
+      "vague",
+      "murky details",
+      "murky waters",
+      "adjective"
+    ]
+  },
+  {
+    id: "muse",
+    word: "Muse",
+    partOfSpeech: "verb",
+    href: "./muse.html",
+    order: 506,
+    cefr: "C1",
+    zipf: 2.88,
+    thesis: "不是立刻下結論，而是讓想法在腦中慢慢繞一圈。",
+    tags: [
+      "沉思醞釀",
+      "問題先停住",
+      "ponder",
+      "muse on the question",
+      "muse aloud",
+      "verb"
+    ]
+  },
+  {
+    id: "muster",
+    word: "Muster",
+    partOfSpeech: "verb",
+    href: "./muster.html",
+    order: 507,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是突然變多，而是把零散的力氣硬是湊成可用的一股。",
+    tags: [
+      "勉強湊出",
+      "原本分散或不足",
+      "gather",
+      "muster the courage",
+      "muster enough support",
+      "verb"
+    ]
+  },
+  {
+    id: "mutable",
+    word: "Mutable",
+    partOfSpeech: "adjective",
+    href: "./mutable.html",
+    order: 508,
+    cefr: "B2",
+    zipf: 3.18,
+    thesis: "不是會動，而是可以被改成另一種樣子。",
+    tags: [
+      "可被改寫",
+      "先有一個狀態",
+      "immutable",
+      "mutable state",
+      "mutable object",
+      "adjective"
+    ]
+  },
+  {
+    id: "myriad",
+    word: "Myriad",
+    partOfSpeech: "adjective",
+    href: "./myriad.html",
+    order: 509,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是很多而已，而是多到像整片鋪開。",
+    tags: [
+      "繁多鋪開",
+      "數量不只幾個",
+      "numerous",
+      "myriad reasons",
+      "myriad forms",
+      "adjective"
+    ]
+  },
+  {
+    id: "myopic",
+    word: "Myopic",
+    partOfSpeech: "adjective",
+    href: "./myopic.html",
+    order: 510,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是看不到，而是只看得到眼前那一小段。",
+    tags: [
+      "目光短淺",
+      "只盯著眼前",
+      "short-term",
+      "myopic decision",
+      "myopic policy",
+      "adjective"
+    ]
+  },
+  {
+    id: "nascent",
+    word: "Nascent",
+    partOfSpeech: "adjective",
+    href: "./nascent.html",
+    order: 511,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是新，而是剛開始成形，還很脆弱。",
+    tags: [
+      "初生未穩",
+      "剛冒出輪廓",
+      "emerging",
+      "nascent industry",
+      "nascent stage",
+      "adjective"
+    ]
+  },
+  {
+    id: "nebulous",
+    word: "Nebulous",
+    partOfSpeech: "adjective",
+    href: "./nebulous.html",
+    order: 512,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是模糊，而是邊界像霧一樣抓不住。",
+    tags: [
+      "邊界霧化",
+      "輪廓先浮出",
+      "vague",
+      "nebulous concept",
+      "nebulous goal",
+      "adjective"
+    ]
+  },
+  {
+    id: "nefarious",
+    word: "Nefarious",
+    partOfSpeech: "adjective",
+    href: "./nefarious.html",
+    order: 513,
+    cefr: "C2",
+    zipf: 2.38,
+    thesis: "不是不好，而是壞得帶惡意、帶陰影。",
+    tags: [
+      "陰狠邪惡",
+      "意圖本身有惡意",
+      "sinister",
+      "nefarious scheme",
+      "nefarious activity",
+      "adjective"
+    ]
+  },
+  {
+    id: "negate",
+    word: "Negate",
+    partOfSpeech: "verb",
+    href: "./negate.html",
+    order: 514,
+    cefr: "C1",
+    zipf: 2.87,
+    thesis: "不是反對，而是把效果直接抵掉。",
+    tags: [
+      "抵消作廢",
+      "原本有作用",
+      "deny",
+      "negate the benefit",
+      "negate the effect",
+      "verb"
+    ]
+  },
+  {
+    id: "nettle",
+    word: "Nettle",
+    partOfSpeech: "verb",
+    href: "./nettle.html",
+    order: 515,
+    cefr: "C2",
+    zipf: 2.33,
+    thesis: "不是一般冒犯，而是刺得人心裡發癢又發火。",
+    tags: [
+      "刺得惱火",
+      "先被刺到一下",
+      "irritate",
+      "nettle the audience",
+      "nettled by the remark",
+      "verb"
+    ]
+  },
+  {
+    id: "nexus",
+    word: "Nexus",
+    partOfSpeech: "noun",
+    href: "./nexus.html",
+    order: 516,
+    cefr: "B2",
+    zipf: 3.18,
+    thesis: "不是單純連接，而是多條線真正交會的樞紐點。",
+    tags: [
+      "交會樞紐",
+      "不只兩條線",
+      "link",
+      "nexus of issues",
+      "causal nexus",
+      "noun"
+    ]
+  },
+  {
+    id: "nimble",
+    word: "Nimble",
+    partOfSpeech: "adjective",
+    href: "./nimble.html",
+    order: 517,
+    cefr: "B2",
+    zipf: 3.33,
+    thesis: "不是快而已，而是轉向也快。",
+    tags: [
+      "靈活敏捷",
+      "感知變化快",
+      "agile",
+      "nimble team",
+      "nimble response",
+      "adjective"
+    ]
+  },
+  {
+    id: "nomadic",
+    word: "Nomadic",
+    partOfSpeech: "adjective",
+    href: "./nomadic.html",
+    order: 518,
+    cefr: "C1",
+    zipf: 2.56,
+    thesis: "不是愛旅行，而是沒有長久固定駐點。",
+    tags: [
+      "遷移不定",
+      "不長久定居",
+      "mobile",
+      "nomadic lifestyle",
+      "nomadic culture",
+      "adjective"
+    ]
+  },
+  {
+    id: "nonchalant",
+    word: "Nonchalant",
+    partOfSpeech: "adjective",
+    href: "./nonchalant.html",
+    order: 519,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是冷，而是像什麼都沒太放在心上。",
+    tags: [
+      "漫不經心",
+      "局勢可能有重量",
+      "calm",
+      "nonchalant shrug",
+      "nonchalant attitude",
+      "adjective"
+    ]
+  },
+  {
+    id: "noxious",
+    word: "Noxious",
+    partOfSpeech: "adjective",
+    href: "./noxious.html",
+    order: 520,
+    cefr: "C2",
+    zipf: 2.29,
+    thesis: "不是難聞而已，而是有害到應該避開。",
+    tags: [
+      "有毒有害",
+      "先讓人不舒服",
+      "toxic",
+      "noxious fumes",
+      "noxious influence",
+      "adjective"
+    ]
+  },
+  {
+    id: "obdurate",
+    word: "Obdurate",
+    partOfSpeech: "adjective",
+    href: "./obdurate.html",
+    order: 521,
+    cefr: "C2",
+    zipf: 2.24,
+    thesis: "不是堅定，而是硬到怎麼勸都不鬆。",
+    tags: [
+      "頑固不化",
+      "立場先鎖死",
+      "stubborn",
+      "obdurate refusal",
+      "obdurate attitude",
+      "adjective"
+    ]
+  },
+  {
+    id: "oblique",
+    word: "Oblique",
+    partOfSpeech: "adjective",
+    href: "./oblique.html",
+    order: 522,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是側面而已，而是故意不正面進去。",
+    tags: [
+      "斜切繞入",
+      "不從正面進場",
+      "indirect",
+      "oblique reference",
+      "oblique angle",
+      "adjective"
+    ]
+  },
+  {
+    id: "oblivious",
+    word: "Oblivious",
+    partOfSpeech: "adjective",
+    href: "./oblivious.html",
+    order: 523,
+    cefr: "C1",
+    zipf: 3.02,
+    thesis: "不是不知道，而是周圍訊號明明很大卻完全沒接到。",
+    tags: [
+      "渾然不覺",
+      "外界訊號已經存在",
+      "unaware",
+      "blissfully oblivious",
+      "oblivious to the risk",
+      "adjective"
+    ]
+  },
+  {
+    id: "obviate",
+    word: "Obviate",
+    partOfSpeech: "verb",
+    href: "./obviate.html",
+    order: 524,
+    cefr: "C2",
+    zipf: 2.36,
+    thesis: "不是解決，而是讓原本那一步根本不必做。",
+    tags: [
+      "省去需求",
+      "原本有一個需求",
+      "prevent",
+      "obviate the need",
+      "obviate the problem",
+      "verb"
+    ]
+  },
+  {
+    id: "onerous",
+    word: "Onerous",
+    partOfSpeech: "adjective",
+    href: "./onerous.html",
+    order: 525,
+    cefr: "C1",
+    zipf: 2.61,
+    thesis: "不是麻煩，而是負擔重到讓人明顯吃力。",
+    tags: [
+      "負擔沉重",
+      "要求先落下來",
+      "demanding",
+      "onerous requirement",
+      "onerous burden",
+      "adjective"
+    ]
+  },
+  {
+    id: "onslaught",
+    word: "Onslaught",
+    partOfSpeech: "noun",
+    href: "./onslaught.html",
+    order: 526,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是一波攻擊，而是整面壓過來的猛衝。",
+    tags: [
+      "猛烈衝擊",
+      "不是一點點來",
+      "attack",
+      "an onslaught of criticism",
+      "military onslaught",
+      "noun"
+    ]
+  },
+  {
+    id: "opportune",
+    word: "Opportune",
+    partOfSpeech: "adjective",
+    href: "./opportune.html",
+    order: 527,
+    cefr: "B2",
+    zipf: 2.91,
+    thesis: "不是好，而是剛好踩在最能發揮作用的時機點。",
+    tags: [
+      "時機剛好",
+      "時點不是隨便一刻",
+      "timely",
+      "opportune moment",
+      "opportune time",
+      "adjective"
+    ]
+  },
+  {
+    id: "ornate",
+    word: "Ornate",
+    partOfSpeech: "adjective",
+    href: "./ornate.html",
+    order: 528,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是精緻而已，而是裝飾感明顯到成了主角。",
+    tags: [
+      "繁飾華麗",
+      "裝飾越加越多",
+      "elegant",
+      "ornate design",
+      "ornate style",
+      "adjective"
+    ]
+  },
+  {
+    id: "ossify",
+    word: "Ossify",
+    partOfSpeech: "verb",
+    href: "./ossify.html",
+    order: 529,
+    cefr: "C2",
+    zipf: 2.21,
+    thesis: "不是穩定，而是硬化到再也轉不動。",
+    tags: [
+      "僵化變硬",
+      "原本仍能調整",
+      "stabilize",
+      "ossify into dogma",
+      "ossified bureaucracy",
+      "verb"
+    ]
+  },
+  {
+    id: "oust",
+    word: "Oust",
+    partOfSpeech: "verb",
+    href: "./oust.html",
+    order: 530,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是離開，而是被人硬生生趕下位置。",
+    tags: [
+      "趕下位置",
+      "原本握有位置",
+      "remove",
+      "oust the leader",
+      "oust from office",
+      "verb"
+    ]
+  },
+  {
+    id: "pacify",
+    word: "Pacify",
+    partOfSpeech: "verb",
+    href: "./pacify.html",
+    order: 531,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是說服，而是先把躁動壓到可控制。",
+    tags: [
+      "平息躁動",
+      "局面先躁動",
+      "mollify",
+      "pacify the crowd",
+      "pacify tensions",
+      "verb"
+    ]
+  },
+  {
+    id: "palliate",
+    word: "Palliate",
+    partOfSpeech: "verb",
+    href: "./palliate.html",
+    order: 532,
+    cefr: "C2",
+    zipf: 2.16,
+    thesis: "不是根治，而是先減輕痛感。",
+    tags: [
+      "緩和症狀",
+      "痛點先出現",
+      "cure",
+      "palliate the pain",
+      "palliate the effects",
+      "verb"
+    ]
+  },
+  {
+    id: "palpable",
+    word: "Palpable",
+    partOfSpeech: "adjective",
+    href: "./palpable.html",
+    order: 533,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是感覺得到，而是濃到幾乎可以摸到。",
+    tags: [
+      "強烈可感",
+      "情緒或差異變濃",
+      "noticeable",
+      "palpable tension",
+      "palpable relief",
+      "adjective"
+    ]
+  },
+  {
+    id: "parity",
+    word: "Parity",
+    partOfSpeech: "noun",
+    href: "./parity.html",
+    order: 534,
+    cefr: "B2",
+    zipf: 3.07,
+    thesis: "不是相似，而是拉到同一個等級線上。",
+    tags: [
+      "同等齊平",
+      "原本兩邊有落差",
+      "equality",
+      "feature parity",
+      "pay parity",
+      "noun"
+    ]
+  },
+  {
+    id: "partisan",
+    word: "Partisan",
+    partOfSpeech: "adjective",
+    href: "./partisan.html",
+    order: 535,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是有立場，而是立場先選邊，再看事實。",
+    tags: [
+      "偏派選邊",
+      "先有陣營身份",
+      "biased",
+      "partisan divide",
+      "partisan rhetoric",
+      "adjective"
+    ]
+  },
+  {
+    id: "paucity",
+    word: "Paucity",
+    partOfSpeech: "noun",
+    href: "./paucity.html",
+    order: 536,
+    cefr: "C2",
+    zipf: 2.18,
+    thesis: "不是少，而是少到你開始意識到缺口。",
+    tags: [
+      "稀少短缺",
+      "原本期待會有更多",
+      "shortage",
+      "paucity of evidence",
+      "paucity of resources",
+      "noun"
+    ]
+  },
+  {
+    id: "peevish",
+    word: "Peevish",
+    partOfSpeech: "adjective",
+    href: "./peevish.html",
+    order: 537,
+    cefr: "C2",
+    zipf: 2.22,
+    thesis: "不是大怒，而是小小的不爽一直掛在臉上。",
+    tags: [
+      "小氣惱躁",
+      "事情不一定很大",
+      "irritable",
+      "peevish tone",
+      "peevish complaint",
+      "adjective"
+    ]
+  },
+  {
+    id: "perverse",
+    word: "Perverse",
+    partOfSpeech: "adjective",
+    href: "./perverse.html",
+    order: 538,
+    cefr: "C1",
+    zipf: 2.54,
+    thesis: "不是奇怪，而是故意往不該去的方向拗。",
+    tags: [
+      "故意拗反",
+      "明明看得見更好的路",
+      "contrary",
+      "perverse incentive",
+      "perverse pleasure",
+      "adjective"
+    ]
+  },
+  {
+    id: "perilous",
+    word: "Perilous",
+    partOfSpeech: "adjective",
+    href: "./perilous.html",
+    order: 539,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是有風險，而是一步踩錯就可能出事。",
+    tags: [
+      "危險懸邊",
+      "局勢本來就不穩",
+      "risky",
+      "perilous situation",
+      "perilous path",
+      "adjective"
+    ]
+  },
+  {
+    id: "pernicious",
+    word: "Pernicious",
+    partOfSpeech: "adjective",
+    href: "./pernicious.html",
+    order: 540,
+    cefr: "C2",
+    zipf: 2.34,
+    thesis: "不是壞得明顯，而是壞得慢、深、難察覺。",
+    tags: [
+      "隱蔽侵蝕",
+      "表面先不顯眼",
+      "harmful",
+      "pernicious effect",
+      "pernicious influence",
+      "adjective"
+    ]
+  },
+  {
+    id: "placate",
+    word: "Placate",
+    partOfSpeech: "verb",
+    href: "./placate.html",
+    order: 541,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是解決，而是先把對方的不滿壓到不爆。",
+    tags: [
+      "安撫降火",
+      "不滿開始升高",
+      "appease",
+      "placate the customer",
+      "placate public anger",
+      "verb"
+    ]
+  },
+  {
+    id: "pliable",
+    word: "Pliable",
+    partOfSpeech: "adjective",
+    href: "./pliable.html",
+    order: 542,
+    cefr: "C1",
+    zipf: 2.53,
+    thesis: "不是軟，而是可以彎、可以被塑形。",
+    tags: [
+      "柔韌可塑",
+      "本身先不僵",
+      "flexible",
+      "pliable material",
+      "pliable mind",
+      "adjective"
+    ]
+  },
+  {
+    id: "plight",
+    word: "Plight",
+    partOfSpeech: "noun",
+    href: "./plight.html",
+    order: 543,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是問題，而是已經陷進去的困境。",
+    tags: [
+      "困境處境",
+      "情況先惡化",
+      "problem",
+      "economic plight",
+      "plight of workers",
+      "noun"
+    ]
+  },
+  {
+    id: "plummet",
+    word: "Plummet",
+    partOfSpeech: "verb",
+    href: "./plummet.html",
+    order: 544,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是下降，而是往下掉得又快又狠。",
+    tags: [
+      "急墜下滑",
+      "先往下走",
+      "decline",
+      "plummet in value",
+      "temperatures plummet",
+      "verb"
+    ]
+  },
+  {
+    id: "portent",
+    word: "Portent",
+    partOfSpeech: "noun",
+    href: "./portent.html",
+    order: 545,
+    cefr: "C2",
+    zipf: 2.07,
+    thesis: "不是預告，而是帶不祥意味的前兆。",
+    tags: [
+      "不祥前兆",
+      "先冒出一個跡象",
+      "sign",
+      "dark portent",
+      "a portent of change",
+      "noun"
+    ]
+  },
+  {
+    id: "potent",
+    word: "Potent",
+    partOfSpeech: "adjective",
+    href: "./potent.html",
+    order: 546,
+    cefr: "B2",
+    zipf: 3.12,
+    thesis: "不是強，而是小小一點就有很大作用。",
+    tags: [
+      "效力很強",
+      "份量不一定大",
+      "powerful",
+      "potent symbol",
+      "potent drug",
+      "adjective"
+    ]
+  },
+  {
+    id: "preclude",
+    word: "Preclude",
+    partOfSpeech: "verb",
+    href: "./preclude.html",
+    order: 547,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是晚了一步，而是一開始就把路堵住。",
+    tags: [
+      "事先排除",
+      "前提先設定好",
+      "prevent",
+      "preclude the possibility",
+      "preclude access",
+      "verb"
+    ]
+  },
+  {
+    id: "precursor",
+    word: "Precursor",
+    partOfSpeech: "noun",
+    href: "./precursor.html",
+    order: 548,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是前面那個，而是後面那件事的先行版本或徵候。",
+    tags: [
+      "先行前驅",
+      "先有一個早期形態",
+      "prototype",
+      "chemical precursor",
+      "precursor to reform",
+      "noun"
+    ]
+  },
+  {
+    id: "predilection",
+    word: "Predilection",
+    partOfSpeech: "noun",
+    href: "./predilection.html",
+    order: 549,
+    cefr: "C2",
+    zipf: 2.21,
+    thesis: "不是喜歡，而是會一再偏向同一類東西。",
+    tags: [
+      "偏好傾向",
+      "不是一次選擇",
+      "preference",
+      "predilection for detail",
+      "predilection toward risk",
+      "noun"
+    ]
+  },
+  {
+    id: "preempt",
+    word: "Preempt",
+    partOfSpeech: "verb",
+    href: "./preempt.html",
+    order: 550,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是搶快，而是先一步動手，讓別人沒機會再做。",
+    tags: [
+      "先發占位",
+      "局勢還沒完全展開",
+      "forestall",
+      "preempt criticism",
+      "preempt the market",
+      "verb"
+    ]
+  },
+  {
+    id: "prelude",
+    word: "Prelude",
+    partOfSpeech: "noun",
+    href: "./prelude.html",
+    order: 551,
+    cefr: "C1",
+    zipf: 2.62,
+    thesis: "不是前面那段，而是替後面真正主體暖場的開端。",
+    tags: [
+      "序幕鋪墊",
+      "先有一段暖場",
+      "introduction",
+      "prelude to war",
+      "musical prelude",
+      "noun"
+    ]
+  },
+  {
+    id: "premise",
+    word: "Premise",
+    partOfSpeech: "noun",
+    href: "./premise.html",
+    order: 552,
+    cefr: "B2",
+    zipf: 3.54,
+    thesis: "不是結論，而是結論站在上面的那塊地板。",
+    tags: [
+      "前提基座",
+      "先立一塊前提",
+      "assumption",
+      "false premise",
+      "core premise",
+      "noun"
+    ]
+  },
+  {
+    id: "prescient",
+    word: "Prescient",
+    partOfSpeech: "adjective",
+    href: "./prescient.html",
+    order: 553,
+    cefr: "C2",
+    zipf: 2.28,
+    thesis: "不是猜中，而是早早看見別人後來才看見的走向。",
+    tags: [
+      "先見洞察",
+      "別人還沒注意",
+      "predictive",
+      "prescient warning",
+      "prescient analysis",
+      "adjective"
+    ]
+  },
+  {
+    id: "pristine",
+    word: "Pristine",
+    partOfSpeech: "adjective",
+    href: "./pristine.html",
+    order: 554,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是乾淨，而是乾淨到像還沒被碰過。",
+    tags: [
+      "未染原貌",
+      "沒有被污染",
+      "clean",
+      "pristine condition",
+      "pristine environment",
+      "adjective"
+    ]
+  },
+  {
+    id: "probity",
+    word: "Probity",
+    partOfSpeech: "noun",
+    href: "./probity.html",
+    order: 555,
+    cefr: "C2",
+    zipf: 2.05,
+    thesis: "不是誠實而已，而是行為和標準都站得住。",
+    tags: [
+      "正直操守",
+      "有原則可依",
+      "integrity",
+      "financial probity",
+      "personal probity",
+      "noun"
+    ]
+  },
+  {
+    id: "quagmire",
+    word: "Quagmire",
+    partOfSpeech: "noun",
+    href: "./quagmire.html",
+    order: 556,
+    cefr: "C2",
+    zipf: 2.22,
+    thesis: "不是麻煩，而是越掙扎越陷深的泥地。",
+    tags: [
+      "泥淖困局",
+      "先踩進去",
+      "mess",
+      "bureaucratic quagmire",
+      "legal quagmire",
+      "noun"
+    ]
+  },
+  {
+    id: "quibble",
+    word: "Quibble",
+    partOfSpeech: "verb",
+    href: "./quibble.html",
+    order: 557,
+    cefr: "C1",
+    zipf: 2.39,
+    thesis: "不是討論，而是在小地方挑細枝末節。",
+    tags: [
+      "吹毛挑刺",
+      "大方向其實相近",
+      "disagree",
+      "quibble over wording",
+      "quibble with the details",
+      "verb"
+    ]
+  },
+  {
+    id: "quiescent",
+    word: "Quiescent",
+    partOfSpeech: "adjective",
+    href: "./quiescent.html",
+    order: 558,
+    cefr: "C2",
+    zipf: 2.01,
+    thesis: "不是死掉，而是暫時安靜、不活動。",
+    tags: [
+      "靜止休眠",
+      "東西沒有消失",
+      "dormant",
+      "quiescent state",
+      "quiescent market",
+      "adjective"
+    ]
+  },
+  {
+    id: "quirk",
+    word: "Quirk",
+    partOfSpeech: "noun",
+    href: "./quirk.html",
+    order: 559,
+    cefr: "B2",
+    zipf: 3.06,
+    thesis: "不是缺陷，而是一個有點怪、但可辨認的小特徵。",
+    tags: [
+      "小怪癖性",
+      "特徵有點不尋常",
+      "bug",
+      "personality quirk",
+      "quirk of the system",
+      "noun"
+    ]
+  },
+  {
+    id: "rabid",
+    word: "Rabid",
+    partOfSpeech: "adjective",
+    href: "./rabid.html",
+    order: 560,
+    cefr: "C1",
+    zipf: 2.51,
+    thesis: "不是熱情，而是熱到帶攻擊性。",
+    tags: [
+      "狂熱失控",
+      "情緒先高漲",
+      "fervent",
+      "rabid fan base",
+      "rabid opposition",
+      "adjective"
+    ]
+  },
+  {
+    id: "rancor",
+    word: "Rancor",
+    partOfSpeech: "noun",
+    href: "./rancor.html",
+    order: 561,
+    cefr: "C2",
+    zipf: 2.12,
+    thesis: "不是生氣，而是積久了還沒散掉的怨恨。",
+    tags: [
+      "積怨苦毒",
+      "衝突先發生",
+      "anger",
+      "deep rancor",
+      "political rancor",
+      "noun"
+    ]
+  },
+  {
+    id: "rampant",
+    word: "Rampant",
+    partOfSpeech: "adjective",
+    href: "./rampant.html",
+    order: 562,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是很多，而是失控地到處蔓開。",
+    tags: [
+      "失控蔓延",
+      "一開始只是局部",
+      "widespread",
+      "rampant corruption",
+      "rampant speculation",
+      "adjective"
+    ]
+  },
+  {
+    id: "ratify",
+    word: "Ratify",
+    partOfSpeech: "verb",
+    href: "./ratify.html",
+    order: 563,
+    cefr: "C1",
+    zipf: 2.53,
+    thesis: "不是同意，而是正式把它蓋章成效。",
+    tags: [
+      "正式批准",
+      "先有草案或協議",
+      "approve",
+      "ratify the agreement",
+      "ratify the decision",
+      "verb"
+    ]
+  },
+  {
+    id: "redress",
+    word: "Redress",
+    partOfSpeech: "noun",
+    href: "./redress.html",
+    order: 564,
+    cefr: "C1",
+    zipf: 2.42,
+    thesis: "不是道歉，而是讓受損的一方得到補償或修復。",
+    tags: [
+      "補救補償",
+      "先有傷害或不公",
+      "apology",
+      "seek redress",
+      "provide redress",
+      "noun"
+    ]
+  },
+  {
+    id: "relapse",
+    word: "Relapse",
+    partOfSpeech: "verb",
+    href: "./relapse.html",
+    order: 565,
+    cefr: "C1",
+    zipf: 2.71,
+    thesis: "不是退步，而是好不容易離開後又掉回去。",
+    tags: [
+      "復發退回",
+      "原本有改善",
+      "regress",
+      "relapse into old habits",
+      "relapse after treatment",
+      "verb"
+    ]
+  },
+  {
+    id: "relent",
+    word: "Relent",
+    partOfSpeech: "verb",
+    href: "./relent.html",
+    order: 566,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是同意，而是終於鬆手一點。",
+    tags: [
+      "終於鬆動",
+      "原本一直很硬",
+      "yield",
+      "finally relent",
+      "pressure relents",
+      "verb"
+    ]
+  },
+  {
+    id: "relegate",
+    word: "Relegate",
+    partOfSpeech: "verb",
+    href: "./relegate.html",
+    order: 567,
+    cefr: "C1",
+    zipf: 2.57,
+    thesis: "不是移動，而是把某人某事往較次要的位置放。",
+    tags: [
+      "降到次位",
+      "原本還在主場",
+      "assign",
+      "relegate to the background",
+      "relegate to a minor role",
+      "verb"
+    ]
+  },
+  {
+    id: "remiss",
+    word: "Remiss",
+    partOfSpeech: "adjective",
+    href: "./remiss.html",
+    order: 568,
+    cefr: "C2",
+    zipf: 2.24,
+    thesis: "不是做不好，而是該做的責任沒有做。",
+    tags: [
+      "失職疏漏",
+      "責任本來清楚",
+      "careless",
+      "be remiss in one's duty",
+      "remiss oversight",
+      "adjective"
+    ]
+  },
+  {
+    id: "renounce",
+    word: "Renounce",
+    partOfSpeech: "verb",
+    href: "./renounce.html",
+    order: 569,
+    cefr: "C1",
+    zipf: 2.48,
+    thesis: "不是放棄而已，而是公開與它切斷關係。",
+    tags: [
+      "公開棄絕",
+      "原本與某物有連結",
+      "abandon",
+      "renounce violence",
+      "renounce citizenship",
+      "verb"
+    ]
+  },
+  {
+    id: "repertoire",
+    word: "Repertoire",
+    partOfSpeech: "noun",
+    href: "./repertoire.html",
+    order: 570,
+    cefr: "C1",
+    zipf: 2.67,
+    thesis: "不是清單，而是你手上那套真正能拿出來用的本事。",
+    tags: [
+      "可用本領庫",
+      "不只擁有",
+      "inventory",
+      "expand one's repertoire",
+      "repertoire of skills",
+      "noun"
+    ]
+  },
+  {
+    id: "reprieve",
+    word: "Reprieve",
+    partOfSpeech: "noun",
+    href: "./reprieve.html",
+    order: 571,
+    cefr: "C1",
+    zipf: 2.43,
+    thesis: "不是解脫，而是暫時鬆一口氣。",
+    tags: [
+      "暫緩喘息",
+      "危機先壓著你",
+      "rescue",
+      "temporary reprieve",
+      "grant a reprieve",
+      "noun"
+    ]
+  },
+  {
+    id: "repudiate",
+    word: "Repudiate",
+    partOfSpeech: "verb",
+    href: "./repudiate.html",
+    order: 572,
+    cefr: "C2",
+    zipf: 2.19,
+    thesis: "不是不同意，而是明白把它撇開、否認、切割。",
+    tags: [
+      "公開否斥",
+      "先有某關聯或主張",
+      "reject",
+      "repudiate the claim",
+      "repudiate violence",
+      "verb"
+    ]
+  },
+  {
+    id: "reticent",
+    word: "Reticent",
+    partOfSpeech: "adjective",
+    href: "./reticent.html",
+    order: 573,
+    cefr: "C2",
+    zipf: 2.36,
+    thesis: "不是害羞，而是不願把話全部攤開。",
+    tags: [
+      "寡言保留",
+      "知道可以多說",
+      "shy",
+      "reticent about the details",
+      "reticent manner",
+      "adjective"
+    ]
+  },
+  {
+    id: "retract",
+    word: "Retract",
+    partOfSpeech: "verb",
+    href: "./retract.html",
+    order: 574,
+    cefr: "C1",
+    zipf: 2.62,
+    thesis: "不是修改，而是把說出去的話收回。",
+    tags: [
+      "收回撤銷",
+      "原本已經說出或伸出",
+      "revise",
+      "retract the statement",
+      "retractable mechanism",
+      "verb"
+    ]
+  },
+  {
+    id: "revere",
+    word: "Revere",
+    partOfSpeech: "verb",
+    href: "./revere.html",
+    order: 575,
+    cefr: "C1",
+    zipf: 2.55,
+    thesis: "不是喜歡，而是帶著敬意抬高它。",
+    tags: [
+      "尊崇敬重",
+      "先看見對方價值",
+      "admire",
+      "revere the tradition",
+      "widely revered",
+      "verb"
+    ]
+  },
+  {
+    id: "sacrosanct",
+    word: "Sacrosanct",
+    partOfSpeech: "adjective",
+    href: "./sacrosanct.html",
+    order: 576,
+    cefr: "C2",
+    zipf: 2.13,
+    thesis: "不是重要，而是重要到大家默認不能碰。",
+    tags: [
+      "神聖不可碰",
+      "某物先被抬高",
+      "important",
+      "sacrosanct principle",
+      "sacrosanct tradition",
+      "adjective"
+    ]
+  },
+  {
+    id: "sagacious",
+    word: "Sagacious",
+    partOfSpeech: "adjective",
+    href: "./sagacious.html",
+    order: 577,
+    cefr: "C2",
+    zipf: 2.07,
+    thesis: "不是聰明，而是判斷裡有老到的分寸。",
+    tags: [
+      "睿智老練",
+      "不急著表現機智",
+      "smart",
+      "sagacious advice",
+      "sagacious observer",
+      "adjective"
+    ]
+  },
+  {
+    id: "sanction",
+    word: "Sanction",
+    partOfSpeech: "noun",
+    href: "./sanction.html",
+    order: 578,
+    cefr: "C1",
+    zipf: 3.41,
+    thesis: "不是處罰而已，它也可以是正式批准；重點是制度把力道放下來。",
+    tags: [
+      "制度裁可",
+      "制度先介入",
+      "penalty",
+      "economic sanctions",
+      "official sanction",
+      "noun"
+    ]
+  },
+  {
+    id: "sardonic",
+    word: "Sardonic",
+    partOfSpeech: "adjective",
+    href: "./sardonic.html",
+    order: 579,
+    cefr: "C2",
+    zipf: 2.29,
+    thesis: "不是幽默，而是笑裡帶刺、帶冷。",
+    tags: [
+      "冷刺嘲諷",
+      "表面像在笑",
+      "sarcastic",
+      "sardonic smile",
+      "sardonic remark",
+      "adjective"
+    ]
+  },
+  {
+    id: "scant",
+    word: "Scant",
+    partOfSpeech: "adjective",
+    href: "./scant.html",
+    order: 580,
+    cefr: "C1",
+    zipf: 2.52,
+    thesis: "不是少，而是少到快不夠用。",
+    tags: [
+      "少得發緊",
+      "數量先偏低",
+      "little",
+      "scant evidence",
+      "scant resources",
+      "adjective"
+    ]
+  },
+  {
+    id: "seethe",
+    word: "Seethe",
+    partOfSpeech: "verb",
+    href: "./seethe.html",
+    order: 581,
+    cefr: "C1",
+    zipf: 2.63,
+    thesis: "不是生氣，而是怒氣在裡面一直滾。",
+    tags: [
+      "暗湧怒氣",
+      "情緒先被壓住",
+      "fume",
+      "seethe with anger",
+      "seething resentment",
+      "verb"
+    ]
+  },
+  {
+    id: "semblance",
+    word: "Semblance",
+    partOfSpeech: "noun",
+    href: "./semblance.html",
+    order: 582,
+    cefr: "C1",
+    zipf: 2.41,
+    thesis: "不是完整樣子，而是勉強還看得出像那回事的外形。",
+    tags: [
+      "勉強像樣",
+      "原本應有完整形態",
+      "appearance",
+      "semblance of order",
+      "semblance of control",
+      "noun"
+    ]
+  },
+  {
+    id: "shoddy",
+    word: "Shoddy",
+    partOfSpeech: "adjective",
+    href: "./shoddy.html",
+    order: 583,
+    cefr: "B2",
+    zipf: 2.74,
+    thesis: "不是便宜，而是粗糙到看得出不講究。",
+    tags: [
+      "粗劣偷工",
+      "看似能交差",
+      "cheap",
+      "shoddy workmanship",
+      "shoddy reporting",
+      "adjective"
+    ]
+  },
+  {
+    id: "solicitous",
+    word: "Solicitous",
+    partOfSpeech: "adjective",
+    href: "./solicitous.html",
+    order: 584,
+    cefr: "C2",
+    zipf: 2.08,
+    thesis: "不是客氣，而是帶著照看意味的關心。",
+    tags: [
+      "體貼掛心",
+      "注意到對方需要",
+      "polite",
+      "solicitous host",
+      "solicitous concern",
+      "adjective"
+    ]
+  },
+  {
+    id: "sparse",
+    word: "Sparse",
+    partOfSpeech: "adjective",
+    href: "./sparse.html",
+    order: 585,
+    cefr: "B2",
+    zipf: 3.00,
+    thesis: "不是少，而是點和點之間隔得很開。",
+    tags: [
+      "稀疏分散",
+      "數量本來就不密",
+      "scant",
+      "sparse data",
+      "sparse population",
+      "adjective"
+    ]
+  },
+  {
+    id: "staunch",
+    word: "Staunch",
+    partOfSpeech: "adjective",
+    href: "./staunch.html",
+    order: 586,
+    cefr: "C1",
+    zipf: 2.58,
+    thesis: "不是支持，而是支持得很穩、很硬。",
+    tags: [
+      "堅定力挺",
+      "立場先明確",
+      "loyal",
+      "staunch supporter",
+      "staunch defender",
+      "adjective"
+    ]
+  },
+  {
+    id: "stifle",
+    word: "Stifle",
+    partOfSpeech: "verb",
+    href: "./stifle.html",
+    order: 587,
+    cefr: "C1",
+    zipf: 2.68,
+    thesis: "不是停止，而是捂住、不讓它長出來。",
+    tags: [
+      "壓住悶死",
+      "東西本來要冒出",
+      "suppress",
+      "stifle innovation",
+      "stifle a laugh",
+      "verb"
+    ]
+  },
+  {
+    id: "stigma",
+    word: "Stigma",
+    partOfSpeech: "noun",
+    href: "./stigma.html",
+    order: 588,
+    cefr: "C1",
+    zipf: 3.17,
+    thesis: "不是標籤，而是帶羞恥與排斥感的標記。",
+    tags: [
+      "污名烙印",
+      "社會先貼上看法",
+      "label",
+      "social stigma",
+      "stigma around mental health",
+      "noun"
+    ]
+  },
+  {
+    id: "stipulate",
+    word: "Stipulate",
+    partOfSpeech: "verb",
+    href: "./stipulate.html",
+    order: 589,
+    cefr: "C1",
+    zipf: 2.59,
+    thesis: "不是提到，而是明白寫成必須遵守的條件。",
+    tags: [
+      "明文規定",
+      "條件被提出",
+      "mention",
+      "stipulate that",
+      "stipulate the terms",
+      "verb"
+    ]
+  },
+  {
+    id: "stoic",
+    word: "Stoic",
+    partOfSpeech: "adjective",
+    href: "./stoic.html",
+    order: 590,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是沒感覺，而是不讓感覺把自己沖走。",
+    tags: [
+      "克制沉著",
+      "壓力或痛苦先來",
+      "emotionless",
+      "stoic calm",
+      "stoic endurance",
+      "adjective"
+    ]
+  },
+  {
+    id: "strident",
+    word: "Strident",
+    partOfSpeech: "adjective",
+    href: "./strident.html",
+    order: 591,
+    cefr: "C2",
+    zipf: 2.23,
+    thesis: "不是大聲，而是大聲到刺耳、壓人。",
+    tags: [
+      "刺耳強硬",
+      "聲量先被推高",
+      "loud",
+      "strident tone",
+      "strident criticism",
+      "adjective"
+    ]
+  },
+  {
+    id: "strife",
+    word: "Strife",
+    partOfSpeech: "noun",
+    href: "./strife.html",
+    order: 592,
+    cefr: "C1",
+    zipf: 2.59,
+    thesis: "不是爭論，而是衝突已經讓關係和局面裂開。",
+    tags: [
+      "衝突紛爭",
+      "先有分歧",
+      "dispute",
+      "civil strife",
+      "internal strife",
+      "noun"
+    ]
+  },
+  {
+    id: "stymie",
+    word: "Stymie",
+    partOfSpeech: "verb",
+    href: "./stymie.html",
+    order: 593,
+    cefr: "C1",
+    zipf: 2.34,
+    thesis: "不是延遲，而是硬生生卡住前進。",
+    tags: [
+      "卡死阻住",
+      "前進原本還在動",
+      "delay",
+      "stymie progress",
+      "stymied by regulation",
+      "verb"
+    ]
+  },
+  {
+    id: "subdued",
+    word: "Subdued",
+    partOfSpeech: "adjective",
+    href: "./subdued.html",
+    order: 594,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是安靜，而是被壓低到很收。",
+    tags: [
+      "壓低收斂",
+      "原本可能更鮮或更強",
+      "quiet",
+      "subdued lighting",
+      "subdued response",
+      "adjective"
+    ]
+  },
+  {
+    id: "succumb",
+    word: "Succumb",
+    partOfSpeech: "verb",
+    href: "./succumb.html",
+    order: 595,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是輸，而是撐到最後還是倒下。",
+    tags: [
+      "終究屈倒",
+      "先努力撐著",
+      "yield",
+      "succumb to pressure",
+      "succumb to illness",
+      "verb"
+    ]
+  },
+  {
+    id: "suffice",
+    word: "Suffice",
+    partOfSpeech: "verb",
+    href: "./suffice.html",
+    order: 596,
+    cefr: "C1",
+    zipf: 2.73,
+    thesis: "不是很多，而是剛好夠。",
+    tags: [
+      "足以夠用",
+      "需求先被看清",
+      "enough",
+      "suffice it to say",
+      "will suffice",
+      "verb"
+    ]
+  },
+  {
+    id: "sully",
+    word: "Sully",
+    partOfSpeech: "verb",
+    href: "./sully.html",
+    order: 597,
+    cefr: "C1",
+    zipf: 2.38,
+    thesis: "不是弄髒而已，而是把原本的潔淨或名聲抹上一層污。",
+    tags: [
+      "玷污抹黑",
+      "原本有一層潔淨感",
+      "stain",
+      "sully a reputation",
+      "sully the memory",
+      "verb"
+    ]
+  },
+  {
+    id: "sunder",
+    word: "Sunder",
+    partOfSpeech: "verb",
+    href: "./sunder.html",
+    order: 598,
+    cefr: "C2",
+    zipf: 2.04,
+    thesis: "不是分開，而是硬生生裂成兩邊。",
+    tags: [
+      "劈裂分離",
+      "原本是一體",
+      "separate",
+      "sundered by war",
+      "sunder the alliance",
+      "verb"
+    ]
+  },
+  {
+    id: "surly",
+    word: "Surly",
+    partOfSpeech: "adjective",
+    href: "./surly.html",
+    order: 599,
+    cefr: "C1",
+    zipf: 2.49,
+    thesis: "不是安靜，而是不友善地板著臉。",
+    tags: [
+      "板臉粗暴",
+      "情緒先壓低",
+      "grumpy",
+      "surly attitude",
+      "surly response",
+      "adjective"
+    ]
+  },
+  {
+    id: "sway",
+    word: "Sway",
+    partOfSpeech: "verb",
+    href: "./sway.html",
+    order: 600,
+    cefr: "B2",
+    zipf: 3.40,
+    thesis: "不是碰到，而是把方向帶偏過去。",
+    tags: [
+      "牽動改向",
+      "原本還在中間",
+      "influence",
+      "sway opinion",
+      "sway the decision",
+      "verb"
+    ]
   }
 ];

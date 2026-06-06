@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "角色",
-        "body": "She acted as <code>liaison</code> between firmware and manufacturing during the rollout."
+        "body": "She acted as <code>liaison</code> between firmware and manufacturing during the rollout. 這裡放在角色情境時，是在說角色的價值是跨越兩方邊界、保持資訊流動與互信。"
       },
       {
         "label": "職位",
-        "body": "A liaison officer must know both the formal channel and the informal trust path."
+        "body": "A liaison officer must know both the formal channel and the informal trust path. 這裡放在職位情境時，是在說角色的價值是跨越兩方邊界、保持資訊流動與互信。"
       },
       {
         "label": "團隊",
-        "body": "A liaison between teams can prevent decisions from being translated into surprises."
+        "body": "A liaison between teams can prevent decisions from being translated into surprises. 這裡放在團隊情境時，是在說角色的價值是跨越兩方邊界、保持資訊流動與互信。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/liaison",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>liaison</code> 來自 French，原本就是 binding together、把東西綁在一起；它在英語裡先當過料理用的勾芡詞，後來才走向人際、組織與單位間的連結角色。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

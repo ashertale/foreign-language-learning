@@ -1,0 +1,131 @@
+{
+  "target": {
+    "word": "Redress",
+    "slug": "redress",
+    "outputPath": "prototypes/redress.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "ri-DRESS · UK /rɪˈdres/ · US /rɪˈdres/",
+    "hero": {
+      "thesis": "不是道歉，而是讓受損的一方得到補償或修復。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.42"
+    },
+    "coreIdea": "<code>redress</code> 指那種「補救補償」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "definition": {
+      "summary": "指那種「補救補償」的狀態、力量、場面或事物。",
+      "contrast": {
+        "word": "Apology",
+        "note": "<code>apology</code> 是表態；<code>redress</code> 更往具體補救或補償走。"
+      },
+      "flow": [
+        "先有傷害或不公",
+        "受損方提出要求",
+        "補償或修正被安排進來"
+      ]
+    },
+    "origin": {
+      "history": "<code>redress</code> 原義就是「把歪掉的東西重新弄正、恢復到 right」，先是動詞的糾正、修正；後來名詞義才長成對受害者的補救與補償。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>redress</code> 想成不是說一句對不起，而是真的把傾斜的秤盤拉回來。",
+      "explanation": "這個字往往期待的是可執行的修補。"
+    },
+    "usage": [
+      {
+        "label": "制度",
+        "body": "如果申訴最後能帶來補償或修正，那才接近真正的 <code>redress</code>。"
+      },
+      {
+        "label": "法律",
+        "body": "談權益受損時，<code>redress</code> 常比 apology 更有實際份量。"
+      }
+    ],
+    "collocations": {
+      "note": "這裡放 <code>redress</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "items": [
+        {
+          "phrase": "seek redress",
+          "register": "法律 / 正式",
+          "note": "這個搭配常用來寫某種傷害、損失或不公需要被補正。"
+        },
+        {
+          "phrase": "provide redress",
+          "register": "政策 / 治理",
+          "note": "這個搭配常用來寫某種傷害、損失或不公需要被補正。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "補救補償",
+        "use": "用在某種傷害、損失或不公需要被補正時。"
+      },
+      "others": [
+        {
+          "word": "Apology",
+          "meaning": "表達歉意或承認錯誤",
+          "use": "若重點只是說抱歉，用 <code>apology</code> 即可。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>redress</code> 在法律、治理與消費者保護語境很常見，因為它把『補回來』說得比 sorry 更實際。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>redress</code> 整理成「補救補償」的學習概念。",
+        "url": "https://www.merriam-webster.com/dictionary/redress",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>redress</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "url": "https://www.merriam-webster.com/dictionary/redress",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "redress",
+    "word": "Redress",
+    "partOfSpeech": "noun",
+    "href": "./redress.html",
+    "thesis": "不是道歉，而是讓受損的一方得到補償或修復。",
+    "tags": [
+      "補救補償",
+      "先有傷害或不公",
+      "apology",
+      "seek redress",
+      "provide redress",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/redress",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/redress",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/redress",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "支持",
-        "body": "The group <code>canvassed</code> for support before making the proposal public."
+        "body": "The group <code>canvassed</code> for support before making the proposal public. 這裡放在支持情境時，是在說你要描述主動向一群人徵詢、拜訪或尋求支持。"
       },
       {
         "label": "社區",
-        "body": "Volunteers canvassed the neighborhood to learn what residents actually needed."
+        "body": "Volunteers canvassed the neighborhood to learn what residents actually needed. 這裡放在社區情境時，是在說你要描述主動向一群人徵詢、拜訪或尋求支持。"
       },
       {
         "label": "意見",
-        "body": "Canvassing"
+        "body": "Canvassing. 這裡放在意見情境時，是在說你要描述主動向一群人徵詢、拜訪或尋求支持。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/canvass",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>canvass</code> 原本是把東西放進 canvas 布裡篩、抖、仔細翻查；後來才引申成仔細摸意向、逐一探詢支持度，也就是今天選舉裡的「拉票、逐戶詢問」。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

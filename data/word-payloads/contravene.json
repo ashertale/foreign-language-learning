@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "法律",
-        "body": "The data transfer may <code>contravene</code> the law if consent is missing."
+        "body": "The data transfer may <code>contravene</code> the law if consent is missing. 這裡放在法律情境時，是在說行為與明文規則、法律或原則相衝突。"
       },
       {
         "label": "政策",
-        "body": "A"
+        "body": "在政策這類情境裡，<code>contravene</code> 的重點是：不是不小心偏掉，而是直接和既定規範相抵觸。"
       },
       {
         "label": "原則",
-        "body": "The decision contravened the principle of equal access."
+        "body": "The decision contravened the principle of equal access. 這裡放在原則情境時，是在說行為與明文規則、法律或原則相衝突。"
       }
     ],
     "collocations": {
@@ -96,6 +96,10 @@
         "url": "https://www.merriam-webster.com/dictionary/contravene",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>contravene</code> 經 French 來自 Late Latin，核心是「走到對面去、違逆而行」；所以它不是普通不配合，而是明確和規則、法條或要求相衝。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

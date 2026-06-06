@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "動機",
-        "body": "An <code>altruistic</code> motive cares about who benefits, not who gets credit."
+        "body": "An <code>altruistic</code> motive cares about who benefits, not who gets credit. 這裡放在動機情境時，是在說行動或動機把他人利益放在很前面。"
       },
       {
         "label": "行動",
-        "body": "An altruistic act may cost time, attention, or comfort."
+        "body": "An altruistic act may cost time, attention, or comfort. 這裡放在行動情境時，是在說行動或動機把他人利益放在很前面。"
       },
       {
         "label": "領導",
-        "body": "Altruistic leadership protects the team’s growth even when it is not personally convenient."
+        "body": "Altruistic leadership protects the team’s growth even when it is not personally convenient. 這裡放在領導情境時，是在說行動或動機把他人利益放在很前面。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/altruistic",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>altruistic</code> 是 19 世紀從 <code>altruist</code> 加上 <code>-ic</code> 形成的，字根追到「他人」這個概念；它從一開始就不是一般善良，而是把重心放在別人的利益上。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {

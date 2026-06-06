@@ -36,11 +36,11 @@
       },
       {
         "label": "責任",
-        "body": "A"
+        "body": "在責任這類情境裡，<code>abdicate</code> 的重點是：不是單純離開，而是把原本握在手上的位置、權力或責任正式交出去。"
       },
       {
         "label": "領導",
-        "body": "To abdicate leadership in a crisis is to leave others without direction."
+        "body": "To abdicate leadership in a crisis is to leave others without direction. 這裡放在領導情境時，是在說放棄原本握有的權力、位置或責任，且後果有重量。"
       }
     ],
     "collocations": {
@@ -101,6 +101,10 @@
         "url": "https://www.merriam-webster.com/dictionary/abdicate",
         "label": "Merriam-Webster"
       }
+    },
+    "origin": {
+      "history": "<code>abdicate</code> 來自 Latin <code>abdicare</code>，原意是宣告放棄、剝奪，甚至可指與子女斷絕關係；後來才收斂成正式退位，或把原本握著的權位與責任交出去。",
+      "memoryLens": ""
     }
   },
   "indexEntry": {
