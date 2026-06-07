@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "網路",
-        "body": "Attackers <code>infiltrated</code> the network through an abandoned credential. 這裡放在網路情境時，是在說進入是隱蔽、逐步、違反邊界的時候。"
+        "body": "Attackers <code>infiltrated</code> the network through an abandoned credential."
       },
       {
         "label": "群體",
-        "body": "The group was infiltrated by someone who gained trust over months. 這裡放在群體情境時，是在說進入是隱蔽、逐步、違反邊界的時候。"
+        "body": "The group was infiltrated by someone who gained trust over months."
       },
       {
         "label": "系統",
-        "body": "Malicious. 這裡放在系統情境時，是在說進入是隱蔽、逐步、違反邊界的時候。"
+        "body": "Malicious code can infiltrate a system through a dependency that already has trust."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 infiltrate 整理成「悄悄滲入」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/infiltrate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 infiltrate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/infiltrate",
         "label": "Merriam-Webster"
       }

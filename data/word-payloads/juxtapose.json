@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "設計版",
-        "body": "The chart juxtaposes expected and actual values. 這個情境凸顯「並置、並列，常為了產生對比或凸顯關係」。"
+        "body": "The chart juxtaposes expected and actual values."
       },
       {
         "label": "寫作版",
-        "body": "The essay juxtaposes ambition with loneliness. 讀這句時，焦點在「並置、並列，常為了產生對比或凸顯關係」。"
+        "body": "The essay juxtaposes ambition with loneliness."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示並置、並列，常為了產生對比或凸顯關係。",
-        "use": "用在「不是只是放一起，而是並置兩者，讓差異或關係自己浮出來」這類判斷上。"
+        "use": "用在並置兩者，讓差異或關係自己浮出來時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 juxtapose 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/juxtapose",
         "label": "Merriam-Webster"
       }

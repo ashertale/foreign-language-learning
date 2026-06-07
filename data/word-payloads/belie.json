@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "難度",
-        "body": "The simple UI may <code>belie</code> the difficulty of the scheduling logic behind it. 這裡放在難度情境時，是在說表面印象不足以代表真實狀態，甚至會誤導讀者。"
+        "body": "The simple UI may <code>belie</code> the difficulty of the scheduling logic behind it."
       },
       {
         "label": "情緒",
-        "body": "A quiet voice can belie deep frustration. 這裡放在情緒情境時，是在說表面印象不足以代表真實狀態，甚至會誤導讀者。"
+        "body": "A quiet voice can belie deep frustration."
       },
       {
         "label": "資料",
-        "body": "在資料這類情境裡，<code>belie</code> 的重點是：不是直接說謊，而是表面看起來像 A，實際卻是 B。"
+        "body": "資料情境下，<code>belie</code> 不是直接說謊，而是表面看起來像 A，實際卻是 B。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 belie 整理成「表象騙人」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/belie",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 belie 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/belie",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.52"
     },
-    "coreIdea": "<code>scant</code> 描述一種「少得發緊」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>scant</code> 的少帶緊繃感：數量不只是偏低，而是接近不夠用。",
     "definition": {
-      "summary": "形容一種「少得發緊」的狀態、氣質或外觀。",
+      "summary": "形容數量很少、勉強不足，常讓人感到不夠。",
       "contrast": {
         "word": "Little",
         "note": "<code>little</code> 只是少；<code>scant</code> 更有『少得不太夠』的緊張感。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>scant</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "scant evidence",
           "register": "研究 / 法律",
-          "note": "這個搭配常用來寫證據、時間、衣料或資源少到邊邊緊繃。"
+          "note": "證據、時間、衣料或資源少到邊邊緊繃。"
         },
         {
           "phrase": "scant resources",
           "register": "管理 / 報導",
-          "note": "這個搭配常用來寫證據、時間、衣料或資源少到邊邊緊繃。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>scant</code> 整理成「少得發緊」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/scant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>scant</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/scant",
         "label": "Merriam-Webster"
       }

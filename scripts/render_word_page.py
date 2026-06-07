@@ -28,6 +28,7 @@ BANNED_META_PHRASES = (
     "這時重點是精準",
     "這裡用它表達",
     "這層意思",
+    "的重點是：",
     "需要區分相近概念或避免過度泛化",
     "想表達「",
     "這種概念時",
@@ -45,6 +46,24 @@ BANNED_META_PHRASES = (
     "這句把",
     "核心就是",
     "就是核心",
+    "重點不只在動作發生",
+    "怎麼改變局面",
+    "表示把事情往",
+    "或讓局面出現這種結果",
+    "這裡放在",
+    "這裡放 <code>",
+    "這個搭配常用來寫",
+    "它不只是在貼表面標籤",
+    "氣壓、方向或隱含張力",
+    "狀態、氣質或外觀",
+    "這個情境凸顯",
+    "讀這句時，焦點在",
+    "學習概念",
+    "用在「",
+    "這類判斷上",
+    "狀態、力量、場面或事物",
+    "抽象感受壓縮",
+    "可指認的名詞",
 )
 SOURCE_POLICY_ORDER = (
     "dictionary-pronunciation",
@@ -180,6 +199,18 @@ def ensure_narrative_voice(value: str, label: str) -> None:
     for phrase in BANNED_META_PHRASES:
         if phrase in normalized:
             raise RenderError(f"{label} still reads like a study script: {phrase}")
+
+
+def ensure_no_repeated_prose(entries: list[tuple[str, str]], label: str) -> None:
+    seen: dict[str, str] = {}
+    for entry_label, value in entries:
+        normalized = plain_text(value).lower()
+        if not normalized:
+            continue
+        previous = seen.get(normalized)
+        if previous is not None:
+            raise RenderError(f"{label} repeats the same prose in {previous} and {entry_label}")
+        seen[normalized] = entry_label
 
 
 def normalize_source_label(label: str) -> str:
@@ -396,9 +427,13 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
             raise RenderError(
                 f"page.usage[{index}].body looks truncated; keep more than {MIN_USAGE_BODY_TEXT} plain-text characters"
             )
-        ensure_cjk(body, f"page.usage[{index}].body")
         ensure_narrative_voice(f"{label} {body}", f"page.usage[{index}]")
+        ensure_cjk(f"{label} {body}", f"page.usage[{index}]")
         usage_items.append({"label": label, "body": body})
+    ensure_no_repeated_prose(
+        [(f"page.usage[{index}].body", item["body"]) for index, item in enumerate(usage_items)],
+        "page.usage",
+    )
 
     collocations_raw = require_object(page.get("collocations"), "page.collocations")
     collocation_note = require_optional_string(collocations_raw.get("note"), "page.collocations.note")
@@ -412,10 +447,19 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
         item_obj = require_object(item, f"page.collocations.items[{index}]")
         phrase = require_string(item_obj.get("phrase"), f"page.collocations.items[{index}].phrase")
         register = require_string(item_obj.get("register"), f"page.collocations.items[{index}].register")
-        note = require_string(item_obj.get("note"), f"page.collocations.items[{index}].note")
-        ensure_cjk(note, f"page.collocations.items[{index}].note")
-        ensure_narrative_voice(note, f"page.collocations.items[{index}].note")
+        note = require_optional_string(item_obj.get("note"), f"page.collocations.items[{index}].note")
+        if note:
+            ensure_cjk(note, f"page.collocations.items[{index}].note")
+            ensure_narrative_voice(note, f"page.collocations.items[{index}].note")
         collocations.append({"phrase": phrase, "register": register, "note": note})
+    ensure_no_repeated_prose(
+        [
+            (f"page.collocations.items[{index}].note", item["note"])
+            for index, item in enumerate(collocations)
+            if item["note"]
+        ],
+        "page.collocations.items",
+    )
 
     neighbors_raw = require_object(page.get("neighbors"), "page.neighbors")
     self_entry = require_object(neighbors_raw.get("self"), "page.neighbors.self")
@@ -446,6 +490,10 @@ def validate_page(payload: dict[str, Any], target: dict[str, str]) -> dict[str, 
         ensure_cjk(value, f"page.modernUse[{index}]")
         ensure_narrative_voice(value, f"page.modernUse[{index}]")
         modern_use.append(value)
+    ensure_no_repeated_prose(
+        [(f"page.modernUse[{index}]", value) for index, value in enumerate(modern_use)],
+        "page.modernUse",
+    )
 
     sources_raw = require_object(page.get("sources"), "page.sources")
     dictionary_raw = require_object(sources_raw.get("dictionary"), "page.sources.dictionary")

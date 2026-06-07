@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "神經",
-        "body": "As the outage dragged on, nerves began to <code>fray</code>. 這裡放在神經情境時，是在說壓力或摩擦讓某物從邊緣開始鬆散、失去完整。"
+        "body": "As the outage dragged on, nerves began to <code>fray</code>."
       },
       {
         "label": "邊緣",
-        "body": "The cable sheath frayed at the edges after months of rubbing. 這裡放在邊緣情境時，是在說壓力或摩擦讓某物從邊緣開始鬆散、失去完整。"
+        "body": "The cable sheath frayed at the edges after months of rubbing."
       },
       {
         "label": "耐心",
-        "body": "在耐心這類情境裡，<code>fray</code> 的重點是：不是突然斷，而是邊緣慢慢起毛、失去整齊。"
+        "body": "耐心情境下，<code>fray</code> 不是突然斷，而是邊緣慢慢起毛、失去整齊。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 fray 整理成「邊緣起毛」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/fray",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 fray 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/fray",
         "label": "Merriam-Webster"
       }

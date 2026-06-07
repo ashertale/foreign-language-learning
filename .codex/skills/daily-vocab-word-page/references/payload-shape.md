@@ -7,6 +7,8 @@
 - `page` 是內容主體；把它當成段落與區塊的語意容器，不是逐格填空。
 - `usage`、`collocations.items`、`neighbors.others`、`modernUse` 都是可伸縮陣列；依單字本身決定重點，不要為了湊版面硬塞句子。
 - `usage` 是整張卡片的語意單位，`label + body` 共同提供學習語境；body 應保持自然例句，不需要為了含中文而補固定句尾。
+- 不要把語意欄位寫成模板提示或空話；禁止 `這裡放在...情境時`、`這個搭配常用來寫...`、`用在「...」這類判斷上`、`本頁把...整理成...學習概念` 這類文字。
+- 同一頁內不要反覆用同一種解釋句型。`coreIdea`、`usage`、`collocations`、`neighbors`、`modernUse` 應各自承擔不同功能。
 - `page.sources.dictionary` 與 `page.sources.modern` 是 learner-facing source notes；`sourceAudit` 則是驗證與追蹤來源政策用的機器可檢查資料。
 - 參考框使用 `page.sources.dictionary` 作為唯一的 learner-facing dictionary source 欄位。
 

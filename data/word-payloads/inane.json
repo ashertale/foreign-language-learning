@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "評論",
-        "body": "An <code>inane</code> comment can derail a serious thread by lowering the room's attention. 這裡放在評論情境時，是在說話語或內容空到沒有思想價值，甚至顯得愚蠢。"
+        "body": "An <code>inane</code> comment can derail a serious thread by lowering the room's attention."
       },
       {
         "label": "閒聊",
-        "body": "Inane chatter becomes exhausting when people need concentration. 這裡放在閒聊情境時，是在說話語或內容空到沒有思想價值，甚至顯得愚蠢。"
+        "body": "Inane chatter becomes exhausting when people need concentration."
       },
       {
         "label": "政策",
-        "body": "在政策這類情境裡，<code>inane</code> 的重點是：不是簡單，而是空到幾乎沒有內容。"
+        "body": "政策情境下，<code>inane</code> 不是簡單，而是空到幾乎沒有內容。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 inane 整理成「空洞無意義」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/inane",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inane 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inane",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "短暫平靜",
-        "body": "There was a brief <code>lull</code> after the first wave of tickets. 這裡放在短暫平靜情境時，是在說動態場面中出現短暫安靜或低潮。"
+        "body": "There was a brief <code>lull</code> after the first wave of tickets."
       },
       {
         "label": "活動",
-        "body": "A lull in activity can be a good time to repair the process. 這裡放在活動情境時，是在說動態場面中出現短暫安靜或低潮。"
+        "body": "A lull in activity can be a good time to repair the process."
       },
       {
         "label": "風暴前",
-        "body": "在風暴前這類情境裡，<code>lull</code> 的重點是：不是結束，而是先短暫安靜下來。"
+        "body": "風暴前情境下，<code>lull</code> 不是結束，而是先短暫安靜下來。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 lull 整理成「短暫平靜」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/lull",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 lull 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/lull",
         "label": "Merriam-Webster"
       }

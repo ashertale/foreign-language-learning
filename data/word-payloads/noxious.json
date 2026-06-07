@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.29"
     },
-    "coreIdea": "<code>noxious</code> 描述一種「有毒有害」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>noxious</code> 不只是令人不舒服，而是會造成實際傷害；氣味、文化或影響都可能帶這種毒性。",
     "definition": {
-      "summary": "形容一種「有毒有害」的狀態、氣質或外觀。",
+      "summary": "形容有害、有毒或會傷人的東西，不只是 unpleasant。",
       "contrast": {
         "word": "Toxic",
         "note": "<code>toxic</code> 現代用法很廣；<code>noxious</code> 更書面，也更帶生理或制度性傷害感。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "環境",
-        "body": "Workers were exposed to <code>noxious</code> fumes after the leak. 這裡放在環境情境時，是在說氣體、環境、言論或影響不只是 unpleasant，而是真的傷人。"
+        "body": "Workers were exposed to <code>noxious</code> fumes after the leak."
       },
       {
         "label": "文化",
-        "body": "A <code>noxious</code> blame culture can make honest reporting almost impossible. 這裡放在文化情境時，是在說氣體、環境、言論或影響不只是 unpleasant，而是真的傷人。"
+        "body": "A <code>noxious</code> blame culture can make honest reporting almost impossible."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>noxious</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "noxious fumes",
           "register": "安全 / 環境",
-          "note": "這個搭配常用來寫氣體、環境、言論或影響不只是 unpleasant，而是真的傷人。"
+          "note": "氣體、環境、言論或影響不只是 unpleasant，而是真的傷人。"
         },
         {
           "phrase": "noxious influence",
           "register": "評論 / 社會",
-          "note": "這個搭配常用來寫氣體、環境、言論或影響不只是 unpleasant，而是真的傷人。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>noxious</code> 整理成「有毒有害」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/noxious",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>noxious</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/noxious",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回答",
-        "body": "An <code>equivocal</code> answer can buy time while leaving everyone else uncertain. 這裡放在回答情境時，是在說含糊本身會影響判斷、承諾或責任。"
+        "body": "An <code>equivocal</code> answer can buy time while leaving everyone else uncertain."
       },
       {
         "label": "語言",
-        "body": "Equivocal language may be intentional when a document tries not to commit. 這裡放在語言情境時，是在說含糊本身會影響判斷、承諾或責任。"
+        "body": "Equivocal language may be intentional when a document tries not to commit."
       },
       {
         "label": "立場",
-        "body": "在立場這類情境裡，<code>equivocal</code> 的重點是：不是細膩，而是模稜到你抓不到他到底站哪邊。"
+        "body": "立場情境下，<code>equivocal</code> 不是細膩，而是模稜到你抓不到他到底站哪邊。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 equivocal 整理成「模稜兩可」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/equivocal",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 equivocal 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/equivocal",
         "label": "Merriam-Webster"
       }

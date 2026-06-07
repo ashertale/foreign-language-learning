@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "訊號",
-        "body": "An <code>intermittent</code> signal can waste days because every test run sees a different world. 這裡放在訊號情境時，是在說問題或現象反覆出現又消失，形成斷續模式。"
+        "body": "An <code>intermittent</code> signal can waste days because every test run sees a different world."
       },
       {
         "label": "疼痛",
-        "body": "Intermittent pain may be easier to ignore and harder to diagnose. 這裡放在疼痛情境時，是在說問題或現象反覆出現又消失，形成斷續模式。"
+        "body": "Intermittent pain may be easier to ignore and harder to diagnose."
       },
       {
         "label": "雨",
-        "body": "Intermittent rain changes plans without ever becoming a full storm. 這裡放在雨情境時，是在說問題或現象反覆出現又消失，形成斷續模式。"
+        "body": "Intermittent rain changes plans without ever becoming a full storm."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 intermittent 整理成「一陣一陣」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/intermittent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 intermittent 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/intermittent",
         "label": "Merriam-Webster"
       }

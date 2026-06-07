@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.62"
     },
-    "coreIdea": "<code>prelude</code> 指那種「序幕鋪墊」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>prelude</code> 指替後面真正主體暖場的開端。",
     "definition": {
-      "summary": "指那種「序幕鋪墊」的狀態、力量、場面或事物。",
+      "summary": "指替後面真正主體暖場的開端。",
       "contrast": {
         "word": "Introduction",
         "note": "<code>introduction</code> 很中性；<code>prelude</code> 更有序幕、預示和氣氛鋪陳感。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>prelude</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "prelude to war",
           "register": "歷史 / 評論",
-          "note": "這個搭配常用來寫某件更大的事發生前，那段先行鋪墊。"
+          "note": "某件更大的事發生前，那段先行鋪墊。"
         },
         {
           "phrase": "musical prelude",
           "register": "藝術 / 音樂",
-          "note": "這個搭配常用來寫某件更大的事發生前，那段先行鋪墊。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>prelude</code> 整理成「序幕鋪墊」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/prelude",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>prelude</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/prelude",
         "label": "Merriam-Webster"
       }

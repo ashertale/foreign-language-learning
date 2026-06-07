@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "觀眾",
-        "body": "The ending <code>gratified</code> the audience without betraying the story's darker questions. 這裡放在觀眾情境時，是在說某個明確期待、慾望或好奇心被回應而感到滿足。"
+        "body": "The ending <code>gratified</code> the audience without betraying the story's darker questions."
       },
       {
         "label": "好奇",
-        "body": "A small trace log can gratify curiosity before it becomes a full investigation. 這裡放在好奇情境時，是在說某個明確期待、慾望或好奇心被回應而感到滿足。"
+        "body": "A small trace log can gratify curiosity before it becomes a full investigation."
       },
       {
         "label": "即時",
-        "body": "Instantly. 這裡放在即時情境時，是在說某個明確期待、慾望或好奇心被回應而感到滿足。"
+        "body": "Instantly gratifying feedback can keep users engaged, but it can also reward shallow action."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 gratify 整理成「帶來滿足」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/gratify",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 gratify 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/gratify",
         "label": "Merriam-Webster"
       }

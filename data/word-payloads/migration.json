@@ -36,11 +36,11 @@
       },
       {
         "label": "系統",
-        "body": "System migration needs rollback, compatibility, and user communication. 這裡放在系統情境時，是在說從舊環境移到新環境，且需要維持可用性和語意連續。"
+        "body": "System migration needs rollback, compatibility, and user communication."
       },
       {
         "label": "計畫",
-        "body": "在計畫這類情境裡，<code>migration</code> 的重點是：不是複製資料，而是從舊環境搬到新環境並保持可用。"
+        "body": "計畫情境下，<code>migration</code> 不是複製資料，而是從舊環境搬到新環境並保持可用。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 migration 整理成「遷移、移動到新系統或地點」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/migration",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 migration 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/migration",
         "label": "Merriam-Webster"
       }

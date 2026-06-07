@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "文本版",
-        "body": "The essay explicates the metaphor rather than only translating it. 這個情境凸顯「詳細說明、闡釋，尤其是分析複雜文本或概念」。"
+        "body": "The essay explicates the metaphor rather than only translating it."
       },
       {
         "label": "設計版",
-        "body": "A good design note explicates why each trade-off was chosen. 讀這句時，焦點在「詳細說明、闡釋，尤其是分析複雜文本或概念」。"
+        "body": "A good design note explicates why each trade-off was chosen."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示詳細說明、闡釋，尤其是分析複雜文本或概念。",
-        "use": "用在「不是簡單解釋，而是把隱含結構攤開講清楚」這類判斷上。"
+        "use": "用在把隱含結構攤開講清楚時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 explicate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/explicate",
         "label": "Merriam-Webster"
       }

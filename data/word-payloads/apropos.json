@@ -32,7 +32,7 @@
     "usage": [
       {
         "label": "評論",
-        "body": "An <code>apropos</code> remark can save a drifting meeting by naming the right issue. 這裡放在評論情境時，是在說某話語、例子或時機剛好切中當下主題。"
+        "body": "An <code>apropos</code> remark can save a drifting meeting by naming the right issue."
       },
       {
         "label": "例子",
@@ -40,7 +40,7 @@
       },
       {
         "label": "時機",
-        "body": "Apropos timing can make advice land instead of bounce off. 這裡放在時機情境時，是在說某話語、例子或時機剛好切中當下主題。"
+        "body": "Apropos timing can make advice land instead of bounce off."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 apropos 整理成「切題剛好」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/apropos",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 apropos 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/apropos",
         "label": "Merriam-Webster"
       }

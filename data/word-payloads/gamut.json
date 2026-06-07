@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "範圍",
-        "body": "The questions ran the <code>gamut</code> from naming to deployment risk. 這裡放在範圍情境時，是在說你要表示某一類東西的整個範圍都被涵蓋。"
+        "body": "The questions ran the <code>gamut</code> from naming to deployment risk."
       },
       {
         "label": "服務",
-        "body": "The platform promises a full gamut of services, but users still care about the path between them. 這裡放在服務情境時，是在說你要表示某一類東西的整個範圍都被涵蓋。"
+        "body": "The platform promises a full gamut of services, but users still care about the path between them."
       },
       {
         "label": "情緒",
-        "body": "The team went through a gamut of emotions during the incident. 這裡放在情緒情境時，是在說你要表示某一類東西的整個範圍都被涵蓋。"
+        "body": "The team went through a gamut of emotions during the incident."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 gamut 整理成「完整光譜」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/gamut",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 gamut 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/gamut",
         "label": "Merriam-Webster"
       }

@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "辯論版",
-        "body": "The report rebuts the claim that the failure was caused by user error. 這個情境凸顯「反駁、駁斥，尤其是用證據或論點回應主張」。"
+        "body": "The report rebuts the claim that the failure was caused by user error."
       },
       {
         "label": "法律版",
-        "body": "The defense tried to <code>rebut</code> the prosecution's evidence. 讀這句時，焦點在「反駁、駁斥，尤其是用證據或論點回應主張」。"
+        "body": "The defense tried to <code>rebut</code> the prosecution's evidence."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示反駁、駁斥，尤其是用證據或論點回應主張。",
-        "use": "用在「不是普通不同意，而是用理由或證據反駁對方主張」這類判斷上。"
+        "use": "用在用理由或證據反駁對方主張時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 rebut 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/rebut",
         "label": "Merriam-Webster"
       }

@@ -36,11 +36,11 @@
       },
       {
         "label": "後果",
-        "body": "在後果這類情境裡，<code>inevitable</code> 的重點是：不是很可能，而是在目前條件下幾乎避不開。"
+        "body": "後果情境下，<code>inevitable</code> 不是很可能，而是在目前條件下幾乎避不開。"
       },
       {
         "label": "取捨",
-        "body": "Some tradeoffs are inevitable; pretending otherwise only hides the cost. 這裡放在取捨情境時，是在說目前條件已經讓某結果很難被阻止。"
+        "body": "Some tradeoffs are inevitable; pretending otherwise only hides the cost."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 inevitable 整理成「不可避免的、必然發生的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/inevitable",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inevitable 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inevitable",
         "label": "Merriam-Webster"
       }

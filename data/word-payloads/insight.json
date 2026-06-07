@@ -36,7 +36,7 @@
       },
       {
         "label": "學習",
-        "body": "Valuable insight often feels simple after it has been found. 這裡放在學習情境時，是在說資料或經驗被理解後，讓背後模式變得可見。"
+        "body": "Valuable insight often feels simple after it has been found."
       },
       {
         "label": "介系詞",
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 insight 整理成「洞察、深入理解」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/insight",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 insight 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/insight",
         "label": "Merriam-Webster"
       }

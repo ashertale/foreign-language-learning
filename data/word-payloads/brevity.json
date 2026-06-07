@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "訊息",
-        "body": "The <code>brevity</code> of the message made it easier to act under pressure. 這裡放在訊息情境時，是在說短小本身值得注意，尤其短得讓溝通更俐落。"
+        "body": "The <code>brevity</code> of the message made it easier to act under pressure."
       },
       {
         "label": "偏好",
-        "body": "People may appreciate brevity when they are scanning many updates. 這裡放在偏好情境時，是在說短小本身值得注意，尤其短得讓溝通更俐落。"
+        "body": "People may appreciate brevity when they are scanning many updates."
       },
       {
         "label": "配對",
-        "body": "在配對這類情境裡，<code>brevity</code> 的重點是：不是少講而已，而是把必要內容壓得短卻不失核心。"
+        "body": "配對情境下，<code>brevity</code> 不是少講而已，而是把必要內容壓得短卻不失核心。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 brevity 整理成「短小精煉」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/brevity",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 brevity 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/brevity",
         "label": "Merriam-Webster"
       }

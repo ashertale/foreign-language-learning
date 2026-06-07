@@ -36,11 +36,11 @@
       },
       {
         "label": "評估",
-        "body": "An evaluation criterion should tell reviewers what evidence matters。 這裡放在評估情境時，是在說需要明確判斷尺，而不只是描述需求。"
+        "body": "An evaluation criterion should tell reviewers what evidence matters。"
       },
       {
         "label": "選擇",
-        "body": "Selection criteria make hiring less dependent on gut feeling。 這裡放在選擇情境時，是在說需要明確判斷尺，而不只是描述需求。"
+        "body": "Selection criteria make hiring less dependent on gut feeling。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 criterion 整理成「評估或判斷用的標準」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/criterion",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 criterion 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/criterion",
         "label": "Merriam-Webster"
       }

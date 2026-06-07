@@ -36,11 +36,11 @@
       },
       {
         "label": "傳聞",
-        "body": "Rumors abound when information is scarce and stakes are high. 這裡放在傳聞情境時，是在說某類事物大量存在、到處可見。"
+        "body": "Rumors abound when information is scarce and stakes are high."
       },
       {
         "label": "自然",
-        "body": "Wildflowers. 這裡放在自然情境時，是在說某類事物大量存在、到處可見。"
+        "body": "Wildflowers abound along the trail after the spring rain."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 abound 整理成「大量存在」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/abound",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 abound 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/abound",
         "label": "Merriam-Webster"
       }

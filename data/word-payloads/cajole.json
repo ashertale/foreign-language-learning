@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "幫忙",
-        "body": "She <code>cajoled</code> a senior engineer into reviewing the patch after everyone else had gone home. 這裡放在幫忙情境時，是在說說服方式不是命令，而是靠好話、耐心或情緒技巧慢慢推動。"
+        "body": "She <code>cajoled</code> a senior engineer into reviewing the patch after everyone else had gone home."
       },
       {
         "label": "回應",
-        "body": "You may have to cajole a response from a busy stakeholder without making the thread hostile. 這裡放在回應情境時，是在說說服方式不是命令，而是靠好話、耐心或情緒技巧慢慢推動。"
+        "body": "You may have to cajole a response from a busy stakeholder without making the thread hostile."
       },
       {
         "label": "團隊",
-        "body": "A manager can cajole the team for a while, but charm cannot replace planning. 這裡放在團隊情境時，是在說說服方式不是命令，而是靠好話、耐心或情緒技巧慢慢推動。"
+        "body": "A manager can cajole the team for a while, but charm cannot replace planning."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cajole 整理成「半哄半推」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/cajole",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 cajole 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/cajole",
         "label": "Merriam-Webster"
       }

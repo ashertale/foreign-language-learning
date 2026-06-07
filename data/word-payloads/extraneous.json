@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "細節",
-        "body": "Extraneous. 這裡放在細節情境時，是在說某物不屬於當前目的，還可能干擾理解或測量。"
+        "body": "Extraneous details in a bug report can bury the signal reviewers need."
       },
       {
         "label": "變因",
-        "body": "Control extraneous variables before claiming the new algorithm caused the gain. 這裡放在變因情境時，是在說某物不屬於當前目的，還可能干擾理解或測量。"
+        "body": "Control extraneous variables before claiming the new algorithm caused the gain."
       },
       {
         "label": "噪音",
-        "body": "Extraneous noise in the signal made the pattern look less stable than it was. 這裡放在噪音情境時，是在說某物不屬於當前目的，還可能干擾理解或測量。"
+        "body": "Extraneous noise in the signal made the pattern look less stable than it was."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 extraneous 整理成「多餘無關」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/extraneous",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 extraneous 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/extraneous",
         "label": "Merriam-Webster"
       }

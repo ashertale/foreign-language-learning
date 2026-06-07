@@ -36,7 +36,7 @@
       },
       {
         "label": "組織",
-        "body": "An employee may <code>comply</code> with a policy while privately disagreeing with it。 這裡放在組織情境時，是在說重點是是否符合外部要求，而不是是否贊成要求。"
+        "body": "An employee may <code>comply</code> with a policy while privately disagreeing with it。"
       },
       {
         "label": "失敗",
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 comply 整理成「遵從外部要求或規範」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/comply",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 comply 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/comply",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.51"
     },
-    "coreIdea": "<code>rabid</code> 描述一種「狂熱失控」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>rabid</code> 把熱情推到失控和攻擊性；它常用來批評狂熱支持或敵意。",
     "definition": {
-      "summary": "形容一種「狂熱失控」的狀態、氣質或外觀。",
+      "summary": "形容狂熱、激烈到不理性，常帶攻擊性。",
       "contrast": {
         "word": "Fervent",
         "note": "<code>fervent</code> 可以是正面的熱誠；<code>rabid</code> 則常帶失衡與攻擊性。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>rabid</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "rabid fan base",
           "register": "媒體 / 文化",
-          "note": "這個搭配常用來寫支持、反對或情緒強度高到近乎失控。"
+          "note": "支持、反對或情緒強度高到近乎失控。"
         },
         {
           "phrase": "rabid opposition",
           "register": "政治 / 評論",
-          "note": "這個搭配常用來寫支持、反對或情緒強度高到近乎失控。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>rabid</code> 整理成「狂熱失控」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/rabid",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>rabid</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/rabid",
         "label": "Merriam-Webster"
       }

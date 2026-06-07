@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.18"
     },
-    "coreIdea": "<code>nexus</code> 指那種「交會樞紐」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>nexus</code> 指多條線真正交會的樞紐點。",
     "definition": {
-      "summary": "指那種「交會樞紐」的狀態、力量、場面或事物。",
+      "summary": "指多條線真正交會的樞紐點。",
       "contrast": {
         "word": "Link",
         "note": "<code>link</code> 是一條連線；<code>nexus</code> 更像多條線真正交會成樞紐。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "政策",
-        "body": "Housing sits at the <code>nexus</code> of wages, zoning, transit, and care work. 這裡放在政策情境時，是在說多種力量、系統或議題不是並列，而是在一點上纏到一起。"
+        "body": "Housing sits at the <code>nexus</code> of wages, zoning, transit, and care work."
       },
       {
         "label": "工程",
-        "body": "The incident was caused by a <code>nexus</code> of timing bugs rather than one isolated fault. 這裡放在工程情境時，是在說多種力量、系統或議題不是並列，而是在一點上纏到一起。"
+        "body": "The incident was caused by a <code>nexus</code> of timing bugs rather than one isolated fault."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>nexus</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "nexus of issues",
           "register": "分析 / 政策",
-          "note": "這個搭配常用來寫多種力量、系統或議題不是並列，而是在一點上纏到一起。"
+          "note": "多種力量、系統或議題不是並列，而是在一點上纏到一起。"
         },
         {
           "phrase": "causal nexus",
           "register": "法律 / 研究",
-          "note": "這個搭配常用來寫多種力量、系統或議題不是並列，而是在一點上纏到一起。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nexus</code> 整理成「交會樞紐」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/nexus",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nexus</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/nexus",
         "label": "Merriam-Webster"
       }

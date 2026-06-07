@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "緊張",
-        "body": "在緊張這類情境裡，<code>dissipate</code> 的重點是：不是瞬間消失，而是慢慢散開、散淡。"
+        "body": "緊張情境下，<code>dissipate</code> 不是瞬間消失，而是慢慢散開、散淡。"
       },
       {
         "label": "熱",
-        "body": "The enclosure must dissipate heat before temperature becomes a reliability issue. 這裡放在熱情境時，是在說某種集中能量、情緒或物質逐漸散掉、變弱。"
+        "body": "The enclosure must dissipate heat before temperature becomes a reliability issue."
       },
       {
         "label": "霧",
-        "body": "Mist dissipates as sunlight and air movement break its density. 這裡放在霧情境時，是在說某種集中能量、情緒或物質逐漸散掉、變弱。"
+        "body": "Mist dissipates as sunlight and air movement break its density."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 dissipate 整理成「慢慢散開」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/dissipate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 dissipate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/dissipate",
         "label": "Merriam-Webster"
       }

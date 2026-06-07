@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>precursor</code> 指那種「先行前驅」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>precursor</code> 指後面那件事的先行版本或徵候。",
     "definition": {
-      "summary": "指那種「先行前驅」的狀態、力量、場面或事物。",
+      "summary": "指後面那件事的先行版本或徵候。",
       "contrast": {
         "word": "Prototype",
         "note": "<code>prototype</code> 偏具體原型；<code>precursor</code> 可是前身、前兆或前驅。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>precursor</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "chemical precursor",
           "register": "科學 / 醫療",
-          "note": "這個搭配常用來寫某事物先出現，並替後續更成熟或更大的東西鋪路。"
+          "note": "某事物先出現，並替後續更成熟或更大的東西鋪路。"
         },
         {
           "phrase": "precursor to reform",
           "register": "歷史 / 政策",
-          "note": "這個搭配常用來寫某事物先出現，並替後續更成熟或更大的東西鋪路。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>precursor</code> 整理成「先行前驅」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/precursor",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>precursor</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/precursor",
         "label": "Merriam-Webster"
       }

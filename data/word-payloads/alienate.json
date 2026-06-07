@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "使用者",
-        "body": "在使用者這類情境裡，<code>alienate</code> 的重點是：不是一時不合，而是讓對方慢慢覺得自己不再被接納。"
+        "body": "使用者情境下，<code>alienate</code> 不是一時不合，而是讓對方慢慢覺得自己不再被接納。"
       },
       {
         "label": "觀眾",
-        "body": "A tone-deaf joke may alienate the audience before the main point arrives. 這裡放在觀眾情境時，是在說行為或設計把原本可能支持或靠近的人推遠。"
+        "body": "A tone-deaf joke may alienate the audience before the main point arrives."
       },
       {
         "label": "盟友",
-        "body": "Ignoring feedback can alienate close allies more than open disagreement does. 這裡放在盟友情境時，是在說行為或設計把原本可能支持或靠近的人推遠。"
+        "body": "Ignoring feedback can alienate close allies more than open disagreement does."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 alienate 整理成「使人疏離」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/alienate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 alienate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/alienate",
         "label": "Merriam-Webster"
       }

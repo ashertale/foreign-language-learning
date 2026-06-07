@@ -36,11 +36,11 @@
       },
       {
         "label": "流程",
-        "body": "An opaque process reduces trust because people cannot see how decisions are made. 這裡放在流程情境時，是在說不可見性本身造成理解、信任或維護困難。"
+        "body": "An opaque process reduces trust because people cannot see how decisions are made."
       },
       {
         "label": "系統",
-        "body": "An opaque system may work, but it is hard to debug or audit. 這裡放在系統情境時，是在說不可見性本身造成理解、信任或維護困難。"
+        "body": "An opaque system may work, but it is hard to debug or audit."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 opaque 整理成「不透明、難以理解或不可檢視的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/opaque",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 opaque 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/opaque",
         "label": "Merriam-Webster"
       }

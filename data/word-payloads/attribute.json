@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "分析版",
-        "body": "The team attributed the crash to a race condition. 這個情境凸顯「歸因、歸屬，把某事連到原因或來源」。"
+        "body": "The team attributed the crash to a race condition."
       },
       {
         "label": "寫作版",
-        "body": "The quote is often attributed to the wrong author. 讀這句時，焦點在「歸因、歸屬，把某事連到原因或來源」。"
+        "body": "The quote is often attributed to the wrong author."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示歸因、歸屬，把某事連到原因或來源。",
-        "use": "用在「不是只看到結果，而是把原因、來源或功勞歸到某處」這類判斷上。"
+        "use": "用在把原因、來源或功勞歸到某處時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 attribute 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/attribute",
         "label": "Merriam-Webster"
       }

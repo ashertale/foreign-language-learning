@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.56"
     },
-    "coreIdea": "<code>nomadic</code> 描述一種「遷移不定」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>nomadic</code> 不是偶爾旅行，而是生活、工作或文化本身以移動為常態，沒有長期固定駐點。",
     "definition": {
-      "summary": "形容一種「遷移不定」的狀態、氣質或外觀。",
+      "summary": "形容經常遷移、沒有固定居所或固定工作地點的生活型態。",
       "contrast": {
         "word": "Mobile",
         "note": "<code>mobile</code> 是可移動；<code>nomadic</code> 更像生活方式本身在遷徙。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "工作",
-        "body": "His <code>nomadic</code> schedule made deep routine harder than he expected. 這裡放在工作情境時，是在說生活、工作或文化形態不長期固定於同一處。"
+        "body": "His <code>nomadic</code> schedule made deep routine harder than he expected."
       },
       {
         "label": "文化",
-        "body": "The book traces how <code>nomadic</code> traditions adapt to modern borders. 這裡放在文化情境時，是在說生活、工作或文化形態不長期固定於同一處。"
+        "body": "The book traces how <code>nomadic</code> traditions adapt to modern borders."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>nomadic</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "nomadic lifestyle",
           "register": "生活 / 報導",
-          "note": "這個搭配常用來寫生活、工作或文化形態不長期固定於同一處。"
+          "note": "生活、工作或文化形態不長期固定於同一處。"
         },
         {
           "phrase": "nomadic culture",
           "register": "歷史 / 人類學",
-          "note": "這個搭配常用來寫生活、工作或文化形態不長期固定於同一處。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nomadic</code> 整理成「遷移不定」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/nomadic",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nomadic</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/nomadic",
         "label": "Merriam-Webster"
       }

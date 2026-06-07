@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "城市",
-        "body": "Urban <code>ennui</code> can appear in a place full of people and still feel emotionally empty. 這裡放在城市情境時，是在說無聊已經接近精神疲乏或存在空虛，而不是一時沒事做。"
+        "body": "Urban <code>ennui</code> can appear in a place full of people and still feel emotionally empty."
       },
       {
         "label": "陷入",
-        "body": "在陷入這類情境裡，<code>ennui</code> 的重點是：不是一時無聊，而是整個人對周圍失去鮮味。"
+        "body": "陷入情境下，<code>ennui</code> 不是一時無聊，而是整個人對周圍失去鮮味。"
       },
       {
         "label": "現代",
-        "body": "Modern ennui is not solved by adding more notifications. 這裡放在現代情境時，是在說無聊已經接近精神疲乏或存在空虛，而不是一時沒事做。"
+        "body": "Modern ennui is not solved by adding more notifications."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ennui 整理成「深層倦怠」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/ennui",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 ennui 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/ennui",
         "label": "Merriam-Webster"
       }

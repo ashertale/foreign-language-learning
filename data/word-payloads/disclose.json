@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "法務版",
-        "body": "Companies must <code>disclose</code> material risks to investors. 這個情境凸顯「公開、揭露原本未公開的資訊」。"
+        "body": "Companies must <code>disclose</code> material risks to investors."
       },
       {
         "label": "資安版",
-        "body": "Responsible disclosure gives vendors time to fix a vulnerability. 讀這句時，焦點在「公開、揭露原本未公開的資訊」。"
+        "body": "Responsible disclosure gives vendors time to fix a vulnerability."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示公開、揭露原本未公開的資訊。",
-        "use": "用在「不是隨便說出來，而是把原本未公開的資訊正式揭露」這類判斷上。"
+        "use": "用在把原本未公開的資訊正式揭露時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 disclose 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/disclose",
         "label": "Merriam-Webster"
       }

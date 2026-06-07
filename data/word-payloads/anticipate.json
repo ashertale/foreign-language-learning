@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "專案版",
-        "body": "Good planning <code>anticipates</code> delays before they become blockers. 這個情境凸顯「預期、預料，常帶有提前準備的意味」。"
+        "body": "Good planning <code>anticipates</code> delays before they become blockers."
       },
       {
         "label": "產品版",
-        "body": "A helpful UI can <code>anticipate</code> what the user needs next. 讀這句時，焦點在「預期、預料，常帶有提前準備的意味」。"
+        "body": "A helpful UI can <code>anticipate</code> what the user needs next."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示預期、預料，常帶有提前準備的意味。",
-        "use": "用在「不是等事情發生，而是提前看見可能性並準備反應」這類判斷上。"
+        "use": "用在提前看見可能性並準備反應時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 anticipate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/anticipate",
         "label": "Merriam-Webster"
       }

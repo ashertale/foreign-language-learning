@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "2.74"
     },
-    "coreIdea": "<code>shoddy</code> 描述一種「粗劣偷工」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>shoddy</code> 指品質粗劣到看得出不講究；便宜不是問題，偷工和馬虎才是。",
     "definition": {
-      "summary": "形容一種「粗劣偷工」的狀態、氣質或外觀。",
+      "summary": "形容做工、材料或處理方式粗糙低劣。",
       "contrast": {
         "word": "Cheap",
         "note": "<code>cheap</code> 只是便宜；<code>shoddy</code> 更直接批評品質差。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>shoddy</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "shoddy workmanship",
           "register": "製造 / 日常",
-          "note": "這個搭配常用來寫品質、工法或處理方式明顯馬虎。"
+          "note": "品質、工法或處理方式明顯馬虎。"
         },
         {
           "phrase": "shoddy reporting",
           "register": "媒體 / 評論",
-          "note": "這個搭配常用來寫品質、工法或處理方式明顯馬虎。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>shoddy</code> 整理成「粗劣偷工」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/shoddy",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>shoddy</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/shoddy",
         "label": "Merriam-Webster"
       }

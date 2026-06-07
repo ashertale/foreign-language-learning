@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.49"
     },
-    "coreIdea": "<code>surly</code> 描述一種「板臉粗暴」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>surly</code> 的安靜帶不友善；表情、語氣或反應硬到讓人不想靠近。",
     "definition": {
-      "summary": "形容一種「板臉粗暴」的狀態、氣質或外觀。",
+      "summary": "形容人粗暴、不友善、板著臉或愛發脾氣。",
       "contrast": {
         "word": "Grumpy",
         "note": "<code>grumpy</code> 可能只是心情差；<code>surly</code> 更直接帶出不友善。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>surly</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "surly attitude",
           "register": "人際 / 評論",
-          "note": "這個搭配常用來寫人態度粗、臉色硬、讓人很難靠近。"
+          "note": "人態度粗、臉色硬、讓人很難靠近。"
         },
         {
           "phrase": "surly response",
           "register": "服務 / 敘事",
-          "note": "這個搭配常用來寫人態度粗、臉色硬、讓人很難靠近。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>surly</code> 整理成「板臉粗暴」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/surly",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>surly</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/surly",
         "label": "Merriam-Webster"
       }

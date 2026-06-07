@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "職場版",
-        "body": "Pay should be <code>commensurate</code> with responsibility. 這個情境凸顯「程度、大小或價值相稱、成比例」。"
+        "body": "Pay should be <code>commensurate</code> with responsibility."
       },
       {
         "label": "風險版",
-        "body": "Controls must be <code>commensurate</code> with the level of risk. 讀這句時，焦點在「程度、大小或價值相稱、成比例」。"
+        "body": "Controls must be <code>commensurate</code> with the level of risk."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容程度、大小或價值相稱、成比例。",
-        "use": "用在「不是剛好一樣，而是大小、程度或報酬與條件相稱」這類判斷上。"
+        "use": "用在大小、程度或報酬與條件相稱時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 commensurate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/commensurate",
         "label": "Merriam-Webster"
       }

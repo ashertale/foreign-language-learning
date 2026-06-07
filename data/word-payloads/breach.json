@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "法律版",
-        "body": "A <code>breach</code> of contract means one side failed to meet its obligations. 這個情境凸顯「違反規則或合約，也可指破口、漏洞或安全事件」。"
+        "body": "A <code>breach</code> of contract means one side failed to meet its obligations."
       },
       {
         "label": "資安版",
-        "body": "A data <code>breach</code> exposes information that should have stayed protected. 讀這句時，焦點在「違反規則或合約，也可指破口、漏洞或安全事件」。"
+        "body": "A data <code>breach</code> exposes information that should have stayed protected."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示違反規則或合約，也可指破口、漏洞或安全事件。",
-        "use": "用在「不是普通問題，而是邊界、規則或信任被打開了一個缺口」這類判斷上。"
+        "use": "用在邊界、規則或信任被打開了一個缺口時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 breach 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/breach",
         "label": "Merriam-Webster"
       }

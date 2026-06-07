@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.67"
     },
-    "coreIdea": "<code>repertoire</code> 指那種「可用本領庫」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>repertoire</code> 指你手上那套真正能拿出來用的本事。",
     "definition": {
-      "summary": "指那種「可用本領庫」的狀態、力量、場面或事物。",
+      "summary": "指你手上那套真正能拿出來用的本事。",
       "contrast": {
         "word": "Inventory",
         "note": "<code>inventory</code> 是庫存清單；<code>repertoire</code> 更像隨時可上場的本領。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>repertoire</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "expand one's repertoire",
           "register": "學習 / 表演",
-          "note": "這個搭配常用來寫某人或某團體手上能熟練拿出來的技能、作品或招式集合。"
+          "note": "某人或某團體手上能熟練拿出來的技能、作品或招式集合。"
         },
         {
           "phrase": "repertoire of skills",
           "register": "職涯 / 教育",
-          "note": "這個搭配常用來寫某人或某團體手上能熟練拿出來的技能、作品或招式集合。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>repertoire</code> 整理成「可用本領庫」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/repertoire",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>repertoire</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/repertoire",
         "label": "Merriam-Webster"
       }

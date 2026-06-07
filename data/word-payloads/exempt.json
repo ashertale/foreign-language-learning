@@ -36,11 +36,11 @@
       },
       {
         "label": "稅務",
-        "body": "A tax-exempt organization is legally excused from certain taxes. 這裡放在稅務情境時，是在說某對象被正式免除通常適用的要求。"
+        "body": "A tax-exempt organization is legally excused from certain taxes."
       },
       {
         "label": "狀態",
-        "body": "Exempt status should be auditable; otherwise it invites abuse. 這裡放在狀態情境時，是在說某對象被正式免除通常適用的要求。"
+        "body": "Exempt status should be auditable; otherwise it invites abuse."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 exempt 整理成「豁免的、不受某規則約束的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/exempt",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 exempt 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/exempt",
         "label": "Merriam-Webster"
       }

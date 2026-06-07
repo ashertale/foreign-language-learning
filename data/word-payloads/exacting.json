@@ -36,11 +36,11 @@
       },
       {
         "label": "標準",
-        "body": "Exacting standards can protect quality, but they also require enough time and support. 這裡放在標準情境時，是在說要求精準、標準嚴、細節不容易被放過。"
+        "body": "Exacting standards can protect quality, but they also require enough time and support."
       },
       {
         "label": "需求",
-        "body": "在需求這類情境裡，<code>exacting</code> 的重點是：不是普通困難，而是標準很高、容錯很小。"
+        "body": "需求情境下，<code>exacting</code> 不是普通困難，而是標準很高、容錯很小。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 exacting 整理成「要求嚴格、標準精細而吃力」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/exacting",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 exacting 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/exacting",
         "label": "Merriam-Webster"
       }

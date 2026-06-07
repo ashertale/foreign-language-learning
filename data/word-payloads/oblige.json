@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "正式版",
-        "body": "The contract obliges the vendor to provide updates. 這個情境凸顯「迫使、使有義務，也可表示幫忙、使人感激」。"
+        "body": "The contract obliges the vendor to provide updates."
       },
       {
         "label": "禮貌版",
-        "body": "Could you oblige me with a quick review? 讀這句時，焦點在「迫使、使有義務，也可表示幫忙、使人感激」。"
+        "body": "Could you oblige me with a quick review?"
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示迫使、使有義務，也可表示幫忙、使人感激。",
-        "use": "用在「不是自願想做，而是因義務、禮貌或壓力而必須做」這類判斷上。"
+        "use": "用在因義務、禮貌或壓力而必須做時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 oblige 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/oblige",
         "label": "Merriam-Webster"
       }

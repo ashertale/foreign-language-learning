@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.18"
     },
-    "coreIdea": "<code>mutable</code> 描述一種「可被改寫」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>mutable</code> 指狀態、資料或安排仍可被改寫；同一個東西沒有被鎖成最後版本。",
     "definition": {
-      "summary": "形容一種「可被改寫」的狀態、氣質或外觀。",
+      "summary": "形容可變、可修改，常用於資料、狀態、安排或特質。",
       "contrast": {
         "word": "Immutable",
         "note": "<code>immutable</code> 是刻意不讓它變；<code>mutable</code> 則保留可被改寫的空間。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "工程",
-        "body": "A <code>mutable</code> object is easy to update but harder to reason about in concurrent code. 這裡放在工程情境時，是在說資料、狀態或安排能被後續修改。"
+        "body": "A <code>mutable</code> object is easy to update but harder to reason about in concurrent code."
       },
       {
         "label": "制度",
-        "body": "The schedule stayed <code>mutable</code> until the final supplier confirmed capacity. 這裡放在制度情境時，是在說資料、狀態或安排能被後續修改。"
+        "body": "The schedule stayed <code>mutable</code> until the final supplier confirmed capacity."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>mutable</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "mutable state",
           "register": "工程 / 軟體",
-          "note": "這個搭配常用來寫資料、狀態或安排能被後續修改。"
+          "note": "資料、狀態或安排能被後續修改。"
         },
         {
           "phrase": "mutable object",
           "register": "工程 / 程式設計",
-          "note": "這個搭配常用來寫資料、狀態或安排能被後續修改。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>mutable</code> 整理成「可被改寫」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/mutable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>mutable</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/mutable",
         "label": "Merriam-Webster"
       }

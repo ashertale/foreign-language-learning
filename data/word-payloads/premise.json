@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.54"
     },
-    "coreIdea": "<code>premise</code> 指那種「前提基座」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>premise</code> 指結論站在上面的那塊地板。",
     "definition": {
-      "summary": "指那種「前提基座」的狀態、力量、場面或事物。",
+      "summary": "指結論站在上面的那塊地板。",
       "contrast": {
         "word": "Assumption",
         "note": "<code>assumption</code> 偏假設；<code>premise</code> 更像整段推理或故事所站的前提框架。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>premise</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "false premise",
           "register": "辯論 / 分析",
-          "note": "這個搭配常用來寫推理、策略或故事成立所依靠的基本設定。"
+          "note": "推理、策略或故事成立所依靠的基本設定。"
         },
         {
           "phrase": "core premise",
           "register": "寫作 / 產品",
-          "note": "這個搭配常用來寫推理、策略或故事成立所依靠的基本設定。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>premise</code> 整理成「前提基座」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/premise",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>premise</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/premise",
         "label": "Merriam-Webster"
       }

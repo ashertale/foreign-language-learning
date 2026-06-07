@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.68"
     },
-    "coreIdea": "<code>stifle</code> 表示把事情往「壓住悶死」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>stifle</code> 是把聲音、想法、情緒或生長中的東西捂住，讓它無法正常冒出來。",
     "definition": {
-      "summary": "表示把事情往「壓住悶死」的方向推，或讓局面出現這種結果。",
+      "summary": "壓住、窒息或抑制某事，使其難以表達、發展或呼吸。",
       "contrast": {
         "word": "Suppress",
         "note": "<code>suppress</code> 比較正式；<code>stifle</code> 更有被悶住、透不過氣的感覺。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>stifle</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "stifle innovation",
           "register": "管理 / 產品",
-          "note": "這個搭配常用來寫創意、聲音、表達或成長被壓到難以展開。"
+          "note": "創意、聲音、表達或成長被壓到難以展開。"
         },
         {
           "phrase": "stifle a laugh",
           "register": "敘事 / 日常",
-          "note": "這個搭配常用來寫創意、聲音、表達或成長被壓到難以展開。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stifle</code> 整理成「壓住悶死」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/stifle",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stifle</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/stifle",
         "label": "Merriam-Webster"
       }

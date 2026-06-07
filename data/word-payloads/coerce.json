@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "法律版",
-        "body": "A confession obtained by coercion may not be reliable. 這個情境凸顯「強迫、脅迫，使人違背意願做某事」。"
+        "body": "A confession obtained by coercion may not be reliable."
       },
       {
         "label": "組織版",
-        "body": "A manager should not <code>coerce</code> people into silence. 讀這句時，焦點在「強迫、脅迫，使人違背意願做某事」。"
+        "body": "A manager should not <code>coerce</code> people into silence."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示強迫、脅迫，使人違背意願做某事。",
-        "use": "用在「不是說服，而是用壓力、威脅或權力逼人照做」這類判斷上。"
+        "use": "用在用壓力、威脅或權力逼人照做時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 coerce 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/coerce",
         "label": "Merriam-Webster"
       }

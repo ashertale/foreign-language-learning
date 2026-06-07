@@ -36,11 +36,11 @@
       },
       {
         "label": "阻力",
-        "body": "A proposal may encounter resistance when it changes people’s routines。 這裡放在阻力情境時，是在說行動途中碰上某狀況，而那狀況需要被注意或回應。"
+        "body": "A proposal may encounter resistance when it changes people’s routines。"
       },
       {
         "label": "第一次",
-        "body": "A first encounter with a codebase often reveals naming and architecture habits. 這裡放在第一次情境時，是在說行動途中碰上某狀況，而那狀況需要被注意或回應。"
+        "body": "A first encounter with a codebase often reveals naming and architecture habits."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 encounter 整理成「遭遇、遇見或碰到」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/encounter",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 encounter 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/encounter",
         "label": "Merriam-Webster"
       }

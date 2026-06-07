@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "資料版",
-        "body": "A single <code>aberrant</code> reading can point to sensor drift, noise, or a real event. 這個情境凸顯「行為、數據或狀態異常、偏離常態」。"
+        "body": "A single <code>aberrant</code> reading can point to sensor drift, noise, or a real event."
       },
       {
         "label": "行為版",
-        "body": "An <code>aberrant</code> decision feels out of character because it breaks the usual pattern. 讀這句時，焦點在「行為、數據或狀態異常、偏離常態」。"
+        "body": "An <code>aberrant</code> decision feels out of character because it breaks the usual pattern."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容行為、數據或狀態異常、偏離常態。",
-        "use": "用在「不是普通不同，而是偏離了應有模式，讓人需要停下來追查」這類判斷上。"
+        "use": "用在偏離了應有模式，讓人需要停下來追查時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 aberrant 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/aberrant",
         "label": "Merriam-Webster"
       }

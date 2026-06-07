@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.07"
     },
-    "coreIdea": "<code>portent</code> 指那種「不祥前兆」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>portent</code> 指帶不祥意味的前兆。",
     "definition": {
-      "summary": "指那種「不祥前兆」的狀態、力量、場面或事物。",
+      "summary": "指帶不祥意味的前兆。",
       "contrast": {
         "word": "Sign",
         "note": "<code>sign</code> 很中性；<code>portent</code> 更像帶著重量和不安的徵候。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>portent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "dark portent",
           "register": "文學 / 敘事",
-          "note": "這個搭配常用來寫某個跡象像是在替更大的變化投下陰影。"
+          "note": "某個跡象像是在替更大的變化投下陰影。"
         },
         {
           "phrase": "a portent of change",
           "register": "評論 / 正式",
-          "note": "這個搭配常用來寫某個跡象像是在替更大的變化投下陰影。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>portent</code> 整理成「不祥前兆」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/portent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>portent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/portent",
         "label": "Merriam-Webster"
       }

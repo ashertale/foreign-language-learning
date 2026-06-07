@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "客戶",
-        "body": "An <code>irate</code> customer needs acknowledgment before a technical explanation can land. 這裡放在客戶情境時，是在說怒氣不只是內心感受，而是已經透過語氣或行為露出來。"
+        "body": "An <code>irate</code> customer needs acknowledgment before a technical explanation can land."
       },
       {
         "label": "回應",
-        "body": "An irate response may contain useful facts under the heat. 這裡放在回應情境時，是在說怒氣不只是內心感受，而是已經透過語氣或行為露出來。"
+        "body": "An irate response may contain useful facts under the heat."
       },
       {
         "label": "聲音",
-        "body": "在聲音這類情境裡，<code>irate</code> 的重點是：不是不高興而已，而是怒氣已經寫在臉上。"
+        "body": "聲音情境下，<code>irate</code> 不是不高興而已，而是怒氣已經寫在臉上。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 irate 整理成「怒氣外露」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/irate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 irate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/irate",
         "label": "Merriam-Webster"
       }

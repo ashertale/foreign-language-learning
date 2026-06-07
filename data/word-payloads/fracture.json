@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "骨頭",
-        "body": "在骨頭這類情境裡，<code>fracture</code> 的重點是：不是完全粉碎，而是先裂開，內部連續性被打斷。"
+        "body": "骨頭情境下，<code>fracture</code> 不是完全粉碎，而是先裂開，內部連續性被打斷。"
       },
       {
         "label": "聯盟",
-        "body": "A public accusation can fracture the alliance even before anyone formally leaves. 這裡放在聯盟情境時，是在說完整結構出現裂痕，未必完全斷開，但承受力已變。"
+        "body": "A public accusation can fracture the alliance even before anyone formally leaves."
       },
       {
         "label": "表面",
-        "body": "A fractured surface reveals where stress accumulated. 這裡放在表面情境時，是在說完整結構出現裂痕，未必完全斷開，但承受力已變。"
+        "body": "A fractured surface reveals where stress accumulated."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 fracture 整理成「裂開出痕」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/fracture",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 fracture 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/fracture",
         "label": "Merriam-Webster"
       }

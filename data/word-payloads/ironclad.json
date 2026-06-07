@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "合約",
-        "body": "An <code>ironclad</code> contract leaves little room for interpretive escape. 這裡放在合約情境時，是在說某物經得起攻擊、質疑或突破。"
+        "body": "An <code>ironclad</code> contract leaves little room for interpretive escape."
       },
       {
         "label": "證據",
-        "body": "在證據這類情境裡，<code>ironclad</code> 的重點是：不是還不錯，而是硬到幾乎挑不出破口。"
+        "body": "證據情境下，<code>ironclad</code> 不是還不錯，而是硬到幾乎挑不出破口。"
       },
       {
         "label": "防線",
-        "body": "An ironclad defense depends on the weak points no one sees in the demo. 這裡放在防線情境時，是在說某物經得起攻擊、質疑或突破。"
+        "body": "An ironclad defense depends on the weak points no one sees in the demo."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 ironclad 整理成「嚴密無破口」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/ironclad",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 ironclad 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/ironclad",
         "label": "Merriam-Webster"
       }

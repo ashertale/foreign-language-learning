@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "審閱",
-        "body": "在審閱這類情境裡，<code>cursory</code> 的重點是：不是精簡，而是快到只擦過表面。"
+        "body": "審閱情境下，<code>cursory</code> 不是精簡，而是快到只擦過表面。"
       },
       {
         "label": "一瞥",
-        "body": "A cursory glance at the chart can make a trend look simpler than it is. 這裡放在一瞥情境時，是在說某人確實看了，但看得太匆忙、不足以支撐判斷。"
+        "body": "A cursory glance at the chart can make a trend look simpler than it is."
       },
       {
         "label": "檢查",
-        "body": "Cursory inspection is risky when failure hides in edge cases. 這裡放在檢查情境時，是在說某人確實看了，但看得太匆忙、不足以支撐判斷。"
+        "body": "Cursory inspection is risky when failure hides in edge cases."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cursory 整理成「草率粗略」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/cursory",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 cursory 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/cursory",
         "label": "Merriam-Webster"
       }

@@ -36,11 +36,11 @@
       },
       {
         "label": "經驗",
-        "body": "A mentor can enrich a junior engineer’s experience by making hidden trade-offs visible。 這裡放在經驗情境時，是在說新增內容讓整體更有理解力、價值或層次。"
+        "body": "A mentor can enrich a junior engineer’s experience by making hidden trade-offs visible。"
       },
       {
         "label": "詞彙",
-        "body": "Reading examples enriches vocabulary because words arrive with scene and register。 這裡放在詞彙情境時，是在說新增內容讓整體更有理解力、價值或層次。"
+        "body": "Reading examples enriches vocabulary because words arrive with scene and register。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enrich 整理成「使更豐富、更有價值」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enrich",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 enrich 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/enrich",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "新人",
-        "body": "The size of the codebase can <code>daunt</code> the newcomer before any bug appears. 這裡放在新人情境時，是在說挑戰的大小或困難感壓低人的行動勇氣。"
+        "body": "The size of the codebase can <code>daunt</code> the newcomer before any bug appears."
       },
       {
         "label": "規模",
-        "body": "Being daunted by the scale is not weakness; it is a signal to break the work down. 這裡放在規模情境時，是在說挑戰的大小或困難感壓低人的行動勇氣。"
+        "body": "Being daunted by the scale is not weakness; it is a signal to break the work down."
       },
       {
         "label": "形容詞",
-        "body": "A daunting task feels large enough to slow the first step. 這裡放在形容詞情境時，是在說挑戰的大小或困難感壓低人的行動勇氣。"
+        "body": "A daunting task feels large enough to slow the first step."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 daunt 整理成「先把勇氣壓下去」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/daunt",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 daunt 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/daunt",
         "label": "Merriam-Webster"
       }

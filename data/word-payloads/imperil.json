@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "任務",
-        "body": "A hidden dependency can <code>imperil</code> the mission late in the schedule. 這裡放在任務情境時，是在說某行為讓重要對象暴露於嚴重危險。"
+        "body": "A hidden dependency can <code>imperil</code> the mission late in the schedule."
       },
       {
         "label": "安全",
-        "body": "Skipping verification may imperil safety even if the demo succeeds. 這裡放在安全情境時，是在說某行為讓重要對象暴露於嚴重危險。"
+        "body": "Skipping verification may imperil safety even if the demo succeeds."
       },
       {
         "label": "關係",
-        "body": "在關係這類情境裡，<code>imperil</code> 的重點是：不是已經毀掉，而是把它推到危險邊緣。"
+        "body": "關係情境下，<code>imperil</code> 不是已經毀掉，而是把它推到危險邊緣。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 imperil 整理成「推到危險邊緣」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/imperil",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 imperil 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/imperil",
         "label": "Merriam-Webster"
       }

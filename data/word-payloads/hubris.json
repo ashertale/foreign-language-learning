@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "權力",
-        "body": "The <code>hubris</code> of power appears when leaders stop hearing constraints. 這裡放在權力情境時，是在說傲慢已經遮住限制，並可能導向懲罰性後果。"
+        "body": "The <code>hubris</code> of power appears when leaders stop hearing constraints."
       },
       {
         "label": "企業",
-        "body": "Corporate hubris made the company dismiss the small competitor as a toy. 這裡放在企業情境時，是在說傲慢已經遮住限制，並可能導向懲罰性後果。"
+        "body": "Corporate hubris made the company dismiss the small competitor as a toy."
       },
       {
         "label": "悲劇",
-        "body": "在悲劇這類情境裡，<code>hubris</code> 的重點是：不是自信，而是高到開始看不見自己的限度。"
+        "body": "悲劇情境下，<code>hubris</code> 不是自信，而是高到開始看不見自己的限度。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 hubris 整理成「傲慢失明」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/hubris",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 hubris 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/hubris",
         "label": "Merriam-Webster"
       }

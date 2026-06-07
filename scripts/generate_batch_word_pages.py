@@ -34,6 +34,15 @@ Write original section prose:
   `neighbors.others`, and `modernUse` are flexible containers, not quotas.
 - Keep prose direct and concept-first. Do not write study-script lines such as
   `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
+- Do not use filler explanations that merely say the word "changes the situation"
+  or "is not only about the action." Say what observable pressure, boundary,
+  register, or consequence the word actually carries.
+- Do not write generic page-making prose such as `這裡放在...情境時`,
+  `這個搭配常用來寫...`, `本頁把...整理成...學習概念`, or
+  `用在「...」這類判斷上`.
+- Avoid repeating the same sentence frame inside one page. If two cards would
+  start or explain themselves the same way, rewrite one around a concrete scene,
+  collocation, contrast, or consequence.
 - Keep usage examples natural. A usage card may carry Chinese context in its
   label while the body remains a natural example.
 - Use collocations as living usage anchors and neighbors as confusion boundaries.

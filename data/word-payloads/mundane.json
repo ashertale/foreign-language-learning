@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.25"
     },
-    "coreIdea": "<code>mundane</code> 描述一種「平凡日常」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>mundane</code> 寫的是缺少戲劇性的日常；它可以無聊，也可以是工作真正堆出成果的地方。",
     "definition": {
-      "summary": "形容一種「平凡日常」的狀態、氣質或外觀。",
+      "summary": "形容平凡、日常、缺少新奇或戲劇性的事物。",
       "contrast": {
         "word": "Ordinary",
         "note": "<code>ordinary</code> 比較中性；<code>mundane</code> 更帶日常磨耗感。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "工作",
-        "body": "Much of engineering excellence lives in <code>mundane</code> habits like naming, logging, and cleanup. 這裡放在工作情境時，是在說缺少新鮮感、驚奇或浪漫色彩的日常細節。"
+        "body": "Much of engineering excellence lives in <code>mundane</code> habits like naming, logging, and cleanup."
       },
       {
         "label": "敘事",
-        "body": "The film turns a <code>mundane</code> commute into a study of loneliness. 這裡放在敘事情境時，是在說缺少新鮮感、驚奇或浪漫色彩的日常細節。"
+        "body": "The film turns a <code>mundane</code> commute into a study of loneliness."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>mundane</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "mundane task",
           "register": "工作 / 日常",
-          "note": "這個搭配常用來寫缺少新鮮感、驚奇或浪漫色彩的日常細節。"
+          "note": "缺少新鮮感、驚奇或浪漫色彩的日常細節。"
         },
         {
           "phrase": "mundane detail",
           "register": "敘事 / 評論",
-          "note": "這個搭配常用來寫缺少新鮮感、驚奇或浪漫色彩的日常細節。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>mundane</code> 整理成「平凡日常」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/mundane",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>mundane</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/mundane",
         "label": "Merriam-Webster"
       }

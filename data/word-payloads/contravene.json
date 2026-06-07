@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "法律",
-        "body": "The data transfer may <code>contravene</code> the law if consent is missing. 這裡放在法律情境時，是在說行為與明文規則、法律或原則相衝突。"
+        "body": "The data transfer may <code>contravene</code> the law if consent is missing."
       },
       {
         "label": "政策",
-        "body": "在政策這類情境裡，<code>contravene</code> 的重點是：不是不小心偏掉，而是直接和既定規範相抵觸。"
+        "body": "政策情境下，<code>contravene</code> 不是不小心偏掉，而是直接和既定規範相抵觸。"
       },
       {
         "label": "原則",
-        "body": "The decision contravened the principle of equal access. 這裡放在原則情境時，是在說行為與明文規則、法律或原則相衝突。"
+        "body": "The decision contravened the principle of equal access."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 contravene 整理成「與規則相抵觸」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/contravene",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 contravene 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/contravene",
         "label": "Merriam-Webster"
       }

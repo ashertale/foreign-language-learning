@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "政策版",
-        "body": "The new rule may <code>curtail</code> access to sensitive data. 這個情境凸顯「縮減、限制、削短某事的範圍或時間」。"
+        "body": "The new rule may <code>curtail</code> access to sensitive data."
       },
       {
         "label": "專案版",
-        "body": "Budget cuts forced the team to <code>curtail</code> testing time. 讀這句時，焦點在「縮減、限制、削短某事的範圍或時間」。"
+        "body": "Budget cuts forced the team to <code>curtail</code> testing time."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示縮減、限制、削短某事的範圍或時間。",
-        "use": "用在「不是自然變少，而是被刻意縮短、限制或削減」這類判斷上。"
+        "use": "用在被刻意縮短、限制或削減時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 curtail 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/curtail",
         "label": "Merriam-Webster"
       }

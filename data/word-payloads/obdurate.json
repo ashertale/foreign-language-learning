@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.24"
     },
-    "coreIdea": "<code>obdurate</code> 描述一種「頑固不化」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>obdurate</code> 形容態度硬到勸說進不去；它不是有原則，而是拒絕被理由、同理或後果打動。",
     "definition": {
-      "summary": "形容一種「頑固不化」的狀態、氣質或外觀。",
+      "summary": "形容人或態度頑固、冷硬，幾乎不願被說服或改變。",
       "contrast": {
         "word": "Stubborn",
         "note": "<code>stubborn</code> 可以只是固執；<code>obdurate</code> 更有冷硬、拒絕被打動的感覺。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>obdurate</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "obdurate refusal",
           "register": "政治 / 法律",
-          "note": "這個搭配常用來寫人明知壓力或道理存在，仍拒絕鬆動。"
+          "note": "人明知壓力或道理存在，仍拒絕鬆動。"
         },
         {
           "phrase": "obdurate attitude",
           "register": "評論 / 人際",
-          "note": "這個搭配常用來寫人明知壓力或道理存在，仍拒絕鬆動。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>obdurate</code> 整理成「頑固不化」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/obdurate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>obdurate</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/obdurate",
         "label": "Merriam-Webster"
       }

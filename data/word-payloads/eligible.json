@@ -36,11 +36,11 @@
       },
       {
         "label": "候選人",
-        "body": "An eligible candidate meets the requirements; selection is another step。 這裡放在候選人情境時，是在說符合門檻、能被納入考慮，但尚未保證被選中。"
+        "body": "An eligible candidate meets the requirements; selection is another step。"
       },
       {
         "label": "標準",
-        "body": "Eligibility criteria should be visible before people apply。 這裡放在標準情境時，是在說符合門檻、能被納入考慮，但尚未保證被選中。"
+        "body": "Eligibility criteria should be visible before people apply。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 eligible 整理成「符合資格或條件的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/eligible",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 eligible 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/eligible",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "計畫",
-        "body": "在計畫這類情境裡，<code>dovetail</code> 的重點是：不是碰巧相近，而是像本來就設計成能扣在一起。"
+        "body": "計畫情境下，<code>dovetail</code> 不是碰巧相近，而是像本來就設計成能扣在一起。"
       },
       {
         "label": "自然搭配",
-        "body": "The two features dovetail nicely because one creates the data the other needs. 這裡放在自然搭配情境時，是在說兩個部分不只是相容，而是彼此補位、銜接順暢。"
+        "body": "The two features dovetail nicely because one creates the data the other needs."
       },
       {
         "label": "時程",
-        "body": "We adjusted the workshops so the schedules would dovetail instead of compete. 這裡放在時程情境時，是在說兩個部分不只是相容，而是彼此補位、銜接順暢。"
+        "body": "We adjusted the workshops so the schedules would dovetail instead of compete."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 dovetail 整理成「自然扣合」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/dovetail",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 dovetail 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/dovetail",
         "label": "Merriam-Webster"
       }

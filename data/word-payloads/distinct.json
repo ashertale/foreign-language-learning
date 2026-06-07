@@ -36,11 +36,11 @@
       },
       {
         "label": "分類",
-        "body": "A distinct category needs a boundary that users can understand。 這裡放在分類情境時，是在說差異清楚、邊界可辨、不能混為一談。"
+        "body": "A distinct category needs a boundary that users can understand。"
       },
       {
         "label": "優勢",
-        "body": "A distinct advantage is noticeable enough to change the comparison。 這裡放在優勢情境時，是在說差異清楚、邊界可辨、不能混為一談。"
+        "body": "A distinct advantage is noticeable enough to change the comparison。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 distinct 整理成「清楚不同、可區分的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/distinct",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 distinct 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/distinct",
         "label": "Merriam-Webster"
       }

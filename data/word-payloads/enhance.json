@@ -36,11 +36,11 @@
       },
       {
         "label": "安全",
-        "body": "Enhance security usually means strengthening an existing surface, not magically making it safe. 這裡放在安全情境時，是在說已有基礎存在，而你要讓它的效果或品質變強。"
+        "body": "Enhance security usually means strengthening an existing surface, not magically making it safe."
       },
       {
         "label": "可讀性",
-        "body": "Small naming changes can enhance readability more than a clever abstraction. 這裡放在可讀性情境時，是在說已有基礎存在，而你要讓它的效果或品質變強。"
+        "body": "Small naming changes can enhance readability more than a clever abstraction."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enhance 整理成「提升、增強或改善品質」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enhance",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 enhance 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/enhance",
         "label": "Merriam-Webster"
       }

@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "資料版",
-        "body": "A <code>discrepancy</code> between logs and metrics suggests a measurement issue. 這個情境凸顯「差異、不一致，尤其是資料、紀錄或說法之間的落差」。"
+        "body": "A <code>discrepancy</code> between logs and metrics suggests a measurement issue."
       },
       {
         "label": "文件版",
-        "body": "The auditor found a discrepancy in the inventory records. 讀這句時，焦點在「差異、不一致，尤其是資料、紀錄或說法之間的落差」。"
+        "body": "The auditor found a discrepancy in the inventory records."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示差異、不一致，尤其是資料、紀錄或說法之間的落差。",
-        "use": "用在「不是普通差異，而是兩份資料、說法或結果對不起來」這類判斷上。"
+        "use": "用在兩份資料、說法或結果對不起來時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 discrepancy 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/discrepancy",
         "label": "Merriam-Webster"
       }

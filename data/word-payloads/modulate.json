@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "語氣",
-        "body": "在語氣這類情境裡，<code>modulate</code> 的重點是：不是切換成另一種，而是細緻地把強弱拉到合適位置。"
+        "body": "語氣情境下，<code>modulate</code> 不是切換成另一種，而是細緻地把強弱拉到合適位置。"
       },
       {
         "label": "訊號",
-        "body": "The transmitter modulates the signal before sending it over the channel. 這裡放在訊號情境時，是在說調整不是換檔，而是在連續尺度上細修強度或形式。"
+        "body": "The transmitter modulates the signal before sending it over the channel."
       },
       {
         "label": "反應",
-        "body": "A good system can modulate the response based on severity. 這裡放在反應情境時，是在說調整不是換檔，而是在連續尺度上細修強度或形式。"
+        "body": "A good system can modulate the response based on severity."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 modulate 整理成「細緻調節」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/modulate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 modulate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/modulate",
         "label": "Merriam-Webster"
       }

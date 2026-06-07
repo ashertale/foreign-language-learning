@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "組織版",
-        "body": "Repeated broken promises <code>erode</code> trust. 這個情境凸顯「侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱」。"
+        "body": "Repeated broken promises <code>erode</code> trust."
       },
       {
         "label": "商務版",
-        "body": "Rising costs can <code>erode</code> margins over time. 讀這句時，焦點在「侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱」。"
+        "body": "Rising costs can <code>erode</code> margins over time."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示侵蝕、逐漸削弱，使原本穩固的東西變薄或變弱。",
-        "use": "用在「不是一下子毀掉，而是長時間一點一點磨掉基礎」這類判斷上。"
+        "use": "用在長時間一點一點磨掉基礎時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 erode 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/erode",
         "label": "Merriam-Webster"
       }

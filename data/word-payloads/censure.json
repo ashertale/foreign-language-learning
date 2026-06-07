@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "官員",
-        "body": "The committee voted to <code>censure</code> the official for misuse of funds. 這裡放在官員情境時，是在說責難不只是個人意見，而帶有公開、正式或制度性的重量。"
+        "body": "The committee voted to <code>censure</code> the official for misuse of funds."
       },
       {
         "label": "行為",
-        "body": "Censuring the conduct makes the institution say where its boundary is. 這裡放在行為情境時，是在說責難不只是個人意見，而帶有公開、正式或制度性的重量。"
+        "body": "Censuring the conduct makes the institution say where its boundary is."
       },
       {
         "label": "正式程序",
-        "body": "在正式程序這類情境裡，<code>censure</code> 的重點是：不是私下念兩句，而是公開而且帶有權威地譴責。"
+        "body": "正式程序情境下，<code>censure</code> 不是私下念兩句，而是公開而且帶有權威地譴責。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 censure 整理成「正式譴責」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/censure",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 censure 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/censure",
         "label": "Merriam-Webster"
       }

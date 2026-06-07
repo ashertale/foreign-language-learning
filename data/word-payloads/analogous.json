@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "學習版",
-        "body": "A cache is roughly <code>analogous</code> to a small desk where frequently used papers stay close. 這個情境凸顯「兩件事在某些關鍵方面相似、可類比」。"
+        "body": "A cache is roughly <code>analogous</code> to a small desk where frequently used papers stay close."
       },
       {
         "label": "科學版",
-        "body": "Two organs may be <code>analogous</code> in function even if they evolved differently. 讀這句時，焦點在「兩件事在某些關鍵方面相似、可類比」。"
+        "body": "Two organs may be <code>analogous</code> in function even if they evolved differently."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容兩件事在某些關鍵方面相似、可類比。",
-        "use": "用在「不是完全相同，而是在結構或功能上足夠相似，可以互相照亮」這類判斷上。"
+        "use": "用在在結構或功能上足夠相似，可以互相照亮時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 analogous 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/analogous",
         "label": "Merriam-Webster"
       }

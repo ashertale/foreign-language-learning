@@ -36,7 +36,7 @@
       },
       {
         "label": "法律 / 判例",
-        "body": "A court may <code>cite</code> precedent to show that a decision follows earlier reasoning。 這裡放在法律 / 判例情境時，是在說主張需要接上可追查來源、證據或權威。"
+        "body": "A court may <code>cite</code> precedent to show that a decision follows earlier reasoning。"
       },
       {
         "label": "研究",
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 cite 整理成「引用、舉出或依法提及某個來源」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/cite",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 cite 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/cite",
         "label": "Merriam-Webster"
       }

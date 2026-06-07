@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "報告版",
-        "body": "The outage underscores the need for better monitoring. 這個情境凸顯「強調、凸顯，使某個重點更明顯」。"
+        "body": "The outage underscores the need for better monitoring."
       },
       {
         "label": "簡報版",
-        "body": "A concrete example can <code>underscore</code> the cost of delay. 讀這句時，焦點在「強調、凸顯，使某個重點更明顯」。"
+        "body": "A concrete example can <code>underscore</code> the cost of delay."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示強調、凸顯，使某個重點更明顯。",
-        "use": "用在「不是重新說一次，而是用某個事實把重點畫線標出來」這類判斷上。"
+        "use": "用在用某個事實把重點畫線標出來時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 underscore 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/underscore",
         "label": "Merriam-Webster"
       }

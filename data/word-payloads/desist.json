@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "行為",
-        "body": "The notice ordered the company to <code>desist</code> from the act immediately. 這裡放在行為情境時，是在說停止行為需要被正式要求、記錄或強調後果。"
+        "body": "The notice ordered the company to <code>desist</code> from the act immediately."
       },
       {
         "label": "立刻",
-        "body": "Desist immediately sounds sharper than please stop. 這裡放在立刻情境時，是在說停止行為需要被正式要求、記錄或強調後果。"
+        "body": "Desist immediately sounds sharper than please stop."
       },
       {
         "label": "警告",
-        "body": "在警告這類情境裡，<code>desist</code> 的重點是：不是自然結束，而是明確收手。"
+        "body": "警告情境下，<code>desist</code> 不是自然結束，而是明確收手。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 desist 整理成「明確收手」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/desist",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 desist 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/desist",
         "label": "Merriam-Webster"
       }

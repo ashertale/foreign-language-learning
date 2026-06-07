@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "團隊",
-        "body": "在團隊這類情境裡，<code>antagonize</code> 的重點是：不是惹到一下，而是把對方推進對立或反感狀態。"
+        "body": "團隊情境下，<code>antagonize</code> 不是惹到一下，而是把對方推進對立或反感狀態。"
       },
       {
         "label": "選民",
-        "body": "Policies can antagonize voters when they feel ignored rather than persuaded. 這裡放在選民情境時，是在說行為或語氣把對方推入敵意或對立狀態。"
+        "body": "Policies can antagonize voters when they feel ignored rather than persuaded."
       },
       {
         "label": "觀眾",
-        "body": "A speaker may antagonize the audience by mocking the concern they came to hear addressed. 這裡放在觀眾情境時，是在說行為或語氣把對方推入敵意或對立狀態。"
+        "body": "A speaker may antagonize the audience by mocking the concern they came to hear addressed."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 antagonize 整理成「激起敵意」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/antagonize",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 antagonize 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/antagonize",
         "label": "Merriam-Webster"
       }

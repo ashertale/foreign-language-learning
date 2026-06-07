@@ -36,11 +36,11 @@
       },
       {
         "label": "舞台",
-        "body": "Musicians improvise on stage by using structure they have practiced deeply. 這裡放在舞台情境時，是在說現場條件不完整，需要即時組合可用方案。"
+        "body": "Musicians improvise on stage by using structure they have practiced deeply."
       },
       {
         "label": "工具",
-        "body": "在工具這類情境裡，<code>improvise</code> 的重點是：不是亂來，而是在沒有完整準備時即時組合可用方案。"
+        "body": "工具情境下，<code>improvise</code> 不是亂來，而是在沒有完整準備時即時組合可用方案。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 improvise 整理成「即興處理、臨場創作或變通」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/improvise",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 improvise 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/improvise",
         "label": "Merriam-Webster"
       }

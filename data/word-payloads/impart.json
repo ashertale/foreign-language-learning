@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "教學版",
-        "body": "A mentor can <code>impart</code> judgment that no checklist captures. 這個情境凸顯「傳授、告知，或賦予某種品質」。"
+        "body": "A mentor can <code>impart</code> judgment that no checklist captures."
       },
       {
         "label": "設計版",
-        "body": "Warm colors can <code>impart</code> a sense of calm to the page. 讀這句時，焦點在「傳授、告知，或賦予某種品質」。"
+        "body": "Warm colors can <code>impart</code> a sense of calm to the page."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示傳授、告知，或賦予某種品質。",
-        "use": "用在「不是把東西丟給對方，而是把知識、特質或感覺傳遞進去」這類判斷上。"
+        "use": "用在把知識、特質或感覺傳遞進去時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 impart 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/impart",
         "label": "Merriam-Webster"
       }

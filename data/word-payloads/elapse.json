@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "小時",
-        "body": "Several hours <code>elapsed</code> before the first useful log arrived. 這裡放在小時情境時，是在說你要讓時間段成為句子的主角，而不是人為動作。"
+        "body": "Several hours <code>elapsed</code> before the first useful log arrived."
       },
       {
         "label": "快速",
-        "body": "在快速這類情境裡，<code>elapse</code> 的重點是：不是做了什麼，而是時間自己默默走過去。"
+        "body": "快速情境下，<code>elapse</code> 不是做了什麼，而是時間自己默默走過去。"
       },
       {
         "label": "等待",
-        "body": "Before long elapsed, the team had already changed the plan twice. 這裡放在等待情境時，是在說你要讓時間段成為句子的主角，而不是人為動作。"
+        "body": "Before long elapsed, the team had already changed the plan twice."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 elapse 整理成「時間流逝」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/elapse",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 elapse 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/elapse",
         "label": "Merriam-Webster"
       }

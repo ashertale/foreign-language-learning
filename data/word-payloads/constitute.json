@@ -36,11 +36,11 @@
       },
       {
         "label": "證據",
-        "body": "Several small clues may together <code>constitute</code> evidence。 這裡放在證據情境時，是在說事實已足以讓某分類、責任或後果成立。"
+        "body": "Several small clues may together <code>constitute</code> evidence。"
       },
       {
         "label": "風險",
-        "body": "A single missing check might <code>constitute</code> a risk if it protects a critical path。 這裡放在風險情境時，是在說事實已足以讓某分類、責任或後果成立。"
+        "body": "A single missing check might <code>constitute</code> a risk if it protects a critical path。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 constitute 整理成「組成、構成或被視為某事」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/constitute",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 constitute 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/constitute",
         "label": "Merriam-Webster"
       }

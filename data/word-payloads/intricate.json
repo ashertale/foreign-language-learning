@@ -36,11 +36,11 @@
       },
       {
         "label": "設計",
-        "body": "在設計這類情境裡，<code>intricate</code> 的重點是：不是單純複雜，而是很多細節交纏在一起。"
+        "body": "設計情境下，<code>intricate</code> 不是單純複雜，而是很多細節交纏在一起。"
       },
       {
         "label": "關係",
-        "body": "Intricate relationships often resist simple ownership labels. 這裡放在關係情境時，是在說細節多、關係纏繞，需要慢慢拆解。"
+        "body": "Intricate relationships often resist simple ownership labels."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 intricate 整理成「精細複雜、細節交錯的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/intricate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 intricate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/intricate",
         "label": "Merriam-Webster"
       }

@@ -36,11 +36,11 @@
       },
       {
         "label": "看起來",
-        "body": "Nothing seemed amiss until the second device failed. 這裡放在看起來情境時，是在說你察覺不對勁，但還沒有完整原因或判定。"
+        "body": "Nothing seemed amiss until the second device failed."
       },
       {
         "label": "感覺",
-        "body": "在感覺這類情境裡，<code>amiss</code> 的重點是：不是災難級錯誤，而是你直覺先感到哪裡不太對。"
+        "body": "感覺情境下，<code>amiss</code> 不是災難級錯誤，而是你直覺先感到哪裡不太對。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 amiss 整理成「哪裡不對勁」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/amiss",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 amiss 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/amiss",
         "label": "Merriam-Webster"
       }

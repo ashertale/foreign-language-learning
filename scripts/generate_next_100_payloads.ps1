@@ -25,13 +25,13 @@ function Get-CoreIdea {
 
     switch ($Entry.partOfSpeech) {
         "adjective" {
-            return "<code>$word</code> 描述一種「$($Entry.selfMeaning)」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。"
+            return "<code>$word</code> 描述「$($Entry.selfMeaning)」；可觀察的線索是「$($Entry.flow -join ' → ')」。"
         }
         "verb" {
-            return "<code>$word</code> 表示把事情往「$($Entry.selfMeaning)」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。"
+            return "<code>$word</code> 讓情境進入「$($Entry.selfMeaning)」；可觀察的線索是「$($Entry.flow -join ' → ')」。"
         }
         "noun" {
-            return "<code>$word</code> 指那種「$($Entry.selfMeaning)」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。"
+            return "<code>$word</code> 把「$($Entry.selfMeaning)」命名出來；可觀察的線索是「$($Entry.flow -join ' → ')」。"
         }
         default {
             throw "Unsupported part of speech: $($Entry.partOfSpeech)"
@@ -44,13 +44,13 @@ function Get-DefinitionSummary {
 
     switch ($Entry.partOfSpeech) {
         "adjective" {
-            return "形容一種「$($Entry.selfMeaning)」的狀態、氣質或外觀。"
+            return "形容「$($Entry.selfMeaning)」，通常會呈現出「$($Entry.flow[0])」到「$($Entry.flow[-1])」的變化。"
         }
         "verb" {
-            return "表示把事情往「$($Entry.selfMeaning)」的方向推，或讓局面出現這種結果。"
+            return "表示行動或壓力讓情境進入「$($Entry.selfMeaning)」。"
         }
         "noun" {
-            return "指那種「$($Entry.selfMeaning)」的狀態、力量、場面或事物。"
+            return "指「$($Entry.selfMeaning)」這種可以被命名和討論的局面。"
         }
         default {
             throw "Unsupported part of speech: $($Entry.partOfSpeech)"
@@ -65,12 +65,12 @@ function New-SourceNotes {
 
     return [ordered]@{
         dictionary = [ordered]@{
-            note = "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>$wordLower</code> 整理成「$($Entry.selfMeaning)」的學習概念。"
+            note = "定義、發音與核心義以 Merriam-Webster 為對照基準。"
             url = "https://www.merriam-webster.com/dictionary/$wordLower"
             label = "Merriam-Webster"
         }
         modern = [ordered]@{
-            note = "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>$wordLower</code> 在日常、工作與抽象討論裡最自然的落點。"
+            note = "Merriam-Webster 的現代定義與例句用來校準 <code>$wordLower</code> 的日常、工作與抽象討論用法。"
             url = "https://www.merriam-webster.com/dictionary/$wordLower"
             label = "Merriam-Webster"
         }
@@ -132,7 +132,6 @@ function New-UsageItems {
             if ($body -notmatch '[.!?。！？]\s*$') {
                 $body = "$body."
             }
-            $body = "$body 這裡放在$($item.label)情境時，是在說$focus。"
         }
         $items += [ordered]@{
             label = $item.label
@@ -147,7 +146,7 @@ function Get-CollocationSectionNote {
     param([hashtable]$Entry)
 
     $wordLower = $Entry.word.ToLowerInvariant()
-    return "這裡放 <code>$wordLower</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。"
+    return "<code>$wordLower</code> 的搭配應指出語域、對象與使用邊界；不要用同一句說明重複填滿每個項目。"
 }
 
 function New-CollocationItems {
@@ -160,7 +159,7 @@ function New-CollocationItems {
         $items += [ordered]@{
             phrase = $item.phrase
             register = $item.register
-            note = "這個搭配常用來寫$focus。"
+            note = "$($item.phrase) 連到「$focus」這個使用範圍。"
         }
     }
 

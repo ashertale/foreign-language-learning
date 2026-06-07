@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "個性",
-        "body": "A <code>gregarious</code> personality can make onboarding feel less cold. 這裡放在個性情境時，是在說人不只是能社交，而是自然喜歡進入群體。"
+        "body": "A <code>gregarious</code> personality can make onboarding feel less cold."
       },
       {
         "label": "主人",
-        "body": "在主人這類情境裡，<code>gregarious</code> 的重點是：不是不怕人，而是從和人互動裡得到能量。"
+        "body": "主人情境下，<code>gregarious</code> 不是不怕人，而是從和人互動裡得到能量。"
       },
       {
         "label": "孩子",
-        "body": "A gregarious child may learn social rules through constant contact. 這裡放在孩子情境時，是在說人不只是能社交，而是自然喜歡進入群體。"
+        "body": "A gregarious child may learn social rules through constant contact."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 gregarious 整理成「天生合群」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/gregarious",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 gregarious 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/gregarious",
         "label": "Merriam-Webster"
       }

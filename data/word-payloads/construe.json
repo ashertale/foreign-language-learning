@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "威脅",
-        "body": "A short warning can be <code>construed</code> as a threat if the relationship is already tense. 這裡放在威脅情境時，是在說同一個訊號可能被讀成不同含義，而你要標出其中一種解讀。"
+        "body": "A short warning can be <code>construed</code> as a threat if the relationship is already tense."
       },
       {
         "label": "條文",
-        "body": "The court construed the clause narrowly, leaving little room for exceptions. 這裡放在條文情境時，是在說同一個訊號可能被讀成不同含義，而你要標出其中一種解讀。"
+        "body": "The court construed the clause narrowly, leaving little room for exceptions."
       },
       {
         "label": "沉默",
-        "body": "在沉默這類情境裡，<code>construe</code> 的重點是：不是單純看見，而是把它讀成某一種意思。"
+        "body": "沉默情境下，<code>construe</code> 不是單純看見，而是把它讀成某一種意思。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 construe 整理成「讀成某種意思」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/construe",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 construe 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/construe",
         "label": "Merriam-Webster"
       }

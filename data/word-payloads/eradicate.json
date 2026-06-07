@@ -36,11 +36,11 @@
       },
       {
         "label": "疾病",
-        "body": "Public health may aim to eradicate a disease, not merely reduce cases. 這裡放在疾病情境時，是在說目標是徹底移除根源，而不是降低數量或影響。"
+        "body": "Public health may aim to eradicate a disease, not merely reduce cases."
       },
       {
         "label": "缺陷",
-        "body": "To eradicate defects, you often need process changes, not more heroic inspection. 這裡放在缺陷情境時，是在說目標是徹底移除根源，而不是降低數量或影響。"
+        "body": "To eradicate defects, you often need process changes, not more heroic inspection."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 eradicate 整理成「根除、消滅某問題或疾病」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/eradicate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 eradicate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/eradicate",
         "label": "Merriam-Webster"
       }

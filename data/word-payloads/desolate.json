@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "景色",
-        "body": "A <code>desolate</code> landscape makes distance feel heavier than space alone. 這裡放在景色情境時，是在說空、冷、孤絕的感覺主導整個場景或心境。"
+        "body": "A <code>desolate</code> landscape makes distance feel heavier than space alone."
       },
       {
         "label": "感受",
-        "body": "在感受這類情境裡，<code>desolate</code> 的重點是：不是安靜，而是安靜到只剩荒涼。"
+        "body": "感受情境下，<code>desolate</code> 不是安靜，而是安靜到只剩荒涼。"
       },
       {
         "label": "街道",
-        "body": "The desolate street made the outage feel larger than the failed lights. 這裡放在街道情境時，是在說空、冷、孤絕的感覺主導整個場景或心境。"
+        "body": "The desolate street made the outage feel larger than the failed lights."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 desolate 整理成「荒涼空掉」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/desolate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 desolate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/desolate",
         "label": "Merriam-Webster"
       }

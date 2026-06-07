@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "錯誤",
-        "body": "To <code>atone for</code> the mistake, the team changed the process that allowed it to happen. 這裡放在錯誤情境時，是在說過錯之後需要以行動修補道德或關係失衡。"
+        "body": "To <code>atone for</code> the mistake, the team changed the process that allowed it to happen."
       },
       {
         "label": "過去傷害",
-        "body": "在過去傷害這類情境裡，<code>atone</code> 的重點是：不是說對不起就算，而是用後續行動把失衡慢慢補回來。"
+        "body": "過去傷害情境下，<code>atone</code> 不是說對不起就算，而是用後續行動把失衡慢慢補回來。"
       },
       {
         "label": "服務",
-        "body": "Some stories use service as a way to atone, but real repair depends on the harmed side. 這裡放在服務情境時，是在說過錯之後需要以行動修補道德或關係失衡。"
+        "body": "Some stories use service as a way to atone, but real repair depends on the harmed side."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 atone 整理成「彌補過錯」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/atone",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 atone 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/atone",
         "label": "Merriam-Webster"
       }

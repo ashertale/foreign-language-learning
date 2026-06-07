@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.13"
     },
-    "coreIdea": "<code>sacrosanct</code> 描述一種「神聖不可碰」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>sacrosanct</code> 把某事放到不可碰的位置；挑戰它不只是不同意，而像越界。",
     "definition": {
-      "summary": "形容一種「神聖不可碰」的狀態、氣質或外觀。",
+      "summary": "形容被視為神聖、不可侵犯或不可質疑。",
       "contrast": {
         "word": "Important",
         "note": "<code>important</code> 是重要；<code>sacrosanct</code> 更像你連手都不該伸過去。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>sacrosanct</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "sacrosanct principle",
           "register": "政治 / 法律",
-          "note": "這個搭配常用來寫規則、傳統或權利被視為不該被侵犯或質疑。"
+          "note": "規則、傳統或權利被視為不該被侵犯或質疑。"
         },
         {
           "phrase": "sacrosanct tradition",
           "register": "文化 / 評論",
-          "note": "這個搭配常用來寫規則、傳統或權利被視為不該被侵犯或質疑。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>sacrosanct</code> 整理成「神聖不可碰」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/sacrosanct",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>sacrosanct</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/sacrosanct",
         "label": "Merriam-Webster"
       }

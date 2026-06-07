@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "財務版",
-        "body": "Interest can <code>accrue</code> even when no one is watching the account. 這個情境凸顯「逐漸增加或累積，常見於金錢、利益、責任或抽象結果」。"
+        "body": "Interest can <code>accrue</code> even when no one is watching the account."
       },
       {
         "label": "工程版",
-        "body": "Technical debt <code>accrues</code> when small shortcuts stay in the system. 讀這句時，焦點在「逐漸增加或累積，常見於金錢、利益、責任或抽象結果」。"
+        "body": "Technical debt <code>accrues</code> when small shortcuts stay in the system."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示逐漸增加或累積，常見於金錢、利益、責任或抽象結果。",
-        "use": "用在「不是一次拿到，而是隨時間一點一點累積成量」這類判斷上。"
+        "use": "用在隨時間一點一點累積成量時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 accrue 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/accrue",
         "label": "Merriam-Webster"
       }

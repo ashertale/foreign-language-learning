@@ -36,11 +36,11 @@
       },
       {
         "label": "說明",
-        "body": "在說明這類情境裡，<code>inadequate</code> 的重點是：不是完全沒有，而是低於需求、撐不起任務。"
+        "body": "說明情境下，<code>inadequate</code> 不是完全沒有，而是低於需求、撐不起任務。"
       },
       {
         "label": "資源",
-        "body": "Inadequate resources can turn a reasonable deadline into a quality risk. 這裡放在資源情境時，是在說現有東西未達任務或標準需要，因而可能失敗。"
+        "body": "Inadequate resources can turn a reasonable deadline into a quality risk."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 inadequate 整理成「不足以滿足需求或標準」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/inadequate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inadequate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inadequate",
         "label": "Merriam-Webster"
       }

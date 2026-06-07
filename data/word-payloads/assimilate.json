@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "學習版",
-        "body": "It takes time to <code>assimilate</code> a dense technical paper. 這個情境凸顯「吸收、同化或融入，使新東西成為整體的一部分」。"
+        "body": "It takes time to <code>assimilate</code> a dense technical paper."
       },
       {
         "label": "社會版",
-        "body": "Newcomers may feel pressure to <code>assimilate</code> into the dominant culture. 讀這句時，焦點在「吸收、同化或融入，使新東西成為整體的一部分」。"
+        "body": "Newcomers may feel pressure to <code>assimilate</code> into the dominant culture."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示吸收、同化或融入，使新東西成為整體的一部分。",
-        "use": "用在「不是放在旁邊，而是吸收進既有系統，變成能運作的一部分」這類判斷上。"
+        "use": "用在吸收進既有系統，變成能運作的一部分時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 assimilate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/assimilate",
         "label": "Merriam-Webster"
       }

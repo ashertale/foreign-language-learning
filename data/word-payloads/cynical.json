@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "看法",
-        "body": "A <code>cynical</code> view may catch hypocrisy, but it can also miss real care. 這裡放在看法情境時，是在說懷疑已經成為看世界的姿態，尤其是懷疑人的動機。"
+        "body": "A <code>cynical</code> view may catch hypocrisy, but it can also miss real care."
       },
       {
         "label": "玩笑",
-        "body": "A cynical joke often makes virtue sound naive. 這裡放在玩笑情境時，是在說懷疑已經成為看世界的姿態，尤其是懷疑人的動機。"
+        "body": "A cynical joke often makes virtue sound naive."
       },
       {
         "label": "政治",
-        "body": "People become cynical about politics when promises repeatedly fail to meet lived reality. 這裡放在政治情境時，是在說懷疑已經成為看世界的姿態，尤其是懷疑人的動機。"
+        "body": "People become cynical about politics when promises repeatedly fail to meet lived reality."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cynical 整理成「先假定沒那麼好」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/cynical",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 cynical 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/cynical",
         "label": "Merriam-Webster"
       }

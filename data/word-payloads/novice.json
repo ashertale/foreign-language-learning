@@ -36,11 +36,11 @@
       },
       {
         "label": "程式",
-        "body": "在程式這類情境裡，<code>novice</code> 的重點是：不是能力差，而是剛進入某領域、還在建立基本模型的人。"
+        "body": "程式情境下，<code>novice</code> 不是能力差，而是剛進入某領域、還在建立基本模型的人。"
       },
       {
         "label": "完全新手",
-        "body": "A complete novice is starting without the background insiders forget they have. 這裡放在完全新手情境時，是在說強調某人剛進入領域、經驗和心智模型尚在建立。"
+        "body": "A complete novice is starting without the background insiders forget they have."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 novice 整理成「新手、初學者」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/novice",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 novice 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/novice",
         "label": "Merriam-Webster"
       }

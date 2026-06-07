@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.22"
     },
-    "coreIdea": "<code>peevish</code> 描述一種「小氣惱躁」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>peevish</code> 是小而刺的不耐煩掛在表面；不是爆怒，卻讓互動一直被惱躁刮到。",
     "definition": {
-      "summary": "形容一種「小氣惱躁」的狀態、氣質或外觀。",
+      "summary": "形容人易怒、煩躁、帶小氣的不耐感。",
       "contrast": {
         "word": "Irritable",
         "note": "<code>irritable</code> 是容易被惹毛；<code>peevish</code> 更像小小的不耐一路掛著。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>peevish</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "peevish tone",
           "register": "人際 / 敘事",
-          "note": "這個搭配常用來寫人因小事而煩、語氣發刺、情緒不耐。"
+          "note": "人因小事而煩、語氣發刺、情緒不耐。"
         },
         {
           "phrase": "peevish complaint",
           "register": "評論 / 口語",
-          "note": "這個搭配常用來寫人因小事而煩、語氣發刺、情緒不耐。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>peevish</code> 整理成「小氣惱躁」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/peevish",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>peevish</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/peevish",
         "label": "Merriam-Webster"
       }

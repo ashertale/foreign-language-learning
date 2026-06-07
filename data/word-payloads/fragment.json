@@ -36,11 +36,11 @@
       },
       {
         "label": "程式碼",
-        "body": "在程式碼這類情境裡，<code>fragment</code> 的重點是：不是完整部分，而是從整體裂出來的一小片。"
+        "body": "程式碼情境下，<code>fragment</code> 不是完整部分，而是從整體裂出來的一小片。"
       },
       {
         "label": "資料",
-        "body": "Fragmented data makes analysis expensive because the pieces no longer line up easily. 這裡放在資料情境時，是在說某物只是整體裂出或切出的部分，需小心不要過度推論。"
+        "body": "Fragmented data makes analysis expensive because the pieces no longer line up easily."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 fragment 整理成「碎片、片段或不完整的部分」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/fragment",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 fragment 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/fragment",
         "label": "Merriam-Webster"
       }

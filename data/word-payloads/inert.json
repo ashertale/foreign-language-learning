@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "材料",
-        "body": "An <code>inert</code> material does not readily react with other substances. 這裡放在材料情境時，是在說某物不只是暫停，而是本身缺少反應性或活力。"
+        "body": "An <code>inert</code> material does not readily react with other substances."
       },
       {
         "label": "回應",
-        "body": "The inert response worried users more than the original bug. 這裡放在回應情境時，是在說某物不只是暫停，而是本身缺少反應性或活力。"
+        "body": "The inert response worried users more than the original bug."
       },
       {
         "label": "保持",
-        "body": "A process can remain inert when no one owns the next action. 這裡放在保持情境時，是在說某物不只是暫停，而是本身缺少反應性或活力。"
+        "body": "A process can remain inert when no one owns the next action."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 inert 整理成「不動不反應」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/inert",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inert 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inert",
         "label": "Merriam-Webster"
       }

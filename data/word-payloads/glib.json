@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回答",
-        "body": "A <code>glib</code> answer can sound confident while evading the hard part of the question. 這裡放在回答情境時，是在說話語表面流利，卻迴避複雜度、責任或真誠。"
+        "body": "A <code>glib</code> answer can sound confident while evading the hard part of the question."
       },
       {
         "label": "評論",
-        "body": "Glib remarks make complexity look like a personality problem. 這裡放在評論情境時，是在說話語表面流利，卻迴避複雜度、責任或真誠。"
+        "body": "Glib remarks make complexity look like a personality problem."
       },
       {
         "label": "安慰",
-        "body": "Glib reassurance often raises anxiety because it skips the evidence people need. 這裡放在安慰情境時，是在說話語表面流利，卻迴避複雜度、責任或真誠。"
+        "body": "Glib reassurance often raises anxiety because it skips the evidence people need."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 glib 整理成「流利但空」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/glib",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 glib 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/glib",
         "label": "Merriam-Webster"
       }

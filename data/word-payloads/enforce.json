@@ -36,11 +36,11 @@
       },
       {
         "label": "政策",
-        "body": "在政策這類情境裡，<code>enforce</code> 的重點是：不是寫下規則，而是讓規則真的被執行。"
+        "body": "政策情境下，<code>enforce</code> 不是寫下規則，而是讓規則真的被執行。"
       },
       {
         "label": "限制",
-        "body": "To enforce constraints, the system must reject invalid states, not merely warn about them. 這裡放在限制情境時，是在說規則必須真的被執行、違反時會被擋下或處理。"
+        "body": "To enforce constraints, the system must reject invalid states, not merely warn about them."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enforce 整理成「強制執行、落實規則或限制」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enforce",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 enforce 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/enforce",
         "label": "Merriam-Webster"
       }

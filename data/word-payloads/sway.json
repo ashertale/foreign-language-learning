@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.40"
     },
-    "coreIdea": "<code>sway</code> 表示把事情往「牽動改向」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>sway</code> 寫的是立場、情緒或方向被一股力量慢慢帶偏，不一定是一次說服。",
     "definition": {
-      "summary": "表示把事情往「牽動改向」的方向推，或讓局面出現這種結果。",
+      "summary": "影響某人的判斷、情緒或方向，使其往另一邊傾斜。",
       "contrast": {
         "word": "Influence",
         "note": "<code>influence</code> 很廣；<code>sway</code> 更像把鐘擺推向另一側。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>sway</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "sway opinion",
           "register": "公共 / 媒體",
-          "note": "這個搭配常用來寫意見、情緒、票向或決定被力量帶向另一邊。"
+          "note": "意見、情緒、票向或決定被力量帶向另一邊。"
         },
         {
           "phrase": "sway the decision",
           "register": "管理 / 分析",
-          "note": "這個搭配常用來寫意見、情緒、票向或決定被力量帶向另一邊。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>sway</code> 整理成「牽動改向」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/sway",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>sway</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/sway",
         "label": "Merriam-Webster"
       }

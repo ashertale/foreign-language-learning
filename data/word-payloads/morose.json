@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.71"
     },
-    "coreIdea": "<code>morose</code> 描述一種「陰沉低落」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>morose</code> 的低落是整片壓下來的陰沉；它不只是安靜，而是情緒把空氣變暗。",
     "definition": {
-      "summary": "形容一種「陰沉低落」的狀態、氣質或外觀。",
+      "summary": "形容人陰沉、鬱悶、少話且情緒低落。",
       "contrast": {
         "word": "Sullen",
         "note": "<code>sullen</code> 常帶不合作或怨氣；<code>morose</code> 更像整個人被低氣壓罩住。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "人際",
-        "body": "After the setback, he grew <code>morose</code> and stopped joking with the team. 這裡放在人際情境時，是在說心情悶下去、讓整體氣氛也變灰。"
+        "body": "After the setback, he grew <code>morose</code> and stopped joking with the team."
       },
       {
         "label": "敘事",
-        "body": "The novel opens with a <code>morose</code> winter mood that never quite lifts. 這裡放在敘事情境時，是在說心情悶下去、讓整體氣氛也變灰。"
+        "body": "The novel opens with a <code>morose</code> winter mood that never quite lifts."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>morose</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "morose mood",
           "register": "敘事 / 心理",
-          "note": "這個搭配常用來寫心情悶下去、讓整體氣氛也變灰。"
+          "note": "心情悶下去、讓整體氣氛也變灰。"
         },
         {
           "phrase": "morose silence",
           "register": "人際 / 文學",
-          "note": "這個搭配常用來寫心情悶下去、讓整體氣氛也變灰。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>morose</code> 整理成「陰沉低落」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/morose",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>morose</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/morose",
         "label": "Merriam-Webster"
       }

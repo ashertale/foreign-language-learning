@@ -36,11 +36,11 @@
       },
       {
         "label": "理由",
-        "body": "A legitimate reason should survive being written down. 這裡放在理由情境時，是在說某主張、行為或權威有資格被承認，而不是只聽起來可以。"
+        "body": "A legitimate reason should survive being written down."
       },
       {
         "label": "權威",
-        "body": "Legitimate. 這裡放在權威情境時，是在說某主張、行為或權威有資格被承認，而不是只聽起來可以。"
+        "body": "Legitimate authority depends on rules people can recognize, not only on a title."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 legitimate 整理成「正當的、合法的或合理成立的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/legitimate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 legitimate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/legitimate",
         "label": "Merriam-Webster"
       }

@@ -36,11 +36,11 @@
       },
       {
         "label": "詢問",
-        "body": "A discreet inquiry asks what must be asked without turning it into gossip。 這裡放在詢問情境時，是在說資訊敏感、場合尷尬或需要保留分寸。"
+        "body": "A discreet inquiry asks what must be asked without turning it into gossip。"
       },
       {
         "label": "敏感資訊",
-        "body": "Be discreet about salary, health, or security details。 這裡放在敏感資訊情境時，是在說資訊敏感、場合尷尬或需要保留分寸。"
+        "body": "Be discreet about salary, health, or security details。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 discreet 整理成「謹慎、不張揚，避免引起不必要注意」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/discreet",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 discreet 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/discreet",
         "label": "Merriam-Webster"
       }

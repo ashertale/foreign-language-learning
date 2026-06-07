@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "專案版",
-        "body": "Supporting old devices entails maintaining legacy test paths. 這個情境凸顯「牽涉、需要、必然包含某種結果或工作」。"
+        "body": "Supporting old devices entails maintaining legacy test paths."
       },
       {
         "label": "決策版",
-        "body": "A faster release may <code>entail</code> higher operational risk. 讀這句時，焦點在「牽涉、需要、必然包含某種結果或工作」。"
+        "body": "A faster release may <code>entail</code> higher operational risk."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示牽涉、需要、必然包含某種結果或工作。",
-        "use": "用在「不是順便相關，而是某個選擇必然帶來的要求或後果」這類判斷上。"
+        "use": "用在某個選擇必然帶來的要求或後果時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 entail 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/entail",
         "label": "Merriam-Webster"
       }

@@ -36,11 +36,11 @@
       },
       {
         "label": "立場",
-        "body": "A neutral position can still care about the outcome; it just does not favor a side. 這裡放在立場情境時，是在說不偏向任一方，或效果被平衡掉。"
+        "body": "A neutral position can still care about the outcome; it just does not favor a side."
       },
       {
         "label": "環境",
-        "body": "在環境這類情境裡，<code>neutral</code> 的重點是：不是沒有影響，而是不偏向任何一邊。"
+        "body": "環境情境下，<code>neutral</code> 不是沒有影響，而是不偏向任何一邊。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 neutral 整理成「中立的、不帶偏向的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/neutral",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 neutral 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/neutral",
         "label": "Merriam-Webster"
       }

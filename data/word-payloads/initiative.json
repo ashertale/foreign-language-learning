@@ -36,11 +36,11 @@
       },
       {
         "label": "策略",
-        "body": "A strategic initiative needs resources, not just a title on a roadmap. 這裡放在策略情境時，是在說主動開始推進，或指一個被正式啟動的計畫。"
+        "body": "A strategic initiative needs resources, not just a title on a roadmap."
       },
       {
         "label": "新計畫",
-        "body": "A new initiative can fail if it adds work without removing older commitments. 這裡放在新計畫情境時，是在說主動開始推進，或指一個被正式啟動的計畫。"
+        "body": "A new initiative can fail if it adds work without removing older commitments."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 initiative 整理成「主動性、倡議或新計畫」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/initiative",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 initiative 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/initiative",
         "label": "Merriam-Webster"
       }

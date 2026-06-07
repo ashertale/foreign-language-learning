@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.39"
     },
-    "coreIdea": "<code>quibble</code> 表示把事情往「吹毛挑刺」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>quibble</code> 是把討論卡在細枝末節上；問題未必錯，但焦點小到拖慢真正判斷。",
     "definition": {
-      "summary": "表示把事情往「吹毛挑刺」的方向推，或讓局面出現這種結果。",
+      "summary": "對小細節或措辭挑剔爭辯，常讓主要問題被拖住。",
       "contrast": {
         "word": "Disagree",
         "note": "<code>disagree</code> 是不同意；<code>quibble</code> 暗示你在小地方卡太久。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>quibble</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "quibble over wording",
           "register": "會議 / 寫作",
-          "note": "這個搭配常用來寫對重點幫助不大的小差異反覆爭。"
+          "note": "對重點幫助不大的小差異反覆爭。"
         },
         {
           "phrase": "quibble with the details",
           "register": "評論 / 口語",
-          "note": "這個搭配常用來寫對重點幫助不大的小差異反覆爭。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>quibble</code> 整理成「吹毛挑刺」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/quibble",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>quibble</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/quibble",
         "label": "Merriam-Webster"
       }

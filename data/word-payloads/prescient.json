@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.28"
     },
-    "coreIdea": "<code>prescient</code> 描述一種「先見洞察」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>prescient</code> 不是事後看起來聰明，而是在別人還沒看見時就先抓到走向。",
     "definition": {
-      "summary": "形容一種「先見洞察」的狀態、氣質或外觀。",
+      "summary": "形容具有先見之明，能早早看出後來才明朗的趨勢。",
       "contrast": {
         "word": "Predictive",
         "note": "<code>predictive</code> 偏可預測；<code>prescient</code> 更像人有先見之明。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>prescient</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "prescient warning",
           "register": "評論 / 新聞",
-          "note": "這個搭配常用來寫觀察或判斷提前看出後續發展。"
+          "note": "觀察或判斷提前看出後續發展。"
         },
         {
           "phrase": "prescient analysis",
           "register": "研究 / 商務",
-          "note": "這個搭配常用來寫觀察或判斷提前看出後續發展。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>prescient</code> 整理成「先見洞察」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/prescient",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>prescient</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/prescient",
         "label": "Merriam-Webster"
       }

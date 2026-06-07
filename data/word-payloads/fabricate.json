@@ -32,7 +32,7 @@
     "usage": [
       {
         "label": "製造",
-        "body": "在製造這類情境裡，<code>fabricate</code> 的重點是：不是普通製作，而是建造出來；在負面語境裡也指捏造。"
+        "body": "製造情境下，<code>fabricate</code> 不是普通製作，而是建造出來；在負面語境裡也指捏造。"
       },
       {
         "label": "證據",
@@ -40,7 +40,7 @@
       },
       {
         "label": "故事",
-        "body": "A fabricated story may be internally neat because reality never constrained it. 這裡放在故事情境時，是在說實體製造，或負面地說某資訊被捏造出來。"
+        "body": "A fabricated story may be internally neat because reality never constrained it."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 fabricate 整理成「製造、建構，或捏造不實內容」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/fabricate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 fabricate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/fabricate",
         "label": "Merriam-Webster"
       }

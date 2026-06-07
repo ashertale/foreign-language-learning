@@ -36,11 +36,11 @@
       },
       {
         "label": "流程",
-        "body": "An efficient workflow removes waiting, rework, and unnecessary handoffs。 這裡放在流程情境時，是在說同樣結果下，資源消耗較少或浪費較低。"
+        "body": "An efficient workflow removes waiting, rework, and unnecessary handoffs。"
       },
       {
         "label": "能源",
-        "body": "Energy-efficient design treats power as a first-class constraint。 這裡放在能源情境時，是在說同樣結果下，資源消耗較少或浪費較低。"
+        "body": "Energy-efficient design treats power as a first-class constraint。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 efficient 整理成「有效率、低浪費地達成結果」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/efficient",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 efficient 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/efficient",
         "label": "Merriam-Webster"
       }

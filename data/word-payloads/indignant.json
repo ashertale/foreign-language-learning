@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回應",
-        "body": "在回應這類情境裡，<code>indignant</code> 的重點是：不是單純生氣，而是氣裡面帶著被冒犯和不公平感。"
+        "body": "回應情境下，<code>indignant</code> 不是單純生氣，而是氣裡面帶著被冒犯和不公平感。"
       },
       {
         "label": "言論",
-        "body": "They were indignant at the remark because it dismissed years of work. 這裡放在言論情境時，是在說怒氣來自不公平、冒犯或尊嚴被踩，而不是單純不爽。"
+        "body": "They were indignant at the remark because it dismissed years of work."
       },
       {
         "label": "聲音",
-        "body": "A voice can sound indignant even before it becomes loud. 這裡放在聲音情境時，是在說怒氣來自不公平、冒犯或尊嚴被踩，而不是單純不爽。"
+        "body": "A voice can sound indignant even before it becomes loud."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 indignant 整理成「因不公平而怒」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/indignant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 indignant 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/indignant",
         "label": "Merriam-Webster"
       }

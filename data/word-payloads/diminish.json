@@ -36,7 +36,7 @@
       },
       {
         "label": "風險",
-        "body": "Extra validation can diminish risk, but rarely erase it completely。 這裡放在風險情境時，是在說某種力道、價值或影響逐步變小。"
+        "body": "Extra validation can diminish risk, but rarely erase it completely。"
       },
       {
         "label": "報酬",
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 diminish 整理成「減少、削弱或降低重要性」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/diminish",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 diminish 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/diminish",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "動機",
-        "body": "在動機這類情境裡，<code>impute</code> 的重點是：不是只是看到結果，而是把背後原因算到某人頭上。"
+        "body": "動機情境下，<code>impute</code> 不是只是看到結果，而是把背後原因算到某人頭上。"
       },
       {
         "label": "責任",
-        "body": "The report imputed blame to leadership because the incentives were designed there. 這裡放在責任情境時，是在說你要說明責任、動機或意圖被放到某人名下。"
+        "body": "The report imputed blame to leadership because the incentives were designed there."
       },
       {
         "label": "意圖",
-        "body": "Courts may impute intent from patterns of action, not from one ambiguous sentence. 這裡放在意圖情境時，是在說你要說明責任、動機或意圖被放到某人名下。"
+        "body": "Courts may impute intent from patterns of action, not from one ambiguous sentence."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 impute 整理成「把原因算到誰頭上」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/impute",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 impute 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/impute",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.18"
     },
-    "coreIdea": "<code>paucity</code> 指那種「稀少短缺」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>paucity</code> 指少到你開始意識到缺口。",
     "definition": {
-      "summary": "指那種「稀少短缺」的狀態、力量、場面或事物。",
+      "summary": "指少到你開始意識到缺口。",
       "contrast": {
         "word": "Shortage",
         "note": "<code>shortage</code> 偏實際缺貨；<code>paucity</code> 更書面，也可指抽象資源稀少。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>paucity</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "paucity of evidence",
           "register": "研究 / 法律",
-          "note": "這個搭配常用來寫證據、資源、人才或機會少到成問題。"
+          "note": "證據、資源、人才或機會少到成問題。"
         },
         {
           "phrase": "paucity of resources",
           "register": "政策 / 管理",
-          "note": "這個搭配常用來寫證據、資源、人才或機會少到成問題。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>paucity</code> 整理成「稀少短缺」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/paucity",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>paucity</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/paucity",
         "label": "Merriam-Webster"
       }

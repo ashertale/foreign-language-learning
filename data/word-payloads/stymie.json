@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.34"
     },
-    "coreIdea": "<code>stymie</code> 表示把事情往「卡死阻住」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>stymie</code> 不是慢一點，而是障礙卡進關鍵路徑，讓事情幾乎無法繼續推進。",
     "definition": {
-      "summary": "表示把事情往「卡死阻住」的方向推，或讓局面出現這種結果。",
+      "summary": "阻礙、卡住計畫或進展，使原本的路徑難以前進。",
       "contrast": {
         "word": "Delay",
         "note": "<code>delay</code> 只是慢下來；<code>stymie</code> 更像整個被卡住。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>stymie</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "stymie progress",
           "register": "管理 / 政策",
-          "note": "這個搭配常用來寫進度、方案或成長被某個障礙拖到動不了。"
+          "note": "進度、方案或成長被某個障礙拖到動不了。"
         },
         {
           "phrase": "stymied by regulation",
           "register": "商務 / 媒體",
-          "note": "這個搭配常用來寫進度、方案或成長被某個障礙拖到動不了。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stymie</code> 整理成「卡死阻住」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/stymie",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stymie</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/stymie",
         "label": "Merriam-Webster"
       }

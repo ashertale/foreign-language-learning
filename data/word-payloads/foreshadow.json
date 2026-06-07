@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "結局",
-        "body": "The opening scene <code>foreshadowed</code> the ending without explaining it. 這裡放在結局情境時，是在說早期細節後來會被看成某件事的前兆。"
+        "body": "The opening scene <code>foreshadowed</code> the ending without explaining it."
       },
       {
         "label": "麻煩",
-        "body": "Small inconsistencies can foreshadow trouble if they cluster around the same boundary. 這裡放在麻煩情境時，是在說早期細節後來會被看成某件事的前兆。"
+        "body": "Small inconsistencies can foreshadow trouble if they cluster around the same boundary."
       },
       {
         "label": "改變",
-        "body": "A quiet staffing shift may foreshadow a larger change in strategy. 這裡放在改變情境時，是在說早期細節後來會被看成某件事的前兆。"
+        "body": "A quiet staffing shift may foreshadow a larger change in strategy."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 foreshadow 整理成「先投下影子」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/foreshadow",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 foreshadow 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/foreshadow",
         "label": "Merriam-Webster"
       }

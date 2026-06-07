@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "商務版",
-        "body": "The bank will <code>appraise</code> the property before approving the loan. 這個情境凸顯「評估、估價或審視價值與品質」。"
+        "body": "The bank will <code>appraise</code> the property before approving the loan."
       },
       {
         "label": "職場版",
-        "body": "A manager may <code>appraise</code> performance using specific criteria. 讀這句時，焦點在「評估、估價或審視價值與品質」。"
+        "body": "A manager may <code>appraise</code> performance using specific criteria."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示評估、估價或審視價值與品質。",
-        "use": "用在「不是隨口稱讚，而是評估價值、品質或表現」這類判斷上。"
+        "use": "用在評估價值、品質或表現時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 appraise 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/appraise",
         "label": "Merriam-Webster"
       }

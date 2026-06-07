@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "疾病",
-        "body": "A <code>debilitating</code> illness can shrink a person's daily world. 這裡放在疾病情境時，是在說削弱程度已經影響正常運作或行動能力。"
+        "body": "A <code>debilitating</code> illness can shrink a person's daily world."
       },
       {
         "label": "網路",
-        "body": "在網路這類情境裡，<code>debilitate</code> 的重點是：不是累而已，而是弱到原本能做的事開始做不動。"
+        "body": "網路情境下，<code>debilitate</code> 不是累而已，而是弱到原本能做的事開始做不動。"
       },
       {
         "label": "壓力",
-        "body": "Being debilitated by stress means stress has crossed from discomfort into lost function. 這裡放在壓力情境時，是在說削弱程度已經影響正常運作或行動能力。"
+        "body": "Being debilitated by stress means stress has crossed from discomfort into lost function."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 debilitate 整理成「弱到影響功能」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/debilitate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 debilitate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/debilitate",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.58"
     },
-    "coreIdea": "<code>staunch</code> 描述一種「堅定力挺」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>staunch</code> 的支持很硬、很穩；壓力來了仍站在同一邊。",
     "definition": {
-      "summary": "形容一種「堅定力挺」的狀態、氣質或外觀。",
+      "summary": "形容忠實、堅定支持，不容易被壓力動搖。",
       "contrast": {
         "word": "Loyal",
         "note": "<code>loyal</code> 是忠誠；<code>staunch</code> 更像公開而堅定地站住。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>staunch</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "staunch supporter",
           "register": "政治 / 人際",
-          "note": "這個搭配常用來寫忠誠、支持或立場穩固不搖。"
+          "note": "忠誠、支持或立場穩固不搖。"
         },
         {
           "phrase": "staunch defender",
           "register": "公共 / 評論",
-          "note": "這個搭配常用來寫忠誠、支持或立場穩固不搖。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>staunch</code> 整理成「堅定力挺」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/staunch",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>staunch</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/staunch",
         "label": "Merriam-Webster"
       }

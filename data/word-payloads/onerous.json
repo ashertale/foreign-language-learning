@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.61"
     },
-    "coreIdea": "<code>onerous</code> 描述一種「負擔沉重」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>onerous</code> 把要求寫成壓在身上的重量；麻煩不是小摩擦，而是足以拖垮執行者。",
     "definition": {
-      "summary": "形容一種「負擔沉重」的狀態、氣質或外觀。",
+      "summary": "形容責任、條件或程序負擔沉重、難以承受。",
       "contrast": {
         "word": "Demanding",
         "note": "<code>demanding</code> 是要求高；<code>onerous</code> 更強調負擔壓得人喘不過氣。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>onerous</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "onerous requirement",
           "register": "法律 / 制度",
-          "note": "這個搭配常用來寫規定、要求或責任重到不成比例。"
+          "note": "規定、要求或責任重到不成比例。"
         },
         {
           "phrase": "onerous burden",
           "register": "政策 / 管理",
-          "note": "這個搭配常用來寫規定、要求或責任重到不成比例。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>onerous</code> 整理成「負擔沉重」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/onerous",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>onerous</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/onerous",
         "label": "Merriam-Webster"
       }

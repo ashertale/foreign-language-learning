@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "文件版",
-        "body": "This revision supersedes all previous guidelines. 這個情境凸顯「取代、替代，使舊版本不再適用或不再居主位」。"
+        "body": "This revision supersedes all previous guidelines."
       },
       {
         "label": "技術版",
-        "body": "A new protocol may <code>supersede</code> an older workaround. 讀這句時，焦點在「取代、替代，使舊版本不再適用或不再居主位」。"
+        "body": "A new protocol may <code>supersede</code> an older workaround."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示取代、替代，使舊版本不再適用或不再居主位。",
-        "use": "用在「不是單純更新，而是新的版本取代舊版本，讓舊的失效或退場」這類判斷上。"
+        "use": "用在新的版本取代舊版本，讓舊的失效或退場時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 supersede 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/supersede",
         "label": "Merriam-Webster"
       }

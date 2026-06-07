@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "角色",
-        "body": "She acted as <code>liaison</code> between firmware and manufacturing during the rollout. 這裡放在角色情境時，是在說角色的價值是跨越兩方邊界、保持資訊流動與互信。"
+        "body": "She acted as <code>liaison</code> between firmware and manufacturing during the rollout."
       },
       {
         "label": "職位",
-        "body": "A liaison officer must know both the formal channel and the informal trust path. 這裡放在職位情境時，是在說角色的價值是跨越兩方邊界、保持資訊流動與互信。"
+        "body": "A liaison officer must know both the formal channel and the informal trust path."
       },
       {
         "label": "團隊",
-        "body": "A liaison between teams can prevent decisions from being translated into surprises. 這裡放在團隊情境時，是在說角色的價值是跨越兩方邊界、保持資訊流動與互信。"
+        "body": "A liaison between teams can prevent decisions from being translated into surprises."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 liaison 整理成「兩邊的橋梁」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/liaison",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 liaison 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/liaison",
         "label": "Merriam-Webster"
       }

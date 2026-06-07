@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "政策版",
-        "body": "The policy prohibits storing passwords in plain text. 這個情境凸顯「禁止、阻止某行為被允許發生」。"
+        "body": "The policy prohibits storing passwords in plain text."
       },
       {
         "label": "法律版",
-        "body": "The law prohibits discrimination in hiring. 讀這句時，焦點在「禁止、阻止某行為被允許發生」。"
+        "body": "The law prohibits discrimination in hiring."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示禁止、阻止某行為被允許發生。",
-        "use": "用在「不是不建議，而是用規則明確禁止」這類判斷上。"
+        "use": "用在用規則明確禁止時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 prohibit 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/prohibit",
         "label": "Merriam-Webster"
       }

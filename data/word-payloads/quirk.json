@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.06"
     },
-    "coreIdea": "<code>quirk</code> 指那種「小怪癖性」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>quirk</code> 指一個有點怪、但可辨認的小特徵。",
     "definition": {
-      "summary": "指那種「小怪癖性」的狀態、力量、場面或事物。",
+      "summary": "指一個有點怪、但可辨認的小特徵。",
       "contrast": {
         "word": "Bug",
         "note": "<code>bug</code> 是錯誤；<code>quirk</code> 可以怪，但不一定真的是壞掉。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>quirk</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "personality quirk",
           "register": "人際 / 評論",
-          "note": "這個搭配常用來寫人、系統或語言有點奇特但可辨認的習性。"
+          "note": "人、系統或語言有點奇特但可辨認的習性。"
         },
         {
           "phrase": "quirk of the system",
           "register": "工程 / 口語",
-          "note": "這個搭配常用來寫人、系統或語言有點奇特但可辨認的習性。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>quirk</code> 整理成「小怪癖性」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/quirk",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>quirk</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/quirk",
         "label": "Merriam-Webster"
       }

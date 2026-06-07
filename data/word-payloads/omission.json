@@ -36,11 +36,11 @@
       },
       {
         "label": "細節",
-        "body": "在細節這類情境裡，<code>omission</code> 的重點是：不是寫錯，而是該出現的東西缺席。"
+        "body": "細節情境下，<code>omission</code> 不是寫錯，而是該出現的東西缺席。"
       },
       {
         "label": "重大遺漏",
-        "body": "A material omission is serious because the missing fact would affect judgment. 這裡放在重大遺漏情境時，是在說問題來自某必要部分缺席，而不是已有內容錯誤。"
+        "body": "A material omission is serious because the missing fact would affect judgment."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 omission 整理成「遺漏、省略或未包含」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/omission",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 omission 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/omission",
         "label": "Merriam-Webster"
       }

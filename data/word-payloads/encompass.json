@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "文件版",
-        "body": "The policy encompasses data collection, retention, and deletion. 這個情境凸顯「包含、涵蓋，尤其是廣泛或完整的範圍」。"
+        "body": "The policy encompasses data collection, retention, and deletion."
       },
       {
         "label": "設計版",
-        "body": "A robust test plan should <code>encompass</code> edge cases, not only happy paths. 讀這句時，焦點在「包含、涵蓋，尤其是廣泛或完整的範圍」。"
+        "body": "A robust test plan should <code>encompass</code> edge cases, not only happy paths."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示包含、涵蓋，尤其是廣泛或完整的範圍。",
-        "use": "用在「不是只包含一點，而是把一整個範圍包進來」這類判斷上。"
+        "use": "用在把一整個範圍包進來時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 encompass 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/encompass",
         "label": "Merriam-Webster"
       }

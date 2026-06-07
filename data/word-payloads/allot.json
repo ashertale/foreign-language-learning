@@ -36,11 +36,11 @@
       },
       {
         "label": "資源",
-        "body": "在資源這類情境裡，<code>allot</code> 的重點是：不是隨手給一些，而是從有限總量中切出一份明確額度。"
+        "body": "資源情境下，<code>allot</code> 不是隨手給一些，而是從有限總量中切出一份明確額度。"
       },
       {
         "label": "座位",
-        "body": "Seats were allotted before registration opened to the wider group. 這裡放在座位情境時，是在說有限資源需要被切出明確份額。"
+        "body": "Seats were allotted before registration opened to the wider group."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 allot 整理成「切出份額」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/allot",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 allot 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/allot",
         "label": "Merriam-Webster"
       }

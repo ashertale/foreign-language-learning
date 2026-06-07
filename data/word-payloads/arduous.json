@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "旅程",
-        "body": "An <code>arduous</code> journey may be possible, but it asks for endurance rather than one burst of effort. 這裡放在旅程情境時，是在說困難需要長時間承受和持續努力，而不是短暫解題。"
+        "body": "An <code>arduous</code> journey may be possible, but it asks for endurance rather than one burst of effort."
       },
       {
         "label": "任務",
-        "body": "Refactoring. 這裡放在任務情境時，是在說困難需要長時間承受和持續努力，而不是短暫解題。"
+        "body": "Refactoring a tangled legacy module can be arduous even when each individual change is small."
       },
       {
         "label": "恢復",
-        "body": "Arduous recovery often means progress is slow, uneven, and still worth it. 這裡放在恢復情境時，是在說困難需要長時間承受和持續努力，而不是短暫解題。"
+        "body": "Arduous recovery often means progress is slow, uneven, and still worth it."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 arduous 整理成「艱鉅費力」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/arduous",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 arduous 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/arduous",
         "label": "Merriam-Webster"
       }

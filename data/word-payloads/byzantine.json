@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "程序",
-        "body": "A <code>byzantine</code> procedure makes simple requests pass through too many hidden gates. 這裡放在程序情境時，是在說複雜性不只是多，而是彎、繞、歷史層太厚。"
+        "body": "A <code>byzantine</code> procedure makes simple requests pass through too many hidden gates."
       },
       {
         "label": "規則",
-        "body": "Byzantine rules often preserve old compromises long after people forget why they existed. 這裡放在規則情境時，是在說複雜性不只是多，而是彎、繞、歷史層太厚。"
+        "body": "Byzantine rules often preserve old compromises long after people forget why they existed."
       },
       {
         "label": "系統",
-        "body": "A byzantine system can function and still punish every newcomer. 這裡放在系統情境時，是在說複雜性不只是多，而是彎、繞、歷史層太厚。"
+        "body": "A byzantine system can function and still punish every newcomer."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 byzantine 整理成「迷宮式繁複」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/byzantine",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 byzantine 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/byzantine",
         "label": "Merriam-Webster"
       }

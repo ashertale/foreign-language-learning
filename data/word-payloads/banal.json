@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "評論",
-        "body": "Calling a plot <code>banal</code> says it follows old moves without making them feel alive. 這裡放在評論情境時，是在說你要指出內容因過度熟悉而失去力量。"
+        "body": "Calling a plot <code>banal</code> says it follows old moves without making them feel alive."
       },
       {
         "label": "建議",
-        "body": "在建議這類情境裡，<code>banal</code> 的重點是：不是普通，而是因為講太多次，已經沒有力道也沒有新意。"
+        "body": "建議情境下，<code>banal</code> 不是普通，而是因為講太多次，已經沒有力道也沒有新意。"
       },
       {
         "label": "會議",
-        "body": "A banal remark fills airtime without changing anyone's understanding. 這裡放在會議情境時，是在說你要指出內容因過度熟悉而失去力量。"
+        "body": "A banal remark fills airtime without changing anyone's understanding."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 banal 整理成「陳腔濫調」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/banal",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 banal 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/banal",
         "label": "Merriam-Webster"
       }

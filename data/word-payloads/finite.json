@@ -36,11 +36,11 @@
       },
       {
         "label": "狀態機",
-        "body": "A finite state machine has a defined set of states, which makes behavior easier to reason about. 這裡放在狀態機情境時，是在說必須承認邊界、終點或資源不可無限使用。"
+        "body": "A finite state machine has a defined set of states, which makes behavior easier to reason about."
       },
       {
         "label": "時間",
-        "body": "Attention is finite; every meeting spends some of it. 這裡放在時間情境時，是在說必須承認邊界、終點或資源不可無限使用。"
+        "body": "Attention is finite; every meeting spends some of it."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 finite 整理成「有限的、有終點的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/finite",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 finite 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/finite",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.89"
     },
-    "coreIdea": "<code>rampant</code> 描述一種「失控蔓延」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>rampant</code> 寫的是失控蔓延；數量多只是結果，真正可怕的是擴散沒有被管住。",
     "definition": {
-      "summary": "形容一種「失控蔓延」的狀態、氣質或外觀。",
+      "summary": "形容問題、疾病、謠言或行為失控地蔓延。",
       "contrast": {
         "word": "Widespread",
         "note": "<code>widespread</code> 是分布很廣；<code>rampant</code> 還多了失控與惡化感。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>rampant</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "rampant corruption",
           "register": "政治 / 新聞",
-          "note": "這個搭配常用來寫腐敗、謠言、錯誤或某種行為到處擴散。"
+          "note": "腐敗、謠言、錯誤或某種行為到處擴散。"
         },
         {
           "phrase": "rampant speculation",
           "register": "媒體 / 財經",
-          "note": "這個搭配常用來寫腐敗、謠言、錯誤或某種行為到處擴散。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>rampant</code> 整理成「失控蔓延」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/rampant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>rampant</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/rampant",
         "label": "Merriam-Webster"
       }

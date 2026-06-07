@@ -36,11 +36,11 @@
       },
       {
         "label": "權限",
-        "body": "Enable access only after the ownership and audit path are clear。 這裡放在權限情境時，是在說你提供能力、條件或通道，讓某事變得可行。"
+        "body": "Enable access only after the ownership and audit path are clear。"
       },
       {
         "label": "合作",
-        "body": "Good tooling can enable collaboration by removing setup friction。 這裡放在合作情境時，是在說你提供能力、條件或通道，讓某事變得可行。"
+        "body": "Good tooling can enable collaboration by removing setup friction。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enable 整理成「使能、允許或提供條件」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enable",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 enable 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/enable",
         "label": "Merriam-Webster"
       }

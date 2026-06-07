@@ -36,11 +36,11 @@
       },
       {
         "label": "流程",
-        "body": "A linear process is easy to explain, but may fail when work needs feedback loops. 這裡放在流程情境時，是在說關係、流程或排列沿單一路徑發展。"
+        "body": "A linear process is easy to explain, but may fail when work needs feedback loops."
       },
       {
         "label": "關係",
-        "body": "A linear relationship means output changes predictably with input. 這裡放在關係情境時，是在說關係、流程或排列沿單一路徑發展。"
+        "body": "A linear relationship means output changes predictably with input."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 linear 整理成「線性的、按直線或單一路徑排列的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/linear",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 linear 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/linear",
         "label": "Merriam-Webster"
       }

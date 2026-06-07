@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "謊言",
-        "body": "在謊言這類情境裡，<code>blatant</code> 的重點是：不是看得出來而已，而是明顯到近乎不把規則放在眼裡。"
+        "body": "謊言情境下，<code>blatant</code> 不是看得出來而已，而是明顯到近乎不把規則放在眼裡。"
       },
       {
         "label": "偏見",
-        "body": "Blatant bias is not a subtle weighting problem; it is visible in the outcome. 這裡放在偏見情境時，是在說問題不但明顯，而且明顯到讓人覺得不應被放過。"
+        "body": "Blatant bias is not a subtle weighting problem; it is visible in the outcome."
       },
       {
         "label": "缺陷",
-        "body": "A blatant bug makes trust drop fast because users can see it immediately. 這裡放在缺陷情境時，是在說問題不但明顯，而且明顯到讓人覺得不應被放過。"
+        "body": "A blatant bug makes trust drop fast because users can see it immediately."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 blatant 整理成「公然明顯」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/blatant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 blatant 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/blatant",
         "label": "Merriam-Webster"
       }

@@ -36,7 +36,7 @@
       },
       {
         "label": "計畫",
-        "body": "A team may devise a migration plan when the old path is too risky to continue。 這裡放在計畫情境時，是在說方法本來不存在，需要你根據限制和目標構造出來。"
+        "body": "A team may devise a migration plan when the old path is too risky to continue。"
       },
       {
         "label": "策略",
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 devise 整理成「想出、設計或制定方法」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/devise",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 devise 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/devise",
         "label": "Merriam-Webster"
       }

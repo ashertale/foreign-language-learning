@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "僵局",
-        "body": "The negotiation reached an <code>impasse</code> when neither side could move without losing face. 這裡放在僵局情境時，是在說各方仍在，但沒有一條可走的下一步。"
+        "body": "The negotiation reached an <code>impasse</code> when neither side could move without losing face."
       },
       {
         "label": "預算",
-        "body": "A budget impasse can freeze decisions far beyond finance. 這裡放在預算情境時，是在說各方仍在，但沒有一條可走的下一步。"
+        "body": "A budget impasse can freeze decisions far beyond finance."
       },
       {
         "label": "狀態",
-        "body": "At an impasse, adding another meeting may only repeat the blockage. 這裡放在狀態情境時，是在說各方仍在，但沒有一條可走的下一步。"
+        "body": "At an impasse, adding another meeting may only repeat the blockage."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 impasse 整理成「卡到沒出口」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/impasse",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 impasse 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/impasse",
         "label": "Merriam-Webster"
       }

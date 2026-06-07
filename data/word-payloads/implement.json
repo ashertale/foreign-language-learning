@@ -36,11 +36,11 @@
       },
       {
         "label": "政策",
-        "body": "A policy is not implemented until people know what changes in daily work. 這裡放在政策情境時，是在說想法或規劃已經轉成可運作現實。"
+        "body": "A policy is not implemented until people know what changes in daily work."
       },
       {
         "label": "細節",
-        "body": "Implementation detail matters when abstraction leaks into user-visible behavior. 這裡放在細節情境時，是在說想法或規劃已經轉成可運作現實。"
+        "body": "Implementation detail matters when abstraction leaks into user-visible behavior."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 implement 整理成「實作、執行或落實計畫」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/implement",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 implement 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/implement",
         "label": "Merriam-Webster"
       }

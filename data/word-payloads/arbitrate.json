@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "法律版",
-        "body": "A neutral party may <code>arbitrate</code> a contract dispute. 這個情境凸顯「仲裁、裁決，通常由中立者處理爭議」。"
+        "body": "A neutral party may <code>arbitrate</code> a contract dispute."
       },
       {
         "label": "工程版",
-        "body": "A bus arbiter decides which device can access the shared resource. 讀這句時，焦點在「仲裁、裁決，通常由中立者處理爭議」。"
+        "body": "A bus arbiter decides which device can access the shared resource."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示仲裁、裁決，通常由中立者處理爭議。",
-        "use": "用在「不是加入爭吵，而是站到中間作出裁決或協調」這類判斷上。"
+        "use": "用在站到中間作出裁決或協調時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 arbitrate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/arbitrate",
         "label": "Merriam-Webster"
       }

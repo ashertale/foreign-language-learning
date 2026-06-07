@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "閱讀版",
-        "body": "Students <code>annotate</code> an article to track claims and evidence. 這個情境凸顯「在文字、圖片、資料或程式旁加上註解與標記」。"
+        "body": "Students <code>annotate</code> an article to track claims and evidence."
       },
       {
         "label": "資料版",
-        "body": "A labeling team may <code>annotate</code> images before training a model. 讀這句時，焦點在「在文字、圖片、資料或程式旁加上註解與標記」。"
+        "body": "A labeling team may <code>annotate</code> images before training a model."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示在文字、圖片、資料或程式旁加上註解與標記。",
-        "use": "用在「不是只看過，而是在文本或資料旁留下理解的痕跡」這類判斷上。"
+        "use": "用在在文本或資料旁留下理解的痕跡時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 annotate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/annotate",
         "label": "Merriam-Webster"
       }

@@ -36,11 +36,11 @@
       },
       {
         "label": "技術",
-        "body": "Obsolete technology may survive in old systems long after the ecosystem moves on. 這裡放在技術情境時，是在說某物因新需求或新方法出現而不再適用。"
+        "body": "Obsolete technology may survive in old systems long after the ecosystem moves on."
       },
       {
         "label": "淘汰",
-        "body": "在淘汰這類情境裡，<code>obsolete</code> 的重點是：不是老，而是已經被新方法或需求淘汰。"
+        "body": "淘汰情境下，<code>obsolete</code> 不是老，而是已經被新方法或需求淘汰。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 obsolete 整理成「過時的、已不再適用的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/obsolete",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 obsolete 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/obsolete",
         "label": "Merriam-Webster"
       }

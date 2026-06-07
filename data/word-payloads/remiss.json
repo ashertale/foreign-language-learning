@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.24"
     },
-    "coreIdea": "<code>remiss</code> 描述一種「失職疏漏」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>remiss</code> 指該做的責任沒有做到；錯不在能力差，而在疏忽了本該承擔的事。",
     "definition": {
-      "summary": "形容一種「失職疏漏」的狀態、氣質或外觀。",
+      "summary": "形容怠忽、疏漏，沒有履行應盡責任。",
       "contrast": {
         "word": "Careless",
         "note": "<code>careless</code> 是粗心；<code>remiss</code> 更強，點出責任上的失職。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>remiss</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "be remiss in one's duty",
           "register": "正式 / 治理",
-          "note": "這個搭配常用來寫責任本來明確，卻因疏忽或怠慢沒有完成。"
+          "note": "責任本來明確，卻因疏忽或怠慢沒有完成。"
         },
         {
           "phrase": "remiss oversight",
           "register": "法律 / 評論",
-          "note": "這個搭配常用來寫責任本來明確，卻因疏忽或怠慢沒有完成。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>remiss</code> 整理成「失職疏漏」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/remiss",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>remiss</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/remiss",
         "label": "Merriam-Webster"
       }

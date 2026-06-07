@@ -36,11 +36,11 @@
       },
       {
         "label": "訊號",
-        "body": "在訊號這類情境裡，<code>fidelity</code> 的重點是：不是漂亮程度，而是和原本對象保持多高的一致性。"
+        "body": "訊號情境下，<code>fidelity</code> 不是漂亮程度，而是和原本對象保持多高的一致性。"
       },
       {
         "label": "來源",
-        "body": "Fidelity to source means the adaptation keeps faith with what matters in the original. 這裡放在來源情境時，是在說判斷重現、轉換或承諾是否忠於原本對象。"
+        "body": "Fidelity to source means the adaptation keeps faith with what matters in the original."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 fidelity 整理成「忠實度、保真度或忠誠」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/fidelity",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 fidelity 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/fidelity",
         "label": "Merriam-Webster"
       }

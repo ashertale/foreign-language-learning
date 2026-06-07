@@ -36,11 +36,11 @@
       },
       {
         "label": "支援",
-        "body": "Generous support can mean time, money, attention, or patience. 這裡放在支援情境時，是在說給出的量、空間或善意超過最低限度。"
+        "body": "Generous support can mean time, money, attention, or patience."
       },
       {
         "label": "提議",
-        "body": "在提議這類情境裡，<code>generous</code> 的重點是：不是剛好夠，而是願意多給一點空間、資源或善意。"
+        "body": "提議情境下，<code>generous</code> 不是剛好夠，而是願意多給一點空間、資源或善意。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 generous 整理成「慷慨的、寬裕的或寬厚的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/generous",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 generous 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/generous",
         "label": "Merriam-Webster"
       }

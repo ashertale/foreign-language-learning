@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "歷史版",
-        "body": "The book chronicles the rise of a small company. 這個情境凸顯「按時間記錄事件，也可作名詞指編年史或紀錄」。"
+        "body": "The book chronicles the rise of a small company."
       },
       {
         "label": "工程版",
-        "body": "A clear incident report chronicles each decision during recovery. 讀這句時，焦點在「按時間記錄事件，也可作名詞指編年史或紀錄」。"
+        "body": "A clear incident report chronicles each decision during recovery."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示按時間記錄事件，也可作名詞指編年史或紀錄。",
-        "use": "用在「不是隨便記一筆，而是按時間把事件留下可追溯的紀錄」這類判斷上。"
+        "use": "用在按時間把事件留下可追溯的紀錄時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 chronicle 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/chronicle",
         "label": "Merriam-Webster"
       }

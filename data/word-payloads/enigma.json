@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "未解",
-        "body": "The failure pattern remained an <code>enigma</code> until someone compared clocks across machines. 這裡放在未解情境時，是在說未知不只是缺資訊，而是結構上令人費解、引人追問。"
+        "body": "The failure pattern remained an <code>enigma</code> until someone compared clocks across machines."
       },
       {
         "label": "政治",
-        "body": "A political enigma is not merely private; observers cannot map motives to moves. 這裡放在政治情境時，是在說未知不只是缺資訊，而是結構上令人費解、引人追問。"
+        "body": "A political enigma is not merely private; observers cannot map motives to moves."
       },
       {
         "label": "長期",
-        "body": "在長期這類情境裡，<code>enigma</code> 的重點是：不是一個小問題，而是整體都透著解不開的感覺。"
+        "body": "長期情境下，<code>enigma</code> 不是一個小問題，而是整體都透著解不開的感覺。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 enigma 整理成「難解之謎」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/enigma",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 enigma 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/enigma",
         "label": "Merriam-Webster"
       }

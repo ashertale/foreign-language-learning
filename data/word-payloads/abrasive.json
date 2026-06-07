@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "材料版",
-        "body": "An <code>abrasive</code> pad removes dirt by physically wearing the surface. 這個情境凸顯「會磨蝕的材料，或刺耳、粗魯、令人不快的態度」。"
+        "body": "An <code>abrasive</code> pad removes dirt by physically wearing the surface."
       },
       {
         "label": "人際版",
-        "body": "An <code>abrasive</code> comment may contain useful feedback, but people first feel the scrape. 讀這句時，焦點在「會磨蝕的材料，或刺耳、粗魯、令人不快的態度」。"
+        "body": "An <code>abrasive</code> comment may contain useful feedback, but people first feel the scrape."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容會磨蝕的材料，或刺耳、粗魯、令人不快的態度。",
-        "use": "用在「不是只是直接，而是像砂紙一樣磨人，讓互動變得刺痛」這類判斷上。"
+        "use": "用在像砂紙一樣磨人，讓互動變得刺痛時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 abrasive 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/abrasive",
         "label": "Merriam-Webster"
       }

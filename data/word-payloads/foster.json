@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "團隊版",
-        "body": "Psychological safety can <code>foster</code> honest feedback. 這個情境凸顯「培養、促進、助長，使某事得以發展」。"
+        "body": "Psychological safety can <code>foster</code> honest feedback."
       },
       {
         "label": "教育版",
-        "body": "Good questions <code>foster</code> curiosity more than quick answers do. 讀這句時，焦點在「培養、促進、助長，使某事得以發展」。"
+        "body": "Good questions <code>foster</code> curiosity more than quick answers do."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示培養、促進、助長，使某事得以發展。",
-        "use": "用在「不是直接製造，而是提供條件讓某件事慢慢長出來」這類判斷上。"
+        "use": "用在提供條件讓某件事慢慢長出來時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 foster 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/foster",
         "label": "Merriam-Webster"
       }

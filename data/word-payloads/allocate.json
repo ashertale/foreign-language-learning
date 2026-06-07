@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "專案版",
-        "body": "The team must <code>allocate</code> time for testing before release. 這個情境凸顯「按計畫或規則分配資源、時間、金錢或工作」。"
+        "body": "The team must <code>allocate</code> time for testing before release."
       },
       {
         "label": "系統版",
-        "body": "The firmware can <code>allocate</code> memory only after checking available space. 讀這句時，焦點在「按計畫或規則分配資源、時間、金錢或工作」。"
+        "body": "The firmware can <code>allocate</code> memory only after checking available space."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示按計畫或規則分配資源、時間、金錢或工作。",
-        "use": "用在「不是隨便分配，而是在有限資源下決定誰拿多少」這類判斷上。"
+        "use": "用在在有限資源下決定誰拿多少時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 allocate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/allocate",
         "label": "Merriam-Webster"
       }

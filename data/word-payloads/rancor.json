@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.12"
     },
-    "coreIdea": "<code>rancor</code> 指那種「積怨苦毒」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>rancor</code> 指積久了還沒散掉的怨恨。",
     "definition": {
-      "summary": "指那種「積怨苦毒」的狀態、力量、場面或事物。",
+      "summary": "指積久了還沒散掉的怨恨。",
       "contrast": {
         "word": "Anger",
         "note": "<code>anger</code> 可以是一時情緒；<code>rancor</code> 更像沉在底下、放久的怨。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>rancor</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "deep rancor",
           "register": "評論 / 人際",
-          "note": "這個搭配常用來寫人際或政治衝突中，怒氣沉澱成長久怨恨。"
+          "note": "人際或政治衝突中，怒氣沉澱成長久怨恨。"
         },
         {
           "phrase": "political rancor",
           "register": "政治 / 媒體",
-          "note": "這個搭配常用來寫人際或政治衝突中，怒氣沉澱成長久怨恨。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>rancor</code> 整理成「積怨苦毒」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/rancor",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>rancor</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/rancor",
         "label": "Merriam-Webster"
       }

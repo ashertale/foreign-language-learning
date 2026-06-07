@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "不當行為",
-        "body": "A policy that ignores repeated abuse may effectively <code>condone</code> misconduct. 這裡放在不當行為情境時，是在說你要指出某種容忍會讓錯誤被視為可接受。"
+        "body": "A policy that ignores repeated abuse may effectively <code>condone</code> misconduct."
       },
       {
         "label": "行為",
-        "body": "To condone the behavior is to let it remain inside the acceptable boundary. 這裡放在行為情境時，是在說你要指出某種容忍會讓錯誤被視為可接受。"
+        "body": "To condone the behavior is to let it remain inside the acceptable boundary."
       },
       {
         "label": "拒絕",
-        "body": "Refusing to condone a shortcut matters when the shortcut saves time but damages trust. 這裡放在拒絕情境時，是在說你要指出某種容忍會讓錯誤被視為可接受。"
+        "body": "Refusing to condone a shortcut matters when the shortcut saves time but damages trust."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 condone 整理成「明知有問題卻放過」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/condone",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 condone 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/condone",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.68"
     },
-    "coreIdea": "<code>nascent</code> 描述一種「初生未穩」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>nascent</code> 指事物剛冒出輪廓，尚未穩定；它有新生感，也帶脆弱和可塑性。",
     "definition": {
-      "summary": "形容一種「初生未穩」的狀態、氣質或外觀。",
+      "summary": "形容產業、想法、制度或習慣剛開始形成，尚未成熟。",
       "contrast": {
         "word": "Emerging",
         "note": "<code>emerging</code> 偏正在出現；<code>nascent</code> 更強調剛萌芽、還很脆弱。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "產業",
-        "body": "The company entered a <code>nascent</code> market before standards had settled. 這裡放在產業情境時，是在說新興產業、想法、習慣或制度剛冒出輪廓。"
+        "body": "The company entered a <code>nascent</code> market before standards had settled."
       },
       {
         "label": "習慣",
-        "body": "A <code>nascent</code> writing routine needs protection before it can become durable. 這裡放在習慣情境時，是在說新興產業、想法、習慣或制度剛冒出輪廓。"
+        "body": "A <code>nascent</code> writing routine needs protection before it can become durable."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>nascent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "nascent industry",
           "register": "商業 / 經濟",
-          "note": "這個搭配常用來寫新興產業、想法、習慣或制度剛冒出輪廓。"
+          "note": "新興產業、想法、習慣或制度剛冒出輪廓。"
         },
         {
           "phrase": "nascent stage",
           "register": "研究 / 分析",
-          "note": "這個搭配常用來寫新興產業、想法、習慣或制度剛冒出輪廓。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nascent</code> 整理成「初生未穩」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/nascent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nascent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/nascent",
         "label": "Merriam-Webster"
       }

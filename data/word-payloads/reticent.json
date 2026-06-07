@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.36"
     },
-    "coreIdea": "<code>reticent</code> 描述一種「寡言保留」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>reticent</code> 是知道可以說更多，卻選擇收著；它比 shy 更重保留和不願揭露。",
     "definition": {
-      "summary": "形容一種「寡言保留」的狀態、氣質或外觀。",
+      "summary": "形容寡言、保留，不願透露想法或細節。",
       "contrast": {
         "word": "Shy",
         "note": "<code>shy</code> 偏社交膽怯；<code>reticent</code> 更像有意識地收住話。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>reticent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "reticent about the details",
           "register": "人際 / 訪談",
-          "note": "這個搭配常用來寫人刻意少說、保留、或不願完全打開。"
+          "note": "人刻意少說、保留、或不願完全打開。"
         },
         {
           "phrase": "reticent manner",
           "register": "敘事 / 評論",
-          "note": "這個搭配常用來寫人刻意少說、保留、或不願完全打開。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>reticent</code> 整理成「寡言保留」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/reticent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>reticent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/reticent",
         "label": "Merriam-Webster"
       }

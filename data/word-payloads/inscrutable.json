@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "表情",
-        "body": "His <code>inscrutable</code> expression made the room work harder than the answer did. 這裡放在表情情境時，是在說資訊就在眼前，但意圖、原因或意義仍無法讀出來。"
+        "body": "His <code>inscrutable</code> expression made the room work harder than the answer did."
       },
       {
         "label": "沉默",
-        "body": "Inscrutable silence can be more destabilizing than open disagreement. 這裡放在沉默情境時，是在說資訊就在眼前，但意圖、原因或意義仍無法讀出來。"
+        "body": "Inscrutable silence can be more destabilizing than open disagreement."
       },
       {
         "label": "行為",
-        "body": "在行為這類情境裡，<code>inscrutable</code> 的重點是：不是神秘有趣，而是你怎麼看都看不穿。"
+        "body": "行為情境下，<code>inscrutable</code> 不是神秘有趣，而是你怎麼看都看不穿。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 inscrutable 整理成「看不穿」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/inscrutable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inscrutable 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inscrutable",
         "label": "Merriam-Webster"
       }

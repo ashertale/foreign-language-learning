@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "衝突版",
-        "body": "A senior engineer may mediate a disagreement between teams, not by choosing a winner, but by making both constraints explicit. 這裡放在衝突版情境時，是在說「不是直接決定誰對，而是在中間幫雙方找到可走的路」這類判斷上。"
+        "body": "A senior engineer may mediate a disagreement between teams, not by choosing a winner, but by making both constraints explicit."
       },
       {
         "label": "研究版",
-        "body": "Stress can mediate the relationship between workload and health, meaning it sits between the pressure and the outcome. 這裡放在研究版情境時，是在說「不是直接決定誰對，而是在中間幫雙方找到可走的路」這類判斷上。"
+        "body": "Stress can mediate the relationship between workload and health, meaning it sits between the pressure and the outcome."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示調解、居中協調；也可指作為中介因素。",
-        "use": "用在「不是直接決定誰對，而是在中間幫雙方找到可走的路」這類判斷上。"
+        "use": "用在在中間幫雙方找到可走的路時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 mediate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/mediate",
         "label": "Merriam-Webster"
       }

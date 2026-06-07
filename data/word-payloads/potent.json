@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "3.12"
     },
-    "coreIdea": "<code>potent</code> 描述一種「效力很強」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>potent</code> 說的是效力集中；份量未必大，但一點點就能明顯改變結果。",
     "definition": {
-      "summary": "形容一種「效力很強」的狀態、氣質或外觀。",
+      "summary": "形容力量、效果或影響很強，常有小量高效的感覺。",
       "contrast": {
         "word": "Powerful",
         "note": "<code>powerful</code> 是大而強；<code>potent</code> 更像濃度高、作用猛。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>potent</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "potent symbol",
           "register": "評論 / 文化",
-          "note": "這個搭配常用來寫藥物、訊號、象徵或說法力量濃度很高。"
+          "note": "藥物、訊號、象徵或說法力量濃度很高。"
         },
         {
           "phrase": "potent drug",
           "register": "醫療 / 科學",
-          "note": "這個搭配常用來寫藥物、訊號、象徵或說法力量濃度很高。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>potent</code> 整理成「效力很強」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/potent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>potent</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/potent",
         "label": "Merriam-Webster"
       }

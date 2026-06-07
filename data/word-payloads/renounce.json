@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.48"
     },
-    "coreIdea": "<code>renounce</code> 表示把事情往「公開棄絕」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>renounce</code> 是公開切斷自己和某權利、信念或身份的關係，語氣比私下放棄更正式。",
     "definition": {
-      "summary": "表示把事情往「公開棄絕」的方向推，或讓局面出現這種結果。",
+      "summary": "正式或公開放棄、棄絕某權利、信念、身份或主張。",
       "contrast": {
         "word": "Abandon",
         "note": "<code>abandon</code> 可以只是丟下；<code>renounce</code> 常有公開、正式切割的味道。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>renounce</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "renounce violence",
           "register": "政治 / 公共",
-          "note": "這個搭配常用來寫人明白宣告不再接受某信念、身份或權利。"
+          "note": "人明白宣告不再接受某信念、身份或權利。"
         },
         {
           "phrase": "renounce citizenship",
           "register": "法律 / 正式",
-          "note": "這個搭配常用來寫人明白宣告不再接受某信念、身份或權利。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>renounce</code> 整理成「公開棄絕」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/renounce",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>renounce</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/renounce",
         "label": "Merriam-Webster"
       }

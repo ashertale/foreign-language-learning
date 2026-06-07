@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "程式版",
-        "body": "The handler invokes a callback after the operation completes. 這個情境凸顯「援引、呼叫、喚起，使某個規則、函式或感覺發揮作用」。"
+        "body": "The handler invokes a callback after the operation completes."
       },
       {
         "label": "法律版",
-        "body": "The company invoked a clause in the contract. 讀這句時，焦點在「援引、呼叫、喚起，使某個規則、函式或感覺發揮作用」。"
+        "body": "The company invoked a clause in the contract."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示援引、呼叫、喚起，使某個規則、函式或感覺發揮作用。",
-        "use": "用在「不是只是提到，而是呼叫某個權力、規則、函式或意象來產生效果」這類判斷上。"
+        "use": "用在呼叫某個權力、規則、函式或意象來產生效果時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 invoke 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/invoke",
         "label": "Merriam-Webster"
       }

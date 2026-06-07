@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "會議版",
-        "body": "Please keep comments pertinent to the release decision. 這個情境凸顯「切題的、相關且有用的」。"
+        "body": "Please keep comments pertinent to the release decision."
       },
       {
         "label": "調查版",
-        "body": "The logs from that time window are the most pertinent evidence. 讀這句時，焦點在「切題的、相關且有用的」。"
+        "body": "The logs from that time window are the most pertinent evidence."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容切題的、相關且有用的。",
-        "use": "用在「不是所有相關都算，而是對眼前問題真正有用、切題」這類判斷上。"
+        "use": "用在對眼前問題真正有用、切題時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 pertinent 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/pertinent",
         "label": "Merriam-Webster"
       }

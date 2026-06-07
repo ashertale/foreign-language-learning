@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "嫌疑人",
-        "body": "New evidence <code>exonerated</code> the suspect after years of doubt. 這裡放在嫌疑人情境時，是在說某人原本被責任或罪名壓著，後來被證據卸下。"
+        "body": "New evidence <code>exonerated</code> the suspect after years of doubt."
       },
       {
         "label": "團隊",
-        "body": "The postmortem did not exonerate the team; it clarified which assumptions failed. 這裡放在團隊情境時，是在說某人原本被責任或罪名壓著，後來被證據卸下。"
+        "body": "The postmortem did not exonerate the team; it clarified which assumptions failed."
       },
       {
         "label": "完全",
-        "body": "To fully exonerate someone, the evidence must remove the charge, not merely soften it. 這裡放在完全情境時，是在說某人原本被責任或罪名壓著，後來被證據卸下。"
+        "body": "To fully exonerate someone, the evidence must remove the charge, not merely soften it."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 exonerate 整理成「證明無辜」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/exonerate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 exonerate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/exonerate",
         "label": "Merriam-Webster"
       }

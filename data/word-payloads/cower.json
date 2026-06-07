@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "恐懼",
-        "body": "The child <code>cowered</code> in fear when the shouting began. 這裡放在恐懼情境時，是在說恐懼讓人變小、退後、失去站直能力。"
+        "body": "The child <code>cowered</code> in fear when the shouting began."
       },
       {
         "label": "權威",
-        "body": "在權威這類情境裡，<code>cower</code> 的重點是：不是單純躲，而是整個人因害怕而縮起來。"
+        "body": "權威情境下，<code>cower</code> 不是單純躲，而是整個人因害怕而縮起來。"
       },
       {
         "label": "角落",
-        "body": "The image of cowering in the corner is physical and immediate. 這裡放在角落情境時，是在說恐懼讓人變小、退後、失去站直能力。"
+        "body": "The image of cowering in the corner is physical and immediate."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 cower 整理成「因害怕縮起來」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/cower",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 cower 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/cower",
         "label": "Merriam-Webster"
       }

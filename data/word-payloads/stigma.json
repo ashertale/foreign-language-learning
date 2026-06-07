@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.17"
     },
-    "coreIdea": "<code>stigma</code> 指那種「污名烙印」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>stigma</code> 指帶羞恥與排斥感的標記。",
     "definition": {
-      "summary": "指那種「污名烙印」的狀態、力量、場面或事物。",
+      "summary": "指帶羞恥與排斥感的標記。",
       "contrast": {
         "word": "Label",
         "note": "<code>label</code> 可以中性；<code>stigma</code> 幾乎一定帶負面烙印。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>stigma</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "social stigma",
           "register": "社會 / 政策",
-          "note": "這個搭配常用來寫某身分、疾病或經歷被社會附著羞恥與排斥。"
+          "note": "某身分、疾病或經歷被社會附著羞恥與排斥。"
         },
         {
           "phrase": "stigma around mental health",
           "register": "醫療 / 公共",
-          "note": "這個搭配常用來寫某身分、疾病或經歷被社會附著羞恥與排斥。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>stigma</code> 整理成「污名烙印」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/stigma",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>stigma</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/stigma",
         "label": "Merriam-Webster"
       }

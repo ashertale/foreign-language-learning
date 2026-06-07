@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.53"
     },
-    "coreIdea": "<code>ratify</code> 表示把事情往「正式批准」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>ratify</code> 把草案、協議或決定送進正式程序，讓它從「說好」變成「生效」。",
     "definition": {
-      "summary": "表示把事情往「正式批准」的方向推，或讓局面出現這種結果。",
+      "summary": "正式批准協議、法律或決定，使其具有正式效力。",
       "contrast": {
         "word": "Approve",
         "note": "<code>approve</code> 可以只是表示同意；<code>ratify</code> 更像經正式程序讓它生效。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>ratify</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "ratify the agreement",
           "register": "法律 / 政治",
-          "note": "這個搭配常用來寫協議、條款或決議經正式程序確認。"
+          "note": "協議、條款或決議經正式程序確認。"
         },
         {
           "phrase": "ratify the decision",
           "register": "治理 / 組織",
-          "note": "這個搭配常用來寫協議、條款或決議經正式程序確認。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>ratify</code> 整理成「正式批准」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/ratify",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>ratify</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/ratify",
         "label": "Merriam-Webster"
       }

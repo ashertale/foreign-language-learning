@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.71"
     },
-    "coreIdea": "<code>relapse</code> 表示把事情往「復發退回」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>relapse</code> 是改善後又掉回舊狀態；它帶有「好不容易離開，卻再次回去」的挫折感。",
     "definition": {
-      "summary": "表示把事情往「復發退回」的方向推，或讓局面出現這種結果。",
+      "summary": "在健康、行為或情況改善後復發，重新回到較差狀態。",
       "contrast": {
         "word": "Regress",
         "note": "<code>regress</code> 是整體退步；<code>relapse</code> 更像離開後又跌回老路。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>relapse</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "relapse into old habits",
           "register": "日常 / 管理",
-          "note": "這個搭配常用來寫病症、習慣或狀態改善後又回到舊問題。"
+          "note": "病症、習慣或狀態改善後又回到舊問題。"
         },
         {
           "phrase": "relapse after treatment",
           "register": "醫療 / 正式",
-          "note": "這個搭配常用來寫病症、習慣或狀態改善後又回到舊問題。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>relapse</code> 整理成「復發退回」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/relapse",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>relapse</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/relapse",
         "label": "Merriam-Webster"
       }

@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "心理版",
-        "body": "My inclination is to simplify the design before adding features. 這個情境凸顯「傾向、意願、偏好，也可指傾斜角度」。"
+        "body": "My inclination is to simplify the design before adding features."
       },
       {
         "label": "物理版",
-        "body": "The inclination of the surface affects how water drains. 讀這句時，焦點在「傾向、意願、偏好，也可指傾斜角度」。"
+        "body": "The inclination of the surface affects how water drains."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示傾向、意願、偏好，也可指傾斜角度。",
-        "use": "用在「不是已經做了決定，而是心裡或物理方向上有一個傾向」這類判斷上。"
+        "use": "用在心裡或物理方向上有一個傾向時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inclination 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inclination",
         "label": "Merriam-Webster"
       }

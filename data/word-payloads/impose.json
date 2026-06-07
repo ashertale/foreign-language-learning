@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "政策版",
-        "body": "The government may <code>impose</code> fines for violations. 這個情境凸顯「強加、施加，使某人承受規則、限制或負擔」。"
+        "body": "The government may <code>impose</code> fines for violations."
       },
       {
         "label": "工程版",
-        "body": "A strict memory limit imposes constraints on the design. 讀這句時，焦點在「強加、施加，使某人承受規則、限制或負擔」。"
+        "body": "A strict memory limit imposes constraints on the design."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示強加、施加，使某人承受規則、限制或負擔。",
-        "use": "用在「不是單純提出，而是把規則、負擔或限制加到別人身上」這類判斷上。"
+        "use": "用在把規則、負擔或限制加到別人身上時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 impose 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/impose",
         "label": "Merriam-Webster"
       }

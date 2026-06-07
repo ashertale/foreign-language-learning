@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "想法",
-        "body": "The best design review helped <code>meld</code> ideas rather than pick a winner too early. 這裡放在想法情境時，是在說結合後不是並排存在，而是彼此融合、產生新整體。"
+        "body": "The best design review helped <code>meld</code> ideas rather than pick a winner too early."
       },
       {
         "label": "團隊",
-        "body": "Two teams can meld into one team only after rituals and trust start to mix. 這裡放在團隊情境時，是在說結合後不是並排存在，而是彼此融合、產生新整體。"
+        "body": "Two teams can meld into one team only after rituals and trust start to mix."
       },
       {
         "label": "味道",
-        "body": "在味道這類情境裡，<code>meld</code> 的重點是：不是堆在一起，而是混到分不太出界線。"
+        "body": "味道情境下，<code>meld</code> 不是堆在一起，而是混到分不太出界線。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 meld 整理成「融合成一體」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/meld",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 meld 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/meld",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "3.02"
     },
-    "coreIdea": "<code>oblivious</code> 描述一種「渾然不覺」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>oblivious</code> 指訊號已在旁邊發生，當事人卻完全沒接到；它比 ordinary unaware 更有落差感。",
     "definition": {
-      "summary": "形容一種「渾然不覺」的狀態、氣質或外觀。",
+      "summary": "形容對周遭情況、風險或他人感受渾然不覺。",
       "contrast": {
         "word": "Unaware",
         "note": "<code>unaware</code> 是不知道；<code>oblivious</code> 更強，像整個人沒接收到外界訊號。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>oblivious</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "blissfully oblivious",
           "register": "口語 / 敘事",
-          "note": "這個搭配常用來寫人對明顯線索、氣氛或後果毫無感知。"
+          "note": "人對明顯線索、氣氛或後果毫無感知。"
         },
         {
           "phrase": "oblivious to the risk",
           "register": "管理 / 安全",
-          "note": "這個搭配常用來寫人對明顯線索、氣氛或後果毫無感知。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>oblivious</code> 整理成「渾然不覺」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/oblivious",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>oblivious</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/oblivious",
         "label": "Merriam-Webster"
       }

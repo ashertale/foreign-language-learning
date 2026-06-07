@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "資格版",
-        "body": "The device must pass safety tests to <code>qualify</code> for certification. 這個情境凸顯「符合資格，也表示修飾、限定某個說法」。"
+        "body": "The device must pass safety tests to <code>qualify</code> for certification."
       },
       {
         "label": "語氣版",
-        "body": "I should qualify my answer: this applies only to the current hardware revision. 讀這句時，焦點在「符合資格，也表示修飾、限定某個說法」。"
+        "body": "I should qualify my answer: this applies only to the current hardware revision."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示符合資格，也表示修飾、限定某個說法。",
-        "use": "用在「不是只有取得資格，也可以是替一句話加上限制條件」這類判斷上。"
+        "use": "用在不是只有取得資格，也可以是替一句話加上限制條件時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 qualify 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/qualify",
         "label": "Merriam-Webster"
       }

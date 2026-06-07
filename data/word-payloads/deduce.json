@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "推理版",
-        "body": "From the timestamps, we can <code>deduce</code> that the reset happened before the write completed. 這個情境凸顯「推論、演繹，從已知資訊得出結論」。"
+        "body": "From the timestamps, we can <code>deduce</code> that the reset happened before the write completed."
       },
       {
         "label": "日常版",
-        "body": "She deduced from his silence that he already knew the result. 讀這句時，焦點在「推論、演繹，從已知資訊得出結論」。"
+        "body": "She deduced from his silence that he already knew the result."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示推論、演繹，從已知資訊得出結論。",
-        "use": "用在「不是直接看見，而是從已知前提一步步推出結論」這類判斷上。"
+        "use": "用在從已知前提一步步推出結論時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 deduce 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/deduce",
         "label": "Merriam-Webster"
       }

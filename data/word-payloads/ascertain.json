@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "調查版",
-        "body": "Engineers must <code>ascertain</code> whether the failure is hardware or firmware. 這個情境凸顯「透過查證找出確切事實」。"
+        "body": "Engineers must <code>ascertain</code> whether the failure is hardware or firmware."
       },
       {
         "label": "正式版",
-        "body": "The report tries to <code>ascertain</code> the cause of the incident. 讀這句時，焦點在「透過查證找出確切事實」。"
+        "body": "The report tries to <code>ascertain</code> the cause of the incident."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示透過查證找出確切事實。",
-        "use": "用在「不是猜出答案，而是透過檢查把事實確認下來」這類判斷上。"
+        "use": "用在透過檢查把事實確認下來時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 ascertain 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/ascertain",
         "label": "Merriam-Webster"
       }

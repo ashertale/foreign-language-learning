@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "回覆",
-        "body": "A <code>brusque</code> reply can end a thread before the real issue is understood. 這裡放在回覆情境時，是在說溝通短到缺乏緩衝，使對方感覺被粗暴處理。"
+        "body": "A <code>brusque</code> reply can end a thread before the real issue is understood."
       },
       {
         "label": "態度",
-        "body": "A brusque manner may be efficient, but it often costs trust. 這裡放在態度情境時，是在說溝通短到缺乏緩衝，使對方感覺被粗暴處理。"
+        "body": "A brusque manner may be efficient, but it often costs trust."
       },
       {
         "label": "指示",
-        "body": "在指示這類情境裡，<code>brusque</code> 的重點是：不是有效率而已，而是快得幾乎不留情面。"
+        "body": "指示情境下，<code>brusque</code> 不是有效率而已，而是快得幾乎不留情面。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 brusque 整理成「生硬短促」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/brusque",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 brusque 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/brusque",
         "label": "Merriam-Webster"
       }

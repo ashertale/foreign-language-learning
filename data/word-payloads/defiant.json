@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "語氣",
-        "body": "Her <code>defiant</code> tone made the apology sound like another fight. 這裡放在語氣情境時，是在說不服從不是暗中拖延，而是明顯表現出來。"
+        "body": "Her <code>defiant</code> tone made the apology sound like another fight."
       },
       {
         "label": "立場",
-        "body": "在立場這類情境裡，<code>defiant</code> 的重點是：不是低調不服，而是把不服寫在表情和動作上。"
+        "body": "立場情境下，<code>defiant</code> 不是低調不服，而是把不服寫在表情和動作上。"
       },
       {
         "label": "持續",
-        "body": "To remain defiant after punishment means the pressure did not produce submission. 這裡放在持續情境時，是在說不服從不是暗中拖延，而是明顯表現出來。"
+        "body": "To remain defiant after punishment means the pressure did not produce submission."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 defiant 整理成「公開不服」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/defiant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 defiant 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/defiant",
         "label": "Merriam-Webster"
       }

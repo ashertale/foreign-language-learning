@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "對手",
-        "body": "在對手這類情境裡，<code>malign</code> 的重點是：不是普通批評，而是惡意地把對方描黑。"
+        "body": "對手情境下，<code>malign</code> 不是普通批評，而是惡意地把對方描黑。"
       },
       {
         "label": "證人",
-        "body": "Trying to malign the witness may distract from the evidence only briefly. 這裡放在證人情境時，是在說話語目的不是評估，而是傷害對方名聲。"
+        "body": "Trying to malign the witness may distract from the evidence only briefly."
       },
       {
         "label": "團隊",
-        "body": "Anonymous posts maligned the team online after the decision became unpopular. 這裡放在團隊情境時，是在說話語目的不是評估，而是傷害對方名聲。"
+        "body": "Anonymous posts maligned the team online after the decision became unpopular."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 malign 整理成「惡意描黑」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/malign",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 malign 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/malign",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.33"
     },
-    "coreIdea": "<code>nettle</code> 表示把事情往「刺得惱火」的方向推。重點不只在動作發生，而在那個動作怎麼改變局面。",
+    "coreIdea": "<code>nettle</code> 用在話語或舉動像細刺一樣碰到人，讓不滿不是爆開，而是卡在心裡發癢發火。",
     "definition": {
-      "summary": "表示把事情往「刺得惱火」的方向推，或讓局面出現這種結果。",
+      "summary": "使人被刺到、惱火或難以平靜，常是小刺激造成的持續不快。",
       "contrast": {
         "word": "Irritate",
         "note": "<code>irritate</code> 比較平；<code>nettle</code> 更像被帶刺的東西扎到。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "評論",
-        "body": "The patronizing tone <code>nettled</code> the team more than the rejection itself. 這裡放在評論情境時，是在說話語或舉動讓人煩躁、被刺到、難以平靜。"
+        "body": "The patronizing tone <code>nettled</code> the team more than the rejection itself."
       },
       {
         "label": "人際",
-        "body": "He was visibly <code>nettled</code> by the suggestion that his work lacked rigor. 這裡放在人際情境時，是在說話語或舉動讓人煩躁、被刺到、難以平靜。"
+        "body": "He was visibly <code>nettled</code> by the suggestion that his work lacked rigor."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>nettle</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "nettle the audience",
           "register": "評論 / 媒體",
-          "note": "這個搭配常用來寫話語或舉動讓人煩躁、被刺到、難以平靜。"
+          "note": "話語或舉動讓人煩躁、被刺到、難以平靜。"
         },
         {
           "phrase": "nettled by the remark",
           "register": "人際 / 敘事",
-          "note": "這個搭配常用來寫話語或舉動讓人煩躁、被刺到、難以平靜。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>nettle</code> 整理成「刺得惱火」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/nettle",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>nettle</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/nettle",
         "label": "Merriam-Webster"
       }

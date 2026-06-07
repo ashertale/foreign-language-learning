@@ -36,11 +36,11 @@
       },
       {
         "label": "健康",
-        "body": "A holistic view of reliability includes design, process, monitoring, and support. 這裡放在健康情境時，是在說部分之間的關係比單一部分本身更重要。"
+        "body": "A holistic view of reliability includes design, process, monitoring, and support."
       },
       {
         "label": "評估",
-        "body": "Holistic assessment can reveal that a local optimization hurts the whole system. 這裡放在評估情境時，是在說部分之間的關係比單一部分本身更重要。"
+        "body": "Holistic assessment can reveal that a local optimization hurts the whole system."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 holistic 整理成「整體性的、重視各部分互相影響的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/holistic",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 holistic 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/holistic",
         "label": "Merriam-Webster"
       }

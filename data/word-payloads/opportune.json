@@ -12,9 +12,9 @@
       "cefrLevel": "B2",
       "zipfFrequency": "2.91"
     },
-    "coreIdea": "<code>opportune</code> 描述一種「時機剛好」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>opportune</code> 說的是時機剛好打開，動作因此更有效；好處不只在內容，也在發生的那一刻。",
     "definition": {
-      "summary": "形容一種「時機剛好」的狀態、氣質或外觀。",
+      "summary": "形容時機恰當、剛好有利於某個行動或決定。",
       "contrast": {
         "word": "Timely",
         "note": "<code>timely</code> 是及時；<code>opportune</code> 更強調那個時機特別有利。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>opportune</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "opportune moment",
           "register": "商務 / 敘事",
-          "note": "這個搭配常用來寫某個動作、消息或轉向出現在非常合適的時點。"
+          "note": "某個動作、消息或轉向出現在非常合適的時點。"
         },
         {
           "phrase": "opportune time",
           "register": "正式 / 分析",
-          "note": "這個搭配常用來寫某個動作、消息或轉向出現在非常合適的時點。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>opportune</code> 整理成「時機剛好」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/opportune",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>opportune</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/opportune",
         "label": "Merriam-Webster"
       }

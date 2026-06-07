@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "細節",
-        "body": "The article used <code>lurid</code> detail to turn suffering into spectacle. 這裡放在細節情境時，是在說強烈呈現不是精準，而是讓人被刺到、被煽動。"
+        "body": "The article used <code>lurid</code> detail to turn suffering into spectacle."
       },
       {
         "label": "標題",
-        "body": "在標題這類情境裡，<code>lurid</code> 的重點是：不是鮮明，而是鮮明到讓人不舒服或覺得被炒作。"
+        "body": "標題情境下，<code>lurid</code> 不是鮮明，而是鮮明到讓人不舒服或覺得被炒作。"
       },
       {
         "label": "顏色",
-        "body": "Lurid colors may fit a poster and ruin a reading interface. 這裡放在顏色情境時，是在說強烈呈現不是精準，而是讓人被刺到、被煽動。"
+        "body": "Lurid colors may fit a poster and ruin a reading interface."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 lurid 整理成「聳動刺眼」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/lurid",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 lurid 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/lurid",
         "label": "Merriam-Webster"
       }

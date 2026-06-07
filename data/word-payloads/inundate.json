@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "收件匣",
-        "body": "Release day <code>inundated</code> the inbox with support requests. 這裡放在收件匣情境時，是在說大量事物湧入到超過處理能力。"
+        "body": "Release day <code>inundated</code> the inbox with support requests."
       },
       {
         "label": "請求",
-        "body": "The team was inundated with requests before it had triage rules. 這裡放在請求情境時，是在說大量事物湧入到超過處理能力。"
+        "body": "The team was inundated with requests before it had triage rules."
       },
       {
         "label": "洪水",
-        "body": "Floodwaters inundated the fields after the river broke its banks. 這裡放在洪水情境時，是在說大量事物湧入到超過處理能力。"
+        "body": "Floodwaters inundated the fields after the river broke its banks."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 inundate 整理成「大量淹沒」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/inundate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inundate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inundate",
         "label": "Merriam-Webster"
       }

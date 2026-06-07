@@ -36,11 +36,11 @@
       },
       {
         "label": "假設",
-        "body": "Implicit assumptions are dangerous because no one knows when they are being changed. 這裡放在假設情境時，是在說某事未明說，但靠脈絡、慣例或結構仍然存在。"
+        "body": "Implicit assumptions are dangerous because no one knows when they are being changed."
       },
       {
         "label": "語意",
-        "body": "Implicit meaning can be clear to insiders and invisible to newcomers. 這裡放在語意情境時，是在說某事未明說，但靠脈絡、慣例或結構仍然存在。"
+        "body": "Implicit meaning can be clear to insiders and invisible to newcomers."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 implicit 整理成「含蓄的、未明說但可推知的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/implicit",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 implicit 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/implicit",
         "label": "Merriam-Webster"
       }

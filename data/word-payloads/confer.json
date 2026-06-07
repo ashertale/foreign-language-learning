@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "授予版",
-        "body": "The certification confers the right to operate the equipment. 這個情境凸顯「授予，也可表示商議、協商」。"
+        "body": "The certification confers the right to operate the equipment."
       },
       {
         "label": "商議版",
-        "body": "The engineers conferred before changing the recovery plan. 讀這句時，焦點在「授予，也可表示商議、協商」。"
+        "body": "The engineers conferred before changing the recovery plan."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示授予，也可表示商議、協商。",
-        "use": "用在「不是單純給予，而是正式授予；也可以是為了判斷而商議」這類判斷上。"
+        "use": "用在正式授予；也可以是為了判斷而商議時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 confer 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/confer",
         "label": "Merriam-Webster"
       }

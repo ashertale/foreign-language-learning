@@ -36,7 +36,7 @@
       },
       {
         "label": "文件",
-        "body": "A concise explanation can still include constraints, examples, and failure cases。 這裡放在文件情境時，是在說資訊被壓縮後仍完整、清楚、可使用。"
+        "body": "A concise explanation can still include constraints, examples, and failure cases。"
       },
       {
         "label": "溝通",
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 concise 整理成「精簡、清楚且不浪費字句」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/concise",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 concise 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/concise",
         "label": "Merriam-Webster"
       }

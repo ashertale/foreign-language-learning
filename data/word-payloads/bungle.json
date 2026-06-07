@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "發布",
-        "body": "The company <code>bungled</code> the launch by changing the terms after users had already signed up. 這裡放在發布情境時，是在說結果壞，而且壞得像是處理者手法粗糙或判斷混亂。"
+        "body": "The company <code>bungled</code> the launch by changing the terms after users had already signed up."
       },
       {
         "label": "修理",
-        "body": "在修理這類情境裡，<code>bungle</code> 的重點是：不是單純失敗，而是因為處理笨拙，把事情越弄越亂。"
+        "body": "修理情境下，<code>bungle</code> 不是單純失敗，而是因為處理笨拙，把事情越弄越亂。"
       },
       {
         "label": "回應",
-        "body": "They bungled the response by sounding defensive before checking the facts. 這裡放在回應情境時，是在說結果壞，而且壞得像是處理者手法粗糙或判斷混亂。"
+        "body": "They bungled the response by sounding defensive before checking the facts."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 bungle 整理成「拙劣搞砸」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/bungle",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 bungle 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/bungle",
         "label": "Merriam-Webster"
       }

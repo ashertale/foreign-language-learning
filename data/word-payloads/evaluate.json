@@ -36,11 +36,11 @@
       },
       {
         "label": "性能",
-        "body": "Evaluate performance with workload that resembles real use, not just a flattering benchmark. 這裡放在性能情境時，是在說需要依標準和證據形成判斷，而不是只確認存在。"
+        "body": "Evaluate performance with workload that resembles real use, not just a flattering benchmark."
       },
       {
         "label": "風險",
-        "body": "To evaluate risk, consider likelihood, impact, and detectability. 這裡放在風險情境時，是在說需要依標準和證據形成判斷，而不是只確認存在。"
+        "body": "To evaluate risk, consider likelihood, impact, and detectability."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 evaluate 整理成「評估、衡量並形成判斷」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/evaluate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 evaluate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/evaluate",
         "label": "Merriam-Webster"
       }

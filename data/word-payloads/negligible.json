@@ -36,11 +36,11 @@
       },
       {
         "label": "風險",
-        "body": "A negligible risk may still be recorded, but it should not dominate design. 這裡放在風險情境時，是在說某個量雖然存在，但小到不應影響目前判斷。"
+        "body": "A negligible risk may still be recorded, but it should not dominate design."
       },
       {
         "label": "差異",
-        "body": "A negligible difference can matter only if the decision threshold is extremely tight. 這裡放在差異情境時，是在說某個量雖然存在，但小到不應影響目前判斷。"
+        "body": "A negligible difference can matter only if the decision threshold is extremely tight."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 negligible 整理成「微不足道、可忽略的」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/negligible",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 negligible 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/negligible",
         "label": "Merriam-Webster"
       }

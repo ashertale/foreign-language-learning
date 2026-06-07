@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "管理",
-        "body": "An <code>affable</code> manager makes it easier for weak signals to surface early. 這裡放在管理情境時，是在說某人的親切感讓他人容易開口或靠近。"
+        "body": "An <code>affable</code> manager makes it easier for weak signals to surface early."
       },
       {
         "label": "待客",
-        "body": "An affable host helps people relax before the real conversation begins. 這裡放在待客情境時，是在說某人的親切感讓他人容易開口或靠近。"
+        "body": "An affable host helps people relax before the real conversation begins."
       },
       {
         "label": "同事",
-        "body": "在同事這類情境裡，<code>affable</code> 的重點是：不是表面客氣，而是讓人很自然就敢靠近和開口。"
+        "body": "同事情境下，<code>affable</code> 不是表面客氣，而是讓人很自然就敢靠近和開口。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 affable 整理成「親切好相處」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/affable",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 affable 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/affable",
         "label": "Merriam-Webster"
       }

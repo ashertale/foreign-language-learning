@@ -36,11 +36,11 @@
       },
       {
         "label": "論證",
-        "body": "A logical fallacy can make a confident argument collapse. 這裡放在論證情境時，是在說錯誤來自推理方式，而不是單純資料輸入錯。"
+        "body": "A logical fallacy can make a confident argument collapse."
       },
       {
         "label": "常見錯法",
-        "body": "在常見錯法這類情境裡，<code>fallacy</code> 的重點是：不是單純錯誤，而是推理看似合理、其實有漏洞。"
+        "body": "常見錯法情境下，<code>fallacy</code> 不是單純錯誤，而是推理看似合理、其實有漏洞。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 fallacy 整理成「謬誤、錯誤推理或迷思」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/fallacy",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 fallacy 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/fallacy",
         "label": "Merriam-Webster"
       }

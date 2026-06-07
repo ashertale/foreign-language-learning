@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "迷思",
-        "body": "在迷思這類情境裡，<code>debunk</code> 的重點是：不是單純不同意，而是把它拆到大家看見原來站不住。"
+        "body": "迷思情境下，<code>debunk</code> 不是單純不同意，而是把它拆到大家看見原來站不住。"
       },
       {
         "label": "謠言",
-        "body": "A quick denial may not debunk the rumor unless it answers why people believed it. 這裡放在謠言情境時，是在說某個被相信的說法需要被證據拆掉。"
+        "body": "A quick denial may not debunk the rumor unless it answers why people believed it."
       },
       {
         "label": "主張",
-        "body": "To debunk a claim, show the evidence path, not only the conclusion. 這裡放在主張情境時，是在說某個被相信的說法需要被證據拆掉。"
+        "body": "To debunk a claim, show the evidence path, not only the conclusion."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 debunk 整理成「揭穿站不住」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/debunk",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 debunk 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/debunk",
         "label": "Merriam-Webster"
       }

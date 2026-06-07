@@ -36,11 +36,11 @@
       },
       {
         "label": "標準",
-        "body": "Different teams may harmonize standards so integration stops requiring translation. 這裡放在標準情境時，是在說多個不同部分需要協調共存，而不是被消除差異。"
+        "body": "Different teams may harmonize standards so integration stops requiring translation."
       },
       {
         "label": "資料",
-        "body": "在資料這類情境裡，<code>harmonize</code> 的重點是：不是讓所有東西相同，而是讓不同部分能協調共存。"
+        "body": "資料情境下，<code>harmonize</code> 不是讓所有東西相同，而是讓不同部分能協調共存。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 harmonize 整理成「協調、調和，使彼此不衝突」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/harmonize",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 harmonize 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/harmonize",
         "label": "Merriam-Webster"
       }

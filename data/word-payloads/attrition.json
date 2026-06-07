@@ -36,11 +36,11 @@
       },
       {
         "label": "戰爭",
-        "body": "A war of attrition is won by wearing the other side down, not by one clean strike. 這裡放在戰爭情境時，是在說損失是透過長時間小量消耗累積出來。"
+        "body": "A war of attrition is won by wearing the other side down, not by one clean strike."
       },
       {
         "label": "比率",
-        "body": "Attrition rate makes slow loss visible enough to manage. 這裡放在比率情境時，是在說損失是透過長時間小量消耗累積出來。"
+        "body": "Attrition rate makes slow loss visible enough to manage."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 attrition 整理成「逐步磨損」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/attrition",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 attrition 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/attrition",
         "label": "Merriam-Webster"
       }

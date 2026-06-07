@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "情緒",
-        "body": "The team was <code>exuberant</code> after the first successful field test. 這裡放在情緒情境時，是在說活力、喜悅或成長旺盛到明顯向外溢出。"
+        "body": "The team was <code>exuberant</code> after the first successful field test."
       },
       {
         "label": "成長",
-        "body": "Exuberant growth can be exciting and still require pruning. 這裡放在成長情境時，是在說活力、喜悅或成長旺盛到明顯向外溢出。"
+        "body": "Exuberant growth can be exciting and still require pruning."
       },
       {
         "label": "設計",
-        "body": "在設計這類情境裡，<code>exuberant</code> 的重點是：不是開心而已，而是整個人或整個場景都滿到往外溢。"
+        "body": "設計情境下，<code>exuberant</code> 不是開心而已，而是整個人或整個場景都滿到往外溢。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 exuberant 整理成「活力滿溢」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/exuberant",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 exuberant 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/exuberant",
         "label": "Merriam-Webster"
       }

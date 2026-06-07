@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "努力",
-        "body": "在努力這類情境裡，<code>futile</code> 的重點是：不是難成功，而是做了也很難改變結果。"
+        "body": "努力情境下，<code>futile</code> 不是難成功，而是做了也很難改變結果。"
       },
       {
         "label": "嘗試",
-        "body": "It was futile to tune the cache before fixing the invalidation bug. 這裡放在嘗試情境時，是在說行動即使付出努力，也幾乎不可能改變結果。"
+        "body": "It was futile to tune the cache before fixing the invalidation bug."
       },
       {
         "label": "抵抗",
-        "body": "Futile resistance sometimes preserves dignity, but not the outcome. 這裡放在抵抗情境時，是在說行動即使付出努力，也幾乎不可能改變結果。"
+        "body": "Futile resistance sometimes preserves dignity, but not the outcome."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 futile 整理成「徒勞無效」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/futile",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 futile 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/futile",
         "label": "Merriam-Webster"
       }

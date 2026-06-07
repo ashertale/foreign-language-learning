@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "寫作版",
-        "body": "A good summary <code>condenses</code> a long report without losing the argument. 這個情境凸顯「濃縮、壓縮、凝結，使內容更短或更集中」。"
+        "body": "A good summary <code>condenses</code> a long report without losing the argument."
       },
       {
         "label": "物理版",
-        "body": "Steam <code>condenses</code> when it cools into water. 讀這句時，焦點在「濃縮、壓縮、凝結，使內容更短或更集中」。"
+        "body": "Steam <code>condenses</code> when it cools into water."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示濃縮、壓縮、凝結，使內容更短或更集中。",
-        "use": "用在「不是刪到變少，而是把內容壓縮到更密、更集中」這類判斷上。"
+        "use": "用在把內容壓縮到更密、更集中時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 condense 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/condense",
         "label": "Merriam-Webster"
       }

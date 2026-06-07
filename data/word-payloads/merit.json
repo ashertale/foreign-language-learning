@@ -36,11 +36,11 @@
       },
       {
         "label": "評估",
-        "body": "Judge the design on merit before asking who proposed it. 這裡放在評估情境時，是在說要判斷某事本身是否有值得肯定或處理的理由。"
+        "body": "Judge the design on merit before asking who proposed it."
       },
       {
         "label": "考慮",
-        "body": "This issue merits consideration if it can affect user trust. 這裡放在考慮情境時，是在說要判斷某事本身是否有值得肯定或處理的理由。"
+        "body": "This issue merits consideration if it can affect user trust."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 merit 整理成「價值、優點或值得之處」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/merit",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 merit 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/merit",
         "label": "Merriam-Webster"
       }

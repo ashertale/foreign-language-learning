@@ -12,9 +12,9 @@
       "cefrLevel": "C2",
       "zipfFrequency": "2.07"
     },
-    "coreIdea": "<code>sagacious</code> 描述一種「睿智老練」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>sagacious</code> 的聰明帶經驗和分寸；它不是反應快，而是判斷成熟、看得深。",
     "definition": {
-      "summary": "形容一種「睿智老練」的狀態、氣質或外觀。",
+      "summary": "形容有智慧、有遠見，判斷老練而可靠。",
       "contrast": {
         "word": "Smart",
         "note": "<code>smart</code> 可以是反應快；<code>sagacious</code> 更像有歷練沉澱出的判斷。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>sagacious</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "sagacious advice",
           "register": "人物 / 評述",
-          "note": "這個搭配常用來寫看事有分寸、能抓輕重、判斷成熟。"
+          "note": "看事有分寸、能抓輕重、判斷成熟。"
         },
         {
           "phrase": "sagacious observer",
           "register": "正式 / 評論",
-          "note": "這個搭配常用來寫看事有分寸、能抓輕重、判斷成熟。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>sagacious</code> 整理成「睿智老練」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/sagacious",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>sagacious</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/sagacious",
         "label": "Merriam-Webster"
       }

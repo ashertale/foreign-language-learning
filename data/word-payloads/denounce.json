@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "腐敗",
-        "body": "在腐敗這類情境裡，<code>denounce</code> 的重點是：不是私下抱怨，而是站出來明白說這件事不行。"
+        "body": "腐敗情境下，<code>denounce</code> 不是私下抱怨，而是站出來明白說這件事不行。"
       },
       {
         "label": "做法",
-        "body": "Several groups denounced the practice as exploitative. 這裡放在做法情境時，是在說批評需要公開、強烈、道德立場清楚。"
+        "body": "Several groups denounced the practice as exploitative."
       },
       {
         "label": "攻擊",
-        "body": "Leaders denounced the attack before announcing concrete measures. 這裡放在攻擊情境時，是在說批評需要公開、強烈、道德立場清楚。"
+        "body": "Leaders denounced the attack before announcing concrete measures."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 denounce 整理成「公開斥責」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/denounce",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 denounce 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/denounce",
         "label": "Merriam-Webster"
       }

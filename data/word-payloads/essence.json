@@ -36,7 +36,7 @@
       },
       {
         "label": "摘要",
-        "body": "在摘要這類情境裡，<code>essence</code> 的重點是：不是表面細節，而是拿掉裝飾後仍然成立的核心。"
+        "body": "摘要情境下，<code>essence</code> 不是表面細節，而是拿掉裝飾後仍然成立的核心。"
       },
       {
         "label": "用法",
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 essence 整理成「本質、精華或核心特性」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/essence",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 essence 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/essence",
         "label": "Merriam-Webster"
       }

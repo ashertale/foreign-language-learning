@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "正式版",
-        "body": "The certificate can <code>attest</code> to the product's compliance. 這個情境凸顯「證明、證實、見證某事的真實性」。"
+        "body": "The certificate can <code>attest</code> to the product's compliance."
       },
       {
         "label": "結果版",
-        "body": "Stable test results <code>attest</code> to the robustness of the design. 讀這句時，焦點在「證明、證實、見證某事的真實性」。"
+        "body": "Stable test results <code>attest</code> to the robustness of the design."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示證明、證實、見證某事的真實性。",
-        "use": "用在「不是隨口說是真的，而是以證據或見證支持某件事」這類判斷上。"
+        "use": "用在以證據或見證支持某件事時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 attest 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/attest",
         "label": "Merriam-Webster"
       }

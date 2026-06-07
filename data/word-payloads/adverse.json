@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "風險版",
-        "body": "Adverse market conditions can delay a launch even when the product is ready. 這個情境凸顯「不利的、有害的、會造成負面影響的情況」。"
+        "body": "Adverse market conditions can delay a launch even when the product is ready."
       },
       {
         "label": "醫療版",
-        "body": "An <code>adverse</code> reaction means the treatment caused an unwanted effect. 讀這句時，焦點在「不利的、有害的、會造成負面影響的情況」。"
+        "body": "An <code>adverse</code> reaction means the treatment caused an unwanted effect."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容不利的、有害的、會造成負面影響的情況。",
-        "use": "用在「不是單純不好，而是會反向施壓、造成不利結果」這類判斷上。"
+        "use": "用在會反向施壓、造成不利結果時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 adverse 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/adverse",
         "label": "Merriam-Webster"
       }

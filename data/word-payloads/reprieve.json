@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.43"
     },
-    "coreIdea": "<code>reprieve</code> 指那種「暫緩喘息」的狀態、力量、場面或事物。它常把抽象感受壓縮成一個可指認的名詞。",
+    "coreIdea": "<code>reprieve</code> 指暫時鬆一口氣。",
     "definition": {
-      "summary": "指那種「暫緩喘息」的狀態、力量、場面或事物。",
+      "summary": "指暫時鬆一口氣。",
       "contrast": {
         "word": "Rescue",
         "note": "<code>rescue</code> 更像真正救出來；<code>reprieve</code> 常只是暫時放你一馬。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>reprieve</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "temporary reprieve",
           "register": "正式 / 新聞",
-          "note": "這個搭配常用來寫壓力、處罰或危機沒有完全解除，只是暫時延後或放鬆。"
+          "note": "壓力、處罰或危機沒有完全解除，只是暫時延後或放鬆。"
         },
         {
           "phrase": "grant a reprieve",
           "register": "法律 / 管理",
-          "note": "這個搭配常用來寫壓力、處罰或危機沒有完全解除，只是暫時延後或放鬆。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>reprieve</code> 整理成「暫緩喘息」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/reprieve",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>reprieve</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/reprieve",
         "label": "Merriam-Webster"
       }

@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.89"
     },
-    "coreIdea": "<code>pristine</code> 描述一種「未染原貌」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>pristine</code> 的乾淨帶未被碰過的原貌；它不只是清潔，而是沒有磨損、污染或破壞。",
     "definition": {
-      "summary": "形容一種「未染原貌」的狀態、氣質或外觀。",
+      "summary": "形容乾淨、原始、未受污染或幾乎未被使用。",
       "contrast": {
         "word": "Clean",
         "note": "<code>clean</code> 是乾淨；<code>pristine</code> 更像保留了最初狀態。"
@@ -44,17 +44,17 @@
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>pristine</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "pristine condition",
           "register": "日常 / 正式",
-          "note": "這個搭配常用來寫環境、狀態或物件保存得像初始一樣。"
+          "note": "環境、狀態或物件保存得像初始一樣。"
         },
         {
           "phrase": "pristine environment",
           "register": "自然 / 評論",
-          "note": "這個搭配常用來寫環境、狀態或物件保存得像初始一樣。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>pristine</code> 整理成「未染原貌」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/pristine",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>pristine</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/pristine",
         "label": "Merriam-Webster"
       }

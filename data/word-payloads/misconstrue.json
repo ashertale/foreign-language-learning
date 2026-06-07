@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "溝通版",
-        "body": "A short message can be misconstrued as rude without context. 這個情境凸顯「誤解、曲解，把某事理解錯」。"
+        "body": "A short message can be misconstrued as rude without context."
       },
       {
         "label": "法務版",
-        "body": "The clause should be clear enough not to be misconstrued. 讀這句時，焦點在「誤解、曲解，把某事理解錯」。"
+        "body": "The clause should be clear enough not to be misconstrued."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示誤解、曲解，把某事理解錯。",
-        "use": "用在「不是沒聽到，而是把意思理解錯方向」這類判斷上。"
+        "use": "用在把意思理解錯方向時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 misconstrue 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/misconstrue",
         "label": "Merriam-Webster"
       }

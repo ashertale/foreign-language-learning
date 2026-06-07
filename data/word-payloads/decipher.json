@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "文字版",
-        "body": "It took minutes to <code>decipher</code> the handwritten note. 這個情境凸顯「解讀、破譯、辨認難懂的文字或訊息」。"
+        "body": "It took minutes to <code>decipher</code> the handwritten note."
       },
       {
         "label": "工程版",
-        "body": "Logs help engineers <code>decipher</code> what happened before the crash. 讀這句時，焦點在「解讀、破譯、辨認難懂的文字或訊息」。"
+        "body": "Logs help engineers <code>decipher</code> what happened before the crash."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示解讀、破譯、辨認難懂的文字或訊息。",
-        "use": "用在「不是看見字而已，而是把難懂的符號或訊息解出意義」這類判斷上。"
+        "use": "用在把難懂的符號或訊息解出意義時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 decipher 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/decipher",
         "label": "Merriam-Webster"
       }

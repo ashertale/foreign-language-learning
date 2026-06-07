@@ -36,10 +36,12 @@ Default to Payload Mode: prepare one reusable JSON payload shaped like the seman
 5. Prefer plain text values with light inline HTML such as `<code>` only where the learning object benefits from it.
 6. Keep prose concept-first and reading-oriented. Do not write study-script lines such as `先讀搭配`, `如果你只能想起中文`, `最低摩擦入口`, or `這時重點是精準`.
 7. Keep usage examples natural. If a usage body is a natural English example, the Chinese learning context may live in the usage `label` or nearby prose.
-8. Let the word decide the emphasis. `usage`, `collocations.items`, `neighbors.others`, and `modernUse` are containers, not quotas.
-9. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
-10. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
-11. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run sync scripts, start a server, or parse existing word page HTML in this mode.
+8. Do not use generic filler such as `重點不只在動作發生`, `表示把事情往...方向推`, `這裡放在...情境時`, `這個搭配常用來寫...`, `本頁把...整理成...學習概念`, or `用在「...」這類判斷上`. Replace it with the specific pressure, boundary, scene, register, or consequence carried by the word.
+9. Avoid repeating the same explanatory frame inside one page. If two cards or notes start to explain themselves the same way, rewrite one around a concrete scene, collocation, contrast, or consequence.
+10. Let the word decide the emphasis. `usage`, `collocations.items`, `neighbors.others`, and `modernUse` are containers, not quotas.
+11. Fill `indexEntry` so it can later be copied into `prototypes/word-index.js`: `id`, `word`, `partOfSpeech`, `href`, `thesis`, and `tags`.
+12. Set `target.outputPath` to `prototypes/<word-slug>.html`. Persist reusable payload files under `data/word-payloads/<word-slug>.json` only when the user asks to save them.
+13. Return the JSON payload plus at most a short note about unresolved assumptions. Do not edit files, run sync scripts, start a server, or parse existing word page HTML in this mode.
 
 ## Render Mode
 
@@ -76,6 +78,7 @@ When asking LLM mode to create payloads:
 - Keep source notes factual and mnemonic images clearly separate from history.
 - The final artifact still has to be a valid payload JSON because the renderer and validators need semantic structure.
 - For batches, pause and rewrite by word if page prose starts repeating across words. Batch speed must not be paid for with repeated connector prose.
+- Never generate placeholder prose that points to the page structure instead of the word itself, such as `這裡放...`, `這個情境凸顯...`, or `這類判斷上`.
 
 You can print the local guidance with:
 
@@ -116,3 +119,5 @@ data/word-payloads/abstain.json
 - Source notes should be transparent but unobtrusive.
 - Treat memory hooks as learning aids, not historical claims.
 - Usage cards are validated at the card level (`label + body`). Do not force every `body` to contain Chinese if that creates artificial endings; keep examples natural and let labels carry compact Chinese context when appropriate.
+- Avoid empty abstraction. A sentence must name an observable scene, boundary, register, collocation, consequence, or contrast; if it only says the word changes the situation, rewrites the concept, or highlights a focus without saying what changes, remove it.
+- Do not repeat the same descriptive move inside one page. Core idea, usage, collocations, neighbors, and modern use should each earn their place with a different job.

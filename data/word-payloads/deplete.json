@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "電力版",
-        "body": "Background polling can <code>deplete</code> the battery faster than expected. 這個情境凸顯「大量消耗、耗盡，使資源明顯減少」。"
+        "body": "Background polling can <code>deplete</code> the battery faster than expected."
       },
       {
         "label": "人力版",
-        "body": "A long incident can <code>deplete</code> a team's attention and patience. 讀這句時，焦點在「大量消耗、耗盡，使資源明顯減少」。"
+        "body": "A long incident can <code>deplete</code> a team's attention and patience."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示大量消耗、耗盡，使資源明顯減少。",
-        "use": "用在「不是普通用掉，而是把存量消耗到明顯不足」這類判斷上。"
+        "use": "用在把存量消耗到明顯不足時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 deplete 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/deplete",
         "label": "Merriam-Webster"
       }

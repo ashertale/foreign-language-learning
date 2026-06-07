@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "風險版",
-        "body": "Wireless communication has inherent latency and interference risks. 這個情境凸顯「內在固有的、本身具有的特質」。"
+        "body": "Wireless communication has inherent latency and interference risks."
       },
       {
         "label": "設計版",
-        "body": "Every abstraction has inherent trade-offs. 讀這句時，焦點在「內在固有的、本身具有的特質」。"
+        "body": "Every abstraction has inherent trade-offs."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "形容內在固有的、本身具有的特質。",
-        "use": "用在「不是外面加上去的，而是事物本身就帶著的特性」這類判斷上。"
+        "use": "用在事物本身就帶著的特性時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 inherent 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/inherent",
         "label": "Merriam-Webster"
       }

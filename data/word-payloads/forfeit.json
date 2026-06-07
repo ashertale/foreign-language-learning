@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "押金",
-        "body": "If you cancel late, you may <code>forfeit</code> the deposit. 這裡放在押金情境時，是在說失去不是偶然掉了，而是因規則或條件被剝奪。"
+        "body": "If you cancel late, you may <code>forfeit</code> the deposit."
       },
       {
         "label": "比賽",
-        "body": "The team forfeited the game because it could not field enough players. 這裡放在比賽情境時，是在說失去不是偶然掉了，而是因規則或條件被剝奪。"
+        "body": "The team forfeited the game because it could not field enough players."
       },
       {
         "label": "機會",
-        "body": "Ignoring the deadline means you forfeit the chance to appeal. 這裡放在機會情境時，是在說失去不是偶然掉了，而是因規則或條件被剝奪。"
+        "body": "Ignoring the deadline means you forfeit the chance to appeal."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 forfeit 整理成「因代價而喪失」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/forfeit",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 forfeit 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/forfeit",
         "label": "Merriam-Webster"
       }

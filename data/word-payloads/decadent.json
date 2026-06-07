@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "甜點",
-        "body": "A <code>decadent</code> dessert is rich enough to feel like a small moral vacation. 這裡放在甜點情境時，是在說奢華或享樂超過節制，可能可愛也可能可疑。"
+        "body": "A <code>decadent</code> dessert is rich enough to feel like a small moral vacation."
       },
       {
         "label": "生活",
-        "body": "A decadent lifestyle turns comfort into identity. 這裡放在生活情境時，是在說奢華或享樂超過節制，可能可愛也可能可疑。"
+        "body": "A decadent lifestyle turns comfort into identity."
       },
       {
         "label": "時代",
-        "body": "在時代這類情境裡，<code>decadent</code> 的重點是：不是精緻享受而已，而是過度華麗到有點腐敗。"
+        "body": "時代情境下，<code>decadent</code> 不是精緻享受而已，而是過度華麗到有點腐敗。"
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 decadent 整理成「奢靡到過量」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/decadent",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 decadent 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/decadent",
         "label": "Merriam-Webster"
       }

@@ -32,11 +32,11 @@
     "usage": [
       {
         "label": "服務版",
-        "body": "Network noise can <code>disrupt</code> communication between devices. 這個情境凸顯「中斷、擾亂，使流程、服務或秩序無法照常運作」。"
+        "body": "Network noise can <code>disrupt</code> communication between devices."
       },
       {
         "label": "商業版",
-        "body": "A new platform can <code>disrupt</code> an established market. 讀這句時，焦點在「中斷、擾亂，使流程、服務或秩序無法照常運作」。"
+        "body": "A new platform can <code>disrupt</code> an established market."
       }
     ],
     "collocations": {
@@ -61,7 +61,7 @@
     "neighbors": {
       "self": {
         "meaning": "表示中斷、擾亂，使流程、服務或秩序無法照常運作。",
-        "use": "用在「不是普通改變，而是打斷原本穩定運作的流程或市場」這類判斷上。"
+        "use": "用在打斷原本穩定運作的流程或市場時。"
       },
       "others": [
         {
@@ -81,7 +81,7 @@
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 disrupt 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/disrupt",
         "label": "Merriam-Webster"
       }

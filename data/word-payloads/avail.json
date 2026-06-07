@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "失敗嘗試",
-        "body": "The team rolled back twice, but to no <code>avail</code>; the symptom returned each time. 這裡放在失敗嘗試情境時，是在說你要評估方法、努力或資源是否真正改變結果。"
+        "body": "The team rolled back twice, but to no <code>avail</code>; the symptom returned each time."
       },
       {
         "label": "資源",
-        "body": "To avail yourself of resources is to actively use what is available, not merely know it exists. 這裡放在資源情境時，是在說你要評估方法、努力或資源是否真正改變結果。"
+        "body": "To avail yourself of resources is to actively use what is available, not merely know it exists."
       },
       {
         "label": "語氣",
-        "body": "<code>Little avail</code> sounds formal and dry, often used when help was too small to change the outcome. 這裡放在語氣情境時，是在說你要評估方法、努力或資源是否真正改變結果。"
+        "body": "<code>Little avail</code> sounds formal and dry, often used when help was too small to change the outcome."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 avail 整理成「實際起作用」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/avail",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 avail 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/avail",
         "label": "Merriam-Webster"
       }

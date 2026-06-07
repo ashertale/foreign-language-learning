@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.91"
     },
-    "coreIdea": "<code>murky</code> 描述一種「混濁不明」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>murky</code> 把不清楚寫成混水感：資訊、動機或金流有輪廓，底下真正情況卻看不透。",
     "definition": {
-      "summary": "形容一種「混濁不明」的狀態、氣質或外觀。",
+      "summary": "形容混濁、陰暗或不透明，使人難以看清真相或細節。",
       "contrast": {
         "word": "Vague",
         "note": "<code>vague</code> 偏模糊；<code>murky</code> 更像有東西藏在混水裡。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "資訊",
-        "body": "The ownership trail remained <code>murky</code> even after the audit. 這裡放在資訊情境時，是在說資訊、動機、金流或局勢看不透。"
+        "body": "The ownership trail remained <code>murky</code> even after the audit."
       },
       {
         "label": "動機",
-        "body": "Their reasons for delaying the release still feel <code>murky</code>. 這裡放在動機情境時，是在說資訊、動機、金流或局勢看不透。"
+        "body": "Their reasons for delaying the release still feel <code>murky</code>."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>murky</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "murky details",
           "register": "調查 / 報導",
-          "note": "這個搭配常用來寫資訊、動機、金流或局勢看不透。"
+          "note": "資訊、動機、金流或局勢看不透。"
         },
         {
           "phrase": "murky waters",
           "register": "隱喻 / 評論",
-          "note": "這個搭配常用來寫資訊、動機、金流或局勢看不透。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>murky</code> 整理成「混濁不明」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/murky",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>murky</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/murky",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "抗議",
-        "body": "The speech helped <code>instigate</code> a protest that had been building for months. 這裡放在抗議情境時，是在說某人或某事成為事件啟動因素，尤其帶煽動或責任。"
+        "body": "The speech helped <code>instigate</code> a protest that had been building for months."
       },
       {
         "label": "改變",
-        "body": "在改變這類情境裡，<code>instigate</code> 的重點是：不是事情自己起來，而是有人在背後把火點著。"
+        "body": "改變情境下，<code>instigate</code> 不是事情自己起來，而是有人在背後把火點著。"
       },
       {
         "label": "衝突",
-        "body": "Public blame may instigate conflict even when the facts are still unclear. 這裡放在衝突情境時，是在說某人或某事成為事件啟動因素，尤其帶煽動或責任。"
+        "body": "Public blame may instigate conflict even when the facts are still unclear."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 instigate 整理成「點起開頭那根火柴」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/instigate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 instigate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/instigate",
         "label": "Merriam-Webster"
       }

@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "假設",
-        "body": "A <code>blithe</code> assumption can survive only until reality starts sending errors. 這裡放在假設情境時，是在說人的輕鬆態度與情境嚴重性不相稱。"
+        "body": "A <code>blithe</code> assumption can survive only until reality starts sending errors."
       },
       {
         "label": "忽視",
-        "body": "Blithe disregard for limits turns confidence into negligence. 這裡放在忽視情境時，是在說人的輕鬆態度與情境嚴重性不相稱。"
+        "body": "Blithe disregard for limits turns confidence into negligence."
       },
       {
         "label": "信心",
-        "body": "Blithe confidence sounds light, but it may hide a refusal to check facts. 這裡放在信心情境時，是在說人的輕鬆態度與情境嚴重性不相稱。"
+        "body": "Blithe confidence sounds light, but it may hide a refusal to check facts."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 blithe 整理成「輕率不在乎」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/blithe",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 blithe 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/blithe",
         "label": "Merriam-Webster"
       }

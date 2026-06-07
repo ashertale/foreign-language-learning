@@ -32,15 +32,15 @@
     "usage": [
       {
         "label": "做法",
-        "body": "The review deprecated the practice because it made failures harder to diagnose. 這裡放在做法情境時，是在說你要表達不贊成，或在技術文件中宣告某功能走向淘汰。"
+        "body": "The review deprecated the practice because it made failures harder to diagnose."
       },
       {
         "label": "技術 API",
-        "body": "We deprecated old APIs before removing them so downstream teams had time to migrate. 這裡放在技術 API情境時，是在說你要表達不贊成，或在技術文件中宣告某功能走向淘汰。"
+        "body": "We deprecated old APIs before removing them so downstream teams had time to migrate."
       },
       {
         "label": "言論",
-        "body": "To deprecate the remark is to signal disapproval without necessarily launching a full attack. 這裡放在言論情境時，是在說你要表達不贊成，或在技術文件中宣告某功能走向淘汰。"
+        "body": "To deprecate the remark is to signal disapproval without necessarily launching a full attack."
       }
     ],
     "collocations": {
@@ -87,12 +87,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Merriam-Webster；本頁將 deprecate 整理成「表達不贊成」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Merriam-Webster。",
         "url": "https://www.merriam-webster.com/dictionary/deprecate",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 deprecate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/deprecate",
         "label": "Merriam-Webster"
       }

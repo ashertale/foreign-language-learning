@@ -36,11 +36,11 @@
       },
       {
         "label": "決策",
-        "body": "A decision framework makes trade-offs visible before opinions harden. 這裡放在決策情境時，是在說需要一副可重用骨架來組織問題、工具或判斷。"
+        "body": "A decision framework makes trade-offs visible before opinions harden."
       },
       {
         "label": "軟體",
-        "body": "A software framework gives structure, but it also brings assumptions you must live with. 這裡放在軟體情境時，是在說需要一副可重用骨架來組織問題、工具或判斷。"
+        "body": "A software framework gives structure, but it also brings assumptions you must live with."
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 framework 整理成「框架、結構或思考架構」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/framework",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 framework 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/framework",
         "label": "Merriam-Webster"
       }

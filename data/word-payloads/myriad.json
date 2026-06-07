@@ -12,9 +12,9 @@
       "cefrLevel": "C1",
       "zipfFrequency": "2.86"
     },
-    "coreIdea": "<code>myriad</code> 描述一種「繁多鋪開」的狀態。它不只是在貼表面標籤，而是把氣壓、方向或隱含張力一起帶進來。",
+    "coreIdea": "<code>myriad</code> 不是精準報數，而是把原因、選項或細節寫成多到鋪滿視野。",
     "definition": {
-      "summary": "形容一種「繁多鋪開」的狀態、氣質或外觀。",
+      "summary": "形容數量極多、種類繁多，多到難以一眼數清。",
       "contrast": {
         "word": "Numerous",
         "note": "<code>numerous</code> 是數量多；<code>myriad</code> 更像一整片鋪滿視野。"
@@ -36,25 +36,25 @@
     "usage": [
       {
         "label": "原因",
-        "body": "There are <code>myriad</code> reasons a migration can stall after kickoff. 這裡放在原因情境時，是在說選項、原因、細節或變化多到一眼數不清。"
+        "body": "There are <code>myriad</code> reasons a migration can stall after kickoff."
       },
       {
         "label": "選項",
-        "body": "Users face <code>myriad</code> choices before they even reach the core action. 這裡放在選項情境時，是在說選項、原因、細節或變化多到一眼數不清。"
+        "body": "Users face <code>myriad</code> choices before they even reach the core action."
       }
     ],
     "collocations": {
-      "note": "這裡放 <code>myriad</code> 最自然連在一起的說法；中文註解會補它落在哪種語境與語氣。",
+      "note": "",
       "items": [
         {
           "phrase": "myriad reasons",
           "register": "分析 / 寫作",
-          "note": "這個搭配常用來寫選項、原因、細節或變化多到一眼數不清。"
+          "note": "選項、原因、細節或變化多到一眼數不清。"
         },
         {
           "phrase": "myriad forms",
           "register": "評論 / 描述",
-          "note": "這個搭配常用來寫選項、原因、細節或變化多到一眼數不清。"
+          "note": ""
         }
       ]
     },
@@ -76,12 +76,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準；本頁把 <code>myriad</code> 整理成「繁多鋪開」的學習概念。",
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
         "url": "https://www.merriam-webster.com/dictionary/myriad",
         "label": "Merriam-Webster"
       },
       "modern": {
-        "note": "本頁用 Merriam-Webster 的現代定義與例句邊界，整理 <code>myriad</code> 在日常、工作與抽象討論裡最自然的落點。",
+        "note": "本頁以 Merriam-Webster 的現代定義與例句校準用法。",
         "url": "https://www.merriam-webster.com/dictionary/myriad",
         "label": "Merriam-Webster"
       }

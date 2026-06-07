@@ -36,11 +36,11 @@
       },
       {
         "label": "選項",
-        "body": "Before choosing, enumerate options so trade-offs are visible。 這裡放在選項情境時，是在說你要完整逐項走過範圍，而不只是隨便列幾個例子。"
+        "body": "Before choosing, enumerate options so trade-offs are visible。"
       },
       {
         "label": "測試",
-        "body": "Enumerate edge cases before writing the happy-path test first。 這裡放在測試情境時，是在說你要完整逐項走過範圍，而不只是隨便列幾個例子。"
+        "body": "Enumerate edge cases before writing the happy-path test first。"
       }
     ],
     "collocations": {
@@ -92,12 +92,12 @@
     ],
     "sources": {
       "dictionary": {
-        "note": "定義、發音與核心義主要參考 Cambridge Dictionary；本頁將 enumerate 整理成「逐一列舉、編號或數出」的學習概念。",
+        "note": "定義、發音與核心義主要參考 Cambridge Dictionary。",
         "url": "https://dictionary.cambridge.org/dictionary/english/enumerate",
         "label": "Cambridge Dictionary"
       },
       "modern": {
-        "note": "Merriam-Webster 的現代定義與例句用來校準 enumerate 在正式、日常與專業英文中的使用邊界。",
+        "note": "Merriam-Webster 的現代定義與例句用來校準現代用法。",
         "url": "https://www.merriam-webster.com/dictionary/enumerate",
         "label": "Merriam-Webster"
       }
