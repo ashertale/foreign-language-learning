@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Transient",
+    "slug": "transient",
+    "outputPath": "prototypes/transient.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRAN-zee-uhnt · UK /ˈtræn.zi.ənt/ · US /ˈtræn.ʃənt/",
+    "hero": {
+      "thesis": "不是只是很短，而是短暫經過，不會久留，也不該被當作穩態。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.00"
+    },
+    "coreIdea": "<code>transient</code> 形容暫時存在、很快消失或只是過渡中的狀態；句子的力道來自狀態會經過而不是停住。",
+    "definition": {
+      "summary": "形容暫時存在、很快消失或只是過渡中的狀態。常見語境會讓狀態會經過而不是停住變得清楚。",
+      "contrast": {
+        "word": "Temporary",
+        "note": "<code>temporary</code> 偏一般暫時；transient 更像快速掠過或系統中的短暫擾動。"
+      },
+      "flow": [
+        "短暫出現",
+        "快速經過",
+        "不成為穩態"
+      ]
+    },
+    "origin": {
+      "history": "<code>transient</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1600, \"transitory, passing with time, not durable,\" from Latin transientem (nominative transiens ) \"passing over or away,\" present participle of transire \"cross over, go over, pass over, hasten over, pass away,\" from trans \"across, beyond\" (see trans- ) + ire \"to go\" (from PIE root *ei- \"to go\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>transient</code> 想成示波器上的尖峰一閃而過，不能拿它代表長期行為。",
+      "explanation": "這個畫面保留的是狀態會經過而不是停住，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "技術",
+        "body": "A <code>transient</code> voltage spike caused the reset."
+      },
+      {
+        "label": "心理",
+        "body": "焦慮有時是 <code>transient</code>，像雲影掠過，不等於整個人都壞掉。"
+      }
+    ],
+    "collocations": {
+      "note": "Transient 的自然搭配多半讓狀態會經過而不是停住具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "transient error",
+          "register": "工程",
+          "note": "短暫錯誤可能重試後消失，不一定代表永久故障。"
+        },
+        {
+          "phrase": "transient state",
+          "register": "系統 / 科學",
+          "note": "系統正在過渡，還沒進入穩定狀態。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "短暫經過，不會久留，也不該被當作穩態",
+        "use": "適合描述狀態會經過而不是停住的句子。"
+      },
+      "others": [
+        {
+          "word": "Temporary",
+          "meaning": "暫時使用或暫時存在",
+          "use": "若只說安排非永久，用 <code>temporary</code>；若說短暫經過，用 transient。"
+        }
+      ]
+    },
+    "modernUse": [
+      "雲端、電路與心理健康語境都常用 <code>transient</code>，提醒人不要把 passing state 誤判成 permanent condition。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/transient",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/transient",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "transient",
+    "word": "Transient",
+    "partOfSpeech": "adjective",
+    "href": "./transient.html",
+    "thesis": "不是只是很短，而是短暫經過，不會久留，也不該被當作穩態。",
+    "tags": [
+      "短暫過渡",
+      "不成穩態",
+      "temporary",
+      "transient error",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/transient",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/transient",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/transient",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

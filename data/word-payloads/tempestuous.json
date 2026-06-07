@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tempestuous",
+    "slug": "tempestuous",
+    "outputPath": "prototypes/tempestuous.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "tem-PES-choo-us · UK /temˈpes.tʃu.əs/ · US /temˈpes.tʃu.əs/",
+    "hero": {
+      "thesis": "不是只是情緒大，而是像暴風雨一樣激烈、混亂、難以平穩。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.32"
+    },
+    "coreIdea": "<code>tempestuous</code> 形容天氣、關係、情緒或時期充滿劇烈波動；句子的力道來自能量猛烈翻攪，穩定感被風暴打碎。",
+    "definition": {
+      "summary": "形容天氣、關係、情緒或時期充滿劇烈波動。常見語境會讓能量猛烈翻攪，穩定感被風暴打碎變得清楚。",
+      "contrast": {
+        "word": "Stormy",
+        "note": "<code>stormy</code> 可直指暴風雨；tempestuous 更常把風暴感搬到關係或歷史時期。"
+      },
+      "flow": [
+        "能量升高",
+        "情緒翻攪",
+        "穩定被打亂"
+      ]
+    },
+    "origin": {
+      "history": "<code>tempestuous</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., also tempestious , tempestous , \"very strong, turbulent, rough with wind and storm,\" from Late Latin tempestuosus \"stormy, turbulent,\" from Latin tempestas , tempestus \"storm, commotion; weather, season; occasion, time,\" related to tempus \"time, season\" (see temporal (adj.1)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tempestuous</code> 想成會議室裡不是下雨，卻像窗外有暴風把每句話吹歪。",
+      "explanation": "這個畫面保留的是能量猛烈翻攪，穩定感被風暴打碎，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "關係",
+        "body": "Their <code>tempestuous</code> partnership produced brilliant work and constant conflict."
+      },
+      {
+        "label": "時期",
+        "body": "那段產品轉型期很 <code>tempestuous</code>，方向每天都被新的壓力改寫。"
+      }
+    ],
+    "collocations": {
+      "note": "Tempestuous 的自然搭配多半讓能量猛烈翻攪，穩定感被風暴打碎具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tempestuous relationship",
+          "register": "敘事 / 心理",
+          "note": "關係強烈吸引又頻繁衝突，像風暴反覆進場。"
+        },
+        {
+          "phrase": "tempestuous period",
+          "register": "歷史 / 商務",
+          "note": "一段時期充滿劇烈變化和情緒壓力。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "像暴風雨一樣激烈、混亂、難以平穩",
+        "use": "適合描述能量猛烈翻攪，穩定感被風暴打碎的句子。"
+      },
+      "others": [
+        {
+          "word": "Stormy",
+          "meaning": "有風暴或氣氛不穩",
+          "use": "若只是天氣不好，用 <code>stormy</code>；若要戲劇性的混亂，用 tempestuous。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>tempestuous</code> 常用於 biography、politics、startups，描寫高能量但難以穩定的局面。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tempestuous",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tempestuous",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tempestuous",
+    "word": "Tempestuous",
+    "partOfSpeech": "adjective",
+    "href": "./tempestuous.html",
+    "thesis": "不是只是情緒大，而是像暴風雨一樣激烈、混亂、難以平穩。",
+    "tags": [
+      "暴風般激烈",
+      "劇烈波動",
+      "stormy",
+      "tempestuous relationship",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tempestuous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tempestuous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tempestuous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

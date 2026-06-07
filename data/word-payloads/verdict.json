@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Verdict",
+    "slug": "verdict",
+    "outputPath": "prototypes/verdict.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "VUR-dikt · UK /ˈvɜː.dɪkt/ · US /ˈvɝː.dɪkt/",
+    "hero": {
+      "thesis": "不是普通意見，而是經過審理、評估或判斷後給出的正式結論。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.51"
+    },
+    "coreIdea": "<code>verdict</code> 指陪審團或法庭裁決，也可指評論或評估後的結論；句子的力道來自結論帶有判斷完成的重量。",
+    "definition": {
+      "summary": "指陪審團或法庭裁決，也可指評論或評估後的結論。常見語境會讓結論帶有判斷完成的重量變得清楚。",
+      "contrast": {
+        "word": "Opinion",
+        "note": "<code>opinion</code> 可以只是看法；verdict 更像評估或審理後的定論。"
+      },
+      "flow": [
+        "證據或體驗被檢查",
+        "判斷形成",
+        "結論被宣告"
+      ]
+    },
+    "origin": {
+      "history": "<code>verdict</code> 字源依 Online Etymology Dictionary；來源段落記錄：1530s, \"a jury's decision in a case,\" an alteration of verdit (c. 1300), from Anglo-French verdit (Old French voirdit ) \"sworn testimony, affidavit; judgment, written record of a verdict,\" literally \"a true saying or report,\" from ver , veir \"true\" (from PIE root *were-o- \"true, trustworthy\") + dit , past participle of dire \"to say\" (from PIE root *deik- \"to show,\" also \"pronounce solemnly\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>verdict</code> 想成槌子敲下後，討論不只是聊天，而是有了定案。",
+      "explanation": "這個畫面保留的是結論帶有判斷完成的重量，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "法律",
+        "body": "The jury reached a <code>verdict</code> after two days."
+      },
+      {
+        "label": "評測",
+        "body": "測完電池、散熱和價格後，review 的 <code>verdict</code> 很清楚：不值得升級。"
+      }
+    ],
+    "collocations": {
+      "note": "Verdict 的自然搭配多半讓結論帶有判斷完成的重量具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "reach a verdict",
+          "register": "法律",
+          "note": "陪審團或判斷者形成最後裁決。"
+        },
+        {
+          "phrase": "final verdict",
+          "register": "評測 / 評論",
+          "note": "把前面的分析收成最後結論。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "經過審理、評估或判斷後給出的正式結論",
+        "use": "適合描述結論帶有判斷完成的重量的句子。"
+      },
+      "others": [
+        {
+          "word": "Opinion",
+          "meaning": "個人看法或主觀判斷",
+          "use": "若只是感想，用 <code>opinion</code>；若是正式或總結性判斷，用 verdict。"
+        }
+      ]
+    },
+    "modernUse": [
+      "科技評測常借法律語氣用 <code>verdict</code>，讓 review conclusion 聽起來像審理後的判斷。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/verdict",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/verdict",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "verdict",
+    "word": "Verdict",
+    "partOfSpeech": "noun",
+    "href": "./verdict.html",
+    "thesis": "不是普通意見，而是經過審理、評估或判斷後給出的正式結論。",
+    "tags": [
+      "裁決結論",
+      "評估後定論",
+      "opinion",
+      "final verdict",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/verdict",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/verdict",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/verdict",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Taut",
+    "slug": "taut",
+    "outputPath": "prototypes/taut.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAWT · UK /tɔːt/ · US /tɑːt/",
+    "hero": {
+      "thesis": "不是只是緊，而是拉到沒有鬆弛空間，情緒或線條都繃住。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.78"
+    },
+    "coreIdea": "<code>taut</code> 形容繩索、肌肉、文字或氣氛緊繃、精簡、沒有多餘鬆散；句子的力道來自張力已經拉滿，任何多餘空間都消失。",
+    "definition": {
+      "summary": "形容繩索、肌肉、文字或氣氛緊繃、精簡、沒有多餘鬆散。常見語境會讓張力已經拉滿，任何多餘空間都消失變得清楚。",
+      "contrast": {
+        "word": "Tight",
+        "note": "<code>tight</code> 很常用；taut 更像被拉直、拉緊，常帶 tension。"
+      },
+      "flow": [
+        "鬆弛消失",
+        "張力拉滿",
+        "表面繃住"
+      ]
+    },
+    "origin": {
+      "history": "<code>taut</code> 字源依 Online Etymology Dictionary；來源摘要提到 \"stretched or pulled tight, strained, not slack,\" possibly from tog-, past participle。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>taut</code> 想成一條繩子被拉到筆直，手再一動就能感到回彈。",
+      "explanation": "這個畫面保留的是張力已經拉滿，任何多餘空間都消失，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "身體 / 物理",
+        "body": "The rope was pulled <code>taut</code> before the climber moved."
+      },
+      {
+        "label": "寫作 / 氣氛",
+        "body": "那段 prose 很 <code>taut</code>，沒有一句多餘，壓力也沒有漏掉。"
+      }
+    ],
+    "collocations": {
+      "note": "Taut 的自然搭配多半讓張力已經拉滿，任何多餘空間都消失具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "taut rope",
+          "register": "物理 / 戶外",
+          "note": "繩子被拉直，沒有鬆垂。"
+        },
+        {
+          "phrase": "taut prose",
+          "register": "文學評論",
+          "note": "文字精簡有力，句子之間保持緊張感。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "拉到沒有鬆弛空間，情緒或線條都繃住",
+        "use": "適合描述張力已經拉滿，任何多餘空間都消失的句子。"
+      },
+      "others": [
+        {
+          "word": "Tight",
+          "meaning": "緊、貼合或不鬆",
+          "use": "若只是尺寸或固定程度，用 <code>tight</code> 足夠；要寫張力，用 taut。"
+        }
+      ]
+    },
+    "modernUse": [
+      "影評、書評與設計評論會用 <code>taut</code> 稱讚節奏緊、沒有拖泥帶水的作品。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/taut",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/taut",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "taut",
+    "word": "Taut",
+    "partOfSpeech": "adjective",
+    "href": "./taut.html",
+    "thesis": "不是只是緊，而是拉到沒有鬆弛空間，情緒或線條都繃住。",
+    "tags": [
+      "緊繃精煉",
+      "張力拉滿",
+      "tight",
+      "taut prose",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taut",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/taut",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taut",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Taint",
+    "slug": "taint",
+    "outputPath": "prototypes/taint.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "TAYNT · UK /teɪnt/ · US /teɪnt/",
+    "hero": {
+      "thesis": "不是普通弄髒，而是讓名聲、證據或判斷沾上難以忽略的污點。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.02"
+    },
+    "coreIdea": "<code>taint</code> 表示污染、損害或讓原本可信的東西失去乾淨感；句子的力道來自原本乾淨可信，後來留下會被懷疑的痕跡。",
+    "definition": {
+      "summary": "表示污染、損害或讓原本可信的東西失去乾淨感。常見語境會讓原本乾淨可信，後來留下會被懷疑的痕跡變得清楚。",
+      "contrast": {
+        "word": "Stain",
+        "note": "<code>stain</code> 偏向表面痕跡；taint 更常延伸到名聲、證據或動機被污染。"
+      },
+      "flow": [
+        "乾淨基準存在",
+        "污點滲入",
+        "可信度被削弱"
+      ]
+    },
+    "origin": {
+      "history": "<code>taint</code> 字源依 Online Etymology Dictionary；來源段落記錄：two distinct words of different origin overlap in the modern verb. From late 14c. as \"to dye, impart color,\" from Anglo-French teinter, Old French teindre \"to dye, color,\" from Latin tingere (see tincture , tint ). Teintour as an English surname, meaning probably \"one who dyes clothes,\" is from late 12c.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>taint</code> 想成一滴墨落進清水，水還在，但清澈感回不去了。",
+      "explanation": "這個畫面保留的是原本乾淨可信，後來留下會被懷疑的痕跡，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "名聲",
+        "body": "A single false report can <code>taint</code> a public figure's reputation for years."
+      },
+      {
+        "label": "證據",
+        "body": "污染的樣本會 <code>taint</code> the test results，讓結論變得不可靠。"
+      }
+    ],
+    "collocations": {
+      "note": "Taint 的自然搭配多半讓原本乾淨可信，後來留下會被懷疑的痕跡具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "taint a reputation",
+          "register": "媒體 / 法律",
+          "note": "名聲不是被弄髒表面，而是可信度被污點黏住。"
+        },
+        {
+          "phrase": "tainted evidence",
+          "register": "法律 / 調查",
+          "note": "證據來源或處理過程出問題，結論因此被懷疑。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓名聲、證據或判斷沾上難以忽略的污點",
+        "use": "適合描述原本乾淨可信，後來留下會被懷疑的痕跡的句子。"
+      },
+      "others": [
+        {
+          "word": "Stain",
+          "meaning": "留下可見或可辨認的污漬",
+          "use": "若只談衣服、牆面或材料上的痕跡，用 <code>stain</code> 更直。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在新聞、法律與研究語境裡，<code>taint</code> 常處理 trust 被污染後很難完全恢復的局面。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/taint",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/taint",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "taint",
+    "word": "Taint",
+    "partOfSpeech": "verb",
+    "href": "./taint.html",
+    "thesis": "不是普通弄髒，而是讓名聲、證據或判斷沾上難以忽略的污點。",
+    "tags": [
+      "玷污污染",
+      "可信度受損",
+      "stain",
+      "tainted evidence",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taint",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/taint",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taint",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Ulterior",
+    "slug": "ulterior",
+    "outputPath": "prototypes/ulterior.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "ul-TEER-ee-er · UK /ʌlˈtɪə.ri.ər/ · US /ʌlˈtɪr.i.ɚ/",
+    "hero": {
+      "thesis": "不是普通目的，而是表面理由之外另有隱藏動機。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.66"
+    },
+    "coreIdea": "<code>ulterior</code> 形容未明說、隱藏在背後的動機或目的；句子的力道來自真正推動行為的理由躲在表面說法後面。",
+    "definition": {
+      "summary": "形容未明說、隱藏在背後的動機或目的。常見語境會讓真正推動行為的理由躲在表面說法後面變得清楚。",
+      "contrast": {
+        "word": "Hidden",
+        "note": "<code>hidden</code> 只是藏起來；ulterior 幾乎總和 motive 搭配，帶懷疑感。"
+      },
+      "flow": [
+        "表面理由出現",
+        "背後動機藏住",
+        "信任變得不穩"
+      ]
+    },
+    "origin": {
+      "history": "<code>ulterior</code> 字源依 Online Etymology Dictionary；來源段落記錄：1640s, \"on the other side of\" any boundary or line, from Latin ulterior \"more distant, more remote, farther, on the farther side,\" comparative of *ulter \"beyond\" (from suffixed form of PIE root *al- \"beyond\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>ulterior</code> 想成一張邀請函後面夾著另一張沒讓你看的計畫表。",
+      "explanation": "這個畫面保留的是真正推動行為的理由躲在表面說法後面，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "Her offer sounded generous, but he suspected an <code>ulterior</code> motive."
+      },
+      {
+        "label": "商務",
+        "body": "免費工具若綁著資料收集，使用者會懷疑它有 <code>ulterior</code> purpose。"
+      }
+    ],
+    "collocations": {
+      "note": "Ulterior 的自然搭配多半讓真正推動行為的理由躲在表面說法後面具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "ulterior motive",
+          "register": "通用 / 人際",
+          "note": "最固定搭配，表示背後另有目的。"
+        },
+        {
+          "phrase": "ulterior purpose",
+          "register": "正式 / 評論",
+          "note": "表面目的之外還有隱藏的盤算。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表面理由之外另有隱藏動機",
+        "use": "適合描述真正推動行為的理由躲在表面說法後面的句子。"
+      },
+      "others": [
+        {
+          "word": "Hidden",
+          "meaning": "被遮住、不公開",
+          "use": "若只是看不見，用 <code>hidden</code>；若是暗藏動機，用 ulterior。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 privacy、platform 和 office politics 裡，<code>ulterior</code> 常提醒讀者 surface generosity may not be the real driver。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/ulterior",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/ulterior",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "ulterior",
+    "word": "Ulterior",
+    "partOfSpeech": "adjective",
+    "href": "./ulterior.html",
+    "thesis": "不是普通目的，而是表面理由之外另有隱藏動機。",
+    "tags": [
+      "隱藏動機",
+      "表面理由之外",
+      "hidden",
+      "ulterior motive",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ulterior",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/ulterior",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ulterior",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

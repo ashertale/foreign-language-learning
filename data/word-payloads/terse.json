@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Terse",
+    "slug": "terse",
+    "outputPath": "prototypes/terse.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TURS · UK /tɜːs/ · US /tɝːs/",
+    "hero": {
+      "thesis": "不是只是簡短，而是短到帶有冷、硬或不耐煩的語氣。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.70"
+    },
+    "coreIdea": "<code>terse</code> 形容話語簡短、有力，但常讓人感到不友善或緊繃；句子的力道來自字數被壓縮，情緒也跟著變硬。",
+    "definition": {
+      "summary": "形容話語簡短、有力，但常讓人感到不友善或緊繃。常見語境會讓字數被壓縮，情緒也跟著變硬變得清楚。",
+      "contrast": {
+        "word": "Concise",
+        "note": "<code>concise</code> 多半是稱讚精簡；terse 可能讓人覺得冷淡或急促。"
+      },
+      "flow": [
+        "文字變少",
+        "語氣變硬",
+        "距離感上升"
+      ]
+    },
+    "origin": {
+      "history": "<code>terse</code> 字源依 Online Etymology Dictionary；來源段落記錄：1590s (implied in tersely ), \"clean-cut, burnished, neat, appearing as if rubbed smooth or polished,\" from French ters \"clean,\" and directly from Latin tersus \"wiped off, clean, neat,\" from past participle of tergere \"to rub, polish, wipe,\" which is of uncertain origin.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>terse</code> 想成一句回覆像門縫裡遞出的紙條，資訊到了，溫度沒到。",
+      "explanation": "這個畫面保留的是字數被壓縮，情緒也跟著變硬，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "回覆",
+        "body": "Her <code>terse</code> reply made everyone wonder whether she was angry."
+      },
+      {
+        "label": "職場訊息",
+        "body": "一句 <code>terse</code> \"Fix it\" 會傳達壓力，卻不提供方向。"
+      }
+    ],
+    "collocations": {
+      "note": "Terse 的自然搭配多半讓字數被壓縮，情緒也跟著變硬具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "terse reply",
+          "register": "人際 / 職場",
+          "note": "回覆很短，而且短得讓人感到被推開。"
+        },
+        {
+          "phrase": "terse statement",
+          "register": "新聞 / 公關",
+          "note": "官方說法很短，常帶有拒絕多談的意味。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "短到帶有冷、硬或不耐煩的語氣",
+        "use": "適合描述字數被壓縮，情緒也跟著變硬的句子。"
+      },
+      "others": [
+        {
+          "word": "Concise",
+          "meaning": "簡潔、沒有多餘文字",
+          "use": "若要稱讚清楚精煉，用 <code>concise</code>；若語氣刺人，用 terse。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 email、chat 與 PR review 裡，<code>terse</code> 常指出文字短到影響協作氣氛。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/terse",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/terse",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "terse",
+    "word": "Terse",
+    "partOfSpeech": "adjective",
+    "href": "./terse.html",
+    "thesis": "不是只是簡短，而是短到帶有冷、硬或不耐煩的語氣。",
+    "tags": [
+      "簡短冷硬",
+      "字少語氣硬",
+      "concise",
+      "terse reply",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/terse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/terse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/terse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

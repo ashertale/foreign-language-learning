@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Torrent",
+    "slug": "torrent",
+    "outputPath": "prototypes/torrent.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TOR-uhnt · UK /ˈtɒr.ənt/ · US /ˈtɔːr.ənt/",
+    "hero": {
+      "thesis": "不是普通大量，而是像急流一樣猛烈湧來的大量事物。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.96"
+    },
+    "coreIdea": "<code>torrent</code> 指急流、暴雨般的流動，也可指言語、資料或情緒大量湧出；句子的力道來自量大而且來勢急。",
+    "definition": {
+      "summary": "指急流、暴雨般的流動，也可指言語、資料或情緒大量湧出。常見語境會讓量大而且來勢急變得清楚。",
+      "contrast": {
+        "word": "Stream",
+        "note": "<code>stream</code> 可以是穩定流；torrent 帶有猛烈、壓倒性的湧動。"
+      },
+      "flow": [
+        "壓力累積",
+        "大量湧出",
+        "接收者被淹沒"
+      ]
+    },
+    "origin": {
+      "history": "<code>torrent</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1600, \"swift, violent stream of water,\" from French torrent (16c.) and directly from Latin torrentem (nominative torrens ) \"rushing, roaring\" (of streams), also \"a rushing stream;\" noun use of an adjective, \"roaring, boiling,\" originally \"burning, parching, hot, inflamed,\" present participle of torrere \"to parch\" (from PIE root *ters- \"to dry\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>torrent</code> 想成山溝裡的水突然暴漲，聲音和速度一起衝下來。",
+      "explanation": "這個畫面保留的是量大而且來勢急，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "語言",
+        "body": "The announcement triggered a <code>torrent</code> of criticism online."
+      },
+      {
+        "label": "資料",
+        "body": "log 量突然變成 a <code>torrent</code>，monitoring dashboard 一度看不清重點。"
+      }
+    ],
+    "collocations": {
+      "note": "Torrent 的自然搭配多半讓量大而且來勢急具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "torrent of abuse",
+          "register": "新聞 / 社群",
+          "note": "辱罵大量且猛烈地湧來。"
+        },
+        {
+          "phrase": "torrent of data",
+          "register": "技術 / 分析",
+          "note": "資料量像急流，不容易即時整理。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "像急流一樣猛烈湧來的大量事物",
+        "use": "適合描述量大而且來勢急的句子。"
+      },
+      "others": [
+        {
+          "word": "Stream",
+          "meaning": "連續流動或資料流",
+          "use": "若流動平穩，用 <code>stream</code>；若來得猛烈，用 torrent。"
+        }
+      ]
+    },
+    "modernUse": [
+      "社群、資料與新聞語境常用 <code>torrent</code> 描述 sudden high-volume flow 帶來的壓迫感。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/torrent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/torrent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "torrent",
+    "word": "Torrent",
+    "partOfSpeech": "noun",
+    "href": "./torrent.html",
+    "thesis": "不是普通大量，而是像急流一樣猛烈湧來的大量事物。",
+    "tags": [
+      "急流大量湧來",
+      "來勢猛烈",
+      "stream",
+      "torrent of data",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/torrent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/torrent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/torrent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

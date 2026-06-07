@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Upend",
+    "slug": "upend",
+    "outputPath": "prototypes/upend.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "up-END · UK /ʌpˈend/ · US /ʌpˈend/",
+    "hero": {
+      "thesis": "不是普通改變，而是把原本穩定的安排整個翻倒，使方向顛倒。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.86"
+    },
+    "coreIdea": "<code>upend</code> 表示推翻、顛覆或讓既有計畫突然失去原來的形狀；句子的力道來自變化不是微調，而是整體被翻面。",
+    "definition": {
+      "summary": "表示推翻、顛覆或讓既有計畫突然失去原來的形狀。常見語境會讓變化不是微調，而是整體被翻面變得清楚。",
+      "contrast": {
+        "word": "Change",
+        "note": "<code>change</code> 很廣；upend 有翻倒、顛覆既有秩序的力量。"
+      },
+      "flow": [
+        "秩序站穩",
+        "外力翻動",
+        "方向顛倒"
+      ]
+    },
+    "origin": {
+      "history": "<code>upend</code> 字源依 Online Etymology Dictionary；來源段落記錄：also up-end , \"set on end, turn end-up,\" 1823, from up + end . Related: Upended ; upending .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>upend</code> 想成桌子被翻過來，所有擺好的東西都變成新的問題。",
+      "explanation": "這個畫面保留的是變化不是微調，而是整體被翻面，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "市場",
+        "body": "A new regulation <code>upended</code> the business model."
+      },
+      {
+        "label": "計畫",
+        "body": "一個供應商退出就 <code>upend</code> 了整條 release timeline。"
+      }
+    ],
+    "collocations": {
+      "note": "Upend 的自然搭配多半讓變化不是微調，而是整體被翻面具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "upend expectations",
+          "register": "評論 / 媒體",
+          "note": "讓原本預期整個翻轉。"
+        },
+        {
+          "phrase": "upend the market",
+          "register": "商務 / 科技",
+          "note": "改變競爭方式，既有玩家被迫重算。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把原本穩定的安排整個翻倒，使方向顛倒",
+        "use": "適合描述變化不是微調，而是整體被翻面的句子。"
+      },
+      "others": [
+        {
+          "word": "Change",
+          "meaning": "讓某事變得不同",
+          "use": "若只是調整，用 <code>change</code>；若整體翻掉，用 upend。"
+        }
+      ]
+    },
+    "modernUse": [
+      "科技、法規和市場新聞常用 <code>upend</code>，因為 disruption 往往是把桌面翻掉，而不是換一張紙。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/upend",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/upend",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "upend",
+    "word": "Upend",
+    "partOfSpeech": "verb",
+    "href": "./upend.html",
+    "thesis": "不是普通改變，而是把原本穩定的安排整個翻倒，使方向顛倒。",
+    "tags": [
+      "顛覆翻倒",
+      "整體翻面",
+      "change",
+      "upend the market",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/upend",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/upend",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/upend",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Toil",
+    "slug": "toil",
+    "outputPath": "prototypes/toil.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "TOYL · UK /tɔɪl/ · US /tɔɪl/",
+    "hero": {
+      "thesis": "不是普通工作，而是長時間、吃力、帶著辛苦感地勞動。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.75"
+    },
+    "coreIdea": "<code>toil</code> 表示艱苦工作或辛苦勞動，常有疲憊和耐力的畫面；句子的力道來自努力不是亮眼衝刺，而是持續耗力。",
+    "definition": {
+      "summary": "表示艱苦工作或辛苦勞動，常有疲憊和耐力的畫面。常見語境會讓努力不是亮眼衝刺，而是持續耗力變得清楚。",
+      "contrast": {
+        "word": "Work",
+        "note": "<code>work</code> 很中性；toil 帶有辛勞、時間長和身體或心力負荷。"
+      },
+      "flow": [
+        "任務沉重",
+        "持續出力",
+        "疲憊累積"
+      ]
+    },
+    "origin": {
+      "history": "<code>toil</code> 字源依 Online Etymology Dictionary；來源段落記錄：[hard work] c. 1300, toile , \"turmoil, violent contention, battle,\" senses now obsolete, from Anglo-French toil (13c.), from toiler \"agitate, stir up, entangle, writhe about,\" from Old French toeillier \"drag about, make dirty\" (12c.), usually said (Watkins, etc.) to be from Latin tudiculare \"crush with a small hammer,\" from tudicula \"mill for crushing olives, instrument for crushing,\" from Latin tudes \"hammer\" (from PIE *tud- , variant of *(s)teu- \"to push, stroke, knock, beat;\" see obtuse ).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>toil</code> 想成深夜還亮著的工作燈，成果慢慢堆起來，人也慢慢被磨耗。",
+      "explanation": "這個畫面保留的是努力不是亮眼衝刺，而是持續耗力，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "勞動",
+        "body": "Farmers <code>toiled</code> through the heat to save the crop."
+      },
+      {
+        "label": "工程",
+        "body": "團隊連續幾週 <code>toiled</code> over flaky tests，才把 release 風險降下來。"
+      }
+    ],
+    "collocations": {
+      "note": "Toil 的自然搭配多半讓努力不是亮眼衝刺，而是持續耗力具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "toil away",
+          "register": "敘事 / 日常",
+          "note": "默默長時間出力，常不被看見。"
+        },
+        {
+          "phrase": "years of toil",
+          "register": "文學 / 傳記",
+          "note": "多年辛勞累積成成果或代價。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "長時間、吃力、帶著辛苦感地勞動",
+        "use": "適合描述努力不是亮眼衝刺，而是持續耗力的句子。"
+      },
+      "others": [
+        {
+          "word": "Work",
+          "meaning": "做事、工作或運作",
+          "use": "若沒有辛苦感，用 <code>work</code>；若要寫勞苦，用 toil。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>toil</code> 在現代英文帶一點文學或莊重感，適合寫 labour behind visible success。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/toil",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/toil",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "toil",
+    "word": "Toil",
+    "partOfSpeech": "verb",
+    "href": "./toil.html",
+    "thesis": "不是普通工作，而是長時間、吃力、帶著辛苦感地勞動。",
+    "tags": [
+      "辛苦勞動",
+      "持續耗力",
+      "work",
+      "years of toil",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/toil",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/toil",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/toil",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

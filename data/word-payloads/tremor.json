@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tremor",
+    "slug": "tremor",
+    "outputPath": "prototypes/tremor.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TREM-er · UK /ˈtrem.ər/ · US /ˈtrem.ɚ/",
+    "hero": {
+      "thesis": "不是大地震，而是細小但可感的震動，透露底下有力量在動。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.84"
+    },
+    "coreIdea": "<code>tremor</code> 指輕微震動、顫抖，或情緒中的細小波動；句子的力道來自震動不大，但足以讓人察覺不穩。",
+    "definition": {
+      "summary": "指輕微震動、顫抖，或情緒中的細小波動。常見語境會讓震動不大，但足以讓人察覺不穩變得清楚。",
+      "contrast": {
+        "word": "Quake",
+        "note": "<code>quake</code> 通常更大、更劇烈；tremor 可以小而細。"
+      },
+      "flow": [
+        "底層力量移動",
+        "表面微震",
+        "不穩被感知"
+      ]
+    },
+    "origin": {
+      "history": "<code>tremor</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., tremour , \"shudder of terror\" (a sense now obsolete), from Old French tremor \"fear, terror, quaking\" (13c.), from Latin tremorem (nominative tremor ) \"a trembling, terror,\" from tremere (see tremble (v.)). The general sense of \"an involuntary shaking\" is attested by 1610s and probably represents a re-introduction from Latin.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tremor</code> 想成桌上的水杯輕輕晃，地底的變化先用小波提醒你。",
+      "explanation": "這個畫面保留的是震動不大，但足以讓人察覺不穩，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "身體",
+        "body": "A slight <code>tremor</code> in his hands made the doctor pause."
+      },
+      {
+        "label": "市場",
+        "body": "那次供應鏈延遲只是 <code>tremor</code>，但它預告更大的 shortage。"
+      }
+    ],
+    "collocations": {
+      "note": "Tremor 的自然搭配多半讓震動不大，但足以讓人察覺不穩具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "slight tremor",
+          "register": "醫療 / 描寫",
+          "note": "細微顫抖，可能只有近距離才察覺。"
+        },
+        {
+          "phrase": "earth tremor",
+          "register": "地質 / 新聞",
+          "note": "小型地震或地面震動。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "細小但可感的震動，透露底下有力量在動",
+        "use": "適合描述震動不大，但足以讓人察覺不穩的句子。"
+      },
+      "others": [
+        {
+          "word": "Quake",
+          "meaning": "強烈地震或劇烈震動",
+          "use": "若是重大地震，用 <code>quake</code>；若是細微顫動，用 tremor。"
+        }
+      ]
+    },
+    "modernUse": [
+      "新聞與分析也會把 <code>tremor</code> 當比喻，寫某個系統先出現小幅震動。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tremor",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tremor",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tremor",
+    "word": "Tremor",
+    "partOfSpeech": "noun",
+    "href": "./tremor.html",
+    "thesis": "不是大地震，而是細小但可感的震動，透露底下有力量在動。",
+    "tags": [
+      "細小震動",
+      "可感不穩",
+      "quake",
+      "slight tremor",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tremor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tremor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tremor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

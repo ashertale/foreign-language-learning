@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tractable",
+    "slug": "tractable",
+    "outputPath": "prototypes/tractable.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRAK-tuh-buhl · UK /ˈtræk.tə.bəl/ · US /ˈtræk.tə.bəl/",
+    "hero": {
+      "thesis": "不是只是簡單，而是複雜度被控制到可以處理、管理或求解。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.54"
+    },
+    "coreIdea": "<code>tractable</code> 形容問題、材料或人可處理、可控制、容易引導；句子的力道來自難度仍在，但已落入可操作範圍。",
+    "definition": {
+      "summary": "形容問題、材料或人可處理、可控制、容易引導。常見語境會讓難度仍在，但已落入可操作範圍變得清楚。",
+      "contrast": {
+        "word": "Easy",
+        "note": "<code>easy</code> 表示容易；tractable 是可處理，常保留原本問題有難度。"
+      },
+      "flow": [
+        "複雜存在",
+        "邊界被控制",
+        "問題變得可解"
+      ]
+    },
+    "origin": {
+      "history": "<code>tractable</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"manageable,\" in reference to persons, animals, early 15c., from Latin tractabilis \"that may be touched or handled, workable, tangible, manageable,\" figuratively, \"pliant,\" from tractare \"to handle, manage\" (see treat (v.)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tractable</code> 想成一團線沒有消失，但被分成幾段後終於能一段段解開。",
+      "explanation": "這個畫面保留的是難度仍在，但已落入可操作範圍，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "數學 / 工程",
+        "body": "The approximation made the optimization problem <code>tractable</code>."
+      },
+      {
+        "label": "管理",
+        "body": "把 migration 切成 phases 後，風險才變得 <code>tractable</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Tractable 的自然搭配多半讓難度仍在，但已落入可操作範圍具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tractable problem",
+          "register": "學術 / 工程",
+          "note": "問題不一定小，但有方法可以處理。"
+        },
+        {
+          "phrase": "make something tractable",
+          "register": "分析 / 管理",
+          "note": "透過切分、近似或限制範圍，把難題放進可操作邊界。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "複雜度被控制到可以處理、管理或求解",
+        "use": "適合描述難度仍在，但已落入可操作範圍的句子。"
+      },
+      "others": [
+        {
+          "word": "Easy",
+          "meaning": "不費力、低難度",
+          "use": "若任務本身輕鬆，用 <code>easy</code>；若困難但可求解，用 tractable。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在演算法、系統設計與專案管理中，<code>tractable</code> 是很實用的字，表示 complexity has been bounded。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tractable",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tractable",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tractable",
+    "word": "Tractable",
+    "partOfSpeech": "adjective",
+    "href": "./tractable.html",
+    "thesis": "不是只是簡單，而是複雜度被控制到可以處理、管理或求解。",
+    "tags": [
+      "可處理可求解",
+      "複雜度受控",
+      "easy",
+      "tractable problem",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tractable",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tractable",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tractable",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

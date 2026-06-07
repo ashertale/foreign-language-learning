@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tangible",
+    "slug": "tangible",
+    "outputPath": "prototypes/tangible.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAN-juh-buhl · UK /ˈtæn.dʒə.bəl/ · US /ˈtæn.dʒə.bəl/",
+    "hero": {
+      "thesis": "不是只是能摸到，而是把抽象成果變成看得見、量得到或拿得出來的證據。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.54"
+    },
+    "coreIdea": "<code>tangible</code> 形容實際、可感知、可驗證，而不只是概念上的存在；句子的力道來自成果從空泛說法落到可檢查的事物上。",
+    "definition": {
+      "summary": "形容實際、可感知、可驗證，而不只是概念上的存在。常見語境會讓成果從空泛說法落到可檢查的事物上變得清楚。",
+      "contrast": {
+        "word": "Concrete",
+        "note": "<code>concrete</code> 也表示具體；tangible 更強調能被感知或作為證據呈現。"
+      },
+      "flow": [
+        "抽象承諾",
+        "證據出現",
+        "成果可被檢查"
+      ]
+    },
+    "origin": {
+      "history": "<code>tangible</code> 字源依 Online Etymology Dictionary；來源段落記錄：1580s, \"capable of being touched,\" from French tangible and directly from Late Latin tangibilis \"that may be touched,\" from Latin tangere \"to touch\" (from PIE root *tag- \"to touch, handle\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tangible</code> 想成一份報告從口頭承諾變成手上的樣品和數據。",
+      "explanation": "這個畫面保留的是成果從空泛說法落到可檢查的事物上，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "工作成果",
+        "body": "The pilot produced <code>tangible</code> gains in battery life and boot time."
+      },
+      {
+        "label": "人際感受",
+        "body": "他的道歉有 <code>tangible</code> change 跟著出現，對方才開始相信。"
+      }
+    ],
+    "collocations": {
+      "note": "Tangible 的自然搭配多半讓成果從空泛說法落到可檢查的事物上具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tangible benefit",
+          "register": "商務 / 評估",
+          "note": "好處能被看到或量到，不只是聽起來漂亮。"
+        },
+        {
+          "phrase": "tangible evidence",
+          "register": "法律 / 研究",
+          "note": "證據以實物、數據或可查紀錄的形式存在。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把抽象成果變成看得見、量得到或拿得出來的證據",
+        "use": "適合描述成果從空泛說法落到可檢查的事物上的句子。"
+      },
+      "others": [
+        {
+          "word": "Concrete",
+          "meaning": "具體、不抽象",
+          "use": "若只要反抽象，<code>concrete</code> 足夠；若要可觸摸或可證明，用 tangible。"
+        }
+      ]
+    },
+    "modernUse": [
+      "產品、政策與工程回顧常用 <code>tangible</code> 區分 measurable outcome 與漂亮但空的敘述。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tangible",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tangible",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tangible",
+    "word": "Tangible",
+    "partOfSpeech": "adjective",
+    "href": "./tangible.html",
+    "thesis": "不是只是能摸到，而是把抽象成果變成看得見、量得到或拿得出來的證據。",
+    "tags": [
+      "具體可感",
+      "可驗證成果",
+      "concrete",
+      "tangible evidence",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tangible",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tangible",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tangible",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

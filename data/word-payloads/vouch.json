@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vouch",
+    "slug": "vouch",
+    "outputPath": "prototypes/vouch.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VOWCH · UK /vaʊtʃ/ · US /vaʊtʃ/",
+    "hero": {
+      "thesis": "不是只是說好話，而是用自己的信用替某人或某事背書。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.85"
+    },
+    "coreIdea": "<code>vouch</code> 表示擔保、證明可信，常用 vouch for；句子的力道來自說話者把自己的信任押上去。",
+    "definition": {
+      "summary": "表示擔保、證明可信，常用 vouch for。常見語境會讓說話者把自己的信任押上去變得清楚。",
+      "contrast": {
+        "word": "Recommend",
+        "note": "<code>recommend</code> 可只是推薦；vouch for 更像以自己信用保證可信。"
+      },
+      "flow": [
+        "信任被詢問",
+        "個人信用介入",
+        "對象獲得背書"
+      ]
+    },
+    "origin": {
+      "history": "<code>vouch</code> 字源依 Online Etymology Dictionary；來源段落記錄：early 14c., vouchen , \"summon\" someone or a group, especially into court to prove a title, from Anglo-French voucher , Old French vocher \"to call, summon, invoke, claim,\" probably from Gallo-Roman *voticare , metathesis of Latin vocitare \"to call to, summon insistently,\" frequentative of Latin vocare \"to call, call upon, summon,\" which is related to vox (genitive vocis ) \"voice\" (from PIE root *wekw- \"to speak\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vouch</code> 想成你不是只指路，而是把自己的名牌借給對方通行。",
+      "explanation": "這個畫面保留的是說話者把自己的信任押上去，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "I can <code>vouch</code> for her integrity."
+      },
+      {
+        "label": "工具",
+        "body": "我可以 <code>vouch</code> for 這個 script，因為它已經跑過多次 dry-run。"
+      }
+    ],
+    "collocations": {
+      "note": "Vouch 的自然搭配多半讓說話者把自己的信任押上去具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vouch for someone",
+          "register": "人際 / 職場",
+          "note": "替某人的可信度背書。"
+        },
+        {
+          "phrase": "vouch for accuracy",
+          "register": "正式 / 技術",
+          "note": "以自己的責任確認準確性。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用自己的信用替某人或某事背書",
+        "use": "適合描述說話者把自己的信任押上去的句子。"
+      },
+      "others": [
+        {
+          "word": "Recommend",
+          "meaning": "推薦、建議或稱讚",
+          "use": "若只是建議使用，用 <code>recommend</code>；若願意背書，用 vouch。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 hiring、open-source 和 security review 裡，<code>vouch</code> 的重量來自 reputation is being lent。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vouch",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vouch",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vouch",
+    "word": "Vouch",
+    "partOfSpeech": "verb",
+    "href": "./vouch.html",
+    "thesis": "不是只是說好話，而是用自己的信用替某人或某事背書。",
+    "tags": [
+      "背書擔保",
+      "押上信用",
+      "recommend",
+      "vouch for",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vouch",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vouch",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vouch",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

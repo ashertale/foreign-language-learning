@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Valor",
+    "slug": "valor",
+    "outputPath": "prototypes/valor.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "VAL-er · UK /ˈvæl.ər/ · US /ˈvæl.ɚ/",
+    "hero": {
+      "thesis": "不是普通勇氣，而是面對危險時值得尊敬的英勇。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.70"
+    },
+    "coreIdea": "<code>valor</code> 指戰場、救援或高風險情境中的勇敢與英勇；句子的力道來自勇氣被放在危險和榮譽的框架裡。",
+    "definition": {
+      "summary": "指戰場、救援或高風險情境中的勇敢與英勇。常見語境會讓勇氣被放在危險和榮譽的框架裡變得清楚。",
+      "contrast": {
+        "word": "Courage",
+        "note": "<code>courage</code> 很廣；valor 更莊重，常和戰鬥、救援、榮譽一起出現。"
+      },
+      "flow": [
+        "危險逼近",
+        "人選擇行動",
+        "勇氣被尊敬"
+      ]
+    },
+    "origin": {
+      "history": "<code>valor</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1300, valour , \"worthiness in manly chivalric qualities, nobility of character or breeding,\" from Old French valor , valour \"valor, moral worth, merit, courage, virtue\" (12c.), from Late Latin valorem (nominative valor ) \"value, worth\" (in Medieval Latin \"strength, valor\"), from stem of Latin valere \"be strong, be worth\" (from PIE root *wal- \"to be strong\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>valor</code> 想成勳章不是因為不怕，而是因為怕也往前走。",
+      "explanation": "這個畫面保留的是勇氣被放在危險和榮譽的框架裡，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "表彰",
+        "body": "The firefighter received a medal for <code>valor</code>."
+      },
+      {
+        "label": "敘事",
+        "body": "那份 <code>valor</code> 不在於聲勢，而在於知道危險仍去保護別人。"
+      }
+    ],
+    "collocations": {
+      "note": "Valor 的自然搭配多半讓勇氣被放在危險和榮譽的框架裡具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "acts of valor",
+          "register": "軍事 / 救援",
+          "note": "高風險中的英勇行動。"
+        },
+        {
+          "phrase": "medal for valor",
+          "register": "正式 / 表彰",
+          "note": "因英勇行為而獲得的正式榮譽。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "面對危險時值得尊敬的英勇",
+        "use": "適合描述勇氣被放在危險和榮譽的框架裡的句子。"
+      },
+      "others": [
+        {
+          "word": "Courage",
+          "meaning": "面對恐懼或困難仍行動",
+          "use": "日常勇氣多用 <code>courage</code>；正式表彰英勇用 valor。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>valor</code> 語氣莊重，常用於 military、rescue、public service 的正式敘述。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/valor",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/valor",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "valor",
+    "word": "Valor",
+    "partOfSpeech": "noun",
+    "href": "./valor.html",
+    "thesis": "不是普通勇氣，而是面對危險時值得尊敬的英勇。",
+    "tags": [
+      "英勇勇氣",
+      "危險中的尊敬",
+      "courage",
+      "acts of valor",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/valor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/valor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/valor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Voracious",
+    "slug": "voracious",
+    "outputPath": "prototypes/voracious.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "vuh-RAY-shus · UK /vəˈreɪ.ʃəs/ · US /vəˈreɪ.ʃəs/",
+    "hero": {
+      "thesis": "不是只是喜歡，而是胃口或慾望大到快速吞進大量東西。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.74"
+    },
+    "coreIdea": "<code>voracious</code> 形容食慾、求知慾、閱讀量或消耗速度非常大；句子的力道來自需求像吞食，不只是偏好。",
+    "definition": {
+      "summary": "形容食慾、求知慾、閱讀量或消耗速度非常大。常見語境會讓需求像吞食，不只是偏好變得清楚。",
+      "contrast": {
+        "word": "Hungry",
+        "note": "<code>hungry</code> 可指餓；voracious 更強調貪婪般的大量攝取。"
+      },
+      "flow": [
+        "需求升高",
+        "大量攝取",
+        "仍想更多"
+      ]
+    },
+    "origin": {
+      "history": "<code>voracious</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"greediness of appetite, gluttony, voraciousness,\" mid-15c., voracite , from French voracité (14c.) or directly from Latin voracitatem (nominative voracitas ) \"greediness, ravenousness,\" from vorax (genitive voracis ) \"greedy, ravenous, consuming, devouring,\" a derivative of vorare \"to devour, swallow\" (from PIE root *gwora- \"food; devouring\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>voracious</code> 想成書一翻開就像零食，一本接一本停不下來。",
+      "explanation": "這個畫面保留的是需求像吞食，不只是偏好，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "閱讀",
+        "body": "She is a <code>voracious</code> reader of history."
+      },
+      {
+        "label": "系統資源",
+        "body": "那個 background job 對 memory 很 <code>voracious</code>，一跑就把餘裕吃掉。"
+      }
+    ],
+    "collocations": {
+      "note": "Voracious 的自然搭配多半讓需求像吞食，不只是偏好具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "voracious reader",
+          "register": "日常 / 教育",
+          "note": "閱讀量大，而且持續想讀更多。"
+        },
+        {
+          "phrase": "voracious appetite",
+          "register": "日常 / 商務",
+          "note": "胃口或需求非常大。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "胃口或慾望大到快速吞進大量東西",
+        "use": "適合描述需求像吞食，不只是偏好的句子。"
+      },
+      "others": [
+        {
+          "word": "Hungry",
+          "meaning": "想吃或需要食物",
+          "use": "若只是餓，用 <code>hungry</code>；若吞食般大量吸收，用 voracious。"
+        }
+      ]
+    },
+    "modernUse": [
+      "資料、能源和注意力也能被形容為 <code>voracious</code>，尤其當 consumption rate becomes the issue。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/voracious",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/voracious",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "voracious",
+    "word": "Voracious",
+    "partOfSpeech": "adjective",
+    "href": "./voracious.html",
+    "thesis": "不是只是喜歡，而是胃口或慾望大到快速吞進大量東西。",
+    "tags": [
+      "貪婪大量攝取",
+      "需求像吞食",
+      "hungry",
+      "voracious reader",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/voracious",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/voracious",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/voracious",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

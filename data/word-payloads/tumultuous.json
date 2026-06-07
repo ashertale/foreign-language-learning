@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tumultuous",
+    "slug": "tumultuous",
+    "outputPath": "prototypes/tumultuous.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "too-MUL-choo-us · UK /tjuːˈmʌl.tʃu.əs/ · US /tuːˈmʌl.tʃu.əs/",
+    "hero": {
+      "thesis": "不是只是忙亂，而是充滿混亂、聲浪、情緒與劇烈變化。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.72"
+    },
+    "coreIdea": "<code>tumultuous</code> 形容時期、事件或情緒動盪不安、喧騰混亂；句子的力道來自秩序被大量變化和情緒推來推去。",
+    "definition": {
+      "summary": "形容時期、事件或情緒動盪不安、喧騰混亂。常見語境會讓秩序被大量變化和情緒推來推去變得清楚。",
+      "contrast": {
+        "word": "Chaotic",
+        "note": "<code>chaotic</code> 表示混亂；tumultuous 更常帶人群、歷史或情緒的喧騰感。"
+      },
+      "flow": [
+        "變化密集",
+        "情緒升高",
+        "秩序難以維持"
+      ]
+    },
+    "origin": {
+      "history": "<code>tumultuous</code> 字源依 Online Etymology Dictionary；來源段落記錄：1540s, \"noisy and disorderly, full of confusion,\" from French tumultuous (Modern French tumultueux ), from Latin tumultuosus \"full of bustle or confusion, disorderly, turbulent,\" from tumultus (see tumult ). Related: Tumultuously ; tumultuousness . Tumultuary (adj.) \"hurriedly done, irregular, done without order or system\" is by 1580s.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tumultuous</code> 想成一整段時間像站在抗議現場，方向和聲音都不停轉向。",
+      "explanation": "這個畫面保留的是秩序被大量變化和情緒推來推去，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "時期",
+        "body": "The company survived a <code>tumultuous</code> year of layoffs and redesigns."
+      },
+      {
+        "label": "情緒",
+        "body": "發布前一週很 <code>tumultuous</code>，每個新 bug 都把信心推上推下。"
+      }
+    ],
+    "collocations": {
+      "note": "Tumultuous 的自然搭配多半讓秩序被大量變化和情緒推來推去具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tumultuous period",
+          "register": "歷史 / 商務",
+          "note": "一段時期被劇烈變化和不安推動。"
+        },
+        {
+          "phrase": "tumultuous applause",
+          "register": "表演 / 新聞",
+          "note": "掌聲巨大、熱烈，像人群情緒一起湧起。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "充滿混亂、聲浪、情緒與劇烈變化",
+        "use": "適合描述秩序被大量變化和情緒推來推去的句子。"
+      },
+      "others": [
+        {
+          "word": "Chaotic",
+          "meaning": "缺乏秩序、難以預測",
+          "use": "若只談系統亂，用 <code>chaotic</code>；若有聲浪和情緒，用 tumultuous。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>tumultuous</code> 常用來寫 merger、election、launch year，因為它把 event density 和 emotional noise 一起表達。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tumultuous",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tumultuous",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tumultuous",
+    "word": "Tumultuous",
+    "partOfSpeech": "adjective",
+    "href": "./tumultuous.html",
+    "thesis": "不是只是忙亂，而是充滿混亂、聲浪、情緒與劇烈變化。",
+    "tags": [
+      "動盪喧騰",
+      "劇烈變化",
+      "chaotic",
+      "tumultuous period",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tumultuous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tumultuous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tumultuous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

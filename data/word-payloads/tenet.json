@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tenet",
+    "slug": "tenet",
+    "outputPath": "prototypes/tenet.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TEN-it · UK /ˈten.ɪt/ · US /ˈten.ɪt/",
+    "hero": {
+      "thesis": "不是普通意見，而是一套信念或理論裡被拿來支撐其他判斷的基本原則。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.84"
+    },
+    "coreIdea": "<code>tenet</code> 指某個信仰、哲學、組織或方法論的核心信條；句子的力道來自其他做法靠它站住。",
+    "definition": {
+      "summary": "指某個信仰、哲學、組織或方法論的核心信條。常見語境會讓其他做法靠它站住變得清楚。",
+      "contrast": {
+        "word": "Principle",
+        "note": "<code>principle</code> 很廣；tenet 更像某個系統內部明確承認的信條。"
+      },
+      "flow": [
+        "信念成形",
+        "被系統承認",
+        "支撐後續判斷"
+      ]
+    },
+    "origin": {
+      "history": "<code>tenet</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"principle, opinion, or dogma maintained as true by a person, sect, school, etc.,\" properly \"a thing held (to be true),\" early 15c., from Latin tenet \"he holds,\" third person singular present indicative of tenere \"to hold, grasp, keep, have possession, maintain,\" also \"reach, gain, acquire, obtain; hold back, repress, restrain;\" figuratively \"hold in mind, take in, understand\" (from PIE root *ten- \"to stretch\"). The connecting notion between \"stretch\" and \"hold\" is \"cause to maintain.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tenet</code> 想成像架構圖最底層的假設，拿掉後上層設計會晃。",
+      "explanation": "這個畫面保留的是其他做法靠它站住，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "哲學 / 信仰",
+        "body": "A central <code>tenet</code> of the movement is that dignity cannot be negotiated away."
+      },
+      {
+        "label": "工程文化",
+        "body": "可觀測性是這個團隊的 <code>tenet</code>，不是 incident 後才加的口號。"
+      }
+    ],
+    "collocations": {
+      "note": "Tenet 的自然搭配多半讓其他做法靠它站住具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "central tenet",
+          "register": "學術 / 評論",
+          "note": "某套思想最核心、最不容易被移走的信條。"
+        },
+        {
+          "phrase": "basic tenet",
+          "register": "說明 / 教學",
+          "note": "用來建立整個方法或立場的底層原則。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "一套信念或理論裡被拿來支撐其他判斷的基本原則",
+        "use": "適合描述其他做法靠它站住的句子。"
+      },
+      "others": [
+        {
+          "word": "Principle",
+          "meaning": "原則、準則或基本想法",
+          "use": "若不是某套 doctrine 內的信條，<code>principle</code> 通常更自然。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在企業文化、設計哲學與政治理念裡，<code>tenet</code> 常標示真正不可退讓的基礎。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tenet",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tenet",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tenet",
+    "word": "Tenet",
+    "partOfSpeech": "noun",
+    "href": "./tenet.html",
+    "thesis": "不是普通意見，而是一套信念或理論裡被拿來支撐其他判斷的基本原則。",
+    "tags": [
+      "核心信條",
+      "支撐判斷",
+      "principle",
+      "central tenet",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tenet",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tenet",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tenet",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

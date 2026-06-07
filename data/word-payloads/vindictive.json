@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vindictive",
+    "slug": "vindictive",
+    "outputPath": "prototypes/vindictive.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "vin-DIK-tiv · UK /vɪnˈdɪk.tɪv/ · US /vɪnˈdɪk.tɪv/",
+    "hero": {
+      "thesis": "不是只是生氣，而是帶著報復心，想讓對方為冒犯付出代價。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.49"
+    },
+    "coreIdea": "<code>vindictive</code> 形容人或行為有報復性、記仇、想懲罰對方；句子的力道來自情緒不是爆發而已，而是轉成報復意圖。",
+    "definition": {
+      "summary": "形容人或行為有報復性、記仇、想懲罰對方。常見語境會讓情緒不是爆發而已，而是轉成報復意圖變得清楚。",
+      "contrast": {
+        "word": "Angry",
+        "note": "<code>angry</code> 只是生氣；vindictive 代表怒氣變成想報復。"
+      },
+      "flow": [
+        "受冒犯",
+        "怨氣留下",
+        "行動轉向報復"
+      ]
+    },
+    "origin": {
+      "history": "<code>vindictive</code> 字源依 Online Etymology Dictionary；來源摘要提到 \"vengeful,\" of persons, from Latin vindicta \"revenge\" (see vindication) + -ive; or。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vindictive</code> 想成不是拍桌子，而是回家列一張讓對方難受的清單。",
+      "explanation": "這個畫面保留的是情緒不是爆發而已，而是轉成報復意圖，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "His <code>vindictive</code> comments made the apology impossible to trust."
+      },
+      {
+        "label": "管理",
+        "body": "績效制度若被拿來報私怨，就會變得 <code>vindictive</code> 而非公平。"
+      }
+    ],
+    "collocations": {
+      "note": "Vindictive 的自然搭配多半讓情緒不是爆發而已，而是轉成報復意圖具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vindictive behavior",
+          "register": "心理 / 職場",
+          "note": "行為由報復心驅動，不是單純生氣。"
+        },
+        {
+          "phrase": "vindictive punishment",
+          "register": "法律 / 管理",
+          "note": "懲罰不是為了公平或修正，而是為了報復。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "帶著報復心，想讓對方為冒犯付出代價",
+        "use": "適合描述情緒不是爆發而已，而是轉成報復意圖的句子。"
+      },
+      "others": [
+        {
+          "word": "Angry",
+          "meaning": "感到憤怒或不滿",
+          "use": "若只是情緒高，用 <code>angry</code>；若有報復盤算，用 vindictive。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在職場、政治和法律評論中，<code>vindictive</code> 常指出 power is being used to settle scores。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vindictive",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vindictive",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vindictive",
+    "word": "Vindictive",
+    "partOfSpeech": "adjective",
+    "href": "./vindictive.html",
+    "thesis": "不是只是生氣，而是帶著報復心，想讓對方為冒犯付出代價。",
+    "tags": [
+      "報復心",
+      "怒氣轉成懲罰",
+      "angry",
+      "vindictive behavior",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vindictive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vindictive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vindictive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

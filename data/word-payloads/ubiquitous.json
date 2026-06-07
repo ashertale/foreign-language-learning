@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Ubiquitous",
+    "slug": "ubiquitous",
+    "outputPath": "prototypes/ubiquitous.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "yoo-BIK-wuh-tus · UK /juːˈbɪk.wɪ.təs/ · US /juːˈbɪk.wə.t̬əs/",
+    "hero": {
+      "thesis": "不是只是很多，而是到處都看得到，像環境背景的一部分。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.10"
+    },
+    "coreIdea": "<code>ubiquitous</code> 形容某物無所不在、非常普遍；句子的力道來自存在範圍廣到人容易把它當成常態。",
+    "definition": {
+      "summary": "形容某物無所不在、非常普遍。常見語境會讓存在範圍廣到人容易把它當成常態變得清楚。",
+      "contrast": {
+        "word": "Common",
+        "note": "<code>common</code> 表示常見；ubiquitous 更強調幾乎 everywhere 的覆蓋感。"
+      },
+      "flow": [
+        "大量出現",
+        "分布到各處",
+        "變成背景常態"
+      ]
+    },
+    "origin": {
+      "history": "<code>ubiquitous</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"being, existing, or turning up everywhere,\" 1800, from ubiquity + -ous . The earlier word was ubiquitary (c. 1600), from Modern Latin ubiquitarius , from ubique (see ubiquity ). Related: Ubiquitously ; ubiquitousness .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>ubiquitous</code> 想成像 Wi-Fi 圖示，從咖啡店到機場都在角落等著你。",
+      "explanation": "這個畫面保留的是存在範圍廣到人容易把它當成常態，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "科技",
+        "body": "Smartphones have made cameras nearly <code>ubiquitous</code>."
+      },
+      {
+        "label": "工作流程",
+        "body": "Slack 通知變得 <code>ubiquitous</code> 後，安靜思考反而需要刻意保護。"
+      }
+    ],
+    "collocations": {
+      "note": "Ubiquitous 的自然搭配多半讓存在範圍廣到人容易把它當成常態具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "ubiquitous technology",
+          "register": "科技 / 社會",
+          "note": "技術普遍到融入日常背景。"
+        },
+        {
+          "phrase": "ubiquitous presence",
+          "register": "評論 / 品牌",
+          "note": "存在感到處都有，很難避開。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "到處都看得到，像環境背景的一部分",
+        "use": "適合描述存在範圍廣到人容易把它當成常態的句子。"
+      },
+      "others": [
+        {
+          "word": "Common",
+          "meaning": "常見、普通、普遍",
+          "use": "若只是常碰到，用 <code>common</code>；若到處都是，用 ubiquitous。"
+        }
+      ]
+    },
+    "modernUse": [
+      "討論 mobile computing、sensors、AI tools 時，<code>ubiquitous</code> 很常用來寫 adoption becoming background infrastructure。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/ubiquitous",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/ubiquitous",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "ubiquitous",
+    "word": "Ubiquitous",
+    "partOfSpeech": "adjective",
+    "href": "./ubiquitous.html",
+    "thesis": "不是只是很多，而是到處都看得到，像環境背景的一部分。",
+    "tags": [
+      "無所不在",
+      "到處成常態",
+      "common",
+      "ubiquitous technology",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ubiquitous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/ubiquitous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ubiquitous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

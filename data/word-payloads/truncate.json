@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Truncate",
+    "slug": "truncate",
+    "outputPath": "prototypes/truncate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "TRUNG-kayt · UK /trʌŋˈkeɪt/ · US /ˈtrʌŋ.keɪt/",
+    "hero": {
+      "thesis": "不是普通縮短，而是從尾端切掉一部分，使原本完整的東西變短。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.77"
+    },
+    "coreIdea": "<code>truncate</code> 表示截短文字、數字、資料或形狀，常因長度限制而切除；句子的力道來自被移除的是尾端或超出範圍的部分。",
+    "definition": {
+      "summary": "表示截短文字、數字、資料或形狀，常因長度限制而切除。常見語境會讓被移除的是尾端或超出範圍的部分變得清楚。",
+      "contrast": {
+        "word": "Shorten",
+        "note": "<code>shorten</code> 很廣；truncate 更像按限制直接截掉後段。"
+      },
+      "flow": [
+        "長度超出",
+        "尾端被切",
+        "剩下部分保留"
+      ]
+    },
+    "origin": {
+      "history": "<code>truncate</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"reduce in size or quantity by cutting,\" late 15c., from Latin truncatus \"cut off,\" past participle of truncare \"to maim, mutilate, cut off,\" from truncus \"maimed, mutilated,\" also \"trunk of a tree, trunk of the body,\" a word of uncertain origin, probably originally \"mutilated, maimed, deprived of branches or head.\" Related: Truncated ; truncating .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>truncate</code> 想成一行文字碰到欄寬，後面被切掉，只留下前段。",
+      "explanation": "這個畫面保留的是被移除的是尾端或超出範圍的部分，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "資料",
+        "body": "The database <code>truncated</code> the string after 255 characters."
+      },
+      {
+        "label": "呈現",
+        "body": "檔名被 <code>truncate</code> 後，使用者看不到真正區分版本的尾碼。"
+      }
+    ],
+    "collocations": {
+      "note": "Truncate 的自然搭配多半讓被移除的是尾端或超出範圍的部分具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "truncate a string",
+          "register": "程式 / 資料",
+          "note": "字串超出長度後被截掉。"
+        },
+        {
+          "phrase": "truncated version",
+          "register": "文件 / 媒體",
+          "note": "版本保留前段或核心，但後面被切除。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "從尾端切掉一部分，使原本完整的東西變短",
+        "use": "適合描述被移除的是尾端或超出範圍的部分的句子。"
+      },
+      "others": [
+        {
+          "word": "Shorten",
+          "meaning": "讓某物變短",
+          "use": "若是自然變短或主動簡化，用 <code>shorten</code>；若是切尾，用 truncate。"
+        }
+      ]
+    },
+    "modernUse": [
+      "UI、database 與 logging 都常遇到 <code>truncate</code>，因為顯示或儲存限制會直接切掉資訊。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/truncate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/truncate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "truncate",
+    "word": "Truncate",
+    "partOfSpeech": "verb",
+    "href": "./truncate.html",
+    "thesis": "不是普通縮短，而是從尾端切掉一部分，使原本完整的東西變短。",
+    "tags": [
+      "截短切尾",
+      "超出範圍被切",
+      "shorten",
+      "truncate a string",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/truncate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/truncate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/truncate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

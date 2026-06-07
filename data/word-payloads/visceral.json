@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Visceral",
+    "slug": "visceral",
+    "outputPath": "prototypes/visceral.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "VISS-er-uhl · UK /ˈvɪs.ər.əl/ · US /ˈvɪs.ɚ.əl/",
+    "hero": {
+      "thesis": "不是只是強烈，而是反應像從身體深處冒出，還沒被理性整理。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.87"
+    },
+    "coreIdea": "<code>visceral</code> 形容情緒、反應或感受本能而深層，也可指內臟相關；句子的力道來自身體先知道，理性後來才解釋。",
+    "definition": {
+      "summary": "形容情緒、反應或感受本能而深層，也可指內臟相關。常見語境會讓身體先知道，理性後來才解釋變得清楚。",
+      "contrast": {
+        "word": "Emotional",
+        "note": "<code>emotional</code> 很廣；visceral 更像身體本能的深層反應。"
+      },
+      "flow": [
+        "刺激進入",
+        "身體先反應",
+        "理性才跟上"
+      ]
+    },
+    "origin": {
+      "history": "<code>visceral</code> 字源依 Online Etymology Dictionary；來源段落記錄：1570s, \"affecting inward feelings,\" from French viscéral and directly from Medieval Latin visceralis \"internal,\" from Latin viscera , plural of viscus \"internal organ, inner parts of the body,\" a word of unknown origin. The bowels were regarded as the seat of emotion. Now-obsolete viscerous \"sincere, heartfelt\" is attested from mid-15c.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>visceral</code> 想成看到畫面時胃先一縮，還沒想清楚就已經知道不舒服。",
+      "explanation": "這個畫面保留的是身體先知道，理性後來才解釋，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "藝術",
+        "body": "The film creates a <code>visceral</code> sense of fear."
+      },
+      {
+        "label": "UX",
+        "body": "刪除確認不能只靠文字，因為資料消失會帶來 <code>visceral</code> panic。"
+      }
+    ],
+    "collocations": {
+      "note": "Visceral 的自然搭配多半讓身體先知道，理性後來才解釋具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "visceral reaction",
+          "register": "心理 / 評論",
+          "note": "反應直接從身體深處冒出。"
+        },
+        {
+          "phrase": "visceral fear",
+          "register": "電影 / 敘事",
+          "note": "恐懼不是概念，而是身體真的緊起來。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "反應像從身體深處冒出，還沒被理性整理",
+        "use": "適合描述身體先知道，理性後來才解釋的句子。"
+      },
+      "others": [
+        {
+          "word": "Emotional",
+          "meaning": "情緒上的、由感情引發",
+          "use": "若只是情感色彩，用 <code>emotional</code>；若像身體反射，用 visceral。"
+        }
+      ]
+    },
+    "modernUse": [
+      "電影、遊戲和 UX 設計常用 <code>visceral</code>，因為體驗會先打到 body before explanation。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/visceral",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/visceral",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "visceral",
+    "word": "Visceral",
+    "partOfSpeech": "adjective",
+    "href": "./visceral.html",
+    "thesis": "不是只是強烈，而是反應像從身體深處冒出，還沒被理性整理。",
+    "tags": [
+      "本能深層",
+      "身體先反應",
+      "emotional",
+      "visceral reaction",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/visceral",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/visceral",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/visceral",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

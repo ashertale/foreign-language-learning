@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vantage",
+    "slug": "vantage",
+    "outputPath": "prototypes/vantage.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "VAN-tij · UK /ˈvɑːn.tɪdʒ/ · US /ˈvæn.t̬ɪdʒ/",
+    "hero": {
+      "thesis": "不是普通位置，而是讓你看清局勢或取得優勢的觀察位置。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.70"
+    },
+    "coreIdea": "<code>vantage</code> 指有利位置、觀點或視角，常出現在 vantage point；句子的力道來自站的位置改變能看見的東西。",
+    "definition": {
+      "summary": "指有利位置、觀點或視角，常出現在 vantage point。常見語境會讓站的位置改變能看見的東西變得清楚。",
+      "contrast": {
+        "word": "Viewpoint",
+        "note": "<code>viewpoint</code> 偏觀點；vantage 常帶有位置優勢或觀察角度。"
+      },
+      "flow": [
+        "位置被選定",
+        "視野打開",
+        "判斷取得優勢"
+      ]
+    },
+    "origin": {
+      "history": "<code>vantage</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1300, vauntage , \"position of superiority or dominance; superiority of position or place, vantage-ground;\" from Anglo-French vantage , a shortening of Old French avantage \"advantage, profit, superiority\" (see advantage ). Vantage-point \"favorable position\" attested from 1865; a similar notion was in earlier vantage ground (1610s).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vantage</code> 想成站到山脊上，同一座城突然有了完整輪廓。",
+      "explanation": "這個畫面保留的是站的位置改變能看見的東西，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "視角",
+        "body": "From that <code>vantage</code>, the policy looked less generous than advertised."
+      },
+      {
+        "label": "debug",
+        "body": "加入 trace 後，我們得到新的 <code>vantage point</code>，能看見 request 怎麼穿過服務。"
+      }
+    ],
+    "collocations": {
+      "note": "Vantage 的自然搭配多半讓站的位置改變能看見的東西具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vantage point",
+          "register": "通用 / 分析",
+          "note": "有利觀察位置，讓局勢更清楚。"
+        },
+        {
+          "phrase": "strategic vantage",
+          "register": "商務 / 軍事",
+          "note": "位置本身帶來判斷或行動優勢。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓你看清局勢或取得優勢的觀察位置",
+        "use": "適合描述站的位置改變能看見的東西的句子。"
+      },
+      "others": [
+        {
+          "word": "Viewpoint",
+          "meaning": "看法、觀點或立場",
+          "use": "若只談主觀觀點，用 <code>viewpoint</code>；若有位置優勢，用 vantage。"
+        }
+      ]
+    },
+    "modernUse": [
+      "分析、攝影和 observability 都可以用 <code>vantage</code>，因為 where you stand shapes what you can know。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vantage",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vantage",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vantage",
+    "word": "Vantage",
+    "partOfSpeech": "noun",
+    "href": "./vantage.html",
+    "thesis": "不是普通位置，而是讓你看清局勢或取得優勢的觀察位置。",
+    "tags": [
+      "有利視角",
+      "位置帶來判斷",
+      "viewpoint",
+      "vantage point",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vantage",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vantage",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vantage",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

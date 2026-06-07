@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wary",
+    "slug": "wary",
+    "outputPath": "prototypes/wary.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "WAIR-ee · UK /ˈweə.ri/ · US /ˈwer.i/",
+    "hero": {
+      "thesis": "不是只是害怕，而是因為看見可能風險而保持謹慎距離。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.39"
+    },
+    "coreIdea": "<code>wary</code> 形容對人、提案或情況保持警惕、不輕易相信；句子的力道來自不信任未必是拒絕，而是先保留安全距離。",
+    "definition": {
+      "summary": "形容對人、提案或情況保持警惕、不輕易相信。常見語境會讓不信任未必是拒絕，而是先保留安全距離變得清楚。",
+      "contrast": {
+        "word": "Afraid",
+        "note": "<code>afraid</code> 是害怕；wary 是有風險判斷的謹慎。"
+      },
+      "flow": [
+        "風險線索出現",
+        "信任暫緩",
+        "保持距離觀察"
+      ]
+    },
+    "origin": {
+      "history": "<code>wary</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"cautious of danger, carefully watching against deception,\" late 15c., with -y (2) + ware , from Old English wær \"prudent, aware, alert, wary,\" from Proto-Germanic *waraz (source also of Old Norse varr \"attentive,\" Gothic wars \"cautious,\" Old Saxon giwar , Middle Dutch gheware , Old High German giwar , German gewahr \"aware\"), from PIE root *wer- (3) \"perceive, watch out for.\" Related: Warily ; wariness .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wary</code> 想成看到陌生連結時，手指停在點擊前一公分。",
+      "explanation": "這個畫面保留的是不信任未必是拒絕，而是先保留安全距離，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "安全",
+        "body": "Users should be <code>wary</code> of unexpected login prompts."
+      },
+      {
+        "label": "商務",
+        "body": "投資人對過度樂觀的 forecast 很 <code>wary</code>，因為前幾季都 missed。"
+      }
+    ],
+    "collocations": {
+      "note": "Wary 的自然搭配多半讓不信任未必是拒絕，而是先保留安全距離具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "wary of",
+          "register": "通用 / 安全",
+          "note": "對某人某事保留警戒。"
+        },
+        {
+          "phrase": "remain wary",
+          "register": "新聞 / 分析",
+          "note": "即使情勢看似改善，仍保持防備。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "因為看見可能風險而保持謹慎距離",
+        "use": "適合描述不信任未必是拒絕，而是先保留安全距離的句子。"
+      },
+      "others": [
+        {
+          "word": "Afraid",
+          "meaning": "感到恐懼或擔心",
+          "use": "若情緒是恐懼，用 <code>afraid</code>；若是審慎防備，用 wary。"
+        }
+      ]
+    },
+    "modernUse": [
+      "資安、投資和消費者信任討論常用 <code>wary</code>，因為 cautious skepticism can be rational。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wary",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wary",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wary",
+    "word": "Wary",
+    "partOfSpeech": "adjective",
+    "href": "./wary.html",
+    "thesis": "不是只是害怕，而是因為看見可能風險而保持謹慎距離。",
+    "tags": [
+      "謹慎防備",
+      "保留安全距離",
+      "afraid",
+      "wary of",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wary",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wary",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wary",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

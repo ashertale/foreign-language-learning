@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vestige",
+    "slug": "vestige",
+    "outputPath": "prototypes/vestige.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "VES-tij · UK /ˈves.tɪdʒ/ · US /ˈves.tɪdʒ/",
+    "hero": {
+      "thesis": "不是普通剩下，而是過去事物留下的一點痕跡或殘餘。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.46"
+    },
+    "coreIdea": "<code>vestige</code> 指殘跡、遺留物，常表示曾經存在的東西只剩少量證據；句子的力道來自現在看到的是過去的微弱殘影。",
+    "definition": {
+      "summary": "指殘跡、遺留物，常表示曾經存在的東西只剩少量證據。常見語境會讓現在看到的是過去的微弱殘影變得清楚。",
+      "contrast": {
+        "word": "Remnant",
+        "note": "<code>remnant</code> 也指剩餘；vestige 更像可辨認的痕跡，常帶歷史感。"
+      },
+      "flow": [
+        "事物曾經存在",
+        "大部分消失",
+        "少量痕跡留下"
+      ]
+    },
+    "origin": {
+      "history": "<code>vestige</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1600, \"a mark, trace, sign\" of a building or other structure that no longer exists, from French vestige (16c.), from Latin vestigium \"footprint, trace,\" a word of unknown origin. De Vaan writes, \"a connection with vestis 'clothes' does not make much sense.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vestige</code> 想成老牆上的淡色招牌字，店早沒了，痕跡還在。",
+      "explanation": "這個畫面保留的是現在看到的是過去的微弱殘影，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "歷史",
+        "body": "The old gate is the last <code>vestige</code> of the fort."
+      },
+      {
+        "label": "系統",
+        "body": "那個 config flag 是舊架構的 <code>vestige</code>，沒人敢刪，卻也沒人需要。"
+      }
+    ],
+    "collocations": {
+      "note": "Vestige 的自然搭配多半讓現在看到的是過去的微弱殘影具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "last vestige",
+          "register": "歷史 / 評論",
+          "note": "最後一點還能看見的殘跡。"
+        },
+        {
+          "phrase": "vestige of the past",
+          "register": "文化 / 系統",
+          "note": "過去留下的可辨痕跡。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "過去事物留下的一點痕跡或殘餘",
+        "use": "適合描述現在看到的是過去的微弱殘影的句子。"
+      },
+      "others": [
+        {
+          "word": "Remnant",
+          "meaning": "殘餘、剩下的一部分",
+          "use": "若只是物理剩餘，用 <code>remnant</code>；若是過去的痕跡，用 vestige。"
+        }
+      ]
+    },
+    "modernUse": [
+      "legacy systems 裡常有 <code>vestige</code>，它提醒你某段 history still shapes current structure。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vestige",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vestige",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vestige",
+    "word": "Vestige",
+    "partOfSpeech": "noun",
+    "href": "./vestige.html",
+    "thesis": "不是普通剩下，而是過去事物留下的一點痕跡或殘餘。",
+    "tags": [
+      "殘跡遺留",
+      "過去微弱殘影",
+      "remnant",
+      "last vestige",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vestige",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vestige",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vestige",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

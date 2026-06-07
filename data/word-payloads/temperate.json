@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Temperate",
+    "slug": "temperate",
+    "outputPath": "prototypes/temperate.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TEM-per-uht · UK /ˈtem.pər.ət/ · US /ˈtem.pɚ.ət/",
+    "hero": {
+      "thesis": "不是只是溫度剛好，而是氣候、態度或行為保持節制，不走向極端。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.77"
+    },
+    "coreIdea": "<code>temperate</code> 形容氣候溫和，也可指言行克制、適度；句子的力道來自力量被控制在中間區間。",
+    "definition": {
+      "summary": "形容氣候溫和，也可指言行克制、適度。常見語境會讓力量被控制在中間區間變得清楚。",
+      "contrast": {
+        "word": "Moderate",
+        "note": "<code>moderate</code> 是通用的適中；temperate 更常連到氣候或自我節制的語感。"
+      },
+      "flow": [
+        "極端被避開",
+        "範圍保持中間",
+        "反應變得穩定"
+      ]
+    },
+    "origin": {
+      "history": "<code>temperate</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., of persons, \"modest, forbearing, self-restrained, not swayed by passion\" (translating Latin modestus ); also, in reference to climates or seasons, \"not liable to excessive heat or cold;\" from Latin temperatus \"restrained, regulated, limited, moderate, sober, calm, steady,\" past participle of temperare \"to moderate, regulate\" (see temper (v.)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>temperate</code> 想成一個 thermostat 把情緒和天氣都維持在可承受區間。",
+      "explanation": "這個畫面保留的是力量被控制在中間區間，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "氣候",
+        "body": "The region has a <code>temperate</code> climate with mild winters."
+      },
+      {
+        "label": "語氣",
+        "body": "他在 review 裡保持 <code>temperate</code> tone，批評清楚但沒有羞辱人。"
+      }
+    ],
+    "collocations": {
+      "note": "Temperate 的自然搭配多半讓力量被控制在中間區間具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "temperate climate",
+          "register": "地理 / 自然",
+          "note": "氣候溫和，沒有長期極端熱或冷。"
+        },
+        {
+          "phrase": "temperate language",
+          "register": "評論 / 溝通",
+          "note": "語言克制，避免火上加油。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "氣候、態度或行為保持節制，不走向極端",
+        "use": "適合描述力量被控制在中間區間的句子。"
+      },
+      "others": [
+        {
+          "word": "Moderate",
+          "meaning": "程度中等、不激烈",
+          "use": "若只談數量或程度，<code>moderate</code> 很自然；temperate 多一層克制。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在職場溝通中，<code>temperate</code> 可以稱讚語氣穩，不把衝突推向失控。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/temperate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/temperate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "temperate",
+    "word": "Temperate",
+    "partOfSpeech": "adjective",
+    "href": "./temperate.html",
+    "thesis": "不是只是溫度剛好，而是氣候、態度或行為保持節制，不走向極端。",
+    "tags": [
+      "溫和節制",
+      "避免極端",
+      "moderate",
+      "temperate tone",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/temperate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/temperate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/temperate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

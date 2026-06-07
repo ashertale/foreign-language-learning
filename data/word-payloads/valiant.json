@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Valiant",
+    "slug": "valiant",
+    "outputPath": "prototypes/valiant.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "VAL-yuhnt · UK /ˈvæl.i.ənt/ · US /ˈvæl.jənt/",
+    "hero": {
+      "thesis": "不是只是勇敢，而是在困難或危險下仍值得尊敬地奮力而為。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.66"
+    },
+    "coreIdea": "<code>valiant</code> 形容勇敢、英勇，尤其在壓力下仍努力奮戰；句子的力道來自結果未必成功，但努力有尊嚴。",
+    "definition": {
+      "summary": "形容勇敢、英勇，尤其在壓力下仍努力奮戰。常見語境會讓結果未必成功，但努力有尊嚴變得清楚。",
+      "contrast": {
+        "word": "Brave",
+        "note": "<code>brave</code> 表示勇敢；valiant 多一層莊重的奮戰感。"
+      },
+      "flow": [
+        "困難壓來",
+        "仍然奮力",
+        "努力值得敬重"
+      ]
+    },
+    "origin": {
+      "history": "<code>valiant</code> 字源依 Online Etymology Dictionary；來源段落記錄：early 14c. (late 12c. in surnames), valiaunt , \"brave, courageous, intrepid in danger\" (also \"physically powerful\"); from Anglo-French vaylant , and Old French vaillant \"stalwart, brave,\" present-participle adjective from valoir \"be worthy,\" originally \"be strong,\" from Latin valere \"be strong, be well, be worth, have power, be able, be in health\" (from PIE root *wal- \"to be strong\"). As a noun, \"valiant person,\" from c. 1600. Related: Valiantly .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>valiant</code> 想成比分落後很多，隊伍仍把每一球打到最後。",
+      "explanation": "這個畫面保留的是結果未必成功，但努力有尊嚴，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "競賽",
+        "body": "They made a <code>valiant</code> attempt to come back in the final quarter."
+      },
+      {
+        "label": "救援",
+        "body": "小團隊做了 <code>valiant</code> effort，雖然時間不夠，仍守住最重要的資料。"
+      }
+    ],
+    "collocations": {
+      "note": "Valiant 的自然搭配多半讓結果未必成功，但努力有尊嚴具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "valiant effort",
+          "register": "運動 / 職場",
+          "note": "努力很有勇氣和尊嚴，即使可能未成功。"
+        },
+        {
+          "phrase": "valiant attempt",
+          "register": "評論 / 敘事",
+          "note": "嘗試面對高難度，不是輕鬆試一下。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在困難或危險下仍值得尊敬地奮力而為",
+        "use": "適合描述結果未必成功，但努力有尊嚴的句子。"
+      },
+      "others": [
+        {
+          "word": "Brave",
+          "meaning": "面對危險仍不退縮",
+          "use": "若只是有膽量，用 <code>brave</code>；若要尊敬那份奮戰，用 valiant。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>valiant</code> 常用在 sports、rescue、startup stories，稱讚人在不利條件下仍認真奮戰。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/valiant",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/valiant",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "valiant",
+    "word": "Valiant",
+    "partOfSpeech": "adjective",
+    "href": "./valiant.html",
+    "thesis": "不是只是勇敢，而是在困難或危險下仍值得尊敬地奮力而為。",
+    "tags": [
+      "英勇奮戰",
+      "努力值得敬重",
+      "brave",
+      "valiant effort",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/valiant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/valiant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/valiant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

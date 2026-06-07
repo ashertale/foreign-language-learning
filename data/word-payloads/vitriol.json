@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vitriol",
+    "slug": "vitriol",
+    "outputPath": "prototypes/vitriol.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "VIT-ree-ol · UK /ˈvɪt.ri.ɒl/ · US /ˈvɪt.ri.ɑːl/",
+    "hero": {
+      "thesis": "不是普通批評，而是像酸液一樣灼人的惡毒言語。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.28"
+    },
+    "coreIdea": "<code>vitriol</code> 指充滿惡意、尖刻或仇恨的語言；句子的力道來自話語不是指出問題，而是腐蝕對方。",
+    "definition": {
+      "summary": "指充滿惡意、尖刻或仇恨的語言。常見語境會讓話語不是指出問題，而是腐蝕對方變得清楚。",
+      "contrast": {
+        "word": "Criticism",
+        "note": "<code>criticism</code> 可以理性指出問題；vitriol 是帶毒性的攻擊語言。"
+      },
+      "flow": [
+        "怒氣累積",
+        "語言變酸",
+        "對象被灼傷"
+      ]
+    },
+    "origin": {
+      "history": "<code>vitriol</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., \"sulphate of iron,\" a glassy mineral salt used in medicine, alchemy, etc., from Old French vitriol (13c.) and directly from Medieval Latin vitriolum \"vitriol,\" noun use of neuter of vitriolus , variant of Late Latin vitreolus \"of glass,\" from Latin vitreus \"of glass, glassy,\" from vitrum \"glass\" (see vitreous ). So called from its glassy appearance in certain states.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vitriol</code> 想成評論不是筆，而是一瓶酸，倒到哪裡都留下痕跡。",
+      "explanation": "這個畫面保留的是話語不是指出問題，而是腐蝕對方，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "社群",
+        "body": "The post attracted a stream of <code>vitriol</code>."
+      },
+      {
+        "label": "職場",
+        "body": "review 可以嚴格，但不能變成 <code>vitriol</code>，否則人只會自我防衛。"
+      }
+    ],
+    "collocations": {
+      "note": "Vitriol 的自然搭配多半讓話語不是指出問題，而是腐蝕對方具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "online vitriol",
+          "register": "社群 / 媒體",
+          "note": "網路上的惡毒攻擊語言。"
+        },
+        {
+          "phrase": "pour vitriol on",
+          "register": "評論 / 文學",
+          "note": "把酸性惡意傾倒到某人或某議題上。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "像酸液一樣灼人的惡毒言語",
+        "use": "適合描述話語不是指出問題，而是腐蝕對方的句子。"
+      },
+      "others": [
+        {
+          "word": "Criticism",
+          "meaning": "評論缺點或表達反對",
+          "use": "若批評有根據，用 <code>criticism</code>；若語言在灼傷人，用 vitriol。"
+        }
+      ]
+    },
+    "modernUse": [
+      "社群平台讓 <code>vitriol</code> 很常見，因為 disagreement can quickly become corrosive speech。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vitriol",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vitriol",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vitriol",
+    "word": "Vitriol",
+    "partOfSpeech": "noun",
+    "href": "./vitriol.html",
+    "thesis": "不是普通批評，而是像酸液一樣灼人的惡毒言語。",
+    "tags": [
+      "惡毒言語",
+      "酸性攻擊",
+      "criticism",
+      "online vitriol",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vitriol",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vitriol",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vitriol",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

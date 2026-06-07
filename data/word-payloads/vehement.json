@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vehement",
+    "slug": "vehement",
+    "outputPath": "prototypes/vehement.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "VEE-uh-muhnt · UK /ˈviː.ə.mənt/ · US /ˈviː.ə.mənt/",
+    "hero": {
+      "thesis": "不是只是大聲，而是情緒或立場強烈到帶有猛烈推力。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.64"
+    },
+    "coreIdea": "<code>vehement</code> 形容感情、反對、否認或主張非常強烈；句子的力道來自力道來自強烈情緒，而不只是音量。",
+    "definition": {
+      "summary": "形容感情、反對、否認或主張非常強烈。常見語境會讓力道來自強烈情緒，而不只是音量變得清楚。",
+      "contrast": {
+        "word": "Strong",
+        "note": "<code>strong</code> 很廣；vehement 常指反對、否認或情緒表達很激烈。"
+      },
+      "flow": [
+        "立場被觸動",
+        "情緒升高",
+        "表達變猛烈"
+      ]
+    },
+    "origin": {
+      "history": "<code>vehement</code> 字源依 Online Etymology Dictionary；來源段落記錄：early 15c., \"severe, grievous, fierce, characterized by strength and violence, proceeding from impetuous emotion,\" from Old French vehement , veement \"impetuous, ardent\" (12c.), from Latin vehementem (nominative vehemens ) \"impetuous, eager, violent, furious, ardent, carried away.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vehement</code> 想成一陣風不是輕推，而是把門猛地撞開。",
+      "explanation": "這個畫面保留的是力道來自強烈情緒，而不只是音量，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "反對",
+        "body": "The proposal met with <code>vehement</code> opposition."
+      },
+      {
+        "label": "否認",
+        "body": "他 <code>vehemently</code> denied leaking the document，語氣強到所有人都停下來聽。"
+      }
+    ],
+    "collocations": {
+      "note": "Vehement 的自然搭配多半讓力道來自強烈情緒，而不只是音量具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vehement opposition",
+          "register": "政治 / 社會",
+          "note": "反對強烈、情緒明顯，通常難以忽略。"
+        },
+        {
+          "phrase": "vehement denial",
+          "register": "新聞 / 法律",
+          "note": "否認很強硬，像要立刻把指控推回去。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "情緒或立場強烈到帶有猛烈推力",
+        "use": "適合描述力道來自強烈情緒，而不只是音量的句子。"
+      },
+      "others": [
+        {
+          "word": "Strong",
+          "meaning": "強、有力或程度高",
+          "use": "若只是程度高，用 <code>strong</code>；若情緒猛烈，用 vehement。"
+        }
+      ]
+    },
+    "modernUse": [
+      "新聞和政治語境常用 <code>vehement</code>，因為它把 emotion intensity 和 public stance 綁在一起。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vehement",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vehement",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vehement",
+    "word": "Vehement",
+    "partOfSpeech": "adjective",
+    "href": "./vehement.html",
+    "thesis": "不是只是大聲，而是情緒或立場強烈到帶有猛烈推力。",
+    "tags": [
+      "強烈猛烈",
+      "情緒推力",
+      "strong",
+      "vehement opposition",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vehement",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vehement",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vehement",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

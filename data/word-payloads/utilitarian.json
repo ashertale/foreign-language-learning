@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Utilitarian",
+    "slug": "utilitarian",
+    "outputPath": "prototypes/utilitarian.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "yoo-til-ih-TAIR-ee-uhn · UK /juːˌtɪl.ɪˈteə.ri.ən/ · US /juːˌtɪl.əˈter.i.ən/",
+    "hero": {
+      "thesis": "不是只是有用，而是把實用功能放在美感、情感或象徵之前。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.89"
+    },
+    "coreIdea": "<code>utilitarian</code> 形容以實用性為主，也可指功利主義的倫理觀；句子的力道來自價值被功能和結果衡量。",
+    "definition": {
+      "summary": "形容以實用性為主，也可指功利主義的倫理觀。常見語境會讓價值被功能和結果衡量變得清楚。",
+      "contrast": {
+        "word": "Practical",
+        "note": "<code>practical</code> 表示實際可用；utilitarian 更像把 usefulness 當主要設計或倫理標準。"
+      },
+      "flow": [
+        "功能優先",
+        "裝飾退後",
+        "價值由用途衡量"
+      ]
+    },
+    "origin": {
+      "history": "<code>utilitarian</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"advocate of utilitarianism; one guided by the doctrine of the greatest happiness for the greatest number,\" 1781, coined by Jeremy Bentham (1748-1832) from utility + -arian on the model of + unitarian , etc. Utility had been used in philosophy by Hume for \"capacity to satisfy the needs or desires of all or the greatest majority.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>utilitarian</code> 想成一張椅子沒有花紋，但坐得穩、搬得動、成本低。",
+      "explanation": "這個畫面保留的是價值被功能和結果衡量，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "設計",
+        "body": "The interface is plain but <code>utilitarian</code>."
+      },
+      {
+        "label": "倫理",
+        "body": "A <code>utilitarian</code> argument may favor the option that helps the greatest number of people."
+      }
+    ],
+    "collocations": {
+      "note": "Utilitarian 的自然搭配多半讓價值被功能和結果衡量具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "utilitarian design",
+          "register": "設計 / 產品",
+          "note": "設計服務功能，少裝飾，重效率。"
+        },
+        {
+          "phrase": "utilitarian argument",
+          "register": "倫理 / 政策",
+          "note": "以整體效益或結果來衡量選擇。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把實用功能放在美感、情感或象徵之前",
+        "use": "適合描述價值被功能和結果衡量的句子。"
+      },
+      "others": [
+        {
+          "word": "Practical",
+          "meaning": "實際、可操作、能解決問題",
+          "use": "若只稱讚實際，用 <code>practical</code>；若功能壓過其他價值，用 utilitarian。"
+        }
+      ]
+    },
+    "modernUse": [
+      "產品設計和政策辯論都會用 <code>utilitarian</code>，但前者談功能，後者常談 consequence-based ethics。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/utilitarian",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/utilitarian",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "utilitarian",
+    "word": "Utilitarian",
+    "partOfSpeech": "adjective",
+    "href": "./utilitarian.html",
+    "thesis": "不是只是有用，而是把實用功能放在美感、情感或象徵之前。",
+    "tags": [
+      "實用功能優先",
+      "以用途衡量",
+      "practical",
+      "utilitarian design",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/utilitarian",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/utilitarian",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/utilitarian",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Uproar",
+    "slug": "uproar",
+    "outputPath": "prototypes/uproar.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "UP-rawr · UK /ˈʌp.rɔːr/ · US /ˈʌp.rɔːr/",
+    "hero": {
+      "thesis": "不是普通噪音，而是人群因憤怒、驚訝或不滿爆出的喧鬧反應。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.77"
+    },
+    "coreIdea": "<code>uproar</code> 指公開的喧鬧、騷動或強烈抗議；句子的力道來自聲音背後有群體情緒。",
+    "definition": {
+      "summary": "指公開的喧鬧、騷動或強烈抗議。常見語境會讓聲音背後有群體情緒變得清楚。",
+      "contrast": {
+        "word": "Noise",
+        "note": "<code>noise</code> 只是聲音；uproar 是帶情緒和集體反應的喧鬧。"
+      },
+      "flow": [
+        "事件刺激",
+        "群體情緒升高",
+        "公開聲浪爆開"
+      ]
+    },
+    "origin": {
+      "history": "<code>uproar</code> 字源依 Online Etymology Dictionary；來源段落記錄：This is from German auf (Middle Dutch op ) \"up\" (see up (adv.)) + ruhr (Middle Dutch roer ) \"a stirring, motion,\" which is related to Old English hreran \"to move, stir, shake\" (see rare (adj.2)). The meaning \"noisy shouting\" is recorded from 1540s, probably by mistaken association with unrelated roar .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>uproar</code> 想成一個消息丟進禮堂，所有椅子和聲音同時站起來。",
+      "explanation": "這個畫面保留的是聲音背後有群體情緒，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "新聞",
+        "body": "The decision caused a public <code>uproar</code>."
+      },
+      {
+        "label": "產品",
+        "body": "價格突然上調造成 <code>uproar</code>，社群要求公司解釋每一項費用。"
+      }
+    ],
+    "collocations": {
+      "note": "Uproar 的自然搭配多半讓聲音背後有群體情緒具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "public uproar",
+          "register": "新聞 / 政策",
+          "note": "公眾不滿以聲浪形式爆出。"
+        },
+        {
+          "phrase": "cause an uproar",
+          "register": "媒體 / 日常",
+          "note": "某事引發強烈集體反應。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "人群因憤怒、驚訝或不滿爆出的喧鬧反應",
+        "use": "適合描述聲音背後有群體情緒的句子。"
+      },
+      "others": [
+        {
+          "word": "Noise",
+          "meaning": "聲響或噪音",
+          "use": "若沒有抗議或情緒，用 <code>noise</code>；若群體反應爆開，用 uproar。"
+        }
+      ]
+    },
+    "modernUse": [
+      "社群平台讓 <code>uproar</code> 更常和 policy change、pricing、moderation decisions 一起出現。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/uproar",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/uproar",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "uproar",
+    "word": "Uproar",
+    "partOfSpeech": "noun",
+    "href": "./uproar.html",
+    "thesis": "不是普通噪音，而是人群因憤怒、驚訝或不滿爆出的喧鬧反應。",
+    "tags": [
+      "公眾譁然",
+      "群體情緒爆開",
+      "noise",
+      "public uproar",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uproar",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/uproar",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uproar",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

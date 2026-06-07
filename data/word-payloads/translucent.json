@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Translucent",
+    "slug": "translucent",
+    "outputPath": "prototypes/translucent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "tranz-LOO-suhnt · UK /trænzˈluː.sənt/ · US /trænzˈluː.sənt/",
+    "hero": {
+      "thesis": "不是完全透明，而是讓光穿過，卻不讓輪廓完全清楚。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.79"
+    },
+    "coreIdea": "<code>translucent</code> 形容半透明，光能透過但細節看不分明；句子的力道來自光線進得來，清晰度進不來。",
+    "definition": {
+      "summary": "形容半透明，光能透過但細節看不分明。常見語境會讓光線進得來，清晰度進不來變得清楚。",
+      "contrast": {
+        "word": "Transparent",
+        "note": "<code>transparent</code> 表示可以看清；translucent 是透光但不透明到能辨細節。"
+      },
+      "flow": [
+        "光線穿過",
+        "輪廓被柔化",
+        "細節仍模糊"
+      ]
+    },
+    "origin": {
+      "history": "<code>translucent</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"semi-transparent, emitting light rays without being transparent\" (as alabaster), 1785, from Latin translucentem (nominative translucens ), present participle of translucere \"to shine through,\" from trans \"across, beyond; through\" (see trans- ) + lucere \"to shine\" (from a suffixed form of PIE root *leuk- \"light, brightness\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>translucent</code> 想成浴室霧面玻璃讓光進來，卻保留隱私。",
+      "explanation": "這個畫面保留的是光線進得來，清晰度進不來，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "材質",
+        "body": "The lamp uses a <code>translucent</code> shade to soften the light."
+      },
+      {
+        "label": "介面",
+        "body": "半透明 overlay 看似 <code>translucent</code>，但文字對比不夠時會傷害可讀性。"
+      }
+    ],
+    "collocations": {
+      "note": "Translucent 的自然搭配多半讓光線進得來，清晰度進不來具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "translucent glass",
+          "register": "設計 / 建築",
+          "note": "透光但不讓細節直接暴露。"
+        },
+        {
+          "phrase": "translucent skin",
+          "register": "描寫 / 醫療",
+          "note": "皮膚薄到光感透出，語氣通常細緻。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓光穿過，卻不讓輪廓完全清楚",
+        "use": "適合描述光線進得來，清晰度進不來的句子。"
+      },
+      "others": [
+        {
+          "word": "Transparent",
+          "meaning": "透明、可清楚看穿",
+          "use": "若後方物體清楚可見，用 <code>transparent</code>；若只有光穿過，用 translucent。"
+        }
+      ]
+    },
+    "modernUse": [
+      "UI 和產品設計常借 <code>translucent</code> 描述霧面、半透明層，但真正重點仍是 readability。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/translucent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/translucent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "translucent",
+    "word": "Translucent",
+    "partOfSpeech": "adjective",
+    "href": "./translucent.html",
+    "thesis": "不是完全透明，而是讓光穿過，卻不讓輪廓完全清楚。",
+    "tags": [
+      "半透明",
+      "透光不清晰",
+      "transparent",
+      "translucent glass",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/translucent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/translucent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/translucent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

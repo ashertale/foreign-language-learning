@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tantamount",
+    "slug": "tantamount",
+    "outputPath": "prototypes/tantamount.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAN-tuh-mownt · UK /ˈtæn.tə.maʊnt/ · US /ˈtæn.tə.maʊnt/",
+    "hero": {
+      "thesis": "不是差不多相似，而是雖然名義不同，實際效果幾乎等同。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.72"
+    },
+    "coreIdea": "<code>tantamount</code> 形容一件事在結果、嚴重性或意義上等同於另一件事；句子的力道來自表面名稱不同，實際後果被視為同一級。",
+    "definition": {
+      "summary": "形容一件事在結果、嚴重性或意義上等同於另一件事。常見語境會讓表面名稱不同，實際後果被視為同一級變得清楚。",
+      "contrast": {
+        "word": "Equivalent",
+        "note": "<code>equivalent</code> 偏中性等值；tantamount 常帶判斷語氣，指出某行為等於更嚴重的事。"
+      },
+      "flow": [
+        "名義不同",
+        "後果相同",
+        "判斷等同"
+      ]
+    },
+    "origin": {
+      "history": "<code>tantamount</code> 字源依 Online Etymology Dictionary；來源摘要提到 \"equivalent as in value, force, signification, etc.,\" 1640s, from verbal phrase tant。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tantamount</code> 想成兩張不同標籤的門票，最後都把人送到同一個出口。",
+      "explanation": "這個畫面保留的是表面名稱不同，實際後果被視為同一級，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "法律語氣",
+        "body": "Ignoring the safety warning was <code>tantamount</code> to accepting the risk."
+      },
+      {
+        "label": "職場判斷",
+        "body": "在 deadline 前撤掉關鍵人力，幾乎 <code>tantamount</code> to cancelling the project。"
+      }
+    ],
+    "collocations": {
+      "note": "Tantamount 的自然搭配多半讓表面名稱不同，實際後果被視為同一級具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tantamount to admission",
+          "register": "法律 / 評論",
+          "note": "行為沒有明說承認，效果卻像承認。"
+        },
+        {
+          "phrase": "tantamount to failure",
+          "register": "分析 / 批評",
+          "note": "結果雖未正式宣告失敗，但實質上已到失敗等級。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "雖然名義不同，實際效果幾乎等同",
+        "use": "適合描述表面名稱不同，實際後果被視為同一級的句子。"
+      },
+      "others": [
+        {
+          "word": "Equivalent",
+          "meaning": "數值、功能或身份上的等價",
+          "use": "做技術比較或單純等值換算時，<code>equivalent</code> 比 tantamount 冷靜。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>tantamount</code> 常出現在評論、法務與政策語境，幫說話者把 indirect consequence 說成實質等同。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tantamount",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tantamount",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tantamount",
+    "word": "Tantamount",
+    "partOfSpeech": "adjective",
+    "href": "./tantamount.html",
+    "thesis": "不是差不多相似，而是雖然名義不同，實際效果幾乎等同。",
+    "tags": [
+      "實質等同",
+      "名義不同後果相同",
+      "equivalent",
+      "tantamount to",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tantamount",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tantamount",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tantamount",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

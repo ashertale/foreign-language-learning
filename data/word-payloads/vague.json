@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vague",
+    "slug": "vague",
+    "outputPath": "prototypes/vague.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "VAYG · UK /veɪɡ/ · US /veɪɡ/",
+    "hero": {
+      "thesis": "不是完全不知道，而是輪廓有一點，但邊界、細節或責任不清楚。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.87"
+    },
+    "coreIdea": "<code>vague</code> 形容說法、記憶、感覺或計畫模糊、不精確；句子的力道來自有方向，沒有足夠邊界。",
+    "definition": {
+      "summary": "形容說法、記憶、感覺或計畫模糊、不精確。常見語境會讓有方向，沒有足夠邊界變得清楚。",
+      "contrast": {
+        "word": "Ambiguous",
+        "note": "<code>ambiguous</code> 常指有多種解讀；vague 是細節不足、輪廓不清。"
+      },
+      "flow": [
+        "輪廓出現",
+        "細節缺席",
+        "判斷難以下手"
+      ]
+    },
+    "origin": {
+      "history": "<code>vague</code> 字源依 Online Etymology Dictionary；來源段落記錄：1540s, of statements, \"uncertain as to specifics, without precise expression or determination,\" from French vague \"empty, vacant; wild, uncultivated; wandering\" (13c.), from Latin vagus \"strolling, wandering, rambling,\" figuratively \"vacillating, uncertain.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vague</code> 想成霧裡看見一棟建築，但窗、門和距離都不清楚。",
+      "explanation": "這個畫面保留的是有方向，沒有足夠邊界，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "需求",
+        "body": "The requirement was too <code>vague</code> to estimate responsibly."
+      },
+      {
+        "label": "記憶",
+        "body": "我只記得一個 <code>vague</code> feeling，像那天有什麼事沒說完。"
+      }
+    ],
+    "collocations": {
+      "note": "Vague 的自然搭配多半讓有方向，沒有足夠邊界具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vague idea",
+          "register": "日常 / 企劃",
+          "note": "方向大概有，但還不能直接執行。"
+        },
+        {
+          "phrase": "vague memory",
+          "register": "敘事 / 心理",
+          "note": "記憶輪廓在，細節散掉。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "輪廓有一點，但邊界、細節或責任不清楚",
+        "use": "適合描述有方向，沒有足夠邊界的句子。"
+      },
+      "others": [
+        {
+          "word": "Ambiguous",
+          "meaning": "可被理解成兩種以上意思",
+          "use": "若問題是雙重解讀，用 <code>ambiguous</code>；若是細節不夠，用 vague。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在工程協作裡，<code>vague</code> requirements 會把成本轉成 guesswork，所以需要拆成可驗收條件。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vague",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vague",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vague",
+    "word": "Vague",
+    "partOfSpeech": "adjective",
+    "href": "./vague.html",
+    "thesis": "不是完全不知道，而是輪廓有一點，但邊界、細節或責任不清楚。",
+    "tags": [
+      "模糊不精確",
+      "細節不足",
+      "ambiguous",
+      "vague requirement",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vague",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vague",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vague",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

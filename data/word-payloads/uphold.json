@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Uphold",
+    "slug": "uphold",
+    "outputPath": "prototypes/uphold.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "up-HOHLD · UK /ʌpˈhəʊld/ · US /ʌpˈhoʊld/",
+    "hero": {
+      "thesis": "不是只是支持，而是在壓力或質疑下維持原則、判決或標準有效。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.16"
+    },
+    "coreIdea": "<code>uphold</code> 表示支持、維護或確認某項原則、判決、權利或標準；句子的力道來自某物被托住，不讓它在挑戰中掉下來。",
+    "definition": {
+      "summary": "表示支持、維護或確認某項原則、判決、權利或標準。常見語境會讓某物被托住，不讓它在挑戰中掉下來變得清楚。",
+      "contrast": {
+        "word": "Support",
+        "note": "<code>support</code> 很廣；uphold 常用於法律、標準和原則被維持。"
+      },
+      "flow": [
+        "標準被挑戰",
+        "力量托住",
+        "有效性維持"
+      ]
+    },
+    "origin": {
+      "history": "<code>uphold</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1200, upholden , \"support, sustain\" someone or something physically, from up (adv.) + hold (v.). The sense of \"maintain, guarantee\" (a statement, a fact) is by 1520s; the meaning \"maintain in good condition or repair\" is from 1570s. Compare hold-up . Related: Upheld ; upholding; upholder . Similar formation in Old Frisian upholda , Middle Dutch ophouden , German aufhalten .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>uphold</code> 想成一隻手托住快掉下來的規則牌，讓它仍站在那裡。",
+      "explanation": "這個畫面保留的是某物被托住，不讓它在挑戰中掉下來，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "法律",
+        "body": "The court <code>upheld</code> the earlier ruling."
+      },
+      {
+        "label": "團隊標準",
+        "body": "資深工程師不只寫 code，也要 <code>uphold</code> review standards。"
+      }
+    ],
+    "collocations": {
+      "note": "Uphold 的自然搭配多半讓某物被托住，不讓它在挑戰中掉下來具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "uphold a ruling",
+          "register": "法律",
+          "note": "上級或法院確認判決仍有效。"
+        },
+        {
+          "phrase": "uphold standards",
+          "register": "職場 / 教育",
+          "note": "在壓力下仍維持標準，不讓它滑落。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在壓力或質疑下維持原則、判決或標準有效",
+        "use": "適合描述某物被托住，不讓它在挑戰中掉下來的句子。"
+      },
+      "others": [
+        {
+          "word": "Support",
+          "meaning": "支持、幫助或贊成",
+          "use": "若只是幫忙或贊成，用 <code>support</code>；若要維持權威或標準，用 uphold。"
+        }
+      ]
+    },
+    "modernUse": [
+      "法律、governance 和 engineering culture 都常用 <code>uphold</code>，因為 standards need active holding。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/uphold",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/uphold",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "uphold",
+    "word": "Uphold",
+    "partOfSpeech": "verb",
+    "href": "./uphold.html",
+    "thesis": "不是只是支持，而是在壓力或質疑下維持原則、判決或標準有效。",
+    "tags": [
+      "維護維持",
+      "壓力下托住",
+      "support",
+      "uphold standards",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uphold",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/uphold",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uphold",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Waive",
+    "slug": "waive",
+    "outputPath": "prototypes/waive.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "WAYV · UK /weɪv/ · US /weɪv/",
+    "hero": {
+      "thesis": "不是普通取消，而是自願放棄原本可以主張的權利、費用或要求。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.21"
+    },
+    "coreIdea": "<code>waive</code> 表示放棄權利、免除費用或不要求某條件；句子的力道來自放棄的是本來有權要求的東西。",
+    "definition": {
+      "summary": "表示放棄權利、免除費用或不要求某條件。常見語境會讓放棄的是本來有權要求的東西變得清楚。",
+      "contrast": {
+        "word": "Cancel",
+        "note": "<code>cancel</code> 表示取消；waive 強調有權方選擇不主張。"
+      },
+      "flow": [
+        "權利或要求存在",
+        "有權方放手",
+        "對方不再承擔"
+      ]
+    },
+    "origin": {
+      "history": "<code>waive</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1300, weiven , \"deprive of legal protection; remove from a place or condition,\" from Anglo-French weyver \"abandon, waive\" (Old French guever \"abandon, give back\"), probably from a Scandinavian source akin to Old Norse veifa \"to swing about\" (from Proto-Germanic *waif-, from PIE root *weip- \"to turn, vacillate, tremble ecstatically\"). In Middle English legal language it was used of rights, goods, or women.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>waive</code> 想成收費口的人看了票，擺手讓你不用付那筆錢。",
+      "explanation": "這個畫面保留的是放棄的是本來有權要求的東西，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "費用",
+        "body": "The bank agreed to <code>waive</code> the late fee."
+      },
+      {
+        "label": "權利",
+        "body": "簽 NDA 不能自動 <code>waive</code> 基本勞動權利，條款要看清楚。"
+      }
+    ],
+    "collocations": {
+      "note": "Waive 的自然搭配多半讓放棄的是本來有權要求的東西具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "waive a fee",
+          "register": "金融 / 客服",
+          "note": "原本可收的費用被免除。"
+        },
+        {
+          "phrase": "waive a right",
+          "register": "法律",
+          "note": "放棄原本可以主張的權利。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "自願放棄原本可以主張的權利、費用或要求",
+        "use": "適合描述放棄的是本來有權要求的東西的句子。"
+      },
+      "others": [
+        {
+          "word": "Cancel",
+          "meaning": "取消安排、活動或效力",
+          "use": "若只是取消事件，用 <code>cancel</code>；若放棄權利或費用，用 waive。"
+        }
+      ]
+    },
+    "modernUse": [
+      "合約、金融與 SaaS billing 常用 <code>waive</code>，因為它精準表示 entitlement is not being exercised。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/waive",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/waive",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "waive",
+    "word": "Waive",
+    "partOfSpeech": "verb",
+    "href": "./waive.html",
+    "thesis": "不是普通取消，而是自願放棄原本可以主張的權利、費用或要求。",
+    "tags": [
+      "放棄免除",
+      "不主張權利",
+      "cancel",
+      "waive a fee",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/waive",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/waive",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/waive",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

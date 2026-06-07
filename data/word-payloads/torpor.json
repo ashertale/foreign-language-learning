@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Torpor",
+    "slug": "torpor",
+    "outputPath": "prototypes/torpor.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TOR-per · UK /ˈtɔː.pər/ · US /ˈtɔːr.pɚ/",
+    "hero": {
+      "thesis": "不是普通懶惰，而是身體或精神沉入遲鈍、低活性的停滯。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.07"
+    },
+    "coreIdea": "<code>torpor</code> 指麻木、遲鈍、昏沉或缺乏活力的狀態；句子的力道來自能量降到很低，反應像被厚布蓋住。",
+    "definition": {
+      "summary": "指麻木、遲鈍、昏沉或缺乏活力的狀態。常見語境會讓能量降到很低，反應像被厚布蓋住變得清楚。",
+      "contrast": {
+        "word": "Laziness",
+        "note": "<code>laziness</code> 常帶道德批評；torpor 更像生理或精神活性沉下去。"
+      },
+      "flow": [
+        "能量降低",
+        "反應變慢",
+        "停滯罩住身體或心智"
+      ]
+    },
+    "origin": {
+      "history": "<code>torpor</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"lethargy, listlessness, loss of motion or mental activity,\" c. 1200, from Latin torpor \"numbness, sluggishness,\" from torpere \"be numb, be inactive, be dull\" (from PIE root *ster- (1) \"stiff\"). As a verb, torpefy (1808). Torporific \"stupefying\" is from 1738.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>torpor</code> 想成午後悶熱讓整個房間慢下來，連念頭都像泡在水裡。",
+      "explanation": "這個畫面保留的是能量降到很低，反應像被厚布蓋住，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "身心",
+        "body": "A heavy lunch left the room in a state of <code>torpor</code>."
+      },
+      {
+        "label": "組織",
+        "body": "長期沒有真問題可解時，團隊會陷入 <code>torpor</code>，流程還在，人卻不再醒著。"
+      }
+    ],
+    "collocations": {
+      "note": "Torpor 的自然搭配多半讓能量降到很低，反應像被厚布蓋住具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "mental torpor",
+          "register": "心理 / 文學",
+          "note": "思考變慢、提不起精神。"
+        },
+        {
+          "phrase": "fall into torpor",
+          "register": "敘事 / 評論",
+          "note": "逐漸沉入低活性狀態。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "身體或精神沉入遲鈍、低活性的停滯",
+        "use": "適合描述能量降到很低，反應像被厚布蓋住的句子。"
+      },
+      "others": [
+        {
+          "word": "Laziness",
+          "meaning": "不願努力或不想動",
+          "use": "若要批評不努力，用 <code>laziness</code>；若要寫低活性昏沉，用 torpor。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>torpor</code> 語氣偏文學或評論，適合描寫 burnout 後不是爆炸，而是整體變鈍。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/torpor",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/torpor",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "torpor",
+    "word": "Torpor",
+    "partOfSpeech": "noun",
+    "href": "./torpor.html",
+    "thesis": "不是普通懶惰，而是身體或精神沉入遲鈍、低活性的停滯。",
+    "tags": [
+      "昏沉遲鈍",
+      "低活性停滯",
+      "laziness",
+      "mental torpor",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/torpor",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/torpor",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/torpor",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

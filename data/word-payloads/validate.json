@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Validate",
+    "slug": "validate",
+    "outputPath": "prototypes/validate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VAL-ih-dayt · UK /ˈvæl.ɪ.deɪt/ · US /ˈvæl.ə.deɪt/",
+    "hero": {
+      "thesis": "不是只是同意，而是用證據、規則或承認讓某件事變得有效或站得住。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.84"
+    },
+    "coreIdea": "<code>validate</code> 表示確認有效、證實、核准，或承認某人的感受有其理由；句子的力道來自某物從待確認變成被承認有效。",
+    "definition": {
+      "summary": "表示確認有效、證實、核准，或承認某人的感受有其理由。常見語境會讓某物從待確認變成被承認有效變得清楚。",
+      "contrast": {
+        "word": "Confirm",
+        "note": "<code>confirm</code> 偏確認事實；validate 還可指讓資格、模型或感受獲得有效性。"
+      },
+      "flow": [
+        "主張提出",
+        "證據或規則檢查",
+        "有效性成立"
+      ]
+    },
+    "origin": {
+      "history": "<code>validate</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"confirm, make valid, give legal force to,\" 1640s, from Medieval Latin validatus , past participle of validare \"to make valid,\" from validus (see valid ). Related: Validated ; validating .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>validate</code> 想成一張票刷過閘門，系統承認它可以通行。",
+      "explanation": "這個畫面保留的是某物從待確認變成被承認有效，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "工程",
+        "body": "The test suite <code>validates</code> the migration path before deployment."
+      },
+      {
+        "label": "情緒",
+        "body": "好好聽人說話可以 <code>validate</code> their fear，不代表你同意所有結論。"
+      }
+    ],
+    "collocations": {
+      "note": "Validate 的自然搭配多半讓某物從待確認變成被承認有效具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "validate an assumption",
+          "register": "產品 / 研究",
+          "note": "假設被資料或實驗檢查，不再只是猜測。"
+        },
+        {
+          "phrase": "validate feelings",
+          "register": "心理 / 人際",
+          "note": "承認感受有理由存在，不等於放棄界線。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用證據、規則或承認讓某件事變得有效或站得住",
+        "use": "適合描述某物從待確認變成被承認有效的句子。"
+      },
+      "others": [
+        {
+          "word": "Confirm",
+          "meaning": "確認某事為真",
+          "use": "若只是確認資訊，用 <code>confirm</code>；若要確認有效性，用 validate。"
+        }
+      ]
+    },
+    "modernUse": [
+      "產品 discovery、ML 和心理溝通都用 <code>validate</code>，但要分清 technical validity 和 emotional recognition。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/validate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/validate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "validate",
+    "word": "Validate",
+    "partOfSpeech": "verb",
+    "href": "./validate.html",
+    "thesis": "不是只是同意，而是用證據、規則或承認讓某件事變得有效或站得住。",
+    "tags": [
+      "確認有效",
+      "被承認站得住",
+      "confirm",
+      "validate assumption",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/validate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/validate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/validate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

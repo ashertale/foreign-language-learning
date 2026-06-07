@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Yearn",
+    "slug": "yearn",
+    "outputPath": "prototypes/yearn.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "YURN · UK /jɜːn/ · US /jɝːn/",
+    "hero": {
+      "thesis": "不是普通想要，而是深深渴望某個缺席的東西，心往那裡拉。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.93"
+    },
+    "coreIdea": "<code>yearn</code> 表示強烈渴望、嚮往或想念，常帶情感距離；句子的力道來自想要的東西不在眼前，渴望因此拉長。",
+    "definition": {
+      "summary": "表示強烈渴望、嚮往或想念，常帶情感距離。常見語境會讓想要的東西不在眼前，渴望因此拉長變得清楚。",
+      "contrast": {
+        "word": "Want",
+        "note": "<code>want</code> 很通用；yearn 更深、更柔，常帶缺席和 longing。"
+      },
+      "flow": [
+        "缺席被感到",
+        "心被拉向遠處",
+        "渴望變深"
+      ]
+    },
+    "origin": {
+      "history": "<code>yearn</code> 字源依 Online Etymology Dictionary；來源段落記錄：Middle English yernen , \"long for, feel strong desire for,\" from Old English giernan (West Saxon), geornan (Mercian), giorna (Northumbrian) \"strive, be eager, desire, seek for, beg, demand,\" from Proto-Germanic *gernjan , from PIE root *gher- (2) \"to like, want.\" Related: Yearned ; yearning .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>yearn</code> 想成手沒有伸出去，心卻一直往遠方那扇窗靠近。",
+      "explanation": "這個畫面保留的是想要的東西不在眼前，渴望因此拉長，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "情感",
+        "body": "After years abroad, she <code>yearned</code> for home."
+      },
+      {
+        "label": "職涯",
+        "body": "很多工程師 <code>yearn</code> for quiet focus time，因為碎片通知讓思考無法成形。"
+      }
+    ],
+    "collocations": {
+      "note": "Yearn 的自然搭配多半讓想要的東西不在眼前，渴望因此拉長具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "yearn for",
+          "register": "情感 / 文學",
+          "note": "深深渴望某個缺席的人、地方或狀態。"
+        },
+        {
+          "phrase": "yearn to return",
+          "register": "敘事 / 回憶",
+          "note": "想回到某處，情感拉力比普通想法強。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "深深渴望某個缺席的東西，心往那裡拉",
+        "use": "適合描述想要的東西不在眼前，渴望因此拉長的句子。"
+      },
+      "others": [
+        {
+          "word": "Want",
+          "meaning": "想要、希望擁有或做到",
+          "use": "日常需求用 <code>want</code>；深層渴望用 yearn。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 burnout、remote work 和 identity stories 裡，<code>yearn</code> 常寫 people longing for a life shape they miss。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/yearn",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/yearn",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "yearn",
+    "word": "Yearn",
+    "partOfSpeech": "verb",
+    "href": "./yearn.html",
+    "thesis": "不是普通想要，而是深深渴望某個缺席的東西，心往那裡拉。",
+    "tags": [
+      "深切渴望",
+      "心被缺席拉住",
+      "want",
+      "yearn for",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/yearn",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/yearn",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/yearn",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Turbid",
+    "slug": "turbid",
+    "outputPath": "prototypes/turbid.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TUR-bid · UK /ˈtɜː.bɪd/ · US /ˈtɝː.bɪd/",
+    "hero": {
+      "thesis": "不是只是髒，而是液體因懸浮物而混濁，看不清底下。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "1.90"
+    },
+    "coreIdea": "<code>turbid</code> 形容水或液體混濁，也可比喻想法不清；句子的力道來自雜質懸在其中，透明度被破壞。",
+    "definition": {
+      "summary": "形容水或液體混濁，也可比喻想法不清。常見語境會讓雜質懸在其中，透明度被破壞變得清楚。",
+      "contrast": {
+        "word": "Cloudy",
+        "note": "<code>cloudy</code> 可指天氣或模糊；turbid 更常用於水或液體的混濁。"
+      },
+      "flow": [
+        "雜質被攪起",
+        "光線被擋",
+        "底部看不清"
+      ]
+    },
+    "origin": {
+      "history": "<code>turbid</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"muddy, foul with extraneous matter, thick, not clear,\" 1620s, from Latin turbidus \"muddy, full of confusion,\" from turbare \"to confuse, bewilder,\" from turba \"turmoil, crowd,\" which is of uncertain origin. De Vaan writes:。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>turbid</code> 想成河水被泥沙攪起，水還在流，但你看不見下面的石頭。",
+      "explanation": "這個畫面保留的是雜質懸在其中，透明度被破壞，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "環境",
+        "body": "The storm left the river <code>turbid</code> and brown."
+      },
+      {
+        "label": "思路",
+        "body": "那份 proposal 的邏輯很 <code>turbid</code>，每個段落都混著不同目的。"
+      }
+    ],
+    "collocations": {
+      "note": "Turbid 的自然搭配多半讓雜質懸在其中，透明度被破壞具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "turbid water",
+          "register": "環境 / 科學",
+          "note": "水中有懸浮物，透明度下降。"
+        },
+        {
+          "phrase": "turbid thinking",
+          "register": "評論 / 文學",
+          "note": "思路混濁，讀者看不清判斷底部。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "液體因懸浮物而混濁，看不清底下",
+        "use": "適合描述雜質懸在其中，透明度被破壞的句子。"
+      },
+      "others": [
+        {
+          "word": "Cloudy",
+          "meaning": "雲多、霧狀或不清楚",
+          "use": "若是天空或普通模糊，用 <code>cloudy</code>；若液體含懸浮物，用 turbid。"
+        }
+      ]
+    },
+    "modernUse": [
+      "環境監測會用 <code>turbid</code> 描述 water quality，評論寫作偶爾借它形容 muddy reasoning。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/turbid",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/turbid",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "turbid",
+    "word": "Turbid",
+    "partOfSpeech": "adjective",
+    "href": "./turbid.html",
+    "thesis": "不是只是髒，而是液體因懸浮物而混濁，看不清底下。",
+    "tags": [
+      "混濁不清",
+      "懸浮物遮蔽",
+      "cloudy",
+      "turbid water",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turbid",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/turbid",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turbid",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

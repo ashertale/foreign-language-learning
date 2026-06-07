@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wistful",
+    "slug": "wistful",
+    "outputPath": "prototypes/wistful.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "WIST-fuhl · UK /ˈwɪst.fəl/ · US /ˈwɪst.fəl/",
+    "hero": {
+      "thesis": "不是普通悲傷，而是帶著柔軟遺憾地想念得不到或已經過去的東西。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.57"
+    },
+    "coreIdea": "<code>wistful</code> 形容懷舊、惆悵、帶一點渴望和遺憾；句子的力道來自悲傷不尖銳，而是往遠處看。",
+    "definition": {
+      "summary": "形容懷舊、惆悵、帶一點渴望和遺憾。常見語境會讓悲傷不尖銳，而是往遠處看變得清楚。",
+      "contrast": {
+        "word": "Sad",
+        "note": "<code>sad</code> 很廣；wistful 是柔和的想念、遺憾和渴望混在一起。"
+      },
+      "flow": [
+        "想起遠處或過去",
+        "渴望升起",
+        "遺憾變柔"
+      ]
+    },
+    "origin": {
+      "history": "<code>wistful</code> 字源依 Online Etymology Dictionary；來源段落記錄：It is perhaps from obsolete wistly \"intently\" (c. 1500), which is of uncertain origin. Perhaps it was formed on the model of wishful , but it is not considered to be a variant of it. It seems unrelated to wist (v.).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wistful</code> 想成看著舊照片微笑，心裡有一點疼，但不想把它推開。",
+      "explanation": "這個畫面保留的是悲傷不尖銳，而是往遠處看，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "表情",
+        "body": "She gave a <code>wistful</code> smile when the old song played."
+      },
+      {
+        "label": "職涯",
+        "body": "他談起第一個 prototype 時有點 <code>wistful</code>，那時混亂，卻也很自由。"
+      }
+    ],
+    "collocations": {
+      "note": "Wistful 的自然搭配多半讓悲傷不尖銳，而是往遠處看具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "wistful smile",
+          "register": "敘事 / 人物",
+          "note": "笑裡有想念和遺憾，不是純開心。"
+        },
+        {
+          "phrase": "wistful look",
+          "register": "文學 / 日常",
+          "note": "眼神望向過去或得不到的地方。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "帶著柔軟遺憾地想念得不到或已經過去的東西",
+        "use": "適合描述悲傷不尖銳，而是往遠處看的句子。"
+      },
+      "others": [
+        {
+          "word": "Sad",
+          "meaning": "感到悲傷或不快樂",
+          "use": "若只是難過，用 <code>sad</code>；若是帶懷念和渴望，用 wistful。"
+        }
+      ]
+    },
+    "modernUse": [
+      "回憶錄、產品 retrospectives 和青春敘事常有 <code>wistful</code> tone，因為 nostalgia is not pure sadness。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wistful",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wistful",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wistful",
+    "word": "Wistful",
+    "partOfSpeech": "adjective",
+    "href": "./wistful.html",
+    "thesis": "不是普通悲傷，而是帶著柔軟遺憾地想念得不到或已經過去的東西。",
+    "tags": [
+      "惆悵懷念",
+      "柔軟遺憾",
+      "sad",
+      "wistful smile",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wistful",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wistful",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wistful",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

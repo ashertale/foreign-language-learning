@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wrench",
+    "slug": "wrench",
+    "outputPath": "prototypes/wrench.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "RENCH · UK /rentʃ/ · US /rentʃ/",
+    "hero": {
+      "thesis": "不是普通拉開，而是用突然、用力或痛苦的方式扭開、拉離。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.03"
+    },
+    "coreIdea": "<code>wrench</code> 表示猛扭、猛拉，也可指情感上被痛苦地撕離；句子的力道來自分離或移動帶有粗暴的扭力。",
+    "definition": {
+      "summary": "表示猛扭、猛拉，也可指情感上被痛苦地撕離。常見語境會讓分離或移動帶有粗暴的扭力變得清楚。",
+      "contrast": {
+        "word": "Pull",
+        "note": "<code>pull</code> 很通用；wrench 是突然用力拉扭，常帶痛感。"
+      },
+      "flow": [
+        "連結還在",
+        "外力猛扭",
+        "東西被痛苦拉開"
+      ]
+    },
+    "origin": {
+      "history": "<code>wrench</code> 字源依 Online Etymology Dictionary；來源段落記錄：Middle English wrenchen , \"twist, perform a quick turn; twist (something) with effort or violence,\" from Old English wrencan \"to twist,\" from Proto-Germanic *wrankjan .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wrench</code> 想成手腕被突然一拽，身體還沒準備好就被迫轉向。",
+      "explanation": "這個畫面保留的是分離或移動帶有粗暴的扭力，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "動作",
+        "body": "He <code>wrenched</code> the door open."
+      },
+      {
+        "label": "情感",
+        "body": "離開那個團隊 felt like being <code>wrenched</code> away from a second home。"
+      }
+    ],
+    "collocations": {
+      "note": "Wrench 的自然搭配多半讓分離或移動帶有粗暴的扭力具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "wrench open",
+          "register": "動作 / 敘事",
+          "note": "用力扭開，不是平順打開。"
+        },
+        {
+          "phrase": "wrench away",
+          "register": "情感 / 敘事",
+          "note": "被痛苦地拉離原本依附的地方。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用突然、用力或痛苦的方式扭開、拉離",
+        "use": "適合描述分離或移動帶有粗暴的扭力的句子。"
+      },
+      "others": [
+        {
+          "word": "Pull",
+          "meaning": "拉、拖或牽引",
+          "use": "若只是拉動，用 <code>pull</code>；若有扭力和痛感，用 wrench。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>wrench</code> 的物理扭力很強，所以延伸到 emotional separation 時會帶出 pain of being pulled apart。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wrench",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wrench",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wrench",
+    "word": "Wrench",
+    "partOfSpeech": "verb",
+    "href": "./wrench.html",
+    "thesis": "不是普通拉開，而是用突然、用力或痛苦的方式扭開、拉離。",
+    "tags": [
+      "猛扭拉離",
+      "粗暴扭力",
+      "pull",
+      "wrench away",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wrench",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wrench",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wrench",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

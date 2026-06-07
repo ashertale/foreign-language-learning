@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Trivial",
+    "slug": "trivial",
+    "outputPath": "prototypes/trivial.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRIV-ee-uhl · UK /ˈtrɪv.i.əl/ · US /ˈtrɪv.i.əl/",
+    "hero": {
+      "thesis": "不是只是簡單，而是小到不值得投入太多注意，或在技術上沒有真正挑戰。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.59"
+    },
+    "coreIdea": "<code>trivial</code> 形容微不足道、重要性低，或容易到不構成問題；句子的力道來自成本或影響太小，不足以改變判斷。",
+    "definition": {
+      "summary": "形容微不足道、重要性低，或容易到不構成問題。常見語境會讓成本或影響太小，不足以改變判斷變得清楚。",
+      "contrast": {
+        "word": "Easy",
+        "note": "<code>easy</code> 說的是難度低；trivial 可以說重要性很低或問題太小。"
+      },
+      "flow": [
+        "規模很小",
+        "影響有限",
+        "不值得放大"
+      ]
+    },
+    "origin": {
+      "history": "<code>trivial</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"ordinary, such as may be found anywhere,\" 1580s; \"insignificant, trifling,\" 1590s; from Latin trivialis \"common, commonplace, vulgar,\" literally \"of or belonging to the crossroads,\" from trivium \"place where three roads meet,\" in transferred use, \"an open place, a public place,\" from tri- \"three\" (see three ) + via \"road\" (see via ). The sense connection is \"public,\" hence \"common, commonplace.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>trivial</code> 想成桌上有一粒灰塵，不是完全不存在，但不該決定整張桌子的評價。",
+      "explanation": "這個畫面保留的是成本或影響太小，不足以改變判斷，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "日常",
+        "body": "They argued for hours over a <code>trivial</code> detail."
+      },
+      {
+        "label": "工程",
+        "body": "修這個 UI typo 是 <code>trivial</code>，真正的工作在重新定義 state model。"
+      }
+    ],
+    "collocations": {
+      "note": "Trivial 的自然搭配多半讓成本或影響太小，不足以改變判斷具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "trivial matter",
+          "register": "日常 / 法律",
+          "note": "事情存在，但重量很小。"
+        },
+        {
+          "phrase": "non-trivial problem",
+          "register": "工程 / 學術",
+          "note": "不是小修小補，背後有真正複雜度。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "小到不值得投入太多注意，或在技術上沒有真正挑戰",
+        "use": "適合描述成本或影響太小，不足以改變判斷的句子。"
+      },
+      "others": [
+        {
+          "word": "Easy",
+          "meaning": "容易、不困難",
+          "use": "若只是低難度，用 <code>easy</code>；若還帶不重要，用 trivial。"
+        }
+      ]
+    },
+    "modernUse": [
+      "工程師常說 non-trivial，意思不是抱怨，而是提醒問題有 hidden complexity。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/trivial",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/trivial",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "trivial",
+    "word": "Trivial",
+    "partOfSpeech": "adjective",
+    "href": "./trivial.html",
+    "thesis": "不是只是簡單，而是小到不值得投入太多注意，或在技術上沒有真正挑戰。",
+    "tags": [
+      "微不足道",
+      "低重要性",
+      "easy",
+      "non-trivial problem",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/trivial",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/trivial",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/trivial",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

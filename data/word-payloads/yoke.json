@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Yoke",
+    "slug": "yoke",
+    "outputPath": "prototypes/yoke.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "YOHK · UK /jəʊk/ · US /joʊk/",
+    "hero": {
+      "thesis": "不是普通連接，而是把兩者綁在一起共同承重的束縛或連結。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.35"
+    },
+    "coreIdea": "<code>yoke</code> 原指套在牲畜頸上的軛，也可比喻壓迫性的束縛或連結；句子的力道來自連結不是自由合作，而是共同被套住。",
+    "definition": {
+      "summary": "原指套在牲畜頸上的軛，也可比喻壓迫性的束縛或連結。常見語境會讓連結不是自由合作，而是共同被套住變得清楚。",
+      "contrast": {
+        "word": "Link",
+        "note": "<code>link</code> 中性表示連結；yoke 帶有承重、束縛或壓迫。"
+      },
+      "flow": [
+        "兩者被套住",
+        "重量共同承擔",
+        "自由被限制"
+      ]
+    },
+    "origin": {
+      "history": "<code>yoke</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"collar or harness for fastening a pair of draft animals\" (especially oxen) to form a connection to a wagon or plow, a contrivance of great antiquity; Middle English, from Old English geoc, earlier geoht \"pair of draft animals\" (especially oxen), from Proto-Germanic *yukam (reconstructed to be from PIE root *yeug- \"to join\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>yoke</code> 想成兩頭牛被同一根木軛套住，走向不再完全自由。",
+      "explanation": "這個畫面保留的是連結不是自由合作，而是共同被套住，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "歷史 / 具體",
+        "body": "The oxen pulled the plow under a wooden <code>yoke</code>."
+      },
+      {
+        "label": "比喻",
+        "body": "舊流程像 <code>yoke</code>，把每個團隊都綁在同一個緩慢 approval 上。"
+      }
+    ],
+    "collocations": {
+      "note": "Yoke 的自然搭配多半讓連結不是自由合作，而是共同被套住具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "under the yoke",
+          "register": "歷史 / 政治",
+          "note": "處在壓迫或束縛之下。"
+        },
+        {
+          "phrase": "yoke together",
+          "register": "正式 / 比喻",
+          "note": "把兩者綁在一起，使它們共同承受。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把兩者綁在一起共同承重的束縛或連結",
+        "use": "適合描述連結不是自由合作，而是共同被套住的句子。"
+      },
+      "others": [
+        {
+          "word": "Link",
+          "meaning": "連接、關聯或鏈結",
+          "use": "若只是關聯，用 <code>link</code>；若有被套住的重量，用 yoke。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>yoke</code> 現代多比喻使用，適合寫 legacy constraint 或 oppressive dependency。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/yoke",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/yoke",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "yoke",
+    "word": "Yoke",
+    "partOfSpeech": "noun",
+    "href": "./yoke.html",
+    "thesis": "不是普通連接，而是把兩者綁在一起共同承重的束縛或連結。",
+    "tags": [
+      "軛束縛",
+      "共同承重",
+      "link",
+      "under the yoke",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/yoke",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/yoke",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/yoke",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

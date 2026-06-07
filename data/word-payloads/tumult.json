@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tumult",
+    "slug": "tumult",
+    "outputPath": "prototypes/tumult.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TOO-mult · UK /ˈtjuː.mʌlt/ · US /ˈtuː.mʌlt/",
+    "hero": {
+      "thesis": "不是普通吵鬧，而是人群、情緒或事件一起翻攪造成的混亂喧騰。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.45"
+    },
+    "coreIdea": "<code>tumult</code> 指騷動、喧鬧、混亂，也可指內心的激烈波動；句子的力道來自多股力量同時失序。",
+    "definition": {
+      "summary": "指騷動、喧鬧、混亂，也可指內心的激烈波動。常見語境會讓多股力量同時失序變得清楚。",
+      "contrast": {
+        "word": "Noise",
+        "note": "<code>noise</code> 只是聲音；tumult 包含混亂、騷動和情緒翻騰。"
+      },
+      "flow": [
+        "多方力量聚集",
+        "秩序鬆開",
+        "喧騰變成混亂"
+      ]
+    },
+    "origin": {
+      "history": "<code>tumult</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., \"noise; confused, disorderly speech, the noisy commotion of a multitude, a noisy uprising, as of a mob,\" from Old French tumult (12c.) and directly from Latin tumultus \"commotion, bustle, uproar, disorder, disturbance,\" related to tumere \"to be excited, swell\" (from PIE root *teue- \"to swell\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tumult</code> 想成廣場上人聲、旗幟和情緒一起翻動，聲音只是其中一部分。",
+      "explanation": "這個畫面保留的是多股力量同時失序，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "社會",
+        "body": "The city woke to a <code>tumult</code> of protest and sirens."
+      },
+      {
+        "label": "內心",
+        "body": "他表面冷靜，內心卻有一團 <code>tumult</code>，每個選項都在拉扯。"
+      }
+    ],
+    "collocations": {
+      "note": "Tumult 的自然搭配多半讓多股力量同時失序具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "political tumult",
+          "register": "新聞 / 歷史",
+          "note": "政治局勢喧騰而混亂，秩序不穩。"
+        },
+        {
+          "phrase": "inner tumult",
+          "register": "文學 / 心理",
+          "note": "心裡多種情緒同時翻攪。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "人群、情緒或事件一起翻攪造成的混亂喧騰",
+        "use": "適合描述多股力量同時失序的句子。"
+      },
+      "others": [
+        {
+          "word": "Noise",
+          "meaning": "聲音或噪音",
+          "use": "若只談聲音大小，用 <code>noise</code>；若局面也亂，用 tumult。"
+        }
+      ]
+    },
+    "modernUse": [
+      "新聞和長篇報導常用 <code>tumult</code> 概括 protest、crisis、leadership change 的混亂聲浪。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tumult",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tumult",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tumult",
+    "word": "Tumult",
+    "partOfSpeech": "noun",
+    "href": "./tumult.html",
+    "thesis": "不是普通吵鬧，而是人群、情緒或事件一起翻攪造成的混亂喧騰。",
+    "tags": [
+      "混亂喧騰",
+      "多股力量失序",
+      "noise",
+      "political tumult",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tumult",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tumult",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tumult",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

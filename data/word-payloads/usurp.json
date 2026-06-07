@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Usurp",
+    "slug": "usurp",
+    "outputPath": "prototypes/usurp.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "yoo-ZURP · UK /juːˈzɜːp/ · US /juːˈzɝːp/",
+    "hero": {
+      "thesis": "不是普通取得，而是不正當地奪取原本不屬於自己的權力或位置。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.28"
+    },
+    "coreIdea": "<code>usurp</code> 表示篡奪、侵占權力、職位或角色；句子的力道來自取得本身帶有不合法或不正當。",
+    "definition": {
+      "summary": "表示篡奪、侵占權力、職位或角色。常見語境會讓取得本身帶有不合法或不正當變得清楚。",
+      "contrast": {
+        "word": "Take",
+        "note": "<code>take</code> 很通用；usurp 指奪取權力或位置時越過正當性。"
+      },
+      "flow": [
+        "正當權位存在",
+        "外力奪取",
+        "合法性被破壞"
+      ]
+    },
+    "origin": {
+      "history": "<code>usurp</code> 字源依 Online Etymology Dictionary；來源段落記錄：early 14c., usurpen , \"assert falsely one's right\" (to an office, privilege, etc.; specifically of kingdoms by c. 1400); from Old French usurper \"to (wrongfully) appropriate\" (14c.), from Latin usurpare \"make use of, seize for use,\" in later Latin \"to assume unlawfully, trespass on.\" This is from usus \"a use\" (see use (v.)) + rapere \"to seize\" (see rapid (adj.)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>usurp</code> 想成有人沒被選上，卻坐上王座並要求所有人承認。",
+      "explanation": "這個畫面保留的是取得本身帶有不合法或不正當，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "政治",
+        "body": "The general tried to <code>usurp</code> power after the crisis."
+      },
+      {
+        "label": "組織",
+        "body": "工具若偷偷替人做決策，可能 <code>usurp</code> human judgment，而不是輔助它。"
+      }
+    ],
+    "collocations": {
+      "note": "Usurp 的自然搭配多半讓取得本身帶有不合法或不正當具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "usurp power",
+          "register": "政治 / 法律",
+          "note": "權力被不正當奪取。"
+        },
+        {
+          "phrase": "usurp authority",
+          "register": "組織 / 法律",
+          "note": "越過授權邊界，佔了別人的權限。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "不正當地奪取原本不屬於自己的權力或位置",
+        "use": "適合描述取得本身帶有不合法或不正當的句子。"
+      },
+      "others": [
+        {
+          "word": "Take",
+          "meaning": "拿取、取得或接手",
+          "use": "若只是拿走，用 <code>take</code>；若權力被非法或不正當奪走，用 usurp。"
+        }
+      ]
+    },
+    "modernUse": [
+      "AI governance、政治與職權討論會用 <code>usurp</code>，因為它指出 authority moved without legitimacy。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/usurp",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/usurp",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "usurp",
+    "word": "Usurp",
+    "partOfSpeech": "verb",
+    "href": "./usurp.html",
+    "thesis": "不是普通取得，而是不正當地奪取原本不屬於自己的權力或位置。",
+    "tags": [
+      "篡奪權力",
+      "正當性被破壞",
+      "take",
+      "usurp authority",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/usurp",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/usurp",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/usurp",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

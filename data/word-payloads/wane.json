@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wane",
+    "slug": "wane",
+    "outputPath": "prototypes/wane.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "WAYN · UK /weɪn/ · US /weɪn/",
+    "hero": {
+      "thesis": "不是突然消失，而是力量、光、興趣或影響力逐漸變弱。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.93"
+    },
+    "coreIdea": "<code>wane</code> 表示逐漸衰退、減弱，原本的強度慢慢退去；句子的力道來自下降是漸進的，像月亮缺下去。",
+    "definition": {
+      "summary": "表示逐漸衰退、減弱，原本的強度慢慢退去。常見語境會讓下降是漸進的，像月亮缺下去變得清楚。",
+      "contrast": {
+        "word": "Decline",
+        "note": "<code>decline</code> 表示下降；wane 更有光或影響力慢慢退的柔和畫面。"
+      },
+      "flow": [
+        "強度曾經存在",
+        "慢慢變弱",
+        "存在感退去"
+      ]
+    },
+    "origin": {
+      "history": "<code>wane</code> 字源依 Online Etymology Dictionary；來源段落記錄：Middle English wannen , \"decrease, be diminished,\" especially of the periodic lessening of the visible moon, from Old English wanian \"make or become smaller gradually, diminish, decline, fade,\" from Proto-Germanic *wanōnan (source also of Old Saxon wanon , Old Norse vana , Old Frisian wania , Middle Dutch waenen , Old High German wanon \"to wane, to grow less\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wane</code> 想成滿月一晚一晚少一點，光沒有爆掉，只是退了。",
+      "explanation": "這個畫面保留的是下降是漸進的，像月亮缺下去，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "興趣",
+        "body": "Public interest began to <code>wane</code> after the initial excitement."
+      },
+      {
+        "label": "系統",
+        "body": "incident 後警覺會 <code>wane</code>，所以 runbook 不能只靠記憶熱度。"
+      }
+    ],
+    "collocations": {
+      "note": "Wane 的自然搭配多半讓下降是漸進的，像月亮缺下去具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "interest wanes",
+          "register": "新聞 / 商務",
+          "note": "興趣或熱度逐漸退去。"
+        },
+        {
+          "phrase": "influence wanes",
+          "register": "政治 / 組織",
+          "note": "影響力不是瞬間消失，而是慢慢變弱。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "力量、光、興趣或影響力逐漸變弱",
+        "use": "適合描述下降是漸進的，像月亮缺下去的句子。"
+      },
+      "others": [
+        {
+          "word": "Decline",
+          "meaning": "下降、減少或惡化",
+          "use": "若是數據或趨勢下降，用 <code>decline</code>；若像熱度慢慢退，用 wane。"
+        }
+      ]
+    },
+    "modernUse": [
+      "市場、社群和團隊文化常用 <code>wane</code>，描寫 attention or influence losing brightness over time。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wane",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wane",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wane",
+    "word": "Wane",
+    "partOfSpeech": "verb",
+    "href": "./wane.html",
+    "thesis": "不是突然消失，而是力量、光、興趣或影響力逐漸變弱。",
+    "tags": [
+      "逐漸衰退",
+      "光和熱度退去",
+      "decline",
+      "interest wanes",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wane",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wane",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wane",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

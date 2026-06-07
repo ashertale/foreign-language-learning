@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Truculent",
+    "slug": "truculent",
+    "outputPath": "prototypes/truculent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRUK-yuh-luhnt · UK /ˈtrʌk.jə.lənt/ · US /ˈtrʌk.jə.lənt/",
+    "hero": {
+      "thesis": "不是只是生氣，而是好鬥、粗暴，像隨時準備挑起衝突。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "1.73"
+    },
+    "coreIdea": "<code>truculent</code> 形容人或語氣挑釁、好戰、不願和平互動；句子的力道來自怒氣帶著攻擊姿態。",
+    "definition": {
+      "summary": "形容人或語氣挑釁、好戰、不願和平互動。常見語境會讓怒氣帶著攻擊姿態變得清楚。",
+      "contrast": {
+        "word": "Aggressive",
+        "note": "<code>aggressive</code> 很通用；truculent 更有粗暴、好鬥、難以安撫的語感。"
+      },
+      "flow": [
+        "敵意升高",
+        "姿態變粗暴",
+        "衝突被拉近"
+      ]
+    },
+    "origin": {
+      "history": "<code>truculent</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"fierce, savage, barbarous,\" 1530s, from Latin truculentus \"fierce, savage, stern, harsh, cruel,\" from trux (genitive trucis ) \"fierce, rough, savage, wild,\" which perhaps (Watkins) is from a suffixed form of PIE root *tere- (2) \"cross over, pass through, overcome.\" But de Vaan finds cognates in Middle Welsh drwg , Middle Irish droch- \"bad.\" Related: Truculently .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>truculent</code> 想成有人把椅子往後一推，還沒開口就像準備吵架。",
+      "explanation": "這個畫面保留的是怒氣帶著攻擊姿態，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "His <code>truculent</code> tone ended any chance of a calm discussion."
+      },
+      {
+        "label": "談判",
+        "body": "對方代表一開始就很 <code>truculent</code>，每個條件都像挑釁。"
+      }
+    ],
+    "collocations": {
+      "note": "Truculent 的自然搭配多半讓怒氣帶著攻擊姿態具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "truculent tone",
+          "register": "評論 / 人際",
+          "note": "語氣粗硬、好鬥，讓溝通變得危險。"
+        },
+        {
+          "phrase": "truculent opponent",
+          "register": "政治 / 運動",
+          "note": "對手不只是強，而是喜歡正面衝突。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "好鬥、粗暴，像隨時準備挑起衝突",
+        "use": "適合描述怒氣帶著攻擊姿態的句子。"
+      },
+      "others": [
+        {
+          "word": "Aggressive",
+          "meaning": "主動進攻或強勢推進",
+          "use": "若只是強勢，用 <code>aggressive</code>；若像找架吵，用 truculent。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>truculent</code> 在政治評論和談判描寫中很有用，因為它把 aggression 寫成粗暴姿態。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/truculent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/truculent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "truculent",
+    "word": "Truculent",
+    "partOfSpeech": "adjective",
+    "href": "./truculent.html",
+    "thesis": "不是只是生氣，而是好鬥、粗暴，像隨時準備挑起衝突。",
+    "tags": [
+      "好鬥粗暴",
+      "攻擊姿態",
+      "aggressive",
+      "truculent tone",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/truculent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/truculent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/truculent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

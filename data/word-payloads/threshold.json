@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Threshold",
+    "slug": "threshold",
+    "outputPath": "prototypes/threshold.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "THRESH-hohld · UK /ˈθreʃ.həʊld/ · US /ˈθreʃ.hoʊld/",
+    "hero": {
+      "thesis": "不是普通門口，而是一旦跨過就會觸發變化、判斷或新階段的邊界。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.81"
+    },
+    "coreIdea": "<code>threshold</code> 指門檻、臨界點或某種條件開始生效的最低界線；句子的力道來自跨線前後的狀態不同。",
+    "definition": {
+      "summary": "指門檻、臨界點或某種條件開始生效的最低界線。常見語境會讓跨線前後的狀態不同變得清楚。",
+      "contrast": {
+        "word": "Limit",
+        "note": "<code>limit</code> 表示上限或限制；threshold 更像進入新狀態的觸發點。"
+      },
+      "flow": [
+        "接近邊界",
+        "跨過門檻",
+        "新狀態啟動"
+      ]
+    },
+    "origin": {
+      "history": "<code>threshold</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"plank, stone, or piece of wood under a door or doorway, especially in a dwelling,\" Middle English thresh-wolde , from Old English þrescold , þærscwold , þerxold, etc., \"door-sill, point of entering,\" a word of uncertain origin and probably much altered by folk-etymology.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>threshold</code> 想成腳跨過門框後，你不再只是接近房間，而是已經進去了。",
+      "explanation": "這個畫面保留的是跨線前後的狀態不同，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "工程",
+        "body": "The alert fires only when latency crosses the <code>threshold</code> for five minutes."
+      },
+      {
+        "label": "心理",
+        "body": "每個人對噪音都有不同 <code>threshold</code>，超過後就很難專心。"
+      }
+    ],
+    "collocations": {
+      "note": "Threshold 的自然搭配多半讓跨線前後的狀態不同具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "cross a threshold",
+          "register": "技術 / 敘事",
+          "note": "條件跨線後，系統或情緒進入另一個狀態。"
+        },
+        {
+          "phrase": "pain threshold",
+          "register": "醫療 / 日常",
+          "note": "可承受疼痛的臨界程度。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "一旦跨過就會觸發變化、判斷或新階段的邊界",
+        "use": "適合描述跨線前後的狀態不同的句子。"
+      },
+      "others": [
+        {
+          "word": "Limit",
+          "meaning": "限制範圍或最大可接受值",
+          "use": "若只談不能超過的界線，用 <code>limit</code>；若談觸發點，用 threshold。"
+        }
+      ]
+    },
+    "modernUse": [
+      "監控、統計與 UX 討論常用 <code>threshold</code>，因為很多行為不是線性變壞，而是跨點後才觸發。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/threshold",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/threshold",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "threshold",
+    "word": "Threshold",
+    "partOfSpeech": "noun",
+    "href": "./threshold.html",
+    "thesis": "不是普通門口，而是一旦跨過就會觸發變化、判斷或新階段的邊界。",
+    "tags": [
+      "門檻臨界點",
+      "跨線觸發",
+      "limit",
+      "alert threshold",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/threshold",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/threshold",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/threshold",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

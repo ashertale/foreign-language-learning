@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Veneer",
+    "slug": "veneer",
+    "outputPath": "prototypes/veneer.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "vuh-NEER · UK /vəˈnɪər/ · US /vəˈnɪr/",
+    "hero": {
+      "thesis": "不是普通表面，而是薄薄一層好看的外皮，遮住底下不同的材質或真相。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.78"
+    },
+    "coreIdea": "<code>veneer</code> 指木材薄貼面，也可比喻掩飾真相的表面形象；句子的力道來自表層漂亮，深層未必一致。",
+    "definition": {
+      "summary": "指木材薄貼面，也可比喻掩飾真相的表面形象。常見語境會讓表層漂亮，深層未必一致變得清楚。",
+      "contrast": {
+        "word": "Surface",
+        "note": "<code>surface</code> 只是表面；veneer 暗示表面是覆蓋層，可能遮住底下。"
+      },
+      "flow": [
+        "外皮貼上",
+        "底層被遮住",
+        "形象變得可疑"
+      ]
+    },
+    "origin": {
+      "history": "<code>veneer</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"piece of wood of a choice kind laid upon a more common sort to make a piece appear more beautiful or valuable,\" 1702, from German Furnier , from furnieren \"to cover with a veneer, inlay,\" from French fournir \"to furnish, accomplish\" (Middle French fornir \"to furnish\"), from a Germanic source (compare Old High German frumjan \"to provide;\" see furnish ). From German to French to German to English. Figurative sense of \"mere outward show of some good quality\" is attested by 1868.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>veneer</code> 想成廉價木板貼上一層漂亮木皮，遠看高級，近看才知道厚度。",
+      "explanation": "這個畫面保留的是表層漂亮，深層未必一致，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "社會評論",
+        "body": "The speech had a <code>veneer</code> of compassion but no real commitment."
+      },
+      {
+        "label": "職場",
+        "body": "流程看起來有一層 <code>veneer</code> of rigor，實際決策仍靠臨場拍板。"
+      }
+    ],
+    "collocations": {
+      "note": "Veneer 的自然搭配多半讓表層漂亮，深層未必一致具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "veneer of respectability",
+          "register": "評論 / 政治",
+          "note": "外觀看似體面，底下可能不乾淨。"
+        },
+        {
+          "phrase": "thin veneer",
+          "register": "文學 / 批評",
+          "note": "遮掩層很薄，稍微用力就看見底下。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "薄薄一層好看的外皮，遮住底下不同的材質或真相",
+        "use": "適合描述表層漂亮，深層未必一致的句子。"
+      },
+      "others": [
+        {
+          "word": "Surface",
+          "meaning": "外層、表面或可見部分",
+          "use": "若只談外面一層，用 <code>surface</code>；若有遮掩感，用 veneer。"
+        }
+      ]
+    },
+    "modernUse": [
+      "批評 corporate messaging、politics 和 social behavior 時，<code>veneer</code> 很適合指出 surface polish hides substance。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/veneer",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/veneer",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "veneer",
+    "word": "Veneer",
+    "partOfSpeech": "noun",
+    "href": "./veneer.html",
+    "thesis": "不是普通表面，而是薄薄一層好看的外皮，遮住底下不同的材質或真相。",
+    "tags": [
+      "表面薄皮",
+      "遮住底層",
+      "surface",
+      "thin veneer",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/veneer",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/veneer",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/veneer",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

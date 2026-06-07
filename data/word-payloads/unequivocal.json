@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unequivocal",
+    "slug": "unequivocal",
+    "outputPath": "prototypes/unequivocal.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-ee-KWIV-uh-kuhl · UK /ˌʌn.ɪˈkwɪv.ə.kəl/ · US /ˌʌn.ɪˈkwɪv.ə.kəl/",
+    "hero": {
+      "thesis": "不是只是清楚，而是明確到沒有留下模糊解讀或退路。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.93"
+    },
+    "coreIdea": "<code>unequivocal</code> 形容說法、證據或立場完全明確、不含歧義；句子的力道來自聽者很難合理地解讀成別的意思。",
+    "definition": {
+      "summary": "形容說法、證據或立場完全明確、不含歧義。常見語境會讓聽者很難合理地解讀成別的意思變得清楚。",
+      "contrast": {
+        "word": "Clear",
+        "note": "<code>clear</code> 表示清楚；unequivocal 更強，幾乎排除雙關或閃躲空間。"
+      },
+      "flow": [
+        "立場說出",
+        "歧義被移除",
+        "解讀空間收窄"
+      ]
+    },
+    "origin": {
+      "history": "<code>unequivocal</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"not equivocal,\" in any sense, 1784, from un- (1) \"not\" + equivocal . Related: Unequivocally .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unequivocal</code> 想成像紅燈亮起，不是提示，而是沒有第二種合理讀法。",
+      "explanation": "這個畫面保留的是聽者很難合理地解讀成別的意思，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "立場",
+        "body": "The board issued an <code>unequivocal</code> rejection of the proposal."
+      },
+      {
+        "label": "規格",
+        "body": "安全要求要寫得 <code>unequivocal</code>，不能讓 vendor 自行猜測例外。"
+      }
+    ],
+    "collocations": {
+      "note": "Unequivocal 的自然搭配多半讓聽者很難合理地解讀成別的意思具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "unequivocal statement",
+          "register": "法律 / 公關",
+          "note": "說法明確，不留模糊退路。"
+        },
+        {
+          "phrase": "unequivocal evidence",
+          "register": "研究 / 法律",
+          "note": "證據指向清楚，難以合理反解。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "明確到沒有留下模糊解讀或退路",
+        "use": "適合描述聽者很難合理地解讀成別的意思的句子。"
+      },
+      "others": [
+        {
+          "word": "Clear",
+          "meaning": "容易理解、不模糊",
+          "use": "若只是好懂，用 <code>clear</code>；若要無歧義，用 unequivocal。"
+        }
+      ]
+    },
+    "modernUse": [
+      "法務、policy 與安全規格常需要 <code>unequivocal</code> language，避免 ambiguity becomes loophole。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unequivocal",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unequivocal",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unequivocal",
+    "word": "Unequivocal",
+    "partOfSpeech": "adjective",
+    "href": "./unequivocal.html",
+    "thesis": "不是只是清楚，而是明確到沒有留下模糊解讀或退路。",
+    "tags": [
+      "無歧義明確",
+      "不留退路",
+      "clear",
+      "unequivocal evidence",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unequivocal",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unequivocal",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unequivocal",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

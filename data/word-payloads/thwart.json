@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Thwart",
+    "slug": "thwart",
+    "outputPath": "prototypes/thwart.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "THWORT · UK /θwɔːt/ · US /θwɔːrt/",
+    "hero": {
+      "thesis": "不是只是阻礙，而是在計畫快要推進時把它擋下或破壞。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.85"
+    },
+    "coreIdea": "<code>thwart</code> 表示阻止某人的計畫、企圖或期待成功；句子的力道來自目標原本要往前，卻被中途截斷。",
+    "definition": {
+      "summary": "表示阻止某人的計畫、企圖或期待成功。常見語境會讓目標原本要往前，卻被中途截斷變得清楚。",
+      "contrast": {
+        "word": "Hinder",
+        "note": "<code>hinder</code> 表示妨礙；thwart 更像讓計畫失敗或被攔截。"
+      },
+      "flow": [
+        "計畫展開",
+        "阻力切入",
+        "成功被截斷"
+      ]
+    },
+    "origin": {
+      "history": "<code>thwart</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., thwert , \"from side to side, across, transversely; crosswise, across the grain,\" earlier in the same sense thwertover (c. 1200), overthwert (c. 1300), from a Scandinavian source, probably Old Norse þvert \"across,\" originally neuter of thverr (adj.) \"transverse, across,\" from Proto-Germanic *thwerh- \"twisted, oblique,\" which according to Watkins is from PIE root *terkw- \"to twist.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>thwart</code> 想成球快進門時被最後一腳踢開。",
+      "explanation": "這個畫面保留的是目標原本要往前，卻被中途截斷，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "安全",
+        "body": "The patch <code>thwarted</code> an exploit that had been spreading quietly."
+      },
+      {
+        "label": "計畫",
+        "body": "臨時法規變更 <code>thwarted</code> the launch plan，團隊只能重排路線。"
+      }
+    ],
+    "collocations": {
+      "note": "Thwart 的自然搭配多半讓目標原本要往前，卻被中途截斷具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "thwart an attack",
+          "register": "安全 / 軍事",
+          "note": "攻擊被攔下，沒有達成原本目的。"
+        },
+        {
+          "phrase": "thwart a plan",
+          "register": "新聞 / 敘事",
+          "note": "計畫被外力破壞或擋住。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在計畫快要推進時把它擋下或破壞",
+        "use": "適合描述目標原本要往前，卻被中途截斷的句子。"
+      },
+      "others": [
+        {
+          "word": "Hinder",
+          "meaning": "使進展變慢或變難",
+          "use": "若計畫仍可能成功，用 <code>hinder</code>；若被擋到失敗，用 thwart。"
+        }
+      ]
+    },
+    "modernUse": [
+      "資安、執法與政治新聞常用 <code>thwart</code>，因為它強調 intention 被成功攔下。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/thwart",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/thwart",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "thwart",
+    "word": "Thwart",
+    "partOfSpeech": "verb",
+    "href": "./thwart.html",
+    "thesis": "不是只是阻礙，而是在計畫快要推進時把它擋下或破壞。",
+    "tags": [
+      "阻止破壞",
+      "成功被截斷",
+      "hinder",
+      "thwart an attack",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/thwart",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/thwart",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/thwart",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

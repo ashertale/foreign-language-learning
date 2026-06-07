@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unearth",
+    "slug": "unearth",
+    "outputPath": "prototypes/unearth.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "un-URTH · UK /ʌnˈɜːθ/ · US /ʌnˈɝːθ/",
+    "hero": {
+      "thesis": "不是普通找到，而是把原本埋著、藏著或被忽略的東西挖出來。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.83"
+    },
+    "coreIdea": "<code>unearth</code> 表示挖出、發現或揭露隱藏的事物；句子的力道來自找到的東西原本被遮住，需要挖掘才出現。",
+    "definition": {
+      "summary": "表示挖出、發現或揭露隱藏的事物。常見語境會讓找到的東西原本被遮住，需要挖掘才出現變得清楚。",
+      "contrast": {
+        "word": "Find",
+        "note": "<code>find</code> 很通用；unearth 帶有從地下或隱藏處挖出的畫面。"
+      },
+      "flow": [
+        "線索被埋住",
+        "調查深入",
+        "隱藏事物出土"
+      ]
+    },
+    "origin": {
+      "history": "<code>unearth</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"bring forth from the earth,\" early 15c., unerthen , \"dig up (a body) from the earth, exhume,\" from un- (2) \"opposite of\" + earth (v.) \"bury (a corpse) in the ground,\" c. 1400, from earth (n.). Related: Unearthed ; unearthing .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unearth</code> 想成鏟子挖開土，底下不是新東西，而是一直被蓋住的東西。",
+      "explanation": "這個畫面保留的是找到的東西原本被遮住，需要挖掘才出現，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "調查",
+        "body": "The audit <code>unearthed</code> years of sloppy record-keeping."
+      },
+      {
+        "label": "debug",
+        "body": "加上 tracing 後，我們才 <code>unearth</code> 那個 race condition。"
+      }
+    ],
+    "collocations": {
+      "note": "Unearth 的自然搭配多半讓找到的東西原本被遮住，需要挖掘才出現具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "unearth evidence",
+          "register": "調查 / 法律",
+          "note": "證據原本被藏住或忽略，後來被挖出。"
+        },
+        {
+          "phrase": "unearth a bug",
+          "register": "工程",
+          "note": "問題不是新產生，而是被調查揭開。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把原本埋著、藏著或被忽略的東西挖出來",
+        "use": "適合描述找到的東西原本被遮住，需要挖掘才出現的句子。"
+      },
+      "others": [
+        {
+          "word": "Find",
+          "meaning": "發現或找到某物",
+          "use": "若沒有隱藏或挖掘感，用 <code>find</code>；若有調查挖出，用 unearth。"
+        }
+      ]
+    },
+    "modernUse": [
+      "資料分析、新聞調查與 debugging 都常用 <code>unearth</code>，把 discovery 寫成 excavation。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unearth",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unearth",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unearth",
+    "word": "Unearth",
+    "partOfSpeech": "verb",
+    "href": "./unearth.html",
+    "thesis": "不是普通找到，而是把原本埋著、藏著或被忽略的東西挖出來。",
+    "tags": [
+      "挖出揭露",
+      "隱藏事物出土",
+      "find",
+      "unearth evidence",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unearth",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unearth",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unearth",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

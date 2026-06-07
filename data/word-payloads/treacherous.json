@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Treacherous",
+    "slug": "treacherous",
+    "outputPath": "prototypes/treacherous.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRECH-er-us · UK /ˈtretʃ.ər.əs/ · US /ˈtretʃ.ɚ.əs/",
+    "hero": {
+      "thesis": "不是普通危險，而是表面可能看似可走，實際暗藏會背叛信任的危險。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.77"
+    },
+    "coreIdea": "<code>treacherous</code> 形容人背信、路況危險或情況暗藏風險；句子的力道來自危險來自不可靠或難察覺。",
+    "definition": {
+      "summary": "形容人背信、路況危險或情況暗藏風險。常見語境會讓危險來自不可靠或難察覺變得清楚。",
+      "contrast": {
+        "word": "Dangerous",
+        "note": "<code>dangerous</code> 很廣；treacherous 有不可信、暗藏陷阱或背叛的味道。"
+      },
+      "flow": [
+        "表面可行",
+        "隱藏風險",
+        "信任被背叛"
+      ]
+    },
+    "origin": {
+      "history": "<code>treacherous</code> 字源依 Online Etymology Dictionary；來源段落記錄：mid-14c., trecherous , of persons, \"maliciously dishonest and dissembling; false to sworn allegiance or sacred obligation,\" from Old French trecheros , tricheros \"deceitful\" (12c.), from trecheor , tricheor \"cheat, deceiver, liar, impostor, trickster,\" agent noun from trechier , trichier \"to cheat, trick\" (see trick (n.)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>treacherous</code> 想成薄冰看起來像路，腳一踩才知道它不會守承諾。",
+      "explanation": "這個畫面保留的是危險來自不可靠或難察覺，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "路況",
+        "body": "The mountain road became <code>treacherous</code> after the rain."
+      },
+      {
+        "label": "決策",
+        "body": "早期指標看似樂觀，但這種資料在小樣本下很 <code>treacherous</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Treacherous 的自然搭配多半讓危險來自不可靠或難察覺具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "treacherous road",
+          "register": "天氣 / 旅行",
+          "note": "路面看似可走，實際很容易出事。"
+        },
+        {
+          "phrase": "treacherous waters",
+          "register": "航行 / 比喻",
+          "note": "水域或情勢暗藏難以判斷的危險。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "表面可能看似可走，實際暗藏會背叛信任的危險",
+        "use": "適合描述危險來自不可靠或難察覺的句子。"
+      },
+      "others": [
+        {
+          "word": "Dangerous",
+          "meaning": "可能造成傷害或損失",
+          "use": "若危險明顯，用 <code>dangerous</code>；若看似安全卻會害人，用 treacherous。"
+        }
+      ]
+    },
+    "modernUse": [
+      "分析與投資語境會用 <code>treacherous</code> 警告某些 signal 看起來可信，實際很容易誤導。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/treacherous",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/treacherous",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "treacherous",
+    "word": "Treacherous",
+    "partOfSpeech": "adjective",
+    "href": "./treacherous.html",
+    "thesis": "不是普通危險，而是表面可能看似可走，實際暗藏會背叛信任的危險。",
+    "tags": [
+      "暗藏危險",
+      "信任被背叛",
+      "dangerous",
+      "treacherous road",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/treacherous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/treacherous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/treacherous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

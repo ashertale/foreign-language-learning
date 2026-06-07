@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tolerate",
+    "slug": "tolerate",
+    "outputPath": "prototypes/tolerate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "TOL-uh-rayt · UK /ˈtɒl.ər.eɪt/ · US /ˈtɑː.lə.reɪt/",
+    "hero": {
+      "thesis": "不是喜歡或同意，而是不喜歡、不舒服或不同意，仍讓它存在。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.66"
+    },
+    "coreIdea": "<code>tolerate</code> 表示承受、容忍或允許某事存在而不立刻阻止；句子的力道來自接受只是忍住，不代表認可。",
+    "definition": {
+      "summary": "表示承受、容忍或允許某事存在而不立刻阻止。常見語境會讓接受只是忍住，不代表認可變得清楚。",
+      "contrast": {
+        "word": "Accept",
+        "note": "<code>accept</code> 可能帶認可或接納；tolerate 常是忍受不理想狀態。"
+      },
+      "flow": [
+        "不適存在",
+        "反應被壓住",
+        "情況暫時被允許"
+      ]
+    },
+    "origin": {
+      "history": "<code>tolerate</code> 字源依 Online Etymology Dictionary；來源段落記錄：1530s, in reference to authorities, \"allow without interference, suffer to be done, allow negatively by not preventing,\" from Latin toleratus , past participle of tolerare (see toleration ). Especially \"forbear to judge of or condemn with bigotry and severity\" (opinions, practices, etc.). Related: Tolerated ; tolerating .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tolerate</code> 想成把一個惱人的噪音留在房間裡，不是喜歡它，只是還能忍。",
+      "explanation": "這個畫面保留的是接受只是忍住，不代表認可，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "人際",
+        "body": "She can <code>tolerate</code> blunt feedback, but not public humiliation."
+      },
+      {
+        "label": "系統",
+        "body": "這個 service 可以 <code>tolerate</code> short spikes，但不能長時間滿載。"
+      }
+    ],
+    "collocations": {
+      "note": "Tolerate 的自然搭配多半讓接受只是忍住，不代表認可具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tolerate discomfort",
+          "register": "心理 / 日常",
+          "note": "不舒服還在，但人能承受。"
+        },
+        {
+          "phrase": "fault-tolerant system",
+          "register": "工程",
+          "note": "系統允許部分錯誤存在而不中斷整體服務。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "不喜歡、不舒服或不同意，仍讓它存在",
+        "use": "適合描述接受只是忍住，不代表認可的句子。"
+      },
+      "others": [
+        {
+          "word": "Accept",
+          "meaning": "接納、承認或同意某事存在",
+          "use": "若有認可意味，用 <code>accept</code>；若只是忍住，用 tolerate。"
+        }
+      ]
+    },
+    "modernUse": [
+      "工程裡的 fault tolerance 和日常的 emotional tolerance 都保留同一條線：承受不理想而不崩潰。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tolerate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tolerate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tolerate",
+    "word": "Tolerate",
+    "partOfSpeech": "verb",
+    "href": "./tolerate.html",
+    "thesis": "不是喜歡或同意，而是不喜歡、不舒服或不同意，仍讓它存在。",
+    "tags": [
+      "容忍承受",
+      "忍住不代表認可",
+      "accept",
+      "fault tolerant",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tolerate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tolerate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tolerate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

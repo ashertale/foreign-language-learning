@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Withhold",
+    "slug": "withhold",
+    "outputPath": "prototypes/withhold.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "with-HOHLD · UK /wɪðˈhəʊld/ · US /wɪðˈhoʊld/",
+    "hero": {
+      "thesis": "不是普通沒有給，而是明明可以交出、提供或表達，卻刻意保留。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.16"
+    },
+    "coreIdea": "<code>withhold</code> 表示扣留、保留、不給出資訊、款項、同意或情感；句子的力道來自缺席是主動選擇，不是自然沒有。",
+    "definition": {
+      "summary": "表示扣留、保留、不給出資訊、款項、同意或情感。常見語境會讓缺席是主動選擇，不是自然沒有變得清楚。",
+      "contrast": {
+        "word": "Keep",
+        "note": "<code>keep</code> 可中性表示保留；withhold 更像有應給而未給。"
+      },
+      "flow": [
+        "資源可給",
+        "手被收回",
+        "對方被留在缺口裡"
+      ]
+    },
+    "origin": {
+      "history": "<code>withhold</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1200, withholden \"exercise restraint; keep back, keep in one's possession,\" from with- \"back, away\" (see with ) + holden \"to hold\" (see hold (v.)). Probably a loan-translation of Latin retinere \"to withhold.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>withhold</code> 想成信封已經在手上，卻故意不遞出去。",
+      "explanation": "這個畫面保留的是缺席是主動選擇，不是自然沒有，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "資訊",
+        "body": "The report accused officials of <code>withholding</code> key evidence."
+      },
+      {
+        "label": "管理",
+        "body": "主管若 <code>withhold</code> context，團隊會用猜的補上最壞版本。"
+      }
+    ],
+    "collocations": {
+      "note": "Withhold 的自然搭配多半讓缺席是主動選擇，不是自然沒有具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "withhold information",
+          "register": "法律 / 職場",
+          "note": "資訊被刻意不提供。"
+        },
+        {
+          "phrase": "withhold payment",
+          "register": "金融 / 合約",
+          "note": "款項暫不支付，通常有條件或爭議。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "明明可以交出、提供或表達，卻刻意保留",
+        "use": "適合描述缺席是主動選擇，不是自然沒有的句子。"
+      },
+      "others": [
+        {
+          "word": "Keep",
+          "meaning": "保留、保存或留在手上",
+          "use": "若只是留著，用 <code>keep</code>；若該給而扣著，用 withhold。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 transparency、employment 和 legal discovery 裡，<code>withhold</code> 暗示 omission is deliberate。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/withhold",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/withhold",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "withhold",
+    "word": "Withhold",
+    "partOfSpeech": "verb",
+    "href": "./withhold.html",
+    "thesis": "不是普通沒有給，而是明明可以交出、提供或表達，卻刻意保留。",
+    "tags": [
+      "扣留保留",
+      "該給而未給",
+      "keep",
+      "withhold information",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/withhold",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/withhold",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/withhold",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

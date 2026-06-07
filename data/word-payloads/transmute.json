@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Transmute",
+    "slug": "transmute",
+    "outputPath": "prototypes/transmute.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "tranz-MYOOT · UK /trænzˈmjuːt/ · US /trænzˈmuːt/",
+    "hero": {
+      "thesis": "不是普通改變，而是把一種性質轉成另一種性質，像材料或精神被煉成別的東西。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.14"
+    },
+    "coreIdea": "<code>transmute</code> 表示使某物在性質、本質或形式上轉化；句子的力道來自變化像化學或煉金，不只是表面調整。",
+    "definition": {
+      "summary": "表示使某物在性質、本質或形式上轉化。常見語境會讓變化像化學或煉金，不只是表面調整變得清楚。",
+      "contrast": {
+        "word": "Transform",
+        "note": "<code>transform</code> 很廣；transmute 更有本質轉化、材料被煉換的語感。"
+      },
+      "flow": [
+        "原性質存在",
+        "轉化發生",
+        "新性質成形"
+      ]
+    },
+    "origin": {
+      "history": "<code>transmute</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., transmuten , \"transform the appearance of,\" from Latin transmutare \"change from one condition to another,\" from trans \"across, beyond; thoroughly\" (see trans- ) + mutare \"to change\" (from PIE root *mei- (1) \"to change, go, move\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>transmute</code> 想成煉金術把鉛想像成金，重點是本質被換掉。",
+      "explanation": "這個畫面保留的是變化像化學或煉金，不只是表面調整，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "藝術",
+        "body": "The composer <code>transmuted</code> grief into a spare, luminous melody."
+      },
+      {
+        "label": "經驗",
+        "body": "一次失敗若被仔細整理，可能 <code>transmute</code> into judgment，而不是只留下挫折。"
+      }
+    ],
+    "collocations": {
+      "note": "Transmute 的自然搭配多半讓變化像化學或煉金，不只是表面調整具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "transmute pain into art",
+          "register": "文學 / 藝術",
+          "note": "痛苦被轉成作品，不只是被描述。"
+        },
+        {
+          "phrase": "transmute base metal",
+          "register": "歷史 / 比喻",
+          "note": "保留煉金術的本質轉化畫面。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把一種性質轉成另一種性質，像材料或精神被煉成別的東西",
+        "use": "適合描述變化像化學或煉金，不只是表面調整的句子。"
+      },
+      "others": [
+        {
+          "word": "Transform",
+          "meaning": "改變形態、外觀或結構",
+          "use": "多數現代句子用 <code>transform</code> 就自然；需要本質煉換感才用 transmute。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>transmute</code> 現代多偏文學或哲學語氣，用來寫 experience being refined into another substance。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/transmute",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/transmute",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "transmute",
+    "word": "Transmute",
+    "partOfSpeech": "verb",
+    "href": "./transmute.html",
+    "thesis": "不是普通改變，而是把一種性質轉成另一種性質，像材料或精神被煉成別的東西。",
+    "tags": [
+      "本質轉化",
+      "煉金感",
+      "transform",
+      "transmute pain into art",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/transmute",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/transmute",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/transmute",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

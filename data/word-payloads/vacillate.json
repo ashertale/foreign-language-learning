@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vacillate",
+    "slug": "vacillate",
+    "outputPath": "prototypes/vacillate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VAS-uh-layt · UK /ˈvæs.ɪ.leɪt/ · US /ˈvæs.ə.leɪt/",
+    "hero": {
+      "thesis": "不是普通思考，而是在選項之間來回搖擺，遲遲不能定下來。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.03"
+    },
+    "coreIdea": "<code>vacillate</code> 表示猶豫不決、意見或情緒反覆變動；句子的力道來自心智像鐘擺，往這邊又往那邊。",
+    "definition": {
+      "summary": "表示猶豫不決、意見或情緒反覆變動。常見語境會讓心智像鐘擺，往這邊又往那邊變得清楚。",
+      "contrast": {
+        "word": "Hesitate",
+        "note": "<code>hesitate</code> 是停住不動或遲疑；vacillate 是在兩邊反覆擺動。"
+      },
+      "flow": [
+        "選項拉扯",
+        "立場來回",
+        "決定延後"
+      ]
+    },
+    "origin": {
+      "history": "<code>vacillate</code> 字源依 Online Etymology Dictionary；來源段落記錄：1590s, \"sway, stagger, move unsteadily,\" from Latin vacillatus , past participle of vacillare \"sway to and fro; hesitate\" (see vacillation ). The meaning \"waver between two opinions or courses, fluctuate in mind or opinion\" is recorded from 1620s. Related: Vacillated ; vacillates ; vacillating .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vacillate</code> 想成游標在兩個按鈕之間來回移動，誰也沒被按下。",
+      "explanation": "這個畫面保留的是心智像鐘擺，往這邊又往那邊，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "決策",
+        "body": "The committee <code>vacillated</code> between caution and ambition."
+      },
+      {
+        "label": "產品",
+        "body": "需求一直 <code>vacillate</code>，工程估時就會變成猜測遊戲。"
+      }
+    ],
+    "collocations": {
+      "note": "Vacillate 的自然搭配多半讓心智像鐘擺，往這邊又往那邊具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vacillate between",
+          "register": "正式 / 分析",
+          "note": "在兩個方向之間反覆搖擺。"
+        },
+        {
+          "phrase": "vacillating leadership",
+          "register": "商務 / 政治",
+          "note": "領導決策反覆，讓團隊不敢押方向。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在選項之間來回搖擺，遲遲不能定下來",
+        "use": "適合描述心智像鐘擺，往這邊又往那邊的句子。"
+      },
+      "others": [
+        {
+          "word": "Hesitate",
+          "meaning": "猶豫、暫停或不敢立刻行動",
+          "use": "若只是停一下，用 <code>hesitate</code>；若反覆改向，用 vacillate。"
+        }
+      ]
+    },
+    "modernUse": [
+      "策略、政策和 roadmap 討論中，<code>vacillate</code> 常批評 leadership cannot commit。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vacillate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vacillate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vacillate",
+    "word": "Vacillate",
+    "partOfSpeech": "verb",
+    "href": "./vacillate.html",
+    "thesis": "不是普通思考，而是在選項之間來回搖擺，遲遲不能定下來。",
+    "tags": [
+      "反覆猶豫",
+      "立場搖擺",
+      "hesitate",
+      "vacillate between",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vacillate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vacillate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vacillate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

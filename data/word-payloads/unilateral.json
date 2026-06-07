@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unilateral",
+    "slug": "unilateral",
+    "outputPath": "prototypes/unilateral.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "yoo-nih-LAT-er-uhl · UK /ˌjuː.nɪˈlæt.ər.əl/ · US /ˌjuː.nəˈlæt̬.ɚ.əl/",
+    "hero": {
+      "thesis": "不是只是單一，而是由一方自行決定或行動，沒有雙方協商。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.00"
+    },
+    "coreIdea": "<code>unilateral</code> 形容單方面的決定、行動或協議變更；句子的力道來自權力或行動集中在一邊。",
+    "definition": {
+      "summary": "形容單方面的決定、行動或協議變更。常見語境會讓權力或行動集中在一邊變得清楚。",
+      "contrast": {
+        "word": "Mutual",
+        "note": "<code>mutual</code> 表示雙方共同；unilateral 正好相反，是一方自行推動。"
+      },
+      "flow": [
+        "一方掌握決定",
+        "未經共同協商",
+        "結果套到其他人身上"
+      ]
+    },
+    "origin": {
+      "history": "<code>unilateral</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"of or pertaining to one side only,\" 1802, from Modern Latin unilateralis , from unum , neuter of unus \"one\" (from PIE root *oi-no- \"one, unique\") + latus (genitive lateralis ) \"the side, flank of humans or animals, lateral surface,\" a word of uncertain origin.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unilateral</code> 想成會議還沒開始，一邊已經把結論貼在牆上。",
+      "explanation": "這個畫面保留的是權力或行動集中在一邊，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "外交 / 法律",
+        "body": "The country announced a <code>unilateral</code> ceasefire."
+      },
+      {
+        "label": "職場",
+        "body": "主管 <code>unilateral</code> 改掉值班規則，難怪團隊覺得被繞過。"
+      }
+    ],
+    "collocations": {
+      "note": "Unilateral 的自然搭配多半讓權力或行動集中在一邊具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "unilateral decision",
+          "register": "商務 / 法律",
+          "note": "一方自行決定，其他方沒有真正參與。"
+        },
+        {
+          "phrase": "unilateral action",
+          "register": "外交 / 政策",
+          "note": "沒有等共同協議就先行動。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "由一方自行決定或行動，沒有雙方協商",
+        "use": "適合描述權力或行動集中在一邊的句子。"
+      },
+      "others": [
+        {
+          "word": "Mutual",
+          "meaning": "雙方共同同意或互相作用",
+          "use": "若雙方都有同意或承擔，用 <code>mutual</code>；一方自行時用 unilateral。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在合約、職場與外交語境，<code>unilateral</code> 常暗示 process fairness 有問題。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unilateral",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unilateral",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unilateral",
+    "word": "Unilateral",
+    "partOfSpeech": "adjective",
+    "href": "./unilateral.html",
+    "thesis": "不是只是單一，而是由一方自行決定或行動，沒有雙方協商。",
+    "tags": [
+      "單方面",
+      "未經協商",
+      "mutual",
+      "unilateral decision",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unilateral",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unilateral",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unilateral",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tinge",
+    "slug": "tinge",
+    "outputPath": "prototypes/tinge.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TINJ · UK /tɪndʒ/ · US /tɪndʒ/",
+    "hero": {
+      "thesis": "不是完整顏色，而是一點淡淡的顏色、情緒或味道滲在整體裡。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.88"
+    },
+    "coreIdea": "<code>tinge</code> 指輕微的色彩、氣味、情緒或性質，讓整體多一層薄薄的偏向；句子的力道來自比例很小，但足以改變感受。",
+    "definition": {
+      "summary": "指輕微的色彩、氣味、情緒或性質，讓整體多一層薄薄的偏向。常見語境會讓比例很小，但足以改變感受變得清楚。",
+      "contrast": {
+        "word": "Color",
+        "note": "<code>color</code> 是完整顏色；tinge 是淡淡的一層偏色或情緒。"
+      },
+      "flow": [
+        "主體仍在",
+        "淡色滲入",
+        "感受微微偏移"
+      ]
+    },
+    "origin": {
+      "history": "<code>tinge</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 15c., \"to dye, color slightly, imbue with some shade or degree of color,\" from Latin tingere \"to dye, color\" (see tincture ). The figurative sense of \"affect or qualify slightly in mind or feeling\" is from 1670s, on the notion of \"modify by intermixture or infusion.\" Related: Tinged; tingeing; tingible; tingent . The noun, \"slight or moderate degree of coloration,\" is attested by 1752.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tinge</code> 想成清水裡滴入一點茶色，整杯仍透明，味道已經不同。",
+      "explanation": "這個畫面保留的是比例很小，但足以改變感受，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "情緒",
+        "body": "Her relief carried a <code>tinge</code> of guilt."
+      },
+      {
+        "label": "畫面",
+        "body": "螢幕亮度偏冷，畫面帶一點 blue <code>tinge</code>，照片看起來不自然。"
+      }
+    ],
+    "collocations": {
+      "note": "Tinge 的自然搭配多半讓比例很小，但足以改變感受具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "a tinge of sadness",
+          "register": "敘事 / 心理",
+          "note": "悲傷不是主情緒，只是淡淡滲在裡面。"
+        },
+        {
+          "phrase": "bluish tinge",
+          "register": "視覺 / 醫療",
+          "note": "顏色微微偏藍，不是整體變藍。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "一點淡淡的顏色、情緒或味道滲在整體裡",
+        "use": "適合描述比例很小，但足以改變感受的句子。"
+      },
+      "others": [
+        {
+          "word": "Color",
+          "meaning": "主要的色彩或顏色種類",
+          "use": "若顏色很明確，用 <code>color</code>；若只是薄薄的偏向，用 tinge。"
+        }
+      ]
+    },
+    "modernUse": [
+      "影像、語氣與情緒描寫會用 <code>tinge</code>，因為它精準處理 subtle bias of feeling。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tinge",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tinge",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tinge",
+    "word": "Tinge",
+    "partOfSpeech": "noun",
+    "href": "./tinge.html",
+    "thesis": "不是完整顏色，而是一點淡淡的顏色、情緒或味道滲在整體裡。",
+    "tags": [
+      "淡淡色調",
+      "微量偏向",
+      "color",
+      "tinge of sadness",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tinge",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tinge",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tinge",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

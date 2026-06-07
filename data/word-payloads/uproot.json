@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Uproot",
+    "slug": "uproot",
+    "outputPath": "prototypes/uproot.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "up-ROOT · UK /ʌpˈruːt/ · US /ʌpˈruːt/",
+    "hero": {
+      "thesis": "不是普通搬走，而是把人、植物或制度從原本扎根的地方拔起。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.52"
+    },
+    "coreIdea": "<code>uproot</code> 表示連根拔起、迫使離開熟悉環境，或徹底移除；句子的力道來自不是移動表面，而是根被拉離原處。",
+    "definition": {
+      "summary": "表示連根拔起、迫使離開熟悉環境，或徹底移除。常見語境會讓不是移動表面，而是根被拉離原處變得清楚。",
+      "contrast": {
+        "word": "Move",
+        "note": "<code>move</code> 很中性；uproot 帶有根被拔起、生活或結構被打斷的代價。"
+      },
+      "flow": [
+        "根扎在原處",
+        "外力拉起",
+        "原有連結斷裂"
+      ]
+    },
+    "origin": {
+      "history": "<code>uproot</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"remove from fixerd position,\" hence \"remove utterly, eradicate,\" 1590s (implied in uprooted ), in the figurative sense, from the verbal phrase; see up (adv.) + root (v.). The literal sense is recorded by 1690s. Related: Uprooter ; uprooting .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>uproot</code> 想成植物離開花盆時，土和根一起被扯出。",
+      "explanation": "這個畫面保留的是不是移動表面，而是根被拉離原處，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "家庭",
+        "body": "The war <code>uprooted</code> thousands of families."
+      },
+      {
+        "label": "組織",
+        "body": "全面換掉工具鏈會 <code>uproot</code> habits that teams rely on every day。"
+      }
+    ],
+    "collocations": {
+      "note": "Uproot 的自然搭配多半讓不是移動表面，而是根被拉離原處具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "uproot a family",
+          "register": "社會 / 新聞",
+          "note": "家庭被迫離開熟悉生活，不只是搬家。"
+        },
+        {
+          "phrase": "uproot old habits",
+          "register": "心理 / 組織",
+          "note": "把深植已久的習慣連根移除。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把人、植物或制度從原本扎根的地方拔起",
+        "use": "適合描述不是移動表面，而是根被拉離原處的句子。"
+      },
+      "others": [
+        {
+          "word": "Move",
+          "meaning": "移動位置或改變住處",
+          "use": "若沒有根基被拔的痛感，用 <code>move</code>；若生活被連根帶走，用 uproot。"
+        }
+      ]
+    },
+    "modernUse": [
+      "移民、戰爭、組織改造都會用 <code>uproot</code>，因為 change can tear at rooted life。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/uproot",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/uproot",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "uproot",
+    "word": "Uproot",
+    "partOfSpeech": "verb",
+    "href": "./uproot.html",
+    "thesis": "不是普通搬走，而是把人、植物或制度從原本扎根的地方拔起。",
+    "tags": [
+      "連根拔起",
+      "根基斷裂",
+      "move",
+      "uproot old habits",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uproot",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/uproot",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uproot",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

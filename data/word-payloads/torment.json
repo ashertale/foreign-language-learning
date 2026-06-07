@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Torment",
+    "slug": "torment",
+    "outputPath": "prototypes/torment.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TOR-ment · UK /ˈtɔː.ment/ · US /ˈtɔːr.ment/",
+    "hero": {
+      "thesis": "不是普通痛苦，而是反覆折磨人的痛苦，像被持續拉扯。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.02"
+    },
+    "coreIdea": "<code>torment</code> 指身體或心理上的嚴重折磨，也可作動詞表示使人受苦；句子的力道來自痛苦有持續性和折磨感。",
+    "definition": {
+      "summary": "指身體或心理上的嚴重折磨，也可作動詞表示使人受苦。常見語境會讓痛苦有持續性和折磨感變得清楚。",
+      "contrast": {
+        "word": "Pain",
+        "note": "<code>pain</code> 很廣；torment 帶有反覆、侵擾、難以擺脫的痛苦。"
+      },
+      "flow": [
+        "痛苦出現",
+        "反覆侵擾",
+        "心力被折磨"
+      ]
+    },
+    "origin": {
+      "history": "<code>torment</code> 字源依 Online Etymology Dictionary；來源摘要提到 \"the systematic inflicting of torture,\" also \"state of great suffering; agony, anguish,\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>torment</code> 想成不是刺一下，而是一段聲音在腦中一直重播。",
+      "explanation": "這個畫面保留的是痛苦有持續性和折磨感，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "心理",
+        "body": "The decision became a private <code>torment</code> he could not explain."
+      },
+      {
+        "label": "debug",
+        "body": "那個 intermittent bug <code>tormented</code> the team for a month，因為它從不穩定重現。"
+      }
+    ],
+    "collocations": {
+      "note": "Torment 的自然搭配多半讓痛苦有持續性和折磨感具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "inner torment",
+          "register": "文學 / 心理",
+          "note": "痛苦藏在內部，持續消耗人。"
+        },
+        {
+          "phrase": "torment someone",
+          "register": "敘事 / 日常",
+          "note": "使某人反覆受苦，不只是造成一次不舒服。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "反覆折磨人的痛苦，像被持續拉扯",
+        "use": "適合描述痛苦有持續性和折磨感的句子。"
+      },
+      "others": [
+        {
+          "word": "Pain",
+          "meaning": "疼痛、痛苦或不舒服",
+          "use": "若只是痛感本身，用 <code>pain</code>；若像折磨一樣纏住，用 torment。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>torment</code> 常被用來寫 guilt、memory、uncertainty，因為它讓痛苦呈現為長時間侵擾。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/torment",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/torment",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "torment",
+    "word": "Torment",
+    "partOfSpeech": "noun",
+    "href": "./torment.html",
+    "thesis": "不是普通痛苦，而是反覆折磨人的痛苦，像被持續拉扯。",
+    "tags": [
+      "折磨痛苦",
+      "反覆侵擾",
+      "pain",
+      "inner torment",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/torment",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/torment",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/torment",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

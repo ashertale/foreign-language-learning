@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unsettle",
+    "slug": "unsettle",
+    "outputPath": "prototypes/unsettle.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "un-SET-uhl · UK /ʌnˈset.əl/ · US /ʌnˈset.əl/",
+    "hero": {
+      "thesis": "不是普通打擾，而是動搖人的安定感，讓心裡或局勢不再穩。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.07"
+    },
+    "coreIdea": "<code>unsettle</code> 表示使人不安、使局面不穩或打破原本安定；句子的力道來自安全感被移開，內部開始晃。",
+    "definition": {
+      "summary": "表示使人不安、使局面不穩或打破原本安定。常見語境會讓安全感被移開，內部開始晃變得清楚。",
+      "contrast": {
+        "word": "Disturb",
+        "note": "<code>disturb</code> 可以是一般打擾；unsettle 更強調心理或秩序失去穩定。"
+      },
+      "flow": [
+        "安定存在",
+        "疑慮進入",
+        "內部開始搖晃"
+      ]
+    },
+    "origin": {
+      "history": "<code>unsettle</code> 字源依 Online Etymology Dictionary；來源段落記錄：1590s, \"undo from a fixed position, change from a settled state,\" from un- (2) \"reverse, opposite of\" + settle (v.). In reference to the mind, feelings, intellect, etc., it is attested from 1640s. Related: Unsettled ; unsettling .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unsettle</code> 想成椅子少了一隻腳，看起來還能坐，但身體已經不敢放鬆。",
+      "explanation": "這個畫面保留的是安全感被移開，內部開始晃，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "心理",
+        "body": "The sudden silence <code>unsettled</code> everyone in the room."
+      },
+      {
+        "label": "市場",
+        "body": "一則供應鏈新聞就足以 <code>unsettle</code> investors，因為庫存本來就偏低。"
+      }
+    ],
+    "collocations": {
+      "note": "Unsettle 的自然搭配多半讓安全感被移開，內部開始晃具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "unsettle investors",
+          "register": "金融 / 新聞",
+          "note": "投資人信心被動搖，市場開始不穩。"
+        },
+        {
+          "phrase": "deeply unsettling",
+          "register": "心理 / 評論",
+          "note": "讓人感到很不安，不只是被打斷。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "動搖人的安定感，讓心裡或局勢不再穩",
+        "use": "適合描述安全感被移開，內部開始晃的句子。"
+      },
+      "others": [
+        {
+          "word": "Disturb",
+          "meaning": "打擾、干擾或使不平靜",
+          "use": "若只是干擾工作，用 <code>disturb</code>；若讓人心裡不穩，用 unsettle。"
+        }
+      ]
+    },
+    "modernUse": [
+      "新聞、UX 和心理描寫常用 <code>unsettle</code>，因為不安往往不是恐懼爆炸，而是穩定感被抽走。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unsettle",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unsettle",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unsettle",
+    "word": "Unsettle",
+    "partOfSpeech": "verb",
+    "href": "./unsettle.html",
+    "thesis": "不是普通打擾，而是動搖人的安定感，讓心裡或局勢不再穩。",
+    "tags": [
+      "使不安動搖",
+      "安全感被移開",
+      "disturb",
+      "deeply unsettling",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unsettle",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unsettle",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unsettle",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

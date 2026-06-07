@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Taxing",
+    "slug": "taxing",
+    "outputPath": "prototypes/taxing.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAK-sing · UK /ˈtæk.sɪŋ/ · US /ˈtæk.sɪŋ/",
+    "hero": {
+      "thesis": "不是和稅務有關而已，而是大量消耗體力、心力或耐性。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.13"
+    },
+    "coreIdea": "<code>taxing</code> 形容任務、經驗或情況很吃力，會明顯消耗人的資源；句子的力道來自負擔不只是難，而是持續抽走精力。",
+    "definition": {
+      "summary": "形容任務、經驗或情況很吃力，會明顯消耗人的資源。常見語境會讓負擔不只是難，而是持續抽走精力變得清楚。",
+      "contrast": {
+        "word": "Difficult",
+        "note": "<code>difficult</code> 只說困難；taxing 更強調人被消耗、被拉到負荷邊界。"
+      },
+      "flow": [
+        "任務加壓",
+        "精力被抽走",
+        "人接近負荷"
+      ]
+    },
+    "origin": {
+      "history": "Etymonline 的 <code>taxing</code> 頁未提供獨立字源摘要；本頁只追到基底詞 <code>tax</code>。Online Etymology Dictionary 記錄 <code>tax</code> 約 c. 1300 作 <code>taxen</code>，義近 impose a tax、demand、require、impose a penalty；來源可追到 Old French <code>taxer</code>，並直接連到 Latin <code>taxare</code>，義近 evaluate、estimate、assess。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>taxing</code> 想成像系統長時間高負載，CPU 沒壞，但餘裕被吃光。",
+      "explanation": "這個畫面保留的是負擔不只是難，而是持續抽走精力，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "心力",
+        "body": "Preparing for the audit was emotionally <code>taxing</code> for the whole team."
+      },
+      {
+        "label": "技術任務",
+        "body": "這段 migration 很 <code>taxing</code>，因為每個小改動都牽動 production 風險。"
+      }
+    ],
+    "collocations": {
+      "note": "Taxing 的自然搭配多半讓負擔不只是難，而是持續抽走精力具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "taxing work",
+          "register": "職場",
+          "note": "工作不只多，還持續消耗注意力與耐性。"
+        },
+        {
+          "phrase": "emotionally taxing",
+          "register": "心理 / 日常",
+          "note": "壓力主要落在情緒承受，而不是物理難度。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "大量消耗體力、心力或耐性",
+        "use": "適合描述負擔不只是難，而是持續抽走精力的句子。"
+      },
+      "others": [
+        {
+          "word": "Difficult",
+          "meaning": "難以完成或理解",
+          "use": "若不想強調疲憊或消耗，<code>difficult</code> 比 taxing 平直。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>taxing</code> 常描述 long-running work、caregiving、incident response 這類會消耗人的情境。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/taxing",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/taxing",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "taxing",
+    "word": "Taxing",
+    "partOfSpeech": "adjective",
+    "href": "./taxing.html",
+    "thesis": "不是和稅務有關而已，而是大量消耗體力、心力或耐性。",
+    "tags": [
+      "吃力耗能",
+      "負荷邊界",
+      "difficult",
+      "emotionally taxing",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taxing",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tax",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taxing",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

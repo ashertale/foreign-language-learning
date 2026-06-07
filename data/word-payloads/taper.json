@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Taper",
+    "slug": "taper",
+    "outputPath": "prototypes/taper.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "TAY-per · UK /ˈteɪ.pər/ · US /ˈteɪ.pɚ/",
+    "hero": {
+      "thesis": "不是突然停止，而是讓強度、數量或形狀逐步變小。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.06"
+    },
+    "coreIdea": "<code>taper</code> 表示逐漸縮小、減弱或收窄，而不是一次切斷；句子的力道來自變化有斜坡，不是斷崖。",
+    "definition": {
+      "summary": "表示逐漸縮小、減弱或收窄，而不是一次切斷。常見語境會讓變化有斜坡，不是斷崖變得清楚。",
+      "contrast": {
+        "word": "Stop",
+        "note": "<code>stop</code> 只說停止；taper 保留慢慢減量或慢慢收尾的過程。"
+      },
+      "flow": [
+        "強度還在",
+        "逐步減少",
+        "平穩收尾"
+      ]
+    },
+    "origin": {
+      "history": "<code>taper</code> 字源依 Online Etymology Dictionary；來源段落記錄：Old English tapur , taper \"candle, lamp-wick,\" not found outside English, possibly a specialized borrowing and dissimilation of Latin papyrus (see papyrus ), which was used in Medieval Latin and some Romance languages for \"wick of a candle\" (such as Old Italian dialectal (Tuscany) papijo, papeio \"wick\"), because these often were made from the pith of papyrus. Compare also German kerze \"candle,\" from Old High German charza , from Latin charta , from Greek khartēs \"papyrus, roll made from papyrus, wick made from pith of papyrus.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>taper</code> 想成音量旋鈕慢慢轉小，聲音退場而不是被拔掉。",
+      "explanation": "這個畫面保留的是變化有斜坡，不是斷崖，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "醫療 / 習慣",
+        "body": "The doctor advised him to <code>taper</code> the dose instead of quitting overnight."
+      },
+      {
+        "label": "工程負載",
+        "body": "流量在午夜後開始 <code>taper</code> off，系統才有空做維護。"
+      }
+    ],
+    "collocations": {
+      "note": "Taper 的自然搭配多半讓變化有斜坡，不是斷崖具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "taper off",
+          "register": "日常 / 技術",
+          "note": "活動、聲音、流量或需求逐漸變少。"
+        },
+        {
+          "phrase": "taper the dose",
+          "register": "醫療",
+          "note": "藥量慢慢降低，避免身體被突然變化衝擊。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "讓強度、數量或形狀逐步變小",
+        "use": "適合描述變化有斜坡，不是斷崖的句子。"
+      },
+      "others": [
+        {
+          "word": "Stop",
+          "meaning": "動作結束或中斷",
+          "use": "如果沒有漸進過程，<code>stop</code> 比 taper 清楚。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在醫療、經濟與系統負載討論中，<code>taper</code> 讓 reduced intensity 帶著時間坡度。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/taper",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/taper",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "taper",
+    "word": "Taper",
+    "partOfSpeech": "verb",
+    "href": "./taper.html",
+    "thesis": "不是突然停止，而是讓強度、數量或形狀逐步變小。",
+    "tags": [
+      "逐步減少",
+      "平穩收尾",
+      "stop",
+      "taper off",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taper",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/taper",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/taper",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

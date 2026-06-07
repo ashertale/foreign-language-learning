@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Traverse",
+    "slug": "traverse",
+    "outputPath": "prototypes/traverse.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "truh-VURS · UK /trəˈvɜːs/ · US /trəˈvɝːs/",
+    "hero": {
+      "thesis": "不是只是走過，而是橫越一段空間、結構或資料路徑。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.87"
+    },
+    "coreIdea": "<code>traverse</code> 表示穿越、橫越或按路徑逐一經過；句子的力道來自移動沿著一條需要被跨過或掃過的路徑。",
+    "definition": {
+      "summary": "表示穿越、橫越或按路徑逐一經過。常見語境會讓移動沿著一條需要被跨過或掃過的路徑變得清楚。",
+      "contrast": {
+        "word": "Cross",
+        "note": "<code>cross</code> 很通用；traverse 更常暗示路徑較長、複雜或被系統性掃過。"
+      },
+      "flow": [
+        "路徑展開",
+        "逐段經過",
+        "另一端被抵達"
+      ]
+    },
+    "origin": {
+      "history": "<code>traverse</code> 字源依 Online Etymology Dictionary；來源段落記錄：early 14c., \"pass across, over, or through,\" from Old French traverser \"to cross, place across\" (11c.), from Vulgar Latin *traversare, from Latin transversare \"to cross, throw across,\" from Latin transversus \"turn across\" (see transverse ). As an adjective from early 15c. Related: Traversed ; traversing .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>traverse</code> 想成游標沿著 tree 一個 node 一個 node 走過去。",
+      "explanation": "這個畫面保留的是移動沿著一條需要被跨過或掃過的路徑，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "地理",
+        "body": "The hikers <code>traversed</code> the ridge before sunset."
+      },
+      {
+        "label": "資料結構",
+        "body": "程式需要 <code>traverse</code> the graph，才能找到所有可達節點。"
+      }
+    ],
+    "collocations": {
+      "note": "Traverse 的自然搭配多半讓移動沿著一條需要被跨過或掃過的路徑具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "traverse a landscape",
+          "register": "旅行 / 地理",
+          "note": "穿過地形，通常路徑有長度和阻力。"
+        },
+        {
+          "phrase": "traverse a tree",
+          "register": "電腦科學",
+          "note": "按規則拜訪資料結構中的節點。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "橫越一段空間、結構或資料路徑",
+        "use": "適合描述移動沿著一條需要被跨過或掃過的路徑的句子。"
+      },
+      "others": [
+        {
+          "word": "Cross",
+          "meaning": "從一邊到另一邊",
+          "use": "若只是跨過街道或界線，用 <code>cross</code>；若路徑複雜，用 traverse。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 software 裡，<code>traverse</code> 很常見，因為它把 movement 和 structured path 放在同一個字裡。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/traverse",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/traverse",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "traverse",
+    "word": "Traverse",
+    "partOfSpeech": "verb",
+    "href": "./traverse.html",
+    "thesis": "不是只是走過，而是橫越一段空間、結構或資料路徑。",
+    "tags": [
+      "橫越遍歷",
+      "沿路徑掃過",
+      "cross",
+      "traverse a tree",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/traverse",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/traverse",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/traverse",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

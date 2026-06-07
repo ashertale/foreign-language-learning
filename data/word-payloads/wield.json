@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wield",
+    "slug": "wield",
+    "outputPath": "prototypes/wield.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "WEELD · UK /wiːld/ · US /wiːld/",
+    "hero": {
+      "thesis": "不是只是擁有，而是主動拿著權力、工具或影響力去施加作用。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.04"
+    },
+    "coreIdea": "<code>wield</code> 表示揮舞武器，也可指運用權力、影響力或工具；句子的力道來自擁有的東西被拿來操作世界。",
+    "definition": {
+      "summary": "表示揮舞武器，也可指運用權力、影響力或工具。常見語境會讓擁有的東西被拿來操作世界變得清楚。",
+      "contrast": {
+        "word": "Possess",
+        "note": "<code>possess</code> 只表示擁有；wield 強調使用或施展。"
+      },
+      "flow": [
+        "權力或工具在手",
+        "主動施展",
+        "外界受到影響"
+      ]
+    },
+    "origin": {
+      "history": "<code>wield</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"have power and sway over,\" hence, \"practice, put to active use as a means or a tool;\" Middle English welden , from Old English weldan (Mercian), wieldan , wealdan (West Saxon) \"reign, have power over; compel, tame, subdue\" (class VII strong verb; past tense weold , past participle gewealden ), merged with weak verb wyldan . Both are from Proto-Germanic *waldan \"to rule\" (source also of Old Saxon and Gothic waldan , Old Frisian walda \"to govern, rule,\" Old Norse valda \"to rule, wield, to cause,\" Old High German waltan , German walten \"to rule, govern\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wield</code> 想成刀放在桌上只是存在，被拿起來才有 wield 的力量。",
+      "explanation": "這個畫面保留的是擁有的東西被拿來操作世界，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "權力",
+        "body": "The committee <code>wields</code> significant influence over funding."
+      },
+      {
+        "label": "工具",
+        "body": "能 <code>wield</code> data well 的 PM，不只是會看 dashboard，而是能改變決策。"
+      }
+    ],
+    "collocations": {
+      "note": "Wield 的自然搭配多半讓擁有的東西被拿來操作世界具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "wield power",
+          "register": "政治 / 組織",
+          "note": "權力被主動使用，對他人產生效果。"
+        },
+        {
+          "phrase": "wield influence",
+          "register": "商務 / 媒體",
+          "note": "影響力不只是存在，而是能改變結果。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "主動拿著權力、工具或影響力去施加作用",
+        "use": "適合描述擁有的東西被拿來操作世界的句子。"
+      },
+      "others": [
+        {
+          "word": "Possess",
+          "meaning": "擁有、持有或具備",
+          "use": "若只是有某物，用 <code>possess</code>；若拿來施力，用 wield。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 governance、media 和 data work 裡，<code>wield</code> 提醒人 influence is an instrument, not a decoration。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wield",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wield",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wield",
+    "word": "Wield",
+    "partOfSpeech": "verb",
+    "href": "./wield.html",
+    "thesis": "不是只是擁有，而是主動拿著權力、工具或影響力去施加作用。",
+    "tags": [
+      "運用施展",
+      "拿來產生作用",
+      "possess",
+      "wield power",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wield",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wield",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wield",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

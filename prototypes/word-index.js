@@ -11226,5 +11226,1705 @@ window.WORD_INDEX = [
       "sway the decision",
       "verb"
     ]
+  },
+  {
+    id: "taint",
+    word: "Taint",
+    partOfSpeech: "verb",
+    href: "./taint.html",
+    order: 601,
+    cefr: "C1",
+    zipf: 3.02,
+    thesis: "不是普通弄髒，而是讓名聲、證據或判斷沾上難以忽略的污點。",
+    tags: [
+      "玷污污染",
+      "可信度受損",
+      "stain",
+      "tainted evidence",
+      "verb"
+    ]
+  },
+  {
+    id: "tangible",
+    word: "Tangible",
+    partOfSpeech: "adjective",
+    href: "./tangible.html",
+    order: 602,
+    cefr: "C1",
+    zipf: 3.54,
+    thesis: "不是只是能摸到，而是把抽象成果變成看得見、量得到或拿得出來的證據。",
+    tags: [
+      "具體可感",
+      "可驗證成果",
+      "concrete",
+      "tangible evidence",
+      "adjective"
+    ]
+  },
+  {
+    id: "tantamount",
+    word: "Tantamount",
+    partOfSpeech: "adjective",
+    href: "./tantamount.html",
+    order: 603,
+    cefr: "C2",
+    zipf: 2.72,
+    thesis: "不是差不多相似，而是雖然名義不同，實際效果幾乎等同。",
+    tags: [
+      "實質等同",
+      "名義不同後果相同",
+      "equivalent",
+      "tantamount to",
+      "adjective"
+    ]
+  },
+  {
+    id: "taper",
+    word: "Taper",
+    partOfSpeech: "verb",
+    href: "./taper.html",
+    order: 604,
+    cefr: "C1",
+    zipf: 3.06,
+    thesis: "不是突然停止，而是讓強度、數量或形狀逐步變小。",
+    tags: [
+      "逐步減少",
+      "平穩收尾",
+      "stop",
+      "taper off",
+      "verb"
+    ]
+  },
+  {
+    id: "tarnish",
+    word: "Tarnish",
+    partOfSpeech: "verb",
+    href: "./tarnish.html",
+    order: 605,
+    cefr: "C1",
+    zipf: 2.92,
+    thesis: "不是單純變髒，而是讓原本明亮、體面或受尊重的東西失去光澤。",
+    tags: [
+      "失去光澤",
+      "名譽受損",
+      "damage",
+      "tarnish a reputation",
+      "verb"
+    ]
+  },
+  {
+    id: "taut",
+    word: "Taut",
+    partOfSpeech: "adjective",
+    href: "./taut.html",
+    order: 606,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是只是緊，而是拉到沒有鬆弛空間，情緒或線條都繃住。",
+    tags: [
+      "緊繃精煉",
+      "張力拉滿",
+      "tight",
+      "taut prose",
+      "adjective"
+    ]
+  },
+  {
+    id: "taxing",
+    word: "Taxing",
+    partOfSpeech: "adjective",
+    href: "./taxing.html",
+    order: 607,
+    cefr: "C1",
+    zipf: 3.13,
+    thesis: "不是和稅務有關而已，而是大量消耗體力、心力或耐性。",
+    tags: [
+      "吃力耗能",
+      "負荷邊界",
+      "difficult",
+      "emotionally taxing",
+      "adjective"
+    ]
+  },
+  {
+    id: "teeming",
+    word: "Teeming",
+    partOfSpeech: "adjective",
+    href: "./teeming.html",
+    order: 608,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是只是很多，而是多到像在表面或空間裡持續湧動。",
+    tags: [
+      "密集湧動",
+      "充滿生命",
+      "crowded",
+      "teeming with life",
+      "adjective"
+    ]
+  },
+  {
+    id: "temperate",
+    word: "Temperate",
+    partOfSpeech: "adjective",
+    href: "./temperate.html",
+    order: 609,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是只是溫度剛好，而是氣候、態度或行為保持節制，不走向極端。",
+    tags: [
+      "溫和節制",
+      "避免極端",
+      "moderate",
+      "temperate tone",
+      "adjective"
+    ]
+  },
+  {
+    id: "tempestuous",
+    word: "Tempestuous",
+    partOfSpeech: "adjective",
+    href: "./tempestuous.html",
+    order: 610,
+    cefr: "C2",
+    zipf: 2.32,
+    thesis: "不是只是情緒大，而是像暴風雨一樣激烈、混亂、難以平穩。",
+    tags: [
+      "暴風般激烈",
+      "劇烈波動",
+      "stormy",
+      "tempestuous relationship",
+      "adjective"
+    ]
+  },
+  {
+    id: "tenet",
+    word: "Tenet",
+    partOfSpeech: "noun",
+    href: "./tenet.html",
+    order: 611,
+    cefr: "C2",
+    zipf: 2.84,
+    thesis: "不是普通意見，而是一套信念或理論裡被拿來支撐其他判斷的基本原則。",
+    tags: [
+      "核心信條",
+      "支撐判斷",
+      "principle",
+      "central tenet",
+      "noun"
+    ]
+  },
+  {
+    id: "terse",
+    word: "Terse",
+    partOfSpeech: "adjective",
+    href: "./terse.html",
+    order: 612,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是只是簡短，而是短到帶有冷、硬或不耐煩的語氣。",
+    tags: [
+      "簡短冷硬",
+      "字少語氣硬",
+      "concise",
+      "terse reply",
+      "adjective"
+    ]
+  },
+  {
+    id: "tether",
+    word: "Tether",
+    partOfSpeech: "verb",
+    href: "./tether.html",
+    order: 613,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是普通連接，而是用繩索、限制或依賴把一端固定住。",
+    tags: [
+      "拴住連接",
+      "自由受限",
+      "attach",
+      "tethered to",
+      "verb"
+    ]
+  },
+  {
+    id: "threshold",
+    word: "Threshold",
+    partOfSpeech: "noun",
+    href: "./threshold.html",
+    order: 614,
+    cefr: "C1",
+    zipf: 3.81,
+    thesis: "不是普通門口，而是一旦跨過就會觸發變化、判斷或新階段的邊界。",
+    tags: [
+      "門檻臨界點",
+      "跨線觸發",
+      "limit",
+      "alert threshold",
+      "noun"
+    ]
+  },
+  {
+    id: "thrive",
+    word: "Thrive",
+    partOfSpeech: "verb",
+    href: "./thrive.html",
+    order: 615,
+    cefr: "B2",
+    zipf: 3.64,
+    thesis: "不是只是活著，而是在某種環境中長得好、表現好、持續變強。",
+    tags: [
+      "蓬勃發展",
+      "環境餵養成長",
+      "survive",
+      "thrive under pressure",
+      "verb"
+    ]
+  },
+  {
+    id: "thwart",
+    word: "Thwart",
+    partOfSpeech: "verb",
+    href: "./thwart.html",
+    order: 616,
+    cefr: "C1",
+    zipf: 2.85,
+    thesis: "不是只是阻礙，而是在計畫快要推進時把它擋下或破壞。",
+    tags: [
+      "阻止破壞",
+      "成功被截斷",
+      "hinder",
+      "thwart an attack",
+      "verb"
+    ]
+  },
+  {
+    id: "timid",
+    word: "Timid",
+    partOfSpeech: "adjective",
+    href: "./timid.html",
+    order: 617,
+    cefr: "B2",
+    zipf: 3.08,
+    thesis: "不是只是安靜，而是因為怕錯、怕衝突或怕風險而不敢伸展。",
+    tags: [
+      "膽怯退縮",
+      "行動被害怕縮小",
+      "shy",
+      "timid approach",
+      "adjective"
+    ]
+  },
+  {
+    id: "tinge",
+    word: "Tinge",
+    partOfSpeech: "noun",
+    href: "./tinge.html",
+    order: 618,
+    cefr: "C1",
+    zipf: 2.88,
+    thesis: "不是完整顏色，而是一點淡淡的顏色、情緒或味道滲在整體裡。",
+    tags: [
+      "淡淡色調",
+      "微量偏向",
+      "color",
+      "tinge of sadness",
+      "noun"
+    ]
+  },
+  {
+    id: "toil",
+    word: "Toil",
+    partOfSpeech: "verb",
+    href: "./toil.html",
+    order: 619,
+    cefr: "C1",
+    zipf: 2.75,
+    thesis: "不是普通工作，而是長時間、吃力、帶著辛苦感地勞動。",
+    tags: [
+      "辛苦勞動",
+      "持續耗力",
+      "work",
+      "years of toil",
+      "verb"
+    ]
+  },
+  {
+    id: "tolerate",
+    word: "Tolerate",
+    partOfSpeech: "verb",
+    href: "./tolerate.html",
+    order: 620,
+    cefr: "B2",
+    zipf: 3.66,
+    thesis: "不是喜歡或同意，而是不喜歡、不舒服或不同意，仍讓它存在。",
+    tags: [
+      "容忍承受",
+      "忍住不代表認可",
+      "accept",
+      "fault tolerant",
+      "verb"
+    ]
+  },
+  {
+    id: "torment",
+    word: "Torment",
+    partOfSpeech: "noun",
+    href: "./torment.html",
+    order: 621,
+    cefr: "C1",
+    zipf: 3.02,
+    thesis: "不是普通痛苦，而是反覆折磨人的痛苦，像被持續拉扯。",
+    tags: [
+      "折磨痛苦",
+      "反覆侵擾",
+      "pain",
+      "inner torment",
+      "noun"
+    ]
+  },
+  {
+    id: "torrent",
+    word: "Torrent",
+    partOfSpeech: "noun",
+    href: "./torrent.html",
+    order: 622,
+    cefr: "C1",
+    zipf: 2.96,
+    thesis: "不是普通大量，而是像急流一樣猛烈湧來的大量事物。",
+    tags: [
+      "急流大量湧來",
+      "來勢猛烈",
+      "stream",
+      "torrent of data",
+      "noun"
+    ]
+  },
+  {
+    id: "torpor",
+    word: "Torpor",
+    partOfSpeech: "noun",
+    href: "./torpor.html",
+    order: 623,
+    cefr: "C2",
+    zipf: 2.07,
+    thesis: "不是普通懶惰，而是身體或精神沉入遲鈍、低活性的停滯。",
+    tags: [
+      "昏沉遲鈍",
+      "低活性停滯",
+      "laziness",
+      "mental torpor",
+      "noun"
+    ]
+  },
+  {
+    id: "tout",
+    word: "Tout",
+    partOfSpeech: "verb",
+    href: "./tout.html",
+    order: 624,
+    cefr: "C1",
+    zipf: 3.21,
+    thesis: "不是單純介紹，而是高調宣傳某物的優點，常帶推銷或造勢感。",
+    tags: [
+      "高調宣傳",
+      "推銷造勢",
+      "praise",
+      "tout the benefits",
+      "verb"
+    ]
+  },
+  {
+    id: "tractable",
+    word: "Tractable",
+    partOfSpeech: "adjective",
+    href: "./tractable.html",
+    order: 625,
+    cefr: "C2",
+    zipf: 2.54,
+    thesis: "不是只是簡單，而是複雜度被控制到可以處理、管理或求解。",
+    tags: [
+      "可處理可求解",
+      "複雜度受控",
+      "easy",
+      "tractable problem",
+      "adjective"
+    ]
+  },
+  {
+    id: "transcend",
+    word: "Transcend",
+    partOfSpeech: "verb",
+    href: "./transcend.html",
+    order: 626,
+    cefr: "C1",
+    zipf: 3.17,
+    thesis: "不是只是超過數量，而是越過原本分類、限制或層級，進到更高或更廣的範圍。",
+    tags: [
+      "超越框架",
+      "越過限制",
+      "exceed",
+      "transcend boundaries",
+      "verb"
+    ]
+  },
+  {
+    id: "transgress",
+    word: "Transgress",
+    partOfSpeech: "verb",
+    href: "./transgress.html",
+    order: 627,
+    cefr: "C2",
+    zipf: 2.20,
+    thesis: "不是普通犯錯，而是越過道德、法律或社會規範的界線。",
+    tags: [
+      "越界違規",
+      "道德禁線",
+      "violate",
+      "transgress norms",
+      "verb"
+    ]
+  },
+  {
+    id: "transient",
+    word: "Transient",
+    partOfSpeech: "adjective",
+    href: "./transient.html",
+    order: 628,
+    cefr: "C1",
+    zipf: 3.00,
+    thesis: "不是只是很短，而是短暫經過，不會久留，也不該被當作穩態。",
+    tags: [
+      "短暫過渡",
+      "不成穩態",
+      "temporary",
+      "transient error",
+      "adjective"
+    ]
+  },
+  {
+    id: "translucent",
+    word: "Translucent",
+    partOfSpeech: "adjective",
+    href: "./translucent.html",
+    order: 629,
+    cefr: "C1",
+    zipf: 2.79,
+    thesis: "不是完全透明，而是讓光穿過，卻不讓輪廓完全清楚。",
+    tags: [
+      "半透明",
+      "透光不清晰",
+      "transparent",
+      "translucent glass",
+      "adjective"
+    ]
+  },
+  {
+    id: "transmute",
+    word: "Transmute",
+    partOfSpeech: "verb",
+    href: "./transmute.html",
+    order: 630,
+    cefr: "C2",
+    zipf: 2.14,
+    thesis: "不是普通改變，而是把一種性質轉成另一種性質，像材料或精神被煉成別的東西。",
+    tags: [
+      "本質轉化",
+      "煉金感",
+      "transform",
+      "transmute pain into art",
+      "verb"
+    ]
+  },
+  {
+    id: "traverse",
+    word: "Traverse",
+    partOfSpeech: "verb",
+    href: "./traverse.html",
+    order: 631,
+    cefr: "C1",
+    zipf: 2.87,
+    thesis: "不是只是走過，而是橫越一段空間、結構或資料路徑。",
+    tags: [
+      "橫越遍歷",
+      "沿路徑掃過",
+      "cross",
+      "traverse a tree",
+      "verb"
+    ]
+  },
+  {
+    id: "treacherous",
+    word: "Treacherous",
+    partOfSpeech: "adjective",
+    href: "./treacherous.html",
+    order: 632,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是普通危險，而是表面可能看似可走，實際暗藏會背叛信任的危險。",
+    tags: [
+      "暗藏危險",
+      "信任被背叛",
+      "dangerous",
+      "treacherous road",
+      "adjective"
+    ]
+  },
+  {
+    id: "tremor",
+    word: "Tremor",
+    partOfSpeech: "noun",
+    href: "./tremor.html",
+    order: 633,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是大地震，而是細小但可感的震動，透露底下有力量在動。",
+    tags: [
+      "細小震動",
+      "可感不穩",
+      "quake",
+      "slight tremor",
+      "noun"
+    ]
+  },
+  {
+    id: "trenchant",
+    word: "Trenchant",
+    partOfSpeech: "adjective",
+    href: "./trenchant.html",
+    order: 634,
+    cefr: "C2",
+    zipf: 2.18,
+    thesis: "不是只是尖酸，而是批評或分析鋒利到能切開問題表面。",
+    tags: [
+      "鋒利批評",
+      "切中要害",
+      "sharp",
+      "trenchant critique",
+      "adjective"
+    ]
+  },
+  {
+    id: "trivial",
+    word: "Trivial",
+    partOfSpeech: "adjective",
+    href: "./trivial.html",
+    order: 635,
+    cefr: "B2",
+    zipf: 3.59,
+    thesis: "不是只是簡單，而是小到不值得投入太多注意，或在技術上沒有真正挑戰。",
+    tags: [
+      "微不足道",
+      "低重要性",
+      "easy",
+      "non-trivial problem",
+      "adjective"
+    ]
+  },
+  {
+    id: "truncate",
+    word: "Truncate",
+    partOfSpeech: "verb",
+    href: "./truncate.html",
+    order: 636,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是普通縮短，而是從尾端切掉一部分，使原本完整的東西變短。",
+    tags: [
+      "截短切尾",
+      "超出範圍被切",
+      "shorten",
+      "truncate a string",
+      "verb"
+    ]
+  },
+  {
+    id: "truculent",
+    word: "Truculent",
+    partOfSpeech: "adjective",
+    href: "./truculent.html",
+    order: 637,
+    cefr: "C2",
+    zipf: 1.73,
+    thesis: "不是只是生氣，而是好鬥、粗暴，像隨時準備挑起衝突。",
+    tags: [
+      "好鬥粗暴",
+      "攻擊姿態",
+      "aggressive",
+      "truculent tone",
+      "adjective"
+    ]
+  },
+  {
+    id: "tumult",
+    word: "Tumult",
+    partOfSpeech: "noun",
+    href: "./tumult.html",
+    order: 638,
+    cefr: "C2",
+    zipf: 2.45,
+    thesis: "不是普通吵鬧，而是人群、情緒或事件一起翻攪造成的混亂喧騰。",
+    tags: [
+      "混亂喧騰",
+      "多股力量失序",
+      "noise",
+      "political tumult",
+      "noun"
+    ]
+  },
+  {
+    id: "tumultuous",
+    word: "Tumultuous",
+    partOfSpeech: "adjective",
+    href: "./tumultuous.html",
+    order: 639,
+    cefr: "C1",
+    zipf: 2.72,
+    thesis: "不是只是忙亂，而是充滿混亂、聲浪、情緒與劇烈變化。",
+    tags: [
+      "動盪喧騰",
+      "劇烈變化",
+      "chaotic",
+      "tumultuous period",
+      "adjective"
+    ]
+  },
+  {
+    id: "turbid",
+    word: "Turbid",
+    partOfSpeech: "adjective",
+    href: "./turbid.html",
+    order: 640,
+    cefr: "C2",
+    zipf: 1.90,
+    thesis: "不是只是髒，而是液體因懸浮物而混濁，看不清底下。",
+    tags: [
+      "混濁不清",
+      "懸浮物遮蔽",
+      "cloudy",
+      "turbid water",
+      "adjective"
+    ]
+  },
+  {
+    id: "turbulent",
+    word: "Turbulent",
+    partOfSpeech: "adjective",
+    href: "./turbulent.html",
+    order: 641,
+    cefr: "C1",
+    zipf: 3.02,
+    thesis: "不是普通不順，而是流動、情勢或情緒劇烈翻攪，難以穩定。",
+    tags: [
+      "動盪紊流",
+      "內部翻攪",
+      "unstable",
+      "turbulent times",
+      "adjective"
+    ]
+  },
+  {
+    id: "turmoil",
+    word: "Turmoil",
+    partOfSpeech: "noun",
+    href: "./turmoil.html",
+    order: 642,
+    cefr: "C1",
+    zipf: 3.06,
+    thesis: "不是普通問題，而是一段時間裡混亂、不安和壓力交織成的動盪。",
+    tags: [
+      "混亂動盪",
+      "安全感下降",
+      "trouble",
+      "political turmoil",
+      "noun"
+    ]
+  },
+  {
+    id: "ubiquitous",
+    word: "Ubiquitous",
+    partOfSpeech: "adjective",
+    href: "./ubiquitous.html",
+    order: 643,
+    cefr: "C1",
+    zipf: 3.10,
+    thesis: "不是只是很多，而是到處都看得到，像環境背景的一部分。",
+    tags: [
+      "無所不在",
+      "到處成常態",
+      "common",
+      "ubiquitous technology",
+      "adjective"
+    ]
+  },
+  {
+    id: "ulterior",
+    word: "Ulterior",
+    partOfSpeech: "adjective",
+    href: "./ulterior.html",
+    order: 644,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是普通目的，而是表面理由之外另有隱藏動機。",
+    tags: [
+      "隱藏動機",
+      "表面理由之外",
+      "hidden",
+      "ulterior motive",
+      "adjective"
+    ]
+  },
+  {
+    id: "uncanny",
+    word: "Uncanny",
+    partOfSpeech: "adjective",
+    href: "./uncanny.html",
+    order: 645,
+    cefr: "C1",
+    zipf: 3.24,
+    thesis: "不是只是奇怪，而是熟悉得不自然，讓人感到詭異或不安。",
+    tags: [
+      "詭異熟悉",
+      "不自然相似",
+      "strange",
+      "uncanny resemblance",
+      "adjective"
+    ]
+  },
+  {
+    id: "unearth",
+    word: "Unearth",
+    partOfSpeech: "verb",
+    href: "./unearth.html",
+    order: 646,
+    cefr: "C1",
+    zipf: 2.83,
+    thesis: "不是普通找到，而是把原本埋著、藏著或被忽略的東西挖出來。",
+    tags: [
+      "挖出揭露",
+      "隱藏事物出土",
+      "find",
+      "unearth evidence",
+      "verb"
+    ]
+  },
+  {
+    id: "unequivocal",
+    word: "Unequivocal",
+    partOfSpeech: "adjective",
+    href: "./unequivocal.html",
+    order: 647,
+    cefr: "C2",
+    zipf: 2.93,
+    thesis: "不是只是清楚，而是明確到沒有留下模糊解讀或退路。",
+    tags: [
+      "無歧義明確",
+      "不留退路",
+      "clear",
+      "unequivocal evidence",
+      "adjective"
+    ]
+  },
+  {
+    id: "unilateral",
+    word: "Unilateral",
+    partOfSpeech: "adjective",
+    href: "./unilateral.html",
+    order: 648,
+    cefr: "C1",
+    zipf: 3.00,
+    thesis: "不是只是單一，而是由一方自行決定或行動，沒有雙方協商。",
+    tags: [
+      "單方面",
+      "未經協商",
+      "mutual",
+      "unilateral decision",
+      "adjective"
+    ]
+  },
+  {
+    id: "unravel",
+    word: "Unravel",
+    partOfSpeech: "verb",
+    href: "./unravel.html",
+    order: 649,
+    cefr: "C1",
+    zipf: 3.05,
+    thesis: "不是只是解開，而是把糾結拆開，或讓原本成形的東西開始散掉。",
+    tags: [
+      "拆解瓦解",
+      "糾結被拉開",
+      "solve",
+      "unravel a mystery",
+      "verb"
+    ]
+  },
+  {
+    id: "unscathed",
+    word: "Unscathed",
+    partOfSpeech: "adjective",
+    href: "./unscathed.html",
+    order: 650,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是只是沒事，而是經過危險或壓力後沒有受傷、受損或留下明顯代價。",
+    tags: [
+      "安然無恙",
+      "經風險未受損",
+      "safe",
+      "escape unscathed",
+      "adjective"
+    ]
+  },
+  {
+    id: "unsettle",
+    word: "Unsettle",
+    partOfSpeech: "verb",
+    href: "./unsettle.html",
+    order: 651,
+    cefr: "C1",
+    zipf: 3.07,
+    thesis: "不是普通打擾，而是動搖人的安定感，讓心裡或局勢不再穩。",
+    tags: [
+      "使不安動搖",
+      "安全感被移開",
+      "disturb",
+      "deeply unsettling",
+      "verb"
+    ]
+  },
+  {
+    id: "unwieldy",
+    word: "Unwieldy",
+    partOfSpeech: "adjective",
+    href: "./unwieldy.html",
+    order: 652,
+    cefr: "C1",
+    zipf: 2.85,
+    thesis: "不是只是很大，而是大、重或複雜到難以操作和控制。",
+    tags: [
+      "笨重難控",
+      "複雜度過大",
+      "large",
+      "unwieldy system",
+      "adjective"
+    ]
+  },
+  {
+    id: "unyielding",
+    word: "Unyielding",
+    partOfSpeech: "adjective",
+    href: "./unyielding.html",
+    order: 653,
+    cefr: "C1",
+    zipf: 2.56,
+    thesis: "不是只是堅持，而是在壓力下不讓步、不彎曲、不降低要求。",
+    tags: [
+      "不讓步不彎",
+      "壓力下不退",
+      "firm",
+      "unyielding stance",
+      "adjective"
+    ]
+  },
+  {
+    id: "upend",
+    word: "Upend",
+    partOfSpeech: "verb",
+    href: "./upend.html",
+    order: 654,
+    cefr: "C1",
+    zipf: 2.86,
+    thesis: "不是普通改變，而是把原本穩定的安排整個翻倒，使方向顛倒。",
+    tags: [
+      "顛覆翻倒",
+      "整體翻面",
+      "change",
+      "upend the market",
+      "verb"
+    ]
+  },
+  {
+    id: "uphold",
+    word: "Uphold",
+    partOfSpeech: "verb",
+    href: "./uphold.html",
+    order: 655,
+    cefr: "C1",
+    zipf: 3.16,
+    thesis: "不是只是支持，而是在壓力或質疑下維持原則、判決或標準有效。",
+    tags: [
+      "維護維持",
+      "壓力下托住",
+      "support",
+      "uphold standards",
+      "verb"
+    ]
+  },
+  {
+    id: "uproot",
+    word: "Uproot",
+    partOfSpeech: "verb",
+    href: "./uproot.html",
+    order: 656,
+    cefr: "C1",
+    zipf: 2.52,
+    thesis: "不是普通搬走，而是把人、植物或制度從原本扎根的地方拔起。",
+    tags: [
+      "連根拔起",
+      "根基斷裂",
+      "move",
+      "uproot old habits",
+      "verb"
+    ]
+  },
+  {
+    id: "uproar",
+    word: "Uproar",
+    partOfSpeech: "noun",
+    href: "./uproar.html",
+    order: 657,
+    cefr: "C1",
+    zipf: 2.77,
+    thesis: "不是普通噪音，而是人群因憤怒、驚訝或不滿爆出的喧鬧反應。",
+    tags: [
+      "公眾譁然",
+      "群體情緒爆開",
+      "noise",
+      "public uproar",
+      "noun"
+    ]
+  },
+  {
+    id: "usurp",
+    word: "Usurp",
+    partOfSpeech: "verb",
+    href: "./usurp.html",
+    order: 658,
+    cefr: "C2",
+    zipf: 2.28,
+    thesis: "不是普通取得，而是不正當地奪取原本不屬於自己的權力或位置。",
+    tags: [
+      "篡奪權力",
+      "正當性被破壞",
+      "take",
+      "usurp authority",
+      "verb"
+    ]
+  },
+  {
+    id: "utilitarian",
+    word: "Utilitarian",
+    partOfSpeech: "adjective",
+    href: "./utilitarian.html",
+    order: 659,
+    cefr: "C1",
+    zipf: 2.89,
+    thesis: "不是只是有用，而是把實用功能放在美感、情感或象徵之前。",
+    tags: [
+      "實用功能優先",
+      "以用途衡量",
+      "practical",
+      "utilitarian design",
+      "adjective"
+    ]
+  },
+  {
+    id: "utmost",
+    word: "Utmost",
+    partOfSpeech: "adjective",
+    href: "./utmost.html",
+    order: 660,
+    cefr: "C1",
+    zipf: 3.19,
+    thesis: "不是普通重要，而是程度到最高、最遠或最不能再少的上限。",
+    tags: [
+      "最高程度",
+      "最大限度",
+      "great",
+      "utmost care",
+      "adjective"
+    ]
+  },
+  {
+    id: "vacillate",
+    word: "Vacillate",
+    partOfSpeech: "verb",
+    href: "./vacillate.html",
+    order: 661,
+    cefr: "C2",
+    zipf: 2.03,
+    thesis: "不是普通思考，而是在選項之間來回搖擺，遲遲不能定下來。",
+    tags: [
+      "反覆猶豫",
+      "立場搖擺",
+      "hesitate",
+      "vacillate between",
+      "verb"
+    ]
+  },
+  {
+    id: "vague",
+    word: "Vague",
+    partOfSpeech: "adjective",
+    href: "./vague.html",
+    order: 662,
+    cefr: "B2",
+    zipf: 3.87,
+    thesis: "不是完全不知道，而是輪廓有一點，但邊界、細節或責任不清楚。",
+    tags: [
+      "模糊不精確",
+      "細節不足",
+      "ambiguous",
+      "vague requirement",
+      "adjective"
+    ]
+  },
+  {
+    id: "valiant",
+    word: "Valiant",
+    partOfSpeech: "adjective",
+    href: "./valiant.html",
+    order: 663,
+    cefr: "C1",
+    zipf: 2.66,
+    thesis: "不是只是勇敢，而是在困難或危險下仍值得尊敬地奮力而為。",
+    tags: [
+      "英勇奮戰",
+      "努力值得敬重",
+      "brave",
+      "valiant effort",
+      "adjective"
+    ]
+  },
+  {
+    id: "validate",
+    word: "Validate",
+    partOfSpeech: "verb",
+    href: "./validate.html",
+    order: 664,
+    cefr: "B2",
+    zipf: 3.84,
+    thesis: "不是只是同意，而是用證據、規則或承認讓某件事變得有效或站得住。",
+    tags: [
+      "確認有效",
+      "被承認站得住",
+      "confirm",
+      "validate assumption",
+      "verb"
+    ]
+  },
+  {
+    id: "valor",
+    word: "Valor",
+    partOfSpeech: "noun",
+    href: "./valor.html",
+    order: 665,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是普通勇氣，而是面對危險時值得尊敬的英勇。",
+    tags: [
+      "英勇勇氣",
+      "危險中的尊敬",
+      "courage",
+      "acts of valor",
+      "noun"
+    ]
+  },
+  {
+    id: "vantage",
+    word: "Vantage",
+    partOfSpeech: "noun",
+    href: "./vantage.html",
+    order: 666,
+    cefr: "C1",
+    zipf: 2.70,
+    thesis: "不是普通位置，而是讓你看清局勢或取得優勢的觀察位置。",
+    tags: [
+      "有利視角",
+      "位置帶來判斷",
+      "viewpoint",
+      "vantage point",
+      "noun"
+    ]
+  },
+  {
+    id: "vehement",
+    word: "Vehement",
+    partOfSpeech: "adjective",
+    href: "./vehement.html",
+    order: 667,
+    cefr: "C1",
+    zipf: 2.64,
+    thesis: "不是只是大聲，而是情緒或立場強烈到帶有猛烈推力。",
+    tags: [
+      "強烈猛烈",
+      "情緒推力",
+      "strong",
+      "vehement opposition",
+      "adjective"
+    ]
+  },
+  {
+    id: "veneer",
+    word: "Veneer",
+    partOfSpeech: "noun",
+    href: "./veneer.html",
+    order: 668,
+    cefr: "C1",
+    zipf: 2.78,
+    thesis: "不是普通表面，而是薄薄一層好看的外皮，遮住底下不同的材質或真相。",
+    tags: [
+      "表面薄皮",
+      "遮住底層",
+      "surface",
+      "thin veneer",
+      "noun"
+    ]
+  },
+  {
+    id: "venerate",
+    word: "Venerate",
+    partOfSpeech: "verb",
+    href: "./venerate.html",
+    order: 669,
+    cefr: "C2",
+    zipf: 2.12,
+    thesis: "不是普通喜歡，而是帶著敬畏和傳統重量地尊崇某人或某物。",
+    tags: [
+      "尊崇敬奉",
+      "抬高到權威",
+      "admire",
+      "venerated figure",
+      "verb"
+    ]
+  },
+  {
+    id: "verbose",
+    word: "Verbose",
+    partOfSpeech: "adjective",
+    href: "./verbose.html",
+    order: 670,
+    cefr: "C1",
+    zipf: 2.76,
+    thesis: "不是只是詳細，而是字太多，讓資訊被冗長包住。",
+    tags: [
+      "冗長多話",
+      "字多稀釋清晰",
+      "detailed",
+      "verbose output",
+      "adjective"
+    ]
+  },
+  {
+    id: "verdict",
+    word: "Verdict",
+    partOfSpeech: "noun",
+    href: "./verdict.html",
+    order: 671,
+    cefr: "B2",
+    zipf: 3.51,
+    thesis: "不是普通意見，而是經過審理、評估或判斷後給出的正式結論。",
+    tags: [
+      "裁決結論",
+      "評估後定論",
+      "opinion",
+      "final verdict",
+      "noun"
+    ]
+  },
+  {
+    id: "verge",
+    word: "Verge",
+    partOfSpeech: "noun",
+    href: "./verge.html",
+    order: 672,
+    cefr: "C1",
+    zipf: 3.08,
+    thesis: "不是普通邊緣，而是快要跨入某個狀態前的邊界。",
+    tags: [
+      "臨界邊緣",
+      "即將跨入",
+      "edge",
+      "on the verge of",
+      "noun"
+    ]
+  },
+  {
+    id: "versatile",
+    word: "Versatile",
+    partOfSpeech: "adjective",
+    href: "./versatile.html",
+    order: 673,
+    cefr: "B2",
+    zipf: 3.35,
+    thesis: "不是只是會很多，而是能在不同用途、情境或角色之間切換而仍有效。",
+    tags: [
+      "多用途靈活",
+      "場景切換仍有效",
+      "flexible",
+      "versatile tool",
+      "adjective"
+    ]
+  },
+  {
+    id: "vestige",
+    word: "Vestige",
+    partOfSpeech: "noun",
+    href: "./vestige.html",
+    order: 674,
+    cefr: "C2",
+    zipf: 2.46,
+    thesis: "不是普通剩下，而是過去事物留下的一點痕跡或殘餘。",
+    tags: [
+      "殘跡遺留",
+      "過去微弱殘影",
+      "remnant",
+      "last vestige",
+      "noun"
+    ]
+  },
+  {
+    id: "vex",
+    word: "Vex",
+    partOfSpeech: "verb",
+    href: "./vex.html",
+    order: 675,
+    cefr: "C2",
+    zipf: 2.52,
+    thesis: "不是普通惹怒，而是用小而持續的麻煩讓人煩躁或困擾。",
+    tags: [
+      "煩擾困住",
+      "小刺反覆戳",
+      "annoy",
+      "vexing problem",
+      "verb"
+    ]
+  },
+  {
+    id: "vigilant",
+    word: "Vigilant",
+    partOfSpeech: "adjective",
+    href: "./vigilant.html",
+    order: 676,
+    cefr: "C1",
+    zipf: 2.98,
+    thesis: "不是只是小心，而是持續保持警覺，準備及早發現風險。",
+    tags: [
+      "保持警覺",
+      "風險早期發現",
+      "careful",
+      "remain vigilant",
+      "adjective"
+    ]
+  },
+  {
+    id: "vilify",
+    word: "Vilify",
+    partOfSpeech: "verb",
+    href: "./vilify.html",
+    order: 677,
+    cefr: "C2",
+    zipf: 2.36,
+    thesis: "不是普通批評，而是把某人描成壞人，讓公眾用道德厭惡看他。",
+    tags: [
+      "醜化中傷",
+      "道德抹黑",
+      "criticize",
+      "vilify opponents",
+      "verb"
+    ]
+  },
+  {
+    id: "vindicate",
+    word: "Vindicate",
+    partOfSpeech: "verb",
+    href: "./vindicate.html",
+    order: 678,
+    cefr: "C2",
+    zipf: 2.78,
+    thesis: "不是普通證明，而是用結果或證據洗清質疑，證明原本立場站得住。",
+    tags: [
+      "證明清白正確",
+      "質疑被翻回",
+      "justify",
+      "feel vindicated",
+      "verb"
+    ]
+  },
+  {
+    id: "vindictive",
+    word: "Vindictive",
+    partOfSpeech: "adjective",
+    href: "./vindictive.html",
+    order: 679,
+    cefr: "C2",
+    zipf: 2.49,
+    thesis: "不是只是生氣，而是帶著報復心，想讓對方為冒犯付出代價。",
+    tags: [
+      "報復心",
+      "怒氣轉成懲罰",
+      "angry",
+      "vindictive behavior",
+      "adjective"
+    ]
+  },
+  {
+    id: "visceral",
+    word: "Visceral",
+    partOfSpeech: "adjective",
+    href: "./visceral.html",
+    order: 680,
+    cefr: "C1",
+    zipf: 2.87,
+    thesis: "不是只是強烈，而是反應像從身體深處冒出，還沒被理性整理。",
+    tags: [
+      "本能深層",
+      "身體先反應",
+      "emotional",
+      "visceral reaction",
+      "adjective"
+    ]
+  },
+  {
+    id: "vitriol",
+    word: "Vitriol",
+    partOfSpeech: "noun",
+    href: "./vitriol.html",
+    order: 681,
+    cefr: "C2",
+    zipf: 2.28,
+    thesis: "不是普通批評，而是像酸液一樣灼人的惡毒言語。",
+    tags: [
+      "惡毒言語",
+      "酸性攻擊",
+      "criticism",
+      "online vitriol",
+      "noun"
+    ]
+  },
+  {
+    id: "vivacious",
+    word: "Vivacious",
+    partOfSpeech: "adjective",
+    href: "./vivacious.html",
+    order: 682,
+    cefr: "C1",
+    zipf: 2.45,
+    thesis: "不是只是外向，而是活潑有生命力，讓周圍氣氛被點亮。",
+    tags: [
+      "活潑有魅力",
+      "點亮氣氛",
+      "lively",
+      "vivacious personality",
+      "adjective"
+    ]
+  },
+  {
+    id: "voracious",
+    word: "Voracious",
+    partOfSpeech: "adjective",
+    href: "./voracious.html",
+    order: 683,
+    cefr: "C1",
+    zipf: 2.74,
+    thesis: "不是只是喜歡，而是胃口或慾望大到快速吞進大量東西。",
+    tags: [
+      "貪婪大量攝取",
+      "需求像吞食",
+      "hungry",
+      "voracious reader",
+      "adjective"
+    ]
+  },
+  {
+    id: "vouch",
+    word: "Vouch",
+    partOfSpeech: "verb",
+    href: "./vouch.html",
+    order: 684,
+    cefr: "C1",
+    zipf: 2.85,
+    thesis: "不是只是說好話，而是用自己的信用替某人或某事背書。",
+    tags: [
+      "背書擔保",
+      "押上信用",
+      "recommend",
+      "vouch for",
+      "verb"
+    ]
+  },
+  {
+    id: "waive",
+    word: "Waive",
+    partOfSpeech: "verb",
+    href: "./waive.html",
+    order: 685,
+    cefr: "C1",
+    zipf: 3.21,
+    thesis: "不是普通取消，而是自願放棄原本可以主張的權利、費用或要求。",
+    tags: [
+      "放棄免除",
+      "不主張權利",
+      "cancel",
+      "waive a fee",
+      "verb"
+    ]
+  },
+  {
+    id: "wane",
+    word: "Wane",
+    partOfSpeech: "verb",
+    href: "./wane.html",
+    order: 686,
+    cefr: "C1",
+    zipf: 2.93,
+    thesis: "不是突然消失，而是力量、光、興趣或影響力逐漸變弱。",
+    tags: [
+      "逐漸衰退",
+      "光和熱度退去",
+      "decline",
+      "interest wanes",
+      "verb"
+    ]
+  },
+  {
+    id: "wary",
+    word: "Wary",
+    partOfSpeech: "adjective",
+    href: "./wary.html",
+    order: 687,
+    cefr: "B2",
+    zipf: 3.39,
+    thesis: "不是只是害怕，而是因為看見可能風險而保持謹慎距離。",
+    tags: [
+      "謹慎防備",
+      "保留安全距離",
+      "afraid",
+      "wary of",
+      "adjective"
+    ]
+  },
+  {
+    id: "waver",
+    word: "Waver",
+    partOfSpeech: "verb",
+    href: "./waver.html",
+    order: 688,
+    cefr: "C1",
+    zipf: 2.84,
+    thesis: "不是普通改變心意，而是信心、聲音或決心開始搖晃。",
+    tags: [
+      "動搖搖晃",
+      "信心不穩",
+      "hesitate",
+      "waver under pressure",
+      "verb"
+    ]
+  },
+  {
+    id: "wield",
+    word: "Wield",
+    partOfSpeech: "verb",
+    href: "./wield.html",
+    order: 689,
+    cefr: "C1",
+    zipf: 3.04,
+    thesis: "不是只是擁有，而是主動拿著權力、工具或影響力去施加作用。",
+    tags: [
+      "運用施展",
+      "拿來產生作用",
+      "possess",
+      "wield power",
+      "verb"
+    ]
+  },
+  {
+    id: "wistful",
+    word: "Wistful",
+    partOfSpeech: "adjective",
+    href: "./wistful.html",
+    order: 690,
+    cefr: "C1",
+    zipf: 2.57,
+    thesis: "不是普通悲傷，而是帶著柔軟遺憾地想念得不到或已經過去的東西。",
+    tags: [
+      "惆悵懷念",
+      "柔軟遺憾",
+      "sad",
+      "wistful smile",
+      "adjective"
+    ]
+  },
+  {
+    id: "wither",
+    word: "Wither",
+    partOfSpeech: "verb",
+    href: "./wither.html",
+    order: 691,
+    cefr: "C1",
+    zipf: 2.69,
+    thesis: "不是突然死亡，而是因失去水分、活力或支持而慢慢枯萎。",
+    tags: [
+      "枯萎衰退",
+      "生命力被抽乾",
+      "die",
+      "wither away",
+      "verb"
+    ]
+  },
+  {
+    id: "withhold",
+    word: "Withhold",
+    partOfSpeech: "verb",
+    href: "./withhold.html",
+    order: 692,
+    cefr: "C1",
+    zipf: 3.16,
+    thesis: "不是普通沒有給，而是明明可以交出、提供或表達，卻刻意保留。",
+    tags: [
+      "扣留保留",
+      "該給而未給",
+      "keep",
+      "withhold information",
+      "verb"
+    ]
+  },
+  {
+    id: "withstand",
+    word: "Withstand",
+    partOfSpeech: "verb",
+    href: "./withstand.html",
+    order: 693,
+    cefr: "C1",
+    zipf: 3.03,
+    thesis: "不是只是忍耐，而是承受外力、壓力或時間而不倒、不壞、不失效。",
+    tags: [
+      "承受不倒",
+      "壓力下仍有效",
+      "endure",
+      "withstand scrutiny",
+      "verb"
+    ]
+  },
+  {
+    id: "wrench",
+    word: "Wrench",
+    partOfSpeech: "verb",
+    href: "./wrench.html",
+    order: 694,
+    cefr: "C1",
+    zipf: 3.03,
+    thesis: "不是普通拉開，而是用突然、用力或痛苦的方式扭開、拉離。",
+    tags: [
+      "猛扭拉離",
+      "粗暴扭力",
+      "pull",
+      "wrench away",
+      "verb"
+    ]
+  },
+  {
+    id: "wry",
+    word: "Wry",
+    partOfSpeech: "adjective",
+    href: "./wry.html",
+    order: 695,
+    cefr: "C2",
+    zipf: 2.68,
+    thesis: "不是普通好笑，而是帶著乾乾的諷刺和苦笑，像看穿荒謬卻不大聲抱怨。",
+    tags: [
+      "乾冷諷刺",
+      "苦笑幽默",
+      "funny",
+      "wry smile",
+      "adjective"
+    ]
+  },
+  {
+    id: "yearn",
+    word: "Yearn",
+    partOfSpeech: "verb",
+    href: "./yearn.html",
+    order: 696,
+    cefr: "C1",
+    zipf: 2.93,
+    thesis: "不是普通想要，而是深深渴望某個缺席的東西，心往那裡拉。",
+    tags: [
+      "深切渴望",
+      "心被缺席拉住",
+      "want",
+      "yearn for",
+      "verb"
+    ]
+  },
+  {
+    id: "yield",
+    word: "Yield",
+    partOfSpeech: "verb",
+    href: "./yield.html",
+    order: 697,
+    cefr: "B2",
+    zipf: 3.82,
+    thesis: "不是只有產出，而是在壓力、權利或條件下讓出、屈服，或產生結果。",
+    tags: [
+      "讓步產出",
+      "交出優先權",
+      "produce",
+      "yield results",
+      "verb"
+    ]
+  },
+  {
+    id: "yoke",
+    word: "Yoke",
+    partOfSpeech: "noun",
+    href: "./yoke.html",
+    order: 698,
+    cefr: "C2",
+    zipf: 2.35,
+    thesis: "不是普通連接，而是把兩者綁在一起共同承重的束縛或連結。",
+    tags: [
+      "軛束縛",
+      "共同承重",
+      "link",
+      "under the yoke",
+      "noun"
+    ]
+  },
+  {
+    id: "zealous",
+    word: "Zealous",
+    partOfSpeech: "adjective",
+    href: "./zealous.html",
+    order: 699,
+    cefr: "C1",
+    zipf: 2.54,
+    thesis: "不是只是熱心，而是對信念、任務或目標投入強烈熱情，甚至可能過度。",
+    tags: [
+      "熱切投入",
+      "信念推力",
+      "enthusiastic",
+      "overzealous",
+      "adjective"
+    ]
+  },
+  {
+    id: "zenith",
+    word: "Zenith",
+    partOfSpeech: "noun",
+    href: "./zenith.html",
+    order: 700,
+    cefr: "C2",
+    zipf: 2.55,
+    thesis: "不是普通高點，而是某物達到最高峰、最盛或最有力量的位置。",
+    tags: [
+      "巔峰頂點",
+      "最高盛時",
+      "peak",
+      "reach its zenith",
+      "noun"
+    ]
   }
 ];

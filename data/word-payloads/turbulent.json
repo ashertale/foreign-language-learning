@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Turbulent",
+    "slug": "turbulent",
+    "outputPath": "prototypes/turbulent.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TUR-byuh-luhnt · UK /ˈtɜː.bjə.lənt/ · US /ˈtɝː.bjə.lənt/",
+    "hero": {
+      "thesis": "不是普通不順，而是流動、情勢或情緒劇烈翻攪，難以穩定。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.02"
+    },
+    "coreIdea": "<code>turbulent</code> 形容空氣、水流、時局或關係動盪、紊亂；句子的力道來自內部流動失去平滑路徑。",
+    "definition": {
+      "summary": "形容空氣、水流、時局或關係動盪、紊亂。常見語境會讓內部流動失去平滑路徑變得清楚。",
+      "contrast": {
+        "word": "Unstable",
+        "note": "<code>unstable</code> 指不穩；turbulent 更有流體翻攪或局勢動盪的畫面。"
+      },
+      "flow": [
+        "流動加速",
+        "路徑翻攪",
+        "穩定難以維持"
+      ]
+    },
+    "origin": {
+      "history": "<code>turbulent</code> 字源依 Online Etymology Dictionary；來源段落記錄：early 15c., of liquids, \"cloudy, impure;\" mid-15c., of persons, \"disorderly, tumultuous, unruly;\" from Old French turbulent (12c.), from Latin turbulentus \"full of commotion, restless, disturbed, boisterous, stormy,\" figuratively \"troubled, confused,\" from turba \"turmoil, crowd\" (see turbid ). In reference to weather, by 1570s. Related: Turbulently .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>turbulent</code> 想成飛機穿過亂流，空氣看不見，但每個人都感到它在翻。",
+      "explanation": "這個畫面保留的是內部流動失去平滑路徑，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "飛行",
+        "body": "The plane hit <code>turbulent</code> air over the mountains."
+      },
+      {
+        "label": "市場",
+        "body": "那是 a <code>turbulent</code> quarter，需求、匯率和供應都在同時變動。"
+      }
+    ],
+    "collocations": {
+      "note": "Turbulent 的自然搭配多半讓內部流動失去平滑路徑具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "turbulent times",
+          "register": "新聞 / 商務",
+          "note": "時期動盪，很多力量同時翻動。"
+        },
+        {
+          "phrase": "turbulent flow",
+          "register": "工程 / 科學",
+          "note": "流體不是平順流動，而是紊亂翻攪。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "流動、情勢或情緒劇烈翻攪，難以穩定",
+        "use": "適合描述內部流動失去平滑路徑的句子。"
+      },
+      "others": [
+        {
+          "word": "Unstable",
+          "meaning": "不穩定、容易改變",
+          "use": "若只談可靠度不足，用 <code>unstable</code>；若有翻攪動盪，用 turbulent。"
+        }
+      ]
+    },
+    "modernUse": [
+      "商務、航空與流體力學都用 <code>turbulent</code>，把 unstable movement 寫得很有物理感。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/turbulent",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/turbulent",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "turbulent",
+    "word": "Turbulent",
+    "partOfSpeech": "adjective",
+    "href": "./turbulent.html",
+    "thesis": "不是普通不順，而是流動、情勢或情緒劇烈翻攪，難以穩定。",
+    "tags": [
+      "動盪紊流",
+      "內部翻攪",
+      "unstable",
+      "turbulent times",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turbulent",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/turbulent",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turbulent",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

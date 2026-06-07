@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Uncanny",
+    "slug": "uncanny",
+    "outputPath": "prototypes/uncanny.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-KAN-ee · UK /ʌnˈkæn.i/ · US /ʌnˈkæn.i/",
+    "hero": {
+      "thesis": "不是只是奇怪，而是熟悉得不自然，讓人感到詭異或不安。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.24"
+    },
+    "coreIdea": "<code>uncanny</code> 形容某事異常、神秘或準確到令人不安；句子的力道來自熟悉和陌生同時出現，心理距離被弄亂。",
+    "definition": {
+      "summary": "形容某事異常、神秘或準確到令人不安。常見語境會讓熟悉和陌生同時出現，心理距離被弄亂變得清楚。",
+      "contrast": {
+        "word": "Strange",
+        "note": "<code>strange</code> 很廣；uncanny 特別像 familiar-but-wrong 的詭異感。"
+      },
+      "flow": [
+        "熟悉輪廓出現",
+        "細節不對勁",
+        "不安感升起"
+      ]
+    },
+    "origin": {
+      "history": "<code>uncanny</code> 字源依 Online Etymology Dictionary；來源段落記錄：1590s, in a now-obsolete meaning \"mischievous, malicious;\" also in 17c., \"careless, incautious; unreliable, not to be trusted,\" from un- (1) \"not\" + canny (q.v.) in its old Scots and Northern English sense of \"skillful, prudent, lucky\" (it is a doublet of cunning ).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>uncanny</code> 想成一張幾乎像真人的臉，但眼神有一點點不對。",
+      "explanation": "這個畫面保留的是熟悉和陌生同時出現，心理距離被弄亂，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "相似",
+        "body": "He has an <code>uncanny</code> resemblance to his grandfather."
+      },
+      {
+        "label": "AI / 介面",
+        "body": "模型回覆太像真人時，有時會帶來 <code>uncanny</code> feeling，而不是單純驚喜。"
+      }
+    ],
+    "collocations": {
+      "note": "Uncanny 的自然搭配多半讓熟悉和陌生同時出現，心理距離被弄亂具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "uncanny resemblance",
+          "register": "日常 / 敘事",
+          "note": "相似到讓人不安或驚訝。"
+        },
+        {
+          "phrase": "uncanny ability",
+          "register": "評論 / 傳記",
+          "note": "能力準確得像超出一般解釋。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "熟悉得不自然，讓人感到詭異或不安",
+        "use": "適合描述熟悉和陌生同時出現，心理距離被弄亂的句子。"
+      },
+      "others": [
+        {
+          "word": "Strange",
+          "meaning": "奇怪、不尋常",
+          "use": "若只是不同尋常，用 <code>strange</code>；若像熟悉物變怪，用 uncanny。"
+        }
+      ]
+    },
+    "modernUse": [
+      "AI、robotics 和 uncanny valley 討論中，<code>uncanny</code> 抓住 near-human but unsettling 的心理反應。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/uncanny",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/uncanny",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "uncanny",
+    "word": "Uncanny",
+    "partOfSpeech": "adjective",
+    "href": "./uncanny.html",
+    "thesis": "不是只是奇怪，而是熟悉得不自然，讓人感到詭異或不安。",
+    "tags": [
+      "詭異熟悉",
+      "不自然相似",
+      "strange",
+      "uncanny resemblance",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uncanny",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/uncanny",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/uncanny",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Versatile",
+    "slug": "versatile",
+    "outputPath": "prototypes/versatile.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "VUR-suh-tuhl · UK /ˈvɜː.sə.taɪl/ · US /ˈvɝː.sə.t̬əl/",
+    "hero": {
+      "thesis": "不是只是會很多，而是能在不同用途、情境或角色之間切換而仍有效。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.35"
+    },
+    "coreIdea": "<code>versatile</code> 形容人、工具或材料多用途、適應性強；句子的力道來自能力不被單一場景鎖住。",
+    "definition": {
+      "summary": "形容人、工具或材料多用途、適應性強。常見語境會讓能力不被單一場景鎖住變得清楚。",
+      "contrast": {
+        "word": "Flexible",
+        "note": "<code>flexible</code> 強調可調整；versatile 更強調能做多種不同工作。"
+      },
+      "flow": [
+        "場景改變",
+        "能力切換",
+        "仍能發揮"
+      ]
+    },
+    "origin": {
+      "history": "<code>versatile</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1600, \"inconstant, unsteady, changeable,\" from Latin versatilis \"turning, revolving, moving, capable of turning with ease to varied subjects or tasks,\" from past-participle stem of versare \"keep turning, be engaged in something, turn over in the mind,\" frequentative of vertere \"to turn\" (from PIE root *wer- (2) \"to turn, bend\").。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>versatile</code> 想成一把工具換上不同頭，就能處理多種工作。",
+      "explanation": "這個畫面保留的是能力不被單一場景鎖住，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "工具",
+        "body": "Python is a <code>versatile</code> language for scripting, data work, and automation."
+      },
+      {
+        "label": "人才",
+        "body": "她很 <code>versatile</code>，能寫 firmware，也能把問題講給非工程團隊聽。"
+      }
+    ],
+    "collocations": {
+      "note": "Versatile 的自然搭配多半讓能力不被單一場景鎖住具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "versatile tool",
+          "register": "技術 / 日常",
+          "note": "工具能處理不同任務，不只單一用途。"
+        },
+        {
+          "phrase": "versatile performer",
+          "register": "藝術 / 職場",
+          "note": "人在多種角色裡都能發揮。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "能在不同用途、情境或角色之間切換而仍有效",
+        "use": "適合描述能力不被單一場景鎖住的句子。"
+      },
+      "others": [
+        {
+          "word": "Flexible",
+          "meaning": "可彎曲、可調整或有彈性",
+          "use": "若只是可調，用 <code>flexible</code>；若能多用途，用 versatile。"
+        }
+      ]
+    },
+    "modernUse": [
+      "職涯、工具和材料介紹常用 <code>versatile</code>，把 adaptability 具體化成多場景有效。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/versatile",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/versatile",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "versatile",
+    "word": "Versatile",
+    "partOfSpeech": "adjective",
+    "href": "./versatile.html",
+    "thesis": "不是只是會很多，而是能在不同用途、情境或角色之間切換而仍有效。",
+    "tags": [
+      "多用途靈活",
+      "場景切換仍有效",
+      "flexible",
+      "versatile tool",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/versatile",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/versatile",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/versatile",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

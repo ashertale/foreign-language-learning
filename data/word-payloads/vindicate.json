@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vindicate",
+    "slug": "vindicate",
+    "outputPath": "prototypes/vindicate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VIN-dih-kayt · UK /ˈvɪn.dɪ.keɪt/ · US /ˈvɪn.də.keɪt/",
+    "hero": {
+      "thesis": "不是普通證明，而是用結果或證據洗清質疑，證明原本立場站得住。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.78"
+    },
+    "coreIdea": "<code>vindicate</code> 表示證明某人清白、證實某判斷正確，或替行動辯護；句子的力道來自原本被懷疑，後來被證據翻回來。",
+    "definition": {
+      "summary": "表示證明某人清白、證實某判斷正確，或替行動辯護。常見語境會讓原本被懷疑，後來被證據翻回來變得清楚。",
+      "contrast": {
+        "word": "Justify",
+        "note": "<code>justify</code> 可指提出理由；vindicate 更像事後證明質疑者錯了。"
+      },
+      "flow": [
+        "質疑存在",
+        "證據出現",
+        "立場被洗清或證實"
+      ]
+    },
+    "origin": {
+      "history": "<code>vindicate</code> 字源依 Online Etymology Dictionary；來源段落記錄：1620s, \"to avenge or revenge\" (a sense now obsolete); by 1630s as \"to clear from censure or doubt by means of demonstration;\" from Latin vindicatus , past participle of vindicare \"to stake a claim; to liberate; to act as avenger\" (see vindication ). Also sometimes in English \"assert, lay claim to\" (1640s). Related: Vindicated , vindicating .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vindicate</code> 想成雨後腳印證明原本被懷疑的人根本不在現場。",
+      "explanation": "這個畫面保留的是原本被懷疑，後來被證據翻回來，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "判斷",
+        "body": "The later data <code>vindicated</code> her cautious forecast."
+      },
+      {
+        "label": "工程",
+        "body": "那次壓測 <code>vindicated</code> 提前重構 cache 的決定。"
+      }
+    ],
+    "collocations": {
+      "note": "Vindicate 的自然搭配多半讓原本被懷疑，後來被證據翻回來具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vindicate a decision",
+          "register": "商務 / 評論",
+          "note": "結果證明原先決策是對的。"
+        },
+        {
+          "phrase": "feel vindicated",
+          "register": "日常 / 新聞",
+          "note": "被質疑後，證據讓人覺得終於被還清。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用結果或證據洗清質疑，證明原本立場站得住",
+        "use": "適合描述原本被懷疑，後來被證據翻回來的句子。"
+      },
+      "others": [
+        {
+          "word": "Justify",
+          "meaning": "提供理由使某事合理",
+          "use": "若只是說明理由，用 <code>justify</code>；若洗清或證實，用 vindicate。"
+        }
+      ]
+    },
+    "modernUse": [
+      "資料回來後常會 <code>vindicate</code> 或推翻早期判斷，這個字很適合 retrospective analysis。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vindicate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vindicate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vindicate",
+    "word": "Vindicate",
+    "partOfSpeech": "verb",
+    "href": "./vindicate.html",
+    "thesis": "不是普通證明，而是用結果或證據洗清質疑，證明原本立場站得住。",
+    "tags": [
+      "證明清白正確",
+      "質疑被翻回",
+      "justify",
+      "feel vindicated",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vindicate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vindicate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vindicate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

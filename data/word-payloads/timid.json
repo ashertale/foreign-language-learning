@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Timid",
+    "slug": "timid",
+    "outputPath": "prototypes/timid.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TIM-id · UK /ˈtɪm.ɪd/ · US /ˈtɪm.ɪd/",
+    "hero": {
+      "thesis": "不是只是安靜，而是因為怕錯、怕衝突或怕風險而不敢伸展。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.08"
+    },
+    "coreIdea": "<code>timid</code> 形容人、行動或設計缺乏膽量，顯得退縮；句子的力道來自能力未必不足，但行動被害怕縮小。",
+    "definition": {
+      "summary": "形容人、行動或設計缺乏膽量，顯得退縮。常見語境會讓能力未必不足，但行動被害怕縮小變得清楚。",
+      "contrast": {
+        "word": "Shy",
+        "note": "<code>shy</code> 多指社交害羞；timid 可指決策、政策或設計太保守。"
+      },
+      "flow": [
+        "風險出現",
+        "身體或決策退後",
+        "行動縮小"
+      ]
+    },
+    "origin": {
+      "history": "<code>timid</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"fearful, easily alarmed,\" 1540s, from French timide \"easily frightened, shy\" (16c.) and directly from Latin timidus \"fearful, afraid, cowardly,\" from timere \"to fear,\" a word of uncertain origin. Related: Timidly ; timidness .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>timid</code> 想成本來可以走大步，卻只用腳尖試探地面。",
+      "explanation": "這個畫面保留的是能力未必不足，但行動被害怕縮小，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "個性",
+        "body": "The new intern was <code>timid</code> at first but became sharper once trust formed."
+      },
+      {
+        "label": "設計",
+        "body": "這版 redesign 太 <code>timid</code>，只挪動按鈕，沒有解決使用者真正卡住的地方。"
+      }
+    ],
+    "collocations": {
+      "note": "Timid 的自然搭配多半讓能力未必不足，但行動被害怕縮小具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "timid voice",
+          "register": "敘事 / 人際",
+          "note": "聲音小而退，像怕打擾或怕被否定。"
+        },
+        {
+          "phrase": "timid approach",
+          "register": "評論 / 商務",
+          "note": "方法過於保守，不敢碰真正的風險。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "因為怕錯、怕衝突或怕風險而不敢伸展",
+        "use": "適合描述能力未必不足，但行動被害怕縮小的句子。"
+      },
+      "others": [
+        {
+          "word": "Shy",
+          "meaning": "在社交場合害羞或不自在",
+          "use": "若只談不擅交際，用 <code>shy</code>；若談不敢冒險，用 timid。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在產品和政策評論裡，<code>timid</code> 常批評 change 太小，沒有處理核心壓力。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/timid",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/timid",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "timid",
+    "word": "Timid",
+    "partOfSpeech": "adjective",
+    "href": "./timid.html",
+    "thesis": "不是只是安靜，而是因為怕錯、怕衝突或怕風險而不敢伸展。",
+    "tags": [
+      "膽怯退縮",
+      "行動被害怕縮小",
+      "shy",
+      "timid approach",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/timid",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/timid",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/timid",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Turmoil",
+    "slug": "turmoil",
+    "outputPath": "prototypes/turmoil.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "TUR-moyl · UK /ˈtɜː.mɔɪl/ · US /ˈtɝː.mɔɪl/",
+    "hero": {
+      "thesis": "不是普通問題，而是一段時間裡混亂、不安和壓力交織成的動盪。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.06"
+    },
+    "coreIdea": "<code>turmoil</code> 指混亂、動盪、焦慮或不安的局面；句子的力道來自秩序和安全感被持續打亂。",
+    "definition": {
+      "summary": "指混亂、動盪、焦慮或不安的局面。常見語境會讓秩序和安全感被持續打亂變得清楚。",
+      "contrast": {
+        "word": "Trouble",
+        "note": "<code>trouble</code> 很廣；turmoil 是更大、更持續的混亂和不安。"
+      },
+      "flow": [
+        "壓力擴散",
+        "秩序混亂",
+        "安全感下降"
+      ]
+    },
+    "origin": {
+      "history": "<code>turmoil</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"distracting confusion; tumult, disturbance, and trouble;\" 1520s, of uncertain origin, attested earlier as a verb (1510s, also turmoyle ),with no apparent corresponding word in French. Some French sources have suggested it is from an alteration of French tremouille \"mill hopper\" (a word variously explained), in reference to the hopper's constant motion to and fro. Influence from moil also is possible (OED, 1989). The verbal sense now is obsolete. Related: Turmoilous (1550s).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>turmoil</code> 想成平靜水面被很多方向同時攪動，誰也看不清下一波。",
+      "explanation": "這個畫面保留的是秩序和安全感被持續打亂，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "政治 / 商務",
+        "body": "The resignation threw the company into <code>turmoil</code>."
+      },
+      {
+        "label": "內心",
+        "body": "他答應得很快，心裡卻一片 <code>turmoil</code>，因為代價還沒被說出口。"
+      }
+    ],
+    "collocations": {
+      "note": "Turmoil 的自然搭配多半讓秩序和安全感被持續打亂具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "political turmoil",
+          "register": "新聞 / 歷史",
+          "note": "制度、權力與社會情緒都不穩。"
+        },
+        {
+          "phrase": "emotional turmoil",
+          "register": "心理 / 日常",
+          "note": "情緒混成一團，難以恢復平靜。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "一段時間裡混亂、不安和壓力交織成的動盪",
+        "use": "適合描述秩序和安全感被持續打亂的句子。"
+      },
+      "others": [
+        {
+          "word": "Trouble",
+          "meaning": "麻煩、困難或問題",
+          "use": "若只是出問題，用 <code>trouble</code>；若整體局勢失序，用 turmoil。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>turmoil</code> 常見於 financial turmoil、political turmoil，描述整個系統被不安纏住。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/turmoil",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/turmoil",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "turmoil",
+    "word": "Turmoil",
+    "partOfSpeech": "noun",
+    "href": "./turmoil.html",
+    "thesis": "不是普通問題，而是一段時間裡混亂、不安和壓力交織成的動盪。",
+    "tags": [
+      "混亂動盪",
+      "安全感下降",
+      "trouble",
+      "political turmoil",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turmoil",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/turmoil",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/turmoil",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wither",
+    "slug": "wither",
+    "outputPath": "prototypes/wither.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "WITH-er · UK /ˈwɪð.ər/ · US /ˈwɪð.ɚ/",
+    "hero": {
+      "thesis": "不是突然死亡，而是因失去水分、活力或支持而慢慢枯萎。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.69"
+    },
+    "coreIdea": "<code>wither</code> 表示植物枯萎，也可指希望、關係或能力逐漸衰退；句子的力道來自生命力被抽乾，形體慢慢收縮。",
+    "definition": {
+      "summary": "表示植物枯萎，也可指希望、關係或能力逐漸衰退。常見語境會讓生命力被抽乾，形體慢慢收縮變得清楚。",
+      "contrast": {
+        "word": "Die",
+        "note": "<code>die</code> 只說死亡；wither 描述失去活力後逐漸乾枯。"
+      },
+      "flow": [
+        "滋養減少",
+        "活力退去",
+        "形體枯縮"
+      ]
+    },
+    "origin": {
+      "history": "<code>wither</code> 字源依 Online Etymology Dictionary；來源段落記錄：of a plant, \"become dry and shriveled,\" 1530s, alteration of Middle English widderen \"dry up, lose vitality, fade\" (late 14c.), intransitive, apparently a differentiated and special use of wederen \"expose to weather\" (see weather (v.)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wither</code> 想成忘了澆水的葉子先捲起來，再慢慢失去顏色。",
+      "explanation": "這個畫面保留的是生命力被抽乾，形體慢慢收縮，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "植物",
+        "body": "The flowers <code>withered</code> in the heat."
+      },
+      {
+        "label": "組織",
+        "body": "沒有真問題和回饋，team craft 會慢慢 <code>wither</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Wither 的自然搭配多半讓生命力被抽乾，形體慢慢收縮具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "wither away",
+          "register": "敘事 / 自然",
+          "note": "慢慢枯萎或消退。"
+        },
+        {
+          "phrase": "withering criticism",
+          "register": "評論",
+          "note": "批評猛烈到像把對方的生氣抽乾。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "因失去水分、活力或支持而慢慢枯萎",
+        "use": "適合描述生命力被抽乾，形體慢慢收縮的句子。"
+      },
+      "others": [
+        {
+          "word": "Die",
+          "meaning": "死亡或停止生命",
+          "use": "若只要結果，用 <code>die</code>；若要過程的枯萎感，用 wither。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>wither</code> 常被拿來寫 skill、trust、community，如果缺乏滋養，它們不是爆掉，而是乾掉。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wither",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wither",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wither",
+    "word": "Wither",
+    "partOfSpeech": "verb",
+    "href": "./wither.html",
+    "thesis": "不是突然死亡，而是因失去水分、活力或支持而慢慢枯萎。",
+    "tags": [
+      "枯萎衰退",
+      "生命力被抽乾",
+      "die",
+      "wither away",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wither",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wither",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wither",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

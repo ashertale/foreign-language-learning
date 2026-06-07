@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Verbose",
+    "slug": "verbose",
+    "outputPath": "prototypes/verbose.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "ver-BOHS · UK /vɜːˈbəʊs/ · US /vɚˈboʊs/",
+    "hero": {
+      "thesis": "不是只是詳細，而是字太多，讓資訊被冗長包住。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.76"
+    },
+    "coreIdea": "<code>verbose</code> 形容說話、文字或輸出過於冗長；句子的力道來自多出的文字沒有增加價值，反而增加負擔。",
+    "definition": {
+      "summary": "形容說話、文字或輸出過於冗長。常見語境會讓多出的文字沒有增加價值，反而增加負擔變得清楚。",
+      "contrast": {
+        "word": "Detailed",
+        "note": "<code>detailed</code> 可以是有用的細節；verbose 是冗長到降低清晰度。"
+      },
+      "flow": [
+        "資訊可說清",
+        "文字不斷增加",
+        "清晰度被稀釋"
+      ]
+    },
+    "origin": {
+      "history": "<code>verbose</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"wordy, prolix, tediously longwinded,\" 1670s, from Latin verbosus \"full of words, wordy,\" from verbum \"word\" (see verb ). Related: Verbosely (c. 1400, verbousli ); verboseness .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>verbose</code> 想成一段 log 把真正的錯誤埋在五十行背景資訊裡。",
+      "explanation": "這個畫面保留的是多出的文字沒有增加價值，反而增加負擔，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "寫作",
+        "body": "The report was accurate but painfully <code>verbose</code>."
+      },
+      {
+        "label": "程式",
+        "body": "debug log 太 <code>verbose</code> 時，incident 期間反而找不到關鍵訊號。"
+      }
+    ],
+    "collocations": {
+      "note": "Verbose 的自然搭配多半讓多出的文字沒有增加價值，反而增加負擔具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "verbose explanation",
+          "register": "寫作 / 教學",
+          "note": "解釋太長，讀者要花力氣找重點。"
+        },
+        {
+          "phrase": "verbose output",
+          "register": "工程",
+          "note": "輸出資訊很多，可能有用，也可能淹沒重點。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "字太多，讓資訊被冗長包住",
+        "use": "適合描述多出的文字沒有增加價值，反而增加負擔的句子。"
+      },
+      "others": [
+        {
+          "word": "Detailed",
+          "meaning": "包含許多細節",
+          "use": "若細節幫助理解，用 <code>detailed</code>；若字多礙事，用 verbose。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在 CLI、logging 和文件寫作裡，<code>verbose</code> 不只是長，而是 signal-to-noise 下降。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/verbose",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/verbose",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "verbose",
+    "word": "Verbose",
+    "partOfSpeech": "adjective",
+    "href": "./verbose.html",
+    "thesis": "不是只是詳細，而是字太多，讓資訊被冗長包住。",
+    "tags": [
+      "冗長多話",
+      "字多稀釋清晰",
+      "detailed",
+      "verbose output",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/verbose",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/verbose",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/verbose",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

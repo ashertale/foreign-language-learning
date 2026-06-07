@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Venerate",
+    "slug": "venerate",
+    "outputPath": "prototypes/venerate.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VEN-uh-rayt · UK /ˈven.ər.eɪt/ · US /ˈven.ə.reɪt/",
+    "hero": {
+      "thesis": "不是普通喜歡，而是帶著敬畏和傳統重量地尊崇某人或某物。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.12"
+    },
+    "coreIdea": "<code>venerate</code> 表示尊敬、崇敬或把某人某物視為值得敬奉；句子的力道來自尊敬被提高到接近神聖或傳統權威的層次。",
+    "definition": {
+      "summary": "表示尊敬、崇敬或把某人某物視為值得敬奉。常見語境會讓尊敬被提高到接近神聖或傳統權威的層次變得清楚。",
+      "contrast": {
+        "word": "Admire",
+        "note": "<code>admire</code> 可以是欣賞；venerate 更莊重，像把對象放到高處敬奉。"
+      },
+      "flow": [
+        "對象被抬高",
+        "敬畏感形成",
+        "社群持續尊崇"
+      ]
+    },
+    "origin": {
+      "history": "<code>venerate</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"regard with respect and reverence,\" 1620s, back-formation from veneration , or else from Latin veneratus , past participle of venerari \"to reverence, worship,\" from venus (genitive veneris ) \"beauty, love, desire\" (from PIE root *wen- (1) \"to desire, strive for\"). Related: Venerated ; venerator ; venerating .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>venerate</code> 想成一張照片被放進紀念館，不是覺得好看，而是被集體敬重。",
+      "explanation": "這個畫面保留的是尊敬被提高到接近神聖或傳統權威的層次，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "文化",
+        "body": "The community <code>venerates</code> its elders."
+      },
+      {
+        "label": "技術文化",
+        "body": "有些團隊過度 <code>venerate</code> legacy architecture，反而不敢修正明顯缺陷。"
+      }
+    ],
+    "collocations": {
+      "note": "Venerate 的自然搭配多半讓尊敬被提高到接近神聖或傳統權威的層次具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "venerate ancestors",
+          "register": "文化 / 宗教",
+          "note": "尊崇祖先，常帶儀式或傳統意義。"
+        },
+        {
+          "phrase": "venerated figure",
+          "register": "歷史 / 傳記",
+          "note": "被長期尊敬、放在高位的人物。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "帶著敬畏和傳統重量地尊崇某人或某物",
+        "use": "適合描述尊敬被提高到接近神聖或傳統權威的層次的句子。"
+      },
+      "others": [
+        {
+          "word": "Admire",
+          "meaning": "欣賞、佩服或喜愛",
+          "use": "日常佩服用 <code>admire</code>；帶崇敬和儀式感時用 venerate。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>venerate</code> 可用來讚賞文化尊崇，也可批評某些 legacy 被放到不可質疑的位置。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/venerate",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/venerate",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "venerate",
+    "word": "Venerate",
+    "partOfSpeech": "verb",
+    "href": "./venerate.html",
+    "thesis": "不是普通喜歡，而是帶著敬畏和傳統重量地尊崇某人或某物。",
+    "tags": [
+      "尊崇敬奉",
+      "抬高到權威",
+      "admire",
+      "venerated figure",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/venerate",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/venerate",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/venerate",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unravel",
+    "slug": "unravel",
+    "outputPath": "prototypes/unravel.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "un-RAV-uhl · UK /ʌnˈræv.əl/ · US /ʌnˈræv.əl/",
+    "hero": {
+      "thesis": "不是只是解開，而是把糾結拆開，或讓原本成形的東西開始散掉。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.05"
+    },
+    "coreIdea": "<code>unravel</code> 表示解開線團、破解複雜事物，或使計畫、秩序逐漸瓦解；句子的力道來自結構從糾結或完整狀態變成可拆解或散開。",
+    "definition": {
+      "summary": "表示解開線團、破解複雜事物，或使計畫、秩序逐漸瓦解。常見語境會讓結構從糾結或完整狀態變成可拆解或散開變得清楚。",
+      "contrast": {
+        "word": "Solve",
+        "note": "<code>solve</code> 表示解決；unravel 更像一層層拆線，有時也指事情散掉。"
+      },
+      "flow": [
+        "線索糾結",
+        "逐層拆開",
+        "結構露出或散掉"
+      ]
+    },
+    "origin": {
+      "history": "<code>unravel</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1600, transitive, figurative, \"disentangle, separate\" as threads, from un- (2) + ravel (v.). Intransitive sense of \"be unfolded, be disentangled, come undone\" is from 1640s. \"The prefix is either reversive or intensive, according as ravel is taken to mean 'tangle' or 'untangle'\" [Century Dictionary]. The sense of \"clear from complication or difficulty, make plain\" is by 1650s. Related: Unravelled ; unravelling ; unravellment .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unravel</code> 想成毛衣的一根線被拉出，圖案開始露出也可能開始解體。",
+      "explanation": "這個畫面保留的是結構從糾結或完整狀態變成可拆解或散開，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "調查",
+        "body": "The detective slowly <code>unraveled</code> the conspiracy."
+      },
+      {
+        "label": "系統",
+        "body": "一個 config drift 讓 release plan 開始 <code>unravel</code>，每個假設都被拉開。"
+      }
+    ],
+    "collocations": {
+      "note": "Unravel 的自然搭配多半讓結構從糾結或完整狀態變成可拆解或散開具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "unravel a mystery",
+          "register": "敘事 / 調查",
+          "note": "把謎團一層層拆開。"
+        },
+        {
+          "phrase": "begin to unravel",
+          "register": "新聞 / 專案",
+          "note": "原本成形的安排開始散掉。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把糾結拆開，或讓原本成形的東西開始散掉",
+        "use": "適合描述結構從糾結或完整狀態變成可拆解或散開的句子。"
+      },
+      "others": [
+        {
+          "word": "Solve",
+          "meaning": "找出答案或處理問題",
+          "use": "若只是得到解答，用 <code>solve</code>；若要拆開複雜糾結，用 unravel。"
+        }
+      ]
+    },
+    "modernUse": [
+      "專案、政治與 debugging 都愛用 <code>unravel</code>，因為複雜問題常是被拉線拉出來的。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unravel",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unravel",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unravel",
+    "word": "Unravel",
+    "partOfSpeech": "verb",
+    "href": "./unravel.html",
+    "thesis": "不是只是解開，而是把糾結拆開，或讓原本成形的東西開始散掉。",
+    "tags": [
+      "拆解瓦解",
+      "糾結被拉開",
+      "solve",
+      "unravel a mystery",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unravel",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unravel",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unravel",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

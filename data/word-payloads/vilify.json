@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vilify",
+    "slug": "vilify",
+    "outputPath": "prototypes/vilify.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VIL-uh-fy · UK /ˈvɪl.ɪ.faɪ/ · US /ˈvɪl.ə.faɪ/",
+    "hero": {
+      "thesis": "不是普通批評，而是把某人描成壞人，讓公眾用道德厭惡看他。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.36"
+    },
+    "coreIdea": "<code>vilify</code> 表示惡意中傷、醜化或把人妖魔化；句子的力道來自批評變成道德抹黑。",
+    "definition": {
+      "summary": "表示惡意中傷、醜化或把人妖魔化。常見語境會讓批評變成道德抹黑變得清楚。",
+      "contrast": {
+        "word": "Criticize",
+        "note": "<code>criticize</code> 可以是合理批評；vilify 是把對方塑造成可憎的壞人。"
+      },
+      "flow": [
+        "對象被選中",
+        "負面形象被放大",
+        "群體厭惡被引導"
+      ]
+    },
+    "origin": {
+      "history": "<code>vilify</code> 字源依 Online Etymology Dictionary；來源段落記錄：c. 1500, vilifien , \"to lower in worth or value, consider of little value,\" from Late Latin vilificare \"to make cheap or base; to esteem of little value,\" from Latin vilis \"cheap, base\" (see vile ) + combining form of facere \"to make\" (from PIE root *dhe- \"to set, put\"). The meaning \"to abuse with slanderous language, speak evil of\" is attested from 1590s. Related: Vilified , vilifying .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vilify</code> 想成不是說某人做錯，而是在海報上把他畫成怪物。",
+      "explanation": "這個畫面保留的是批評變成道德抹黑，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "媒體",
+        "body": "The campaign tried to <code>vilify</code> its opponents."
+      },
+      {
+        "label": "職場",
+        "body": "postmortem 不該 <code>vilify</code> 某個 engineer，而要看系統怎麼允許錯誤發生。"
+      }
+    ],
+    "collocations": {
+      "note": "Vilify 的自然搭配多半讓批評變成道德抹黑具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vilify opponents",
+          "register": "政治 / 媒體",
+          "note": "把反對者塑造成壞人，而不是回應論點。"
+        },
+        {
+          "phrase": "unfairly vilified",
+          "register": "評論 / 新聞",
+          "note": "某人被不公平地醜化或妖魔化。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "把某人描成壞人，讓公眾用道德厭惡看他",
+        "use": "適合描述批評變成道德抹黑的句子。"
+      },
+      "others": [
+        {
+          "word": "Criticize",
+          "meaning": "指出缺點或表達反對",
+          "use": "若有根據地討論缺失，用 <code>criticize</code>；若是抹黑醜化，用 vilify。"
+        }
+      ]
+    },
+    "modernUse": [
+      "政治、社群和 crisis communication 常用 <code>vilify</code>，指出 blame has become character assassination。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vilify",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vilify",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vilify",
+    "word": "Vilify",
+    "partOfSpeech": "verb",
+    "href": "./vilify.html",
+    "thesis": "不是普通批評，而是把某人描成壞人，讓公眾用道德厭惡看他。",
+    "tags": [
+      "醜化中傷",
+      "道德抹黑",
+      "criticize",
+      "vilify opponents",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vilify",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vilify",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vilify",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Wry",
+    "slug": "wry",
+    "outputPath": "prototypes/wry.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "RY · UK /raɪ/ · US /raɪ/",
+    "hero": {
+      "thesis": "不是普通好笑，而是帶著乾乾的諷刺和苦笑，像看穿荒謬卻不大聲抱怨。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.68"
+    },
+    "coreIdea": "<code>wry</code> 形容幽默、表情或評論帶諷刺、扭曲或苦笑感；句子的力道來自笑意很小，但洞察很清楚。",
+    "definition": {
+      "summary": "形容幽默、表情或評論帶諷刺、扭曲或苦笑感。常見語境會讓笑意很小，但洞察很清楚變得清楚。",
+      "contrast": {
+        "word": "Funny",
+        "note": "<code>funny</code> 表示好笑；wry 是克制、帶苦味或諷刺的幽默。"
+      },
+      "flow": [
+        "荒謬被看見",
+        "情緒被壓低",
+        "小小苦笑出現"
+      ]
+    },
+    "origin": {
+      "history": "<code>wry</code> 字源依 Online Etymology Dictionary；來源段落記錄：1520s, of the neck, face, features, \"abnormally bent, distorted, somewhat twisted to one side,\" from obsolete verb wry \"to contort, to twist or turn the neck, deviate from a straight course,\" Middle English wrien , from Old English wrigian \"to turn, bend, move, go,\" from Proto-Germanic *wrig- .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>wry</code> 想成有人看著一團亂，沒有大笑，只是嘴角歪了一下。",
+      "explanation": "這個畫面保留的是笑意很小，但洞察很清楚，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "表情",
+        "body": "He gave a <code>wry</code> smile when the demo failed exactly as predicted."
+      },
+      {
+        "label": "評論",
+        "body": "那句 <code>wry</code> comment 沒罵人，卻把整個流程的荒謬說穿了。"
+      }
+    ],
+    "collocations": {
+      "note": "Wry 的自然搭配多半讓笑意很小，但洞察很清楚具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "wry smile",
+          "register": "敘事 / 人物",
+          "note": "笑裡有苦味和看穿，不是單純開心。"
+        },
+        {
+          "phrase": "wry humor",
+          "register": "評論 / 文學",
+          "note": "幽默乾、克制，常帶諷刺。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "帶著乾乾的諷刺和苦笑，像看穿荒謬卻不大聲抱怨",
+        "use": "適合描述笑意很小，但洞察很清楚的句子。"
+      },
+      "others": [
+        {
+          "word": "Funny",
+          "meaning": "使人發笑或有趣",
+          "use": "若只是好笑，用 <code>funny</code>；若有乾冷諷刺，用 wry。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在職場和技術文化裡，<code>wry</code> humor 常是人面對 recurring absurdity 的低聲反應。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/wry",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/wry",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "wry",
+    "word": "Wry",
+    "partOfSpeech": "adjective",
+    "href": "./wry.html",
+    "thesis": "不是普通好笑，而是帶著乾乾的諷刺和苦笑，像看穿荒謬卻不大聲抱怨。",
+    "tags": [
+      "乾冷諷刺",
+      "苦笑幽默",
+      "funny",
+      "wry smile",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wry",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/wry",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/wry",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

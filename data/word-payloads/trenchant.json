@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Trenchant",
+    "slug": "trenchant",
+    "outputPath": "prototypes/trenchant.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "TREN-chuhnt · UK /ˈtrentʃ.ənt/ · US /ˈtrentʃ.ənt/",
+    "hero": {
+      "thesis": "不是只是尖酸，而是批評或分析鋒利到能切開問題表面。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.18"
+    },
+    "coreIdea": "<code>trenchant</code> 形容評論、分析或批評尖銳、有力、切中要害；句子的力道來自語言像刀刃，切到真正脆弱處。",
+    "definition": {
+      "summary": "形容評論、分析或批評尖銳、有力、切中要害。常見語境會讓語言像刀刃，切到真正脆弱處變得清楚。",
+      "contrast": {
+        "word": "Sharp",
+        "note": "<code>sharp</code> 可以指任何尖銳；trenchant 多指思想或評論的鋒利。"
+      },
+      "flow": [
+        "表面說法被切開",
+        "弱點暴露",
+        "判斷變得有力"
+      ]
+    },
+    "origin": {
+      "history": "<code>trenchant</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c. (late 13c. as a surname), trenchaunt , \"cutting, sharp,\" from Old French trenchant \"cutting, sharp\" (literal and figurative), present participle of trenchier \"to cut\" (see trench (n.)). The figurative sense of \"penetrating, energetic\" is attested in English from c. 1600. Related: Trenchantly (early 14c.); trenchancy .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>trenchant</code> 想成一把薄刀切開厚厚包裝，裡面的問題突然露出來。",
+      "explanation": "這個畫面保留的是語言像刀刃，切到真正脆弱處，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "評論",
+        "body": "Her <code>trenchant</code> critique exposed the policy's hidden trade-offs."
+      },
+      {
+        "label": "設計檢討",
+        "body": "那段 review 很 <code>trenchant</code>，直接指出 flow 卡住的位置和代價。"
+      }
+    ],
+    "collocations": {
+      "note": "Trenchant 的自然搭配多半讓語言像刀刃，切到真正脆弱處具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "trenchant critique",
+          "register": "評論 / 學術",
+          "note": "批評鋒利而有根據，不只是酸。"
+        },
+        {
+          "phrase": "trenchant observation",
+          "register": "分析 / 寫作",
+          "note": "觀察切到問題核心，讓人難以閃避。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "批評或分析鋒利到能切開問題表面",
+        "use": "適合描述語言像刀刃，切到真正脆弱處的句子。"
+      },
+      "others": [
+        {
+          "word": "Sharp",
+          "meaning": "尖、快、敏銳或刺耳",
+          "use": "若只說反應快或語氣刺，用 <code>sharp</code>；若分析切中要害，用 trenchant。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>trenchant</code> 適合高品質評論，因為它把 severity 和 clarity 同時帶進來。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/trenchant",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/trenchant",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "trenchant",
+    "word": "Trenchant",
+    "partOfSpeech": "adjective",
+    "href": "./trenchant.html",
+    "thesis": "不是只是尖酸，而是批評或分析鋒利到能切開問題表面。",
+    "tags": [
+      "鋒利批評",
+      "切中要害",
+      "sharp",
+      "trenchant critique",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/trenchant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/trenchant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/trenchant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

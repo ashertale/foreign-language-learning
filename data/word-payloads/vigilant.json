@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vigilant",
+    "slug": "vigilant",
+    "outputPath": "prototypes/vigilant.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "VIJ-uh-luhnt · UK /ˈvɪdʒ.əl.ənt/ · US /ˈvɪdʒ.əl.ənt/",
+    "hero": {
+      "thesis": "不是只是小心，而是持續保持警覺，準備及早發現風險。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.98"
+    },
+    "coreIdea": "<code>vigilant</code> 形容對危險、錯誤或變化保持清醒注意；句子的力道來自注意力沒有放鬆，因為風險可能隨時出現。",
+    "definition": {
+      "summary": "形容對危險、錯誤或變化保持清醒注意。常見語境會讓注意力沒有放鬆，因為風險可能隨時出現變得清楚。",
+      "contrast": {
+        "word": "Careful",
+        "note": "<code>careful</code> 表示小心；vigilant 更像守夜般持續警戒。"
+      },
+      "flow": [
+        "風險可能出現",
+        "注意力保持清醒",
+        "異常能被早點看見"
+      ]
+    },
+    "origin": {
+      "history": "<code>vigilant</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"watchful, awake and on the alert, attentive to safety,\" late 15c., from Old French vigilant and directly from Latin vigilantem (nominative vigilans ) \"watchful, anxious, careful,\" present participle of vigilare \"to watch, keep awake, not to sleep, be watchful,\" from vigil \"watchful, awake\" (see vigil ). Related: Vigilantly .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vigilant</code> 想成夜班守衛不是看一次門，而是一整晚不讓注意力睡著。",
+      "explanation": "這個畫面保留的是注意力沒有放鬆，因為風險可能隨時出現，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "安全",
+        "body": "Admins must remain <code>vigilant</code> against phishing attempts."
+      },
+      {
+        "label": "健康 / 系統",
+        "body": "release 後前兩小時要很 <code>vigilant</code>，任何小 signal 都可能是回滾前兆。"
+      }
+    ],
+    "collocations": {
+      "note": "Vigilant 的自然搭配多半讓注意力沒有放鬆，因為風險可能隨時出現具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "remain vigilant",
+          "register": "安全 / 公共",
+          "note": "持續保持警覺，不因暫時平靜而放鬆。"
+        },
+        {
+          "phrase": "vigilant monitoring",
+          "register": "工程 / 醫療",
+          "note": "監控不是被動看板，而是準備早期發現異常。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "持續保持警覺，準備及早發現風險",
+        "use": "適合描述注意力沒有放鬆，因為風險可能隨時出現的句子。"
+      },
+      "others": [
+        {
+          "word": "Careful",
+          "meaning": "做事謹慎、避免錯誤",
+          "use": "若是一般謹慎，用 <code>careful</code>；若是持續警戒，用 vigilant。"
+        }
+      ]
+    },
+    "modernUse": [
+      "資安、醫療與 SRE 常用 <code>vigilant</code>，因為 risk detection depends on sustained attention。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vigilant",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vigilant",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vigilant",
+    "word": "Vigilant",
+    "partOfSpeech": "adjective",
+    "href": "./vigilant.html",
+    "thesis": "不是只是小心，而是持續保持警覺，準備及早發現風險。",
+    "tags": [
+      "保持警覺",
+      "風險早期發現",
+      "careful",
+      "remain vigilant",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vigilant",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vigilant",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vigilant",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

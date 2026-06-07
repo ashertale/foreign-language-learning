@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Verge",
+    "slug": "verge",
+    "outputPath": "prototypes/verge.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "VURJ · UK /vɜːdʒ/ · US /vɝːdʒ/",
+    "hero": {
+      "thesis": "不是普通邊緣，而是快要跨入某個狀態前的邊界。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "3.08"
+    },
+    "coreIdea": "<code>verge</code> 指邊緣、路邊，也常用 on the verge of 表示即將發生；句子的力道來自人或局勢已站在臨界前一刻。",
+    "definition": {
+      "summary": "指邊緣、路邊，也常用 on the verge of 表示即將發生。常見語境會讓人或局勢已站在臨界前一刻變得清楚。",
+      "contrast": {
+        "word": "Edge",
+        "note": "<code>edge</code> 是一般邊緣；verge 常帶即將跨入下一狀態的張力。"
+      },
+      "flow": [
+        "狀態逼近",
+        "站到邊界",
+        "下一步即將跨入"
+      ]
+    },
+    "origin": {
+      "history": "<code>verge</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"edge, rim,\" mid-15.; earlier \"rod, staff\" (c. 1400), which is the etymological sense of its source, Latin virga . The sense shift in late Middle English is from the notion of a rod or wand as an emblem of authority (late 14c.). Thus to be within the range of such authority was to be within the verge . \"A very curious sense development\" [Weekley].。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>verge</code> 想成腳尖已經貼到月台邊，再一步就會進入另一種狀態。",
+      "explanation": "這個畫面保留的是人或局勢已站在臨界前一刻，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "狀態",
+        "body": "The team was on the <code>verge</code> of burnout."
+      },
+      {
+        "label": "市場",
+        "body": "需求量站在 <code>verge</code> of collapse，任何壞消息都可能成為最後一推。"
+      }
+    ],
+    "collocations": {
+      "note": "Verge 的自然搭配多半讓人或局勢已站在臨界前一刻具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "on the verge of",
+          "register": "通用 / 新聞",
+          "note": "已接近某個事件或狀態發生的邊界。"
+        },
+        {
+          "phrase": "verge of collapse",
+          "register": "經濟 / 系統",
+          "note": "離崩潰很近，仍未完全倒下。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "快要跨入某個狀態前的邊界",
+        "use": "適合描述人或局勢已站在臨界前一刻的句子。"
+      },
+      "others": [
+        {
+          "word": "Edge",
+          "meaning": "物體或區域的邊界",
+          "use": "若只是位置邊界，用 <code>edge</code>；若快要發生，用 verge。"
+        }
+      ]
+    },
+    "modernUse": [
+      "新聞和商務分析常用 <code>verge</code>，因為它描寫 threshold just before crossing。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/verge",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/verge",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "verge",
+    "word": "Verge",
+    "partOfSpeech": "noun",
+    "href": "./verge.html",
+    "thesis": "不是普通邊緣，而是快要跨入某個狀態前的邊界。",
+    "tags": [
+      "臨界邊緣",
+      "即將跨入",
+      "edge",
+      "on the verge of",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/verge",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/verge",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/verge",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

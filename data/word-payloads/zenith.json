@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Zenith",
+    "slug": "zenith",
+    "outputPath": "prototypes/zenith.html"
+  },
+  "page": {
+    "partOfSpeech": "noun",
+    "pronunciation": "ZEN-ith · UK /ˈzen.ɪθ/ · US /ˈzen.ɪθ/",
+    "hero": {
+      "thesis": "不是普通高點，而是某物達到最高峰、最盛或最有力量的位置。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.55"
+    },
+    "coreIdea": "<code>zenith</code> 指天頂，也可比喻事業、權力或成就的巔峰；句子的力道來自上升到了最高點，再往上沒有空間。",
+    "definition": {
+      "summary": "指天頂，也可比喻事業、權力或成就的巔峰。常見語境會讓上升到了最高點，再往上沒有空間變得清楚。",
+      "contrast": {
+        "word": "Peak",
+        "note": "<code>peak</code> 也指高峰；zenith 更正式，常有天文或歷史巔峰感。"
+      },
+      "flow": [
+        "一路上升",
+        "抵達最高點",
+        "盛勢達到頂端"
+      ]
+    },
+    "origin": {
+      "history": "<code>zenith</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"point of the heavens directly overhead at any place,\" late 14c., zineth , from Old French cenith (Anglo-French zenith , Modern French zénith ) and directly from Medieval Latin zyneth , zymeth , cenit , senit , bungled scribal transliterations of Arabic samt \"road, path,\" abbreviation of samt ar-ras , literally \"the way over the head.\" Letter -m- misread as -ni- .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>zenith</code> 想成太陽升到正上方，影子縮到最短，力量也到最滿。",
+      "explanation": "這個畫面保留的是上升到了最高點，再往上沒有空間，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "歷史",
+        "body": "The empire reached its <code>zenith</code> under that ruler."
+      },
+      {
+        "label": "職涯",
+        "body": "那張專輯常被視為他 creative <code>zenith</code>，後面的作品都在跟它對話。"
+      }
+    ],
+    "collocations": {
+      "note": "Zenith 的自然搭配多半讓上升到了最高點，再往上沒有空間具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "reach its zenith",
+          "register": "歷史 / 評論",
+          "note": "發展到最高盛時。"
+        },
+        {
+          "phrase": "creative zenith",
+          "register": "藝術 / 傳記",
+          "note": "創作力或成就達到巔峰。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "某物達到最高峰、最盛或最有力量的位置",
+        "use": "適合描述上升到了最高點，再往上沒有空間的句子。"
+      },
+      "others": [
+        {
+          "word": "Peak",
+          "meaning": "最高點、山峰或最佳狀態",
+          "use": "日常高峰用 <code>peak</code>；正式描寫最盛時期可用 zenith。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>zenith</code> 偏正式而有高度感，適合寫 career、civilization、movement 的 highest point。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/zenith",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/zenith",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "zenith",
+    "word": "Zenith",
+    "partOfSpeech": "noun",
+    "href": "./zenith.html",
+    "thesis": "不是普通高點，而是某物達到最高峰、最盛或最有力量的位置。",
+    "tags": [
+      "巔峰頂點",
+      "最高盛時",
+      "peak",
+      "reach its zenith",
+      "noun"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/zenith",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/zenith",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/zenith",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

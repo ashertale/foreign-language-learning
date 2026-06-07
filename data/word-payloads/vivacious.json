@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vivacious",
+    "slug": "vivacious",
+    "outputPath": "prototypes/vivacious.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "vih-VAY-shus · UK /vɪˈveɪ.ʃəs/ · US /vɪˈveɪ.ʃəs/",
+    "hero": {
+      "thesis": "不是只是外向，而是活潑有生命力，讓周圍氣氛被點亮。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.45"
+    },
+    "coreIdea": "<code>vivacious</code> 形容人充滿活力、開朗、有感染力；句子的力道來自能量向外流動，帶動空氣變亮。",
+    "definition": {
+      "summary": "形容人充滿活力、開朗、有感染力。常見語境會讓能量向外流動，帶動空氣變亮變得清楚。",
+      "contrast": {
+        "word": "Lively",
+        "note": "<code>lively</code> 表示有活力；vivacious 更常形容人的明亮、靈動魅力。"
+      },
+      "flow": [
+        "能量升起",
+        "表情和聲音變亮",
+        "周圍被感染"
+      ]
+    },
+    "origin": {
+      "history": "<code>vivacious</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"having vigorous powers of life, long-lived,\" 1650s, from Latin vivax (genitive vivacis ) \"lively, vigorous,\" from vivere \"to live\" (see vivid ) + -ous . Hence \"lively, active, characterized by sprightliness\" (by 1640s in English). Related: Vivaciously .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vivacious</code> 想成有人一進房間，燈好像沒有變亮，但大家的聲音都醒了。",
+      "explanation": "這個畫面保留的是能量向外流動，帶動空氣變亮，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "人物",
+        "body": "Her <code>vivacious</code> presence made the panel feel less formal."
+      },
+      {
+        "label": "品牌語氣",
+        "body": "這個品牌文案想要 <code>vivacious</code>，但不能變成吵鬧或幼稚。"
+      }
+    ],
+    "collocations": {
+      "note": "Vivacious 的自然搭配多半讓能量向外流動，帶動空氣變亮具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vivacious personality",
+          "register": "人物描寫",
+          "note": "人格明亮、活潑，能感染他人。"
+        },
+        {
+          "phrase": "vivacious energy",
+          "register": "表演 / 品牌",
+          "note": "能量向外散發，帶有快樂和生命感。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "活潑有生命力，讓周圍氣氛被點亮",
+        "use": "適合描述能量向外流動，帶動空氣變亮的句子。"
+      },
+      "others": [
+        {
+          "word": "Lively",
+          "meaning": "活潑、有生氣",
+          "use": "若只是活動多，用 <code>lively</code>；若人格能點亮氣氛，用 vivacious。"
+        }
+      ]
+    },
+    "modernUse": [
+      "品牌、表演和人物側寫會用 <code>vivacious</code>，把 lively energy 和 charm 放在一起。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vivacious",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vivacious",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vivacious",
+    "word": "Vivacious",
+    "partOfSpeech": "adjective",
+    "href": "./vivacious.html",
+    "thesis": "不是只是外向，而是活潑有生命力，讓周圍氣氛被點亮。",
+    "tags": [
+      "活潑有魅力",
+      "點亮氣氛",
+      "lively",
+      "vivacious personality",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vivacious",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vivacious",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vivacious",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Vex",
+    "slug": "vex",
+    "outputPath": "prototypes/vex.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "VEKS · UK /veks/ · US /veks/",
+    "hero": {
+      "thesis": "不是普通惹怒，而是用小而持續的麻煩讓人煩躁或困擾。",
+      "cefrLevel": "C2",
+      "zipfFrequency": "2.52"
+    },
+    "coreIdea": "<code>vex</code> 表示使人煩惱、惱怒、困惑或被問題纏住；句子的力道來自困擾像小刺反覆戳人。",
+    "definition": {
+      "summary": "表示使人煩惱、惱怒、困惑或被問題纏住。常見語境會讓困擾像小刺反覆戳人變得清楚。",
+      "contrast": {
+        "word": "Annoy",
+        "note": "<code>annoy</code> 是一般惱人；vex 更書面，也可指問題難以解決地困擾人。"
+      },
+      "flow": [
+        "小麻煩出現",
+        "反覆干擾",
+        "心神被纏住"
+      ]
+    },
+    "origin": {
+      "history": "<code>vex</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., vexen , \"upset, anger;\" early 15c., \"subject to physical pain or violence; afflict in spirit,\" also \"bother, annoy, make angry by little provocations;\" from Old French vexer \"vex, harass\" (14c.), from Latin vexare \"to shake, jolt, toss violently;\" figuratively \"attack, harass, trouble, annoy,\" from vexus , collateral form of vectus , past participle of vehere \"to draw, carry\" (from PIE root *wegh- \"to go, move, transport in a vehicle\"). Related: Vexed ; vexing .。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>vex</code> 想成一根看不見的小刺卡在袖口，每次動手都提醒你它在。",
+      "explanation": "這個畫面保留的是困擾像小刺反覆戳人，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "問題",
+        "body": "The question continued to <code>vex</code> researchers."
+      },
+      {
+        "label": "日常",
+        "body": "那個偶發錯誤很 <code>vexing</code>，因為 log 永遠差一行關鍵資訊。"
+      }
+    ],
+    "collocations": {
+      "note": "Vex 的自然搭配多半讓困擾像小刺反覆戳人具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "vexing problem",
+          "register": "正式 / 工程",
+          "note": "問題持續困擾人，解法不乾脆。"
+        },
+        {
+          "phrase": "vex the mind",
+          "register": "文學 / 哲學",
+          "note": "讓心智反覆被同一件事卡住。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用小而持續的麻煩讓人煩躁或困擾",
+        "use": "適合描述困擾像小刺反覆戳人的句子。"
+      },
+      "others": [
+        {
+          "word": "Annoy",
+          "meaning": "讓人不悅或煩躁",
+          "use": "日常口語多用 <code>annoy</code>；正式或老派語氣可用 vex。"
+        }
+      ]
+    },
+    "modernUse": [
+      "<code>vex</code> 偏書面，但 vexing problem 在研究、工程和政策文章中仍很自然。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/vex",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/vex",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "vex",
+    "word": "Vex",
+    "partOfSpeech": "verb",
+    "href": "./vex.html",
+    "thesis": "不是普通惹怒，而是用小而持續的麻煩讓人煩躁或困擾。",
+    "tags": [
+      "煩擾困住",
+      "小刺反覆戳",
+      "annoy",
+      "vexing problem",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vex",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/vex",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/vex",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

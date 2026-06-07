@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unwieldy",
+    "slug": "unwieldy",
+    "outputPath": "prototypes/unwieldy.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-WEEL-dee · UK /ʌnˈwiːl.di/ · US /ʌnˈwiːl.di/",
+    "hero": {
+      "thesis": "不是只是很大，而是大、重或複雜到難以操作和控制。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.85"
+    },
+    "coreIdea": "<code>unwieldy</code> 形容物體、流程、句子或系統笨重難用；句子的力道來自尺寸或複雜度超過人的掌控能力。",
+    "definition": {
+      "summary": "形容物體、流程、句子或系統笨重難用。常見語境會讓尺寸或複雜度超過人的掌控能力變得清楚。",
+      "contrast": {
+        "word": "Large",
+        "note": "<code>large</code> 只說尺寸；unwieldy 指尺寸或結構造成操作困難。"
+      },
+      "flow": [
+        "規模變大",
+        "操作變笨",
+        "控制成本上升"
+      ]
+    },
+    "origin": {
+      "history": "<code>unwieldy</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., unweldi , \"lacking strength, powerless,\" in reference to persons, the body; from un- (1) \"not\" + obsolete wieldy , from Old English wielde \"active, vigorous,\" from Proto-Germanic *walth- \"have power\" (see wield (v.)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unwieldy</code> 想成一把太長的梯子卡在樓梯間，能用，但每一步都很難轉。",
+      "explanation": "這個畫面保留的是尺寸或複雜度超過人的掌控能力，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "物件",
+        "body": "The old camera was powerful but <code>unwieldy</code>."
+      },
+      {
+        "label": "程式",
+        "body": "那個 helper 已經變得 <code>unwieldy</code>，每次新增分支都會碰到舊假設。"
+      }
+    ],
+    "collocations": {
+      "note": "Unwieldy 的自然搭配多半讓尺寸或複雜度超過人的掌控能力具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "unwieldy system",
+          "register": "工程 / 管理",
+          "note": "系統太大或太複雜，難以維護。"
+        },
+        {
+          "phrase": "unwieldy object",
+          "register": "日常 / 物理",
+          "note": "物體不好拿、不好移動或不好控制。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "大、重或複雜到難以操作和控制",
+        "use": "適合描述尺寸或複雜度超過人的掌控能力的句子。"
+      },
+      "others": [
+        {
+          "word": "Large",
+          "meaning": "體積大、範圍大",
+          "use": "若只是大，用 <code>large</code>；若大到難處理，用 unwieldy。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在軟體和組織設計裡，<code>unwieldy</code> 很適合描述 complexity has become hard to steer。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unwieldy",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unwieldy",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unwieldy",
+    "word": "Unwieldy",
+    "partOfSpeech": "adjective",
+    "href": "./unwieldy.html",
+    "thesis": "不是只是很大，而是大、重或複雜到難以操作和控制。",
+    "tags": [
+      "笨重難控",
+      "複雜度過大",
+      "large",
+      "unwieldy system",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unwieldy",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unwieldy",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unwieldy",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

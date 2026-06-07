@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Unscathed",
+    "slug": "unscathed",
+    "outputPath": "prototypes/unscathed.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-SKAYTHD · UK /ʌnˈskeɪðd/ · US /ʌnˈskeɪðd/",
+    "hero": {
+      "thesis": "不是只是沒事，而是經過危險或壓力後沒有受傷、受損或留下明顯代價。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.76"
+    },
+    "coreIdea": "<code>unscathed</code> 形容人在危險、批評或損害中安然無恙；句子的力道來自風險真的經過，但傷害沒有落下。",
+    "definition": {
+      "summary": "形容人在危險、批評或損害中安然無恙。常見語境會讓風險真的經過，但傷害沒有落下變得清楚。",
+      "contrast": {
+        "word": "Safe",
+        "note": "<code>safe</code> 可以是原本就安全；unscathed 強調經過危險後仍未受損。"
+      },
+      "flow": [
+        "危險靠近",
+        "人或物穿過",
+        "傷害沒有留下"
+      ]
+    },
+    "origin": {
+      "history": "<code>unscathed</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"uninjured,\" late 14c., from un- (1) \"not\" + past participle of scathe (v.). Mainly attested in Scottish documents before 19c. Similar formation in Old Norse ostaðaðr , Swedish oskadad . An older word in the same sense was scatheless (c. 1200).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>unscathed</code> 想成車穿過冰雹後停下來，車身竟然沒有凹痕。",
+      "explanation": "這個畫面保留的是風險真的經過，但傷害沒有落下，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "事故",
+        "body": "The driver walked away <code>unscathed</code>."
+      },
+      {
+        "label": "評審",
+        "body": "這份 proposal 被問得很兇，但核心假設幾乎 <code>unscathed</code>。"
+      }
+    ],
+    "collocations": {
+      "note": "Unscathed 的自然搭配多半讓風險真的經過，但傷害沒有落下具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "escape unscathed",
+          "register": "新聞 / 敘事",
+          "note": "逃過危險，而且沒有明顯受傷。"
+        },
+        {
+          "phrase": "emerge unscathed",
+          "register": "評論 / 商務",
+          "note": "經過壓力或審查後仍保持完整。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "經過危險或壓力後沒有受傷、受損或留下明顯代價",
+        "use": "適合描述風險真的經過，但傷害沒有落下的句子。"
+      },
+      "others": [
+        {
+          "word": "Safe",
+          "meaning": "安全、沒有危險",
+          "use": "若沒有經過風險，用 <code>safe</code>；若是穿過風險後完好，用 unscathed。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在事故、審查和市場波動中，<code>unscathed</code> 常用來標示 risk passed but damage did not land。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/unscathed",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/unscathed",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "unscathed",
+    "word": "Unscathed",
+    "partOfSpeech": "adjective",
+    "href": "./unscathed.html",
+    "thesis": "不是只是沒事，而是經過危險或壓力後沒有受傷、受損或留下明顯代價。",
+    "tags": [
+      "安然無恙",
+      "經風險未受損",
+      "safe",
+      "escape unscathed",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unscathed",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/unscathed",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/unscathed",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

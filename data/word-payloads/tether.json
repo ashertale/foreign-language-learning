@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Tether",
+    "slug": "tether",
+    "outputPath": "prototypes/tether.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "TETH-er · UK /ˈteð.ər/ · US /ˈteð.ɚ/",
+    "hero": {
+      "thesis": "不是普通連接，而是用繩索、限制或依賴把一端固定住。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.77"
+    },
+    "coreIdea": "<code>tether</code> 表示把人、動物、設備或想法綁住，使它不能離開某個範圍；句子的力道來自連接帶有限制，讓自由移動有邊界。",
+    "definition": {
+      "summary": "表示把人、動物、設備或想法綁住，使它不能離開某個範圍。常見語境會讓連接帶有限制，讓自由移動有邊界變得清楚。",
+      "contrast": {
+        "word": "Attach",
+        "note": "<code>attach</code> 只說接上；tether 暗示被拴住或受範圍限制。"
+      },
+      "flow": [
+        "一端被固定",
+        "可動範圍縮小",
+        "依賴或限制形成"
+      ]
+    },
+    "origin": {
+      "history": "<code>tether</code> 字源依 Online Etymology Dictionary；來源段落記錄：late 14c., teder , tether , \"rope for fastening an animal to a fixed point,\" not found in Old English, probably from a Scandinavian source akin to Old Norse tjoðr \"tether,\" from Proto-Germanic *teudran (source also of Danish tøir , Old Swedish tiuther , Swedish tjuder , Old Frisian tiader , Middle Dutch tuder , Dutch tuier \"line, rope,\" Old High German zeotar \"pole of a cart\"), from PIE root *deu- \"to fasten\" + instrumentive suffix *-tro- . Figurative sense of \"measure of one's limitations\" is attested from 1570s.。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>tether</code> 想成狗繩不是阻止所有移動，而是把移動圈在半徑裡。",
+      "explanation": "這個畫面保留的是連接帶有限制，讓自由移動有邊界，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "實體",
+        "body": "The sensor was <code>tethered</code> to the test rig during calibration."
+      },
+      {
+        "label": "抽象",
+        "body": "價格策略若完全 <code>tethered</code> to competitor moves，就很難形成自己的節奏。"
+      }
+    ],
+    "collocations": {
+      "note": "Tether 的自然搭配多半讓連接帶有限制，讓自由移動有邊界具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "tethered to",
+          "register": "通用 / 技術",
+          "note": "接到某物上，也受它牽制。"
+        },
+        {
+          "phrase": "tethered device",
+          "register": "工程 / 醫療",
+          "note": "設備靠線、管或固定點運作，行動自由有限。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "用繩索、限制或依賴把一端固定住",
+        "use": "適合描述連接帶有限制，讓自由移動有邊界的句子。"
+      },
+      "others": [
+        {
+          "word": "Attach",
+          "meaning": "把東西接到另一物上",
+          "use": "若連接不限制行動，用 <code>attach</code>；若有拴住感，用 tether。"
+        }
+      ]
+    },
+    "modernUse": [
+      "科技語境裡，<code>tether</code> 可寫 device、data plan、dependency，把連接與限制一起說清楚。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/tether",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/tether",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "tether",
+    "word": "Tether",
+    "partOfSpeech": "verb",
+    "href": "./tether.html",
+    "thesis": "不是普通連接，而是用繩索、限制或依賴把一端固定住。",
+    "tags": [
+      "拴住連接",
+      "自由受限",
+      "attach",
+      "tethered to",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tether",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/tether",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/tether",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

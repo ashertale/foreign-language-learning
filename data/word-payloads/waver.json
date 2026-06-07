@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Waver",
+    "slug": "waver",
+    "outputPath": "prototypes/waver.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "WAY-ver · UK /ˈweɪ.vər/ · US /ˈweɪ.vɚ/",
+    "hero": {
+      "thesis": "不是普通改變心意，而是信心、聲音或決心開始搖晃。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.84"
+    },
+    "coreIdea": "<code>waver</code> 表示猶豫、搖擺、變得不穩，也可指聲音顫動；句子的力道來自穩定還沒完全失去，但已開始晃。",
+    "definition": {
+      "summary": "表示猶豫、搖擺、變得不穩，也可指聲音顫動。常見語境會讓穩定還沒完全失去，但已開始晃變得清楚。",
+      "contrast": {
+        "word": "Hesitate",
+        "note": "<code>hesitate</code> 是遲疑；waver 帶有決心或聲音搖晃的動態。"
+      },
+      "flow": [
+        "信念站著",
+        "壓力吹來",
+        "穩定開始晃"
+      ]
+    },
+    "origin": {
+      "history": "<code>waver</code> 字源依 Online Etymology Dictionary；來源段落記錄：mid-14c., wayveren , of persons, faith, \"be irresolute, show indecision,\" probably from a Scandinavian word related to Old English wæfre \"restless, wavering,\" from Proto-Germanic *wæbraz (source also of Middle High German wabern \"to waver,\" Old Norse vafra \"to hover about\"), a frequentative form from the root of wave (v.), with Germanic verbal suffix indicating repeated or diminutive action (see -er (4)).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>waver</code> 想成燭火被風吹得左右晃，還沒熄，但已不穩。",
+      "explanation": "這個畫面保留的是穩定還沒完全失去，但已開始晃，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "決心",
+        "body": "Her commitment did not <code>waver</code> under pressure."
+      },
+      {
+        "label": "聲音",
+        "body": "他報告到風險段落時 voice <code>wavered</code>，大家立刻聽出不確定。"
+      }
+    ],
+    "collocations": {
+      "note": "Waver 的自然搭配多半讓穩定還沒完全失去，但已開始晃具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "waver under pressure",
+          "register": "職場 / 敘事",
+          "note": "壓力下決心或信心開始動搖。"
+        },
+        {
+          "phrase": "voice wavers",
+          "register": "描寫 / 演講",
+          "note": "聲音顫動，透露情緒或不確定。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "信心、聲音或決心開始搖晃",
+        "use": "適合描述穩定還沒完全失去，但已開始晃的句子。"
+      },
+      "others": [
+        {
+          "word": "Hesitate",
+          "meaning": "停頓或不敢立刻決定",
+          "use": "若只是暫停，用 <code>hesitate</code>；若信心開始搖晃，用 waver。"
+        }
+      ]
+    },
+    "modernUse": [
+      "談 leadership、market confidence 或 public messaging 時，<code>waver</code> 能寫出 confidence becoming unstable。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/waver",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/waver",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "waver",
+    "word": "Waver",
+    "partOfSpeech": "verb",
+    "href": "./waver.html",
+    "thesis": "不是普通改變心意，而是信心、聲音或決心開始搖晃。",
+    "tags": [
+      "動搖搖晃",
+      "信心不穩",
+      "hesitate",
+      "waver under pressure",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/waver",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/waver",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/waver",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Yield",
+    "slug": "yield",
+    "outputPath": "prototypes/yield.html"
+  },
+  "page": {
+    "partOfSpeech": "verb",
+    "pronunciation": "YEELD · UK /jiːld/ · US /jiːld/",
+    "hero": {
+      "thesis": "不是只有產出，而是在壓力、權利或條件下讓出、屈服，或產生結果。",
+      "cefrLevel": "B2",
+      "zipfFrequency": "3.82"
+    },
+    "coreIdea": "<code>yield</code> 表示讓步、讓路、屈服，也可指產出收成或結果；句子的力道來自力量被交出，或結果被產出。",
+    "definition": {
+      "summary": "表示讓步、讓路、屈服，也可指產出收成或結果。常見語境會讓力量被交出，或結果被產出變得清楚。",
+      "contrast": {
+        "word": "Produce",
+        "note": "<code>produce</code> 只指產出；yield 還可指讓步、讓路和屈服。"
+      },
+      "flow": [
+        "壓力或條件出現",
+        "一方讓出或結果生成",
+        "局面有新輸出"
+      ]
+    },
+    "origin": {
+      "history": "<code>yield</code> 字源依 Online Etymology Dictionary；來源段落記錄：Middle English yelden , \"relinquish involuntarily; submit to another's direction or rule; surrender to a foe;\" from Old English gieldan (West Saxon), geldan (Anglian) \"to pay, pay for; reward, render; worship, serve, sacrifice to\" (class III strong verb; past tense geald , past participle golden ), from Proto-Germanic *geldan \"pay.\"。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>yield</code> 想成路口的 yield sign 不是停到底，而是把優先權讓出去。",
+      "explanation": "這個畫面保留的是力量被交出，或結果被產出，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "交通 / 權利",
+        "body": "Drivers must <code>yield</code> to pedestrians."
+      },
+      {
+        "label": "資料",
+        "body": "這個 experiment <code>yielded</code> useful signal，但還不足以定案。"
+      }
+    ],
+    "collocations": {
+      "note": "Yield 的自然搭配多半讓力量被交出，或結果被產出具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "yield results",
+          "register": "研究 / 商務",
+          "note": "努力或實驗產生可看的結果。"
+        },
+        {
+          "phrase": "yield to pressure",
+          "register": "政治 / 人際",
+          "note": "在壓力下退讓或屈服。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "在壓力、權利或條件下讓出、屈服，或產生結果",
+        "use": "適合描述力量被交出，或結果被產出的句子。"
+      },
+      "others": [
+        {
+          "word": "Produce",
+          "meaning": "製造、產生或輸出",
+          "use": "若只談輸出結果，用 <code>produce</code>；若有讓步或收成感，用 yield。"
+        }
+      ]
+    },
+    "modernUse": [
+      "研究、金融和交通都用 <code>yield</code>，要靠語境分辨是 output、return，還是 giving way。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/yield",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/yield",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "yield",
+    "word": "Yield",
+    "partOfSpeech": "verb",
+    "href": "./yield.html",
+    "thesis": "不是只有產出，而是在壓力、權利或條件下讓出、屈服，或產生結果。",
+    "tags": [
+      "讓步產出",
+      "交出優先權",
+      "produce",
+      "yield results",
+      "verb"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/yield",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/yield",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/yield",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}

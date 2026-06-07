@@ -1,0 +1,130 @@
+{
+  "target": {
+    "word": "Zealous",
+    "slug": "zealous",
+    "outputPath": "prototypes/zealous.html"
+  },
+  "page": {
+    "partOfSpeech": "adjective",
+    "pronunciation": "ZEL-us · UK /ˈzel.əs/ · US /ˈzel.əs/",
+    "hero": {
+      "thesis": "不是只是熱心，而是對信念、任務或目標投入強烈熱情，甚至可能過度。",
+      "cefrLevel": "C1",
+      "zipfFrequency": "2.54"
+    },
+    "coreIdea": "<code>zealous</code> 形容熱忱、熱切、積極投入，常帶強烈信念；句子的力道來自熱情有方向，而且可能推得很用力。",
+    "definition": {
+      "summary": "形容熱忱、熱切、積極投入，常帶強烈信念。常見語境會讓熱情有方向，而且可能推得很用力變得清楚。",
+      "contrast": {
+        "word": "Enthusiastic",
+        "note": "<code>enthusiastic</code> 表示熱情；zealous 更強，常帶信念、使命或過度積極。"
+      },
+      "flow": [
+        "信念點燃",
+        "行動變積極",
+        "力道可能過界"
+      ]
+    },
+    "origin": {
+      "history": "<code>zealous</code> 字源依 Online Etymology Dictionary；來源段落記錄：\"full of or incited by zeal\" (in the service of a person or cause), 1520s, from Medieval Latin zelosus \"full of zeal\" (source of Italian zeloso , Spanish celoso ), from zelus (see zeal ).。這裡只把這段資料當作字源線索，現代用法仍以本頁定義與詞典義為準。",
+      "memoryLens": ""
+    },
+    "memory": {
+      "hook": "把 <code>zealous</code> 想成火炬本來照路，但拿太近也會燙到人。",
+      "explanation": "這個畫面保留的是熱情有方向，而且可能推得很用力，不是單純把中文意思套上去。"
+    },
+    "usage": [
+      {
+        "label": "正面",
+        "body": "The volunteers were <code>zealous</code> in protecting the wetlands."
+      },
+      {
+        "label": "提醒",
+        "body": "過於 <code>zealous</code> 的 lint rule 會把團隊注意力從重要設計拉走。"
+      }
+    ],
+    "collocations": {
+      "note": "Zealous 的自然搭配多半讓熱情有方向，而且可能推得很用力具體化，而不是只替名詞加強語氣。",
+      "items": [
+        {
+          "phrase": "zealous advocate",
+          "register": "法律 / 政治",
+          "note": "積極替某立場辯護，常帶使命感。"
+        },
+        {
+          "phrase": "overzealous enforcement",
+          "register": "政策 / 工程",
+          "note": "執行太熱切，可能超過原本目的。"
+        }
+      ]
+    },
+    "neighbors": {
+      "self": {
+        "meaning": "對信念、任務或目標投入強烈熱情，甚至可能過度",
+        "use": "適合描述熱情有方向，而且可能推得很用力的句子。"
+      },
+      "others": [
+        {
+          "word": "Enthusiastic",
+          "meaning": "熱情、興奮、積極",
+          "use": "一般開心投入用 <code>enthusiastic</code>；帶使命感和強推力用 zealous。"
+        }
+      ]
+    },
+    "modernUse": [
+      "在法律、政策和工程規範裡，<code>zealous</code> 既可稱讚投入，也可提醒 enthusiasm can overrun judgment。"
+    ],
+    "sources": {
+      "dictionary": {
+        "note": "定義、發音與核心義以 Merriam-Webster 為對照基準。",
+        "url": "https://www.merriam-webster.com/dictionary/zealous",
+        "label": "Merriam-Webster"
+      },
+      "modern": {
+        "note": "現代例句與搭配邊界以 Merriam-Webster 條目校準。",
+        "url": "https://www.merriam-webster.com/dictionary/zealous",
+        "label": "Merriam-Webster"
+      }
+    }
+  },
+  "indexEntry": {
+    "id": "zealous",
+    "word": "Zealous",
+    "partOfSpeech": "adjective",
+    "href": "./zealous.html",
+    "thesis": "不是只是熱心，而是對信念、任務或目標投入強烈熱情，甚至可能過度。",
+    "tags": [
+      "熱切投入",
+      "信念推力",
+      "enthusiastic",
+      "overzealous",
+      "adjective"
+    ]
+  },
+  "sourceAudit": [
+    {
+      "category": "dictionary-pronunciation",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/zealous",
+      "usedFor": "definition, pronunciation, and dictionary sense support"
+    },
+    {
+      "category": "level-frequency",
+      "label": "wordfreq Zipf + repo CEFR calibration",
+      "url": "https://github.com/rspeer/wordfreq",
+      "usedFor": "Zipf frequency reference and repo-calibrated CEFR study band"
+    },
+    {
+      "category": "etymology-history",
+      "label": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/zealous",
+      "usedFor": "etymology and word-history support"
+    },
+    {
+      "category": "modern-common-usage",
+      "label": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/zealous",
+      "usedFor": "modern usage examples and current usage boundaries"
+    }
+  ]
+}
